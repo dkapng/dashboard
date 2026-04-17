@@ -1,0 +1,15 @@
+{
+  "name": "ventana-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard Operacional Ventana Comunicação",
+  "main": "sync-notion.js",
+  "scripts": {
+    "sync": "node sync-notion.js"
+  },
+  "keywords": [],
+  "author": "Antigravity",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}

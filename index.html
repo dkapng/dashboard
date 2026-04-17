@@ -1,0 +1,1461 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard Operacional · Ventana · Abril 2026</title>
+<meta name="robots" content="noindex, nofollow">
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@700&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #E8F0FF;
+  --bg-darker: #D8D7ED;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f0f4ff;
+  --border: #D8D7ED;
+  --text: #48004F;
+  --text-muted: #610361;
+  --text-dim: #7c6880;
+  --accent: #C210AA;
+  --accent-soft: rgba(194, 16, 170, 0.08);
+  --green: #2da44e;
+  --green-soft: rgba(45, 164, 78, 0.1);
+  --yellow: #b58000;
+  --yellow-light: #FFE878;
+  --yellow-soft: rgba(181, 128, 0, 0.1);
+  --red: #cf222e;
+  --red-soft: rgba(207, 34, 46, 0.1);
+  --orange: #d9730d;
+  --orange-soft: rgba(217, 115, 13, 0.1);
+  --blue: #0969da;
+  --blue-soft: rgba(9, 105, 218, 0.1);
+  --radius: 14px;
+  --radius-sm: 10px;
+  --shadow: 0 4px 24px rgba(72, 0, 79, 0.08);
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background: var(--bg);
+  background-image: radial-gradient(circle at 1px 1px, rgba(72,0,79,0.03) 1px, transparent 0);
+  background-size: 24px 24px;
+  color: var(--text);
+  line-height: 1.5;
+  min-height: 100vh;
+  letter-spacing: -0.02em;
+}
+
+h1, h2, h3, .brand-ventana { 
+  font-family: 'Antonio', sans-serif; 
+  text-transform: lowercase; 
+  letter-spacing: -0.06em; 
+  font-weight: 700;
+}
+
+.container { max-width: 1320px; margin: 0 auto; padding: 24px 20px; }
+
+/* HEADER */
+.header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 40px; flex-wrap: wrap; gap: 20px;
+  padding: 20px; background: rgba(255,255,255,0.03); border-radius: 16px; border: 1px solid var(--border);
+}
+
+.logo-container { display: flex; align-items: center; gap: 16px; }
+.logo-img { height: 60px; width: auto; display: block; }
+
+.header-meta { 
+  font-size: 0.85rem; color: var(--text-muted); font-weight: 500; 
+  display: flex; align-items: center; gap: 12px;
+}
+.update-badge {
+  background: var(--accent-soft); color: var(--accent); padding: 4px 10px; border-radius: 8px; font-weight: 700;
+  display: flex; align-items: center; gap: 6px; border: 1px solid rgba(194,16,170,0.1);
+}
+.update-dot { width: 6px; height: 6px; background: var(--accent); border-radius: 50%; animation: pulse 2s infinite; }
+@keyframes pulse { 0% { opacity:1; } 50% { opacity:0.3; } 100% { opacity:1; } }
+
+.btn-sync {
+  background: var(--accent); color: white; border: none; padding: 6px 14px; border-radius: 8px;
+  font-family: 'Roboto Condensed', sans-serif; font-weight: 700; font-size: 0.75rem; 
+  cursor: pointer; transition: all 0.2s; text-decoration: none; display: flex; align-items: center; gap: 6px;
+}
+.btn-sync:hover { filter: brightness(1.1); transform: translateY(-1px); }
+
+/* ALERTS BAR */
+.alerts-bar {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+.alert-chip {
+  display: flex; align-items: center; gap: 6px;
+  padding: 8px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;
+  cursor: pointer; transition: all 0.2s; user-select: none;
+}
+.alert-chip:hover { filter: brightness(1.15); transform: translateY(-1px); }
+.alert-chip.red { background: var(--red-soft); color: var(--red); border: 1px solid rgba(207, 34, 46, 0.2); }
+.alert-chip.yellow { background: var(--yellow-soft); color: var(--yellow); border: 1px solid rgba(181, 128, 0, 0.2); }
+.alert-chip.green { background: var(--green-soft); color: var(--green); border: 1px solid rgba(45, 164, 78, 0.2); }
+
+/* DONUTS ROW */
+.donuts-section { margin-bottom: 32px; }
+.donuts-section h2 { font-size: 1.1rem; margin-bottom: 16px; color: var(--text-muted); font-weight: 400; }
+.donuts-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px;
+}
+.donut-card {
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 20px 16px; text-align: center; transition: all 0.2s;
+}
+.donut-card:hover { border-color: var(--accent); background: var(--bg-card-hover); }
+.donut-wrap { position: relative; width: 90px; height: 90px; margin: 0 auto 10px; }
+.donut-wrap svg { transform: rotate(-90deg); }
+.donut-wrap .donut-label {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
+  font-size: 1.1rem; font-weight: 700; color: var(--text);
+}
+.donut-card .donut-title { font-size: 0.78rem; color: var(--text-muted); font-weight: 500; }
+.donut-card .donut-detail { font-size: 0.7rem; color: var(--text-dim); margin-top: 2px; }
+
+/* READINESS BAR */
+.readiness-section { margin-bottom: 28px; }
+.readiness-section h2 { font-size: 1.1rem; margin-bottom: 12px; color: var(--text-muted); font-weight: 400; }
+.readiness-grid { display: flex; gap: 10px; flex-wrap: wrap; }
+.readiness-item {
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 10px 14px; font-size: 0.8rem; display: flex; align-items: center; gap: 8px;
+  flex: 1; min-width: 200px;
+}
+.readiness-item .status-dot {
+  width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+}
+.readiness-item .status-dot.ok { background: var(--green); box-shadow: 0 0 6px var(--green); }
+.readiness-item .status-dot.warn { background: var(--yellow); box-shadow: 0 0 6px var(--yellow); }
+.readiness-item .status-dot.miss { background: var(--red); box-shadow: 0 0 6px var(--red); }
+.readiness-item .ri-client { font-weight: 600; color: var(--text); }
+.readiness-item .ri-info { color: var(--text-muted); font-size: 0.75rem; }
+
+/* SEASONAL ALERTS */
+.seasonal-section { margin-bottom: 28px; }
+.seasonal-section h2 { font-size: 1.1rem; margin-bottom: 12px; color: var(--text-muted); font-weight: 400; }
+.seasonal-grid { display: flex; gap: 10px; flex-wrap: wrap; }
+.seasonal-card {
+  background: var(--yellow-soft); border: 1px solid rgba(245,197,66,0.25);
+  border-radius: var(--radius-sm); padding: 12px 16px; flex: 1; min-width: 260px;
+}
+.seasonal-card .sc-date { font-size: 0.75rem; color: var(--yellow); font-weight: 600; }
+.seasonal-card .sc-event { font-size: 0.85rem; color: var(--text); margin-top: 2px; }
+.seasonal-card .sc-clients { font-size: 0.75rem; color: var(--text-muted); margin-top: 4px; }
+.seasonal-card.urgent { background: var(--red-soft); border-color: rgba(239,95,95,0.25); }
+.seasonal-card.urgent .sc-date { color: var(--red); }
+
+/* CLIENT ROWS */
+.clients-grid {
+  display: flex; flex-direction: column; gap: 8px;
+}
+
+
+.cc-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+.cc-tag {
+  font-size: 0.65rem; padding: 4px 10px; border-radius: 6px; font-weight: 700;
+  text-transform: lowercase; letter-spacing: 0.02em;
+}
+.cc-tag.ok { background: var(--green-soft); color: var(--green); }
+.cc-tag.pending { background: var(--yellow-soft); color: var(--yellow); }
+.cc-tag.missing { background: var(--red-soft); color: var(--red); }
+.cc-tag.info { background: var(--blue-soft); color: var(--blue); }
+
+/* FORMAT PILLS GRID */
+.fmt-grid {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin-bottom: 10px;
+}
+.fmt-pill {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 6px 4px; gap: 2px; transition: all 0.2s;
+}
+.fmt-pill.done { border-color: rgba(62,207,142,0.35); background: var(--green-soft); }
+.fmt-pill.pend { border-color: rgba(245,197,66,0.35); background: var(--yellow-soft); }
+.fmt-emoji { font-size: 0.9rem; line-height: 1; }
+.fmt-label { font-size: 0.6rem; color: var(--text-dim); font-weight: 500; }
+.fmt-val { font-size: 0.95rem; font-weight: 700; color: var(--text); line-height: 1; }
+
+/* DEMANDAS SECTION */
+.demandas-section { margin-bottom: 32px; }
+.demandas-section h2 { font-size: 1.1rem; margin-bottom: 16px; color: var(--text-muted); font-weight: 400; }
+.demandas-client-group {
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
+  margin-bottom: 12px; overflow: hidden;
+}
+.dcg-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 18px; cursor: pointer; transition: background 0.2s;
+}
+.dcg-header:hover { background: var(--bg-card-hover); }
+.dcg-header .dcg-name { 
+  font-family: 'Antonio', sans-serif; 
+  font-weight: 700; 
+  font-size: 1.1rem; 
+  text-transform: lowercase;
+  letter-spacing: -0.04em;
+}
+.dcg-header .dcg-count {
+  font-size: 0.72rem; padding: 4px 12px; border-radius: 20px;
+  background: var(--accent); color: white; font-weight: 700;
+}
+.dcg-body { padding: 0 18px 14px; display: none; }
+.dcg-body.open { display: block; }
+.demanda-item {
+  display: flex; align-items: center; gap: 10px; padding: 8px 0;
+  border-bottom: 1px solid var(--border); font-size: 0.82rem;
+}
+.demanda-item:last-child { border-bottom: none; }
+.demanda-item .di-priority {
+  font-size: 0.65rem; font-weight: 700; padding: 2px 6px; border-radius: 4px;
+}
+.di-priority.pppp { background: var(--red-soft); color: var(--red); }
+.di-priority.ppp { background: var(--orange-soft); color: var(--orange); }
+.di-priority.pp { background: var(--yellow-soft); color: var(--yellow); }
+.demanda-item .di-title { flex: 1; color: var(--text); }
+.demanda-item .di-gestora { font-size: 0.7rem; color: var(--text-dim); }
+.demanda-item .di-date { font-size: 0.7rem; color: var(--text-muted); }
+
+/* MODAL */
+.modal-overlay {
+  display: none; position: fixed; top:0; left:0; width:100%; height:100%;
+  background: rgba(0,0,0,0.7); z-index: 1000; align-items: center; justify-content: center;
+  backdrop-filter: blur(4px);
+}
+.modal-overlay.active { display: flex; }
+.modal {
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 28px; max-width: 700px; width: 90%; max-height: 80vh; overflow-y: auto;
+}
+.modal h3 { font-size: 1.1rem; margin-bottom: 16px; }
+.modal-close {
+  float: right; background: none; border: none; color: var(--text-muted);
+  font-size: 1.3rem; cursor: pointer; padding: 0 4px;
+}
+.modal-close:hover { color: var(--text); }
+.modal-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+.modal-table th { text-align: left; padding: 8px; color: var(--text-muted); border-bottom: 1px solid var(--border); font-weight: 500; }
+.modal-table td { padding: 8px; border-bottom: 1px solid var(--border); }
+.status-badge {
+  font-size: 0.7rem; padding: 4px 10px; border-radius: 6px; font-weight: 700;
+  text-transform: lowercase; border: 1px solid transparent;
+}
+.status-badge.postado { background: var(--green-soft); color: var(--green); border-color: rgba(62,207,142,0.2); }
+.status-badge.agendado { background: var(--accent-soft); color: var(--accent); border-color: rgba(194,16,170,0.2); }
+.status-badge.agendado-coord { background: var(--green-soft); color: var(--green); border: 1px solid rgba(62,207,142,0.2); }
+.status-badge.a-agendar { background: var(--yellow-soft); color: var(--yellow); border-color: rgba(255,232,120,0.2); }
+
+/* Notion-style Status Badges for Demandas */
+.status-badge.st-todo { background: #37352f; color: rgba(255,255,255,0.9); }
+.status-badge.st-progress { background: #d3e5ef; color: #5b97bd; }
+.status-badge.st-approval { background: #e8deee; color: #9065b0; }
+.status-badge.st-info { background: #faebdd; color: #d9730d; }
+.status-badge.st-paused { background: #f1f1ef; color: #787774; }
+
+.no-demandas { padding: 20px; text-align: center; color: var(--text-dim); font-size: 0.85rem; }
+
+/* Categorização do Modal */
+.modal-section { margin-top: 24px; }
+.modal-section-header { 
+  display: flex; justify-content: space-between; align-items: center; 
+  padding-bottom: 8px; border-bottom: 2px solid var(--border); margin-bottom: 12px;
+}
+.modal-section-title { 
+  font-family: 'Antonio', sans-serif;
+  font-size: 1.1rem; 
+  font-weight: 700; 
+  color: var(--accent); 
+  text-transform: lowercase; 
+  letter-spacing: -0.04em; 
+}
+.modal-section-count { font-size: 0.75rem; font-weight: 700; color: var(--text-dim); }
+.missing-tag { 
+  font-size: 0.65rem; font-weight: 700; padding: 2px 6px; border-radius: 4px; border: 1px solid transparent;
+}
+.missing-tag.design { background: rgba(239,95,95,0.1); color: var(--red); border-color: rgba(239,95,95,0.2); }
+.missing-tag.legenda { background: rgba(245,158,66,0.1); color: var(--orange); border-color: rgba(245,158,66,0.2); }
+.missing-tag.video, .missing-tag.vídeo { background: rgba(62,139,245,0.1); color: var(--blue); border-color: rgba(62,139,245,0.2); }
+.modal-alert-box {
+  background: rgba(245,158,66,0.05); border: 1px solid rgba(245,158,66,0.2); 
+  border-radius: 8px; padding: 12px 16px; margin-bottom: 20px; display: flex; align-items: center; gap: 12px;
+}
+.modal-alert-box.all-ok { background: rgba(76,175,80,0.05); border-color: rgba(76,175,80,0.2); color: var(--green); }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+@media (max-width: 900px) {
+  .cr-pills { flex-wrap: wrap; justify-content: flex-start; }
+}
+
+@media (max-width: 768px) {
+  .donuts-grid { grid-template-columns: repeat(3, 1fr); }
+  .client-row { flex-direction: column; align-items: flex-start; gap: 12px; }
+  .cr-info, .cr-progress { flex: none; width: 100%; max-width: none; }
+}
+
+
+/* COMPACT CLIENT ROW */
+.client-row {
+  display: flex; align-items: center; gap: 20px;
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 14px 20px; transition: all 0.2s;
+  cursor: pointer;
+}
+.client-row:hover { background: var(--bg-card-hover); border-color: var(--accent); transform: scale(1.002); }
+
+.cr-info { flex: 0 0 200px; display: flex; flex-direction: column; gap: 2px; }
+.cr-name { font-weight: 700; font-size: 1rem; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cr-gestora { font-size: 0.72rem; color: var(--text-dim); }
+
+.cr-progress { flex: 1; display: flex; align-items: center; gap: 14px; max-width: 400px; }
+.cr-bar-wrap { flex: 1; height: 8px; background: rgba(72, 0, 79, 0.05); border-radius: 4px; overflow: hidden; border: 1px solid rgba(0,0,0,0.03); }
+.cr-bar-fill { height: 100%; transition: width 0.4s ease-out; }
+.cr-bar-fill.accent { background: var(--accent); }
+.cr-bar-fill.yellow { background: var(--yellow); }
+.cr-bar-fill.red { background: var(--red); }
+.cr-pct { font-size: 0.8rem; font-weight: 700; color: var(--text-muted); width: 40px; text-align: right; }
+
+.cr-pills { flex: 0 0 auto; display: flex; gap: 6px; }
+.cr-pill {
+  padding: 5px 10px; border-radius: 6px; border: 1px solid var(--border);
+  display: flex; align-items: center; gap: 5px; font-size: 0.78rem;
+  background: var(--bg); transition: all 0.2s; min-width: 55px; justify-content: center;
+}
+.cr-pill:hover { border-color: var(--accent); background: var(--bg-card-hover); }
+.cr-pill .val { font-weight: 700; }
+.cr-pill.done { border-color: rgba(62,207,142,0.3); background: var(--green-soft); color: var(--green); }
+.cr-pill.pend { border-color: rgba(245,197,66,0.3); background: var(--yellow-soft); color: var(--yellow); }
+
+
+/* COMPACT DEMANDAS */
+.demandas-compact-list { display: flex; flex-direction: column; gap: 4px; }
+.demanda-row {
+  display: flex; align-items: center; gap: 12px; padding: 8px 14px;
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: 6px;
+  font-size: 0.8rem;
+}
+.dr-client { font-weight: 700; width: 140px; color: var(--text-muted); }
+.dr-title { flex: 1; color: var(--text); }
+.dr-delay { color: var(--red); font-weight: 700; font-size: 0.7rem; min-width: 80px; text-align: right; }
+
+.container { position: relative; }
+.sticker-float {
+  position: fixed; bottom: 20px; right: 20px;
+  background: var(--accent); color: white;
+  padding: 8px 16px; border-radius: 20px;
+  font-family: 'Antonio', sans-serif; text-transform: lowercase;
+  font-size: 0.9rem; font-weight: 700; letter-spacing: 0.05em;
+  box-shadow: 0 4px 15px rgba(194,16,170,0.4);
+  z-index: 100; display: flex; align-items: center; gap: 8px;
+}
+.sticker-float::before { content: ''; width: 8px; height: 8px; background: #3ecf8e; border-radius: 50%; box-shadow: 0 0 8px #3ecf8e; }
+
+/* MODAL ACCORDIONS */
+.modal-acc-item { border: 1px solid var(--border); border-radius: 10px; margin-bottom: 10px; overflow: hidden; }
+.modal-acc-header { 
+  background: var(--bg-card); padding: 12px 16px; cursor: pointer; display: flex; 
+  align-items: center; justify-content: space-between; transition: background 0.2s;
+}
+.modal-acc-header:hover { background: var(--bg-card-hover); }
+.modal-acc-title { font-weight: 700; font-size: 0.95rem; color: var(--text); display: flex; align-items: center; gap: 10px; }
+.modal-acc-count { font-size: 0.75rem; font-weight: 600; color: var(--text-dim); }
+.modal-acc-body { padding: 16px; display: none; background: #fff; border-top: 1px solid var(--border); }
+.modal-acc-body.open { display: block; }
+.modal-acc-section-title { 
+  font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; 
+  color: var(--text-dim); margin: 16px 0 8px; border-bottom: 1px solid var(--border); padding-bottom: 4px;
+}
+.modal-acc-section-title:first-child { margin-top: 0; }
+
+/* PRIVACY SHIELD STYLES */
+#loginOverlay {
+  position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+  background: radial-gradient(circle at top left, #48004F, #1a001d);
+  z-index: 10000; display: flex; align-items: center; justify-content: center;
+  transition: opacity 0.5s ease-out, visibility 0.5s;
+}
+#loginOverlay.hidden { opacity: 0; visibility: hidden; pointer-events: none; }
+.login-card {
+  background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 24px;
+  padding: 40px; width: 100%; max-width: 400px; text-align: center;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+  animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+@keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+.login-logo { height: 70px; margin-bottom: 24px; }
+.login-card h2 { color: white; margin-bottom: 8px; font-size: 1.5rem; text-transform: lowercase; }
+.login-card p { color: rgba(255,255,255,0.5); font-size: 0.85rem; margin-bottom: 30px; }
+.login-input {
+  width: 100%; background: rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 12px; padding: 14px; color: white; font-size: 1rem;
+  text-align: center; margin-bottom: 16px; outline: none; transition: border-color 0.2s;
+}
+.login-input:focus { border-color: var(--accent); }
+.login-btn {
+  width: 100%; background: var(--accent); color: white; border: none;
+  padding: 14px; border-radius: 12px; font-weight: 700; font-size: 0.9rem;
+  cursor: pointer; transition: all 0.2s;
+}
+.login-btn:hover { transform: translateY(-2px); filter: brightness(1.1); }
+.login-error { color: #ff4d4d; font-size: 0.75rem; margin-top: 12px; display: none; }
+</style>
+<script src="notion-data.js"></script>
+</head>
+<body>
+
+<div id="loginOverlay">
+  <div class="login-card">
+    <img src="logo.svg" class="login-logo" alt="Ventana">
+    <h2>acesso restrito</h2>
+    <p>digite a senha para acessar o dashboard operacional</p>
+    <input type="password" id="passInput" class="login-input" placeholder="Senha de acesso">
+    <button class="login-btn" onclick="validatePass()">entrar no painel</button>
+    <div id="loginError" class="login-error">Senha incorreta. Tente novamente.</div>
+  </div>
+</div>
+
+<div class="container">
+  <!-- HEADER -->
+  <div class="header">
+    <div class="logo-container">
+      <img src="logo.svg" class="logo-img" alt="Ventana Comunicação">
+    </div>
+    <div class="header-right" style="display:flex; flex-direction:column; align-items:flex-end; gap:12px;">
+      <div id="alertsSummary" class="alerts-bar"></div>
+      <div class="header-meta">
+        <span class="update-badge">
+          <span class="update-dot"></span>
+          <span id="lastUpdate">carregando...</span>
+        </span>
+        <button class="btn-sync" onclick="window.location.reload()">
+          <span>↻</span> recarregar
+        </button>
+        <a href="https://github.com" id="githubActionLink" target="_blank" class="btn-sync" style="background: var(--bg-darker); color: var(--text);">
+          <span>⚙️</span> sincronizar
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- DONUT CHARTS -->
+  <div class="donuts-section">
+    <h2>Progresso geral do mês</h2>
+    <div class="donuts-grid" id="donutsGrid"></div>
+  </div>
+
+  <!-- RADAR DE PUBLICAÇÃO (next 2 days) -->
+  <div class="readiness-section">
+    <h2 id="readinessTitle">📡 Radar de Publicação (Publicações nas próximas 48h)</h2>
+    <div class="readiness-grid" id="readinessGrid"></div>
+  </div>
+
+  <!-- SEASONAL ALERTS -->
+  <div class="seasonal-section" id="seasonalSection">
+    <h2>Datas sazonais próximas (alerta 10 dias)</h2>
+    <div class="seasonal-grid" id="seasonalGrid"></div>
+  </div>
+
+  <!-- CLIENTS PER GESTORA -->
+  <div class="clients-section">
+    <h2>Clientes</h2>
+    <div class="gestora-tabs" id="gestoraTabs"></div>
+    <div class="clients-grid" id="clientsGrid"></div>
+  </div>
+
+  <!-- DEMANDAS EXTRAS -->
+  <div class="demandas-section">
+    <h2>Demandas extras (por cliente)</h2>
+    <div id="demandasList"></div>
+  </div>
+
+  <!-- STICKER FLOAT -->
+  <div class="sticker-float">estratégia on</div>
+</div>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal" id="modalContent"></div>
+</div>
+
+<script>
+// ======================
+// PRIVACY SHIELD LOGIC
+// ======================
+const DASH_PASS = 'Dash#Ventana_2026';
+function validatePass() {
+  const input = document.getElementById('passInput').value;
+  const error = document.getElementById('loginError');
+  if (input === DASH_PASS) {
+    localStorage.setItem('ventana_auth', 'unlocked_2026');
+    document.getElementById('loginOverlay').classList.add('hidden');
+  } else {
+    error.style.display = 'block';
+    document.getElementById('passInput').value = '';
+  }
+}
+// Auto-check on load
+if (localStorage.getItem('ventana_auth') === 'unlocked_2026') {
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('loginOverlay').classList.add('hidden');
+  });
+}
+// Allow Enter key
+document.addEventListener('DOMContentLoaded', () => {
+  const input = document.getElementById('passInput');
+  if (input) {
+    input.addEventListener('keypress', (e) => { if (e.key === 'Enter') validatePass(); });
+  }
+});
+
+// ======================
+// DATA — carregado de notion-data.js
+// ======================
+if (typeof FEED_DATA === 'undefined') {
+  document.body.innerHTML = '<div style="color:#ef5f5f;font-family:sans-serif;padding:40px;font-size:1.1rem;">⚠️ Erro: <code>notion-data.js</code> não encontrado. Execute o arquivo <strong>atualizar_dashboard.bat</strong> e recarregue a página.</div>';
+}
+const TODAY = new Date();
+const MONTH_DAYS = 30;
+
+// Helper to update client count and last update in UI
+function updateMeta() {
+  if (typeof LAST_UPDATE !== 'undefined') {
+    const el = document.getElementById('lastUpdate');
+    if (el) el.innerText = LAST_UPDATE;
+  }
+}
+
+// ======================
+// HELPERS
+// ======================
+
+function getAllClients() { return Object.keys(FEED_DATA || {}); }
+
+function getTargets(client) {
+  // Metas Mensais baseadas em 4 semanas
+  if (client === 'Jota' || client.includes('Jota')) {
+    return { designs: 8, videos: 4, stories: 4 };
+  }
+  // Demais clientes: 3 Feed + 1 Vídeo + 1 Story por semana
+  return { designs: 12, videos: 4, stories: 4 };
+}
+
+function toggleModalAccordion(clientId) {
+  const cleanId = String(clientId).replace(/[^a-z0-9]/gi,'');
+  const el = document.getElementById(`acc-body-${cleanId}`);
+  if (el) el.classList.toggle('open');
+}
+
+function sortByDate(items) {
+  if (!items) return [];
+  return items.sort((a, b) => {
+    if (!a.date || a.date === '--/--') return 1;
+    if (!b.date || b.date === '--/--') return -1;
+    const [d1, m1] = a.date.split('/').map(Number);
+    const [d2, m2] = b.date.split('/').map(Number);
+    if (m1 !== m2) return m1 - m2;
+    return d1 - d2;
+  });
+}
+
+function createDonutSVG(percent, color, size=90) {
+  const r = 36, circ = 2 * Math.PI * r;
+  const offset = circ - (Math.min(percent,100) / 100) * circ;
+  return `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
+    <circle cx="${size/2}" cy="${size/2}" r="${r}" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="7"/>
+    <circle cx="${size/2}" cy="${size/2}" r="${r}" fill="none" stroke="${color}" stroke-width="7"
+      stroke-dasharray="${circ}" stroke-dashoffset="${offset}" stroke-linecap="round"/>
+  </svg>`;
+}
+
+function getColor(p) { return p >= 70 ? 'var(--accent)' : p >= 40 ? 'var(--yellow)' : 'var(--red)'; }
+function getColorClass(p) { return p >= 70 ? 'good' : p >= 40 ? 'mid' : 'low'; }
+function getBarClass(p) { return p >= 70 ? 'accent' : p >= 40 ? 'yellow' : 'red'; }
+function statusLabel(s) {
+  return { postado:'Postado', agendado:'Agendado', agendado_coord:'Agendado (coord.)', a_agendar:'A agendar' }[s] || s;
+}
+function statusClass(s) {
+  return { postado:'postado', agendado:'agendado', agendado_coord:'agendado-coord', a_agendar:'a-agendar' }[s] || '';
+}
+function captacaoLabel(s) {
+  return {
+    nao_marcada: 'Não marcada',
+    marcada: 'A confirmar',
+    confirmada: 'Confirmada',
+    realizada: 'Realizada',
+    cancelada: 'Cancelada'
+  }[s] || (s || 'Não marcada');
+}
+function apresentacaoLabel(s) {
+  return { nao_iniciada:'Não iniciada', em_producao:'Em produção', enviada:'Enviada' }[s] || s;
+}
+
+function getGestora(client) {
+  for (const [g, list] of Object.entries(GESTORAS)) {
+    if (list.includes(client)) return g;
+  }
+  return '—';
+}
+
+// ======================
+// COMPUTE & RENDER DONUTS
+// ======================
+
+function computeTotals() {
+  const clients = getAllClients();
+  let dT=0, dP=0, dTotal=0; // Des: meta, pronto, total_cadastrado
+  let vT=0, vP=0, vTotal=0; // Vid: meta, pronto, total_cadastrado
+  let sT=0, sP=0, sTotal=0; // Sto: meta, pronto, total_cadastrado
+  let cM=0, cR=0, aE=0, aP=0;
+  let lC=0;
+  let legTotal=0, legPronto=0;
+  let agTotal=0, agFeito=0;
+
+  clients.forEach(c => {
+    const t = getTargets(c), f = FEED_DATA[c], v = VIDEO_DATA[c], s = STORIES_DATA[c];
+    
+    // Linha Criada: Agora inclui Stories na meta (Total: 20 padrão, 16 Jota)
+    const totalGoal = t.designs + t.videos + t.stories;
+    const totalCreated = (f.total + v.total + s.total);
+    lC += (totalCreated / totalGoal); 
+
+    // Designs: Agora a meta inclui Stories (Tarefa do Designer)
+    dT += (t.designs + t.stories);
+    dP += (f.pronto || 0); // Já filtrado por 'Exportado' no robô
+    dTotal += f.total;
+    
+    // Vídeos
+    vT += t.videos;
+    vP += (v.pronto || 0);
+    vTotal += v.total;
+
+    // Stories
+    sT += (t.stories || 4);
+    sP += (s.pronto || 0);
+    sTotal += s.total;
+
+    // Legendas: baseadas na nova lógica de coordenação
+    const legData = LEGENDAS_DATA[c] || { prontas: 0, total: 0 };
+    legTotal += legData.total;
+    legPronto += legData.prontas;
+    
+    // Agendamentos: postado e agendado (coord) contam como agendado ✓
+    agTotal += t.designs + t.videos;
+    agFeito += (f.postado + f.agendado + f.agendado_coord) + (v.postado + v.agendado + v.agendado_coord);
+
+    const cap = CAPTACAO_DATA[c];
+    if (cap === 'realizada') cR++; else if (cap === 'confirmada' || cap === 'marcada') cM++;
+    const apr = APRESENTACAO_DATA[c];
+    if (apr === 'enviada') aE++; else if (apr === 'em_producao') aP++;
+  });
+
+  const n = clients.length || 1;
+
+  return {
+    linha:   { pct: Math.round((lC/n)*100),              detail: `${Math.floor(lC)}/${n} clientes com linha completa` },
+    designs: { pct: dT > 0 ? Math.round((dP/dT)*100) : 0, detail: `${dP}/${dT} entregues` },
+    legendas:{ pct: legTotal > 0 ? Math.round((legPronto/legTotal)*100) : 0, detail: `${legPronto}/${legTotal} prontas` },
+    videos:  { pct: vT > 0 ? Math.round((vP/vT)*100) : 0, detail: `${vP}/${vT} finalizados` },
+    stories: { pct: sT > 0 ? Math.round((sP/sT)*100) : 0, detail: `${sP}/${sT} entregues` },
+    capt:    { pct: n > 0 ? Math.round(((cR+cM)/n)*100) : 0, detail: `${cR} realizadas, ${cM} marcadas` },
+    agend:   { pct: agTotal > 0 ? Math.round((agFeito/agTotal)*100) : 0, detail: `${agFeito}/${agTotal} finalizados` }
+  };
+}
+
+function renderDonuts() {
+  const t = computeTotals();
+  const items = [
+    { key:'linha',   label: 'Linha criada',       ...t.linha },
+    { key:'designs', label: 'Designs',             ...t.designs },
+    { key:'legendas',label: 'Legendas',            ...t.legendas },
+    { key:'videos',  label: 'Vídeos',              ...t.videos },
+    { key:'stories', label: 'Stories',             ...t.stories },
+    { key:'capt',    label: 'Produção/Captação',   ...t.capt },
+    { key:'agend',   label: 'Finalizados',         ...t.agend }
+  ];
+  document.getElementById('donutsGrid').innerHTML = items.map(d => `
+    <div class="donut-card" onclick="openDonutModal('${d.key}','${d.label}')" style="cursor:pointer;" title="Clique para ver detalhes">
+      <div class="donut-wrap">
+        ${createDonutSVG(d.pct, getColor(d.pct))}
+        <div class="donut-label">${d.pct}%</div>
+      </div>
+      <div class="donut-title">${d.label}</div>
+      <div class="donut-detail">${d.detail}</div>
+    </div>
+  `).join('');
+}
+
+// ======================
+// ALERTS
+// ======================
+
+function renderAlerts() {
+  const critClients=[], attClients=[], okClients=[];
+  getAllClients().forEach(c => {
+    const f = FEED_DATA[c], v = VIDEO_DATA[c], t = getTargets(c);
+    const pct = ((f.total + v.total) / (t.designs + t.videos)) * 100;
+    if (pct < 30) critClients.push(c);
+    else if (pct < 60) attClients.push(c);
+    else okClients.push(c);
+  });
+
+  function openAlertModal(label, clients, color) {
+    const list = clients.map(c => `<li style="padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.06);display:flex;align-items:center;gap:10px;"><span style="width:8px;height:8px;border-radius:50%;background:${color};flex-shrink:0;display:inline-block;"></span>${c} <span style="margin-left:auto;font-size:0.75rem;color:var(--text-dim);">${getGestora(c)}</span></li>`).join('');
+    document.getElementById('modalContent').innerHTML = `
+      <div style="font-size:0.8rem;font-weight:700;color:${color};text-transform:uppercase;letter-spacing:0.1em;margin-bottom:16px;">${label}</div>
+      <ul style="list-style:none;padding:0;margin:0;">${list}</ul>
+      <button onclick="document.getElementById('modalOverlay').classList.remove('active')" style="margin-top:20px;width:100%;padding:10px;background:rgba(255,255,255,0.06);border:none;border-radius:8px;color:var(--text-dim);cursor:pointer;font-size:0.85rem;">Fechar</button>`;
+    document.getElementById('modalOverlay').classList.add('active');
+  }
+
+  window.openAlertPopup = function(type) {
+    const d = window._alertData;
+    if (type==='criticos') openAlertModal('🔴 Clientes Críticos (abaixo de 30%)', d.critClients, 'var(--red)');
+    else if (type==='atencao') openAlertModal('🟡 Clientes em Atenção (30–60%)', d.attClients, 'var(--yellow)');
+    else if (type==='auditoria') openAuditModal();
+    else openAlertModal('🟢 Clientes no Ritmo (acima de 60%)', d.okClients, 'var(--green)');
+  };
+
+  const el = document.getElementById('alertsSummary');
+  const auditBtn = (typeof DATA_ALERTS !== 'undefined' && DATA_ALERTS.length > 0) 
+    ? `<div class="alert-chip" style="background:var(--accent); color:white; border:none; cursor:pointer;" onclick="openAlertPopup('auditoria')">⚠️ Auditoria (${DATA_ALERTS.length})</div>` 
+    : '';
+
+  el.innerHTML = `
+    ${auditBtn}
+    ${critClients.length ? `<div class="alert-chip red" style="cursor:pointer;" onclick="openAlertPopup('criticos')">● ${critClients.length} crítico${critClients.length>1?'s':''}</div>` : ''}
+    ${attClients.length ? `<div class="alert-chip yellow" style="cursor:pointer;" onclick="openAlertPopup('atencao')">● ${attClients.length} atenção</div>` : ''}
+    ${okClients.length ? `<div class="alert-chip green" style="cursor:pointer;" onclick="openAlertPopup('ritmo')">● ${okClients.length} no ritmo</div>` : ''}
+  `;
+}
+
+function openAuditModal() {
+  const items = DATA_ALERTS.map(a => `
+    <li style="padding:12px; border-bottom:1px solid var(--border); display:flex; flex-direction:column; gap:6px;">
+      <div style="font-weight:700; font-size:0.9rem; color:var(--text);">${a.title}</div>
+      <div style="font-size:0.75rem; color:var(--red); font-weight:600;">⚠️ ${a.error}</div>
+      ${a.notionUrl ? `<a href="${a.notionUrl}" target="_blank" style="font-size:0.7rem; color:var(--accent); text-decoration:underline;">Ver no Notion ↗</a>` : ''}
+    </li>
+  `).join('');
+
+  document.getElementById('modalContent').innerHTML = `
+    <button class="modal-close" onclick="closeModal()">&times;</button>
+    <div style="font-size:1rem; font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:0.1em; margin-bottom:16px;">🔍 Auditoria de Dados Notion</div>
+    <div style="font-size:0.85rem; color:var(--text-muted); margin-bottom:20px;">Foram detectadas inconsistências no preenchimento do Notion. Por favor, revise os itens abaixo:</div>
+    <ul style="list-style:none; padding:0; margin:0; max-height:60vh; overflow-y:auto;">${items}</ul>
+  `;
+  document.getElementById('modalOverlay').classList.add('active');
+}
+
+// ======================
+// READINESS (next 2 days)
+// ======================
+
+function renderReadiness() {
+  // Datas: hoje + amanhã
+  const d0 = new Date(TODAY); d0.setHours(0,0,0,0);
+  const d1 = new Date(d0); d1.setDate(d0.getDate() + 1);
+  const d2 = new Date(d0); d2.setDate(d0.getDate() + 2); // exclusivo
+
+  const fmt = d => `${d.getDate()}/${d.getMonth()+1}`;
+  document.getElementById('readinessTitle').textContent =
+    `Próximos 2 dias (${fmt(d0)}–${fmt(d1)})`;
+
+  const inWindow = d => {
+    if (!d || d === '--/--') return false;
+    const [day, month] = d.split('/').map(Number);
+    const dDate = new Date(TODAY.getFullYear(), month - 1, day);
+    dDate.setHours(0,0,0,0);
+    const t0 = new Date(TODAY); t0.setHours(0,0,0,0);
+    const t2 = new Date(t0); t2.setDate(t2.getDate() + 2);
+    return dDate >= t0 && dDate < t2;
+  };
+
+  const allAlerts = [];
+
+  getAllClients().forEach(c => {
+    const getArea = fmt => {
+      const f = (fmt || '').toLowerCase();
+      if (f.includes('carrossel')) return 'Carrossel';
+      if (f.includes('foto')) return 'Foto';
+      if (f.includes('vídeo') || f.includes('video')) return 'Vídeo';
+      if (f.includes('story')) return 'Story';
+      return 'Post';
+    };
+
+    const items = [
+      ...(LINHA_FEED_ITEMS[c] || []).map(i => ({ ...i, area: getArea(i.formato) })),
+      ...(LINHA_VIDEO_ITEMS[c] || []).map(i => ({ ... i, area: getArea(i.formato) })),
+      ...(LINHA_STORIES_ITEMS[c] || []).map(i => ({ ...i, area: getArea(i.formato) }))
+    ];
+
+    items.forEach(i => {
+      if (!inWindow(i.date)) return;
+      if (i.status === 'postado') return;
+      const problems = i.status === 'a_agendar' ? ['Não agendado', ...(i.missing || [])] : (i.missing || []);
+      if (problems.length > 0) {
+        allAlerts.push({ client: c, area: i.area, title: i.title, date: i.date, missing: problems });
+      }
+    });
+
+    (DEMANDAS_EXTRAS[c] || []).forEach(d => {
+      if (!inWindow(d.date)) return;
+      allAlerts.push({ client: c, area: d.priority === 'pppp' ? 'Prod' : 'Agend', title: d.title, date: d.date, missing: ['Pendente'] });
+    });
+  });
+
+  const grid = document.getElementById('readinessGrid');
+  if (!allAlerts.length) {
+    grid.innerHTML = '<div class="no-demandas" style="text-align:left; padding:12px 0;">✅ Nenhuma demanda urgente para os próximos 2 dias.</div>';
+    return;
+  }
+
+  // Agrupar por data
+  const grouped = {};
+  allAlerts.forEach(a => {
+    if (!grouped[a.date]) grouped[a.date] = [];
+    grouped[a.date].push(a);
+  });
+
+  // Ordenar datas
+  const sortedDates = Object.keys(grouped).sort((a,b) => {
+    const [d1,m1] = a.split('/').map(Number);
+    const [d2,m2] = b.split('/').map(Number);
+    if (m1 !== m2) return m1 - m2;
+    return d1 - d2;
+  });
+
+  grid.innerHTML = sortedDates.map(date => {
+    const dayLabel = date === fmt(d0) ? ' · HOJE' : (date === fmt(d1) ? ' · AMANHÃ' : '');
+    return `
+    <div style="width:100%; margin-bottom:15px;">
+      <div style="font-size:0.65rem; font-weight:700; color:var(--text-dim); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:8px; border-bottom:1px solid rgba(255,255,255,0.05); padding-bottom:4px;">
+        ${date}${dayLabel}
+      </div>
+      <div style="display:flex; flex-direction:column; gap:6px; width:100%;">
+        ${grouped[date].map(a => `
+          <div style="display:flex; align-items:center; gap:12px; padding:10px 16px; 
+            background:var(--bg-card); border:1px solid var(--border); border-radius:8px; font-size:0.8rem;">
+            <div style="width:140px; font-weight:700; color:var(--text); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${a.client}</div>
+            <div style="width:60px; font-size:0.65rem; font-weight:700; text-transform:uppercase; color:var(--accent);">${a.area}</div>
+            <div style="flex:1; color:var(--text-muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+              ${a.title} ${a.notionUrl ? `<a href="${a.notionUrl}" target="_blank" style="margin-left:8px; opacity:0.6; text-decoration:none;">↗</a>` : ''}
+            </div>
+            <div style="display:flex; gap:4px;">
+              ${a.missing.map(m => `
+                <span style="font-size:0.6rem; font-weight:700; padding:1px 6px; border-radius:4px; 
+                  background:var(--red-soft); color:var(--red); border:1px solid rgba(239,95,95,0.2);">⚠ ${m}</span>
+              `).join('')}
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ======================
+// SEASONAL DATES
+// ======================
+
+function renderSeasonal() {
+  const grid = document.getElementById('seasonalGrid');
+  const section = document.getElementById('seasonalSection');
+  
+  // Normalize TODAY to midnight for correct date comparison
+  const t0 = new Date(TODAY); t0.setHours(0,0,0,0);
+  const limit = new Date(t0); limit.setDate(limit.getDate() + 10);
+
+  const relevant = SEASONAL_DATES.filter(sd => {
+    const sDate = new Date(sd.date);
+    sDate.setHours(0,0,0,0);
+    return sDate >= t0 && sDate <= limit;
+  }).map(sd => {
+    const sDate = new Date(sd.date);
+    sDate.setHours(0,0,0,0);
+    const matched = [];
+    getAllClients().forEach(c => {
+      if (sd.niches && sd.niches.includes(NICHES[c])) matched.push(c);
+    });
+    const days = Math.round((sDate - t0) / 86400000);
+    return { ...sd, matched, days, urgent: days <= 3, normalizedDate: sDate };
+  }).filter(sd => sd.matched.length > 0);
+
+  if (!relevant.length) {
+    grid.innerHTML = '<div style="color:var(--text-dim);font-size:0.85rem;padding:12px 0;">Nenhuma data sazonal relevante nos próximos 10 dias.</div>';
+    return;
+  }
+
+  grid.innerHTML = relevant.map(sd => `
+    <div class="seasonal-card ${sd.urgent ? 'urgent' : ''}">
+      <div class="sc-date">${sd.normalizedDate.getDate()}/${sd.normalizedDate.getMonth()+1} · em ${sd.days} dia${sd.days>1?'s':''}</div>
+      <div class="sc-event">${sd.label}</div>
+      <div class="sc-clients">Relevante para: ${sd.matched.join(', ')}</div>
+    </div>
+  `).join('');
+}
+
+// ======================
+// CLIENTS GRID
+// ======================
+
+let activeGestora = 'Todas';
+
+function renderGestoraTabs() {
+  document.getElementById('gestoraTabs').innerHTML = ['Todas', ...Object.keys(GESTORAS)].map(g => `
+    <button class="gestora-tab ${g===activeGestora?'active':''}" onclick="filterGestora('${g}')">${g}</button>
+  `).join('');
+}
+
+function filterGestora(g) { activeGestora = g; renderGestoraTabs(); renderClients(); }
+
+function renderClients() {
+  let clients = activeGestora === 'Todas' ? getAllClients() : (GESTORAS[activeGestora] || []);
+  
+  // Sort clients alphabetically
+  clients.sort();
+
+  document.getElementById('clientsGrid').innerHTML = clients.map(c => {
+    const f = FEED_DATA[c], v = VIDEO_DATA[c], s = STORIES_DATA[c], t = getTargets(c), g = getGestora(c);
+    const fc = FORMAT_COUNTS[c] || { post:0, carrossel:0, foto:0, video:0, story:0 };
+    const ac = AGENDA_COUNTS[c] || { reuniao:0, producao:0, evento:0 };
+    const capS = CAPTACAO_DATA[c];
+
+    const legData = LEGENDAS_DATA[c] || { prontas: 0, total: 0 };
+    const legGoal = t.designs + t.videos;
+    
+    // Entrega Final: O que está oficialmente AGENDADO ou POSTADO
+    const finalizedCount = (f.postado + f.agendado + f.agendado_coord) + 
+                           (v.postado + v.agendado + v.agendado_coord) +
+                           (s.postado + s.agendado + s.agendado_coord);
+    
+    const goalCount = (t.designs + t.videos + t.stories); 
+    const progressPct = goalCount > 0 ? Math.round((finalizedCount / goalCount) * 100) : 0;
+
+    const pill = (emoji, label, val, fmtKey, cls='') =>
+      `<div class="cr-pill ${cls}" onclick="event.stopPropagation();openFormatModal('${c}','${fmtKey}','${label}')" title="${label}: ${val}">
+         <span>${emoji}</span> <span class="val">${val}</span>
+       </div>`;
+
+    return `
+      <div class="client-row" onclick="openClientModal('${c}')">
+        <div class="cr-info">
+          <div class="cr-name">${c}</div>
+          <div style="display:flex; gap:8px; font-size:0.65rem; font-weight:700; margin-top:2px;">
+            <span style="color:var(--accent)">D: ${f.pronto}/${t.designs+t.stories}</span>
+            <span style="color:var(--orange)">L: ${legData.prontas}/${legGoal}</span>
+            <span style="color:var(--blue)">V: ${v.pronto}/${t.videos}</span>
+          </div>
+          <div class="cr-gestora" style="margin-top:4px;">${g}</div>
+        </div>
+        <div class="cr-progress">
+          <div class="cr-bar-wrap">
+            <div class="cr-bar-fill ${getBarClass(progressPct)}" style="width:${Math.min(progressPct,100)}%"></div>
+          </div>
+          <div class="cr-pct">${progressPct}%</div>
+        </div>
+        <div class="cr-pills">
+          ${pill('\uD83D\uDDBC\uFE0F', 'Post',      fc.post,      'post')}
+          ${pill('\uD83C\uDFA0', 'Carrossel', fc.carrossel, 'carrossel')}
+          ${pill('\uD83D\uDCF8', 'Foto',      fc.foto,      'foto')}
+          ${pill('\uD83C\uDFA5', 'V\u00eddeo',     fc.video,     'video')}
+          ${pill('\uD83D\uDCF1', 'Story',     fc.story,     'story')}
+          ${pill('\uD83D\uDC65', 'Reun',      ac.reuniao,   'reuniao')}
+          ${pill('\uD83C\uDFAC', 'Prod',      ac.producao,  'producao', capS==='realizada'?'done':capS?'pend':'')}
+          ${pill('\uD83C\uDF89', 'Even',      ac.evento,    'evento')}
+        </div>
+      </div>`;
+  }).join('');
+}
+
+
+// ======================
+// CLIENT MODAL
+// ======================
+
+function openClientModal(client, activeFilter = 'todos') {
+  const overlay = document.getElementById('modalOverlay');
+  const content = document.getElementById('modalContent');
+  
+  // Guardamos o cliente e o filtro para re-reenderizações
+  window._currentModalClient = client;
+
+  let feedItems = LINHA_FEED_ITEMS[client] || [];
+  let videoItems = LINHA_VIDEO_ITEMS[client] || [];
+  let storyItems = LINHA_STORIES_ITEMS[client] || [];
+  const t = getTargets(client);
+
+  // Aplica os filtros de status
+  if (activeFilter === 'pending') {
+    feedItems = feedItems.filter(i => i.status !== 'postado');
+    videoItems = videoItems.filter(i => i.status !== 'postado');
+    storyItems = storyItems.filter(i => i.status !== 'postado');
+  } else if (activeFilter === 'done') {
+    feedItems = feedItems.filter(i => i.status === 'postado');
+    videoItems = videoItems.filter(i => i.status === 'postado');
+    storyItems = storyItems.filter(i => i.status === 'postado');
+  }
+
+  // Calcula pendências baseadas no GAP da Meta Contratual (Pauta)
+  const legData = LEGENDAS_DATA[client] || { prontas: 0, total: 0 };
+  const missingSummary = {
+    designs:  Math.max(0, t.designs - (FEED_DATA[client]?.pronto || 0)),
+    videos:   Math.max(0, t.videos - (VIDEO_DATA[client]?.pronto || 0)),
+    legendas: Math.max(0, (t.designs + t.videos) - legData.prontas)
+  };
+
+  const alerts = [];
+  if (missingSummary.designs > 0) alerts.push(`<strong>${missingSummary.designs}</strong> Design${missingSummary.designs>1?'s':''}`);
+  if (missingSummary.legendas > 0) alerts.push(`<strong>${missingSummary.legendas}</strong> Legenda${missingSummary.legendas>1?'s':''}`);
+  if (missingSummary.videos > 0) alerts.push(`<strong>${missingSummary.videos}</strong> Vídeo${missingSummary.videos>1?'s':''}`);
+
+  const alertContent = alerts.length 
+    ? `<div class="modal-alert-box">
+         <span style="font-size:1.2rem;">⚠️</span>
+         <div style="font-size:0.85rem; color:var(--orange);"><strong>PENDÊNCIAS PARA META:</strong> Faltam ${alerts.join(', ')} para concluir a pauta mensal.</div>
+       </div>`
+    : `<div class="modal-alert-box all-ok">
+         <span style="font-size:1.2rem;">✅</span>
+         <div style="font-size:0.85rem;"><strong>META ATINGIDA!</strong> Você cumpriu toda a pauta contratual deste mês.</div>
+       </div>`;
+
+  const renderSection = (title, icon, items, goal, extraLabel) => {
+    if (items.length === 0 && activeFilter === 'todos' && goal === 0) return '';
+    return `
+      <div class="modal-section">
+        <div class="modal-section-header">
+          <div class="modal-section-title">${icon} ${title}</div>
+          <div class="modal-section-count">${items.length} ${activeFilter==='todos'?'':activeFilter==='pending'?'pendentes':'postados'} / ${goal} ${extraLabel}</div>
+        </div>
+        ${items.length ? `
+          <table class="modal-table">
+            <thead><tr><th>Título</th><th style="width:100px;">Data</th><th style="width:100px;">Status</th></tr></thead>
+            <tbody>${items.map(i => `
+              <tr>
+                <td>
+                  <div style="margin-bottom:6px; font-weight:500;">
+                    ${i.title} ${i.notionUrl ? `<a href="${i.notionUrl}" target="_blank" style="margin-left:8px; opacity:0.6; text-decoration:none;">↗</a>` : ''}
+                  </div>
+                  <div style="display:flex; gap:6px; flex-wrap:wrap;">
+                    ${i.missing.map(m => {
+                      const cls = m.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+                      return `<span class="missing-tag ${cls}">FALTA ${m.toUpperCase()}</span>`;
+                    }).join('')}
+                  </div>
+                </td>
+                <td style="font-size:0.75rem; color:var(--text-dim);">${i.date || '--'}</td>
+                <td><span class="status-badge ${statusClass(i.status)}">${statusLabel(i.status)}</span></td>
+              </tr>`).join('')}
+            </tbody>
+          </table>
+        ` : `<div style="padding:15px; text-align:center; font-size:0.8rem; color:var(--text-dim); background:rgba(255,255,255,0.02); border-radius:4px;">Nenhum item ${activeFilter==='todos'?'cadastrado':activeFilter==='pending'?'pendente':'postado'}.</div>`}
+      </div>`;
+  };
+
+  const filterBtn = (f, label) => `<button onclick="openClientModal('${client}', '${f}')" style="padding:6px 12px; border-radius:15px; border:none; cursor:pointer; font-size:0.75rem; font-weight:600; background:${activeFilter===f?'var(--accent)':'rgba(255,255,255,0.05)'}; color:${activeFilter===f?'white':'var(--text-dim)'};">${label}</button>`;
+
+  content.innerHTML = `
+    <button class="modal-close" onclick="closeModal()">&times;</button>
+    <h3 style="margin-bottom:4px;">${client}</h3>
+    <div style="font-size:0.85rem; color:var(--text-muted); margin-bottom:15px;">${getGestora(client)} · ${NICHES[client] || 'Geral'}</div>
+    
+    <div style="display:flex; gap:8px; margin-bottom:20px; border-bottom:1px solid var(--border); padding-bottom:15px;">
+      ${filterBtn('todos', 'Ver Tudo')}
+      ${filterBtn('pending', 'Pendentes')}
+      ${filterBtn('done', 'Postados')}
+    </div>
+
+    ${alertContent}
+
+    ${renderSection('Posts / Designs', '🖼️', feedItems, t.designs, 'posts')}
+    ${renderSection('Vídeos', '🎞️', videoItems, t.videos, 'vídeos')}
+    ${renderSection('Stories', '📱', storyItems, t.stories || 4, 'stories')}
+
+    <div style="margin-top:32px; padding-top:20px; border-top:1px solid var(--border); display:flex; gap:12px; flex-wrap:wrap;">
+      <span class="cc-tag ${CAPTACAO_DATA[client]==='realizada'?'ok':CAPTACAO_DATA[client]==='marcada'?'pending':'missing'}">Captação: ${captacaoLabel(CAPTACAO_DATA[client])}</span>
+      <span class="cc-tag ${APRESENTACAO_DATA[client]==='enviada'?'ok':APRESENTACAO_DATA[client]==='em_producao'?'pending':'missing'}">Apresentação: ${apresentacaoLabel(APRESENTACAO_DATA[client])}</span>
+    </div>`;
+    
+  overlay.classList.add('active');
+}
+
+function closeModal() { document.getElementById('modalOverlay').classList.remove('active'); }
+document.getElementById('modalOverlay').addEventListener('click', function(e) { if (e.target === this) closeModal(); });
+
+// ======================
+// DONUT MODAL
+// ======================
+
+
+// Funções de Accordion e Ordenação movidas para a seção de HELPERS no topo do arquivo.
+
+function renderModalRow(i, isDone, key) {
+  let badgeLabel = "";
+  let badgeClass = "";
+  if (key === 'designs' || key === 'stories') { 
+    badgeLabel = isDone ? "CONCLUÍDO/AGENDADO" : "FALTA EXPORTAR"; 
+    badgeClass = isDone ? "green" : "design";
+  } else if (key === 'legendas') {
+    badgeLabel = isDone ? "LEGENDA PRONTA" : "FALTA ESCREVER";
+    badgeClass = isDone ? "green" : "legenda";
+  } else if (key === 'videos') {
+    badgeLabel = isDone ? "VÍDEO FINALIZADO" : "FALTA FINALIZAR";
+    badgeClass = isDone ? "green" : "video";
+  }
+
+  return `<tr>
+    <td style="width:100px; font-size:0.7rem; font-weight:700; color:var(--text-dim); text-transform:uppercase;">${i.formato}</td>
+    <td>
+      <div style="font-weight:600; font-size:0.85rem; color:var(--text);">${i.title} ${i.notionUrl ? `<a href="${i.notionUrl}" target="_blank" style="margin-left:6px; opacity:0.5; text-decoration:none;">↗</a>` : ''}</div>
+      ${badgeLabel ? `<span class="missing-tag ${badgeClass}" style="${isDone?'background:var(--green-soft);color:var(--green);border-color:rgba(45,164,78,0.2);':''}">${badgeLabel}</span>` : ''}
+    </td>
+    <td style="width:60px; font-size:0.75rem; font-weight:700; color:var(--text-muted);">${i.date || '--/--'}</td>
+    <td style="width:100px;"><span class="status-badge ${statusClass(i.status)}">${statusLabel(i.status)}</span></td>
+  </tr>`;
+}
+
+function openDonutModal(key, label) {
+  const overlay = document.getElementById('modalOverlay');
+  const content = document.getElementById('modalContent');
+  const clients = getAllClients();
+  let rows = '';
+  let subtitle = '';
+
+  clients.forEach(c => {
+    const t = getTargets(c);
+    let items = [];
+    let goal = 0;
+    
+    const isDoneFunc = (i) => {
+      const s = (i.status || '').toLowerCase();
+      const isAgendado = s === 'agendado' || s === 'agendado_coord' || s === 'postado';
+      if (key === 'designs' || key === 'stories') return isAgendado || (i.rawDesign || '').toLowerCase().includes('exportado');
+      if (key === 'videos') return isAgendado || (i.rawVideo || '').toLowerCase().includes('finalizado');
+      if (key === 'legendas') return isAgendado || (i.rawLegenda || '').toLowerCase().includes('escrito');
+      if (key === 'agend') return isAgendado;
+      if (key === 'linha') return s !== 'a_agendar';
+      return isAgendado;
+    };
+
+    if (key === 'linha') {
+      goal = t.designs + t.videos + t.stories;
+      items = [...(LINHA_FEED_ITEMS[c]||[]), ...(LINHA_VIDEO_ITEMS[c]||[]), ...(LINHA_STORIES_ITEMS[c]||[])];
+      subtitle = 'Itens Criados vs Meta Contratual';
+    } else if (key === 'designs') {
+      goal = t.designs;
+      items = (LINHA_FEED_ITEMS[c]||[]).filter(v => (v.formato||'').toLowerCase().indexOf('v') === -1);
+      subtitle = 'Meta Mensal: ' + t.designs + ' Designs';
+    } else if (key === 'legendas') {
+      goal = t.designs + t.videos;
+      items = [...(LINHA_FEED_ITEMS[c]||[]), ...(LINHA_VIDEO_ITEMS[c]||[])].filter(v => (v.formato||'').toLowerCase() !== 'story');
+      subtitle = 'Legendas de Posts e Vídeos';
+    } else if (key === 'videos') {
+      goal = t.videos;
+      items = (LINHA_VIDEO_ITEMS[c]||[]);
+      subtitle = 'Meta Mensal: ' + t.videos + ' Vídeos';
+    } else if (key === 'stories') {
+        goal = t.stories;
+        items = (LINHA_STORIES_ITEMS[c]||[]);
+        subtitle = 'Meta Mensal: ' + t.stories + ' Stories';
+    } else if (key === 'agend') {
+        goal = t.designs + t.videos + t.stories;
+        items = [...(LINHA_FEED_ITEMS[c]||[]), ...(LINHA_VIDEO_ITEMS[c]||[]), ...(LINHA_STORIES_ITEMS[c]||[])];
+        subtitle = 'Status de Publicação Real';
+    }
+
+    if (items.length === 0 && goal === 0) return;
+
+    const pendingItems = sortByDate(items.filter(i => !isDoneFunc(i)));
+    const doneItems = sortByDate(items.filter(i => isDoneFunc(i)));
+
+    const accId = String(c).replace(/[^a-z0-9]/gi,'');
+    rows += `
+      <div class="modal-acc-item">
+        <div class="modal-acc-header" onclick="toggleModalAccordion('${accId}')">
+          <div class="modal-acc-title">🏢 ${c}</div>
+          <div class="modal-acc-count">${doneItems.length}/${goal} concluídos <span style="margin-left:10px; opacity:0.5;">▼</span></div>
+        </div>
+        <div class="modal-acc-body" id="acc-body-${accId}">
+          ${pendingItems.length ? `
+            <div class="modal-acc-section-title">🕒 Pendentes (${pendingItems.length})</div>
+            <table class="modal-table">
+              <tbody>${pendingItems.map(i => renderModalRow(i, isDoneFunc(i), key)).join('')}</tbody>
+            </table>
+          ` : ''}
+          ${doneItems.length ? `
+            <div class="modal-acc-section-title" style="color:var(--green);">✅ Finalizados (${doneItems.length})</div>
+            <table class="modal-table" style="opacity:0.7">
+              <tbody>${doneItems.map(i => renderModalRow(i, isDoneFunc(i), key)).join('')}</tbody>
+            </table>
+          ` : ''}
+        </div>
+      </div>`;
+  });
+
+  content.innerHTML = `
+    <button class="modal-close" onclick="closeModal()">&times;</button>
+    <div style="font-size:1.1rem; font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:0.1em; margin-bottom:4px;">${label}</div>
+    <div style="font-size:0.85rem; color:var(--text-muted); margin-bottom:15px; font-style:italic;">${subtitle}</div>
+    <div style="display:flex; flex-direction:column; gap:8px;">${rows || '<div class="no-demandas">Nenhum item encontrado.</div>'}</div>
+  `;
+  overlay.classList.add('active');
+}
+
+// ======================
+// FORMAT PILL MODAL (por cliente)
+// ======================
+function openFormatModal(client, fmtKey, fmtLabel) {
+  const overlay = document.getElementById('modalOverlay');
+  const content = document.getElementById('modalContent');
+  let items = [];
+  let subtitle = '';
+
+  if (fmtKey === 'post') {
+    items = (LINHA_FEED_ITEMS[client]||[]).filter(i => {
+      const f = (i.formato||'').toLowerCase();
+      return !f.includes('carrossel') && !f.includes('foto');
+    });
+    subtitle = 'Posts do mês · ' + client;
+  } else if (fmtKey === 'carrossel') {
+    items = (LINHA_FEED_ITEMS[client]||[]).filter(i => (i.formato||'').toLowerCase().includes('carrossel'));
+    subtitle = 'Carrosseis do mês · ' + client;
+  } else if (fmtKey === 'foto') {
+    items = (LINHA_FEED_ITEMS[client]||[]).filter(i => (i.formato||'').toLowerCase().includes('foto'));
+    subtitle = 'Fotos do mês · ' + client;
+  } else if (fmtKey === 'video') {
+    items = LINHA_VIDEO_ITEMS[client] || [];
+    subtitle = 'Vídeos do mês · ' + client;
+  } else if (fmtKey === 'story') {
+    items = LINHA_STORIES_ITEMS[client] || [];
+    subtitle = 'Stories do mês · ' + client;
+  } else if (fmtKey === 'reuniao') {
+    const ag = DEMANDAS_EXTRAS[client] || [];
+    items = ag.filter(i => (i.title||'').toLowerCase().includes('reuni'))
+              .map(i => ({ title: i.title, status: 'a_agendar', date: i.date, formato: 'Reunião', missing: [], notionUrl: i.notionUrl }));
+    subtitle = 'Reuniões do mês · ' + client;
+  } else if (fmtKey === 'producao') {
+    const ag = DEMANDAS_EXTRAS[client] || [];
+    items = ag.filter(i => i.priority === 'pppp')
+              .map(i => ({ title: i.title, status: CAPTACAO_DATA[client]||'a_agendar', date: i.date, formato: 'Produção', missing: [], notionUrl: i.notionUrl }));
+    subtitle = 'Sessões de produção · ' + client;
+  } else if (fmtKey === 'evento') {
+    const ag = DEMANDAS_EXTRAS[client] || [];
+    items = ag.filter(i => (i.title||'').toLowerCase().includes('evento') || (i.title||'').toLowerCase().includes('summit'))
+              .map(i => ({ title: i.title, status: 'a_agendar', date: i.date, formato: 'Evento', missing: [], notionUrl: i.notionUrl }));
+    subtitle = 'Eventos do mês · ' + client;
+  }
+
+  const done    = items.filter(i => i.status === 'postado' || i.status === 'agendado' || i.status === 'agendado_coord');
+  const pending = items.filter(i => i.status === 'a_agendar');
+
+  const missingTag = m => {
+    const colors = { Design:'var(--red)', Legenda:'var(--yellow)', Vídeo:'var(--blue)' };
+    const bgs    = { Design:'var(--red-soft)', Legenda:'var(--yellow-soft)', Vídeo:'var(--blue-soft)' };
+    return '<span style="display:inline-block;font-size:0.65rem;font-weight:700;padding:2px 8px;border-radius:6px;margin:1px 2px;background:' + (bgs[m]||'rgba(255,255,255,0.08)') + ';color:' + (colors[m]||'var(--text-muted)') + ';text-transform:lowercase;">✗ ' + m + '</span>';
+  };
+
+  const buildRows = (list, isDone) => list.map(i =>
+    '<tr>' +
+    '<td>' + (i.formato || fmtLabel) + '</td>' +
+    '<td><div style="font-weight:500;margin-bottom:3px;">' + i.title + ' ' + (i.notionUrl ? '<a href="' + i.notionUrl + '" target="_blank" style="margin-left:8px; opacity:0.6; text-decoration:none;">↗</a>' : '') + '</div>' +
+    (!isDone && (i.missing||[]).length ? '<div>' + (i.missing||[]).map(missingTag).join('') + '</div>' : '') +
+    '</td>' +
+    '<td style="white-space:nowrap;">' + (i.date||'--/--') + '</td>' +
+    '<td><span class="status-badge ' + statusClass(i.status) + '">' + statusLabel(i.status) + '</span></td>' +
+    '</tr>'
+  ).join('');
+
+  const sectionHeader = (label, count, color) =>
+    '<div style="font-size:0.72rem;font-weight:700;color:' + color + ';text-transform:uppercase;letter-spacing:.06em;' +
+    'padding:10px 0 6px;border-bottom:1px solid var(--border);margin-bottom:4px;">' + label + ' (' + count + ')</div>';
+
+  const doneSection = done.length ? (
+    sectionHeader('✓ Concluído / Agendado', done.length, 'var(--green)') +
+    '<table class="modal-table" style="margin-bottom:20px;"><thead><tr><th>Formato</th><th>Conteúdo</th><th>Data</th><th>Status</th></tr></thead><tbody>' +
+    buildRows(done, true) + '</tbody></table>'
+  ) : '';
+
+  const pendSection = pending.length ? (
+    sectionHeader('⚠ Em andamento — falta fazer', pending.length, 'var(--yellow)') +
+    '<table class="modal-table"><thead><tr><th>Formato</th><th>Conteúdo + O que falta</th><th>Data</th><th>Status</th></tr></thead><tbody>' +
+    buildRows(pending, false) + '</tbody></table>'
+  ) : '';
+
+  const empty = !done.length && !pending.length
+    ? '<p style="color:var(--text-dim);text-align:center;padding:32px 0;">Nenhum item encontrado nesta categoria.</p>' : '';
+
+  content.innerHTML =
+    '<button class="modal-close" onclick="closeModal()">&times;</button>' +
+    '<h3>' + client + ' &mdash; ' + fmtLabel + '</h3>' +
+    '<p style="color:var(--text-dim);font-size:0.8rem;margin-bottom:16px;">' + subtitle + '</p>' +
+    doneSection + pendSection + empty;
+  overlay.classList.add('active');
+}
+
+// ======================
+// DEMANDAS EXTRAS
+// ======================
+
+function renderDemandas() {
+  const list = document.getElementById('demandasList');
+  const t0 = new Date(TODAY); t0.setHours(0,0,0,0);
+  
+  let allDemands = [];
+  
+  Object.keys(DEMANDAS_EXTRAS).forEach(client => {
+    DEMANDAS_EXTRAS[client].forEach(d => {
+      // Se não tem data, coloca lá pro fim
+      let dDate = null;
+      let delay = 0;
+      let label = "";
+      let labelColor = "var(--text-muted)";
+
+      if (d.date && d.date !== '--/--') {
+        const [day, month] = d.date.split('/').map(Number);
+        dDate = new Date(TODAY.getFullYear(), month - 1, day);
+        dDate.setHours(0,0,0,0);
+        
+        const diff = Math.round((t0 - dDate) / 86400000);
+        if (diff > 0) {
+          delay = diff;
+          label = `${diff} dia${diff>1?'s':''} de atraso`;
+          labelColor = "var(--red)";
+        } else if (diff === 0) {
+          label = "Hoje";
+          labelColor = "var(--orange)";
+        } else {
+          label = `Em ${Math.abs(diff)} dia${Math.abs(diff)>1?'s':''}`;
+          labelColor = "var(--text-dim)";
+        }
+      } else {
+        label = "Sem data";
+      }
+
+      allDemands.push({ ...d, client, delay, dDate, label, labelColor });
+    });
+  });
+
+  const emAprovacao = allDemands.filter(d => (d.rawStatus || '').includes('provação'));
+  const atrasadas = allDemands.filter(d => d.delay > 0 && !(d.rawStatus || '').includes('provação'));
+  const noPrazo = allDemands.filter(d => d.delay <= 0 && !(d.rawStatus || '').includes('provação'));
+
+  atrasadas.sort((a,b) => b.delay - a.delay);
+  emAprovacao.sort((a,b) => (a.dDate||0) - (b.dDate||0));
+
+  const pMap = { pppp: 3, ppp: 2, pp: 1, p: 0 };
+  noPrazo.sort((a,b) => {
+    const pa = pMap[a.priority] !== undefined ? pMap[a.priority] : -1;
+    const pb = pMap[b.priority] !== undefined ? pMap[b.priority] : -1;
+    if (pb !== pa) return pb - pa;
+    if (!a.dDate) return 1;
+    if (!b.dDate) return -1;
+    return a.dDate - b.dDate;
+  });
+
+  function buildList(items, isAprovacao = false) {
+    return items.map(d => {
+      let statusClass = 'st-todo';
+      const s = d.rawStatus || '';
+      if (s.includes('Fazendo')) statusClass = 'st-progress';
+      else if (s.includes('provação')) statusClass = 'st-approval';
+      else if (s.includes('informação')) statusClass = 'st-info';
+      else if (s.includes('Pausada')) statusClass = 'st-paused';
+      
+      const lembrete = isAprovacao ? 
+        `<div style="font-size:0.65rem; font-weight:700; color:var(--orange); margin-top:4px;">📣 LEMBRETE: Pegar feedback com o cliente para finalizar</div>` : '';
+
+      return `
+      <div class="demanda-row">
+        <div class="dr-client">${d.client}</div>
+        <div style="width:50px; text-align:center;" class="di-priority ${d.priority || 'ppp'}">${(d.priority || 'PPP').toUpperCase()}</div>
+        <div class="dr-title">
+          <div style="font-weight:500;">${d.title} ${d.notionUrl ? `<a href="${d.notionUrl}" target="_blank" style="margin-left:8px; opacity:0.6; text-decoration:none;">↗</a>` : ''}</div>
+          ${lembrete}
+        </div>
+        <div class="status-badge ${statusClass}">${s || 'A fazer'}</div>
+        <div class="dr-delay" style="color:${d.labelColor};">${d.label}</div>
+      </div>`;
+    }).join('');
+  }
+
+  const header = (txt, color) => `
+    <div style="font-size:0.75rem; font-weight:700; color:${color}; text-transform:uppercase; letter-spacing:0.06em; margin:20px 0 10px; border-bottom:1px solid rgba(255,255,255,0.05); padding-bottom:5px;">
+      ${txt}
+    </div>`;
+
+  list.innerHTML = `
+    <!-- Barra de Alertas de Demandas -->
+    <div class="alerts-bar" style="margin-bottom:20px; display:flex; gap:10px;">
+      <div class="alert-chip red" style="cursor:pointer; padding:8px 14px; border-radius:20px; background:rgba(239,95,95,0.1); color:var(--red);" onclick="openDemandaAlertPopup('atrasadas')">
+        ● ${atrasadas.length} atrasada${atrasadas.length!==1?'s':''}
+      </div>
+      <div class="alert-chip orange" style="background:var(--orange-soft); color:var(--orange); border:1px solid rgba(245,158,66,0.3); border-radius:20px; padding:8px 14px; cursor:pointer;" onclick="openDemandaAlertPopup('aprovacao')">
+        ● ${emAprovacao.length} em aprovação
+      </div>
+      <div class="alert-chip green" style="cursor:pointer; padding:8px 14px; border-radius:20px; background:rgba(76,175,80,0.1); color:var(--green);" onclick="openDemandaAlertPopup('prazo')">
+        ● ${noPrazo.length} no prazo
+      </div>
+    </div>
+
+    <div class="demandas-compact-list">
+      ${atrasadas.length ? (header('🚨 Demandas em Atraso', 'var(--red)') + buildList(atrasadas)) : ''}
+      ${emAprovacao.length ? (header('⏳ Aguardando Cliente (Aprovação)', 'var(--orange)') + buildList(emAprovacao, true)) : ''}
+      ${noPrazo.length ? (header('✅ Próximas Demandas / Em Dia', 'var(--green)') + buildList(noPrazo)) : ''}
+    </div>
+  `;
+
+  // Guarda dados para o clique
+  window._demandaAlertData = { atrasadas, emAprovacao, noPrazo };
+}
+
+function openDemandaAlertPopup(type) {
+  const data = window._demandaAlertData;
+  let list = [], label = '', color = '';
+  
+  if (type === 'atrasadas') { list = data.atrasadas; label = '🚨 Demandas em Atraso'; color = 'var(--red)'; }
+  else if (type === 'aprovacao') { list = data.emAprovacao; label = '⏳ Aguardando Aprovação (Feedback Cliente)'; color = 'var(--orange)'; }
+  else { list = data.noPrazo; label = '✅ Demandas no Prazo'; color = 'var(--green)'; }
+
+  const itemsUI = list.map(d => `
+    <li style="padding:10px 0; border-bottom:1px solid rgba(255,255,255,0.06); display:flex; flex-direction:column; gap:4px;">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <span style="font-weight:700; font-size:0.75rem; color:var(--accent); cursor:pointer; text-decoration:underline;" onclick="openClientModal('${d.client}')">${d.client}</span>
+        <span style="font-size:0.7rem; font-weight:700; color:${color};">${d.label}</span>
+      </div>
+      <div style="font-size:0.85rem; color:var(--text);">${d.title}</div>
+    </li>
+  `).join('');
+
+  document.getElementById('modalContent').innerHTML = `
+    <button class="modal-close" onclick="closeModal()">&times;</button>
+    <div style="font-size:0.8rem; font-weight:700; color:${color}; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:16px;">${label} (${list.length})</div>
+    <ul style="list-style:none; padding:0; margin:0; max-height:60vh; overflow-y:auto;">${itemsUI || '<li style="color:var(--text-dim); padding:20px 0; text-align:center;">Nenhum item encontrado.</li>'}</ul>
+  `;
+  document.getElementById('modalOverlay').classList.add('active');
+}
+
+  // ======================
+  // INIT
+  // ======================
+  try {
+    renderDonuts();
+    renderAlerts();
+    renderReadiness();
+    renderSeasonal();
+    renderGestoraTabs();
+    renderClients();
+    renderDemandas();
+    updateMeta();
+  } catch (err) {
+    console.error("Erro ao renderizar dashboard:", err);
+  }
+</script>
+</body>
+</html>

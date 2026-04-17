@@ -1,0 +1,4 @@
+@echo off
+node sync-notion.js
+echo Sincronização Concluída!
+pause
