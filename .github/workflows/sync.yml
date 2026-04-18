@@ -5,6 +5,9 @@ on:
     - cron: '*/30 * * * *' # Executa a cada 30 minutos
   workflow_dispatch: # Permite rodar manualmente pelo GitHub
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
