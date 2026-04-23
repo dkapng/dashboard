@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 14:56:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 15:49:00 **/
 
-const LAST_UPDATE = '23/04/2026, 14:56:33';
+const LAST_UPDATE = '23/04/2026, 15:49:00';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -1124,7 +1124,7 @@ const LINHA_FEED_ITEMS = {
       "date": "23/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Anivers-rio-da-M-rcia-Vieira-34b33d8db9d280a8a922daf8d31e9437"
     },
@@ -4383,10 +4383,10 @@ const DEMANDAS_EXTRAS = {
       "date": "27/04"
     },
     {
-      "title": "Campanha de design para perfomance",
+      "title": "Designs para performance",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Campanha-de-design-para-perfomance-34b33d8db9d280929ed4d796c94d29c2",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Designs-para-performance-34b33d8db9d280929ed4d796c94d29c2",
       "gestora": "Equipe",
       "date": "23/04"
     },
