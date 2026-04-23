@@ -15,6 +15,13 @@ const DATABASE_IDS = {
     SEASONAL: '5c29d923-b4ca-4b94-b5ae-c5daf6a8c4da'
 };
 
+if (!NOTION_TOKEN) {
+    console.error('❌ ERRO: NOTION_TOKEN não encontrado nas variáveis de ambiente.');
+    console.error('No GitHub: Verifique se o Secret "NOTION_TOKEN" foi adicionado.');
+    console.error('Localmente: Defina a variável de ambiente NOTION_TOKEN.');
+    process.exit(1);
+}
+
 // Metas de entrega por padrão e específicas
 const DEFAULT_TARGETS = { designs: 12, videos: 4, stories: 4 };
 const CLIENT_SPECIFIC_TARGETS = {
@@ -393,6 +400,7 @@ async function sync() {
 
     } catch (error) {
         console.error('❌ Erro durante a sincronização:', error.message);
+        process.exit(1);
     }
 }
 

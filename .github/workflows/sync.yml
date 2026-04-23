@@ -2,8 +2,11 @@ name: Sync Notion Data
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Executa a cada 30 minutos
-  workflow_dispatch: # Permite rodar manualmente pelo GitHub
+    - cron: '*/30 * * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,15 +16,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install
+
+      - name: Verify Notion Token
+        run: |
+          if [ -z "${{ secrets.NOTION_TOKEN }}" ]; then
+            echo "❌ NOTION_TOKEN secret is missing!"
+            exit 1
+          fi
 
       - name: Run sync script
         env:
@@ -33,5 +43,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add notion-data.js
-          git commit -m "Auto-update dashboard data [skip ci]" || echo "No changes to commit"
-          git push
+          if git commit -m "Auto-update dashboard data [skip ci]"; then
+            git push origin HEAD
+          else
+            echo "No changes to commit"
+          fi
