@@ -6,7 +6,7 @@ const path = require('path');
 // CONFIGURATION
 // ======================
 // NOTA: No GitHub, o token será lido dos "Secrets". Localmente, ele usa o valor abaixo.
-const NOTION_TOKEN = process.env.NOTION_TOKEN || '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';
+const NOTION_TOKEN = process.env.NOTION_TOKEN; // Use Secrets no GitHub ou defina localmente
 const DATABASE_IDS = {
     CLIENTES: 'b835b202-4fdb-4266-8f23-470acbc60a2c',
     EDITORIAL: '9c0408a8-2d22-4919-a3e1-2f7b4fd1b1b9',
@@ -42,7 +42,7 @@ async function notionFetch(endpoint, method = 'GET', body = null) {
         }
     };
     if (body) options.body = JSON.stringify(body);
-    
+
     const response = await fetch(`https://api.notion.com/v1${endpoint}`, options);
     const data = await response.json();
     if (!response.ok) {
@@ -80,27 +80,27 @@ async function sync() {
         // 1. Fetch Clientes
         console.log('--- Buscando Clientes...');
         const clientResults = await queryDatabase(DATABASE_IDS.CLIENTES);
-        
+
         const GESTORAS = {};
         const NICHES = {};
-        const clientIdMap = {}; 
+        const clientIdMap = {};
 
         clientResults.forEach(page => {
             const name = page.properties.Nome.title[0]?.plain_text;
             const situacaoObj = page.properties['Situação']?.select || page.properties['Situação']?.status;
             const situacao = situacaoObj?.name || '';
-            
+
             if (!name || situacao.includes('Arquivado') || situacao.includes('Pausado')) return;
 
             clientIdMap[page.id] = name;
-            
+
             const gestora = page.properties['Gestor de conta']?.people[0]?.name || 'Sem Gestora';
             if (!GESTORAS[gestora]) GESTORAS[gestora] = [];
             GESTORAS[gestora].push(name);
-            
+
             // Tenta pegar Nicho ou Segmento, senão Geral
             const nicho = page.properties['Nicho']?.select?.name || page.properties['Segmento']?.select?.name || 'Geral';
-            NICHES[name] = nicho; 
+            NICHES[name] = nicho;
         });
 
         // 2. Fetch Linha Editorial
@@ -111,7 +111,7 @@ async function sync() {
                 { property: 'Agendamento', date: { on_or_before: TARGET_MONTH.end } }
             ]
         });
-        
+
         const FEED_DATA = {};
         const VIDEO_DATA = {};
         const STORIES_DATA = {};
@@ -137,7 +137,7 @@ async function sync() {
         editorialResults.forEach(page => {
             const clientRelArray = page.properties['Cliente(s)']?.relation || page.properties['Cliente']?.relation;
             if (!clientRelArray || clientRelArray.length === 0) return;
-            
+
             // Auditoria: Detectar posts com múltiplos clientes
             if (clientRelArray.length > 1) {
                 const multiClients = clientRelArray.map(r => clientIdMap[r.id] || 'Desconhecido').join(', ');
@@ -157,7 +157,7 @@ async function sync() {
 
             const isVideo = fmtLower.includes('vídeo') || fmtLower.includes('video') || fmtLower.includes('reels') || fmtLower.includes('edição');
             const isStory = fmtLower.includes('story');
-            const isDesign = !isVideo && formato !== ''; 
+            const isDesign = !isVideo && formato !== '';
 
             const allStatuses = [
                 page.properties['Conteúdo']?.status?.name,
@@ -171,7 +171,7 @@ async function sync() {
             // Padrões de "Concluído" — Ignorando números iniciais
             const isDone = allStatuses.some(s => {
                 const sl = (s || '').toLowerCase();
-                return sl.includes('agendado') || sl.includes('postado') 
+                return sl.includes('agendado') || sl.includes('postado')
                     || sl.includes('perdido') || sl.includes('arquivado') || sl.includes('na gaveta')
                     || sl.includes('concluíd');
             });
@@ -194,26 +194,26 @@ async function sync() {
             if (rawAgend) {
                 const parts = rawAgend.split('-');
                 if (parts.length >= 3) {
-                    agendDate = `${parts[2].substring(0,2)}/${parts[1]}`;
+                    agendDate = `${parts[2].substring(0, 2)}/${parts[1]}`;
                 }
             }
 
             // Metadados Brutos
-            const rawDesign  = page.properties['Design']?.status?.name   || '';
-            const rawLegenda = page.properties['Conteúdo']?.status?.name  || '';
-            const rawVideo   = page.properties['Vídeo']?.status?.name     || '';
+            const rawDesign = page.properties['Design']?.status?.name || '';
+            const rawLegenda = page.properties['Conteúdo']?.status?.name || '';
+            const rawVideo = page.properties['Vídeo']?.status?.name || '';
 
-            const checkDesign   = s => s.toLowerCase().includes('exportado');
-            const checkLegenda  = s => {
+            const checkDesign = s => s.toLowerCase().includes('exportado');
+            const checkLegenda = s => {
                 const sl = s.toLowerCase();
                 return sl.includes('escrito') || sl.includes('aprovação') || sl.includes('aprovacao');
             };
-            const checkVideo    = s => s.toLowerCase().includes('finalizado');
+            const checkVideo = s => s.toLowerCase().includes('finalizado');
 
             // Auditoria com Fallback Global
             const isDesignPronto = isDesign && (checkDesign(rawDesign) || isDone);
-            const isVideoPronto   = isVideo  && (checkVideo(rawVideo) || isDone);
-            const isStoryPronto   = isStory  && (checkDesign(rawDesign) || isDone);
+            const isVideoPronto = isVideo && (checkVideo(rawVideo) || isDone);
+            const isStoryPronto = isStory && (checkDesign(rawDesign) || isDone);
 
             const missing = [];
             // Alertas Gated by isDone
@@ -339,7 +339,7 @@ async function sync() {
 
             const isFinished = sl.includes('finalizada') || sl.includes('concluí') || sl.includes('perdida') || sl.includes('arquivada') || sl.includes('postado');
             if (dateStr && new Date(dateStr) < new Date(TARGET_MONTH.start) && isFinished) return;
-            
+
             if (!isFinished) {
                 if (!DEMANDAS_EXTRAS[clientName]) DEMANDAS_EXTRAS[clientName] = [];
                 DEMANDAS_EXTRAS[clientName].push({

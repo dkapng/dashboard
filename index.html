@@ -435,12 +435,6 @@ h1, h2, h3, .brand-ventana {
           <span class="update-dot"></span>
           <span id="lastUpdate">carregando...</span>
         </span>
-        <button class="btn-sync" onclick="window.location.reload()">
-          <span>↻</span> recarregar
-        </button>
-        <a href="https://github.com" id="githubActionLink" target="_blank" class="btn-sync" style="background: var(--bg-darker); color: var(--text);">
-          <span>⚙️</span> sincronizar
-        </a>
       </div>
     </div>
   </div>
@@ -801,13 +795,13 @@ function renderReadiness() {
       if (i.status === 'postado') return;
       const problems = i.status === 'a_agendar' ? ['Não agendado', ...(i.missing || [])] : (i.missing || []);
       if (problems.length > 0) {
-        allAlerts.push({ client: c, area: i.area, title: i.title, date: i.date, missing: problems });
+        allAlerts.push({ client: c, area: i.area, title: i.title, date: i.date, missing: problems, isExtra: false });
       }
     });
 
     (DEMANDAS_EXTRAS[c] || []).forEach(d => {
       if (!inWindow(d.date)) return;
-      allAlerts.push({ client: c, area: d.priority === 'pppp' ? 'Prod' : 'Agend', title: d.title, date: d.date, missing: ['Pendente'] });
+      allAlerts.push({ client: c, area: 'EXTRA', title: d.title, date: d.date, missing: ['Pendente'], isExtra: true });
     });
   });
 
@@ -842,9 +836,11 @@ function renderReadiness() {
       <div style="display:flex; flex-direction:column; gap:6px; width:100%;">
         ${grouped[date].map(a => `
           <div style="display:flex; align-items:center; gap:12px; padding:10px 16px; 
-            background:var(--bg-card); border:1px solid var(--border); border-radius:8px; font-size:0.8rem;">
+            background:${a.isExtra ? 'var(--blue-soft)' : 'var(--bg-card)'}; 
+            border:1px solid ${a.isExtra ? 'rgba(9, 105, 218, 0.2)' : 'var(--border)'}; 
+            border-radius:8px; font-size:0.8rem;">
             <div style="width:140px; font-weight:700; color:var(--text); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${a.client}</div>
-            <div style="width:60px; font-size:0.65rem; font-weight:700; text-transform:uppercase; color:var(--accent);">${a.area}</div>
+            <div style="width:60px; font-size:0.65rem; font-weight:700; text-transform:uppercase; color:${a.isExtra ? 'var(--blue)' : 'var(--accent)'};">${a.area}</div>
             <div style="flex:1; color:var(--text-muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
               ${a.title} ${a.notionUrl ? `<a href="${a.notionUrl}" target="_blank" style="margin-left:8px; opacity:0.6; text-decoration:none;">↗</a>` : ''}
             </div>

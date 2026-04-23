@@ -1,6 +1,6 @@
 
 const fs = require('fs');
-const NOTION_TOKEN = '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';
+const NOTION_TOKEN = process.env.NOTION_TOKEN;
 const DATABASE_IDS = {
     CLIENTES: 'b835b202-4fdb-4266-8f23-470acbc60a2c',
     AGENDA: '4c1337aa-c132-47d2-a165-65ba2147f964'

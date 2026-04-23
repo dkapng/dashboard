@@ -1,5 +1,5 @@
 
-const token = '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';
+const token = process.env.NOTION_TOKEN;
 const dbs = {
     'AGENDA': '2eea9587-ac4b-4e3f-ab9b-a9f24beac713',
     'LINHA_EDITORIAL': '1eaee169-2383-41ee-b0d9-d554505bddc5',
