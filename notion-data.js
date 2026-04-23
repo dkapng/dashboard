@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 11:17:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 17:22:55 **/
 
-const LAST_UPDATE = '23/04/2026, 11:17:38';
+const LAST_UPDATE = '23/04/2026, 17:22:55';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -57,9 +57,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 11,
     "postado": 4,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Conecta Assessoria": {
     "total": 15,
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 11,
-    "pronto": 8,
+    "pronto": 11,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 5,
@@ -95,11 +95,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 17,
-    "pronto": 14,
+    "pronto": 16,
     "postado": 0,
     "agendado": 6,
-    "agendado_coord": 6,
-    "a_agendar": 5
+    "agendado_coord": 7,
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 13,
@@ -191,11 +191,11 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 15,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 6,
-    "agendado": 6,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 0
   },
   "Ser Ponte": {
     "total": 3,
@@ -209,12 +209,12 @@ const FEED_DATA = {
 
 const VIDEO_DATA = {
   "APROSSEG": {
-    "total": 2,
+    "total": 1,
     "pronto": 1,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 2,
@@ -557,7 +557,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Aos profissionais da contabilidade: nossa admiração e respeito.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/04",
       "missing": [],
@@ -844,10 +844,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/R-u-confesso-n-o-r-u-condenado-Entenda-por-qu-33a33d8db9d280adb473f655ba1cd6c0"
@@ -857,13 +856,11 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/NDA-Acordo-de-Confidencialidade-quando-e-como-usar-1-33a33d8db9d280899c95def4a92400c6"
+      "notionUrl": "https://www.notion.so/NDA-Acordo-de-Confidencialidade-quando-e-como-usar-33a33d8db9d280899c95def4a92400c6"
     },
     {
       "title": "24 horas de acesso ao advogado que cuida do seu caso. Não é promessa. É uma filosofia do nosso escritório!",
@@ -871,10 +868,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/24-horas-de-acesso-ao-advogado-que-cuida-do-seu-caso-N-o-promessa-uma-filosofia-do-nosso-escri-33a33d8db9d280b9ac2ddd987e1546d9"
@@ -1123,14 +1119,12 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Aniversário da Márcia Vieira",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "23/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 2. Aprovação (interno)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Anivers-rio-da-M-rcia-Vieira-34b33d8db9d280a8a922daf8d31e9437"
     },
@@ -1176,10 +1170,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Como-o-algoritmo-transforma-um-menino-inseguro-em-um-homem-que-odeia-mulheres-33933d8db9d280fba0fde31af9b957e1"
@@ -1190,10 +1183,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Perimenopausa-a-fase-que-come-a-anos-antes-e-quase-ningu-m-reconhece-33933d8db9d28019b867d9bf5dc3b53a"
@@ -2484,18 +2476,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Parab-ns-Fortaleza-Uma-cidade-que-n-o-para-de-crescer-33e33d8db9d280c2acf0c0d1ce8946e4"
     },
     {
-      "title": "Dia do profissional de contabilidade",
+      "title": "Parabéns aos mestres do equilíbrio financeiro - Feliz dia do profissional de contabilidade",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/04",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Dia-do-profissional-de-contabilidade-33533d8db9d2807dbc05d2d0b3629a71"
+      "notionUrl": "https://www.notion.so/Parab-ns-aos-mestres-do-equil-brio-financeiro-Feliz-dia-do-profissional-de-contabilidade-33533d8db9d2807dbc05d2d0b3629a71"
     },
     {
       "title": "(dia do livro) Uma leitura que pode mudar a forma como você toma decisões na sua empresa - A Meta / Eliyahu Goldratt",
@@ -2909,41 +2900,34 @@ const LINHA_FEED_ITEMS = {
   "Univendas": [
     {
       "title": "Esse é o tipo de ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Esse-o-tipo-de-jogada-que-voc-n-o-pode-perder-34b33d8db9d28007bc3ef5b32a54de1d"
     },
     {
       "title": "Vai ser uma ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Vai-ser-uma-goleada-de-descontos-34b33d8db9d2807bab17d7371db958dd"
     },
     {
       "title": "Prepare o grito: Vem aí ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/04",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Prepare-o-grito-Vem-a-um-gola-o-de-economia-34a33d8db9d280b0b4eaf48ac6e6358a"
     },
@@ -3146,20 +3130,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Voc-sabe-por-que-a-franquia-existe-no-seu-seguro-32f33d8db9d280559053e1b746b989ec"
-    },
-    {
-      "title": "O que ninguém vê",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/04",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/O-que-ningu-m-v-32633d8db9d28078bdebd69ef1861f9d"
     }
   ],
   "Conecta Assessoria": [
@@ -4353,10 +4323,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "Vaga de estágio para auxiliar administrativo",
+      "title": "Vaga de estágio - auxiliar administrativo",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Vaga-de-est-gio-para-auxiliar-administrativo-34b33d8db9d2806d9adcca4cddab31a3",
+      "notionUrl": "https://www.notion.so/Vaga-de-est-gio-auxiliar-administrativo-34b33d8db9d2806d9adcca4cddab31a3",
       "gestora": "Equipe",
       "date": "24/04"
     }
@@ -4512,7 +4482,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "APROSSEG": {
     "prontas": 14,
-    "total": 16
+    "total": 15
   },
   "Conecta Assessoria": {
     "prontas": 17,
@@ -4531,7 +4501,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 17
   },
   "ItalaP": {
@@ -4567,7 +4537,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Plannea": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 16
   },
   "Stratto": {
@@ -4579,7 +4549,7 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Univendas": {
-    "prontas": 12,
+    "prontas": 15,
     "total": 15
   },
   "Ser Ponte": {
@@ -4593,7 +4563,7 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 2,
     "foto": 0,
-    "video": 3,
+    "video": 2,
     "story": 7
   },
   "Conecta Assessoria": {
