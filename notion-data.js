@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 15:49:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 18:34:09 **/
 
-const LAST_UPDATE = '23/04/2026, 15:49:00';
+const LAST_UPDATE = '23/04/2026, 18:34:09';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -89,9 +89,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 11,
     "postado": 3,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 2,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 17,
@@ -167,7 +167,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 15,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
@@ -268,9 +268,9 @@ const VIDEO_DATA = {
     "total": 2,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 0,
@@ -1050,24 +1050,21 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Um-vaso-de-planta-e-um-preju-zo-de-R-5-mil-Como-a-cobertura-de-RC-Familiar-salva-o-seu-or-amento-33433d8db9d2805b8b8cd072be41459f"
     },
     {
       "title": "O seguro cobre goteira? Descubra o que acontece quando a água entra sem pedir licença",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-seguro-cobre-goteira-Descubra-o-que-acontece-quando-a-gua-entra-sem-pedir-licen-a-33433d8db9d28025aa7ee9e7ea77d0cc"
     },
@@ -2186,11 +2183,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-est-montando-um-neg-cio-ou-improvisando-um-34b33d8db9d28020b567ff732643152a"
     },
@@ -2480,10 +2476,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Parab-ns-aos-mestres-do-equil-brio-financeiro-Feliz-dia-do-profissional-de-contabilidade-33533d8db9d2807dbc05d2d0b3629a71"
@@ -2500,7 +2494,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/dia-do-livro-Uma-leitura-que-pode-mudar-a-forma-como-voc-toma-decis-es-na-sua-empresa-A-Meta-E-33433d8db9d2808a8c3bc8af9278db40"
     },
     {
-      "title": "O próximo nível da suam empresa exige mais controle - entenda o porquê",
+      "title": "O próximo nível da sua empresa exige mais controle - entenda o porquê",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/04",
@@ -2510,7 +2504,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-pr-ximo-n-vel-da-suam-empresa-exige-mais-controle-entenda-o-porqu-33433d8db9d280079754da0baaa3d6be"
+      "notionUrl": "https://www.notion.so/O-pr-ximo-n-vel-da-sua-empresa-exige-mais-controle-entenda-o-porqu-33433d8db9d280079754da0baaa3d6be"
     },
     {
       "title": "Feliz Páscoa: Que o verdadeiro sentido dessa data esteja presente em sua vida!",
@@ -3310,7 +3304,7 @@ const LINHA_VIDEO_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Decisões importantes",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "30/04",
       "missing": [],
@@ -3321,7 +3315,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Controle financeiro.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "27/04",
       "missing": [],
@@ -4470,7 +4464,7 @@ const CAPTACAO_DATA = {
   "Daniel Maia Advocacia": "marcada",
   "Finseg Leal": "marcada",
   "Planos Seguros": "marcada",
-  "Jota Diesel": "confirmada",
+  "Jota Diesel": "realizada",
   "APROSSEG": "marcada",
   "Solar Coworking": "marcada",
   "Univendas": "marcada",
@@ -4497,7 +4491,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Finseg Leal": {
-    "prontas": 11,
+    "prontas": 13,
     "total": 13
   },
   "Grupo Mulheres do Brasil": {
@@ -4529,7 +4523,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Solar Coworking": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 14
   },
   "Juntos contra o HPV": {
@@ -4697,7 +4691,7 @@ const FORMAT_COUNTS = {
 const AGENDA_COUNTS = {
   "APROSSEG": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "Conecta Assessoria": {
