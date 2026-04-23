@@ -372,7 +372,7 @@ async function sync() {
         }).filter(Boolean);
 
         // Generate JSON
-        const nowStr = new Date().toLocaleString('pt-BR');
+        const nowStr = new Date().toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' });
         let content = `/** AUTO-GENERATED DATA FROM NOTION - ${nowStr} **/\n\n`;
         content += `const LAST_UPDATE = '${nowStr}';\n\n`;
         content += `const GESTORAS = ${JSON.stringify(GESTORAS, null, 2)};\n\n`;
