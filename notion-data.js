@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 12:54:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 15:05:18 **/
 
-const LAST_UPDATE = '24/04/2026, 12:54:22';
+const LAST_UPDATE = '24/04/2026, 15:05:18';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -17,6 +17,7 @@ const GESTORAS = {
     "Di Gregório Buffet",
     "Grupo Mulheres do Brasil",
     "Rede Pangeia",
+    "Travessias Híbridas",
     "Ser Ponte"
   ],
   "Anna Ventana": [
@@ -49,6 +50,7 @@ const NICHES = {
   "Stratto": "Geral",
   "Terrartesã": "Geral",
   "Univendas": "Geral",
+  "Travessias Híbridas": "Geral",
   "Ser Ponte": "Geral"
 };
 
@@ -197,6 +199,14 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
+  "Travessias Híbridas": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
   "Ser Ponte": {
     "total": 3,
     "pronto": 3,
@@ -273,12 +283,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
+    "total": 2,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 6,
@@ -345,6 +355,14 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Univendas": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
+  "Travessias Híbridas": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -428,12 +446,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 3,
@@ -506,6 +524,14 @@ const STORIES_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
+  },
+  "Travessias Híbridas": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
   },
   "Ser Ponte": {
     "total": 0,
@@ -1724,7 +1750,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você sabe o que é bomba injetora e por que ela falha?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "23/04",
+      "date": "25/04",
       "missing": [
         "Design"
       ],
@@ -3050,6 +3076,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Hospitais-de-refer-ncia-elevam-o-padr-o-do-cuidado-com-a-sa-de-32533d8db9d2804f8bd6e425153ef0c8"
     }
   ],
+  "Travessias Híbridas": [],
   "Ser Ponte": [
     {
       "title": "Quem decide quem recebe esse dinheiro?",
@@ -3317,7 +3344,32 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/Controle-financeiro-34a33d8db9d280cd8f4de7d1d4184da6"
     }
   ],
-  "Jota Diesel": [],
+  "Jota Diesel": [
+    {
+      "title": "O problema da Turbina",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/04",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/O-problema-da-Turbina-34c33d8db9d2806ba807f21965e1c2f1"
+    },
+    {
+      "title": "Rodar na reserva ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "24/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Rodar-na-reserva-34c33d8db9d280169706c2e9ff6f4e5f"
+    }
+  ],
   "Ortobom": [
     {
       "title": "Como os clientes me veem ",
@@ -3581,6 +3633,7 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Univendas": [],
+  "Travessias Híbridas": [],
   "Ser Ponte": []
 };
 
@@ -3929,19 +3982,6 @@ const LINHA_STORIES_ITEMS = {
   "Jota Diesel": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34a33d8db9d280e9a34ac8734cc7eb84"
-    },
-    {
-      "title": "Story/stories",
       "status": "postado",
       "formato": "📱 Story",
       "date": "16/04",
@@ -4225,6 +4265,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Story-stories-32533d8db9d28079b7d7f4bcbb884ce3"
     }
   ],
+  "Travessias Híbridas": [],
   "Ser Ponte": []
 };
 
@@ -4307,51 +4348,15 @@ const DEMANDAS_EXTRAS = {
       "date": "10/02"
     }
   ],
-  "Finseg Leal": [
+  "Solar Coworking": [
     {
-      "title": "Banner com QRCodes para projeção",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Banner-com-QRCodes-para-proje-o-34c33d8db9d280c8878ecb0108d9dbeb",
-      "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "Capa do catálogo do WhatsApp para responsabilidade civil para eventos",
+      "title": "bloco de notas ",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Capa-do-cat-logo-do-WhatsApp-para-responsabilidade-civil-para-eventos-34b33d8db9d280f780f1ed9dc2768e48",
+      "notionUrl": "https://www.notion.so/bloco-de-notas-34c33d8db9d2809db676fe2870a25abd",
       "gestora": "Equipe",
       "date": "27/04"
     },
-    {
-      "title": "Designs para performance",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Designs-para-performance-34b33d8db9d280929ed4d796c94d29c2",
-      "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "20/01"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Vaga de estágio - auxiliar administrativo",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Vaga-de-est-gio-auxiliar-administrativo-34b33d8db9d2806d9adcca4cddab31a3",
-      "gestora": "Equipe",
-      "date": "24/04"
-    }
-  ],
-  "Solar Coworking": [
     {
       "title": "Edição do vídeo institucional para o evento - Solar",
       "priority": "p",
@@ -4391,6 +4396,50 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Banner-sobre-a-solar-31833d8db9d280e1a14ae70142b7f6d2",
       "gestora": "Equipe",
       "date": "23/04"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Banner com QRCodes para projeção",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Banner-com-QRCodes-para-proje-o-34c33d8db9d280c8878ecb0108d9dbeb",
+      "gestora": "Equipe",
+      "date": "23/04"
+    },
+    {
+      "title": "Capa do catálogo do WhatsApp para responsabilidade civil para eventos",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Capa-do-cat-logo-do-WhatsApp-para-responsabilidade-civil-para-eventos-34b33d8db9d280f780f1ed9dc2768e48",
+      "gestora": "Equipe",
+      "date": "27/04"
+    },
+    {
+      "title": "Designs para performance",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Designs-para-performance-34b33d8db9d280929ed4d796c94d29c2",
+      "gestora": "Equipe",
+      "date": "23/04"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "20/01"
+    }
+  ],
+  "Conecta Assessoria": [
+    {
+      "title": "Vaga de estágio - auxiliar administrativo",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Vaga-de-est-gio-auxiliar-administrativo-34b33d8db9d2806d9adcca4cddab31a3",
+      "gestora": "Equipe",
+      "date": "24/04"
     }
   ],
   "Plannea": [
@@ -4507,8 +4556,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Jota Diesel": {
-    "prontas": 11,
-    "total": 11
+    "prontas": 12,
+    "total": 13
   },
   "Ortobom": {
     "prontas": 18,
@@ -4545,6 +4594,10 @@ const LEGENDAS_DATA = {
   "Univendas": {
     "prontas": 15,
     "total": 15
+  },
+  "Travessias Híbridas": {
+    "prontas": 0,
+    "total": 0
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -4613,8 +4666,8 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
-    "story": 3
+    "video": 2,
+    "story": 2
   },
   "Ortobom": {
     "post": 10,
@@ -4678,6 +4731,13 @@ const FORMAT_COUNTS = {
     "foto": 0,
     "video": 0,
     "story": 3
+  },
+  "Travessias Híbridas": {
+    "post": 0,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 0,
+    "story": 0
   },
   "Ser Ponte": {
     "post": 2,
@@ -4778,6 +4838,11 @@ const AGENDA_COUNTS = {
     "reuniao": 0,
     "producao": 1,
     "evento": 1
+  },
+  "Travessias Híbridas": {
+    "reuniao": 0,
+    "producao": 0,
+    "evento": 0
   },
   "Ser Ponte": {
     "reuniao": 2,
