@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 18:09:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 20:28:32 **/
 
-const LAST_UPDATE = '24/04/2026, 18:09:59';
+const LAST_UPDATE = '24/04/2026, 20:28:32';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -171,9 +171,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 15,
     "postado": 4,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 14,
@@ -331,10 +331,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Plannea": {
-    "total": 1,
-    "pronto": 1,
+    "total": 2,
+    "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -486,11 +486,11 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 0
   },
   "Plannea": {
@@ -2346,7 +2346,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A prevenção do HPV exige articulação entre governo, sociedade civil e comunidades",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "29/04",
+      "date": "30/04",
       "missing": [
         "Design"
       ],
@@ -2359,7 +2359,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O Ceará avança e se consolida como referência nacional na prevenção do HPV",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "25/04",
+      "date": "28/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
@@ -2370,7 +2370,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Existem mais de 200 tipos de HPV, mas apenas alguns estão associados ao desenvolvimento de câncer",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "27/04",
+      "date": "29/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
@@ -2381,7 +2381,7 @@ const LINHA_FEED_ITEMS = {
       "title": "As regiões Norte e Nordeste concentram as maiores taxas de incidência do câncer do colo do útero no Brasil",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "24/04",
+      "date": "27/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
@@ -2491,7 +2491,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Parabéns aos mestres do equilíbrio financeiro - Feliz dia do profissional de contabilidade",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/04",
       "missing": [],
@@ -3562,6 +3562,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Dia do profissional de contabilidade",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "25/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Dia-do-profissional-de-contabilidade-34c33d8db9d28096aa8bc8217c02b954"
+    },
+    {
       "title": "video da promoção",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -4107,21 +4118,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Story-stories-33033d8db9d28043a9e0d64dab19d4b9"
     }
   ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Você sabia que o HPV pode ficar anos no corpo sem sinais?",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Voc-sabia-que-o-HPV-pode-ficar-anos-no-corpo-sem-sinais-34233d8db9d2806abcc3f47d7d425bff"
-    }
-  ],
+  "Juntos contra o HPV": [],
   "Plannea": [
     {
       "title": "Stories de vagas",
@@ -4360,18 +4357,18 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Tag",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Tag-34a33d8db9d280bea89ee098a8dc6304",
       "gestora": "Equipe",
-      "date": "23/04"
+      "date": "27/04"
     },
     {
       "title": "Convite digital",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Convite-digital-34a33d8db9d2803c83a3ea42ac684ec6",
       "gestora": "Equipe",
-      "date": "23/04"
+      "date": "27/04"
     },
     {
       "title": "Impresso 2 dobras ",
@@ -4422,16 +4419,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "20/01"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Vaga de estágio - auxiliar administrativo",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Vaga-de-est-gio-auxiliar-administrativo-34b33d8db9d2806d9adcca4cddab31a3",
-      "gestora": "Equipe",
-      "date": "24/04"
     }
   ],
   "Plannea": [
@@ -4572,8 +4559,8 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Plannea": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 17,
+    "total": 17
   },
   "Stratto": {
     "prontas": 16,
@@ -4694,13 +4681,13 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 1,
     "video": 5,
-    "story": 1
+    "story": 0
   },
   "Plannea": {
     "post": 14,
     "carrossel": 1,
     "foto": 0,
-    "video": 1,
+    "video": 2,
     "story": 4
   },
   "Stratto": {
