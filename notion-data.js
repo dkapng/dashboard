@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 15:05:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 18:09:59 **/
 
-const LAST_UPDATE = '24/04/2026, 15:05:18';
+const LAST_UPDATE = '24/04/2026, 18:09:59';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -121,19 +121,19 @@ const FEED_DATA = {
   },
   "Jota Diesel": {
     "total": 11,
-    "pronto": 7,
-    "postado": 5,
-    "agendado": 2,
+    "pronto": 9,
+    "postado": 6,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 12,
     "pronto": 11,
     "postado": 8,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 12,
@@ -519,7 +519,7 @@ const STORIES_DATA = {
   },
   "Univendas": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1713,13 +1713,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "São mais de 36 anos fazendo do jeito certo, com técnica e responsabilidade.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/S-o-mais-de-36-anos-fazendo-do-jeito-certo-com-t-cnica-e-responsabilidade-32f33d8db9d280d6949cf6ee6c56d3a1"
@@ -1748,13 +1746,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe o que é bomba injetora e por que ela falha?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-sabe-o-que-bomba-injetora-e-por-que-ela-falha-32f33d8db9d28079bba6cee0ee96549d"
@@ -1851,7 +1847,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O colchão certo não muda só a sua noite, muda a sua rotina inteira.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
@@ -3346,17 +3342,15 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Jota Diesel": [
     {
-      "title": "O problema da Turbina",
+      "title": "O seu diagnóstico não te ajudou",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "28/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/O-problema-da-Turbina-34c33d8db9d2806ba807f21965e1c2f1"
+      "notionUrl": "https://www.notion.so/O-seu-diagn-stico-n-o-te-ajudou-34c33d8db9d2806ba807f21965e1c2f1"
     },
     {
       "title": "Rodar na reserva ",
@@ -4234,10 +4228,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-32533d8db9d280509dc1fb54198aa142"
@@ -4556,7 +4548,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Jota Diesel": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 13
   },
   "Ortobom": {
