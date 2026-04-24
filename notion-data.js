@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 18:34:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 21:10:20 **/
 
-const LAST_UPDATE = '23/04/2026, 18:34:09';
+const LAST_UPDATE = '23/04/2026, 21:10:20';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 12,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 2,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 4,
     "agendado": 4,
     "agendado_coord": 3,
@@ -167,7 +167,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 15,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 14,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
@@ -1049,10 +1049,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Um-vaso-de-planta-e-um-preju-zo-de-R-5-mil-Como-a-cobertura-de-RC-Familiar-salva-o-seu-or-amento-33433d8db9d2805b8b8cd072be41459f"
@@ -1352,10 +1350,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Exame-de-DNA-exige-mais-do-que-tecnologia-exige-confian-a-sigilo-e-responsabilidade-33333d8db9d280a88084e0a97f38358f"
@@ -2498,10 +2494,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-pr-ximo-n-vel-da-sua-empresa-exige-mais-controle-entenda-o-porqu-33433d8db9d280079754da0baaa3d6be"
@@ -2689,10 +2683,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Comece-maio-com-o-p-direito-Agende-uma-conversa-com-nosso-time-de-especialistas-32f33d8db9d2807abcbcc8e6e15d827f"
