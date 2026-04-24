@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/04/2026, 21:10:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 04:18:20 **/
 
-const LAST_UPDATE = '23/04/2026, 21:10:20';
+const LAST_UPDATE = '24/04/2026, 04:18:20';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -4307,59 +4307,15 @@ const DEMANDAS_EXTRAS = {
       "date": "10/02"
     }
   ],
-  "Conecta Assessoria": [
-    {
-      "title": "Vaga de estágio - auxiliar administrativo",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Vaga-de-est-gio-auxiliar-administrativo-34b33d8db9d2806d9adcca4cddab31a3",
-      "gestora": "Equipe",
-      "date": "24/04"
-    }
-  ],
-  "Solar Coworking": [
-    {
-      "title": "Edição do vídeo institucional para o evento - Solar",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
-      "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "Tag",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Tag-34a33d8db9d280bea89ee098a8dc6304",
-      "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "Convite digital",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Convite-digital-34a33d8db9d2803c83a3ea42ac684ec6",
-      "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "Impresso 2 dobras ",
-      "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://www.notion.so/Impresso-2-dobras-31833d8db9d280fba55dedfa66ca06be",
-      "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "Banner (sobre a solar) ",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Banner-sobre-a-solar-31833d8db9d280e1a14ae70142b7f6d2",
-      "gestora": "Equipe",
-      "date": "23/04"
-    }
-  ],
   "Finseg Leal": [
+    {
+      "title": "Banner com QRCodes para projeção",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Banner-com-QRCodes-para-proje-o-34c33d8db9d280c8878ecb0108d9dbeb",
+      "gestora": "Equipe",
+      "date": "23/04"
+    },
     {
       "title": "Capa do catálogo do WhatsApp para responsabilidade civil para eventos",
       "priority": "p",
@@ -4383,6 +4339,58 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "20/01"
+    }
+  ],
+  "Conecta Assessoria": [
+    {
+      "title": "Vaga de estágio - auxiliar administrativo",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Vaga-de-est-gio-auxiliar-administrativo-34b33d8db9d2806d9adcca4cddab31a3",
+      "gestora": "Equipe",
+      "date": "24/04"
+    }
+  ],
+  "Solar Coworking": [
+    {
+      "title": "Edição do vídeo institucional para o evento - Solar",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
+      "gestora": "Equipe",
+      "date": "23/04"
+    },
+    {
+      "title": "Tag",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Tag-34a33d8db9d280bea89ee098a8dc6304",
+      "gestora": "Equipe",
+      "date": "23/04"
+    },
+    {
+      "title": "Convite digital",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Convite-digital-34a33d8db9d2803c83a3ea42ac684ec6",
+      "gestora": "Equipe",
+      "date": "23/04"
+    },
+    {
+      "title": "Impresso 2 dobras ",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Impresso-2-dobras-31833d8db9d280fba55dedfa66ca06be",
+      "gestora": "Equipe",
+      "date": "23/04"
+    },
+    {
+      "title": "Banner (sobre a solar) ",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://www.notion.so/Banner-sobre-a-solar-31833d8db9d280e1a14ae70142b7f6d2",
+      "gestora": "Equipe",
+      "date": "23/04"
     }
   ],
   "Plannea": [
