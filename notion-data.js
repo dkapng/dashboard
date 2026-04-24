@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 08:42:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 12:54:22 **/
 
-const LAST_UPDATE = '24/04/2026, 08:42:56';
+const LAST_UPDATE = '24/04/2026, 12:54:22';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -128,10 +128,10 @@ const FEED_DATA = {
   "Ortobom": {
     "total": 12,
     "pronto": 11,
-    "postado": 7,
+    "postado": 8,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 12,
@@ -374,10 +374,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 10,
     "pronto": 9,
-    "postado": 8,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -398,10 +398,10 @@ const STORIES_DATA = {
   "Finseg Leal": {
     "total": 2,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -1792,7 +1792,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "ORION- Dormir bem é o básico, mas dormir com tecnologia muda completamente a experiência.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📸 Foto(s)",
       "date": "24/04",
       "missing": [],
@@ -3669,7 +3669,7 @@ const LINHA_STORIES_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Aniversário: Fernanda Santos - Minha Corretora de Seguros ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "24/04",
       "missing": [],
@@ -3797,7 +3797,7 @@ const LINHA_STORIES_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Deu problema no carro?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "24/04",
       "missing": [],
