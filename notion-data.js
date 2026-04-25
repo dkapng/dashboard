@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/04/2026, 20:28:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/04/2026, 03:00:39 **/
 
-const LAST_UPDATE = '24/04/2026, 20:28:32';
+const LAST_UPDATE = '25/04/2026, 03:00:39';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -4349,7 +4349,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Edição do vídeo institucional para o evento - Solar",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
       "gestora": "Equipe",
       "date": "23/04"
