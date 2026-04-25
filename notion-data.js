@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/04/2026, 16:52:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/04/2026, 18:55:00 **/
 
-const LAST_UPDATE = '25/04/2026, 16:52:35';
+const LAST_UPDATE = '25/04/2026, 18:55:00';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -155,7 +155,7 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 14,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 6,
     "agendado": 4,
     "agendado_coord": 3,
@@ -2227,10 +2227,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-est-montando-um-neg-cio-ou-improvisando-um-34b33d8db9d28020b567ff732643152a"
@@ -4469,7 +4467,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convite digital",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Convite-digital-34a33d8db9d2803c83a3ea42ac684ec6",
       "gestora": "Equipe",
       "date": "27/04"
