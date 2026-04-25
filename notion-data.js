@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/04/2026, 11:30:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/04/2026, 14:11:50 **/
 
-const LAST_UPDATE = '25/04/2026, 11:30:39';
+const LAST_UPDATE = '25/04/2026, 14:11:50';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -17,6 +17,7 @@ const GESTORAS = {
     "Di Gregório Buffet",
     "Grupo Mulheres do Brasil",
     "Rede Pangeia",
+    "Ventana",
     "Travessias Híbridas",
     "Ser Ponte"
   ],
@@ -50,6 +51,7 @@ const NICHES = {
   "Stratto": "Geral",
   "Terrartesã": "Geral",
   "Univendas": "Geral",
+  "Ventana": "Geral",
   "Travessias Híbridas": "Geral",
   "Ser Ponte": "Geral"
 };
@@ -196,6 +198,14 @@ const FEED_DATA = {
     "pronto": 15,
     "postado": 6,
     "agendado": 9,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
+  "Ventana": {
+    "total": 1,
+    "pronto": 1,
+    "postado": 1,
+    "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -355,6 +365,14 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Univendas": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
+  "Ventana": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -524,6 +542,15 @@ const STORIES_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
+  },
+  "Ventana": {
+    "total": 3,
+    "pronto": 2,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 1,
+    "st-paused": null
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -3072,6 +3099,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Hospitais-de-refer-ncia-elevam-o-padr-o-do-cuidado-com-a-sa-de-32533d8db9d2804f8bd6e425153ef0c8"
     }
   ],
+  "Ventana": [
+    {
+      "title": "Antes de renascer, é preciso atravessar.",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "05/04",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Antes-de-renascer-preciso-atravessar-33533d8db9d280708c75f5ff72064443"
+    }
+  ],
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
@@ -3638,6 +3678,7 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Univendas": [],
+  "Ventana": [],
   "Travessias Híbridas": [],
   "Ser Ponte": []
 };
@@ -4254,6 +4295,43 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Story-stories-32533d8db9d28079b7d7f4bcbb884ce3"
     }
   ],
+  "Ventana": [
+    {
+      "title": "Aniversário do Fernando do Sincor",
+      "status": "st-paused",
+      "formato": "📱 Story",
+      "date": "01/04",
+      "missing": [],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Anivers-rio-do-Fernando-do-Sincor-33533d8db9d28043a01fdb81f1b0f518"
+    },
+    {
+      "title": "Vinicius Rocha",
+      "status": "st-paused",
+      "formato": "📱 Story",
+      "date": "09/04",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Vinicius-Rocha-2e733d8db9d2809fac8ac523eee433ad"
+    },
+    {
+      "title": "Agostinho (Italap)",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "24/04",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Agostinho-Italap-2e733d8db9d28089b3bbc37e5a15540c"
+    }
+  ],
   "Travessias Híbridas": [],
   "Ser Ponte": []
 };
@@ -4335,6 +4413,32 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Impulsionamento-2c533d8db9d280f09fdbda8054d5b2e0",
       "gestora": "Equipe",
       "date": "10/02"
+    }
+  ],
+  "Ventana": [
+    {
+      "title": "DEMANDA NOTION VENTANA",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/DEMANDA-NOTION-VENTANA-34333d8db9d280c6a275d7d2e829528e",
+      "gestora": "Equipe",
+      "date": "21/04"
+    },
+    {
+      "title": "Recursos de identidade visual - Daniel Maia",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Recursos-de-identidade-visual-Daniel-Maia-2e833d8db9d28037b643df55879c539a",
+      "gestora": "Equipe",
+      "date": "30/03"
+    },
+    {
+      "title": "Pacote de demandas de identidade visual #01",
+      "priority": "p",
+      "rawStatus": "2. Pausada",
+      "notionUrl": "https://www.notion.so/Pacote-de-demandas-de-identidade-visual-01-27033d8db9d2808993bbc4483bbb3a31",
+      "gestora": "Equipe",
+      "date": "28/02"
     }
   ],
   "Solar Coworking": [
@@ -4574,6 +4678,10 @@ const LEGENDAS_DATA = {
     "prontas": 15,
     "total": 15
   },
+  "Ventana": {
+    "prontas": 1,
+    "total": 1
+  },
   "Travessias Híbridas": {
     "prontas": 0,
     "total": 0
@@ -4711,6 +4819,13 @@ const FORMAT_COUNTS = {
     "video": 0,
     "story": 3
   },
+  "Ventana": {
+    "post": 1,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 0,
+    "story": 3
+  },
   "Travessias Híbridas": {
     "post": 0,
     "carrossel": 0,
@@ -4817,6 +4932,11 @@ const AGENDA_COUNTS = {
     "reuniao": 0,
     "producao": 1,
     "evento": 1
+  },
+  "Ventana": {
+    "reuniao": 3,
+    "producao": 0,
+    "evento": 0
   },
   "Travessias Híbridas": {
     "reuniao": 0,
