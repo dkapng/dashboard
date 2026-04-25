@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/04/2026, 18:55:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/04/2026, 20:57:50 **/
 
-const LAST_UPDATE = '25/04/2026, 18:55:00';
+const LAST_UPDATE = '25/04/2026, 20:57:50';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -187,7 +187,7 @@ const FEED_DATA = {
   },
   "Terrartesã": {
     "total": 9,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 4,
@@ -497,7 +497,7 @@ const STORIES_DATA = {
   },
   "Solar Coworking": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -529,7 +529,7 @@ const STORIES_DATA = {
   },
   "Terrartesã": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
@@ -2853,10 +2853,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "✍🏼 Artigo/blog",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Por-que-tratar-o-artesanato-como-ajuda-limita-o-desenvolvimento-econ-mico-de-milhares-de-mulheres-34533d8db9d280f4bdf1f222100435bc"
@@ -4115,10 +4113,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34233d8db9d280ad85b8c20304200f33"
@@ -4249,10 +4245,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "28/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d28014b835dc41c6aeeeca"
