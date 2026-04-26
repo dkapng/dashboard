@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 09:07:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 12:05:14 **/
 
-const LAST_UPDATE = '26/04/2026, 09:07:26';
+const LAST_UPDATE = '26/04/2026, 12:05:14';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -155,7 +155,7 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 14,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 6,
     "agendado": 4,
     "agendado_coord": 3,
@@ -2214,10 +2214,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-o-seu-neg-cio-pode-aprender-com-Steve-Jobs-Li-es-de-marca-vendas-e-posicionamento-34b33d8db9d28062a971f4799a908438"
