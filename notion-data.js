@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 18:56:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 20:59:54 **/
 
-const LAST_UPDATE = '26/04/2026, 18:56:24';
+const LAST_UPDATE = '26/04/2026, 20:59:54';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -115,7 +115,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 14,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 8,
     "agendado": 1,
     "agendado_coord": 5,
@@ -147,7 +147,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 11,
-    "pronto": 9,
+    "pronto": 11,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 10,
@@ -1524,10 +1524,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Vazamento-de-dados-quando-o-problema-vira-responsabilidade-jur-dica-32d33d8db9d280f8b61ed34f5fc32c95"
@@ -2069,10 +2067,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Ferramentas-simples-que-liberam-tempo-para-o-que-importa-33d33d8db9d28068aaf2cfd1ff963c1f"
@@ -2127,10 +2123,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/04",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-terceiro-setor-forma-l-deres-de-causa-Quem-forma-l-deres-de-gest-o-33d33d8db9d2801aabfde4aa536d0957"
@@ -4491,7 +4486,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Designs para performance",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Designs-para-performance-34b33d8db9d280929ed4d796c94d29c2",
       "gestora": "Equipe",
       "date": "23/04"
