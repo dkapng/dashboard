@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 16:54:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 18:56:24 **/
 
-const LAST_UPDATE = '26/04/2026, 16:54:08';
+const LAST_UPDATE = '26/04/2026, 18:56:24';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -123,7 +123,7 @@ const FEED_DATA = {
   },
   "Jota Diesel": {
     "total": 11,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 6,
     "agendado": 3,
     "agendado_coord": 0,
@@ -147,7 +147,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 11,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 10,
@@ -187,7 +187,7 @@ const FEED_DATA = {
   },
   "Terrartesã": {
     "total": 9,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 4,
@@ -1706,10 +1706,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nem-sempre-o-problema-o-que-parece-e-por-isso-que-o-diagn-stico-faz-diferen-a-32f33d8db9d28011a68af78c138872b0"
@@ -2095,10 +2093,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "27/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/5-iniciativas-do-terceiro-setor-brasileiro-que-viraram-refer-ncia-internacional-33d33d8db9d2800e9639ce4a24e39617"
@@ -2860,10 +2856,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "27/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Capacitar-artes-s-transformar-o-fazer-manual-em-um-caminho-estruturado-de-trabalho-e-renda-34533d8db9d28075b158c0c6862adf4c"
