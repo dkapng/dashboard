@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 12:05:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 14:28:11 **/
 
-const LAST_UPDATE = '26/04/2026, 12:05:14';
+const LAST_UPDATE = '26/04/2026, 14:28:11';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -59,7 +59,7 @@ const NICHES = {
 const FEED_DATA = {
   "APROSSEG": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 4,
     "agendado": 7,
     "agendado_coord": 0,
@@ -401,7 +401,7 @@ const VIDEO_DATA = {
 const STORIES_DATA = {
   "APROSSEG": {
     "total": 7,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 1,
@@ -646,10 +646,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-realmente-sabe-o-que-est-protegido-na-sua-ap-lice-Converse-com-a-Aprosseg-e-receba-uma-an-lis-31833d8db9d28001b12aef44342c4f70"
@@ -3717,10 +3715,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Carro-antigo-32f33d8db9d280449b3be100232729f9"
