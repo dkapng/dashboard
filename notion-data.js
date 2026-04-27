@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/04/2026, 16:59:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/04/2026, 19:36:32 **/
 
-const LAST_UPDATE = '27/04/2026, 16:59:57';
+const LAST_UPDATE = '27/04/2026, 19:36:32';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -77,9 +77,9 @@ const FEED_DATA = {
     "total": 11,
     "pronto": 11,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 5,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -100,10 +100,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 17,
     "pronto": 17,
-    "postado": 0,
+    "postado": 1,
     "agendado": 6,
     "agendado_coord": 7,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 13,
@@ -253,12 +253,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Di Gregório Buffet": {
-    "total": 5,
+    "total": 8,
     "pronto": 5,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 5,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Finseg Leal": {
     "total": 3,
@@ -277,11 +277,11 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "ItalaP": {
-    "total": 7,
-    "pronto": 7,
+    "total": 8,
+    "pronto": 8,
     "postado": 0,
     "agendado": 7,
-    "agendado_coord": 0,
+    "agendado_coord": 1,
     "a_agendar": 0
   },
   "RR Advocacia": {
@@ -296,9 +296,9 @@ const VIDEO_DATA = {
     "total": 2,
     "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 6,
@@ -448,12 +448,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "ItalaP": {
-    "total": 7,
+    "total": 8,
     "pronto": 6,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "RR Advocacia": {
     "total": 3,
@@ -926,14 +926,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "24 horas de acesso ao advogado que cuida do seu caso. Não é promessa. É uma filosofia do nosso escritório!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/24-horas-de-acesso-ao-advogado-que-cuida-do-seu-caso-N-o-promessa-uma-filosofia-do-nosso-escri-33a33d8db9d280b9ac2ddd987e1546d9"
     },
@@ -1235,14 +1233,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Perimenopausa: a fase que começa anos antes e quase ninguém reconhece",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "27/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Perimenopausa-a-fase-que-come-a-anos-antes-e-quase-ningu-m-reconhece-33933d8db9d28019b867d9bf5dc3b53a"
     },
@@ -3184,6 +3180,48 @@ const LINHA_VIDEO_ITEMS = {
   "Daniel Maia Advocacia": [],
   "Di Gregório Buffet": [
     {
+      "title": "Salão Chá ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/04",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/Sal-o-Ch-34f33d8db9d2804984dacb98d10c55be"
+    },
+    {
+      "title": "Doces do último casamento",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/04",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/Doces-do-ltimo-casamento-34f33d8db9d280c1a1a7e79f175331ac"
+    },
+    {
+      "title": "Vídeo casamento (último fim de semana)",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "27/04",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-casamento-ltimo-fim-de-semana-34f33d8db9d280938259f7f8a970d28c"
+    },
+    {
       "title": "Vídeo 01 - Casamento (rápido)",
       "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
@@ -3276,6 +3314,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [],
   "ItalaP": [
+    {
+      "title": "Vídeo evento Alap (Feedback)",
+      "status": "agendado_coord",
+      "formato": "🎥 Vídeo vertical",
+      "date": "27/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-evento-Alap-Feedback-34f33d8db9d280719b74f5aad4669fb6"
+    },
     {
       "title": "Protetor solar",
       "status": "agendado",
@@ -3381,7 +3430,7 @@ const LINHA_VIDEO_ITEMS = {
   "Jota Diesel": [
     {
       "title": "O seu diagnóstico não te ajudou",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "28/04",
       "missing": [],
@@ -3926,6 +3975,19 @@ const LINHA_STORIES_ITEMS = {
   "Grupo Mulheres do Brasil": [],
   "ItalaP": [
     {
+      "title": "Pensou saúde, pensou tecnologia, pensou ItalaP",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "29/04",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Pensou-sa-de-pensou-tecnologia-pensou-ItalaP-34f33d8db9d280cc86b3db78a390c47a"
+    },
+    {
       "title": "Agenda semanal",
       "status": "agendado_coord",
       "formato": "📱 Story",
@@ -3984,7 +4046,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Você já acessou seus exames pelo celular alguma vez?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "29/04",
+      "date": "30/04",
       "missing": [
         "Design"
       ],
@@ -4014,7 +4076,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-RR-Advocacia-Consultoria-conduzida-por-dois-irm-os-32d33d8db9d280239402e8374328bb6d"
@@ -4458,7 +4520,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "bloco de notas ",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/bloco-de-notas-34c33d8db9d2809db676fe2870a25abd",
       "gestora": "Equipe",
       "date": "27/04"
@@ -4482,7 +4544,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Impresso 2 dobras ",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Impresso-2-dobras-31833d8db9d280fba55dedfa66ca06be",
       "gestora": "Equipe",
       "date": "23/04"
@@ -4506,10 +4568,10 @@ const DEMANDAS_EXTRAS = {
       "date": "23/04"
     },
     {
-      "title": "Capa do catálogo do WhatsApp para responsabilidade civil para eventos",
+      "title": "Capa do catálogo do WhatsApp para responsabilidade civil para eventos + Refazer capas anteriores",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Capa-do-cat-logo-do-WhatsApp-para-responsabilidade-civil-para-eventos-34b33d8db9d280f780f1ed9dc2768e48",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Capa-do-cat-logo-do-WhatsApp-para-responsabilidade-civil-para-eventos-Refazer-capas-anteriores-34b33d8db9d280f780f1ed9dc2768e48",
       "gestora": "Equipe",
       "date": "27/04"
     },
@@ -4620,24 +4682,24 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Daniel Maia Advocacia": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 11
   },
   "Di Gregório Buffet": {
     "prontas": 6,
-    "total": 6
+    "total": 9
   },
   "Finseg Leal": {
     "prontas": 15,
     "total": 15
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 17
   },
   "ItalaP": {
-    "prontas": 20,
-    "total": 20
+    "prontas": 21,
+    "total": 21
   },
   "RR Advocacia": {
     "prontas": 16,
@@ -4723,7 +4785,7 @@ const FORMAT_COUNTS = {
     "post": 0,
     "carrossel": 0,
     "foto": 1,
-    "video": 5,
+    "video": 8,
     "story": 0
   },
   "Finseg Leal": {
@@ -4744,8 +4806,8 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 1,
     "foto": 0,
-    "video": 7,
-    "story": 7
+    "video": 8,
+    "story": 8
   },
   "RR Advocacia": {
     "post": 13,
