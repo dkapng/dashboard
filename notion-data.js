@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/04/2026, 06:11:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/04/2026, 12:27:50 **/
 
-const LAST_UPDATE = '27/04/2026, 06:11:03';
+const LAST_UPDATE = '27/04/2026, 12:27:50';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -60,18 +60,18 @@ const FEED_DATA = {
   "APROSSEG": {
     "total": 13,
     "pronto": 12,
-    "postado": 4,
+    "postado": 5,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 15,
     "pronto": 14,
     "postado": 5,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 11,
@@ -125,9 +125,9 @@ const FEED_DATA = {
     "total": 11,
     "pronto": 10,
     "postado": 6,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 12,
@@ -157,33 +157,33 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 14,
     "postado": 6,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 3,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
-    "total": 13,
-    "pronto": 13,
+    "total": 12,
+    "pronto": 12,
     "postado": 1,
     "agendado": 4,
-    "agendado_coord": 8,
-    "a_agendar": 0
+    "agendado_coord": 4,
+    "a_agendar": 3
   },
   "Plannea": {
     "total": 15,
     "pronto": 15,
-    "postado": 4,
+    "postado": 5,
     "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 14,
     "pronto": 14,
-    "postado": 4,
+    "postado": 5,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Terrartesã": {
     "total": 9,
@@ -481,7 +481,7 @@ const STORIES_DATA = {
   },
   "Planos Seguros": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -643,7 +643,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você realmente sabe o que está protegido na sua apólice? ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
@@ -746,7 +746,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua empresa está preparada para quando alguém precisa parar de trabalhar?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
@@ -1698,7 +1698,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nem sempre o problema é o que parece, e é por isso que o diagnóstico faz diferença.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
@@ -2208,7 +2208,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você está montando um negócio ou improvisando um?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
@@ -2353,45 +2353,34 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A prevenção do HPV exige articulação entre governo, sociedade civil e comunidades",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-preven-o-do-HPV-exige-articula-o-entre-governo-sociedade-civil-e-comunidades-34233d8db9d28041863ed643d0e307ae"
     },
     {
       "title": "O Ceará avança e se consolida como referência nacional na prevenção do HPV",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "28/04",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-Cear-avan-a-e-se-consolida-como-refer-ncia-nacional-na-preven-o-do-HPV-34233d8db9d280a6b742eaa87ae3d9f2"
-    },
-    {
-      "title": "Existem mais de 200 tipos de HPV, mas apenas alguns estão associados ao desenvolvimento de câncer",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "29/04",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Existem-mais-de-200-tipos-de-HPV-mas-apenas-alguns-est-o-associados-ao-desenvolvimento-de-c-ncer-34233d8db9d2800fba41d02e2f71333c"
-    },
-    {
-      "title": "As regiões Norte e Nordeste concentram as maiores taxas de incidência do câncer do colo do útero no Brasil",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-Cear-avan-a-e-se-consolida-como-refer-ncia-nacional-na-preven-o-do-HPV-34233d8db9d280a6b742eaa87ae3d9f2"
+    },
+    {
+      "title": "As regiões Norte e Nordeste concentram as maiores taxas de incidência do câncer do colo do útero no Brasil",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/04",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/As-regi-es-Norte-e-Nordeste-concentram-as-maiores-taxas-de-incid-ncia-do-c-ncer-do-colo-do-tero-no--34233d8db9d280289524df775f9b1326"
     },
@@ -2542,7 +2531,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Empresários não precisam apenas de contador - precisam de direção!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
@@ -2720,7 +2709,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quer um fechamento profissional este mês?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
@@ -4064,10 +4053,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-o-tabagismo-faz-com-o-seu-corpo-que-nenhuma-propaganda-te-conta-33a33d8db9d2809da5a8d412931227ab"
@@ -4411,6 +4398,16 @@ const DEMANDAS_EXTRAS = {
       "date": "28/02"
     }
   ],
+  "Ortobom": [
+    {
+      "title": "Alterar arte para tema dia das mães",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Alterar-arte-para-tema-dia-das-m-es-34f33d8db9d280e9a15bd74eeef74ee9",
+      "gestora": "Equipe",
+      "date": "30/04"
+    }
+  ],
   "Solar Coworking": [
     {
       "title": "bloco de notas ",
@@ -4481,10 +4478,10 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Designs para performance",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Designs-para-performance-34b33d8db9d280929ed4d796c94d29c2",
       "gestora": "Equipe",
-      "date": "23/04"
+      "date": "28/04"
     },
     {
       "title": "Diagnóstico de proteções - Versão de Apresentação",
@@ -4582,7 +4579,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 17,
-    "total": 17
+    "total": 18
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
@@ -4629,8 +4626,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 18,
-    "total": 18
+    "prontas": 17,
+    "total": 17
   },
   "Plannea": {
     "prontas": 17,
@@ -4755,7 +4752,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Juntos contra o HPV": {
-    "post": 12,
+    "post": 11,
     "carrossel": 0,
     "foto": 1,
     "video": 5,
@@ -4904,7 +4901,7 @@ const AGENDA_COUNTS = {
     "evento": 1
   },
   "Ventana": {
-    "reuniao": 3,
+    "reuniao": 4,
     "producao": 0,
     "evento": 0
   },
