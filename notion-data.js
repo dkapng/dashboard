@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/04/2026, 20:59:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/04/2026, 06:11:03 **/
 
-const LAST_UPDATE = '26/04/2026, 20:59:54';
+const LAST_UPDATE = '27/04/2026, 06:11:03';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -99,7 +99,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 17,
-    "pronto": 16,
+    "pronto": 17,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 7,
@@ -107,7 +107,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 4,
     "agendado": 4,
     "agendado_coord": 3,
@@ -163,7 +163,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 8,
@@ -1202,10 +1202,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "30/04",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nenhum-agressor-nasceu-assim-o-que-a-cria-o-tem-a-ver-com-a-viol-ncia-que-vemos-nas-redes-33933d8db9d280ebb40ef64fcd33f01e"
@@ -1388,10 +1387,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cansa-o-frequente-falta-de-energia-mudan-as-no-corpo-voc-j-investigou-seus-horm-nios-33333d8db9d2807eb39bd0f901ca4077"
@@ -2359,10 +2356,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-preven-o-do-HPV-exige-articula-o-entre-governo-sociedade-civil-e-comunidades-34233d8db9d28041863ed643d0e307ae"
