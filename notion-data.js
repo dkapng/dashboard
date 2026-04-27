@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/04/2026, 12:27:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/04/2026, 16:59:57 **/
 
-const LAST_UPDATE = '27/04/2026, 12:27:50';
+const LAST_UPDATE = '27/04/2026, 16:59:57';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -59,19 +59,19 @@ const NICHES = {
 const FEED_DATA = {
   "APROSSEG": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 5,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 15,
+    "total": 16,
     "pronto": 14,
     "postado": 5,
     "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 11,
@@ -93,9 +93,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 12,
     "postado": 3,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 2,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 17,
@@ -109,9 +109,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 13,
     "postado": 4,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 3,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "RR Advocacia": {
     "total": 14,
@@ -165,25 +165,25 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 12,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 7,
     "agendado_coord": 4,
-    "a_agendar": 3
+    "a_agendar": 0
   },
   "Plannea": {
     "total": 15,
     "pronto": 15,
     "postado": 5,
-    "agendado": 9,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 14,
     "pronto": 14,
     "postado": 5,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Terrartesã": {
     "total": 9,
@@ -261,9 +261,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Finseg Leal": {
-    "total": 1,
-    "pronto": 1,
-    "postado": 0,
+    "total": 3,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -350,7 +350,7 @@ const VIDEO_DATA = {
   },
   "Stratto": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
@@ -432,9 +432,9 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Finseg Leal": {
-    "total": 2,
-    "pronto": 2,
-    "postado": 1,
+    "total": 3,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 1,
     "a_agendar": 0
@@ -448,11 +448,11 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "ItalaP": {
-    "total": 6,
-    "pronto": 5,
+    "total": 7,
+    "pronto": 6,
     "postado": 4,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 2,
     "a_agendar": 1
   },
   "RR Advocacia": {
@@ -573,6 +573,17 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "APROSSEG": [
     {
+      "title": "Você confia na sua proteção… ou só nunca precisou dela?",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "29/04",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Voc-confia-na-sua-prote-o-ou-s-nunca-precisou-dela-34b33d8db9d28044a339e9d19cb79abc"
+    },
+    {
       "title": "Se algo acontecer agora, você está preparado? Converse com a Aprosseg e entenda como se proteger melhor.",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -582,20 +593,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-algo-acontecer-agora-voc-est-preparado-Converse-com-a-Aprosseg-e-entenda-como-se-proteger-mel-32d33d8db9d280188160ec8436b1abd5"
-    },
-    {
-      "title": "Você sabe se sua proteção é suficiente hoje? Fale com a Aprosseg e receba uma análise personalizada.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/04",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Voc-sabe-se-sua-prote-o-suficiente-hoje-Fale-com-a-Aprosseg-e-receba-uma-an-lise-personalizada-32d33d8db9d280119438d2aa8d306646"
     },
     {
       "title": "Fortaleza, mais um ano de histórias, conquistas e pessoas que fazem essa cidade acontecer todos os dias. Parabéns Fortaleza, pelos seus 300 anos!",
@@ -720,6 +717,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "TBT",
+      "status": "a_agendar",
+      "formato": "📸 Foto(s)",
+      "date": "30/04",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/TBT-34f33d8db9d280eb8c5ae4c6a42ffe72"
+    },
     {
       "title": "Fortaleza é uma cidade que cresce, se desenvolve e se conecta todos os dias. Parabéns Fortaleza, pelos seus 300 anos!",
       "status": "agendado",
@@ -1097,7 +1108,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Um vaso de planta e um prejuízo de R$ 5 mil: Como a cobertura de RC Familiar salva o seu orçamento.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [],
@@ -1384,7 +1395,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cansaço frequente, falta de energia, mudanças no corpo… você já investigou seus hormônios?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/04",
       "missing": [],
@@ -1395,7 +1406,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Exame de DNA exige mais do que tecnologia: exige confiança, sigilo e responsabilidade",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/04",
       "missing": [],
@@ -2353,7 +2364,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A prevenção do HPV exige articulação entre governo, sociedade civil e comunidades",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/04",
       "missing": [],
@@ -2364,7 +2375,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O Ceará avança e se consolida como referência nacional na prevenção do HPV",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/04",
       "missing": [],
@@ -2375,7 +2386,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "As regiões Norte e Nordeste concentram as maiores taxas de incidência do câncer do colo do útero no Brasil",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [],
@@ -2509,7 +2520,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O próximo nível da sua empresa exige mais controle - entenda o porquê",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [],
@@ -2698,7 +2709,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Comece maio com o pé direito. Agende uma conversa com nosso time de especialistas!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [],
@@ -3230,6 +3241,28 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Finseg Leal": [
     {
+      "title": "dias imperdíveis - pj",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/dias-imperd-veis-pj-34f33d8db9d280daaf46c98b71077653"
+    },
+    {
+      "title": "dias imperdíveis  - PF",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "27/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/dias-imperd-veis-PF-34f33d8db9d280cca0cef3f1e688a099"
+    },
+    {
       "title": "Corte 8 - Podcast - Quem é o Jozivan",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3607,12 +3640,11 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "30/04",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/POV-o-financeiro-deixa-de-te-ocupar-e-voc-volta-a-pensar-no-neg-cio-32f33d8db9d280c0a5abe881ca55abb1"
     },
     {
@@ -3858,6 +3890,17 @@ const LINHA_STORIES_ITEMS = {
   "Di Gregório Buffet": [],
   "Finseg Leal": [
     {
+      "title": "story",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "27/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/story-34f33d8db9d28026b669e896e368bf77"
+    },
+    {
       "title": "Deu problema no carro?",
       "status": "postado",
       "formato": "📱 Story",
@@ -3882,6 +3925,17 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [],
   "ItalaP": [
+    {
+      "title": "Agenda semanal",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "28/04",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Agenda-semanal-34a33d8db9d2808c9348eb98588ef45f"
+    },
     {
       "title": "Comunicado",
       "status": "postado",
@@ -4338,14 +4392,6 @@ const DEMANDAS_EXTRAS = {
   ],
   "Daniel Maia Advocacia": [
     {
-      "title": "Portfólio",
-      "priority": "pp",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://www.notion.so/Portf-lio-2e833d8db9d280ec946edae91f1f6d44",
-      "gestora": "Equipe",
-      "date": "08T12:00:00.000/04"
-    },
-    {
       "title": "Ajustes no site (alteração de fotos)",
       "priority": "pppp",
       "rawStatus": "1. A fazer",
@@ -4374,10 +4420,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Ventana": [
     {
-      "title": "DEMANDA NOTION VENTANA",
+      "title": "Melhorias no Notion (2025-04)",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/DEMANDA-NOTION-VENTANA-34333d8db9d280c6a275d7d2e829528e",
+      "notionUrl": "https://www.notion.so/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "21/04"
     },
@@ -4428,23 +4474,15 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Tag",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://www.notion.so/Tag-34a33d8db9d280bea89ee098a8dc6304",
-      "gestora": "Equipe",
-      "date": "27/04"
-    },
-    {
-      "title": "Convite digital",
-      "priority": "p",
       "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Convite-digital-34a33d8db9d2803c83a3ea42ac684ec6",
+      "notionUrl": "https://www.notion.so/Tag-34a33d8db9d280bea89ee098a8dc6304",
       "gestora": "Equipe",
       "date": "27/04"
     },
     {
       "title": "Impresso 2 dobras ",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Impresso-2-dobras-31833d8db9d280fba55dedfa66ca06be",
       "gestora": "Equipe",
       "date": "23/04"
@@ -4455,7 +4493,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Banner-sobre-a-solar-31833d8db9d280e1a14ae70142b7f6d2",
       "gestora": "Equipe",
-      "date": "23/04"
+      "date": "27/04"
     }
   ],
   "Finseg Leal": [
@@ -4478,7 +4516,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Designs para performance",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Designs-para-performance-34b33d8db9d280929ed4d796c94d29c2",
       "gestora": "Equipe",
       "date": "28/04"
@@ -4574,7 +4612,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "APROSSEG": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 15
   },
   "Conecta Assessoria": {
@@ -4590,8 +4628,8 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Finseg Leal": {
-    "prontas": 13,
-    "total": 13
+    "prontas": 15,
+    "total": 15
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 13,
@@ -4670,7 +4708,7 @@ const FORMAT_COUNTS = {
   "Conecta Assessoria": {
     "post": 14,
     "carrossel": 1,
-    "foto": 0,
+    "foto": 1,
     "video": 2,
     "story": 10
   },
@@ -4692,8 +4730,8 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 2,
     "foto": 0,
-    "video": 1,
-    "story": 2
+    "video": 3,
+    "story": 3
   },
   "Grupo Mulheres do Brasil": {
     "post": 17,
@@ -4707,7 +4745,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 7,
-    "story": 6
+    "story": 7
   },
   "RR Advocacia": {
     "post": 13,
