@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/04/2026, 04:43:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/04/2026, 10:23:52 **/
 
-const LAST_UPDATE = '28/04/2026, 04:43:47';
+const LAST_UPDATE = '28/04/2026, 10:23:52';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -69,9 +69,9 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 15,
     "postado": 5,
-    "agendado": 9,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 10,
@@ -402,10 +402,10 @@ const STORIES_DATA = {
   "APROSSEG": {
     "total": 7,
     "pronto": 7,
-    "postado": 5,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 10,
@@ -450,17 +450,17 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 8,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
-    "agendado_coord": 2,
+    "agendado_coord": 1,
     "a_agendar": 2
   },
   "RR Advocacia": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 0
   },
   "Jota Diesel": {
@@ -498,10 +498,10 @@ const STORIES_DATA = {
   "Solar Coworking": {
     "total": 4,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -522,26 +522,26 @@ const STORIES_DATA = {
   "Stratto": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Terrartesã": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 0
   },
   "Univendas": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 2,
@@ -744,7 +744,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Plano de saúde - Seguro de vida - Proteção patrimonial: Quando bem estruturados, esses benefícios protegem a empresa e as pessoas. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [],
@@ -3753,7 +3753,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Carro antigo ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/04",
       "missing": [],
@@ -3986,12 +3986,12 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Agenda semanal",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Agenda-semanal-34a33d8db9d2808c9348eb98588ef45f"
     },
@@ -4065,7 +4065,7 @@ const LINHA_STORIES_ITEMS = {
   "RR Advocacia": [
     {
       "title": "A RR Advocacia & Consultoria é conduzida por dois irmãos.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/04",
       "missing": [],
@@ -4184,7 +4184,7 @@ const LINHA_STORIES_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/04",
       "missing": [],
@@ -4290,7 +4290,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Empresas que crescem com consistência não operam no improviso financeiro.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/04",
       "missing": [],
@@ -4314,7 +4314,7 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [
     {
       "title": "Story/stories",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/04",
       "missing": [],
@@ -4327,7 +4327,7 @@ const LINHA_STORIES_ITEMS = {
   "Univendas": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/04",
       "missing": [],
@@ -4438,6 +4438,14 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Ajustes-no-site-altera-o-de-fotos-29d33d8db9d280849f33e2199355eea9",
       "gestora": "Equipe",
       "date": "07/02"
+    },
+    {
+      "title": "Capas destaques do Instagram ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Capas-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
+      "gestora": "Equipe",
+      "date": "29/04"
     },
     {
       "title": "Configurar E-mail Institucional",
