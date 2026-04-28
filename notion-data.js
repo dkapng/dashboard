@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/04/2026, 15:12:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/04/2026, 18:46:13 **/
 
-const LAST_UPDATE = '28/04/2026, 15:12:54';
+const LAST_UPDATE = '28/04/2026, 18:46:13';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -352,9 +352,9 @@ const VIDEO_DATA = {
     "total": 3,
     "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Terrartesã": {
     "total": 0,
@@ -365,10 +365,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
+    "total": 6,
+    "pronto": 6,
+    "postado": 4,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -449,11 +449,11 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 8,
-    "pronto": 7,
-    "postado": 5,
+    "pronto": 8,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "RR Advocacia": {
     "total": 3,
@@ -3656,14 +3656,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "POV: o financeiro deixa de te ocupar e você volta a pensar no negócio ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "30/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/POV-o-financeiro-deixa-de-te-ocupar-e-voc-volta-a-pensar-no-neg-cio-32f33d8db9d280c0a5abe881ca55abb1"
     },
@@ -3680,7 +3678,74 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Terrartesã": [],
-  "Univendas": [],
+  "Univendas": [
+    {
+      "title": "Dias imperdíveis - João Inácio",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "26/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Dias-imperd-veis-Jo-o-In-cio-35033d8db9d2802e8075c72e2f265785"
+    },
+    {
+      "title": "Dias imperdíveis - João Inácio ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "27/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Dias-imperd-veis-Jo-o-In-cio-35033d8db9d280988ce4daff9f3c3b85"
+    },
+    {
+      "title": "Dias imperdíveis - Elvis",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Dias-imperd-veis-Elvis-35033d8db9d280df8d31c38e2c83933e"
+    },
+    {
+      "title": "Dias imperdíveis - Ana Clarice Andrade",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Dias-imperd-veis-Ana-Clarice-Andrade-35033d8db9d280da83b4e5d5e69f41de"
+    },
+    {
+      "title": "Dias imperdíveis - Brito e Luís",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Dias-imperd-veis-Brito-e-Lui-s-35033d8db9d28078a40af3cb9bdf1878"
+    },
+    {
+      "title": "Dias imperdíveis - Ana Paula e Teresinha",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Dias-imperd-veis-Ana-Paula-e-Teresinha-35033d8db9d280b99948da011e2eb1ca"
+    }
+  ],
   "Ventana": [],
   "Travessias Híbridas": [],
   "Ser Ponte": []
@@ -3943,12 +4008,10 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Pensou saúde, pensou tecnologia, pensou ItalaP",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. Finalizado",
@@ -4390,6 +4453,14 @@ const DEMANDAS_EXTRAS = {
       "date": "20/02"
     },
     {
+      "title": "Aniversariantes do mes",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Aniversariantes-do-mes-35033d8db9d2807fac29e1ae625b7392",
+      "gestora": "Equipe",
+      "date": "30/04"
+    },
+    {
       "title": "incluir novas fotos no google",
       "priority": "p",
       "rawStatus": "1. A fazer",
@@ -4476,14 +4547,6 @@ const DEMANDAS_EXTRAS = {
       "date": "21/04"
     },
     {
-      "title": "Recursos de identidade visual - Daniel Maia",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Recursos-de-identidade-visual-Daniel-Maia-2e833d8db9d28037b643df55879c539a",
-      "gestora": "Equipe",
-      "date": "30/03"
-    },
-    {
       "title": "Pacote de demandas de identidade visual #01",
       "priority": "p",
       "rawStatus": "2. Pausada",
@@ -4492,17 +4555,15 @@ const DEMANDAS_EXTRAS = {
       "date": "28/02"
     }
   ],
-  "Ortobom": [
-    {
-      "title": "Alterar arte para tema dia das mães",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Alterar-arte-para-tema-dia-das-m-es-34f33d8db9d280e9a15bd74eeef74ee9",
-      "gestora": "Equipe",
-      "date": "30/04"
-    }
-  ],
   "Solar Coworking": [
+    {
+      "title": "crachá para o evento",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/crach-para-o-evento-35033d8db9d2806a9c52de213be578b0",
+      "gestora": "Equipe",
+      "date": "29/04"
+    },
     {
       "title": "bloco de notas ",
       "priority": "p",
@@ -4542,6 +4603,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Banner-sobre-a-solar-31833d8db9d280e1a14ae70142b7f6d2",
       "gestora": "Equipe",
       "date": "27/04"
+    }
+  ],
+  "Ortobom": [
+    {
+      "title": "Alterar arte para tema dia das mães",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Alterar-arte-para-tema-dia-das-m-es-34f33d8db9d280e9a15bd74eeef74ee9",
+      "gestora": "Equipe",
+      "date": "30/04"
     }
   ],
   "Finseg Leal": [
@@ -4712,7 +4783,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Stratto": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 17
   },
   "Terrartesã": {
@@ -4720,8 +4791,8 @@ const LEGENDAS_DATA = {
     "total": 9
   },
   "Univendas": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 21,
+    "total": 21
   },
   "Ventana": {
     "prontas": 1,
@@ -4861,7 +4932,7 @@ const FORMAT_COUNTS = {
     "post": 15,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 6,
     "story": 3
   },
   "Ventana": {
