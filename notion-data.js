@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/04/2026, 10:23:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/04/2026, 15:12:54 **/
 
-const LAST_UPDATE = '28/04/2026, 10:23:52';
+const LAST_UPDATE = '28/04/2026, 15:12:54';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -8,8 +8,8 @@ const GESTORAS = {
     "Conecta Assessoria",
     "Finseg Leal",
     "ItalaP",
+    "Planos Seguros",
     "Juntos contra o HPV",
-    "Plannea",
     "Stratto"
   ],
   "Mayla Valere": [
@@ -17,6 +17,7 @@ const GESTORAS = {
     "Di Gregório Buffet",
     "Grupo Mulheres do Brasil",
     "Rede Pangeia",
+    "Plannea",
     "Ventana",
     "Travessias Híbridas",
     "Ser Ponte"
@@ -25,7 +26,6 @@ const GESTORAS = {
     "RR Advocacia",
     "Jota Diesel",
     "Ortobom",
-    "Planos Seguros",
     "Solar Coworking",
     "Terrartesã",
     "Univendas"
@@ -122,16 +122,16 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 11,
+    "total": 10,
     "pronto": 10,
     "postado": 6,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 12,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 8,
     "agendado": 3,
     "agendado_coord": 0,
@@ -139,7 +139,7 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 12,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 3,
     "agendado": 1,
     "agendado_coord": 7,
@@ -357,12 +357,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Terrartesã": {
-    "total": 1,
-    "pronto": 1,
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Univendas": {
     "total": 0,
@@ -464,20 +464,20 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 2,
-    "pronto": 2,
+    "total": 3,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ortobom": {
-    "total": 3,
-    "pronto": 3,
+    "total": 4,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 2,
@@ -1656,19 +1656,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Jota Diesel": [
     {
-      "title": "Se o seu veículo apresenta esses sinais, pode ter problema no sistema de injeção ou na turbina.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Se-o-seu-ve-culo-apresenta-esses-sinais-pode-ter-problema-no-sistema-de-inje-o-ou-na-turbina-34a33d8db9d2806ca16fe68ba6378049"
-    },
-    {
       "title": "Fortaleza chega aos 300 anos reafirmando seu compromisso com o desenvolvimento.",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -1895,10 +1882,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-equil-brio-certo-entre-conforto-e-sustenta-o-faz-mais-diferen-a-do-que-voc-imagina-32d33d8db9d280f4a5defde2d46b379e"
@@ -1928,15 +1913,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Dia-Mundial-da-Sa-de-Cuidar-de-si-um-ato-cont-nuo-33b33d8db9d280c1968ce86672cf8251"
     },
     {
-      "title": "Te ver protegido e com saúde é o nosso plano!",
+      "title": "Te ver protegido e com saúde é o nosso plano! ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Te-ver-protegido-e-com-sa-de-o-nosso-plano-33a33d8db9d2808aa231e30e00331861"
@@ -3695,21 +3679,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/Caos-vs-Ordem-32f33d8db9d280ddb442e871fe4f2b27"
     }
   ],
-  "Terrartesã": [
-    {
-      "title": "https://www.instagram.com/reel/DQNg2H0CbwA/?igsh=NzJtcjF0ODd4dzdl",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/04",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DQNg2H0CbwA-igsh-NzJtcjF0ODd4dzdl-34533d8db9d280128926d3d8ad2ca0b9"
-    }
-  ],
+  "Terrartesã": [],
   "Univendas": [],
   "Ventana": [],
   "Travessias Híbridas": [],
@@ -4100,6 +4070,17 @@ const LINHA_STORIES_ITEMS = {
   "Jota Diesel": [
     {
       "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "29/04",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-34a33d8db9d280e9a34ac8734cc7eb84"
+    },
+    {
+      "title": "Story/stories",
       "status": "postado",
       "formato": "📱 Story",
       "date": "16/04",
@@ -4122,6 +4103,17 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Ortobom": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/04",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-35033d8db9d280e5ba04dce94a51806e"
+    },
     {
       "title": "Story/stories",
       "status": "postado",
@@ -4464,6 +4456,14 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Impulsionamento-2c533d8db9d280f09fdbda8054d5b2e0",
       "gestora": "Equipe",
       "date": "10/02"
+    },
+    {
+      "title": "campanhas sobre data sazonal ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/campanhas-sobre-data-sazonal-35033d8db9d28076af57f55ca0fc3710",
+      "gestora": "Equipe",
+      "date": "29/04"
     }
   ],
   "Ventana": [
@@ -4552,14 +4552,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Banner-com-QRCodes-para-proje-o-34c33d8db9d280c8878ecb0108d9dbeb",
       "gestora": "Equipe",
       "date": "23/04"
-    },
-    {
-      "title": "Capa do catálogo do WhatsApp para responsabilidade civil para eventos + Refazer capas anteriores",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Capa-do-cat-logo-do-WhatsApp-para-responsabilidade-civil-para-eventos-Refazer-capas-anteriores-34b33d8db9d280f780f1ed9dc2768e48",
-      "gestora": "Equipe",
-      "date": "27/04"
     },
     {
       "title": "Designs para performance",
@@ -4692,8 +4684,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Jota Diesel": {
-    "prontas": 13,
-    "total": 13
+    "prontas": 12,
+    "total": 12
   },
   "Ortobom": {
     "prontas": 18,
@@ -4725,7 +4717,7 @@ const LEGENDAS_DATA = {
   },
   "Terrartesã": {
     "prontas": 9,
-    "total": 10
+    "total": 9
   },
   "Univendas": {
     "prontas": 15,
@@ -4803,18 +4795,18 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Jota Diesel": {
-    "post": 11,
+    "post": 10,
     "carrossel": 0,
     "foto": 0,
     "video": 2,
-    "story": 2
+    "story": 3
   },
   "Ortobom": {
     "post": 10,
     "carrossel": 1,
     "foto": 1,
     "video": 6,
-    "story": 3
+    "story": 4
   },
   "Planos Seguros": {
     "post": 12,
@@ -4862,7 +4854,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 1,
     "foto": 2,
-    "video": 1,
+    "video": 0,
     "story": 1
   },
   "Univendas": {
@@ -4987,7 +4979,7 @@ const AGENDA_COUNTS = {
     "evento": 1
   },
   "Ventana": {
-    "reuniao": 4,
+    "reuniao": 5,
     "producao": 0,
     "evento": 0
   },
