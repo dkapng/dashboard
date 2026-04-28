@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/04/2026, 19:36:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/04/2026, 04:43:47 **/
 
-const LAST_UPDATE = '27/04/2026, 19:36:32';
+const LAST_UPDATE = '28/04/2026, 04:43:47';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -67,19 +67,19 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 16,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 5,
     "agendado": 9,
     "agendado_coord": 0,
     "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
-    "total": 11,
-    "pronto": 11,
+    "total": 10,
+    "pronto": 10,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 5,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -409,7 +409,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 10,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
@@ -424,9 +424,9 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Di Gregório Buffet": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
+    "total": 1,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -449,7 +449,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 8,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 2,
@@ -457,7 +457,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 1,
@@ -521,7 +521,7 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -544,12 +544,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Ventana": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Travessias Híbridas": {
@@ -743,17 +743,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Fortaleza-uma-cidade-que-cresce-se-desenvolve-e-se-conecta-todos-os-dias-Parab-ns-Fortaleza-pel-33e33d8db9d28006bd2cd64b8978ff15"
     },
     {
-      "title": "Plano de saúde - Seguro de vida - Proteção patrimonial H2: Quando bem estruturados, esses benefícios protegem a empresa e as pessoas. ",
+      "title": "Plano de saúde - Seguro de vida - Proteção patrimonial: Quando bem estruturados, esses benefícios protegem a empresa e as pessoas. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Plano-de-sa-de-Seguro-de-vida-Prote-o-patrimonial-H2-Quando-bem-estruturados-esses-benef-cios-32d33d8db9d2808293ffd81b1c456f48"
+      "notionUrl": "https://www.notion.so/Plano-de-sa-de-Seguro-de-vida-Prote-o-patrimonial-Quando-bem-estruturados-esses-benef-cios-pr-32d33d8db9d2808293ffd81b1c456f48"
     },
     {
       "title": "Sua empresa está preparada para quando alguém precisa parar de trabalhar?",
@@ -912,17 +910,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/R-u-confesso-n-o-r-u-condenado-Entenda-por-qu-33a33d8db9d280adb473f655ba1cd6c0"
-    },
-    {
-      "title": "NDA (Acordo de Confidencialidade): quando e como usar?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/04",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/NDA-Acordo-de-Confidencialidade-quando-e-como-usar-33a33d8db9d280899c95def4a92400c6"
     },
     {
       "title": "24 horas de acesso ao advogado que cuida do seu caso. Não é promessa. É uma filosofia do nosso escritório!",
@@ -1356,7 +1343,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A ausência da perspectiva de gênero e raça no currículo escolar",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/04",
+      "date": "28/04",
       "missing": [
         "Legenda"
       ],
@@ -3211,7 +3198,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Vídeo casamento (último fim de semana)",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "27/04",
+      "date": "28/04",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3881,10 +3868,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Mercado-autoridade-32d33d8db9d280bea558c2b17e5884cd"
@@ -3936,7 +3921,19 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Seq-Institucional-para-fixar-30333d8db9d28029a156e30ed3fb4a59"
     }
   ],
-  "Di Gregório Buffet": [],
+  "Di Gregório Buffet": [
+    {
+      "title": "Seq. de stories (Reposts do casamento)",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "27/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Seq-de-stories-Reposts-do-casamento-35033d8db9d28071bd32d6b959bde862"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "story",
@@ -4047,10 +4044,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-j-acessou-seus-exames-pelo-celular-alguma-vez-33333d8db9d28001a5f7ff7b152cdd9a"
@@ -4073,10 +4068,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "28/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-RR-Advocacia-Consultoria-conduzida-por-dois-irm-os-32d33d8db9d280239402e8374328bb6d"
@@ -4300,10 +4293,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Empresas-que-crescem-com-consist-ncia-n-o-operam-no-improviso-financeiro-33333d8db9d280df950de235b8805f92"
@@ -4390,19 +4381,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Vinicius-Rocha-2e733d8db9d2809fac8ac523eee433ad"
-    },
-    {
-      "title": "Agostinho (Italap)",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "24/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Agostinho-Italap-2e733d8db9d28089b3bbc37e5a15540c"
     }
   ],
   "Travessias Híbridas": [],
@@ -4682,8 +4660,8 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Daniel Maia Advocacia": {
-    "prontas": 10,
-    "total": 11
+    "prontas": 9,
+    "total": 10
   },
   "Di Gregório Buffet": {
     "prontas": 6,
@@ -4775,7 +4753,7 @@ const FORMAT_COUNTS = {
     "story": 10
   },
   "Daniel Maia Advocacia": {
-    "post": 7,
+    "post": 6,
     "carrossel": 4,
     "foto": 0,
     "video": 0,
@@ -4786,7 +4764,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 1,
     "video": 8,
-    "story": 0
+    "story": 1
   },
   "Finseg Leal": {
     "post": 10,
@@ -4891,7 +4869,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   },
   "Travessias Híbridas": {
     "post": 0,
