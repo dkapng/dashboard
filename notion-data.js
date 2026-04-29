@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/04/2026, 09:08:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/04/2026, 14:57:28 **/
 
-const LAST_UPDATE = '29/04/2026, 09:08:11';
+const LAST_UPDATE = '29/04/2026, 14:57:28';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -116,9 +116,9 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 14,
     "pronto": 14,
-    "postado": 8,
+    "postado": 9,
     "agendado": 1,
-    "agendado_coord": 5,
+    "agendado_coord": 4,
     "a_agendar": 0
   },
   "Jota Diesel": {
@@ -132,18 +132,18 @@ const FEED_DATA = {
   "Ortobom": {
     "total": 12,
     "pronto": 12,
-    "postado": 8,
+    "postado": 9,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 12,
     "pronto": 12,
-    "postado": 3,
+    "postado": 4,
     "agendado": 1,
     "agendado_coord": 7,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Rede Pangeia": {
     "total": 11,
@@ -466,10 +466,10 @@ const STORIES_DATA = {
   "Jota Diesel": {
     "total": 3,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 4,
@@ -1510,7 +1510,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Vazamento de dados: quando o problema vira responsabilidade jurídica",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [],
@@ -1877,7 +1877,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": " O equilíbrio certo entre conforto e sustentação faz mais diferença do que você imagina.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/04",
       "missing": [],
@@ -1912,14 +1912,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Te ver protegido e com saúde é o nosso plano! ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Te-ver-protegido-e-com-sa-de-o-nosso-plano-33a33d8db9d2808aa231e30e00331861"
     },
@@ -3987,6 +3985,17 @@ const LINHA_STORIES_ITEMS = {
   "Grupo Mulheres do Brasil": [],
   "ItalaP": [
     {
+      "title": "Aviso de funcionamento",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/04",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Aviso-de-funcionamento-35133d8db9d280f3a234feaabdcb9914"
+    },
+    {
       "title": "Pensou saúde, pensou tecnologia, pensou ItalaP",
       "status": "postado",
       "formato": "📱 Story",
@@ -4053,17 +4062,6 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-Mundial-de-Combate-ao-C-ncer-33333d8db9d28064bf8cda9caf343f13"
     },
     {
-      "title": "Você já acessou seus exames pelo celular alguma vez?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "30/04",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-j-acessou-seus-exames-pelo-celular-alguma-vez-33333d8db9d28001a5f7ff7b152cdd9a"
-    },
-    {
       "title": "Sexta-feira santa",
       "status": "agendado_coord",
       "formato": "📱 Story",
@@ -4113,7 +4111,7 @@ const LINHA_STORIES_ITEMS = {
   "Jota Diesel": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "29/04",
       "missing": [],
@@ -4535,6 +4533,16 @@ const DEMANDAS_EXTRAS = {
       "date": "28/02"
     }
   ],
+  "Travessias Híbridas": [
+    {
+      "title": "Perfil Travessias Hibridas",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Perfil-Travessias-Hibridas-35133d8db9d280ce97fbe536bc615404",
+      "gestora": "Equipe",
+      "date": "29/04"
+    }
+  ],
   "Di Gregório Buffet": [
     {
       "title": "Banner-convite da Arraiá 2026",
@@ -4701,7 +4709,7 @@ const CAPTACAO_DATA = {
   "Grupo Mulheres do Brasil": "realizada",
   "Daniel Maia Advocacia": "marcada",
   "Finseg Leal": "marcada",
-  "Planos Seguros": "marcada",
+  "Planos Seguros": "realizada",
   "Jota Diesel": "realizada",
   "APROSSEG": "marcada",
   "Solar Coworking": "marcada",
@@ -4753,7 +4761,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Planos Seguros": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 17
   },
   "Rede Pangeia": {
