@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/04/2026, 14:57:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/04/2026, 18:43:14 **/
 
-const LAST_UPDATE = '29/04/2026, 14:57:28';
+const LAST_UPDATE = '29/04/2026, 18:43:14';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -98,12 +98,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 17,
+    "total": 18,
     "pronto": 17,
     "postado": 2,
     "agendado": 6,
     "agendado_coord": 7,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 13,
@@ -365,9 +365,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 6,
-    "pronto": 6,
-    "postado": 4,
+    "total": 7,
+    "pronto": 7,
+    "postado": 5,
     "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -513,7 +513,7 @@ const STORIES_DATA = {
   },
   "Plannea": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1159,6 +1159,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Vencemos!",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "29/04",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vencemos-35133d8db9d280c68792f6eea5078aab"
+    },
     {
       "title": "Aniversário da Márcia Vieira",
       "status": "agendado_coord",
@@ -3658,6 +3672,17 @@ const LINHA_VIDEO_ITEMS = {
   "Terrartesã": [],
   "Univendas": [
     {
+      "title": "Ultimo dia dos dias imperdiveis",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Ultimo-dia-dos-dias-imperdiveis-35133d8db9d2802bae5fd37c359778cf"
+    },
+    {
       "title": "Dias imperdíveis - João Inácio",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -4274,14 +4299,12 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Stories-de-vagas-33933d8db9d280e9accbfe6b3cf45b2a"
     },
     {
-      "title": "Contabilidade estratégica ",
+      "title": "Contabilidade estratégica",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "30/04",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Contabilidade-estrat-gica-33433d8db9d280e88fb0f97af4bab8b7"
@@ -4543,21 +4566,11 @@ const DEMANDAS_EXTRAS = {
       "date": "29/04"
     }
   ],
-  "Di Gregório Buffet": [
-    {
-      "title": "Banner-convite da Arraiá 2026",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Banner-convite-da-Arrai-2026-35133d8db9d280dbb543e0f60389a91c",
-      "gestora": "Equipe",
-      "date": "28/04"
-    }
-  ],
   "Solar Coworking": [
     {
       "title": "crachá para o evento",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/crach-para-o-evento-35033d8db9d2806a9c52de213be578b0",
       "gestora": "Equipe",
       "date": "29/04"
@@ -4742,7 +4755,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 15,
-    "total": 17
+    "total": 18
   },
   "ItalaP": {
     "prontas": 21,
@@ -4789,8 +4802,8 @@ const LEGENDAS_DATA = {
     "total": 9
   },
   "Univendas": {
-    "prontas": 21,
-    "total": 21
+    "prontas": 22,
+    "total": 22
   },
   "Ventana": {
     "prontas": 1,
@@ -4844,7 +4857,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 17,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4930,7 +4943,7 @@ const FORMAT_COUNTS = {
     "post": 15,
     "carrossel": 0,
     "foto": 0,
-    "video": 6,
+    "video": 7,
     "story": 3
   },
   "Ventana": {
