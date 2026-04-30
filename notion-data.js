@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/04/2026, 18:43:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/04/2026, 04:20:57 **/
 
-const LAST_UPDATE = '29/04/2026, 18:43:14';
+const LAST_UPDATE = '30/04/2026, 04:20:57';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -99,11 +99,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
-    "pronto": 17,
-    "postado": 2,
+    "pronto": 18,
+    "postado": 3,
     "agendado": 6,
     "agendado_coord": 7,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 13,
@@ -1161,15 +1161,12 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Vencemos!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "29/04",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vencemos-35133d8db9d280c68792f6eea5078aab"
     },
@@ -4754,7 +4751,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 18
   },
   "ItalaP": {
