@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/04/2026, 09:06:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/04/2026, 14:05:51 **/
 
-const LAST_UPDATE = '30/04/2026, 09:06:27';
+const LAST_UPDATE = '30/04/2026, 14:05:51';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -156,9 +156,9 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 14,
     "pronto": 14,
-    "postado": 6,
+    "postado": 7,
     "agendado": 5,
-    "agendado_coord": 3,
+    "agendado_coord": 2,
     "a_agendar": 0
   },
   "Juntos contra o HPV": {
@@ -190,8 +190,9 @@ const FEED_DATA = {
     "pronto": 9,
     "postado": 5,
     "agendado": 0,
-    "agendado_coord": 4,
-    "a_agendar": 0
+    "agendado_coord": 3,
+    "a_agendar": 0,
+    "st-paused": null
   },
   "Univendas": {
     "total": 15,
@@ -309,9 +310,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 5,
-    "pronto": 5,
-    "postado": 1,
+    "total": 6,
+    "pronto": 6,
+    "postado": 2,
     "agendado": 2,
     "agendado_coord": 2,
     "a_agendar": 0
@@ -410,10 +411,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 10,
     "pronto": 10,
-    "postado": 9,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -2180,9 +2181,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que o seu negócio pode aprender com Steve Jobs (Lições de marca, vendas e posicionamento.)",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎠 Carrossel",
-      "date": "29/04",
+      "date": "30/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
@@ -2804,7 +2805,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que tratar o artesanato como “ajuda” limita o desenvolvimento econômico de milhares de mulheres",
-      "status": "agendado_coord",
+      "status": "st-paused",
       "formato": "✍🏼 Artigo/blog",
       "date": "29/04",
       "missing": [],
@@ -3481,6 +3482,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "[PROVA SOCIAL] Visita Sangati Berga",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/PROVA-SOCIAL-Visita-Sangati-Berga-35233d8db9d280429cfbe96b755847e2"
+    },
+    {
       "title": "Vídeo: Atendimento na Planos",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3900,7 +3912,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Mercado / autoridade",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "30/04",
       "missing": [],
@@ -4555,12 +4567,48 @@ const DEMANDAS_EXTRAS = {
   ],
   "Travessias Híbridas": [
     {
-      "title": "Perfil Travessias Hibridas",
+      "title": "Capa e avatar das redes sociais",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Perfil-Travessias-Hibridas-35133d8db9d280ce97fbe536bc615404",
+      "notionUrl": "https://app.notion.com/p/Capa-e-avatar-das-redes-sociais-35233d8db9d280ad90d1d40b76f694d6",
       "gestora": "Equipe",
-      "date": "29/04"
+      "date": "30/04"
+    },
+    {
+      "title": "Primeiro feed (pode ser os três primeiros posts da linha)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Primeiro-feed-pode-ser-os-tr-s-primeiros-posts-da-linha-35233d8db9d2808bab6dfeb98314d519",
+      "gestora": "Equipe",
+      "date": "30/04"
+    }
+  ],
+  "Univendas": [
+    {
+      "title": "Card do site - Sem dias imperdíveis",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Card-do-site-Sem-dias-imperd-veis-35233d8db9d280c08971ea7edde82bb3",
+      "gestora": "Equipe",
+      "date": "30/04"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Camisa do Brasil (Copa do mundo)",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Camisa-do-Brasil-Copa-do-mundo-35233d8db9d28075be1dd7ad6bc7d79b",
+      "gestora": "Equipe",
+      "date": "30/04"
+    },
+    {
+      "title": "sousplat no formato quadrado",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/sousplat-no-formato-quadrado-34a33d8db9d2803b9659c18bf06b5021",
+      "gestora": "Equipe",
+      "date": "28/04"
     }
   ],
   "Solar Coworking": [
@@ -4633,38 +4681,12 @@ const DEMANDAS_EXTRAS = {
       "date": "23/04"
     },
     {
-      "title": "Designs para performance",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Designs-para-performance-34b33d8db9d280929ed4d796c94d29c2",
-      "gestora": "Equipe",
-      "date": "28/04"
-    },
-    {
       "title": "Diagnóstico de proteções - Versão de Apresentação",
       "priority": "p",
       "rawStatus": "2. Falta informação",
       "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "20/01"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "sousplat no formato quadrado",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/sousplat-no-formato-quadrado-34a33d8db9d2803b9659c18bf06b5021",
-      "gestora": "Equipe",
-      "date": "28/04"
-    },
-    {
-      "title": "Convite digital para dia das mães",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Convite-digital-para-dia-das-m-es-34a33d8db9d2802b83f4e89a3b40cc0d",
-      "gestora": "Equipe",
-      "date": "27/04"
     }
   ],
   "Ser Ponte": [
@@ -4771,8 +4793,8 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Planos Seguros": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 18,
+    "total": 18
   },
   "Rede Pangeia": {
     "prontas": 12,
@@ -4891,7 +4913,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 0,
     "foto": 0,
-    "video": 5,
+    "video": 6,
     "story": 2
   },
   "Rede Pangeia": {
