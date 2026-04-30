@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/04/2026, 17:45:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/04/2026, 20:38:37 **/
 
-const LAST_UPDATE = '30/04/2026, 17:45:30';
+const LAST_UPDATE = '30/04/2026, 20:38:37';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -66,12 +66,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 16,
+    "total": 15,
     "pronto": 15,
     "postado": 5,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 10,
@@ -718,20 +718,6 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
-    {
-      "title": "TBT",
-      "status": "a_agendar",
-      "formato": "📸 Foto(s)",
-      "date": "30/04",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/TBT-34f33d8db9d280eb8c5ae4c6a42ffe72"
-    },
     {
       "title": "Fortaleza é uma cidade que cresce, se desenvolve e se conecta todos os dias. Parabéns Fortaleza, pelos seus 300 anos!",
       "status": "agendado",
@@ -4581,7 +4567,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Camisa do Brasil (Copa do mundo)",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Camisa-do-Brasil-Copa-do-mundo-35233d8db9d28075be1dd7ad6bc7d79b",
       "gestora": "Equipe",
       "date": "30/04"
@@ -4742,7 +4728,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 17,
-    "total": 18
+    "total": 17
   },
   "Daniel Maia Advocacia": {
     "prontas": 10,
@@ -4833,7 +4819,7 @@ const FORMAT_COUNTS = {
   "Conecta Assessoria": {
     "post": 14,
     "carrossel": 1,
-    "foto": 1,
+    "foto": 0,
     "video": 2,
     "story": 10
   },
