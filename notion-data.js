@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/04/2026, 14:05:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/04/2026, 17:45:30 **/
 
-const LAST_UPDATE = '30/04/2026, 14:05:51';
+const LAST_UPDATE = '30/04/2026, 17:45:30';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -77,9 +77,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 10,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 5,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -98,12 +98,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 18,
-    "pronto": 18,
+    "total": 17,
+    "pronto": 17,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 7,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 13,
@@ -304,7 +304,7 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 6,
     "pronto": 6,
-    "postado": 1,
+    "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -451,10 +451,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 8,
     "pronto": 8,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "RR Advocacia": {
     "total": 3,
@@ -475,18 +475,18 @@ const STORIES_DATA = {
   "Ortobom": {
     "total": 4,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 2,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Rede Pangeia": {
     "total": 0,
@@ -901,14 +901,12 @@ const LINHA_FEED_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Réu confesso não é réu condenado. Entenda por quê.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/04",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/R-u-confesso-n-o-r-u-condenado-Entenda-por-qu-33a33d8db9d280adb473f655ba1cd6c0"
     },
@@ -1096,7 +1094,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Um vaso de planta e um prejuízo de R$ 5 mil: Como a cobertura de RC Familiar salva o seu orçamento.",
       "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "29/04",
+      "date": "30/04",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1216,19 +1214,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nenhum-agressor-nasceu-assim-o-que-a-cria-o-tem-a-ver-com-a-viol-ncia-que-vemos-nas-redes-33933d8db9d280ebb40ef64fcd33f01e"
-    },
-    {
-      "title": "Como o algoritmo transforma um menino inseguro em um homem que odeia mulheres",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/04",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Como-o-algoritmo-transforma-um-menino-inseguro-em-um-homem-que-odeia-mulheres-33933d8db9d280fba0fde31af9b957e1"
     },
     {
       "title": "Perimenopausa: a fase que começa anos antes e quase ninguém reconhece",
@@ -3414,6 +3399,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Ortobom": [
     {
+      "title": "Video presente dia das mães ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/04",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Video-presente-dia-das-m-es-35233d8db9d2806aa383ef21538d48c2"
+    },
+    {
       "title": "Como os clientes me veem ",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -4020,7 +4016,7 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Aviso de funcionamento",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "30/04",
       "missing": [],
@@ -4180,7 +4176,7 @@ const LINHA_STORIES_ITEMS = {
   "Ortobom": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "30/04",
       "missing": [],
@@ -4226,7 +4222,7 @@ const LINHA_STORIES_ITEMS = {
   "Planos Seguros": [
     {
       "title": "O que o tabagismo faz com o seu corpo que nenhuma propaganda te conta.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "30/04",
       "missing": [],
@@ -4515,7 +4511,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Capas de destaques do Instagram ",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
       "gestora": "Equipe",
       "date": "29/04"
@@ -4565,6 +4561,40 @@ const DEMANDAS_EXTRAS = {
       "date": "28/02"
     }
   ],
+  "Plannea": [
+    {
+      "title": "Cards Plannea Summit",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Cards-Plannea-Summit-35233d8db9d280269af1c51582a5f505",
+      "gestora": "Equipe",
+      "date": "23/04"
+    },
+    {
+      "title": "Demandas do endomarketing - mensal",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Demandas-do-endomarketing-mensal-35233d8db9d280e38925dfd151a196b4",
+      "gestora": "Equipe",
+      "date": "30/04"
+    },
+    {
+      "title": "Camisa do Brasil (Copa do mundo)",
+      "priority": "ppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Camisa-do-Brasil-Copa-do-mundo-35233d8db9d28075be1dd7ad6bc7d79b",
+      "gestora": "Equipe",
+      "date": "30/04"
+    },
+    {
+      "title": "Sousplat no formato quadrado",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Sousplat-no-formato-quadrado-34a33d8db9d2803b9659c18bf06b5021",
+      "gestora": "Equipe",
+      "date": "28/04"
+    }
+  ],
   "Travessias Híbridas": [
     {
       "title": "Capa e avatar das redes sociais",
@@ -4581,34 +4611,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Primeiro-feed-pode-ser-os-tr-s-primeiros-posts-da-linha-35233d8db9d2808bab6dfeb98314d519",
       "gestora": "Equipe",
       "date": "30/04"
-    }
-  ],
-  "Univendas": [
-    {
-      "title": "Card do site - Sem dias imperdíveis",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Card-do-site-Sem-dias-imperd-veis-35233d8db9d280c08971ea7edde82bb3",
-      "gestora": "Equipe",
-      "date": "30/04"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Camisa do Brasil (Copa do mundo)",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Camisa-do-Brasil-Copa-do-mundo-35233d8db9d28075be1dd7ad6bc7d79b",
-      "gestora": "Equipe",
-      "date": "30/04"
-    },
-    {
-      "title": "sousplat no formato quadrado",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/sousplat-no-formato-quadrado-34a33d8db9d2803b9659c18bf06b5021",
-      "gestora": "Equipe",
-      "date": "28/04"
     }
   ],
   "Solar Coworking": [
@@ -4661,16 +4663,6 @@ const DEMANDAS_EXTRAS = {
       "date": "27/04"
     }
   ],
-  "Ortobom": [
-    {
-      "title": "Alterar arte para tema dia das mães",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Alterar-arte-para-tema-dia-das-m-es-34f33d8db9d280e9a15bd74eeef74ee9",
-      "gestora": "Equipe",
-      "date": "30/04"
-    }
-  ],
   "Finseg Leal": [
     {
       "title": "Banner com QRCodes para projeção",
@@ -4700,14 +4692,6 @@ const DEMANDAS_EXTRAS = {
     }
   ],
   "Juntos contra o HPV": [
-    {
-      "title": "Apresentação/e-poster para o “19th Congress of IFCPC”",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-e-poster-para-o-19th-Congress-of-IFCPC-34433d8db9d28074bc58f3ed8c691b3c",
-      "gestora": "Equipe",
-      "date": "24T15:00:00.000/04"
-    },
     {
       "title": "Newsletter",
       "priority": "p",
@@ -4761,7 +4745,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Daniel Maia Advocacia": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 10
   },
   "Di Gregório Buffet": {
@@ -4774,7 +4758,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 16,
-    "total": 18
+    "total": 17
   },
   "ItalaP": {
     "prontas": 21,
@@ -4789,8 +4773,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Ortobom": {
-    "prontas": 18,
-    "total": 18
+    "prontas": 19,
+    "total": 19
   },
   "Planos Seguros": {
     "prontas": 18,
@@ -4875,7 +4859,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 17,
+    "post": 16,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -4906,7 +4890,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 1,
     "foto": 1,
-    "video": 6,
+    "video": 7,
     "story": 4
   },
   "Planos Seguros": {
