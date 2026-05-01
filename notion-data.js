@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/05/2026, 08:42:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/05/2026, 12:35:43 **/
 
-const LAST_UPDATE = '01/05/2026, 08:42:10';
+const LAST_UPDATE = '01/05/2026, 12:35:43';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -101,9 +101,9 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 6,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "ItalaP": {
     "total": 14,
@@ -149,9 +149,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 5,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Solar Coworking": {
     "total": 13,
@@ -173,9 +173,9 @@ const FEED_DATA = {
     "total": 3,
     "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 13,
@@ -218,12 +218,12 @@ const FEED_DATA = {
     "a_agendar": 13
   },
   "Ser Ponte": {
-    "total": 4,
-    "pronto": 4,
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 0
   }
 };
 
@@ -253,12 +253,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Di Gregório Buffet": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Finseg Leal": {
     "total": 4,
@@ -342,10 +342,10 @@ const VIDEO_DATA = {
   },
   "Plannea": {
     "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 0
   },
   "Stratto": {
@@ -512,12 +512,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Plannea": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 5,
@@ -1216,14 +1216,12 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "O passado conquistou direitos. O presente exige igualdade!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "01/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-passado-conquistou-direitos-O-presente-exige-igualdade-35233d8db9d28029aec6defbdebbe01e"
     },
@@ -2151,7 +2149,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Existem trabalhos que geram lucro. Outros geram legado. A todos os trabalhadores que dedicam seus dias a transformar realidades, o nosso reconhecimento, respeito e gratidão.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "01/05",
       "missing": [],
@@ -2423,7 +2421,7 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Toda grande conquista começa com um trabalhador. - 01 de maio, dia do trabalhador.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "01/05",
       "missing": [],
@@ -3086,60 +3084,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Vem-a-Travessias-H-bridas-Explore-uma-verdadeira-explos-o-brincante-de-cores-35233d8db9d2803eafaede4b62238a54"
     }
   ],
-  "Ser Ponte": [
-    {
-      "title": "Você que acompanha a Ser Ponte aqui nas redes sociais: como você definiria o nosso trabalho em uma palavra?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-que-acompanha-a-Ser-Ponte-aqui-nas-redes-sociais-como-voc-definiria-o-nosso-trabalho-em-uma-p-34933d8db9d2807f8b0adad10765f3fe"
-    },
-    {
-      "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "06/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
-    },
-    {
-      "title": "Existe uma Fortaleza que não chega no fim do mês.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "04/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Existe-uma-Fortaleza-que-n-o-chega-no-fim-do-m-s-34933d8db9d28002b145e0f13bdf673d"
-    },
-    {
-      "title": "Quem decide quem recebe esse dinheiro?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "02/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-decide-quem-recebe-esse-dinheiro-34933d8db9d28084b8afcf54e1f27231"
-    }
-  ]
+  "Ser Ponte": []
 };
 
 const LINHA_VIDEO_ITEMS = {
@@ -3255,7 +3200,36 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Daniel Maia Advocacia": [],
-  "Di Gregório Buffet": [],
+  "Di Gregório Buffet": [
+    {
+      "title": "Salão Chá ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "02/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Sal-o-Ch-34f33d8db9d2804984dacb98d10c55be"
+    },
+    {
+      "title": "Doces do último casamento",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "01/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Doces-do-ltimo-casamento-34f33d8db9d280c1a1a7e79f175331ac"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Vídeo",
@@ -3555,16 +3529,13 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [
     {
       "title": "Vídeo de dia do trabalhador",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "01/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-de-dia-do-trabalhador-34a33d8db9d280eeb99adcb718312959"
     }
   ],
@@ -4232,7 +4203,19 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [],
-  "Plannea": [],
+  "Plannea": [
+    {
+      "title": "Contabilidade estratégica",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "04/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Contabilidade-estrat-gica-33433d8db9d280e88fb0f97af4bab8b7"
+    }
+  ],
   "Stratto": [
     {
       "title": "Story/stories",
@@ -4718,14 +4701,14 @@ const LEGENDAS_DATA = {
   },
   "Di Gregório Buffet": {
     "prontas": 0,
-    "total": 0
+    "total": 2
   },
   "Finseg Leal": {
     "prontas": 13,
     "total": 20
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 0,
+    "prontas": 1,
     "total": 6
   },
   "ItalaP": {
@@ -4761,7 +4744,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Plannea": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 6
   },
   "Stratto": {
@@ -4786,7 +4769,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 0,
-    "total": 4
+    "total": 0
   }
 };
 
@@ -4816,7 +4799,7 @@ const FORMAT_COUNTS = {
     "post": 0,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 2,
     "story": 0
   },
   "Finseg Leal": {
@@ -4894,7 +4877,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 1,
-    "story": 0
+    "story": 1
   },
   "Stratto": {
     "post": 11,
@@ -4932,8 +4915,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 3,
-    "carrossel": 1,
+    "post": 0,
+    "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 0
