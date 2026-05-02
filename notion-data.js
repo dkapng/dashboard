@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/05/2026, 12:08:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/05/2026, 15:04:55 **/
 
-const LAST_UPDATE = '02/05/2026, 12:08:55';
+const LAST_UPDATE = '02/05/2026, 15:04:55';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -163,7 +163,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 5,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -409,7 +409,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 4,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2358,10 +2358,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-forma-o-de-multiplicadores-amplia-o-acesso-informa-o-e-fortalece-a-preven-o-do-HPV-34233d8db9d28084bd47ece3285ecea5"
@@ -2371,10 +2369,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-vacina-o-contra-o-HPV-uma-das-estrat-gias-mais-eficazes-de-sa-de-p-blica-para-prevenir-o-c-ncer-34233d8db9d2801786acdcfc40b83c03"
@@ -2384,10 +2380,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-c-ncer-do-colo-do-tero-uma-doen-a-amplamente-preven-vel-mas-ainda-apresenta-alta-incid-ncia-no-34233d8db9d280349303f269434860c9"
@@ -2409,10 +2403,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-maioria-das-pessoas-ter-contato-com-o-HPV-ao-longo-da-vida-mesmo-sem-sintomas-34233d8db9d28044ac5bfb4c4eeea492"
@@ -3747,10 +3740,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/ConectaInforma-35233d8db9d280269a78c53e89bd3cd9"
