@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/05/2026, 09:07:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/05/2026, 12:08:55 **/
 
-const LAST_UPDATE = '02/05/2026, 09:07:27';
+const LAST_UPDATE = '02/05/2026, 12:08:55';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -433,7 +433,7 @@ const STORIES_DATA = {
   },
   "Finseg Leal": {
     "total": 4,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -457,7 +457,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
@@ -521,7 +521,7 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -3750,7 +3750,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/ConectaInforma-35233d8db9d280269a78c53e89bd3cd9"
@@ -3777,10 +3777,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Fia-es-antigas-35233d8db9d2806aa2aecfd4df754ded"
@@ -3871,10 +3869,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Morar-anos-em-um-im-vel-n-o-significa-que-ele-vai-ser-seu-32d33d8db9d2804ba162c82917433431"
@@ -4257,30 +4253,26 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Story-stories-35233d8db9d2801fa005cf91e0fef673"
     },
     {
-      "title": "Story/stories",
+      "title": "Maio começou.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-35233d8db9d28080b3ccc55461be2f47"
+      "notionUrl": "https://www.notion.so/Maio-come-ou-35233d8db9d28080b3ccc55461be2f47"
     },
     {
-      "title": "dia das mães",
+      "title": "Dia das mães",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/dia-das-m-es-35033d8db9d28050a518d0eb4f14421c"
+      "notionUrl": "https://www.notion.so/Dia-das-m-es-35033d8db9d28050a518d0eb4f14421c"
     }
   ],
   "Terrartesã": [
