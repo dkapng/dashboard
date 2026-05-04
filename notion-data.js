@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/05/2026, 17:48:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/05/2026, 20:40:38 **/
 
-const LAST_UPDATE = '04/05/2026, 17:48:34';
+const LAST_UPDATE = '04/05/2026, 20:40:38';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -59,11 +59,11 @@ const NICHES = {
 const FEED_DATA = {
   "Univendas": {
     "total": 12,
-    "pronto": 2,
-    "postado": 0,
+    "pronto": 3,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Terrartesã": {
     "total": 10,
@@ -77,9 +77,9 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 6,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Finseg Leal": {
     "total": 16,
@@ -90,10 +90,10 @@ const FEED_DATA = {
     "a_agendar": 13
   },
   "Solar Coworking": {
-    "total": 13,
-    "pronto": 1,
+    "total": 14,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 12
   },
@@ -154,20 +154,20 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Grupo Mulheres do Brasil": {
-    "total": 6,
-    "pronto": 6,
-    "postado": 0,
+    "total": 7,
+    "pronto": 7,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 4
   },
   "Ortobom": {
     "total": 14,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "APROSSEG": {
     "total": 14,
@@ -196,10 +196,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 3,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 14,
@@ -211,11 +211,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 13,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Rede Pangeia": {
     "total": 14,
@@ -505,11 +505,11 @@ const STORIES_DATA = {
   },
   "Ortobom": {
     "total": 8,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "APROSSEG": {
     "total": 5,
@@ -528,10 +528,10 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "Jota Diesel": {
-    "total": 4,
-    "pronto": 0,
+    "total": 5,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 4
   },
@@ -650,17 +650,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Um-plano-bem-estruturado-oferece-mais-tranquilidade-para-voc-e-sua-fam-lia-32533d8db9d2801dac37e151a7dee4d1"
     },
     {
-      "title": "Plano de saúde não é custo. É estrutura para crescer.",
-      "status": "a_agendar",
+      "title": "Sua empresa pode estar pagando mais do que deveria no plano de saúde",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "04/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Plano-de-sa-de-n-o-custo-estrutura-para-crescer-32533d8db9d28066800be9de5eebaa06"
+      "notionUrl": "https://www.notion.so/Sua-empresa-pode-estar-pagando-mais-do-que-deveria-no-plano-de-sa-de-32533d8db9d28066800be9de5eebaa06"
     },
     {
       "title": "Plano de saúde também é uma forma de planejamento financeiro.",
@@ -905,7 +903,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "NDA (Acordo de Confidencialidade): quando e como usar?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "04/05",
       "missing": [],
@@ -1228,7 +1226,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Onde você trabalha influencia mais do que você imagina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/05",
+      "date": "11/05",
       "missing": [
         "Design"
       ],
@@ -1302,6 +1300,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-neg-cio-est-no-lugar-certo-ou-em-qualquer-lugar-34b33d8db9d280fb9532ce8e1c4f2f03"
+    },
+    {
+      "title": "A Solar não é só um endereço, é uma base operacional",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "04/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/A-Solar-n-o-s-um-endere-o-uma-base-operacional-35633d8db9d2800482cceddf6afeb815"
     }
   ],
   "Juntos contra o HPV": [
@@ -1963,6 +1972,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-passado-conquistou-direitos-O-presente-exige-igualdade-35233d8db9d28029aec6defbdebbe01e"
+    },
+    {
+      "title": "Feliz aniversário, Elly",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "04/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Feliz-anivers-rio-Elly-35633d8db9d28087b705dff8b2227702"
     }
   ],
   "Ortobom": [
@@ -2058,13 +2078,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ela nunca parou por você. Agora é a sua vez de retribuir com cuidado de verdade.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "04/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Ela-nunca-parou-por-voc-Agora-a-sua-vez-de-retribuir-com-cuidado-de-verdade-35233d8db9d280588f81f9d60e5324df"
@@ -2527,7 +2545,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Fumaça, consumo alto e perda de potência não são normais são sinais de alerta.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/05",
+      "date": "06/05",
       "missing": [
         "Design"
       ],
@@ -2618,7 +2636,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Parar o veículo custa mais do que você imagina.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "06/05",
+      "date": "07/05",
       "missing": [
         "Design"
       ],
@@ -2642,14 +2660,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que diferencia a Plannea de uma contabilidade tradicional",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "04/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-diferencia-a-Plannea-de-uma-contabilidade-tradicional-32533d8db9d280c5b877cb899730408c"
     },
@@ -2848,17 +2864,15 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
-      "title": "Quando a renda deixa de existir, é nesse momento que a estrutura de proteção mostra se foi bem pensada.",
-      "status": "a_agendar",
+      "title": "Por trás de toda empresa sólida, existe um sócio que pensa à frente.",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "04/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Quando-a-renda-deixa-de-existir-nesse-momento-que-a-estrutura-de-prote-o-mostra-se-foi-bem-pensa-33933d8db9d2803bbc0dd5224cab0025"
+      "notionUrl": "https://www.notion.so/Por-tr-s-de-toda-empresa-s-lida-existe-um-s-cio-que-pensa-frente-33933d8db9d2803bbc0dd5224cab0025"
     },
     {
       "title": "Se tem as melhores opções em planos de saúde, tem cotação planos na sua mão.",
@@ -4081,13 +4095,11 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversario Isaraely (nort shopping)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "04/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Aniversario-Isaraely-nort-shopping-2e333d8db9d2801a92e5d7d94c4d93b8"
@@ -4329,6 +4341,17 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-35133d8db9d280b4a76cdcb8025a7590"
+    },
+    {
+      "title": "Reposts stories (que já saíram uma vez pra não ficar sem)",
+      "status": "agendado",
+      "formato": "📱 Story",
+      "date": "04/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Reposts-stories-que-j-sa-ram-uma-vez-pra-n-o-ficar-sem-35633d8db9d28007b725e4cb3b4ef5de"
     }
   ],
   "Plannea": [
@@ -4847,8 +4870,8 @@ const LEGENDAS_DATA = {
     "total": 20
   },
   "Solar Coworking": {
-    "prontas": 11,
-    "total": 13
+    "prontas": 12,
+    "total": 14
   },
   "Juntos contra o HPV": {
     "prontas": 4,
@@ -4879,8 +4902,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 2,
-    "total": 6
+    "prontas": 3,
+    "total": 7
   },
   "Ortobom": {
     "prontas": 15,
@@ -4899,7 +4922,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Plannea": {
-    "prontas": 3,
+    "prontas": 4,
     "total": 6
   },
   "Conecta Assessoria": {
@@ -4946,7 +4969,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Solar Coworking": {
-    "post": 13,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -5002,7 +5025,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Grupo Mulheres do Brasil": {
-    "post": 6,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -5034,7 +5057,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 4,
-    "story": 4
+    "story": 5
   },
   "Plannea": {
     "post": 3,
@@ -5134,7 +5157,7 @@ const AGENDA_COUNTS = {
   },
   "Ortobom": {
     "reuniao": 0,
-    "producao": 2,
+    "producao": 3,
     "evento": 0
   },
   "APROSSEG": {
