@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/05/2026, 05:07:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/05/2026, 12:33:05 **/
 
-const LAST_UPDATE = '04/05/2026, 05:07:55';
+const LAST_UPDATE = '04/05/2026, 12:33:05';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -23,11 +23,11 @@ const GESTORAS = {
     "Ser Ponte"
   ],
   "Anna Ventana": [
-    "RR Advocacia",
     "Jota Diesel",
     "Ortobom",
-    "Solar Coworking",
+    "RR Advocacia",
     "Terrartesã",
+    "Solar Coworking",
     "Univendas"
   ]
 };
@@ -40,16 +40,16 @@ const NICHES = {
   "Finseg Leal": "Geral",
   "Grupo Mulheres do Brasil": "Geral",
   "ItalaP": "Geral",
-  "RR Advocacia": "Geral",
   "Jota Diesel": "Geral",
   "Ortobom": "Geral",
   "Planos Seguros": "Geral",
   "Rede Pangeia": "Geral",
+  "RR Advocacia": "Geral",
+  "Terrartesã": "Geral",
   "Solar Coworking": "Geral",
   "Juntos contra o HPV": "Geral",
   "Plannea": "Geral",
   "Stratto": "Geral",
-  "Terrartesã": "Geral",
   "Univendas": "Geral",
   "Ventana": "Geral",
   "Travessias Híbridas": "Geral",
@@ -113,14 +113,6 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 12
   },
-  "RR Advocacia": {
-    "total": 4,
-    "pronto": 1,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 3,
-    "a_agendar": 1
-  },
   "Jota Diesel": {
     "total": 9,
     "pronto": 1,
@@ -152,6 +144,22 @@ const FEED_DATA = {
     "agendado": 1,
     "agendado_coord": 1,
     "a_agendar": 12
+  },
+  "RR Advocacia": {
+    "total": 10,
+    "pronto": 1,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 3,
+    "a_agendar": 7
+  },
+  "Terrartesã": {
+    "total": 10,
+    "pronto": 1,
+    "postado": 0,
+    "agendado": 1,
+    "agendado_coord": 9,
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 13,
@@ -185,14 +193,6 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 9
   },
-  "Terrartesã": {
-    "total": 10,
-    "pronto": 1,
-    "postado": 0,
-    "agendado": 1,
-    "agendado_coord": 9,
-    "a_agendar": 0
-  },
   "Univendas": {
     "total": 12,
     "pronto": 2,
@@ -210,12 +210,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 13,
-    "pronto": 3,
+    "total": 14,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 14
   },
   "Ser Ponte": {
     "total": 0,
@@ -284,14 +284,6 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "RR Advocacia": {
-    "total": 7,
-    "pronto": 7,
-    "postado": 0,
-    "agendado": 7,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
   "Jota Diesel": {
     "total": 4,
     "pronto": 4,
@@ -324,6 +316,22 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
+  "RR Advocacia": {
+    "total": 7,
+    "pronto": 7,
+    "postado": 1,
+    "agendado": 6,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
+  "Terrartesã": {
+    "total": 3,
+    "pronto": 3,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 3
+  },
   "Solar Coworking": {
     "total": 0,
     "pronto": 0,
@@ -355,14 +363,6 @@ const VIDEO_DATA = {
     "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 1
-  },
-  "Terrartesã": {
-    "total": 3,
-    "pronto": 3,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 3
   },
   "Univendas": {
     "total": 0,
@@ -455,14 +455,6 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 4
   },
-  "RR Advocacia": {
-    "total": 1,
-    "pronto": 1,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 0
-  },
   "Jota Diesel": {
     "total": 4,
     "pronto": 0,
@@ -495,6 +487,22 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 4
   },
+  "RR Advocacia": {
+    "total": 4,
+    "pronto": 1,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 1,
+    "a_agendar": 3
+  },
+  "Terrartesã": {
+    "total": 4,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 4,
+    "a_agendar": 0
+  },
   "Solar Coworking": {
     "total": 4,
     "pronto": 0,
@@ -526,14 +534,6 @@ const STORIES_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 5
-  },
-  "Terrartesã": {
-    "total": 4,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 4,
-    "a_agendar": 0
   },
   "Univendas": {
     "total": 1,
@@ -1255,7 +1255,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Como o algoritmo transforma um menino inseguro em um homem que odeia mulheres",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/05",
+      "date": "05/05",
       "missing": [
         "Legenda"
       ],
@@ -1281,7 +1281,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Os números não mentem: O Brasil tem só 18% de mulheres no legislativo, se somos 51,5% da população, a gente PRECISA mudar isso!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "03/05",
+      "date": "04/05",
       "missing": [
         "Legenda"
       ],
@@ -1471,58 +1471,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Voc-s-procura-exames-quando-sente-algo-Esse-h-bito-pode-estar-colocando-sua-sa-de-em-risco-33333d8db9d280858465c3efb6dfa1ce"
     }
   ],
-  "RR Advocacia": [
-    {
-      "title": "tbt",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "07/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/tbt-34c33d8db9d280aeaacbe4c968e585fc"
-    },
-    {
-      "title": "Dia do Trabalho: o que a lei realmente assegura na relação entre empregado e empregador",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "01/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Dia-do-Trabalho-o-que-a-lei-realmente-assegura-na-rela-o-entre-empregado-e-empregador-32d33d8db9d280d6a103c238fafb76f6"
-    },
-    {
-      "title": "Contratos digitais têm validade? O que a lei diz",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Contratos-digitais-t-m-validade-O-que-a-lei-diz-32d33d8db9d2804282c6d31ba1ce7b1c"
-    },
-    {
-      "title": "Precisão Estratégia Proximidade Segurança (ideia que na capa tenha as palavras-chave em destaque)",
-      "status": "agendado_coord",
-      "formato": "🎠 Carrossel",
-      "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Precis-o-Estrat-gia-Proximidade-Seguran-a-ideia-que-na-capa-tenha-as-palavras-chave-em-destaque-32d33d8db9d280c699b3d4e6b1bf75c9"
-    }
-  ],
   "Jota Diesel": [
     {
       "title": "Parar o veículo custa mais do que você imagina.",
@@ -1649,11 +1597,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "27/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Como-escolher-o-colch-o-ideal-35233d8db9d28098b802f6824746306f"
     },
@@ -1663,11 +1610,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "13/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-dorme-mas-acorda-cansado-35233d8db9d280f69026c0513e128814"
     },
@@ -1691,11 +1637,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-n-o-precisa-se-adaptar-ao-seu-colch-o-Ele-que-precisa-se-adaptar-a-voc-35233d8db9d2803f9d1bebd54f675f98"
     },
@@ -1714,18 +1659,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Seu-colch-o-j-deu-sinais-Voc-s-n-o-percebeu-ainda-35233d8db9d280f99735f3bc195283e9"
     },
     {
-      "title": "Ela nunca parou por você. Agora é a sua vez de cuidar de quem sempre cuidou.",
+      "title": "Ela nunca parou por você. Agora é a sua vez de retribuir com cuidado de verdade.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Ela-nunca-parou-por-voc-Agora-a-sua-vez-de-cuidar-de-quem-sempre-cuidou-35233d8db9d280588f81f9d60e5324df"
+      "notionUrl": "https://www.notion.so/Ela-nunca-parou-por-voc-Agora-a-sua-vez-de-retribuir-com-cuidado-de-verdade-35233d8db9d280588f81f9d60e5324df"
     },
     {
       "title": "Seu quarto também influencia no seu descanso. Ambiente + conforto = qualidade de vida.",
@@ -1733,11 +1677,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "25/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-quarto-tamb-m-influencia-no-seu-descanso-Ambiente-conforto-qualidade-de-vida-35233d8db9d280d3b8e1e24fcc9124d2"
     },
@@ -1747,11 +1690,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-pra-presentear-que-seja-algo-que-fa-a-diferen-a-todos-os-dias-35233d8db9d2802d95f3ff5db34bdc0f"
     },
@@ -1761,11 +1703,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-corpo-trabalhou-o-dia-inteiro-seu-descanso-precisa-acompanhar-Tecnologia-que-ajuda-na-recupera-35233d8db9d2807cb129e6c1daf0b544"
     },
@@ -1775,11 +1716,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-presente-que-acolhe-todos-os-dias-e-transforma-o-descanso-em-cuidado-35233d8db9d280ec9564fdcc3c3e330c"
     },
@@ -1789,11 +1729,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Desligar-tamb-m-faz-parte-da-produtividade-3-passos-simples-pra-melhorar-seu-sono-hoje-35033d8db9d2806bb644ceb43b4f634b"
     },
@@ -1803,11 +1742,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/HYBRID-Tem-dias-que-voc-quer-maciez-Tem-dias-que-precisa-de-firmeza-O-colch-o-que-se-adapta-a-voc-35033d8db9d2805da475f04f25355e35"
     },
@@ -1817,11 +1755,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-pode-at-dormir-todas-as-noites-mas-isso-n-o-significa-que-est-descansando-de-verdade-35033d8db9d2802b98cdd80eb1776307"
     },
@@ -2179,6 +2116,272 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-muda-quando-voc-registra-desde-o-primeiro-dia-30433d8db9d280a4ac19d0cc47c30b18"
+    }
+  ],
+  "RR Advocacia": [
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Post-35633d8db9d28033bf0bcf0b669938a0"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Post-35633d8db9d2804e9a2bd0b7990c415d"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Post-35633d8db9d28041a93bf83cfdde74ab"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Post-35633d8db9d280438f2ee47e7353b176"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Post-35633d8db9d28058b7eaec61dea11c83"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Post-35633d8db9d280c1898ae2f7e0463472"
+    },
+    {
+      "title": "tbt",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "07/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/tbt-34c33d8db9d280aeaacbe4c968e585fc"
+    },
+    {
+      "title": "Dia do Trabalho: o que a lei realmente assegura na relação entre empregado e empregador",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "01/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Dia-do-Trabalho-o-que-a-lei-realmente-assegura-na-rela-o-entre-empregado-e-empregador-32d33d8db9d280d6a103c238fafb76f6"
+    },
+    {
+      "title": "Contratos digitais têm validade? O que a lei diz",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "06/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Contratos-digitais-t-m-validade-O-que-a-lei-diz-32d33d8db9d2804282c6d31ba1ce7b1c"
+    },
+    {
+      "title": "Precisão Estratégia Proximidade Segurança (ideia que na capa tenha as palavras-chave em destaque)",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "08/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Precis-o-Estrat-gia-Proximidade-Seguran-a-ideia-que-na-capa-tenha-as-palavras-chave-em-destaque-32d33d8db9d280c699b3d4e6b1bf75c9"
+    }
+  ],
+  "Terrartesã": [
+    {
+      "title": "Venha conhecer a Terrartesã: onde o artesanal encontra propósito - Av. Chanceler Edson Queiroz, 100 - Guararapes, Fortaleza - CE, 60810-145",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "22/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Venha-conhecer-a-Terrartes-onde-o-artesanal-encontra-prop-sito-Av-Chanceler-Edson-Queiroz-100--34533d8db9d280f2a897da31e90ccef5"
+    },
+    {
+      "title": "Reinserção social com dignidade: o papel do trabalho e da geração de renda na reconstrução de trajetórias",
+      "status": "agendado_coord",
+      "formato": "✍🏼 Artigo/blog",
+      "date": "20/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Reinser-o-social-com-dignidade-o-papel-do-trabalho-e-da-gera-o-de-renda-na-reconstru-o-de-trajet-34533d8db9d280e78687e634db0f39f7"
+    },
+    {
+      "title": "Quando o trabalho se torna uma oportunidade real de recomeço, novas histórias podem ser construídas",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "18/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quando-o-trabalho-se-torna-uma-oportunidade-real-de-recome-o-novas-hist-rias-podem-ser-constru-das-34533d8db9d280aeaf89c5e67c20d3ca"
+    },
+    {
+      "title": "O artesanato como herança cultural: quando o saber atravessa gerações e se transforma em renda",
+      "status": "agendado_coord",
+      "formato": "✍🏼 Artigo/blog",
+      "date": "13/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-artesanato-como-heran-a-cultural-quando-o-saber-atravessa-gera-es-e-se-transforma-em-renda-34533d8db9d280f1a4aee68999014851"
+    },
+    {
+      "title": "Celebramos mulheres que ensinaram, sustentaram e mantiveram vivo um fazer que carrega identidade, cultura e sustento. Feliz dia das mães!",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "10/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Celebramos-mulheres-que-ensinaram-sustentaram-e-mantiveram-vivo-um-fazer-que-carrega-identidade-cu-34533d8db9d2804ea1cdf55f65363950"
+    },
+    {
+      "title": "Muitas vezes, a venda é vista como o principal indicador de sucesso. Mas antes dela, existe um caminho que nem sempre aparece.",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "15/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Muitas-vezes-a-venda-vista-como-o-principal-indicador-de-sucesso-Mas-antes-dela-existe-um-camin-34533d8db9d280beb100cf7aa7fe118d"
+    },
+    {
+      "title": "“Ser artesã é exercer uma profissão que exige técnica, tempo, conhecimento e reconhecimento”",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "08/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Ser-artes-exercer-uma-profiss-o-que-exige-t-cnica-tempo-conhecimento-e-reconhecimento-34533d8db9d28002987bde6088e7637a"
+    },
+    {
+      "title": "Protagonismo feminino além do discurso: quando o artesanato se torna fonte real de autonomia econômica",
+      "status": "agendado_coord",
+      "formato": "✍🏼 Artigo/blog",
+      "date": "06/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Protagonismo-feminino-al-m-do-discurso-quando-o-artesanato-se-torna-fonte-real-de-autonomia-econ-mi-34533d8db9d280afb5a4f492ae19fdb8"
+    },
+    {
+      "title": "O artesanato nunca foi apenas expressão. Para muitas mulheres, ele sempre foi sustento.",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "04/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-artesanato-nunca-foi-apenas-express-o-Para-muitas-mulheres-ele-sempre-foi-sustento-34533d8db9d280e0b5dad4377626c4d8"
+    },
+    {
+      "title": "Se você tem um sonho, construa-o. Um pouco todos os dias. ",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "01/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Se-voc-tem-um-sonho-construa-o-Um-pouco-todos-os-dias-Com-dedica-o-coragem-e-confian-a-no-seu--34533d8db9d280bfa0c5edd8fa920d7d"
     }
   ],
   "Solar Coworking": [
@@ -2611,136 +2814,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/O-trabalho-de-hoje-constr-i-as-conquistas-de-amanh-Feliz-Dia-do-Trabalho-35033d8db9d2804b95b2cc4007794953"
     }
   ],
-  "Terrartesã": [
-    {
-      "title": "Venha conhecer a Terrartesã: onde o artesanal encontra propósito - Av. Chanceler Edson Queiroz, 100 - Guararapes, Fortaleza - CE, 60810-145",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Venha-conhecer-a-Terrartes-onde-o-artesanal-encontra-prop-sito-Av-Chanceler-Edson-Queiroz-100--34533d8db9d280f2a897da31e90ccef5"
-    },
-    {
-      "title": "Reinserção social com dignidade: o papel do trabalho e da geração de renda na reconstrução de trajetórias",
-      "status": "agendado_coord",
-      "formato": "✍🏼 Artigo/blog",
-      "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Reinser-o-social-com-dignidade-o-papel-do-trabalho-e-da-gera-o-de-renda-na-reconstru-o-de-trajet-34533d8db9d280e78687e634db0f39f7"
-    },
-    {
-      "title": "Quando o trabalho se torna uma oportunidade real de recomeço, novas histórias podem ser construídas",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Quando-o-trabalho-se-torna-uma-oportunidade-real-de-recome-o-novas-hist-rias-podem-ser-constru-das-34533d8db9d280aeaf89c5e67c20d3ca"
-    },
-    {
-      "title": "O artesanato como herança cultural: quando o saber atravessa gerações e se transforma em renda",
-      "status": "agendado_coord",
-      "formato": "✍🏼 Artigo/blog",
-      "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-artesanato-como-heran-a-cultural-quando-o-saber-atravessa-gera-es-e-se-transforma-em-renda-34533d8db9d280f1a4aee68999014851"
-    },
-    {
-      "title": "Celebramos mulheres que ensinaram, sustentaram e mantiveram vivo um fazer que carrega identidade, cultura e sustento. Feliz dia das mães!",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Celebramos-mulheres-que-ensinaram-sustentaram-e-mantiveram-vivo-um-fazer-que-carrega-identidade-cu-34533d8db9d2804ea1cdf55f65363950"
-    },
-    {
-      "title": "Muitas vezes, a venda é vista como o principal indicador de sucesso. Mas antes dela, existe um caminho que nem sempre aparece.",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Muitas-vezes-a-venda-vista-como-o-principal-indicador-de-sucesso-Mas-antes-dela-existe-um-camin-34533d8db9d280beb100cf7aa7fe118d"
-    },
-    {
-      "title": "“Ser artesã é exercer uma profissão que exige técnica, tempo, conhecimento e reconhecimento”",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Ser-artes-exercer-uma-profiss-o-que-exige-t-cnica-tempo-conhecimento-e-reconhecimento-34533d8db9d28002987bde6088e7637a"
-    },
-    {
-      "title": "Protagonismo feminino além do discurso: quando o artesanato se torna fonte real de autonomia econômica",
-      "status": "agendado_coord",
-      "formato": "✍🏼 Artigo/blog",
-      "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Protagonismo-feminino-al-m-do-discurso-quando-o-artesanato-se-torna-fonte-real-de-autonomia-econ-mi-34533d8db9d280afb5a4f492ae19fdb8"
-    },
-    {
-      "title": "O artesanato nunca foi apenas expressão. Para muitas mulheres, ele sempre foi sustento.",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "04/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-artesanato-nunca-foi-apenas-express-o-Para-muitas-mulheres-ele-sempre-foi-sustento-34533d8db9d280e0b5dad4377626c4d8"
-    },
-    {
-      "title": "Se você tem um sonho, construa-o. Um pouco todos os dias. ",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "01/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Se-voc-tem-um-sonho-construa-o-Um-pouco-todos-os-dias-Com-dedica-o-coragem-e-confian-a-no-seu--34533d8db9d280bfa0c5edd8fa920d7d"
-    }
-  ],
   "Univendas": [
     {
       "title": "Onde há dedicação, existe progresso. Feliz Dia do Trabalho!",
@@ -2898,6 +2971,17 @@ const LINHA_FEED_ITEMS = {
   "Ventana": [],
   "Travessias Híbridas": [
     {
+      "title": "Save the date",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "05/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Save-the-date-35633d8db9d28057be9ec4c3459065c1"
+    },
+    {
       "title": "Mergulhe em um mar de cores. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3041,7 +3125,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Os artistas por trás da Travessias Híbridas: Hélio Rôla e Wilson Neto",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/05",
+      "date": "06/05",
       "missing": [
         "Legenda"
       ],
@@ -3054,7 +3138,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma fusão que aproxima gerações, linguagem e experiências: Venha conhecer de perto como Hélio Rôla e Wilson Neto criam juntos um universo vibrante e cromático.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "06/05",
+      "date": "07/05",
       "missing": [
         "Legenda"
       ],
@@ -3067,12 +3151,10 @@ const LINHA_FEED_ITEMS = {
       "title": "Vem aí: Travessias Híbridas - Explore uma verdadeira explosão brincante de cores.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "01/05",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "04/05",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Vem-a-Travessias-H-bridas-Explore-uma-verdadeira-explos-o-brincante-de-cores-35233d8db9d2803eafaede4b62238a54"
     }
@@ -3341,85 +3423,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/Prostata-33333d8db9d280bf8c2fe6ceb152ee75"
     }
   ],
-  "RR Advocacia": [
-    {
-      "title": "A RR Nasceu",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/05",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/A-RR-Nasceu-34a33d8db9d2808692dee2053a6bc4b1"
-    },
-    {
-      "title": "Usucapião",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "18/05",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/Usucapi-o-34a33d8db9d28075a4dde9a0e02bca16"
-    },
-    {
-      "title": "Empregada doméstica",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "11/05",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/Empregada-dom-stica-34a33d8db9d28011a808d24e895f65bc"
-    },
-    {
-      "title": "Execução judicial",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/05",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/Execu-o-judicial-34a33d8db9d280b3a947e74afb8ca4a0"
-    },
-    {
-      "title": "Dia do trabalho",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "01/05",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/Dia-do-trabalho-34a33d8db9d280ed891fee197448a98e"
-    },
-    {
-      "title": "Dívidas",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/05",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/D-vidas-34a33d8db9d280edacfbc3e8beee7d77"
-    },
-    {
-      "title": "Decisões patrimoniais",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "04/05",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/Decis-es-patrimoniais-34a33d8db9d280609b39de7d6f2e03d0"
-    }
-  ],
   "Jota Diesel": [
     {
       "title": "Voltou de viagem",
@@ -3517,6 +3520,126 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Planos Seguros": [],
   "Rede Pangeia": [],
+  "RR Advocacia": [
+    {
+      "title": "A RR Nasceu",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "25/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/A-RR-Nasceu-34a33d8db9d2808692dee2053a6bc4b1"
+    },
+    {
+      "title": "Usucapião",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "18/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Usucapi-o-34a33d8db9d28075a4dde9a0e02bca16"
+    },
+    {
+      "title": "Empregada doméstica",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "11/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Empregada-dom-stica-34a33d8db9d28011a808d24e895f65bc"
+    },
+    {
+      "title": "Execução judicial",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Execu-o-judicial-34a33d8db9d280b3a947e74afb8ca4a0"
+    },
+    {
+      "title": "Dia do trabalho",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "01/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/Dia-do-trabalho-34a33d8db9d280ed891fee197448a98e"
+    },
+    {
+      "title": "Dívidas",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/D-vidas-34a33d8db9d280edacfbc3e8beee7d77"
+    },
+    {
+      "title": "Decisões patrimoniais",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "04/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Decis-es-patrimoniais-34a33d8db9d280609b39de7d6f2e03d0"
+    }
+  ],
+  "Terrartesã": [
+    {
+      "title": "https://www.instagram.com/reel/DVTj-PkEUlQ/?igsh=bGM3aGM1YzBndHZh",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "21/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DVTj-PkEUlQ-igsh-bGM3aGM1YzBndHZh-34533d8db9d28058a8e5e71fb4f6b552"
+    },
+    {
+      "title": "https://www.instagram.com/reel/DSXSHO6Ce33/?igsh=aG85N2hvdW40Z2N4",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DSXSHO6Ce33-igsh-aG85N2hvdW40Z2N4-34533d8db9d28087b6c1d3536a2128f7"
+    },
+    {
+      "title": "https://www.instagram.com/reel/DQXs6-0iSsP/?igsh=NWx2bGtvOXllbmFj",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DQXs6-0iSsP-igsh-NWx2bGtvOXllbmFj-34533d8db9d280b9b75afe282a738412"
+    }
+  ],
   "Solar Coworking": [],
   "Juntos contra o HPV": [],
   "Plannea": [
@@ -3578,47 +3701,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Voc-ainda-perde-2-horas-por-dia-agendando-boletos-32f33d8db9d280119e94d58c9413a288"
-    }
-  ],
-  "Terrartesã": [
-    {
-      "title": "https://www.instagram.com/reel/DVTj-PkEUlQ/?igsh=bGM3aGM1YzBndHZh",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DVTj-PkEUlQ-igsh-bGM3aGM1YzBndHZh-34533d8db9d28058a8e5e71fb4f6b552"
-    },
-    {
-      "title": "https://www.instagram.com/reel/DSXSHO6Ce33/?igsh=aG85N2hvdW40Z2N4",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DSXSHO6Ce33-igsh-aG85N2hvdW40Z2N4-34533d8db9d28087b6c1d3536a2128f7"
-    },
-    {
-      "title": "https://www.instagram.com/reel/DQXs6-0iSsP/?igsh=NWx2bGtvOXllbmFj",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DQXs6-0iSsP-igsh-NWx2bGtvOXllbmFj-34533d8db9d280b9b75afe282a738412"
     }
   ],
   "Univendas": [],
@@ -3854,19 +3936,6 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Faz-quanto-tempo-que-voc-n-o-faz-um-check-up-completo-33333d8db9d2801bac84ec41e59ef2f0"
     }
   ],
-  "RR Advocacia": [
-    {
-      "title": "Morar anos em um imóvel não significa que ele vai ser seu.",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "05/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Morar-anos-em-um-im-vel-n-o-significa-que-ele-vai-ser-seu-32d33d8db9d2804ba162c82917433431"
-    }
-  ],
   "Jota Diesel": [
     {
       "title": "Story/stories",
@@ -3995,8 +4064,8 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Aniversario-Isaraely-nort-shopping-2e333d8db9d2801a92e5d7d94c4d93b8"
     },
@@ -4135,6 +4204,112 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Algumas-causas-mobilizam-milh-es-35133d8db9d2805fb04bd6d5a0be35f3"
     }
   ],
+  "RR Advocacia": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "26/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-35633d8db9d28052bbedf8941bd99212"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "19/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-35633d8db9d280d59ae5f5b6d2581751"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "12/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-35633d8db9d2805da5a1cfb673380605"
+    },
+    {
+      "title": "Morar anos em um imóvel não significa que ele vai ser seu.",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "05/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Morar-anos-em-um-im-vel-n-o-significa-que-ele-vai-ser-seu-32d33d8db9d2804ba162c82917433431"
+    }
+  ],
+  "Terrartesã": [
+    {
+      "title": "Story/stories",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "19/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d28002bb39f7e879edef6b"
+    },
+    {
+      "title": "Story/stories",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "12/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d280d6abb8c07ec0c2e064"
+    },
+    {
+      "title": "Story/stories",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "05/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d2809aa817fa68af5eb633"
+    },
+    {
+      "title": "Story/stories",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "26/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d28049b52ac9dbc6af68a6"
+    }
+  ],
   "Solar Coworking": [
     {
       "title": "Story/stories",
@@ -4264,60 +4439,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-das-m-es-35033d8db9d28050a518d0eb4f14421c"
-    }
-  ],
-  "Terrartesã": [
-    {
-      "title": "Story/stories",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d28002bb39f7e879edef6b"
-    },
-    {
-      "title": "Story/stories",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d280d6abb8c07ec0c2e064"
-    },
-    {
-      "title": "Story/stories",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d2809aa817fa68af5eb633"
-    },
-    {
-      "title": "Story/stories",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "26/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d28049b52ac9dbc6af68a6"
     }
   ],
   "Univendas": [
@@ -4664,7 +4785,8 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
-  "Plannea": "marcada"
+  "Plannea": "marcada",
+  "Conecta Assessoria": "marcada"
 };
 
 const APRESENTACAO_DATA = {};
@@ -4698,16 +4820,12 @@ const LEGENDAS_DATA = {
     "prontas": 18,
     "total": 19
   },
-  "RR Advocacia": {
-    "prontas": 11,
-    "total": 11
-  },
   "Jota Diesel": {
     "prontas": 11,
     "total": 13
   },
   "Ortobom": {
-    "prontas": 4,
+    "prontas": 15,
     "total": 18
   },
   "Planos Seguros": {
@@ -4717,6 +4835,14 @@ const LEGENDAS_DATA = {
   "Rede Pangeia": {
     "prontas": 14,
     "total": 14
+  },
+  "RR Advocacia": {
+    "prontas": 11,
+    "total": 17
+  },
+  "Terrartesã": {
+    "prontas": 10,
+    "total": 13
   },
   "Solar Coworking": {
     "prontas": 11,
@@ -4734,10 +4860,6 @@ const LEGENDAS_DATA = {
     "prontas": 17,
     "total": 17
   },
-  "Terrartesã": {
-    "prontas": 10,
-    "total": 13
-  },
   "Univendas": {
     "prontas": 12,
     "total": 12
@@ -4747,8 +4869,8 @@ const LEGENDAS_DATA = {
     "total": 4
   },
   "Travessias Híbridas": {
-    "prontas": 0,
-    "total": 13
+    "prontas": 2,
+    "total": 14
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -4806,13 +4928,6 @@ const FORMAT_COUNTS = {
     "video": 5,
     "story": 4
   },
-  "RR Advocacia": {
-    "post": 2,
-    "carrossel": 2,
-    "foto": 0,
-    "video": 7,
-    "story": 1
-  },
   "Jota Diesel": {
     "post": 7,
     "carrossel": 2,
@@ -4839,6 +4954,20 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 0,
+    "story": 4
+  },
+  "RR Advocacia": {
+    "post": 8,
+    "carrossel": 2,
+    "foto": 0,
+    "video": 7,
+    "story": 4
+  },
+  "Terrartesã": {
+    "post": 10,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 3,
     "story": 4
   },
   "Solar Coworking": {
@@ -4869,13 +4998,6 @@ const FORMAT_COUNTS = {
     "video": 4,
     "story": 5
   },
-  "Terrartesã": {
-    "post": 10,
-    "carrossel": 0,
-    "foto": 0,
-    "video": 3,
-    "story": 4
-  },
   "Univendas": {
     "post": 11,
     "carrossel": 1,
@@ -4892,7 +5014,7 @@ const FORMAT_COUNTS = {
   },
   "Travessias Híbridas": {
     "post": 10,
-    "carrossel": 3,
+    "carrossel": 4,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4914,7 +5036,7 @@ const AGENDA_COUNTS = {
   },
   "Conecta Assessoria": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Daniel Maia Advocacia": {
@@ -4942,11 +5064,6 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "RR Advocacia": {
-    "reuniao": 0,
-    "producao": 0,
-    "evento": 0
-  },
   "Jota Diesel": {
     "reuniao": 0,
     "producao": 0,
@@ -4963,6 +5080,16 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Rede Pangeia": {
+    "reuniao": 0,
+    "producao": 0,
+    "evento": 0
+  },
+  "RR Advocacia": {
+    "reuniao": 0,
+    "producao": 0,
+    "evento": 0
+  },
+  "Terrartesã": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
@@ -4987,18 +5114,13 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "Terrartesã": {
-    "reuniao": 0,
-    "producao": 0,
-    "evento": 0
-  },
   "Univendas": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
   "Ventana": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
