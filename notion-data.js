@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/05/2026, 19:25:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/05/2026, 05:07:55 **/
 
-const LAST_UPDATE = '03/05/2026, 19:25:59';
+const LAST_UPDATE = '04/05/2026, 05:07:55';
 
 const GESTORAS = {
   "Alice Sousa": [
@@ -4575,7 +4575,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Banner (sobre a solar) ",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Banner-sobre-a-solar-31833d8db9d280e1a14ae70142b7f6d2",
       "gestora": "Equipe",
       "date": "27/04"
