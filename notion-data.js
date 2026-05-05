@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 17:48:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 20:36:22 **/
 
-const LAST_UPDATE = '05/05/2026, 17:48:24';
+const LAST_UPDATE = '05/05/2026, 20:36:22';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -4260,7 +4260,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2806182c1f2e28053b7e0"
     },
@@ -4273,7 +4273,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2809190b6ef64ff0871bc"
     },
