@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/05/2026, 20:40:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 04:32:32 **/
 
-const LAST_UPDATE = '04/05/2026, 20:40:38';
+const LAST_UPDATE = '05/05/2026, 04:32:32';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -67,19 +67,19 @@ const FEED_DATA = {
   },
   "Terrartesã": {
     "total": 10,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 1,
-    "agendado_coord": 9,
+    "agendado": 2,
+    "agendado_coord": 8,
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 6,
     "pronto": 6,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Finseg Leal": {
     "total": 16,
@@ -157,9 +157,9 @@ const FEED_DATA = {
     "total": 7,
     "pronto": 7,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 14,
@@ -194,12 +194,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Plannea": {
-    "total": 3,
+    "total": 14,
     "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 11
   },
   "Conecta Assessoria": {
     "total": 14,
@@ -221,9 +221,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 5,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 3,
     "agendado_coord": 1,
-    "a_agendar": 12
+    "a_agendar": 10
   }
 };
 
@@ -365,12 +365,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Plannea": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 5,
@@ -536,12 +536,12 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "Plannea": {
-    "total": 1,
+    "total": 4,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 4
   },
   "Conecta Assessoria": {
     "total": 4,
@@ -800,17 +800,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Se-voc-tem-um-sonho-construa-o-Um-pouco-todos-os-dias-Com-dedica-o-coragem-e-confian-a-no-seu--34533d8db9d280bfa0c5edd8fa920d7d"
     },
     {
-      "title": "O artesanato nunca foi apenas expressão. Para muitas mulheres, ele sempre foi sustento.",
-      "status": "agendado_coord",
+      "title": "Tudo que é pra ser seu encontrará uma maneira de chegar até você!",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "04/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-artesanato-nunca-foi-apenas-express-o-Para-muitas-mulheres-ele-sempre-foi-sustento-34533d8db9d280e0b5dad4377626c4d8"
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Tudo-que-pra-ser-seu-encontrar-uma-maneira-de-chegar-at-voc-34533d8db9d280e0b5dad4377626c4d8"
     },
     {
       "title": "Reinserção social com dignidade: o papel do trabalho e da geração de renda na reconstrução de trajetórias",
@@ -879,7 +877,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Checklist do empregador | Contratar PJ sem virar vínculo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "08/05",
       "missing": [],
@@ -1912,27 +1910,23 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quatro mulheres por dia: o número que o Brasil precisa parar de normalizar",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quatro-mulheres-por-dia-o-n-mero-que-o-Brasil-precisa-parar-de-normalizar-33933d8db9d28098b355c3db207f30f2"
     },
     {
       "title": "Menopausa não é o fim de nada. É o começo de um corpo que você ainda vai aprender a conhecer",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Menopausa-n-o-o-fim-de-nada-o-come-o-de-um-corpo-que-voc-ainda-vai-aprender-a-conhecer-33933d8db9d280c892fce5888b5a5522"
     },
@@ -1951,14 +1945,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Como o algoritmo transforma um menino inseguro em um homem que odeia mulheres",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "05/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Como-o-algoritmo-transforma-um-menino-inseguro-em-um-homem-que-odeia-mulheres-33933d8db9d280fba0fde31af9b957e1"
     },
@@ -2649,7 +2641,7 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Planejamento tributário correto pode reduzir custos e melhorar o resultado da empresa",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/05",
       "missing": [],
@@ -2670,6 +2662,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/O-que-diferencia-a-Plannea-de-uma-contabilidade-tradicional-32533d8db9d280c5b877cb899730408c"
     },
     {
+      "title": "Na matemática da vida, acontece algo raro: toda mãe é a melhor do mundo. Feliz dia das mães!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Na-matem-tica-da-vida-acontece-algo-raro-toda-m-e-a-melhor-do-mundo-Feliz-dia-das-m-es-34a33d8db9d280e48c02ffdf040cc108"
+    },
+    {
       "title": "Toda grande conquista começa com um trabalhador. - 01 de maio, dia do trabalhador.",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -2679,6 +2684,136 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Toda-grande-conquista-come-a-com-um-trabalhador-01-de-maio-dia-do-trabalhador-35233d8db9d28020a1b8d9e17ea2f895"
+    },
+    {
+      "title": "\nA lição do bambu chinês para os negócios.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-li-o-do-bambu-chin-s-para-os-neg-cios-35733d8db9d280078fa8d19a9b75781d"
+    },
+    {
+      "title": "Regularizar não é só corrigir. É destravar o crescimento",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Regularizar-n-o-s-corrigir-destravar-o-crescimento-35733d8db9d280109958ce70904d7682"
+    },
+    {
+      "title": "O que a Amazon entendeu sobre execução e muitas empresas ainda não",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-a-Amazon-entendeu-sobre-execu-o-e-muitas-empresas-ainda-n-o-35733d8db9d2802f86c8ebb3aa18c6e1"
+    },
+    {
+      "title": "Abrir empresa é fácil. Começar do jeito certo é outra história, que você pode contar com a Plannea!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Abrir-empresa-f-cil-Come-ar-do-jeito-certo-outra-hist-ria-que-voc-pode-contar-com-a-Plannea-35733d8db9d2805a9564fab23a3ff3db"
+    },
+    {
+      "title": "Afinal, você sabe o que é recuperação de créditos tributários?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Afinal-voc-sabe-o-que-recupera-o-de-cr-ditos-tribut-rios-35733d8db9d28076b011c7e55374e091"
+    },
+    {
+      "title": "O que sua empresa deixou passar nos últimos anos, a Plannea recupera #RecuperaçãoDeCréditoTributário",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-sua-empresa-deixou-passar-nos-ltimos-anos-a-Plannea-recupera-Recupera-oDeCr-ditoTribut-rio-35733d8db9d2807ead6dcc4526d007f6"
+    },
+    {
+      "title": "Muito além da folha: o papel real do DP",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "27/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Muito-al-m-da-folha-o-papel-real-do-DP-35733d8db9d280bba543f5a3f7b76a85"
+    },
+    {
+      "title": "Faturamento não é lucro e essa diferença muda tudo!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Faturamento-n-o-lucro-e-essa-diferen-a-muda-tudo-35733d8db9d280c999f3d590c4e74f8b"
+    },
+    {
+      "title": "Se a cultura é o que nos define, o RH é o que mantém tudo funcionando, Parabéns time de milhões!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Se-a-cultura-o-que-nos-define-o-RH-o-que-mant-m-tudo-funcionando-Parab-ns-time-de-milh-es-35733d8db9d280d0b55dc8ba7848d529"
+    },
+    {
+      "title": "O que você espera da sua contabilidade hoje?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-voc-espera-da-sua-contabilidade-hoje-35733d8db9d280fdb76cd83f83bcead4"
     }
   ],
   "Conecta Assessoria": [
@@ -3033,7 +3168,7 @@ const LINHA_FEED_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "O que muda quando você registra desde o primeiro dia?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/05",
       "missing": [],
@@ -3081,7 +3216,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que algumas causas mobilizam milhões e outras desaparecem?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/05",
       "missing": [],
@@ -3695,6 +3830,20 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-de-dia-do-trabalhador-34a33d8db9d280eeb99adcb718312959"
+    },
+    {
+      "title": "Vídeo do evento (Dia das mães)",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "08/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-do-evento-Dia-das-m-es-35733d8db9d280249027fdad4b0ead50"
     }
   ],
   "Conecta Assessoria": [
@@ -4365,6 +4514,45 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Contabilidade-estrat-gica-33433d8db9d280e88fb0f97af4bab8b7"
+    },
+    {
+      "title": "Nem toda empresa que cresce está, de fato, estruturada.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "26/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Nem-toda-empresa-que-cresce-est-de-fato-estruturada-35733d8db9d2801a9c97cd8fa7d543cc"
+    },
+    {
+      "title": "No dia a dia, tem coisa que a gente só percebe quando falta.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "19/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/No-dia-a-dia-tem-coisa-que-a-gente-s-percebe-quando-falta-35733d8db9d280b699f0f217058030b4"
+    },
+    {
+      "title": "Na prática, o que você acompanha mais hoje na sua empresa?",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "12/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Na-pr-tica-o-que-voc-acompanha-mais-hoje-na-sua-empresa-35733d8db9d280ef9849ccb7480753f1"
     }
   ],
   "Conecta Assessoria": [
@@ -4548,50 +4736,6 @@ const DEMANDAS_EXTRAS = {
       "date": "21/04"
     }
   ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Ajustes no site (alteração de fotos)",
-      "priority": "pppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Ajustes-no-site-altera-o-de-fotos-29d33d8db9d280849f33e2199355eea9",
-      "gestora": "Equipe",
-      "date": "07/02"
-    },
-    {
-      "title": "Configurar E-mail Institucional",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Configurar-E-mail-Institucional-2f633d8db9d280a7a5ddf8cf3cc55037",
-      "gestora": "Equipe",
-      "date": "06/02"
-    },
-    {
-      "title": "Capas de destaques do Instagram ",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
-      "gestora": "Equipe",
-      "date": "29/04"
-    }
-  ],
-  "ItalaP": [
-    {
-      "title": "Impulsionamento",
-      "priority": "pppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Impulsionamento-2c533d8db9d280f09fdbda8054d5b2e0",
-      "gestora": "Equipe",
-      "date": "10/02"
-    },
-    {
-      "title": "campanhas sobre data sazonal ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/campanhas-sobre-data-sazonal-35033d8db9d28076af57f55ca0fc3710",
-      "gestora": "Equipe",
-      "date": "29/04"
-    }
-  ],
   "RR Advocacia": [
     {
       "title": "Fazer o Site | RR Advocacia",
@@ -4599,41 +4743,25 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Fazer-o-Site-RR-Advocacia-2f633d8db9d280328058c11b17ba148b",
       "gestora": "Equipe",
-      "date": "20/04"
+      "date": "08/05"
     }
   ],
-  "Juntos contra o HPV": [
+  "Daniel Maia Advocacia": [
     {
-      "title": "Alterar o link “entrelinhaseagulhas”",
+      "title": "Configurar E-mail Institucional",
       "priority": "pp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Alterar-o-link-entrelinhaseagulhas-2f633d8db9d280f19783c69497bc6a41",
+      "notionUrl": "https://www.notion.so/Configurar-E-mail-Institucional-2f633d8db9d280a7a5ddf8cf3cc55037",
       "gestora": "Equipe",
-      "date": "06/02"
+      "date": "08/05"
     },
     {
-      "title": "Newsletter",
+      "title": "Capas de destaques do Instagram ",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Newsletter-33933d8db9d280ea8aa1d82b3065282f",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://www.notion.so/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
       "gestora": "Equipe",
-      "date": "06T16:00:00.000/04"
-    },
-    {
-      "title": "documentação da juh",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/documenta-o-da-juh-35033d8db9d2804fa732c4e25165c572",
-      "gestora": "Equipe",
-      "date": "01/05"
-    },
-    {
-      "title": "ação para a carreta ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/a-o-para-a-carreta-35033d8db9d280d79024d56e6580892a",
-      "gestora": "Equipe",
-      "date": "05/05"
+      "date": "06/05"
     }
   ],
   "Planos Seguros": [
@@ -4643,7 +4771,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
       "gestora": "Equipe",
-      "date": "20/02"
+      "date": "08/05"
     },
     {
       "title": "Boas vindas individual (E-mail)",
@@ -4651,7 +4779,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
       "gestora": "Equipe",
-      "date": "03/03"
+      "date": "08/05"
     },
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -4659,7 +4787,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
       "gestora": "Equipe",
-      "date": "03/03"
+      "date": "08/05"
     },
     {
       "title": "Checklist",
@@ -4668,14 +4796,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Checklist-34233d8db9d280418cc7f0d749f20a4a",
       "gestora": "Equipe",
       "date": "13/04"
-    },
-    {
-      "title": "incluir novas fotos no google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/incluir-novas-fotos-no-google-34433d8db9d2803a92b4d43c01099648",
-      "gestora": "Equipe",
-      "date": "22/04"
     },
     {
       "title": "Aniversariantes do mes",
@@ -4693,15 +4813,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "2. Falta informação",
       "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
-      "date": "20/01"
-    },
-    {
-      "title": "Banner com QRCodes para projeção",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Banner-com-QRCodes-para-proje-o-34c33d8db9d280c8878ecb0108d9dbeb",
-      "gestora": "Equipe",
-      "date": "23/04"
+      "date": "15/05"
     }
   ],
   "Solar Coworking": [
@@ -4714,78 +4826,12 @@ const DEMANDAS_EXTRAS = {
       "date": "27/04"
     },
     {
-      "title": "Impresso 2 dobras ",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Impresso-2-dobras-31833d8db9d280fba55dedfa66ca06be",
-      "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "Tag",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Tag-34a33d8db9d280bea89ee098a8dc6304",
-      "gestora": "Equipe",
-      "date": "27/04"
-    },
-    {
       "title": "Edição do vídeo institucional para o evento - Solar",
       "priority": "p",
       "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
       "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "bloco de notas ",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/bloco-de-notas-34c33d8db9d2809db676fe2870a25abd",
-      "gestora": "Equipe",
-      "date": "27/04"
-    },
-    {
-      "title": "crachá para o evento",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/crach-para-o-evento-35033d8db9d2806a9c52de213be578b0",
-      "gestora": "Equipe",
-      "date": "29/04"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Sousplat no formato quadrado",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Sousplat-no-formato-quadrado-34a33d8db9d2803b9659c18bf06b5021",
-      "gestora": "Equipe",
-      "date": "28/04"
-    },
-    {
-      "title": "Cards Plannea Summit",
-      "priority": "pppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Cards-Plannea-Summit-35233d8db9d280269af1c51582a5f505",
-      "gestora": "Equipe",
-      "date": "23/04"
-    },
-    {
-      "title": "Camisa do Brasil (Copa do mundo)",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Camisa-do-Brasil-Copa-do-mundo-35233d8db9d28075be1dd7ad6bc7d79b",
-      "gestora": "Equipe",
-      "date": "30/04"
-    },
-    {
-      "title": "Demandas do endomarketing - mensal",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Demandas-do-endomarketing-mensal-35233d8db9d280e38925dfd151a196b4",
-      "gestora": "Equipe",
-      "date": "30/04"
+      "date": "07/05"
     }
   ],
   "Ser Ponte": [
@@ -4795,7 +4841,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "2. A implementar",
       "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
       "gestora": "Equipe",
-      "date": "22/04"
+      "date": "08/05"
     },
     {
       "title": "Apresentação do pitch",
@@ -4830,6 +4876,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Fazer-post-35233d8db9d2809b8af3eda050e8dc01",
       "gestora": "Equipe",
       "date": "06/05"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Camisa do Brasil (Copa do mundo)",
+      "priority": "ppp",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://www.notion.so/Camisa-do-Brasil-Copa-do-mundo-35233d8db9d28075be1dd7ad6bc7d79b",
+      "gestora": "Equipe",
+      "date": "06T10:00:00.000/05"
     }
   ],
   "Travessias Híbridas": [
@@ -4902,7 +4958,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 3,
+    "prontas": 6,
     "total": 7
   },
   "Ortobom": {
@@ -4922,8 +4978,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Plannea": {
-    "prontas": 4,
-    "total": 6
+    "prontas": 15,
+    "total": 16
   },
   "Conecta Assessoria": {
     "prontas": 18,
@@ -5060,11 +5116,11 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Plannea": {
-    "post": 3,
-    "carrossel": 0,
+    "post": 13,
+    "carrossel": 1,
     "foto": 0,
-    "video": 1,
-    "story": 1
+    "video": 2,
+    "story": 4
   },
   "Conecta Assessoria": {
     "post": 11,
@@ -5151,7 +5207,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Grupo Mulheres do Brasil": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
