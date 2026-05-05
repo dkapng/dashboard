@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 04:32:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 08:52:51 **/
 
-const LAST_UPDATE = '05/05/2026, 04:32:32';
+const LAST_UPDATE = '05/05/2026, 08:52:51';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -269,12 +269,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Juntos contra o HPV": {
-    "total": 0,
-    "pronto": 0,
+    "total": 4,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 4
   },
   "Stratto": {
     "total": 4,
@@ -1349,7 +1349,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A maioria das pessoas terá contato com o HPV ao longo da vida, mesmo sem sintomas",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/05",
+      "date": "11/05",
       "missing": [
         "Legenda"
       ],
@@ -3444,7 +3444,63 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Solar Coworking": [],
-  "Juntos contra o HPV": [],
+  "Juntos contra o HPV": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "19/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-35733d8db9d280169e96d964769194ce"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "05/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-35733d8db9d280698c21ccb6ffac463a"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "12/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-35733d8db9d280a0908af8e7c4d71bbb"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "26/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-35733d8db9d280bb9609fa79814d8d13"
+    }
+  ],
   "Stratto": [
     {
       "title": "Você ainda perde 2 horas por dia agendando boletos?",
@@ -4931,7 +4987,7 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 4,
-    "total": 17
+    "total": 21
   },
   "Stratto": {
     "prontas": 17,
@@ -5035,7 +5091,7 @@ const FORMAT_COUNTS = {
     "post": 5,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 4,
     "story": 0
   },
   "Stratto": {
