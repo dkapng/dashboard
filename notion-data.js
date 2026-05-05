@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 14:08:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 17:48:24 **/
 
-const LAST_UPDATE = '05/05/2026, 14:08:23';
+const LAST_UPDATE = '05/05/2026, 17:48:24';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -58,20 +58,20 @@ const NICHES = {
 
 const FEED_DATA = {
   "Univendas": {
-    "total": 12,
+    "total": 15,
     "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 13
   },
   "Terrartesã": {
-    "total": 10,
+    "total": 13,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 8,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Daniel Maia Advocacia": {
     "total": 6,
@@ -181,9 +181,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Jota Diesel": {
     "total": 9,
@@ -237,12 +237,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Terrartesã": {
-    "total": 3,
+    "total": 4,
     "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -400,19 +400,19 @@ const VIDEO_DATA = {
 
 const STORIES_DATA = {
   "Univendas": {
-    "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "total": 4,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 3
   },
   "Terrartesã": {
     "total": 4,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
-    "agendado_coord": 4,
+    "agendado_coord": 3,
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
@@ -433,11 +433,11 @@ const STORIES_DATA = {
   },
   "Solar Coworking": {
     "total": 4,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -504,12 +504,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 8,
+    "total": 7,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "APROSSEG": {
     "total": 5,
@@ -614,7 +614,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A escolha do plano certo traz mais segurança no cuidado com a saúde.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "06/05",
+      "date": "25/05",
       "missing": [
         "Design"
       ],
@@ -703,7 +703,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua saúde é sua maior riqueza. Não deixe para depois. A prevenção é um ato de amor com você e com quem você ama. Previna-se",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/05",
+      "date": "06/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -720,6 +720,46 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Onde-h-dedica-o-existe-progresso-Feliz-Dia-do-Trabalho-35233d8db9d280b3bee4f26f07188471"
+    },
+    {
+      "title": "Adiar o cuidado com a saúde tem um custo decida cuidar agora.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Adiar-o-cuidado-com-a-sa-de-tem-um-custo-decida-cuidar-agora-35733d8db9d280448da1cb7a31664dfe"
+    },
+    {
+      "title": "Dia das maes ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Dia-das-maes-35733d8db9d2807b974fc9a5a7b34b88"
+    },
+    {
+      "title": "Tranquilidade não acontece por acaso comece a construir a sua hoje.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Tranquilidade-n-o-acontece-por-acaso-comece-a-construir-a-sua-hoje-35733d8db9d280939be7fd9690bc1b7e"
     }
   ],
   "Terrartesã": [
@@ -763,9 +803,9 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Quando-o-trabalho-se-torna-uma-oportunidade-real-de-recome-o-novas-hist-rias-podem-ser-constru-das-34533d8db9d280aeaf89c5e67c20d3ca"
     },
     {
-      "title": "Protagonismo feminino além do discurso: quando o artesanato se torna fonte real de autonomia econômica",
+      "title": "Protagonismo feminino que se fortalece quando o fazer se transforma em autonomia",
       "status": "agendado_coord",
-      "formato": "✍🏼 Artigo/blog",
+      "formato": "🖼️ Post",
       "date": "06/05",
       "missing": [
         "Design"
@@ -773,7 +813,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Protagonismo-feminino-al-m-do-discurso-quando-o-artesanato-se-torna-fonte-real-de-autonomia-econ-mi-34533d8db9d280afb5a4f492ae19fdb8"
+      "notionUrl": "https://www.notion.so/Protagonismo-feminino-que-se-fortalece-quando-o-fazer-se-transforma-em-autonomia-34533d8db9d280afb5a4f492ae19fdb8"
     },
     {
       "title": "Muitas vezes, a venda é vista como o principal indicador de sucesso. Mas antes dela, existe um caminho que nem sempre aparece.",
@@ -813,7 +853,7 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Reinserção social com dignidade: o papel do trabalho e da geração de renda na reconstrução de trajetórias",
       "status": "agendado_coord",
-      "formato": "✍🏼 Artigo/blog",
+      "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [
         "Design"
@@ -824,9 +864,9 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Reinser-o-social-com-dignidade-o-papel-do-trabalho-e-da-gera-o-de-renda-na-reconstru-o-de-trajet-34533d8db9d280e78687e634db0f39f7"
     },
     {
-      "title": "O artesanato como herança cultural: quando o saber atravessa gerações e se transforma em renda",
+      "title": "O artesanato como herança viva que atravessa gerações e se transforma em renda",
       "status": "agendado_coord",
-      "formato": "✍🏼 Artigo/blog",
+      "formato": "🖼️ Post",
       "date": "13/05",
       "missing": [
         "Design"
@@ -834,7 +874,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-artesanato-como-heran-a-cultural-quando-o-saber-atravessa-gera-es-e-se-transforma-em-renda-34533d8db9d280f1a4aee68999014851"
+      "notionUrl": "https://www.notion.so/O-artesanato-como-heran-a-viva-que-atravessa-gera-es-e-se-transforma-em-renda-34533d8db9d280f1a4aee68999014851"
     },
     {
       "title": "Venha conhecer a Terrartesã: onde o artesanal encontra propósito - Av. Chanceler Edson Queiroz, 100 - Guararapes, Fortaleza - CE, 60810-145",
@@ -848,6 +888,45 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Venha-conhecer-a-Terrartes-onde-o-artesanal-encontra-prop-sito-Av-Chanceler-Edson-Queiroz-100--34533d8db9d280f2a897da31e90ccef5"
+    },
+    {
+      "title": "O fazer artesanal transforma o cotidiano em caminho, propósito e permanência",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-fazer-artesanal-transforma-o-cotidiano-em-caminho-prop-sito-e-perman-ncia-35733d8db9d2803584f1fa90e7041fb5"
+    },
+    {
+      "title": "Cada peça criada é também um passo em uma nova história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Cada-pe-a-criada-tamb-m-um-passo-em-uma-nova-hist-ria-35733d8db9d280549ed4ff77bb22c93b"
+    },
+    {
+      "title": "Cada ponto carrega mais do que linha, carrega vida, experiência e resistência",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Cada-ponto-carrega-mais-do-que-linha-carrega-vida-experi-ncia-e-resist-ncia-35733d8db9d28076beabe46475b367b6"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -2558,7 +2637,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você já reparou que nosso perfil muda ao longo do ano?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "06/05",
       "missing": [],
@@ -3320,11 +3399,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Preven-o-n-o-um-movimento-pontual-uma-constru-o-que-acontece-antes-de-qualquer-problema-surgi-35233d8db9d280f98066d495106672aa"
     }
@@ -3546,6 +3624,20 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DQXs6-0iSsP-igsh-NWx2bGtvOXllbmFj-34533d8db9d280b9b75afe282a738412"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-35733d8db9d2801197e8c0027c10dc40"
     }
   ],
   "Daniel Maia Advocacia": [],
@@ -4150,16 +4242,53 @@ const LINHA_STORIES_ITEMS = {
   "Univendas": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-32533d8db9d280b780d1f6979c000c6a"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2806182c1f2e28053b7e0"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "21/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2809190b6ef64ff0871bc"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/05",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-32533d8db9d280b780d1f6979c000c6a"
+      "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2809196c3f77cbdeba28c"
     }
   ],
   "Terrartesã": [
@@ -4191,13 +4320,11 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d2809aa817fa68af5eb633"
@@ -4298,13 +4425,11 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d280409fbedce5aeb828c4"
@@ -4457,19 +4582,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Aniver-Ana-Paula-Norte-Shopping-1b233d8db9d280afa42bfb8da730e472"
-    },
-    {
-      "title": "Aniver Juliana (Norte Shopping)",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Aniver-Juliana-Norte-Shopping-1b233d8db9d280beb551e90c3da169e6"
     },
     {
       "title": "Aniversario Isaraely (nort shopping)",
@@ -4866,7 +4978,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-voc-precisou-usar-o-plano-a-experi-ncia-foi-exatamente-como-esperava-35233d8db9d280108134c609a80072a6"
     },
@@ -4890,7 +5002,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-processo-de-prote-o-come-a-antes-do-problema-n-o-no-momento-em-que-ele-acontece-35233d8db9d28060aabee96894470cda"
     },
@@ -4903,7 +5015,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nem-toda-orienta-o-aparece-no-contrato-mas-ela-faz-toda-a-diferen-a-no-resultado-35233d8db9d280f18f8ec895bd47d566"
     }
@@ -5051,6 +5163,22 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Aniversariantes-do-mes-35033d8db9d2807fac29e1ae625b7392",
       "gestora": "Equipe",
       "date": "08/05"
+    },
+    {
+      "title": "POV para quinta",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/POV-para-quinta-35733d8db9d28059acede7ac60f66bde",
+      "gestora": "Equipe",
+      "date": "07/05"
+    },
+    {
+      "title": "Perguntas para videos ",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://www.notion.so/Perguntas-para-videos-35733d8db9d280879d16debf8d874c5f",
+      "gestora": "Equipe",
+      "date": "08/05"
     }
   ],
   "Finseg Leal": [
@@ -5111,7 +5239,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Dia da beleza ",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Dia-da-beleza-35133d8db9d28020b8d6e57d53c3b270",
       "gestora": "Equipe",
       "date": "04/05"
@@ -5167,12 +5295,12 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Univendas": {
-    "prontas": 12,
-    "total": 12
+    "prontas": 14,
+    "total": 15
   },
   "Terrartesã": {
-    "prontas": 10,
-    "total": 13
+    "prontas": 13,
+    "total": 17
   },
   "Daniel Maia Advocacia": {
     "prontas": 4,
@@ -5243,7 +5371,7 @@ const LEGENDAS_DATA = {
     "total": 22
   },
   "Planos Seguros": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 13
   },
   "Rede Pangeia": {
@@ -5254,17 +5382,17 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Univendas": {
-    "post": 11,
+    "post": 14,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
-    "story": 1
+    "story": 4
   },
   "Terrartesã": {
-    "post": 10,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 4
   },
   "Daniel Maia Advocacia": {
@@ -5349,7 +5477,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 4,
-    "story": 8
+    "story": 7
   },
   "APROSSEG": {
     "post": 13,
