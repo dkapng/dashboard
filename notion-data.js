@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 08:52:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/05/2026, 14:08:23 **/
 
-const LAST_UPDATE = '05/05/2026, 08:52:51';
+const LAST_UPDATE = '05/05/2026, 14:08:23';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -98,12 +98,12 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Juntos contra o HPV": {
-    "total": 5,
+    "total": 16,
     "pronto": 5,
     "postado": 0,
-    "agendado": 2,
-    "agendado_coord": 0,
-    "a_agendar": 3
+    "agendado": 4,
+    "agendado_coord": 10,
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 13,
@@ -122,12 +122,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 17,
-    "pronto": 4,
+    "total": 19,
+    "pronto": 5,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 16
+    "a_agendar": 19
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -179,7 +179,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 14,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -270,11 +270,11 @@ const VIDEO_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 4,
@@ -293,12 +293,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 1,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 2,
@@ -426,10 +426,10 @@ const STORIES_DATA = {
   "Finseg Leal": {
     "total": 4,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 4,
@@ -450,10 +450,10 @@ const STORIES_DATA = {
   "Stratto": {
     "total": 5,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ser Ponte": {
     "total": 0,
@@ -490,9 +490,9 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 4,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
@@ -513,19 +513,19 @@ const STORIES_DATA = {
   },
   "APROSSEG": {
     "total": 5,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 4,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 5,
@@ -544,20 +544,20 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "Conecta Assessoria": {
-    "total": 4,
-    "pronto": 1,
-    "postado": 0,
+    "total": 6,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 4
   },
   "Planos Seguros": {
     "total": 4,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 4,
@@ -1325,7 +1325,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A vacinação contra o HPV é uma das estratégias mais eficazes de saúde pública para prevenir o câncer",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/05",
       "missing": [],
@@ -1333,6 +1333,32 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-vacina-o-contra-o-HPV-uma-das-estrat-gias-mais-eficazes-de-sa-de-p-blica-para-prevenir-o-c-ncer-34233d8db9d2801786acdcfc40b83c03"
+    },
+    {
+      "title": "✔ Dados ✔ Educação ✔ Multiplicadores ✔ Mobilização✔ Vacinação - Um modelo completo de prevenção que já está transformando territórios",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "18/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Dados-Educa-o-Multiplicadores-Mobiliza-o-Vacina-o-Um-modelo-completo-de-preven-o-que-j--34233d8db9d280239ddddfe19aadd560"
+    },
+    {
+      "title": "O projeto já atua de forma coordenada em diversos municípios, ampliando o acesso à prevenção do HPV",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "13/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-projeto-j-atua-de-forma-coordenada-em-diversos-munic-pios-ampliando-o-acesso-preven-o-do-HPV-34233d8db9d28029a60bf130fc4edc3e"
     },
     {
       "title": "O câncer do colo do útero é uma doença amplamente prevenível, mas ainda apresenta alta incidência no Brasil",
@@ -1346,21 +1372,45 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/O-c-ncer-do-colo-do-tero-uma-doen-a-amplamente-preven-vel-mas-ainda-apresenta-alta-incid-ncia-no-34233d8db9d280349303f269434860c9"
     },
     {
-      "title": "A maioria das pessoas terá contato com o HPV ao longo da vida, mesmo sem sintomas",
-      "status": "a_agendar",
+      "title": "A maioria das pessoas terá contato com o HPV ao longo da vida — muitas vezes sem apresentar sintomas",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "11/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/A-maioria-das-pessoas-ter-contato-com-o-HPV-ao-longo-da-vida-mesmo-sem-sintomas-34233d8db9d28044ac5bfb4c4eeea492"
+      "notionUrl": "https://www.notion.so/A-maioria-das-pessoas-ter-contato-com-o-HPV-ao-longo-da-vida-muitas-vezes-sem-apresentar-sintomas-34233d8db9d28044ac5bfb4c4eeea492"
+    },
+    {
+      "title": "O rastreamento regular pode evitar o câncer do colo do útero",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "22/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-rastreamento-regular-pode-evitar-o-c-ncer-do-colo-do-tero-34233d8db9d2806a98f2fa880acc6eb4"
+    },
+    {
+      "title": "Se já tomei a vacina, ainda posso ter HPV?",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Se-j-tomei-a-vacina-ainda-posso-ter-HPV-34233d8db9d280838b88fb0f5f149de3"
     },
     {
       "title": "A formação de multiplicadores amplia o acesso à informação e fortalece a prevenção do HPV",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/05",
       "missing": [],
@@ -1368,6 +1418,97 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-forma-o-de-multiplicadores-amplia-o-acesso-informa-o-e-fortalece-a-preven-o-do-HPV-34233d8db9d28084bd47ece3285ecea5"
+    },
+    {
+      "title": "A prevenção do HPV tem potencial para reduzir drasticamente o câncer do colo do útero nas próximas décadas",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "20/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-preven-o-do-HPV-tem-potencial-para-reduzir-drasticamente-o-c-ncer-do-colo-do-tero-nas-pr-ximas-d-34233d8db9d2809d9147d81ae2439d0f"
+    },
+    {
+      "title": "Muita gente não sabe, mas o SUS oferece tudo isso para prevenção e cuidado: \n💉 Vacinação 🧪 Exames preventivos🏥 Acompanhamento em saúde - Tudo de forma gratuita e acessível",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "27/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Muita-gente-n-o-sabe-mas-o-SUS-oferece-tudo-isso-para-preven-o-e-cuidado-Vacina-o-Exames--34233d8db9d280b5817ac09d978feb2d"
+    },
+    {
+      "title": "Prevenir hoje pode evitar tratamentos agressivos no futuro",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "28/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Prevenir-hoje-pode-evitar-tratamentos-agressivos-no-futuro-34233d8db9d280d38677fabe6243edd5"
+    },
+    {
+      "title": "No Brasil, cerca de 17 mil mulheres são diagnosticadas por ano — muitas ainda em estágios avançados",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "25/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/No-Brasil-cerca-de-17-mil-mulheres-s-o-diagnosticadas-por-ano-muitas-ainda-em-est-gios-avan-ados-34233d8db9d280e2b937cc926c1e139b"
+    },
+    {
+      "title": "O câncer do colo do útero está entre os poucos tipos de câncer que podem ser prevenidos com vacina",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "15/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-c-ncer-do-colo-do-tero-est-entre-os-poucos-tipos-de-c-ncer-que-podem-ser-prevenidos-com-vacina-34233d8db9d280f3b3f8ea22ce171421"
+    },
+    {
+      "title": "Liberdade para ser quem você é! - Dia internacional contra homofobia",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Liberdade-para-ser-quem-voc-Dia-internacional-contra-homofobia-35033d8db9d28007973bd6478ea14f20"
+    },
+    {
+      "title": "Inchaço abdominal, dor pélvica e saciedade rápida podem ser sinais de câncer de ovário - Dia mundial do câncer de ovário",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Incha-o-abdominal-dor-p-lvica-e-saciedade-r-pida-podem-ser-sinais-de-c-ncer-de-ov-rio-Dia-mundial-35033d8db9d280458524e3936296f5d0"
     }
   ],
   "Stratto": [
@@ -1561,7 +1702,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Vem aí: Travessias Híbridas - Explore uma verdadeira explosão brincante de cores.",
-      "status": "agendado",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/05",
       "missing": [],
@@ -1741,7 +1882,7 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Save the date",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
+      "formato": "🖼️ Post",
       "date": "05/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
@@ -1762,6 +1903,31 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/hoje-Travessias-H-bridas-abre-ao-p-blico-e-convida-voc-a-percorrer-de-perto-um-processo-constru--35633d8db9d280a3a57ff765b9457603"
+    },
+    {
+      "title": "É amanhã. Esperamos você na abertura da exposição: Travessias Híbridas",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/amanh-Esperamos-voc-na-abertura-da-exposi-o-Travessias-H-bridas-35633d8db9d280c68438f4ece192e72e"
+    },
+    {
+      "title": "Carrossel oficial",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "07/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Carrossel-oficial-35733d8db9d280c4a8b5fe9cd89c6447"
     }
   ],
   "Di Gregório Buffet": [],
@@ -2395,10 +2561,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-j-reparou-que-nosso-perfil-muda-ao-longo-do-ano-Tem-um-motivo-por-tr-s-disso-35033d8db9d2800783e5d2cd4f83e933"
@@ -2686,7 +2850,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Toda-grande-conquista-come-a-com-um-trabalhador-01-de-maio-dia-do-trabalhador-35233d8db9d28020a1b8d9e17ea2f895"
     },
     {
-      "title": "\nA lição do bambu chinês para os negócios.",
+      "title": "A lição do bambu chinês para os negócios.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/05",
@@ -3461,29 +3625,24 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "05/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-35733d8db9d280698c21ccb6ffac463a"
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "12/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-35733d8db9d280a0908af8e7c4d71bbb"
     },
     {
@@ -3564,6 +3723,20 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://www.notion.so/V-deo-com-os-artistas-sobre-o-lan-amento-da-exposi-o-35633d8db9d28084a0dfc8dae27e3fc5"
+    },
+    {
+      "title": "Vídeo com os artistas (agendar)",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "13/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-com-os-artistas-agendar-35633d8db9d280fe81c0d055c34ba4fb"
     }
   ],
   "Di Gregório Buffet": [
@@ -4073,7 +4246,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Fiações antigas",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
       "missing": [],
@@ -4191,7 +4364,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Maio começou.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
       "missing": [],
@@ -4221,7 +4394,7 @@ const LINHA_STORIES_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Morar anos em um imóvel não significa que ele vai ser seu.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
       "missing": [],
@@ -4403,19 +4576,6 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Voc-lembra-quando-foi-a-ltima-vez-que-revisou-seu-seguro-34b33d8db9d2806c9506f2990978840a"
     },
     {
-      "title": "Você já pensou no custo de trocar uma bateria de carro elétrico hoje?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Voc-j-pensou-no-custo-de-trocar-uma-bateria-de-carro-el-trico-hoje-34b33d8db9d2806e91c0d2250d2cb9e0"
-    },
-    {
       "title": "Já comprou sua passagem de julho?",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4440,14 +4600,25 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-sabe-quanto-custa-a-bateria-de-um-carro-el-trico-34b33d8db9d280fabb75ddd403809d2b"
+    },
+    {
+      "title": "Story/stories",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "05/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2801bb6e2d165705c8f54"
     }
   ],
   "ItalaP": [
     {
       "title": "Você já acessou seus exames pelo celular alguma vez?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "07/05",
+      "date": "05/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4627,7 +4798,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#ConectaInforma",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
       "missing": [],
@@ -4661,6 +4832,28 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/ConectaInforma-35233d8db9d2809f9046d2851c5bebca"
+    },
+    {
+      "title": "Jucelia Gomes",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "05/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Jucelia-Gomes-35733d8db9d2800e95a3fd13a9f63475"
+    },
+    {
+      "title": "Aline Cavalcante",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "10/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Aline-Cavalcante-35733d8db9d28019b681d06fb3aff5ca"
     }
   ],
   "Planos Seguros": [
@@ -4678,17 +4871,15 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Quando-voc-precisou-usar-o-plano-a-experi-ncia-foi-exatamente-como-esperava-35233d8db9d280108134c609a80072a6"
     },
     {
-      "title": "A escolha do seu plano foi baseada em análise ou apenas no valor?",
-      "status": "a_agendar",
+      "title": "stories anteriores",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/A-escolha-do-seu-plano-foi-baseada-em-an-lise-ou-apenas-no-valor-35233d8db9d28053a90ad76a70dacb4c"
+      "notionUrl": "https://www.notion.so/stories-anteriores-35233d8db9d28053a90ad76a70dacb4c"
     },
     {
       "title": "O processo de proteção começa antes do problema, não no momento em que ele acontece!",
@@ -4859,7 +5050,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Aniversariantes-do-mes-35033d8db9d2807fac29e1ae625b7392",
       "gestora": "Equipe",
-      "date": "30/04"
+      "date": "08/05"
     }
   ],
   "Finseg Leal": [
@@ -4875,8 +5066,8 @@ const DEMANDAS_EXTRAS = {
   "Solar Coworking": [
     {
       "title": "Banner (sobre a solar) ",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "priority": "pppp",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Banner-sobre-a-solar-31833d8db9d280e1a14ae70142b7f6d2",
       "gestora": "Equipe",
       "date": "27/04"
@@ -4948,10 +5139,20 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Capa e avatar das redes sociais",
       "priority": "p",
-      "rawStatus": "2. Pausada",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Capa-e-avatar-das-redes-sociais-35233d8db9d280ad90d1d40b76f694d6",
       "gestora": "Equipe",
       "date": "30/04"
+    }
+  ],
+  "APROSSEG": [
+    {
+      "title": "Aniversariantes",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Aniversariantes-35733d8db9d2801a9c75ec3205a39d65",
+      "gestora": "Equipe",
+      "date": "08/05"
     }
   ]
 };
@@ -4986,7 +5187,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 4,
+    "prontas": 18,
     "total": 21
   },
   "Stratto": {
@@ -4998,8 +5199,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Travessias Híbridas": {
-    "prontas": 3,
-    "total": 20
+    "prontas": 4,
+    "total": 21
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -5038,8 +5239,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Conecta Assessoria": {
-    "prontas": 18,
-    "total": 19
+    "prontas": 21,
+    "total": 22
   },
   "Planos Seguros": {
     "prontas": 12,
@@ -5088,8 +5289,8 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Juntos contra o HPV": {
-    "post": 5,
-    "carrossel": 0,
+    "post": 15,
+    "carrossel": 1,
     "foto": 0,
     "video": 4,
     "story": 0
@@ -5109,10 +5310,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Travessias Híbridas": {
-    "post": 12,
+    "post": 14,
     "carrossel": 5,
     "foto": 0,
-    "video": 1,
+    "video": 2,
     "story": 0
   },
   "Di Gregório Buffet": {
@@ -5183,7 +5384,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 1,
     "video": 5,
-    "story": 4
+    "story": 6
   },
   "Planos Seguros": {
     "post": 12,
@@ -5290,7 +5491,7 @@ const AGENDA_COUNTS = {
   "Plannea": {
     "reuniao": 0,
     "producao": 1,
-    "evento": 1
+    "evento": 2
   },
   "Conecta Assessoria": {
     "reuniao": 0,
