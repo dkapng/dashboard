@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/05/2026, 12:54:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/05/2026, 17:54:13 **/
 
-const LAST_UPDATE = '06/05/2026, 12:54:49';
+const LAST_UPDATE = '06/05/2026, 17:54:13';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -67,7 +67,7 @@ const FEED_DATA = {
   },
   "Terrartesã": {
     "total": 13,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 8,
@@ -91,7 +91,7 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 13,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -147,10 +147,10 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 10,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 0,
-    "agendado_coord": 3,
+    "agendado_coord": 2,
     "a_agendar": 7
   },
   "Grupo Mulheres do Brasil": {
@@ -171,51 +171,51 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 14,
-    "pronto": 2,
-    "postado": 1,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "ItalaP": {
-    "total": 14,
+    "total": 13,
     "pronto": 3,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Jota Diesel": {
     "total": 9,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Plannea": {
     "total": 14,
-    "pronto": 3,
+    "pronto": 5,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 11
   },
   "Conecta Assessoria": {
-    "total": 14,
-    "pronto": 2,
-    "postado": 1,
-    "agendado": 1,
+    "total": 15,
+    "pronto": 6,
+    "postado": 2,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Planos Seguros": {
     "total": 14,
-    "pronto": 2,
-    "postado": 1,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Rede Pangeia": {
     "total": 14,
@@ -256,9 +256,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 0,
@@ -349,10 +349,10 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "ItalaP": {
-    "total": 6,
-    "pronto": 5,
+    "total": 7,
+    "pronto": 6,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 4
   },
@@ -373,12 +373,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 5,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Planos Seguros": {
     "total": 0,
@@ -807,10 +807,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Protagonismo-feminino-que-se-fortalece-quando-o-fazer-se-transforma-em-autonomia-34533d8db9d280afb5a4f492ae19fdb8"
@@ -1357,10 +1355,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-neg-cio-est-no-lugar-certo-ou-em-qualquer-lugar-34b33d8db9d280fb9532ce8e1c4f2f03"
@@ -1571,7 +1567,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Incha-o-abdominal-dor-p-lvica-e-saciedade-r-pida-podem-ser-sinais-de-c-ncer-de-ov-rio-Dia-mundial-35033d8db9d280458524e3936296f5d0"
@@ -2001,13 +1997,11 @@ const LINHA_FEED_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Contratos digitais têm validade? O que a lei diz",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Contratos-digitais-t-m-validade-O-que-a-lei-diz-32d33d8db9d2804282c6d31ba1ce7b1c"
@@ -2264,7 +2258,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Se é pra presentear,que seja algo que faça diferença todos os dias.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "06/05",
+      "date": "07/05",
       "missing": [
         "Design"
       ],
@@ -2496,13 +2490,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Um diagnóstico, um tratamento, ou até um período em que você não consegue trabalhar. E, mesmo assim, tudo continua.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Um-diagn-stico-um-tratamento-ou-at-um-per-odo-em-que-voc-n-o-consegue-trabalhar-E-mesmo-assim--34b33d8db9d2807cb2e2f2222882f02c"
@@ -2584,19 +2576,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-s-procura-exames-quando-sente-algo-Esse-h-bito-pode-estar-colocando-sua-sa-de-em-risco-33333d8db9d280858465c3efb6dfa1ce"
-    },
-    {
-      "title": "Por trás de cada resultado confiável existe uma equipe preparada e tecnologia de ponta.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "07/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Por-tr-s-de-cada-resultado-confi-vel-existe-uma-equipe-preparada-e-tecnologia-de-ponta-33333d8db9d280919293d4c5bc94d68b"
     },
     {
       "title": "Qualidade é o que sustenta cada resultado - Conheça os padrões que fazem a ItalaP ser referência na região",
@@ -2764,17 +2743,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Se-o-seu-ve-culo-apresenta-esses-sinais-pode-ter-problema-no-sistema-de-inje-o-ou-na-turbina-34a33d8db9d2806ca16fe68ba6378049"
     },
     {
-      "title": "Fumaça, consumo alto e perda de potência não são normais são sinais de alerta.",
-      "status": "a_agendar",
+      "title": "Fumaça, consumo alto e perda de potência não são normais. São sinais de alerta.",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Fuma-a-consumo-alto-e-perda-de-pot-ncia-n-o-s-o-normais-s-o-sinais-de-alerta-34b33d8db9d280168d9cf1ee8d866e0d"
+      "notionUrl": "https://www.notion.so/Fuma-a-consumo-alto-e-perda-de-pot-ncia-n-o-s-o-normais-S-o-sinais-de-alerta-34b33d8db9d280168d9cf1ee8d866e0d"
     },
     {
       "title": "Nem toda falha no motor significa troca de peça mas sem diagnóstico, o risco aumenta.",
@@ -2896,10 +2873,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Na-matem-tica-da-vida-acontece-algo-raro-toda-m-e-a-melhor-do-mundo-Feliz-dia-das-m-es-34a33d8db9d280e48c02ffdf040cc108"
@@ -2920,10 +2895,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-li-o-do-bambu-chin-s-para-os-neg-cios-35733d8db9d280078fa8d19a9b75781d"
@@ -3084,15 +3057,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "TBT",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📸 Foto(s)",
       "date": "07/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/TBT-34f33d8db9d280eb8c5ae4c6a42ffe72"
     },
@@ -3188,14 +3158,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Conecta-Amil-mais-estrutura-mais-estrat-gia-e-mais-resultado-para-sua-empresa-35233d8db9d280868515fb1db25e1a40"
     },
     {
-      "title": "Acidentes no trânsito impactam mais do que você imagina. Além de riscos à vida, acidentes afetam: \nequipes; operações;resultados;Prevenção ainda é a melhor estratégia.",
-      "status": "a_agendar",
+      "title": "Acidentes no trânsito impactam mais do que você imagina. Além de riscos à vida, acidentes afetam: \nequipes; operações; resultados. Prevenção ainda é a melhor estratégia.",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Acidentes-no-tr-nsito-impactam-mais-do-que-voc-imagina-Al-m-de-riscos-vida-acidentes-afetam-e-35233d8db9d2808bb3aaead29bce8a90"
@@ -3205,10 +3173,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-nova-NR-1-chegou-Sua-empresa-est-pronta-para-a-fiscaliza-o-N-o-mais-s-sobre-seguran-a-f-sic-35233d8db9d28093b541f50919f6f60b"
@@ -3225,6 +3191,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nem-todo-problema-de-sa-de-aparece-de-forma-evidente-Sintomas-silenciosos-podem-indicar-algo-maior--35233d8db9d280a4b9eccfdd3ac01a1e"
+    },
+    {
+      "title": "Cuidado que vem de casa e leva pra vida inteira - Feliz dia das mães",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Cuidado-que-vem-de-casa-e-leva-pra-vida-inteira-Feliz-dia-das-m-es-35833d8db9d2809da804dfb00cc5da0a"
     }
   ],
   "Planos Seguros": [
@@ -3317,13 +3296,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A sensação de tranquilidade não vem do contrato assinado, mas da segurança de que ele responde quando necessário.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-sensa-o-de-tranquilidade-n-o-vem-do-contrato-assinado-mas-da-seguran-a-de-que-ele-responde-quand-35233d8db9d28044b097d2ca21c956ef"
@@ -3644,14 +3621,12 @@ const LINHA_VIDEO_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Empresa com equipe pequena",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Empresa-com-equipe-pequena-35233d8db9d28013b457d1160a234e72"
     },
@@ -4131,6 +4106,17 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 2. Gravando",
       "notionUrl": "https://www.notion.so/V-deo-de-dia-das-m-es-35833d8db9d2801cb11bc501230ebebc"
+    },
+    {
+      "title": "Vídeo",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-35833d8db9d280bbb574e7605e893486"
     }
   ],
   "Jota Diesel": [
@@ -4245,19 +4231,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://www.notion.so/roteiro-01-Sua-empresa-est-pronta-para-a-NR1-35233d8db9d280839102dc8549f679ad"
-    },
-    {
-      "title": "Cuidado que vem de casa e leva pra vida inteira - Feliz dia das mães",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "10/05",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 2. A editar",
-      "notionUrl": "https://www.notion.so/Cuidado-que-vem-de-casa-e-leva-pra-vida-inteira-Feliz-dia-das-m-es-35233d8db9d2809cae5dc15e96e90b3d"
     },
     {
       "title": "roteiro 02: Benefícios corporativos",
@@ -5184,7 +5157,7 @@ const DEMANDAS_EXTRAS = {
     },
     {
       "title": "Aniversariantes do mes",
-      "priority": "p",
+      "priority": "ppp",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Aniversariantes-do-mes-35033d8db9d2807fac29e1ae625b7392",
       "gestora": "Equipe",
@@ -5279,14 +5252,6 @@ const DEMANDAS_EXTRAS = {
       "date": "04/05"
     },
     {
-      "title": "Dia da beleza ",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Dia-da-beleza-35133d8db9d28020b8d6e57d53c3b270",
-      "gestora": "Equipe",
-      "date": "04/05"
-    },
-    {
       "title": "Fazer post ",
       "priority": "pp",
       "rawStatus": "1. A fazer",
@@ -5359,7 +5324,8 @@ const CAPTACAO_DATA = {
   "Plannea": "marcada",
   "Ortobom": "marcada",
   "Conecta Assessoria": "marcada",
-  "Planos Seguros": "marcada"
+  "Planos Seguros": "marcada",
+  "Juntos contra o HPV": "marcada"
 };
 
 const APRESENTACAO_DATA = {};
@@ -5378,7 +5344,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Finseg Leal": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 20
   },
   "Solar Coworking": {
@@ -5558,10 +5524,10 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "ItalaP": {
-    "post": 12,
+    "post": 11,
     "carrossel": 2,
     "foto": 0,
-    "video": 6,
+    "video": 7,
     "story": 4
   },
   "Jota Diesel": {
@@ -5579,10 +5545,10 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Conecta Assessoria": {
-    "post": 11,
+    "post": 12,
     "carrossel": 2,
     "foto": 1,
-    "video": 5,
+    "video": 4,
     "story": 6
   },
   "Planos Seguros": {
@@ -5629,7 +5595,7 @@ const AGENDA_COUNTS = {
   },
   "Juntos contra o HPV": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Stratto": {
