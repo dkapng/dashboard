@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/05/2026, 13:26:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/05/2026, 17:49:35 **/
 
-const LAST_UPDATE = '07/05/2026, 13:26:44';
+const LAST_UPDATE = '07/05/2026, 17:49:35';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -124,7 +124,7 @@ const FEED_DATA = {
   },
   "Travessias Híbridas": {
     "total": 20,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -164,11 +164,11 @@ const FEED_DATA = {
   },
   "Ortobom": {
     "total": 14,
-    "pronto": 2,
-    "postado": 0,
+    "pronto": 3,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "APROSSEG": {
     "total": 14,
@@ -320,8 +320,8 @@ const VIDEO_DATA = {
   "RR Advocacia": {
     "total": 7,
     "pronto": 7,
-    "postado": 1,
-    "agendado": 6,
+    "postado": 2,
+    "agendado": 5,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -382,9 +382,9 @@ const VIDEO_DATA = {
     "a_agendar": 3
   },
   "Planos Seguros": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
+    "total": 1,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -1991,10 +1991,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Save-the-date-atualizado-c2333d8db9d28251bb0201d6153fd23b"
@@ -2022,7 +2020,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Precis-o-Estrat-gia-Proximidade-Seguran-a-ideia-que-na-capa-tenha-as-palavras-chave-em-destaque-32d33d8db9d280c699b3d4e6b1bf75c9"
@@ -2264,13 +2262,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se é pra presentear,que seja algo que faça diferença todos os dias.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-pra-presentear-que-seja-algo-que-fa-a-diferen-a-todos-os-dias-35233d8db9d2802d95f3ff5db34bdc0f"
@@ -3951,7 +3947,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Dívidas",
-      "status": "agendado",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/05",
       "missing": [],
@@ -4253,7 +4249,19 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/roteiro-02-Benef-cios-corporativos-35233d8db9d280afa3e8e4f95ce8be8e"
     }
   ],
-  "Planos Seguros": [],
+  "Planos Seguros": [
+    {
+      "title": "POV: parece só rotina de escritório, mas aqui cada detalhe impacta decisões importantes.PO",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/POV-parece-s-rotina-de-escrit-rio-mas-aqui-cada-detalhe-impacta-decis-es-importantes-PO-35933d8db9d2804cb8ffe0161565044d"
+    }
+  ],
   "Rede Pangeia": []
 };
 
@@ -5154,14 +5162,6 @@ const DEMANDAS_EXTRAS = {
       "date": "13/04"
     },
     {
-      "title": "Aniversariantes do mes",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Aniversariantes-do-mes-35033d8db9d2807fac29e1ae625b7392",
-      "gestora": "Equipe",
-      "date": "08/05"
-    },
-    {
       "title": "POV para quinta",
       "priority": "p",
       "rawStatus": "1. A fazer",
@@ -5302,6 +5302,14 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Cart-o-para-o-dia-das-m-es-whatsapp-35833d8db9d280158a0df637ed73619c",
       "gestora": "Equipe",
       "date": "07/05"
+    },
+    {
+      "title": "Atualização da vaga ",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Atualiza-o-da-vaga-35933d8db9d2804d8e70c261ae8c2d78",
+      "gestora": "Equipe",
+      "date": "08/05"
     }
   ],
   "ItalaP": [
@@ -5310,16 +5318,6 @@ const DEMANDAS_EXTRAS = {
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Cart-o-de-dia-das-m-es-whatsapp-35833d8db9d28056b0cce30acfab58c9",
-      "gestora": "Equipe",
-      "date": "07/05"
-    }
-  ],
-  "Travessias Híbridas": [
-    {
-      "title": "Alterar o card oficial (endereço e horário) - Sinalizei no whatsApp",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Alterar-o-card-oficial-endere-o-e-hor-rio-Sinalizei-no-whatsApp-35933d8db9d28070a3adcac52a85b9ef",
       "gestora": "Equipe",
       "date": "07/05"
     }
@@ -5414,8 +5412,8 @@ const LEGENDAS_DATA = {
     "total": 21
   },
   "Planos Seguros": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 15,
+    "total": 15
   },
   "Rede Pangeia": {
     "prontas": 14,
@@ -5561,7 +5559,7 @@ const FORMAT_COUNTS = {
     "post": 13,
     "carrossel": 1,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 4
   },
   "Rede Pangeia": {
