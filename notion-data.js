@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/05/2026, 17:54:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/05/2026, 06:45:29 **/
 
-const LAST_UPDATE = '06/05/2026, 17:54:13';
+const LAST_UPDATE = '07/05/2026, 06:45:29';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -83,7 +83,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 16,
-    "pronto": 3,
+    "pronto": 5,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -99,7 +99,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 10,
@@ -122,12 +122,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 19,
+    "total": 20,
     "pronto": 5,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 19
+    "a_agendar": 18
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -197,9 +197,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 5,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Conecta Assessoria": {
     "total": 15,
@@ -245,12 +245,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Daniel Maia Advocacia": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Finseg Leal": {
     "total": 4,
@@ -432,12 +432,12 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "Solar Coworking": {
-    "total": 4,
-    "pronto": 1,
+    "total": 5,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -561,7 +561,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 4,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1071,10 +1071,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Reembolso-ou-Atendimento-Direto-N-o-descubra-a-diferen-a-na-emerg-ncia-34b33d8db9d2800499bed29f360b7ae6"
@@ -1184,10 +1182,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/M-e-a-primeira-e-maior-rede-de-prote-o-que-existe-Feliz-dia-das-m-es-34b33d8db9d280ff9afaedfc2e54cb6b"
@@ -1564,10 +1560,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Incha-o-abdominal-dor-p-lvica-e-saciedade-r-pida-podem-ser-sinais-de-c-ncer-de-ov-rio-Dia-mundial-35033d8db9d280458524e3936296f5d0"
@@ -1764,7 +1758,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Vem aí: Travessias Híbridas - Explore uma verdadeira explosão brincante de cores.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "04/05",
       "missing": [],
@@ -1943,7 +1937,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Save the date",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "05/05",
       "missing": [],
@@ -1990,6 +1984,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Carrossel-oficial-35733d8db9d280c4a8b5fe9cd89c6447"
+    },
+    {
+      "title": "Save the date (1)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Save-the-date-1-c2333d8db9d28251bb0201d6153fd23b"
     }
   ],
   "Di Gregório Buffet": [],
@@ -2892,7 +2899,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A lição do bambu chinês para os negócios.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/05",
       "missing": [],
@@ -3617,7 +3624,22 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/V-deo-35733d8db9d2801197e8c0027c10dc40"
     }
   ],
-  "Daniel Maia Advocacia": [],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Aniversário do Daniel Maia",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "08/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/Anivers-rio-do-Daniel-Maia-35933d8db9d2804aa9e1f7c6c9996d74"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Empresa com equipe pequena",
@@ -4371,7 +4393,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Prote-o-para-imprevistos-Receba-por-cada-dia-que-precisar-de-cuidados-m-dicos-34b33d8db9d2804c8ccdd4169e0dfabb"
     },
     {
-      "title": "dia do automovel",
+      "title": "Dia do automóvel",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/05",
@@ -4381,7 +4403,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/dia-do-automovel-35033d8db9d2808ba104c4bc0999577e"
+      "notionUrl": "https://www.notion.so/Dia-do-autom-vel-35033d8db9d2808ba104c4bc0999577e"
     },
     {
       "title": "Fiações antigas",
@@ -4458,6 +4480,17 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d280ff8666d0f4fb282f84"
+    },
+    {
+      "title": "Stories sobre o evento",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "07/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Stories-sobre-o-evento-35933d8db9d280de9d12edfce2994d26"
     }
   ],
   "Juntos contra o HPV": [],
@@ -5038,10 +5071,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "07/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Algumas-causas-mobilizam-milh-es-35133d8db9d2805fb04bd6d5a0be35f3"
@@ -5091,7 +5122,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
-      "date": "21/04"
+      "date": "08/05"
     }
   ],
   "RR Advocacia": [
@@ -5102,24 +5133,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Fazer-o-Site-RR-Advocacia-2f633d8db9d280328058c11b17ba148b",
       "gestora": "Equipe",
       "date": "08/05"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Configurar E-mail Institucional",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Configurar-E-mail-Institucional-2f633d8db9d280a7a5ddf8cf3cc55037",
-      "gestora": "Equipe",
-      "date": "08/05"
-    },
-    {
-      "title": "Capas de destaques do Instagram",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
-      "gestora": "Equipe",
-      "date": "06/05"
     }
   ],
   "Planos Seguros": [
@@ -5206,24 +5219,6 @@ const DEMANDAS_EXTRAS = {
       "date": "07/05"
     }
   ],
-  "Solar Coworking": [
-    {
-      "title": "Banner (sobre a solar) ",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Banner-sobre-a-solar-31833d8db9d280e1a14ae70142b7f6d2",
-      "gestora": "Equipe",
-      "date": "27/04"
-    },
-    {
-      "title": "Edição do vídeo institucional para o evento - Solar",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
-      "gestora": "Equipe",
-      "date": "07/05"
-    }
-  ],
   "Ser Ponte": [
     {
       "title": "Narração para vídeo institucional",
@@ -5239,7 +5234,17 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "2. Falta informação",
       "notionUrl": "https://www.notion.so/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
       "gestora": "Equipe",
-      "date": "05/05"
+      "date": "12/05"
+    }
+  ],
+  "Solar Coworking": [
+    {
+      "title": "Edição do vídeo institucional para o evento - Solar",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
+      "gestora": "Equipe",
+      "date": "07/05"
     }
   ],
   "Ortobom": [
@@ -5260,24 +5265,30 @@ const DEMANDAS_EXTRAS = {
       "date": "06/05"
     }
   ],
-  "Plannea": [
+  "Daniel Maia Advocacia": [
     {
-      "title": "Camisa do Brasil (Copa do mundo)",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Camisa-do-Brasil-Copa-do-mundo-35233d8db9d28075be1dd7ad6bc7d79b",
-      "gestora": "Equipe",
-      "date": "06T10:00:00.000/05"
-    }
-  ],
-  "Travessias Híbridas": [
-    {
-      "title": "Capa e avatar das redes sociais",
+      "title": "Capas de destaques do Instagram",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Capa-e-avatar-das-redes-sociais-35233d8db9d280ad90d1d40b76f694d6",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://www.notion.so/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
       "gestora": "Equipe",
-      "date": "30/04"
+      "date": "06/05"
+    },
+    {
+      "title": "Gestão de e-mails - Estagiário",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-Estagi-rio-35933d8db9d2804191c5f99de9da3d0d",
+      "gestora": "Equipe",
+      "date": "06/05"
+    },
+    {
+      "title": "Vídeo de aniversário ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/V-deo-de-anivers-rio-35933d8db9d28051a6b0e2bfc87b9e2d",
+      "gestora": "Equipe",
+      "date": "07T17:00:00.000/05"
     }
   ],
   "APROSSEG": [
@@ -5317,6 +5328,16 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "07/05"
     }
+  ],
+  "Travessias Híbridas": [
+    {
+      "title": "Alterar o card oficial (endereço e horário) - Sinalizei no whatsApp",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Alterar-o-card-oficial-endere-o-e-hor-rio-Sinalizei-no-whatsApp-35933d8db9d28070a3adcac52a85b9ef",
+      "gestora": "Equipe",
+      "date": "07/05"
+    }
   ]
 };
 
@@ -5341,7 +5362,7 @@ const LEGENDAS_DATA = {
   },
   "Daniel Maia Advocacia": {
     "prontas": 4,
-    "total": 6
+    "total": 7
   },
   "Finseg Leal": {
     "prontas": 14,
@@ -5364,8 +5385,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Travessias Híbridas": {
-    "prontas": 4,
-    "total": 21
+    "prontas": 5,
+    "total": 22
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -5373,7 +5394,7 @@ const LEGENDAS_DATA = {
   },
   "Ventana": {
     "prontas": 0,
-    "total": 4
+    "total": 0
   },
   "RR Advocacia": {
     "prontas": 17,
@@ -5436,7 +5457,7 @@ const FORMAT_COUNTS = {
     "post": 5,
     "carrossel": 1,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "Finseg Leal": {
@@ -5451,7 +5472,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 4
+    "story": 5
   },
   "Juntos contra o HPV": {
     "post": 15,
@@ -5475,7 +5496,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Travessias Híbridas": {
-    "post": 14,
+    "post": 15,
     "carrossel": 5,
     "foto": 0,
     "video": 2,
@@ -5604,7 +5625,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ser Ponte": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
@@ -5619,7 +5640,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ventana": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 0,
     "evento": 0
   },
