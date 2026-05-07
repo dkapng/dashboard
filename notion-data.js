@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/05/2026, 06:45:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/05/2026, 13:26:44 **/
 
-const LAST_UPDATE = '07/05/2026, 06:45:29';
+const LAST_UPDATE = '07/05/2026, 13:26:44';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -70,8 +70,9 @@ const FEED_DATA = {
     "pronto": 3,
     "postado": 0,
     "agendado": 2,
-    "agendado_coord": 8,
-    "a_agendar": 3
+    "agendado_coord": 7,
+    "a_agendar": 3,
+    "st-paused": null
   },
   "Daniel Maia Advocacia": {
     "total": 6,
@@ -85,25 +86,25 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 5,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 11
   },
   "Solar Coworking": {
     "total": 13,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Juntos contra o HPV": {
     "total": 16,
     "pronto": 6,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 10,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 13,
@@ -186,12 +187,12 @@ const FEED_DATA = {
     "a_agendar": 10
   },
   "Jota Diesel": {
-    "total": 9,
+    "total": 10,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Plannea": {
     "total": 14,
@@ -205,9 +206,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 6,
     "postado": 2,
-    "agendado": 2,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 9
   },
   "Planos Seguros": {
     "total": 14,
@@ -341,12 +342,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "APROSSEG": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 7,
@@ -373,12 +374,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 0,
@@ -804,7 +805,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Protagonismo feminino que se fortalece quando o fazer se transforma em autonomia",
-      "status": "agendado_coord",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "06/05",
       "missing": [],
@@ -1068,7 +1069,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Reembolso ou Atendimento Direto? Não descubra a diferença na emergência",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/05",
       "missing": [],
@@ -1179,7 +1180,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mãe: a primeira e maior rede de proteção que existe! Feliz dia das mães!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
       "missing": [],
@@ -1348,7 +1349,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu negócio está no lugar certo ou em qualquer lugar?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/05",
       "missing": [],
@@ -1557,7 +1558,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Inchaço abdominal, dor pélvica e saciedade rápida podem ser sinais de câncer de ovário - Dia mundial do câncer de ovário",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/05",
       "missing": [],
@@ -1986,7 +1987,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Carrossel-oficial-35733d8db9d280c4a8b5fe9cd89c6447"
     },
     {
-      "title": "Save the date (1)",
+      "title": "Save the date atualizado",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/05",
@@ -1996,7 +1997,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Save-the-date-1-c2333d8db9d28251bb0201d6153fd23b"
+      "notionUrl": "https://www.notion.so/Save-the-date-atualizado-c2333d8db9d28251bb0201d6153fd23b"
     }
   ],
   "Di Gregório Buffet": [],
@@ -2036,19 +2037,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-do-Trabalho-o-que-a-lei-realmente-assegura-na-rela-o-entre-empregado-e-empregador-32d33d8db9d280d6a103c238fafb76f6"
-    },
-    {
-      "title": "tbt",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "07/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/tbt-34c33d8db9d280aeaacbe4c968e585fc"
     },
     {
       "title": "O risco jurídico se constrói em silêncio",
@@ -2127,6 +2115,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-erro-jur-dico-que-quase-ningu-m-percebe-at-virar-processo-35633d8db9d280c1898ae2f7e0463472"
+    },
+    {
+      "title": "Dia das Mães: reconhecer quem transforma cuidado em presença constante.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Dia-das-M-es-reconhecer-quem-transforma-cuidado-em-presen-a-constante-35933d8db9d280f6bb1bdd105399c21b"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -2850,6 +2851,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Parar-o-ve-culo-custa-mais-do-que-voc-imagina-35133d8db9d280d7a16ed8910ef4315c"
+    },
+    {
+      "title": "Neste Dia das Mães, celebramos quem move a vida com amor, força e dedicação todos os dias.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Neste-Dia-das-M-es-celebramos-quem-move-a-vida-com-amor-for-a-e-dedica-o-todos-os-dias-35933d8db9d280aaafa5d72b903f0451"
     }
   ],
   "Plannea": [
@@ -3177,7 +3191,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A nova NR-1 chegou: Sua empresa está pronta para a fiscalização? Não é mais só sobre segurança física. Arraste para entender o novo foco.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "08/05",
       "missing": [],
@@ -3201,14 +3215,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cuidado que vem de casa e leva pra vida inteira - Feliz dia das mães",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cuidado-que-vem-de-casa-e-leva-pra-vida-inteira-Feliz-dia-das-m-es-35833d8db9d2809da804dfb00cc5da0a"
     }
@@ -4029,20 +4041,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/V-deo-35233d8db9d2802b8e4ae1ccba67de6c"
     },
     {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-35233d8db9d280369d0febe335415caa"
-    },
-    {
       "title": "Dia das mães",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -4229,23 +4227,10 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/roteiro-05-Dia-continental-do-seguro-35133d8db9d2802b8e68f9fcaf7a8db3"
     },
     {
-      "title": "roteiro 06: Operadoras",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/05",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/roteiro-06-Operadoras-35233d8db9d2805f8631c01561300bc4"
-    },
-    {
       "title": "roteiro 01: Sua empresa está pronta para a NR1?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "07/05",
+      "date": "21/05",
       "missing": [
         "Vídeo"
       ],
@@ -4258,7 +4243,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "roteiro 02: Benefícios corporativos",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "21/05",
+      "date": "28/05",
       "missing": [
         "Vídeo"
       ],
@@ -5259,7 +5244,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fazer post ",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Fazer-post-35233d8db9d2809b8af3eda050e8dc01",
       "gestora": "Equipe",
       "date": "06/05"
@@ -5269,7 +5254,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Capas de destaques do Instagram",
       "priority": "p",
-      "rawStatus": "2. A implementar",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
       "gestora": "Equipe",
       "date": "06/05"
@@ -5410,15 +5395,15 @@ const LEGENDAS_DATA = {
   },
   "APROSSEG": {
     "prontas": 14,
-    "total": 19
+    "total": 18
   },
   "ItalaP": {
     "prontas": 18,
     "total": 20
   },
   "Jota Diesel": {
-    "prontas": 11,
-    "total": 13
+    "prontas": 12,
+    "total": 14
   },
   "Plannea": {
     "prontas": 15,
@@ -5426,7 +5411,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 21,
-    "total": 22
+    "total": 21
   },
   "Planos Seguros": {
     "prontas": 14,
@@ -5517,8 +5502,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 8,
-    "carrossel": 2,
+    "post": 9,
+    "carrossel": 1,
     "foto": 0,
     "video": 7,
     "story": 4
@@ -5541,7 +5526,7 @@ const FORMAT_COUNTS = {
     "post": 13,
     "carrossel": 1,
     "foto": 0,
-    "video": 4,
+    "video": 3,
     "story": 4
   },
   "ItalaP": {
@@ -5552,7 +5537,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Jota Diesel": {
-    "post": 7,
+    "post": 8,
     "carrossel": 2,
     "foto": 0,
     "video": 4,
@@ -5569,7 +5554,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 2,
     "foto": 1,
-    "video": 4,
+    "video": 3,
     "story": 6
   },
   "Planos Seguros": {
