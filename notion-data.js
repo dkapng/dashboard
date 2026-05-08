@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/05/2026, 13:02:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/05/2026, 17:16:36 **/
 
-const LAST_UPDATE = '08/05/2026, 13:02:39';
+const LAST_UPDATE = '08/05/2026, 17:16:36';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -91,12 +91,12 @@ const FEED_DATA = {
     "a_agendar": 11
   },
   "Solar Coworking": {
-    "total": 13,
+    "total": 14,
     "pronto": 3,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 11
   },
   "Juntos contra o HPV": {
     "total": 16,
@@ -150,9 +150,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 4,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 2,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
     "total": 7,
@@ -171,12 +171,12 @@ const FEED_DATA = {
     "a_agendar": 11
   },
   "APROSSEG": {
-    "total": 14,
-    "pronto": 3,
+    "total": 13,
+    "pronto": 4,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 9
   },
   "ItalaP": {
     "total": 13,
@@ -211,12 +211,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Planos Seguros": {
-    "total": 14,
+    "total": 13,
     "pronto": 3,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Rede Pangeia": {
     "total": 14,
@@ -271,11 +271,11 @@ const VIDEO_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 5,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 4,
@@ -343,11 +343,11 @@ const VIDEO_DATA = {
   },
   "APROSSEG": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 7,
@@ -435,10 +435,10 @@ const STORIES_DATA = {
   "Solar Coworking": {
     "total": 5,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -505,12 +505,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 7,
+    "total": 6,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "APROSSEG": {
     "total": 4,
@@ -736,7 +736,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Adiar-o-cuidado-com-a-sa-de-tem-um-custo-decida-cuidar-agora-35733d8db9d280448da1cb7a31664dfe"
     },
     {
-      "title": "Dia das maes ",
+      "title": "Dia das Mães, Para quem transforma cuidado em presença, força e amor todos os dias.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/05",
@@ -747,7 +747,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Dia-das-maes-35733d8db9d2807b974fc9a5a7b34b88"
+      "notionUrl": "https://www.notion.so/Dia-das-M-es-Para-quem-transforma-cuidado-em-presen-a-for-a-e-amor-todos-os-dias-35733d8db9d2807b974fc9a5a7b34b88"
     },
     {
       "title": "Tranquilidade não acontece por acaso comece a construir a sua hoje.",
@@ -1208,11 +1208,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Antes-de-buscar-mais-resultados-vale-olhar-para-a-estrutura-que-sustenta-o-que-voc-j-tem-34b33d8db9d280128801e55069055574"
     },
@@ -1311,11 +1310,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/N-o-s-sobre-o-que-voc-faz-sobre-como-o-seu-neg-cio-se-posiciona-no-detalhe-34b33d8db9d280d8834de2e72ddbd0c3"
     },
@@ -1366,6 +1364,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/A-Solar-n-o-s-um-endere-o-uma-base-operacional-35633d8db9d2800482cceddf6afeb815"
+    },
+    {
+      "title": "Dia das Mães: reconhecer quem faz do amor uma presença constante.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Dia-das-M-es-reconhecer-quem-faz-do-amor-uma-presen-a-constante-35a33d8db9d280b39737c3504ba9afc8"
     }
   ],
   "Juntos contra o HPV": [
@@ -2110,7 +2121,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dia das Mães: reconhecer quem transforma cuidado em presença constante.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
       "missing": [],
@@ -2277,7 +2288,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Voc-n-o-precisa-se-adaptar-ao-seu-colch-o-Ele-que-precisa-se-adaptar-a-voc-35233d8db9d2803f9d1bebd54f675f98"
     },
     {
-      "title": "Dia das maes ",
+      "title": "Dia das mães ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/05",
@@ -2285,10 +2296,10 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Dia-das-maes-35233d8db9d2805883b5e3ba01c11cd6"
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://www.notion.so/Dia-das-m-es-35233d8db9d2805883b5e3ba01c11cd6"
     },
     {
       "title": "Ela nunca parou por você. Agora é a sua vez de retribuir com cuidado de verdade.",
@@ -2408,13 +2419,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Feliz aniversário, Geórgia. Seguimos celebrando tudo o que você é e tudo o que ainda vai construir.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Feliz-anivers-rio-Ge-rgia-Seguimos-celebrando-tudo-o-que-voc-e-tudo-o-que-ainda-vai-construir-33333d8db9d280c4972bc6bcc5931d9e"
@@ -2470,19 +2479,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Novas-regras-na-Europa-para-julho-de-2026-Sua-ap-lice-Aprosseg-j-est-atualizada-34b33d8db9d2803e9e69da19bdaa804f"
-    },
-    {
-      "title": "Se você tem uma apólice hoje, esses 3 pontos fazem toda a diferença H2: 1. O que realmente está coberto 2. Qual é o limite da sua proteção 3. O que não está incluído",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Se-voc-tem-uma-ap-lice-hoje-esses-3-pontos-fazem-toda-a-diferen-a-H2-1-O-que-realmente-est-cobe-34b33d8db9d2804db311c1a13c77c16e"
     },
     {
       "title": "Um diagnóstico, um tratamento, ou até um período em que você não consegue trabalhar. E, mesmo assim, tudo continua.",
@@ -2829,7 +2825,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Parar o veículo custa mais do que você imagina.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "07/05",
+      "date": "14/05",
       "missing": [
         "Design"
       ],
@@ -3218,19 +3214,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Por-tr-s-de-toda-empresa-s-lida-existe-um-s-cio-que-pensa-frente-33933d8db9d2803bbc0dd5224cab0025"
-    },
-    {
-      "title": "Se tem as melhores opções em planos de saúde, tem cotação planos na sua mão.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Se-tem-as-melhores-op-es-em-planos-de-sa-de-tem-cota-o-planos-na-sua-m-o-33a33d8db9d280c4a5faf04512f3337a"
     },
     {
       "title": "O trabalho constrói caminhos e transforma planos em conquistas. Feliz Dia do Trabalho.",
@@ -3685,18 +3668,15 @@ const LINHA_VIDEO_ITEMS = {
   "Solar Coworking": [],
   "Juntos contra o HPV": [
     {
-      "title": "dia das mães (marcando)",
-      "status": "a_agendar",
+      "title": "dia das mães ",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "10/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/dia-das-m-es-marcando-35033d8db9d280feb354e97d64dc3df9"
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/dia-das-m-es-35033d8db9d280feb354e97d64dc3df9"
     },
     {
       "title": "Vídeo",
@@ -4019,16 +3999,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Dia das mães",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "10/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 2. A editar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Dia-das-m-es-35833d8db9d280e7b185e542955d4862"
     }
   ],
@@ -4457,7 +4434,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Stories sobre o evento",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "07/05",
       "missing": [],
@@ -4598,7 +4575,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Aniver-Ana-Paula-Norte-Shopping-1b233d8db9d280afa42bfb8da730e472"
     },
@@ -4625,19 +4602,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Aniversario-L-cio-dep-sito-2e333d8db9d280d1821bdad925f98da4"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "07/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-35033d8db9d280b6b283c9142f05c09a"
     },
     {
       "title": "Story/stories",
@@ -5130,22 +5094,6 @@ const DEMANDAS_EXTRAS = {
       "date": "13/04"
     },
     {
-      "title": "POV para quinta",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/POV-para-quinta-35733d8db9d28059acede7ac60f66bde",
-      "gestora": "Equipe",
-      "date": "07/05"
-    },
-    {
-      "title": "Perguntas para videos ",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Perguntas-para-videos-35733d8db9d280879d16debf8d874c5f",
-      "gestora": "Equipe",
-      "date": "08/05"
-    },
-    {
       "title": "Cartão de dia das mães (whatsapp)",
       "priority": "p",
       "rawStatus": "1. A fazer",
@@ -5162,14 +5110,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "15/05"
-    },
-    {
-      "title": "Cartão de dia das mães (whatsapp)",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Cart-o-de-dia-das-m-es-whatsapp-35833d8db9d280f58eb5ef1df89555b2",
-      "gestora": "Equipe",
-      "date": "07/05"
     }
   ],
   "Ser Ponte": [
@@ -5222,7 +5162,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Capas de destaques do Instagram",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A implementar",
       "notionUrl": "https://www.notion.so/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
       "gestora": "Equipe",
       "date": "06/05"
@@ -5240,36 +5180,16 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Aniversariantes",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Aniversariantes-35733d8db9d2801a9c75ec3205a39d65",
       "gestora": "Equipe",
-      "date": "08/05"
+      "date": "13/05"
     },
     {
       "title": "Cartão de dia das mães (whatsapp)",
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Cart-o-de-dia-das-m-es-whatsapp-35833d8db9d280e580ded6d34b7610a8",
-      "gestora": "Equipe",
-      "date": "07/05"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Cartão para o dia das mães (whatsapp)",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Cart-o-para-o-dia-das-m-es-whatsapp-35833d8db9d280158a0df637ed73619c",
-      "gestora": "Equipe",
-      "date": "07/05"
-    }
-  ],
-  "ItalaP": [
-    {
-      "title": "Cartão de dia das mães (whatsapp)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Cart-o-de-dia-das-m-es-whatsapp-35833d8db9d28056b0cce30acfab58c9",
       "gestora": "Equipe",
       "date": "07/05"
     }
@@ -5304,11 +5224,11 @@ const LEGENDAS_DATA = {
     "total": 20
   },
   "Solar Coworking": {
-    "prontas": 11,
-    "total": 13
+    "prontas": 14,
+    "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 21
   },
   "Stratto": {
@@ -5345,7 +5265,7 @@ const LEGENDAS_DATA = {
   },
   "APROSSEG": {
     "prontas": 14,
-    "total": 18
+    "total": 17
   },
   "ItalaP": {
     "prontas": 18,
@@ -5364,8 +5284,8 @@ const LEGENDAS_DATA = {
     "total": 21
   },
   "Planos Seguros": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 14,
+    "total": 14
   },
   "Rede Pangeia": {
     "prontas": 14,
@@ -5403,7 +5323,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Solar Coworking": {
-    "post": 13,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -5470,10 +5390,10 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 4,
-    "story": 7
+    "story": 6
   },
   "APROSSEG": {
-    "post": 13,
+    "post": 12,
     "carrossel": 1,
     "foto": 0,
     "video": 3,
@@ -5508,7 +5428,7 @@ const FORMAT_COUNTS = {
     "story": 6
   },
   "Planos Seguros": {
-    "post": 13,
+    "post": 12,
     "carrossel": 1,
     "foto": 0,
     "video": 1,
