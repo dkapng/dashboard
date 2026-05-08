@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/05/2026, 17:16:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/05/2026, 20:41:09 **/
 
-const LAST_UPDATE = '08/05/2026, 17:16:36';
+const LAST_UPDATE = '08/05/2026, 20:41:09';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -149,9 +149,9 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 10,
     "pronto": 4,
-    "postado": 1,
+    "postado": 2,
     "agendado": 1,
-    "agendado_coord": 2,
+    "agendado_coord": 1,
     "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
@@ -163,12 +163,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Ortobom": {
-    "total": 14,
-    "pronto": 3,
+    "total": 13,
+    "pronto": 4,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 9
   },
   "APROSSEG": {
     "total": 13,
@@ -336,7 +336,7 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 4,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 1
@@ -741,11 +741,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-das-M-es-Para-quem-transforma-cuidado-em-presen-a-for-a-e-amor-todos-os-dias-35733d8db9d2807b974fc9a5a7b34b88"
     },
@@ -2021,7 +2020,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Precisão Estratégia Proximidade Segurança (ideia que na capa tenha as palavras-chave em destaque)",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "08/05",
       "missing": [],
@@ -2289,15 +2288,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dia das mães ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 2. A editar",
       "notionUrl": "https://www.notion.so/Dia-das-m-es-35233d8db9d2805883b5e3ba01c11cd6"
     },
@@ -2350,19 +2346,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-quarto-tamb-m-influencia-no-seu-descanso-Ambiente-conforto-qualidade-de-vida-35233d8db9d280d3b8e1e24fcc9124d2"
-    },
-    {
-      "title": "O presente que acolhe todos os dias e transforma o descanso em cuidado",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-presente-que-acolhe-todos-os-dias-e-transforma-o-descanso-em-cuidado-35233d8db9d280ec9564fdcc3c3e330c"
     },
     {
       "title": "Você dorme… mas acorda cansado?",
@@ -3966,6 +3949,17 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://www.notion.so/V-deo-35233d8db9d28002b7e2f5588a417cfd"
+    },
+    {
+      "title": "O que sua mãe quer ganhar de presente!!",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "08/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-sua-m-e-quer-ganhar-de-presente-35a33d8db9d280d1af2ff140f56d25c7"
     }
   ],
   "APROSSEG": [
@@ -5208,7 +5202,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Univendas": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 15
   },
   "Terrartesã": {
@@ -5260,7 +5254,7 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Ortobom": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 18
   },
   "APROSSEG": {
@@ -5386,10 +5380,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ortobom": {
-    "post": 12,
+    "post": 11,
     "carrossel": 2,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 6
   },
   "APROSSEG": {
