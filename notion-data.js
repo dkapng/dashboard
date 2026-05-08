@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/05/2026, 17:49:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/05/2026, 21:06:49 **/
 
-const LAST_UPDATE = '07/05/2026, 17:49:35';
+const LAST_UPDATE = '07/05/2026, 21:06:49';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -84,7 +84,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 16,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 0,
@@ -108,7 +108,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 0,
@@ -148,7 +148,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 10,
-    "pronto": 2,
+    "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 2,
@@ -180,7 +180,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -204,7 +204,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 15,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -1083,10 +1083,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Maio-Amarelo-a-seguran-a-no-tr-nsito-e-o-suporte-m-dico-imediato-34b33d8db9d2800da37ed459d93caa15"
@@ -1633,10 +1631,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Como-definir-um-Pro-labore-justo-sem-sangrar-o-caixa-da-sua-empresa-35033d8db9d280bcada5e92ee3a6081c"
@@ -2017,10 +2013,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "08/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Precis-o-Estrat-gia-Proximidade-Seguran-a-ideia-que-na-capa-tenha-as-palavras-chave-em-destaque-32d33d8db9d280c699b3d4e6b1bf75c9"
@@ -2119,10 +2113,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-das-M-es-reconhecer-quem-transforma-cuidado-em-presen-a-constante-35933d8db9d280f6bb1bdd105399c21b"
@@ -2699,10 +2691,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Alergia-ou-Intoler-ncia-Alimentar-35033d8db9d280ea9d84ee0f875d5191"
@@ -3201,10 +3191,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nem-todo-problema-de-sa-de-aparece-de-forma-evidente-Sintomas-silenciosos-podem-indicar-algo-maior--35233d8db9d280a4b9eccfdd3ac01a1e"
@@ -5298,7 +5286,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartão para o dia das mães (whatsapp)",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Cart-o-para-o-dia-das-m-es-whatsapp-35833d8db9d280158a0df637ed73619c",
       "gestora": "Equipe",
       "date": "07/05"
@@ -5306,7 +5294,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualização da vaga ",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Atualiza-o-da-vaga-35933d8db9d2804d8e70c261ae8c2d78",
       "gestora": "Equipe",
       "date": "08/05"
