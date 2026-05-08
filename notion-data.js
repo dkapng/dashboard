@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/05/2026, 21:06:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/05/2026, 03:24:57 **/
 
-const LAST_UPDATE = '07/05/2026, 21:06:49';
+const LAST_UPDATE = '08/05/2026, 03:24:57';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -196,7 +196,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 14,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -220,7 +220,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 14,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 1,
@@ -247,7 +247,7 @@ const VIDEO_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2991,10 +2991,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Faturamento-n-o-lucro-e-essa-diferen-a-muda-tudo-35733d8db9d280c999f3d590c4e74f8b"
@@ -3415,10 +3413,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-terceiro-setor-est-preparado-para-a-nova-era-do-investimento-social-privado-35033d8db9d28057bc32f68a4cbc6bb0"
@@ -3626,13 +3622,10 @@ const LINHA_VIDEO_ITEMS = {
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "08/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Anivers-rio-do-Daniel-Maia-35933d8db9d2804aa9e1f7c6c9996d74"
     }
   ],
@@ -5186,7 +5179,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartão de dia das mães (whatsapp)",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Cart-o-de-dia-das-m-es-whatsapp-35833d8db9d280f58eb5ef1df89555b2",
       "gestora": "Equipe",
       "date": "07/05"
@@ -5254,14 +5247,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-Estagi-rio-35933d8db9d2804191c5f99de9da3d0d",
       "gestora": "Equipe",
       "date": "06/05"
-    },
-    {
-      "title": "Vídeo de aniversário ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/V-deo-de-anivers-rio-35933d8db9d28051a6b0e2bfc87b9e2d",
-      "gestora": "Equipe",
-      "date": "07T17:00:00.000/05"
     }
   ],
   "APROSSEG": [
@@ -5294,7 +5279,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualização da vaga ",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Atualiza-o-da-vaga-35933d8db9d2804d8e70c261ae8c2d78",
       "gestora": "Equipe",
       "date": "08/05"
@@ -5332,7 +5317,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Daniel Maia Advocacia": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 7
   },
   "Finseg Leal": {
