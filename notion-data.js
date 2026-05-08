@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/05/2026, 07:58:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/05/2026, 13:02:39 **/
 
-const LAST_UPDATE = '08/05/2026, 07:58:01';
+const LAST_UPDATE = '08/05/2026, 13:02:39';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -553,12 +553,12 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "Planos Seguros": {
-    "total": 4,
+    "total": 3,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 4,
@@ -3273,7 +3273,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando o benefício não acompanha a realidade da empresa, o impacto aparece na retenção, no clima e na produtividade.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/05",
+      "date": "12/05",
       "missing": [
         "Design"
       ],
@@ -3286,7 +3286,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Antes de escolher um plano para sua família, responda isso",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/05",
+      "date": "20/05",
       "missing": [
         "Design"
       ],
@@ -4801,7 +4801,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "08/05",
+      "date": "22/05",
       "missing": [
         "Design"
       ],
@@ -5011,19 +5011,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-processo-de-prote-o-come-a-antes-do-problema-n-o-no-momento-em-que-ele-acontece-35233d8db9d28060aabee96894470cda"
-    },
-    {
-      "title": "Nem toda orientação aparece no contrato, mas ela faz toda a diferença no resultado.",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Nem-toda-orienta-o-aparece-no-contrato-mas-ela-faz-toda-a-diferen-a-no-resultado-35233d8db9d280f18f8ec895bd47d566"
     }
   ],
   "Rede Pangeia": [
@@ -5275,14 +5262,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Cart-o-para-o-dia-das-m-es-whatsapp-35833d8db9d280158a0df637ed73619c",
       "gestora": "Equipe",
       "date": "07/05"
-    },
-    {
-      "title": "Atualização da vaga ",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Atualiza-o-da-vaga-35933d8db9d2804d8e70c261ae8c2d78",
-      "gestora": "Equipe",
-      "date": "08/05"
     }
   ],
   "ItalaP": [
@@ -5533,7 +5512,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 1,
-    "story": 4
+    "story": 3
   },
   "Rede Pangeia": {
     "post": 12,
