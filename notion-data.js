@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/05/2026, 17:09:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/05/2026, 19:29:14 **/
 
-const LAST_UPDATE = '09/05/2026, 17:09:30';
+const LAST_UPDATE = '09/05/2026, 19:29:14';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -125,10 +125,10 @@ const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 20,
     "pronto": 6,
-    "postado": 0,
-    "agendado": 3,
+    "postado": 1,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 17
+    "a_agendar": 15
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -222,9 +222,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 6,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 9
   }
 };
 
@@ -249,9 +249,9 @@ const VIDEO_DATA = {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Finseg Leal": {
     "total": 4,
@@ -294,9 +294,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 2,
-    "pronto": 0,
-    "postado": 0,
+    "total": 3,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -366,10 +366,10 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Plannea": {
-    "total": 2,
-    "pronto": 1,
+    "total": 3,
+    "pronto": 3,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -1744,7 +1744,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma fusão que aproxima gerações, linguagem e experiências: Venha conhecer de perto como Hélio Rôla e Wilson Neto criam juntos um universo vibrante e cromático.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/05",
+      "date": "10/05",
       "missing": [
         "Legenda"
       ],
@@ -1755,7 +1755,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Os artistas por trás da Travessias Híbridas: Hélio Rôla e Wilson Neto",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/05",
       "missing": [],
@@ -1863,7 +1863,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A cultura também está nos pequenos detalhes: Explore os personagens imersos no interior de cada pintura da Travessias Híbridas.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "08/05",
+      "date": "11/05",
       "missing": [
         "Design",
         "Legenda"
@@ -1995,9 +1995,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Save the date atualizado",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "08/05",
+      "date": "09/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3475,7 +3475,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mães da Favela: um projeto que fortalece quem fortalece o mundo.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
       "missing": [],
@@ -3586,7 +3586,7 @@ const LINHA_VIDEO_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Aniversário do Daniel Maia",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "08/05",
       "missing": [],
@@ -3790,6 +3790,17 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://www.notion.so/V-deo-com-os-artistas-agendar-35633d8db9d280fe81c0d055c34ba4fb"
+    },
+    {
+      "title": "Vídeo-convite!",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "08/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-convite-35b33d8db9d2805e8d1eff98b8e688fc"
     }
   ],
   "Di Gregório Buffet": [
@@ -4148,17 +4159,25 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo do evento (Dia das mães)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "08/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-do-evento-Dia-das-m-es-35733d8db9d280249027fdad4b0ead50"
+    },
+    {
+      "title": "Vídeo do dia das mães",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-do-dia-das-m-es-35b33d8db9d280198db7e77e52fa6394"
     }
   ],
   "Conecta Assessoria": [
@@ -4988,7 +5007,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Algumas causas mobilizam milhões.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "07/05",
+      "date": "12/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -5233,8 +5252,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Travessias Híbridas": {
-    "prontas": 5,
-    "total": 22
+    "prontas": 6,
+    "total": 23
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -5269,8 +5288,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Plannea": {
-    "prontas": 15,
-    "total": 16
+    "prontas": 17,
+    "total": 17
   },
   "Conecta Assessoria": {
     "prontas": 21,
@@ -5347,7 +5366,7 @@ const FORMAT_COUNTS = {
     "post": 15,
     "carrossel": 5,
     "foto": 0,
-    "video": 2,
+    "video": 3,
     "story": 0
   },
   "Di Gregório Buffet": {
@@ -5410,7 +5429,7 @@ const FORMAT_COUNTS = {
     "post": 13,
     "carrossel": 1,
     "foto": 0,
-    "video": 2,
+    "video": 3,
     "story": 4
   },
   "Conecta Assessoria": {
