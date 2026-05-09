@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/05/2026, 20:41:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/05/2026, 04:23:38 **/
 
-const LAST_UPDATE = '08/05/2026, 20:41:09';
+const LAST_UPDATE = '09/05/2026, 04:23:38';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -5191,7 +5191,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
-  "Plannea": "marcada",
+  "Plannea": "realizada",
   "Ortobom": "marcada",
   "Conecta Assessoria": "marcada",
   "Planos Seguros": "marcada",
