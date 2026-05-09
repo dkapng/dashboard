@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/05/2026, 11:36:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/05/2026, 14:38:26 **/
 
-const LAST_UPDATE = '09/05/2026, 11:36:27';
+const LAST_UPDATE = '09/05/2026, 14:38:26';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -506,11 +506,12 @@ const STORIES_DATA = {
   },
   "Ortobom": {
     "total": 6,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4,
+    "st-paused": null
   },
   "APROSSEG": {
     "total": 4,
@@ -4562,12 +4563,10 @@ const LINHA_STORIES_ITEMS = {
   "Ortobom": [
     {
       "title": "Aniver Ana Paula (Norte Shopping)",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "📱 Story",
       "date": "08/05",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
