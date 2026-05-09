@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/05/2026, 07:37:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/05/2026, 11:36:27 **/
 
-const LAST_UPDATE = '09/05/2026, 07:37:14';
+const LAST_UPDATE = '09/05/2026, 11:36:27';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -126,9 +126,9 @@ const FEED_DATA = {
     "total": 20,
     "pronto": 6,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 18
+    "a_agendar": 17
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -1983,7 +1983,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Carrossel oficial",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "07/05",
       "missing": [],
