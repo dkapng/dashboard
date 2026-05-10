@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/05/2026, 19:29:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/05/2026, 04:35:21 **/
 
-const LAST_UPDATE = '09/05/2026, 19:29:14';
+const LAST_UPDATE = '10/05/2026, 04:35:21';
 
 const GESTORAS = {
   "Anna Ventana": [
@@ -59,15 +59,15 @@ const NICHES = {
 const FEED_DATA = {
   "Univendas": {
     "total": 15,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Terrartesã": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 7,
@@ -75,10 +75,10 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Daniel Maia Advocacia": {
-    "total": 6,
-    "pronto": 6,
+    "total": 7,
+    "pronto": 7,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 1,
     "a_agendar": 2
   },
@@ -92,11 +92,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 14,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Juntos contra o HPV": {
     "total": 16,
@@ -155,10 +155,10 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
-    "total": 7,
-    "pronto": 7,
+    "total": 8,
+    "pronto": 8,
     "postado": 1,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -188,19 +188,19 @@ const FEED_DATA = {
   },
   "Jota Diesel": {
     "total": 10,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Plannea": {
     "total": 14,
     "pronto": 6,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Conecta Assessoria": {
     "total": 15,
@@ -212,11 +212,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Rede Pangeia": {
     "total": 14,
@@ -369,9 +369,9 @@ const VIDEO_DATA = {
     "total": 3,
     "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 3,
@@ -738,13 +738,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dia das Mães, Para quem transforma cuidado em presença, força e amor todos os dias.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-das-M-es-Para-quem-transforma-cuidado-em-presen-a-for-a-e-amor-todos-os-dias-35733d8db9d2807b974fc9a5a7b34b88"
@@ -782,10 +780,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Celebramos-mulheres-que-ensinaram-sustentaram-e-mantiveram-vivo-um-fazer-que-carrega-identidade-cu-34533d8db9d2804ea1cdf55f65363950"
@@ -998,6 +994,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-trabalho-sustenta-direitos-e-responsabilidades-de-quem-empreende-de-quem-executa-e-de-quem-move--35233d8db9d28052b06cc1218baf8fa9"
+    },
+    {
+      "title": "Há laços que nem o Direito consegue traduzir.",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "10/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/H-la-os-que-nem-o-Direito-consegue-traduzir-35c33d8db9d280508096cd08a133335c"
     }
   ],
   "Finseg Leal": [
@@ -1367,13 +1374,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dia das Mães: reconhecer quem faz do amor uma presença constante.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-das-M-es-reconhecer-quem-faz-do-amor-uma-presen-a-constante-35a33d8db9d280b39737c3504ba9afc8"
@@ -2210,6 +2215,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Feliz-anivers-rio-Elly-35633d8db9d28087b705dff8b2227702"
+    },
+    {
+      "title": "Existem forças que mudam o mundo. Muitas delas atendem pelo nome de mãe.",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
+      "date": "17/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Existem-for-as-que-mudam-o-mundo-Muitas-delas-atendem-pelo-nome-de-m-e-35c33d8db9d280639f2ccb6ba71b44a9"
     }
   ],
   "Ortobom": [
@@ -2820,13 +2836,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Neste Dia das Mães, celebramos quem move a vida com amor, força e dedicação todos os dias.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Neste-Dia-das-M-es-celebramos-quem-move-a-vida-com-amor-for-a-e-dedica-o-todos-os-dias-35933d8db9d280aaafa5d72b903f0451"
@@ -2857,7 +2871,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Na matemática da vida, acontece algo raro: toda mãe é a melhor do mundo. Feliz dia das mães!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
       "missing": [],
@@ -3340,13 +3354,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mãe - Figura que representa amor incondicional, cuidado, proteção e dedicação constante. Pessoa que acolhe, orienta, fortalece e oferece segurança, seja por laços biológicos ou afetivos. Sinônimo de presença, força e entrega. Frequentemente descrita como alguém que “carrega o coração fora do peito”.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/M-e-Figura-que-representa-amor-incondicional-cuidado-prote-o-e-dedica-o-constante-Pessoa-que--35833d8db9d2803481e1f63eec8a72aa"
@@ -4170,7 +4182,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo do dia das mães",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "10/05",
       "missing": [],
@@ -4586,7 +4598,7 @@ const LINHA_STORIES_ITEMS = {
       "formato": "📱 Story",
       "date": "08/05",
       "missing": [],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Aniver-Ana-Paula-Norte-Shopping-1b233d8db9d280afa42bfb8da730e472"
@@ -5104,14 +5116,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Checklist-34233d8db9d280418cc7f0d749f20a4a",
       "gestora": "Equipe",
       "date": "13/04"
-    },
-    {
-      "title": "Cartão de dia das mães (whatsapp)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Cart-o-de-dia-das-m-es-whatsapp-35833d8db9d280468b0ad1cbdfb71b01",
-      "gestora": "Equipe",
-      "date": "07/05"
     }
   ],
   "Finseg Leal": [
@@ -5160,14 +5164,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Alterar-arte-para-tema-dia-das-m-es-34f33d8db9d280e9a15bd74eeef74ee9",
       "gestora": "Equipe",
       "date": "04/05"
-    },
-    {
-      "title": "Fazer post ",
-      "priority": "pp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Fazer-post-35233d8db9d2809b8af3eda050e8dc01",
-      "gestora": "Equipe",
-      "date": "06/05"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -5196,14 +5192,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Aniversariantes-35733d8db9d2801a9c75ec3205a39d65",
       "gestora": "Equipe",
       "date": "13/05"
-    },
-    {
-      "title": "Cartão de dia das mães (whatsapp)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Cart-o-de-dia-das-m-es-whatsapp-35833d8db9d280e580ded6d34b7610a8",
-      "gestora": "Equipe",
-      "date": "07/05"
     }
   ]
 };
@@ -5228,8 +5216,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Daniel Maia Advocacia": {
-    "prontas": 5,
-    "total": 7
+    "prontas": 6,
+    "total": 8
   },
   "Finseg Leal": {
     "prontas": 14,
@@ -5268,8 +5256,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 6,
-    "total": 7
+    "prontas": 7,
+    "total": 8
   },
   "Ortobom": {
     "prontas": 16,
@@ -5321,7 +5309,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Daniel Maia Advocacia": {
-    "post": 5,
+    "post": 6,
     "carrossel": 1,
     "foto": 0,
     "video": 1,
@@ -5392,7 +5380,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 7,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
