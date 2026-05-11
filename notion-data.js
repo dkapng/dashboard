@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/05/2026, 15:03:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/05/2026, 19:18:53 **/
 
-const LAST_UPDATE = '11/05/2026, 15:03:31';
+const LAST_UPDATE = '11/05/2026, 19:18:53';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -83,11 +83,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 5,
+    "pronto": 7,
     "postado": 0,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Jota Diesel": {
     "total": 10,
@@ -108,10 +108,10 @@ const FEED_DATA = {
   "Univendas": {
     "total": 15,
     "pronto": 6,
-    "postado": 2,
+    "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 10,
+    "a_agendar": 9,
     "st-paused": null
   },
   "Terrartesã": {
@@ -119,8 +119,8 @@ const FEED_DATA = {
     "pronto": 5,
     "postado": 0,
     "agendado": 2,
-    "agendado_coord": 6,
-    "a_agendar": 3,
+    "agendado_coord": 5,
+    "a_agendar": 4,
     "st-paused": null
   },
   "RR Advocacia": {
@@ -1109,10 +1109,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-projeto-j-atua-de-forma-coordenada-em-diversos-munic-pios-ampliando-o-acesso-preven-o-do-HPV-34233d8db9d28029a60bf130fc4edc3e"
@@ -1171,7 +1169,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-c-ncer-do-colo-do-tero-est-entre-os-poucos-tipos-de-c-ncer-que-podem-ser-prevenidos-com-vacina-34233d8db9d280f3b3f8ea22ce171421"
@@ -1189,13 +1187,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "80% das pessoas sexualmente ativas  terão contato com o HPV ao longo da vida — muitas vezes sem apresentar sintomas ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "11/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/80-das-pessoas-sexualmente-ativas-ter-o-contato-com-o-HPV-ao-longo-da-vida-muitas-vezes-sem-apre-34233d8db9d28044ac5bfb4c4eeea492"
@@ -1390,7 +1386,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Plano de saúde também é uma forma de planejamento financeiro.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "11/05",
       "missing": [],
@@ -1515,6 +1511,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Terrartesã": [
     {
+      "title": "O artesanato como herança viva que atravessa gerações e se transforma em renda",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-artesanato-como-heran-a-viva-que-atravessa-gera-es-e-se-transforma-em-renda-35d33d8db9d2801d8b36fb9132e03b32"
+    },
+    {
       "title": "Cada peça criada é também um passo em uma nova história.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1591,19 +1600,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-o-trabalho-se-torna-uma-oportunidade-real-de-recome-o-novas-hist-rias-podem-ser-constru-das-34533d8db9d280aeaf89c5e67c20d3ca"
-    },
-    {
-      "title": "O artesanato como herança viva que atravessa gerações e se transforma em renda",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-artesanato-como-heran-a-viva-que-atravessa-gera-es-e-se-transforma-em-renda-34533d8db9d280f1a4aee68999014851"
     },
     {
       "title": "Celebramos mulheres que ensinaram, sustentaram e mantiveram vivo um fazer que carrega identidade, cultura e sustento. Feliz dia das mães!",
@@ -3504,7 +3500,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Onde você trabalha influencia mais do que você imagina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "11/05",
+      "date": "12/05",
       "missing": [
         "Design"
       ],
