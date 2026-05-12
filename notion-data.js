@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/05/2026, 19:18:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/05/2026, 05:12:57 **/
 
-const LAST_UPDATE = '11/05/2026, 19:18:53';
+const LAST_UPDATE = '12/05/2026, 05:12:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -83,7 +83,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 7,
+    "pronto": 9,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 0,
@@ -165,7 +165,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 7,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -213,7 +213,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 15,
-    "pronto": 7,
+    "pronto": 9,
     "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
@@ -420,7 +420,7 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 5,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -468,7 +468,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -557,7 +557,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 6,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1018,10 +1018,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Liberdade-para-ser-quem-voc-Dia-internacional-contra-homofobia-35033d8db9d28007973bd6478ea14f20"
@@ -1166,10 +1164,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-c-ncer-do-colo-do-tero-est-entre-os-poucos-tipos-de-c-ncer-que-podem-ser-prevenidos-com-vacina-34233d8db9d280f3b3f8ea22ce171421"
@@ -2554,10 +2550,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Hoje-dia-de-reconhecer-quem-est-na-linha-de-frente-todos-os-dias-fazendo-a-diferen-a-com-dedica--35033d8db9d28059aeeed1276a184fef"
@@ -2567,10 +2561,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Respeito-n-o-opini-o-um-princ-pio-Dia-internacional-contra-homofobia-35033d8db9d280c1b482f3755b61d998"
@@ -2580,10 +2572,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Qualidade-o-que-sustenta-cada-resultado-Conhe-a-os-padr-es-que-fazem-a-ItalaP-ser-refer-ncia-na--33333d8db9d280a4a01fe2c5d5575fce"
@@ -3303,10 +3293,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-o-cliente-reconhece-a-gente-sabe-que-est-no-caminho-certo-35133d8db9d280dc952bf03efcfca9e0"
@@ -3349,10 +3337,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Sabia-que-existe-um-hospital-brasileiro-entre-os-melhores-do-mundo-Conhe-a-o-Einstein-e-as-tecnolog-32033d8db9d2805bb45dd1326ceec363"
@@ -4247,10 +4233,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-existe-estrutura-o-financeiro-flui-35233d8db9d2802996d5fce83a737a21"
@@ -4468,10 +4452,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-risco-jur-dico-n-o-faz-barulho-ele-se-acumula-35633d8db9d2805da5a1cfb673380605"
@@ -4627,7 +4609,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Pausado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Na-pr-tica-o-que-voc-acompanha-mais-hoje-na-sua-empresa-35733d8db9d280ef9849ccb7480753f1"
@@ -4894,10 +4876,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/ConectaInforma-35233d8db9d2809f9046d2851c5bebca"
