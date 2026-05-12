@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/05/2026, 05:12:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/05/2026, 13:37:30 **/
 
-const LAST_UPDATE = '12/05/2026, 05:12:57';
+const LAST_UPDATE = '12/05/2026, 13:37:30';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -85,9 +85,9 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 9,
     "postado": 0,
-    "agendado": 6,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 7
   },
   "Jota Diesel": {
     "total": 10,
@@ -166,10 +166,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 13,
     "pronto": 7,
-    "postado": 1,
-    "agendado": 3,
+    "postado": 2,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Grupo Mulheres do Brasil": {
     "total": 10,
@@ -215,9 +215,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 9,
     "postado": 2,
-    "agendado": 5,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 6
   },
   "Solar Coworking": {
     "total": 14,
@@ -339,9 +339,9 @@ const VIDEO_DATA = {
     "total": 7,
     "pronto": 7,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -421,10 +421,10 @@ const STORIES_DATA = {
   "Stratto": {
     "total": 5,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -469,10 +469,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 4,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 4,
@@ -558,10 +558,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 6,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 4,
@@ -1015,7 +1015,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Liberdade para ser quem você é! - Dia internacional contra homofobia",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/05",
       "missing": [],
@@ -1104,7 +1104,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O projeto já atua de forma coordenada em diversos municípios, ampliando o acesso à prevenção do HPV",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/05",
       "missing": [],
@@ -1161,7 +1161,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O câncer do colo do útero está entre os poucos tipos de câncer que podem ser prevenidos com vacina",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/05",
       "missing": [],
@@ -2547,7 +2547,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Hoje é dia de reconhecer quem está na linha de frente todos os dias, fazendo a diferença com dedicação e sensibilidade - Dia do enfermeiro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/05",
       "missing": [],
@@ -2569,7 +2569,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Qualidade é o que sustenta cada resultado - Conheça os padrões que fazem a ItalaP ser referência na região",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "15/05",
       "missing": [],
@@ -3290,7 +3290,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando o cliente reconhece, a gente sabe que está no caminho certo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/05",
       "missing": [],
@@ -3334,7 +3334,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sabia que existe um hospital brasileiro entre os melhores do mundo? Conheça o Einstein e as tecnologias que fazem dele referência internacional.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/05",
       "missing": [],
@@ -4025,7 +4025,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Infarto - mulher",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "14/05",
       "missing": [],
@@ -4182,6 +4182,19 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Conecta Assessoria": [
     {
+      "title": "Dia continental do seguro",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/05",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://www.notion.so/Dia-continental-do-seguro-35e33d8db9d2805c93d1d78f929db212"
+    },
+    {
       "title": "roteiro 02: Benefícios corporativos",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -4206,19 +4219,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://www.notion.so/roteiro-01-Sua-empresa-est-pronta-para-a-NR1-35233d8db9d280839102dc8549f679ad"
-    },
-    {
-      "title": "roteiro 05: Dia continental do seguro",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/05",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/roteiro-05-Dia-continental-do-seguro-35133d8db9d2802b8e68f9fcaf7a8db3"
     }
   ],
   "Solar Coworking": []
@@ -4230,7 +4230,7 @@ const LINHA_STORIES_ITEMS = {
   "Stratto": [
     {
       "title": "Quando existe estrutura, o financeiro flui.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "12/05",
       "missing": [],
@@ -4449,7 +4449,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "O risco jurídico não faz barulho, ele se acumula.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "12/05",
       "missing": [],
@@ -4873,7 +4873,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#ConectaInforma",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "12/05",
       "missing": [],
@@ -4947,6 +4947,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ser Ponte": [
+    {
+      "title": "Tag e cartão de contato",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Tag-e-cart-o-de-contato-35e33d8db9d2807dabbbefda113d9744",
+      "gestora": "Equipe",
+      "date": "12T12:00:00.000/05"
+    },
+    {
+      "title": "Apresentação do pitch",
+      "priority": "ppp",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
+      "gestora": "Equipe",
+      "date": "12/05"
+    },
+    {
+      "title": "Narração para vídeo institucional",
+      "priority": "ppp",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
+      "gestora": "Equipe",
+      "date": "08/05"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Roleta para carreta",
@@ -5003,24 +5029,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
       "gestora": "Equipe",
       "date": "07/05"
-    }
-  ],
-  "Ser Ponte": [
-    {
-      "title": "Apresentação do pitch",
-      "priority": "ppp",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
-      "gestora": "Equipe",
-      "date": "12/05"
-    },
-    {
-      "title": "Narração para vídeo institucional",
-      "priority": "ppp",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
-      "gestora": "Equipe",
-      "date": "08/05"
     }
   ],
   "Ventana": [
@@ -5098,6 +5106,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "APROSSEG": "marcada",
   "Juntos contra o HPV": "marcada",
   "Planos Seguros": "marcada",
   "Ortobom": "marcada",
@@ -5432,7 +5441,7 @@ const AGENDA_COUNTS = {
   },
   "APROSSEG": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Daniel Maia Advocacia": {
