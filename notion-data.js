@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/05/2026, 05:21:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/05/2026, 13:41:12 **/
 
-const LAST_UPDATE = '13/05/2026, 05:21:35';
+const LAST_UPDATE = '13/05/2026, 13:41:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -58,12 +58,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 20,
+    "total": 21,
     "pronto": 7,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 15
+    "a_agendar": 16
   },
   "Ser Ponte": {
     "total": 0,
@@ -91,11 +91,11 @@ const FEED_DATA = {
   },
   "Jota Diesel": {
     "total": 10,
-    "pronto": 4,
-    "postado": 2,
+    "pronto": 5,
+    "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Ventana": {
     "total": 0,
@@ -126,10 +126,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 10,
     "pronto": 6,
-    "postado": 2,
+    "postado": 3,
     "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Rede Pangeia": {
     "total": 14,
@@ -183,9 +183,9 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 8,
     "postado": 1,
-    "agendado": 5,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 8
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -212,12 +212,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Conecta Assessoria": {
-    "total": 15,
+    "total": 16,
     "pronto": 9,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 7
   },
   "Solar Coworking": {
     "total": 14,
@@ -384,12 +384,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 3,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 0,
@@ -526,10 +526,10 @@ const STORIES_DATA = {
   "Finseg Leal": {
     "total": 4,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -575,6 +575,20 @@ const STORIES_DATA = {
 
 const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
+    {
+      "title": "Saiu na Mídia",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Saiu-na-M-dia-35f33d8db9d2808aa890ca103fc7e7b2"
+    },
     {
       "title": "Save the date atualizado",
       "status": "agendado",
@@ -1200,13 +1214,11 @@ const LINHA_FEED_ITEMS = {
   "Jota Diesel": [
     {
       "title": "No Dia do Automóvel, celebramos quem move trabalho, pessoas e resultados.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/No-Dia-do-Autom-vel-celebramos-quem-move-trabalho-pessoas-e-resultados-35d33d8db9d2808faf23fa04aad024e2"
@@ -1744,7 +1756,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O erro jurídico que quase ninguém percebe até virar processo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "13/05",
       "missing": [],
@@ -2707,7 +2719,7 @@ const LINHA_FEED_ITEMS = {
   "Finseg Leal": [
     {
       "title": "O seguro é o plano que você faz torcendo para nunca usar, mas agradecendo por ter quando precisa.  14/05 - Dia Continental do Seguro",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/05",
       "missing": [],
@@ -2794,7 +2806,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que o seguro viagem é obrigatório em mais de 30 países? Não é apenas uma recomendação, é uma regra de entrada. Entenda o porquê.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "15/05",
       "missing": [],
@@ -3134,6 +3146,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "Seguro é sobre seguir com mais tranquilidade - Dia Continental do Seguro,",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Seguro-sobre-seguir-com-mais-tranquilidade-Dia-Continental-do-Seguro-35f33d8db9d2809a874bf650a8b45211"
+    },
     {
       "title": "Cuidado que vem de casa e leva pra vida inteira - Feliz dia das mães",
       "status": "agendado",
@@ -4173,19 +4198,6 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "Dia continental do seguro",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/05",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 2. A editar",
-      "notionUrl": "https://www.notion.so/Dia-continental-do-seguro-35e33d8db9d2805c93d1d78f929db212"
-    },
-    {
       "title": "roteiro 02: Benefícios corporativos",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -4745,7 +4757,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Dia do automóvel",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "13/05",
       "missing": [],
@@ -4934,6 +4946,34 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Travessias Híbridas": [
+    {
+      "title": "Convite para enviar via WhatsApp",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Convite-para-enviar-via-WhatsApp-35f33d8db9d280248c94f126fb6c2d8c",
+      "gestora": "Equipe",
+      "date": "13/05"
+    },
+    {
+      "title": "E-mail marketing com convite",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/E-mail-marketing-com-convite-35e33d8db9d280168376e7ee7065521b",
+      "gestora": "Equipe",
+      "date": "12/05"
+    }
+  ],
+  "Rede Pangeia": [
+    {
+      "title": "Quadro da Annette",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Quadro-da-Annette-35f33d8db9d280ac964ee3e79a058450",
+      "gestora": "Equipe",
+      "date": "15T10:00:00.000/05"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Ação da carreta - video",
@@ -4950,42 +4990,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Roleta-para-carreta-35d33d8db9d2807bb391ca993f5c2d1f",
       "gestora": "Equipe",
       "date": "14/05"
-    }
-  ],
-  "Travessias Híbridas": [
-    {
-      "title": "E-mail marketing com convite",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/E-mail-marketing-com-convite-35e33d8db9d280168376e7ee7065521b",
-      "gestora": "Equipe",
-      "date": "12/05"
-    }
-  ],
-  "Ser Ponte": [
-    {
-      "title": "Tag e cartão de contato",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Tag-e-cart-o-de-contato-35e33d8db9d2807dabbbefda113d9744",
-      "gestora": "Equipe",
-      "date": "12T12:00:00.000/05"
-    },
-    {
-      "title": "Apresentação do pitch",
-      "priority": "ppp",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
-      "gestora": "Equipe",
-      "date": "12/05"
-    },
-    {
-      "title": "Narração para vídeo institucional",
-      "priority": "ppp",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
-      "gestora": "Equipe",
-      "date": "08/05"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -5034,6 +5038,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
       "gestora": "Equipe",
       "date": "07/05"
+    }
+  ],
+  "Ser Ponte": [
+    {
+      "title": "Apresentação do pitch",
+      "priority": "ppp",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
+      "gestora": "Equipe",
+      "date": "12/05"
+    },
+    {
+      "title": "Narração para vídeo institucional",
+      "priority": "ppp",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
+      "gestora": "Equipe",
+      "date": "08/05"
     }
   ],
   "Ventana": [
@@ -5111,6 +5133,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Finseg Leal": "marcada",
   "APROSSEG": "marcada",
   "Juntos contra o HPV": "marcada",
   "Planos Seguros": "marcada",
@@ -5124,7 +5147,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
     "prontas": 6,
-    "total": 23
+    "total": 24
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -5210,7 +5233,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 15,
+    "post": 16,
     "carrossel": 5,
     "foto": 0,
     "video": 3,
@@ -5343,10 +5366,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Conecta Assessoria": {
-    "post": 12,
+    "post": 13,
     "carrossel": 2,
     "foto": 1,
-    "video": 3,
+    "video": 2,
     "story": 6
   },
   "Solar Coworking": {
@@ -5436,7 +5459,7 @@ const AGENDA_COUNTS = {
   },
   "Finseg Leal": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Di Gregório Buffet": {
