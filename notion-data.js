@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/05/2026, 13:37:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/05/2026, 05:21:35 **/
 
-const LAST_UPDATE = '12/05/2026, 13:37:30';
+const LAST_UPDATE = '13/05/2026, 05:21:35';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -116,7 +116,7 @@ const FEED_DATA = {
   },
   "Terrartesã": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 5,
@@ -125,7 +125,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 10,
-    "pronto": 4,
+    "pronto": 6,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 1,
@@ -133,7 +133,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 14,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 1,
@@ -141,15 +141,15 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 13,
-    "pronto": 4,
-    "postado": 2,
+    "pronto": 5,
+    "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Plannea": {
     "total": 14,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -181,7 +181,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 16,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 1,
     "agendado": 5,
     "agendado_coord": 0,
@@ -196,12 +196,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 13,
-    "pronto": 4,
-    "postado": 2,
+    "total": 12,
+    "pronto": 5,
+    "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Daniel Maia Advocacia": {
     "total": 7,
@@ -221,11 +221,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 14,
-    "pronto": 5,
-    "postado": 1,
+    "pronto": 6,
+    "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 9,
+    "a_agendar": 8,
     "st-paused": null
   }
 };
@@ -256,12 +256,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 5,
+    "total": 6,
     "pronto": 3,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 4,
@@ -368,10 +368,10 @@ const VIDEO_DATA = {
     "a_agendar": 2
   },
   "APROSSEG": {
-    "total": 3,
-    "pronto": 3,
+    "total": 4,
+    "pronto": 4,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 2
   },
@@ -492,7 +492,7 @@ const STORIES_DATA = {
   },
   "Plannea": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -525,7 +525,7 @@ const STORIES_DATA = {
   },
   "Finseg Leal": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1003,6 +1003,62 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Hoje é dia de mobilização em São Luís do Curu ✔ vacinação HPV\n✔ exames preventivos ✔ carreta de prevenção ✔ atividades educativas ✔ atendimento à população",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Hoje-dia-de-mobiliza-o-em-S-o-Lu-s-do-Curu-vacina-o-HPV-exames-preventivos-carreta-de-prev-35e33d8db9d2804c8b1bd13d30301744"
+    },
+    {
+      "title": "A prevenção começa com informação e acesso!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-preven-o-come-a-com-informa-o-e-acesso-35e33d8db9d280c28a99e9cdd28d0056"
+    },
+    {
+      "title": "Confira tudo o que vai acontecer no dia 22 de maio em São Luís do Curu. Leia a legenda.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Confira-tudo-o-que-vai-acontecer-no-dia-22-de-maio-em-S-o-Lu-s-do-Curu-Leia-a-legenda-35e33d8db9d28085a954e550730b6dd9"
+    },
+    {
+      "title": "São Luís do Curu vai receber uma grande mobilização de saúde e prevenção!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/S-o-Lu-s-do-Curu-vai-receber-uma-grande-mobiliza-o-de-sa-de-e-preven-o-35e33d8db9d2803b9bddc3fbe6d2499c"
+    },
+    {
       "title": "Inchaço abdominal, dor pélvica e saciedade rápida podem ser sinais de câncer de ovário - Dia mundial do câncer de ovário",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -1025,7 +1081,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Liberdade-para-ser-quem-voc-Dia-internacional-contra-homofobia-35033d8db9d28007973bd6478ea14f20"
     },
     {
-      "title": "Se já tomei a vacina, ainda posso ter HPV?",
+      "title": "No Brasil, cerca de 17 mil mulheres são diagnosticadas por ano — muitas ainda em estágios avançados",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
@@ -1035,65 +1091,13 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Se-j-tomei-a-vacina-ainda-posso-ter-HPV-34233d8db9d280838b88fb0f5f149de3"
-    },
-    {
-      "title": "Prevenir hoje pode evitar tratamentos agressivos no futuro",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Prevenir-hoje-pode-evitar-tratamentos-agressivos-no-futuro-34233d8db9d280d38677fabe6243edd5"
-    },
-    {
-      "title": "No Brasil, cerca de 17 mil mulheres são diagnosticadas por ano — muitas ainda em estágios avançados",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/No-Brasil-cerca-de-17-mil-mulheres-s-o-diagnosticadas-por-ano-muitas-ainda-em-est-gios-avan-ados-34233d8db9d280e2b937cc926c1e139b"
-    },
-    {
-      "title": "Muita gente não sabe, mas o SUS oferece tudo isso para prevenção e cuidado: \n💉 Vacinação 🧪 Exames preventivos🏥 Acompanhamento em saúde - Tudo de forma gratuita e acessível",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Muita-gente-n-o-sabe-mas-o-SUS-oferece-tudo-isso-para-preven-o-e-cuidado-Vacina-o-Exames--34233d8db9d280b5817ac09d978feb2d"
-    },
-    {
-      "title": "O rastreamento regular pode evitar o câncer do colo do útero",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-rastreamento-regular-pode-evitar-o-c-ncer-do-colo-do-tero-34233d8db9d2806a98f2fa880acc6eb4"
     },
     {
       "title": "✔ Dados ✔ Educação ✔ Multiplicadores ✔ Mobilização✔ Vacinação - Um modelo completo de prevenção que já está transformando territórios",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/05",
+      "date": "27/05",
       "missing": [
         "Design"
       ],
@@ -1128,7 +1132,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A prevenção do HPV tem potencial para reduzir o câncer do colo do útero nas próximas décadas",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/05",
+      "date": "28/05",
       "missing": [
         "Design"
       ],
@@ -1195,18 +1199,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Jota Diesel": [
     {
-      "title": "Post de data sazonal",
+      "title": "No Dia do Automóvel, celebramos quem move trabalho, pessoas e resultados.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Post-de-data-sazonal-35d33d8db9d2808faf23fa04aad024e2"
+      "notionUrl": "https://www.notion.so/No-Dia-do-Autom-vel-celebramos-quem-move-trabalho-pessoas-e-resultados-35d33d8db9d2808faf23fa04aad024e2"
     },
     {
       "title": "Neste Dia das Mães, celebramos quem move a vida com amor, força e dedicação todos os dias.",
@@ -1511,10 +1514,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-artesanato-como-heran-a-viva-que-atravessa-gera-es-e-se-transforma-em-renda-35d33d8db9d2801d8b36fb9132e03b32"
@@ -1705,14 +1706,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Ambiente-de-trabalho-tamb-m-quest-o-jur-dica-35633d8db9d2804e9a2bd0b7990c415d"
     },
     {
-      "title": "Contrato genérico não protege negócios reais",
+      "title": "Contrato genérico não protege negócios reais.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Contrato-gen-rico-n-o-protege-neg-cios-reais-35633d8db9d28041a93bf83cfdde74ab"
@@ -1748,10 +1747,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-erro-jur-dico-que-quase-ningu-m-percebe-at-virar-processo-35633d8db9d280c1898ae2f7e0463472"
@@ -1859,10 +1856,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Pangeia-Um-nome-que-nasce-da-uni-o-Da-ideia-de-que-o-que-est-separado-pode-se-conectar-35033d8db9d280df8937eb77ba3b8fb8"
@@ -1885,10 +1880,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/N-o-sobre-pedir-apoio-sobre-construir-valor-social-35033d8db9d28082be3ad02452d851c5"
@@ -2015,13 +2008,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando o benefício não acompanha a realidade da empresa, o impacto aparece na retenção, no clima e na produtividade.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-o-benef-cio-n-o-acompanha-a-realidade-da-empresa-o-impacto-aparece-na-reten-o-no-clima-e-n-35233d8db9d2803ba393de76281a9c27"
@@ -2220,10 +2211,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-sua-empresa-deixou-passar-nos-ltimos-anos-a-Plannea-recupera-Recupera-oDeCr-ditoTribut-rio-35733d8db9d2807ead6dcc4526d007f6"
@@ -2231,12 +2220,10 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Regularizar não é só corrigir. É destravar o crescimento",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Regularizar-n-o-s-corrigir-destravar-o-crescimento-35733d8db9d280109958ce70904d7682"
@@ -2723,10 +2710,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-seguro-o-plano-que-voc-faz-torcendo-para-nunca-usar-mas-agradecendo-por-ter-quando-precisa-1-35233d8db9d280968946dbf6f44b2b6f"
@@ -2812,10 +2797,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Por-que-o-seguro-viagem-obrigat-rio-em-mais-de-30-pa-ses-N-o-apenas-uma-recomenda-o-uma-reg-34b33d8db9d2802bb9c1db9d1adf51f5"
@@ -2960,19 +2943,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Se-voc-n-o-revisou-seu-seguro-esse-ano-voc-est-desatualizado-34b33d8db9d2808eabe1dab15769f881"
     },
     {
-      "title": "Proteja seu elétrico hoje e rode com zero preocupação. Cotação rápida, sem burocracia e com coberturas exclusivas para baterias e cabos.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Proteja-seu-el-trico-hoje-e-rode-com-zero-preocupa-o-Cota-o-r-pida-sem-burocracia-e-com-cobertur-34b33d8db9d28039a517ff77685be7ef"
-    },
-    {
       "title": "3 coisas que não podem faltar na proteção do seu carro elétrico. H2: Carro elétrico não é igual ao tradicional. E a proteção também não pode ser.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
@@ -3013,13 +2983,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que a bateria do seu elétrico precisa de uma proteção específica?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Por-que-a-bateria-do-seu-el-trico-precisa-de-uma-prote-o-espec-fica-34b33d8db9d280b8a264d0baa17aa7af"
@@ -3484,13 +3452,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Onde você trabalha influencia mais do que você imagina.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Onde-voc-trabalha-influencia-mais-do-que-voc-imagina-34b33d8db9d280a88943dd8e9046d745"
@@ -3613,10 +3579,10 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Vídeo",
+      "title": "ação do dia 22",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "26/05",
+      "date": "21/05",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3624,13 +3590,27 @@ const LINHA_VIDEO_ITEMS = {
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-35733d8db9d280bb9609fa79814d8d13"
+      "notionUrl": "https://www.notion.so/a-o-do-dia-22-35e33d8db9d280e9b8a3e8ed967b3fdd"
+    },
+    {
+      "title": "Video de convite",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "19/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/Video-de-convite-35e33d8db9d28034b0b6d291bb776235"
     },
     {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "19/05",
+      "date": "26/05",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4157,7 +4137,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Seguro pelo preço?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "21/05",
+      "date": "20/05",
       "missing": [
         "Legenda"
       ],
@@ -4165,6 +4145,17 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Seguro-pelo-pre-o-35233d8db9d2802b8e4ae1ccba67de6c"
+    },
+    {
+      "title": "dia do automóvel ",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "13/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/dia-do-autom-vel-35033d8db9d280f1853dc03c863590f5"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -4606,10 +4597,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "12/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Pausado",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Na-pr-tica-o-que-voc-acompanha-mais-hoje-na-sua-empresa-35733d8db9d280ef9849ccb7480753f1"
@@ -4759,10 +4748,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-do-autom-vel-35033d8db9d2808ba104c4bc0999577e"
@@ -4947,6 +4934,34 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "Ação da carreta - video",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/A-o-da-carreta-video-35e33d8db9d2806a8384fda8081ed22b",
+      "gestora": "Equipe",
+      "date": "15/05"
+    },
+    {
+      "title": "Roleta para carreta",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Roleta-para-carreta-35d33d8db9d2807bb391ca993f5c2d1f",
+      "gestora": "Equipe",
+      "date": "14/05"
+    }
+  ],
+  "Travessias Híbridas": [
+    {
+      "title": "E-mail marketing com convite",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/E-mail-marketing-com-convite-35e33d8db9d280168376e7ee7065521b",
+      "gestora": "Equipe",
+      "date": "12/05"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Tag e cartão de contato",
@@ -4971,16 +4986,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
       "gestora": "Equipe",
       "date": "08/05"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Roleta para carreta",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Roleta-para-carreta-35d33d8db9d2807bb391ca993f5c2d1f",
-      "gestora": "Equipe",
-      "date": "14/05"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -5130,11 +5135,11 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Juntos contra o HPV": {
-    "prontas": 19,
-    "total": 21
+    "prontas": 15,
+    "total": 23
   },
   "Jota Diesel": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 14
   },
   "Ventana": {
@@ -5226,10 +5231,10 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Juntos contra o HPV": {
-    "post": 15,
-    "carrossel": 1,
+    "post": 16,
+    "carrossel": 0,
     "foto": 0,
-    "video": 5,
+    "video": 6,
     "story": 0
   },
   "Jota Diesel": {
@@ -5282,8 +5287,8 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Plannea": {
-    "post": 13,
-    "carrossel": 1,
+    "post": 12,
+    "carrossel": 2,
     "foto": 0,
     "video": 3,
     "story": 4
@@ -5324,10 +5329,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 12,
+    "post": 11,
     "carrossel": 1,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 3
   },
   "Daniel Maia Advocacia": {
@@ -5357,12 +5362,12 @@ const AGENDA_COUNTS = {
   "Travessias Híbridas": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
+    "evento": 1
   },
   "Ser Ponte": {
     "reuniao": 1,
     "producao": 0,
-    "evento": 0
+    "evento": 1
   },
   "Stratto": {
     "reuniao": 0,
@@ -5372,7 +5377,7 @@ const AGENDA_COUNTS = {
   "Juntos contra o HPV": {
     "reuniao": 2,
     "producao": 1,
-    "evento": 0
+    "evento": 1
   },
   "Jota Diesel": {
     "reuniao": 0,
@@ -5447,7 +5452,7 @@ const AGENDA_COUNTS = {
   "Daniel Maia Advocacia": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
+    "evento": 1
   },
   "Conecta Assessoria": {
     "reuniao": 0,
