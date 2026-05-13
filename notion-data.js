@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/05/2026, 13:41:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/05/2026, 18:56:36 **/
 
-const LAST_UPDATE = '13/05/2026, 13:41:12';
+const LAST_UPDATE = '13/05/2026, 18:56:36';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -59,11 +59,11 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 21,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 16
+    "a_agendar": 14
   },
   "Ser Ponte": {
     "total": 0,
@@ -75,7 +75,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 7,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -107,11 +107,11 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 15,
-    "pronto": 6,
-    "postado": 3,
+    "pronto": 7,
+    "postado": 4,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 9,
+    "a_agendar": 8,
     "st-paused": null
   },
   "Terrartesã": {
@@ -135,13 +135,13 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 8,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Planos Seguros": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
@@ -151,17 +151,17 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 8,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Ortobom": {
     "total": 12,
-    "pronto": 5,
-    "postado": 2,
+    "pronto": 6,
+    "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "ItalaP": {
     "total": 13,
@@ -175,17 +175,18 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 10,
     "postado": 2,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Finseg Leal": {
     "total": 16,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7,
+    "st-paused": null
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -197,7 +198,7 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 12,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
@@ -207,9 +208,9 @@ const FEED_DATA = {
     "total": 7,
     "pronto": 7,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 16,
@@ -403,12 +404,12 @@ const VIDEO_DATA = {
 
 const STORIES_DATA = {
   "Travessias Híbridas": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ser Ponte": {
     "total": 0,
@@ -476,7 +477,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -577,15 +578,12 @@ const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
       "title": "Saiu na Mídia",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
       "date": "13/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Saiu-na-M-dia-35f33d8db9d2808aa890ca103fc7e7b2"
     },
@@ -668,7 +666,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Mergulhe em um mar de cores. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/05",
+      "date": "15/05",
       "missing": [
         "Design",
         "Legenda"
@@ -738,7 +736,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você não vai deixar ele no vácuo, vai? Visite a Travessias Híbridas, retribua o “olá” e aprecie diversas outras pinturas que unem a visão dos artistas Hélio Rôla e Wilson Neto. De 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "11/05",
+      "date": "14/05",
       "missing": [
         "Legenda"
       ],
@@ -751,7 +749,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A cultura também está nos pequenos detalhes: Explore os personagens imersos no interior de cada pintura da Travessias Híbridas.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/05",
+      "date": "18/05",
       "missing": [
         "Design",
         "Legenda"
@@ -812,7 +810,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-consegue-encontrar-estes-objetos-na-pintura-35233d8db9d280b5add9f2bdd1b6e3a6"
@@ -830,14 +828,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma fusão que aproxima gerações, linguagem e experiências: Venha conhecer de perto como Hélio Rôla e Wilson Neto criam juntos um universo vibrante e cromático.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "10/05",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "13/05",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Uma-fus-o-que-aproxima-gera-es-linguagem-e-experi-ncias-Venha-conhecer-de-perto-como-H-lio-R-la-e-35233d8db9d2800d893ac58f0ba42997"
     },
@@ -899,10 +895,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Terceirizar-o-financeiro-custa-menos-do-que-uma-contrata-o-errada-Vamos-fazer-as-contas-35033d8db9d2806c8557fd7fd8db9928"
@@ -984,10 +978,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-custo-invis-vel-de-um-empres-rio-que-gasta-10h-por-semana-pagando-boletos-35033d8db9d280f5a455c772af47d4fc"
@@ -1421,13 +1413,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Um plano bem estruturado oferece mais tranquilidade para você e sua família.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Um-plano-bem-estruturado-oferece-mais-tranquilidade-para-voc-e-sua-fam-lia-32533d8db9d2801dac37e151a7dee4d1"
@@ -1867,7 +1857,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Pangeia. Um nome que nasce da união. Da ideia de que o que está separado… pode se conectar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "13/05",
+      "date": "14/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1913,9 +1903,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O terceiro setor está preparado para a nova era do investimento social privado?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "11/05",
+      "date": "13/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2097,10 +2087,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-sabia-que-o-Dia-Continental-do-Seguro-nasceu-de-uma-reuni-o-hist-rica-35233d8db9d28004a310dea59afc1fcd"
@@ -2131,9 +2119,9 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Faturamento não é lucro e essa diferença muda tudo!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "11/05",
+      "date": "13/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2409,13 +2397,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "HYBRID  Tem dias que você quer maciez.Tem dias que precisa de firmeza. O colchão que se adapta a você ,não o contrário.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "13/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/HYBRID-Tem-dias-que-voc-quer-maciez-Tem-dias-que-precisa-de-firmeza-O-colch-o-que-se-adapta-a-voc-35033d8db9d2805da475f04f25355e35"
@@ -2605,9 +2591,9 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Saiu na mídia",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "11/05",
+      "date": "13/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2872,13 +2858,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Feliz Aniversário, Marina",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "17/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -3053,10 +3036,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-continental-do-Seguro-proteger-hoje-garantir-o-amanh-17733d8db9d28060bf10f3d11e14f627"
@@ -3098,14 +3079,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sócio não é família. Por que o contrato social precisa prever o fim da sociedade.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/S-cio-n-o-fam-lia-Por-que-o-contrato-social-precisa-prever-o-fim-da-sociedade-33a33d8db9d2805abcd6e6c827956bcd"
     },
@@ -3147,7 +3126,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "Seguro é sobre seguir com mais tranquilidade - Dia Continental do Seguro,",
+      "title": "Seguro é sobre seguir com mais tranquilidade - Dia Continental do Seguro",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/05",
@@ -3416,7 +3395,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Antes de buscar mais resultados, vale olhar para a estrutura que sustenta o que você já tem.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/05",
+      "date": "14/05",
       "missing": [
         "Design"
       ],
@@ -4228,7 +4207,19 @@ const LINHA_VIDEO_ITEMS = {
 };
 
 const LINHA_STORIES_ITEMS = {
-  "Travessias Híbridas": [],
+  "Travessias Híbridas": [
+    {
+      "title": "Parabéns, Jorge Silvestre e Diego Gregório.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "13/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Parab-ns-Jorge-Silvestre-e-Diego-Greg-rio-35f33d8db9d2801e9cfee3d01d68b84b"
+    }
+  ],
   "Ser Ponte": [],
   "Stratto": [
     {
@@ -4505,10 +4496,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/J-assistiu-O-Menino-que-Descobriu-o-Vento-35133d8db9d2805fa771c21f2fd38e64"
@@ -4517,7 +4506,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Algumas causas mobilizam milhões.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "12/05",
+      "date": "13/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -5146,7 +5135,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 6,
+    "prontas": 8,
     "total": 24
   },
   "Ser Ponte": {
@@ -5206,7 +5195,7 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Finseg Leal": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 20
   },
   "Di Gregório Buffet": {
@@ -5218,7 +5207,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Daniel Maia Advocacia": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 8
   },
   "Conecta Assessoria": {
@@ -5233,11 +5222,11 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 16,
-    "carrossel": 5,
+    "post": 15,
+    "carrossel": 6,
     "foto": 0,
     "video": 3,
-    "story": 0
+    "story": 1
   },
   "Ser Ponte": {
     "post": 0,
@@ -5433,7 +5422,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Planos Seguros": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
