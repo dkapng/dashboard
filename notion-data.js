@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/05/2026, 13:21:40 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/05/2026, 17:59:38 **/
 
-const LAST_UPDATE = '14/05/2026, 13:21:40';
+const LAST_UPDATE = '14/05/2026, 17:59:38';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -67,7 +67,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 8,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -413,7 +413,7 @@ const STORIES_DATA = {
   },
   "Ser Ponte": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -853,7 +853,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Chegou-o-novo-relat-rio-anual-da-Ser-Ponte-Acompanhe-as-principais-a-es-realizadas-em-2025-36033d8db9d28096a58bc8b9d8799519"
@@ -863,10 +863,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-Ser-Ponte-est-procurando-pessoas-que-queiram-construir-impacto-com-a-gente-Chamada-p-blica-para--36033d8db9d280cbaf78d2ee316ac9f6"
@@ -4330,10 +4328,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-Ser-Ponte-est-com-chamada-aberta-para-voluntariado-36033d8db9d280f2960ed6b74455f686"
@@ -5151,7 +5147,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Chamada pública - Voluntariado",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Chamada-p-blica-Voluntariado-36033d8db9d280b3b615d6b7c63e1b82",
       "gestora": "Equipe",
       "date": "14T15:00:00.000/05"
@@ -5213,7 +5209,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Roleta para carreta",
       "priority": "pp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Roleta-para-carreta-35d33d8db9d2807bb391ca993f5c2d1f",
       "gestora": "Equipe",
       "date": "14/05"
