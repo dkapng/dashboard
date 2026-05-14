@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/05/2026, 05:09:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/05/2026, 13:21:40 **/
 
-const LAST_UPDATE = '14/05/2026, 05:09:57';
+const LAST_UPDATE = '14/05/2026, 13:21:40';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -61,9 +61,9 @@ const FEED_DATA = {
     "total": 21,
     "pronto": 11,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Ser Ponte": {
     "total": 8,
@@ -215,10 +215,10 @@ const FEED_DATA = {
   "Conecta Assessoria": {
     "total": 16,
     "pronto": 10,
-    "postado": 2,
+    "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Solar Coworking": {
     "total": 14,
@@ -257,9 +257,9 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 6,
-    "pronto": 3,
-    "postado": 0,
+    "total": 7,
+    "pronto": 4,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 3
@@ -291,10 +291,10 @@ const VIDEO_DATA = {
   "Terrartesã": {
     "total": 4,
     "pronto": 3,
-    "postado": 0,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "RR Advocacia": {
     "total": 7,
@@ -664,7 +664,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Mergulhe em um mar de cores. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/05",
+      "date": "18/05",
       "missing": [
         "Design",
         "Legenda"
@@ -732,14 +732,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você não vai deixar ele no vácuo, vai? Visite a Travessias Híbridas, retribua o “olá” e aprecie diversas outras pinturas que unem a visão dos artistas Hélio Rôla e Wilson Neto. De 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-n-o-vai-deixar-ele-no-v-cuo-vai-Visite-a-Travessias-H-bridas-retribua-o-ol-e-aprecie-dive-35233d8db9d280e1af7bfe4e26e048ec"
     },
@@ -1115,38 +1113,33 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Hoje-dia-de-mobiliza-o-em-S-o-Lu-s-do-Curu-vacina-o-HPV-exames-preventivos-carreta-de-prev-35e33d8db9d2804c8b1bd13d30301744"
     },
     {
-      "title": "A prevenção começa com informação e acesso!",
+      "title": "A prevenção começa com informação e acesso! Esperamos você em São Luís do Curu!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/A-preven-o-come-a-com-informa-o-e-acesso-35e33d8db9d280c28a99e9cdd28d0056"
+      "notionUrl": "https://www.notion.so/A-preven-o-come-a-com-informa-o-e-acesso-Esperamos-voc-em-S-o-Lu-s-do-Curu-35e33d8db9d280c28a99e9cdd28d0056"
     },
     {
       "title": "Confira tudo o que vai acontecer no dia 22 de maio em São Luís do Curu. Leia a legenda.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Confira-tudo-o-que-vai-acontecer-no-dia-22-de-maio-em-S-o-Lu-s-do-Curu-Leia-a-legenda-35e33d8db9d28085a954e550730b6dd9"
     },
@@ -1155,11 +1148,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/S-o-Lu-s-do-Curu-vai-receber-uma-grande-mobiliza-o-de-sa-de-e-preven-o-35e33d8db9d2803b9bddc3fbe6d2499c"
     },
@@ -3225,7 +3216,7 @@ const LINHA_FEED_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Seguro é sobre seguir com mais tranquilidade - Dia Continental do Seguro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/05",
       "missing": [],
@@ -3677,6 +3668,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "tik tik",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/tik-tik-36033d8db9d280268f70f41c66120a9d"
+    },
+    {
       "title": "ação do dia 22",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3830,27 +3832,23 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "https://www.instagram.com/reel/DSXSHO6Ce33/?igsh=aG85N2hvdW40Z2N4",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "14/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DSXSHO6Ce33-igsh-aG85N2hvdW40Z2N4-34533d8db9d28087b6c1d3536a2128f7"
     },
     {
       "title": "https://www.instagram.com/reel/DQXs6-0iSsP/?igsh=NWx2bGtvOXllbmFj",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/https-www-instagram-com-reel-DQXs6-0iSsP-igsh-NWx2bGtvOXllbmFj-34533d8db9d280b9b75afe282a738412"
     }
@@ -5121,6 +5119,34 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Portfólio do Grupo Mulheres do Brasil",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Portf-lio-do-Grupo-Mulheres-do-Brasil-36033d8db9d28049a0f6e65d5e8c9aa4",
+      "gestora": "Equipe",
+      "date": "15T11:00:00.000/05"
+    }
+  ],
+  "Univendas": [
+    {
+      "title": "Comunicado ",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Comunicado-36033d8db9d280d79074c20826ca2be1",
+      "gestora": "Equipe",
+      "date": "15/05"
+    },
+    {
+      "title": "Card ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Card-35f33d8db9d28094bea7e2890de89f70",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Chamada pública - Voluntariado",
@@ -5187,10 +5213,52 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Roleta para carreta",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Roleta-para-carreta-35d33d8db9d2807bb391ca993f5c2d1f",
       "gestora": "Equipe",
       "date": "14/05"
+    }
+  ],
+  "Planos Seguros": [
+    {
+      "title": "Informação",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Informa-o-35d33d8db9d280edb378d04bc6fb0632",
+      "gestora": "Equipe",
+      "date": "15/05"
+    },
+    {
+      "title": "Checklist",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://www.notion.so/Checklist-34233d8db9d280418cc7f0d749f20a4a",
+      "gestora": "Equipe",
+      "date": "13/04"
+    },
+    {
+      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
+      "gestora": "Equipe",
+      "date": "08/05"
+    },
+    {
+      "title": "Boas vindas individual (E-mail)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
+      "gestora": "Equipe",
+      "date": "08/05"
+    },
+    {
+      "title": "Gestão de e-mails",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
+      "gestora": "Equipe",
+      "date": "08/05"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -5259,40 +5327,6 @@ const DEMANDAS_EXTRAS = {
       "date": "28/02"
     }
   ],
-  "Planos Seguros": [
-    {
-      "title": "Checklist",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Checklist-34233d8db9d280418cc7f0d749f20a4a",
-      "gestora": "Equipe",
-      "date": "13/04"
-    },
-    {
-      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
-      "gestora": "Equipe",
-      "date": "08/05"
-    },
-    {
-      "title": "Boas vindas individual (E-mail)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
-      "gestora": "Equipe",
-      "date": "08/05"
-    },
-    {
-      "title": "Gestão de e-mails",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
-      "gestora": "Equipe",
-      "date": "08/05"
-    }
-  ],
   "Finseg Leal": [
     {
       "title": "Diagnóstico de proteções - Versão de Apresentação",
@@ -5317,7 +5351,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Finseg Leal": "marcada",
-  "APROSSEG": "marcada",
+  "APROSSEG": "realizada",
   "Juntos contra o HPV": "marcada",
   "Planos Seguros": "marcada",
   "Ortobom": "marcada",
@@ -5329,7 +5363,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 24
   },
   "Ser Ponte": {
@@ -5341,8 +5375,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Juntos contra o HPV": {
-    "prontas": 15,
-    "total": 23
+    "prontas": 22,
+    "total": 26
   },
   "Jota Diesel": {
     "prontas": 13,
@@ -5357,7 +5391,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Terrartesã": {
-    "prontas": 13,
+    "prontas": 15,
     "total": 17
   },
   "RR Advocacia": {
@@ -5440,7 +5474,7 @@ const FORMAT_COUNTS = {
     "post": 16,
     "carrossel": 0,
     "foto": 0,
-    "video": 6,
+    "video": 7,
     "story": 5
   },
   "Jota Diesel": {
