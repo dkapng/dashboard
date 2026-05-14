@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/05/2026, 18:56:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/05/2026, 05:09:57 **/
 
-const LAST_UPDATE = '13/05/2026, 18:56:36';
+const LAST_UPDATE = '14/05/2026, 05:09:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -59,31 +59,31 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 21,
-    "pronto": 8,
+    "pronto": 11,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
     "a_agendar": 14
   },
   "Ser Ponte": {
-    "total": 0,
-    "pronto": 0,
+    "total": 8,
+    "pronto": 6,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 8
   },
   "Stratto": {
     "total": 13,
     "pronto": 7,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 6
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 9,
+    "pronto": 12,
     "postado": 0,
     "agendado": 9,
     "agendado_coord": 0,
@@ -118,9 +118,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 6,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 5,
-    "a_agendar": 4,
+    "a_agendar": 3,
     "st-paused": null
   },
   "RR Advocacia": {
@@ -128,32 +128,32 @@ const FEED_DATA = {
     "pronto": 6,
     "postado": 3,
     "agendado": 1,
-    "agendado_coord": 1,
-    "a_agendar": 5
+    "agendado_coord": 2,
+    "a_agendar": 4
   },
   "Rede Pangeia": {
     "total": 14,
     "pronto": 8,
     "postado": 0,
-    "agendado": 5,
+    "agendado": 7,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 6
   },
   "Planos Seguros": {
     "total": 13,
     "pronto": 6,
     "postado": 3,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Plannea": {
     "total": 14,
     "pronto": 8,
     "postado": 1,
-    "agendado": 5,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 6
   },
   "Ortobom": {
     "total": 12,
@@ -173,7 +173,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 10,
-    "pronto": 10,
+    "pronto": 9,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
@@ -200,21 +200,21 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 6,
     "postado": 3,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Daniel Maia Advocacia": {
     "total": 7,
     "pronto": 7,
     "postado": 0,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 16,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
@@ -222,11 +222,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 14,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 2,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 8,
+    "a_agendar": 7,
     "st-paused": null
   }
 };
@@ -345,10 +345,10 @@ const VIDEO_DATA = {
     "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -407,17 +407,17 @@ const STORIES_DATA = {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 5,
@@ -428,12 +428,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Juntos contra o HPV": {
-    "total": 0,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 5
   },
   "Jota Diesel": {
     "total": 4,
@@ -479,9 +479,9 @@ const STORIES_DATA = {
     "total": 4,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 4,
@@ -495,9 +495,9 @@ const STORIES_DATA = {
     "total": 4,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 5,
@@ -615,10 +615,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/hoje-Travessias-H-bridas-abre-ao-p-blico-e-convida-voc-a-percorrer-de-perto-um-processo-constru--35633d8db9d280a3a57ff765b9457603"
@@ -640,13 +639,12 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "É amanhã. Esperamos você na abertura da exposição: Travessias Híbridas",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "15/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/amanh-Esperamos-voc-na-abertura-da-exposi-o-Travessias-H-bridas-35633d8db9d280c68438f4ece192e72e"
@@ -807,10 +805,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "14/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-consegue-encontrar-estes-objetos-na-pintura-35233d8db9d280b5add9f2bdd1b6e3a6"
@@ -849,7 +846,112 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Vem-a-Travessias-H-bridas-Explore-uma-verdadeira-explos-o-brincante-de-cores-35233d8db9d2803eafaede4b62238a54"
     }
   ],
-  "Ser Ponte": [],
+  "Ser Ponte": [
+    {
+      "title": "Chegou o novo relatório anual da Ser Ponte! Acompanhe as principais ações realizadas em 2025",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "15/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Chegou-o-novo-relat-rio-anual-da-Ser-Ponte-Acompanhe-as-principais-a-es-realizadas-em-2025-36033d8db9d28096a58bc8b9d8799519"
+    },
+    {
+      "title": "A Ser Ponte está procurando pessoas que queiram construir impacto com a gente. Chamada pública para voluntariado em comunicação: Design e audiovisual.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "14/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-Ser-Ponte-est-procurando-pessoas-que-queiram-construir-impacto-com-a-gente-Chamada-p-blica-para--36033d8db9d280cbaf78d2ee316ac9f6"
+    },
+    {
+      "title": "Você que acompanha a Ser Ponte aqui nas redes sociais: como você definiria o nosso trabalho em uma palavra?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Voc-que-acompanha-a-Ser-Ponte-aqui-nas-redes-sociais-como-voc-definiria-o-nosso-trabalho-em-uma-p-34933d8db9d2807f8b0adad10765f3fe"
+    },
+    {
+      "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "27/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
+    },
+    {
+      "title": "Existe uma Fortaleza que não chega no fim do mês.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Existe-uma-Fortaleza-que-n-o-chega-no-fim-do-m-s-34933d8db9d28002b145e0f13bdf673d"
+    },
+    {
+      "title": "Quem decide quem recebe esse dinheiro?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quem-decide-quem-recebe-esse-dinheiro-34933d8db9d28084b8afcf54e1f27231"
+    },
+    {
+      "title": "O que é ser ponte em uma cidade onde falta comida em milhares de casas?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "20/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-ser-ponte-em-uma-cidade-onde-falta-comida-em-milhares-de-casas-34933d8db9d28094853fd9946496dc6a"
+    },
+    {
+      "title": "30,9% da insegurança alimentar grave do Ceará está em Fortaleza, ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/30-9-da-inseguran-a-alimentar-grave-do-Cear-est-em-Fortaleza-a-4-maior-capital-do-Brasil-em-pop-34933d8db9d280178e6fdc1b5ed101ae"
+    }
+  ],
   "Stratto": [
     {
       "title": "Crescer sem controle financeiro é só aumentar o risco em escala",
@@ -892,7 +994,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Terceirizar o financeiro custa menos do que uma contratação errada. Vamos fazer as contas?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "15/05",
       "missing": [],
@@ -975,7 +1077,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O custo invisível de um empresário que gasta 10h por semana pagando boletos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/05",
       "missing": [],
@@ -1014,10 +1116,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Hoje-dia-de-mobiliza-o-em-S-o-Lu-s-do-Curu-vacina-o-HPV-exames-preventivos-carreta-de-prev-35e33d8db9d2804c8b1bd13d30301744"
@@ -1042,10 +1143,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Confira-tudo-o-que-vai-acontecer-no-dia-22-de-maio-em-S-o-Lu-s-do-Curu-Leia-a-legenda-35e33d8db9d28085a954e550730b6dd9"
@@ -1056,10 +1156,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/S-o-Lu-s-do-Curu-vai-receber-uma-grande-mobiliza-o-de-sa-de-e-preven-o-35e33d8db9d2803b9bddc3fbe6d2499c"
@@ -1513,9 +1612,9 @@ const LINHA_FEED_ITEMS = {
   "Terrartesã": [
     {
       "title": "O artesanato como herança viva que atravessa gerações e se transforma em renda",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "12/05",
+      "date": "13/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1709,7 +1808,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Contrato genérico não protege negócios reais.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "15/05",
       "missing": [],
@@ -1855,7 +1954,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Pangeia. Um nome que nasce da união. Da ideia de que o que está separado… pode se conectar.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "14/05",
       "missing": [],
@@ -1879,7 +1978,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Não é sobre pedir apoio. É sobre construir valor social.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/05",
       "missing": [],
@@ -2084,7 +2183,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabia que o Dia Continental do Seguro nasceu de uma reunião histórica? ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/05",
       "missing": [],
@@ -2208,7 +2307,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que sua empresa deixou passar nos últimos anos, a Plannea recupera #RecuperaçãoDeCréditoTributário",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/05",
       "missing": [],
@@ -2219,9 +2318,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Regularizar não é só corrigir. É destravar o crescimento",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "13/05",
+      "date": "14/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2612,17 +2711,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Existem-for-as-que-transformam-o-mundo-Muitas-delas-atendem-pelo-nome-de-m-es-35d33d8db9d2800faa0dc117172e98cf"
     },
     {
-      "title": "Existem forças que mudam o mundo. Muitas delas atendem pelo nome de mãe.",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "17/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Existem-for-as-que-mudam-o-mundo-Muitas-delas-atendem-pelo-nome-de-m-e-35c33d8db9d280639f2ccb6ba71b44a9"
-    },
-    {
       "title": "Feliz aniversário, Elly",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -2657,14 +2745,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nenhum agressor nasceu assim: o que a criação tem a ver com a violência que vemos nas redes?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "02/05",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "15/05",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nenhum-agressor-nasceu-assim-o-que-a-cria-o-tem-a-ver-com-a-viol-ncia-que-vemos-nas-redes-33933d8db9d280ebb40ef64fcd33f01e"
     },
@@ -2700,6 +2786,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Os-n-meros-n-o-mentem-O-Brasil-tem-s-18-de-mulheres-no-legislativo-se-somos-51-5-da-popula-o--33433d8db9d2806d85b3ffa7de59370d"
+    },
+    {
+      "title": "Força que não deveria ser obrigação - Mães atípicas",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/For-a-que-n-o-deveria-ser-obriga-o-M-es-at-picas-20933d8db9d280d8b8ffd2a95a2038c3"
     }
   ],
   "Finseg Leal": [
@@ -3033,7 +3133,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dia continental do Seguro: proteger hoje é garantir o amanhã.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/05",
       "missing": [],
@@ -3112,14 +3212,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Resolveu abrir no feriado? Saiba quais documentos guardar.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "11/05",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "15/05",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Resolveu-abrir-no-feriado-Saiba-quais-documentos-guardar-30333d8db9d280279858efacda505f0f"
     }
@@ -3130,10 +3228,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seguro-sobre-seguir-com-mais-tranquilidade-Dia-Continental-do-Seguro-35f33d8db9d2809a874bf650a8b45211"
@@ -3393,13 +3489,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Antes de buscar mais resultados, vale olhar para a estrutura que sustenta o que você já tem.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "13/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Antes-de-buscar-mais-resultados-vale-olhar-para-a-estrutura-que-sustenta-o-que-voc-j-tem-34b33d8db9d280128801e55069055574"
@@ -3521,7 +3615,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Vídeo com os artistas (agendar)",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "13/05",
+      "date": "17/05",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4030,7 +4124,19 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/Prostata-33333d8db9d280bf8c2fe6ceb152ee75"
     }
   ],
-  "Grupo Mulheres do Brasil": [],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Vídeo da dona Cleide - VOZES",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-da-dona-Cleide-VOZES-36033d8db9d28023a298d3b87e0036ce"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Vídeo",
@@ -4210,7 +4316,7 @@ const LINHA_STORIES_ITEMS = {
   "Travessias Híbridas": [
     {
       "title": "Parabéns, Jorge Silvestre e Diego Gregório.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "13/05",
       "missing": [],
@@ -4220,7 +4326,21 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Parab-ns-Jorge-Silvestre-e-Diego-Greg-rio-35f33d8db9d2801e9cfee3d01d68b84b"
     }
   ],
-  "Ser Ponte": [],
+  "Ser Ponte": [
+    {
+      "title": "A Ser Ponte está com chamada aberta para voluntariado!",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-Ser-Ponte-est-com-chamada-aberta-para-voluntariado-36033d8db9d280f2960ed6b74455f686"
+    }
+  ],
   "Stratto": [
     {
       "title": "Quando existe estrutura, o financeiro flui.",
@@ -4282,7 +4402,73 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Dia-das-m-es-35033d8db9d28050a518d0eb4f14421c"
     }
   ],
-  "Juntos contra o HPV": [],
+  "Juntos contra o HPV": [
+    {
+      "title": "Esperamos você dia 22 de maio em São Luís do Curu.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Esperamos-voc-dia-22-de-maio-em-S-o-Lu-s-do-Curu-49533d8db9d282c9940981969adcde35"
+    },
+    {
+      "title": "A Carreta de Prevenção chega a São Luís do Curu no dia 22 de maio.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-Carreta-de-Preven-o-chega-a-S-o-Lu-s-do-Curu-no-dia-22-de-maio-17d33d8db9d2827cbc8c0179ca1be1c0"
+    },
+    {
+      "title": "O câncer do colo do útero pode ser prevenido!",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-c-ncer-do-colo-do-tero-pode-ser-prevenido-77d33d8db9d283d7a5fd81cf902c5f0d"
+    },
+    {
+      "title": "Dia 22 de maio tem vacinação HPV em São Luís do Curu",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Dia-22-de-maio-tem-vacina-o-HPV-em-S-o-Lu-s-do-Curu-e7233d8db9d283d1b99a81fab317e947"
+    },
+    {
+      "title": "Dia 22 de maio tem grande mobilização de saúde em São Luís do Curu",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Dia-22-de-maio-tem-grande-mobiliza-o-de-sa-de-em-S-o-Lu-s-do-Curu-35f33d8db9d2808b8398d59be5c70a40"
+    }
+  ],
   "Jota Diesel": [
     {
       "title": "Reposts stories (que já saíram uma vez pra não ficar sem)",
@@ -4495,7 +4681,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Já assistiu O Menino que Descobriu o Vento?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "14/05",
+      "date": "16/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4504,7 +4690,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Algumas causas mobilizam milhões.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "13/05",
       "missing": [],
@@ -4597,7 +4783,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Na prática, o que você acompanha mais hoje na sua empresa?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "12/05",
+      "date": "15/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4606,9 +4792,9 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Contabilidade estratégica",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
-      "date": "05/05",
+      "date": "13/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4935,6 +5121,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ser Ponte": [
+    {
+      "title": "Chamada pública - Voluntariado",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Chamada-p-blica-Voluntariado-36033d8db9d280b3b615d6b7c63e1b82",
+      "gestora": "Equipe",
+      "date": "14T15:00:00.000/05"
+    },
+    {
+      "title": "Apresentação do pitch",
+      "priority": "ppp",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
+      "gestora": "Equipe",
+      "date": "12/05"
+    },
+    {
+      "title": "Narração para vídeo institucional",
+      "priority": "ppp",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
+      "gestora": "Equipe",
+      "date": "08/05"
+    }
+  ],
   "Travessias Híbridas": [
     {
       "title": "Convite para enviar via WhatsApp",
@@ -5029,24 +5241,6 @@ const DEMANDAS_EXTRAS = {
       "date": "07/05"
     }
   ],
-  "Ser Ponte": [
-    {
-      "title": "Apresentação do pitch",
-      "priority": "ppp",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
-      "gestora": "Equipe",
-      "date": "12/05"
-    },
-    {
-      "title": "Narração para vídeo institucional",
-      "priority": "ppp",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
-      "gestora": "Equipe",
-      "date": "08/05"
-    }
-  ],
   "Ventana": [
     {
       "title": "Melhorias no Notion (2025-04)",
@@ -5139,8 +5333,8 @@ const LEGENDAS_DATA = {
     "total": 24
   },
   "Ser Ponte": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 2,
+    "total": 8
   },
   "Stratto": {
     "prontas": 17,
@@ -5191,8 +5385,8 @@ const LEGENDAS_DATA = {
     "total": 20
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 9,
-    "total": 10
+    "prontas": 10,
+    "total": 11
   },
   "Finseg Leal": {
     "prontas": 16,
@@ -5207,7 +5401,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Daniel Maia Advocacia": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 8
   },
   "Conecta Assessoria": {
@@ -5222,18 +5416,18 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 15,
-    "carrossel": 6,
+    "post": 14,
+    "carrossel": 7,
     "foto": 0,
     "video": 3,
     "story": 1
   },
   "Ser Ponte": {
-    "post": 0,
-    "carrossel": 0,
+    "post": 4,
+    "carrossel": 4,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 1
   },
   "Stratto": {
     "post": 11,
@@ -5247,7 +5441,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 6,
-    "story": 0
+    "story": 5
   },
   "Jota Diesel": {
     "post": 8,
@@ -5320,10 +5514,10 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 9,
-    "carrossel": 1,
+    "post": 10,
+    "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "Finseg Leal": {
