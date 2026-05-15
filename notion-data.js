@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/05/2026, 07:03:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/05/2026, 13:30:16 **/
 
-const LAST_UPDATE = '15/05/2026, 07:03:32';
+const LAST_UPDATE = '15/05/2026, 13:30:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -61,9 +61,9 @@ const FEED_DATA = {
     "total": 21,
     "pronto": 11,
     "postado": 1,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Ser Ponte": {
     "total": 8,
@@ -85,9 +85,9 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 12,
     "postado": 0,
-    "agendado": 9,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Jota Diesel": {
     "total": 10,
@@ -330,7 +330,7 @@ const VIDEO_DATA = {
   },
   "Ortobom": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -638,14 +638,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "É amanhã. Esperamos você na abertura da exposição: Travessias Híbridas",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "15/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/amanh-Esperamos-voc-na-abertura-da-exposi-o-Travessias-H-bridas-35633d8db9d280c68438f4ece192e72e"
     },
@@ -801,7 +799,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você consegue encontrar estes objetos na pintura?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "14/05",
+      "date": "15/05",
       "missing": [
         "Legenda"
       ],
@@ -1143,9 +1141,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "São Luís do Curu vai receber uma grande mobilização de saúde e prevenção!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "14/05",
+      "date": "15/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3992,18 +3990,15 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/O-que-sua-m-e-quer-ganhar-de-presente-35a33d8db9d280d1af2ff140f56d25c7"
     },
     {
-      "title": "Vídeo",
+      "title": "Acerto na escolha",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "26/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-35233d8db9d28002b7e2f5588a417cfd"
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Acerto-na-escolha-35233d8db9d28002b7e2f5588a417cfd"
     },
     {
       "title": "3 sinais trocar o colchão  ",
@@ -5169,21 +5164,11 @@ const DEMANDAS_EXTRAS = {
       "date": "08/05"
     }
   ],
-  "Travessias Híbridas": [
-    {
-      "title": "Convite para enviar via WhatsApp",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Convite-para-enviar-via-WhatsApp-35f33d8db9d280248c94f126fb6c2d8c",
-      "gestora": "Equipe",
-      "date": "13/05"
-    }
-  ],
   "Rede Pangeia": [
     {
       "title": "Quadro da Annette",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Quadro-da-Annette-35f33d8db9d280ac964ee3e79a058450",
       "gestora": "Equipe",
       "date": "15T10:00:00.000/05"
@@ -5331,7 +5316,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 24
   },
   "Ser Ponte": {
@@ -5379,7 +5364,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Ortobom": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 17
   },
   "ItalaP": {
