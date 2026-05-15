@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/05/2026, 17:59:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/05/2026, 21:13:33 **/
 
-const LAST_UPDATE = '14/05/2026, 17:59:38';
+const LAST_UPDATE = '14/05/2026, 21:13:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -853,7 +853,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Chegou-o-novo-relat-rio-anual-da-Ser-Ponte-Acompanhe-as-principais-a-es-realizadas-em-2025-36033d8db9d28096a58bc8b9d8799519"
@@ -5119,7 +5119,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Portfólio do Grupo Mulheres do Brasil",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Portf-lio-do-Grupo-Mulheres-do-Brasil-36033d8db9d28049a0f6e65d5e8c9aa4",
       "gestora": "Equipe",
       "date": "15T11:00:00.000/05"
@@ -5177,14 +5177,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Convite-para-enviar-via-WhatsApp-35f33d8db9d280248c94f126fb6c2d8c",
       "gestora": "Equipe",
       "date": "13/05"
-    },
-    {
-      "title": "E-mail marketing com convite",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/E-mail-marketing-com-convite-35e33d8db9d280168376e7ee7065521b",
-      "gestora": "Equipe",
-      "date": "12/05"
     }
   ],
   "Rede Pangeia": [
@@ -5283,26 +5275,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Aniversariantes-35733d8db9d2801a9c75ec3205a39d65",
       "gestora": "Equipe",
       "date": "13/05"
-    }
-  ],
-  "Ortobom": [
-    {
-      "title": "Alterar arte para tema dia das mães",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Alterar-arte-para-tema-dia-das-m-es-34f33d8db9d280e9a15bd74eeef74ee9",
-      "gestora": "Equipe",
-      "date": "04/05"
-    }
-  ],
-  "Solar Coworking": [
-    {
-      "title": "Edição do vídeo institucional para o evento - Solar",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Edi-o-do-v-deo-institucional-para-o-evento-Solar-34b33d8db9d28084b2e7dcf3077039c2",
-      "gestora": "Equipe",
-      "date": "07/05"
     }
   ],
   "Ventana": [
