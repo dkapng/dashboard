@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/05/2026, 13:30:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/05/2026, 17:41:16 **/
 
-const LAST_UPDATE = '15/05/2026, 13:30:16';
+const LAST_UPDATE = '15/05/2026, 17:41:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4426,7 +4426,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-c-ncer-do-colo-do-tero-pode-ser-prevenido-77d33d8db9d283d7a5fd81cf902c5f0d"
@@ -4439,7 +4439,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-22-de-maio-tem-vacina-o-HPV-em-S-o-Lu-s-do-Curu-e7233d8db9d283d1b99a81fab317e947"
@@ -4452,7 +4452,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-22-de-maio-tem-grande-mobiliza-o-de-sa-de-em-S-o-Lu-s-do-Curu-35f33d8db9d2808b8398d59be5c70a40"
@@ -5124,7 +5124,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Comunicado ",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Comunicado-36033d8db9d280d79074c20826ca2be1",
       "gestora": "Equipe",
       "date": "15/05"
@@ -5132,7 +5132,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Card ",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Card-35f33d8db9d28094bea7e2890de89f70",
       "gestora": "Equipe",
       "date": "15/05"
@@ -5164,16 +5164,6 @@ const DEMANDAS_EXTRAS = {
       "date": "08/05"
     }
   ],
-  "Rede Pangeia": [
-    {
-      "title": "Quadro da Annette",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Quadro-da-Annette-35f33d8db9d280ac964ee3e79a058450",
-      "gestora": "Equipe",
-      "date": "15T10:00:00.000/05"
-    }
-  ],
   "Juntos contra o HPV": [
     {
       "title": "Ação da carreta - video",
@@ -5182,14 +5172,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/A-o-da-carreta-video-35e33d8db9d2806a8384fda8081ed22b",
       "gestora": "Equipe",
       "date": "15/05"
-    },
-    {
-      "title": "Roleta para carreta",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Roleta-para-carreta-35d33d8db9d2807bb391ca993f5c2d1f",
-      "gestora": "Equipe",
-      "date": "14/05"
     }
   ],
   "Planos Seguros": [
@@ -5303,6 +5285,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Daniel Maia Advocacia": "marcada",
   "Finseg Leal": "marcada",
   "APROSSEG": "realizada",
   "Juntos contra o HPV": "marcada",
@@ -5644,7 +5627,7 @@ const AGENDA_COUNTS = {
   },
   "Daniel Maia Advocacia": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 1
   },
   "Conecta Assessoria": {
