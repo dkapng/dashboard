@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/05/2026, 04:33:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/05/2026, 08:32:51 **/
 
-const LAST_UPDATE = '16/05/2026, 04:33:35';
+const LAST_UPDATE = '16/05/2026, 08:32:51';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -61,9 +61,9 @@ const FEED_DATA = {
     "total": 21,
     "pronto": 11,
     "postado": 1,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Ser Ponte": {
     "total": 8,
@@ -611,14 +611,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "É hoje! Travessias Híbridas abre ao público e convida você a percorrer, de perto, um processo construído em diálogo, encontro e experimentação.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "16/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/hoje-Travessias-H-bridas-abre-ao-p-blico-e-convida-voc-a-percorrer-de-perto-um-processo-constru--35633d8db9d280a3a57ff765b9457603"
     },
@@ -5261,7 +5259,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 24
   },
   "Ser Ponte": {
