@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/05/2026, 17:41:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/05/2026, 21:06:31 **/
 
-const LAST_UPDATE = '15/05/2026, 17:41:16';
+const LAST_UPDATE = '15/05/2026, 21:06:31';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -140,12 +140,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Planos Seguros": {
-    "total": 13,
+    "total": 12,
     "pronto": 6,
     "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Plannea": {
     "total": 14,
@@ -197,12 +197,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 12,
+    "total": 11,
     "pronto": 6,
     "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 7,
@@ -429,7 +429,7 @@ const STORIES_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 5,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -485,7 +485,7 @@ const STORIES_DATA = {
   },
   "Planos Seguros": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2119,19 +2119,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Ser-o-ponto-de-apoio-de-algu-m-tamb-m-exige-ter-uma-estrutura-que-sustente-essa-responsabilidade-35233d8db9d280dca548dfd88592e8ac"
     },
     {
-      "title": "O que acontece com uma empresa que não cuida do benefício?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-que-acontece-com-uma-empresa-que-n-o-cuida-do-benef-cio-35233d8db9d280ada27ef3df7fd0ebbe"
-    },
-    {
       "title": "Quando a comparação ignora o contexto, a escolha tende a resolver o agora e criar problemas depois.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3036,19 +3023,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/3-coisas-que-n-o-podem-faltar-na-prote-o-do-seu-carro-el-trico-H2-Carro-el-trico-n-o-igual-ao-t-34b33d8db9d28030932cfe84b52f9e1e"
-    },
-    {
-      "title": "O seguro do carro elétrico é realmente mais caro?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-seguro-do-carro-el-trico-realmente-mais-caro-34b33d8db9d28030a349e28209265230"
     },
     {
       "title": "Combustão vs. Elétrico: O que muda na sua proteção?",
@@ -4397,10 +4371,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Esperamos-voc-dia-22-de-maio-em-S-o-Lu-s-do-Curu-49533d8db9d282c9940981969adcde35"
@@ -4410,10 +4382,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-Carreta-de-Preven-o-chega-a-S-o-Lu-s-do-Curu-no-dia-22-de-maio-17d33d8db9d2827cbc8c0179ca1be1c0"
@@ -4423,10 +4393,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-c-ncer-do-colo-do-tero-pode-ser-prevenido-77d33d8db9d283d7a5fd81cf902c5f0d"
@@ -4436,10 +4404,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-22-de-maio-tem-vacina-o-HPV-em-S-o-Lu-s-do-Curu-e7233d8db9d283d1b99a81fab317e947"
@@ -4449,10 +4415,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dia-22-de-maio-tem-grande-mobiliza-o-de-sa-de-em-S-o-Lu-s-do-Curu-35f33d8db9d2808b8398d59be5c70a40"
@@ -4695,10 +4659,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "16/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Feliz-anivers-rio-Lis-35d33d8db9d280d5b4aae45f86afa4e5"
@@ -5339,8 +5301,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Planos Seguros": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 13,
+    "total": 13
   },
   "Plannea": {
     "prontas": 17,
@@ -5456,7 +5418,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Planos Seguros": {
-    "post": 12,
+    "post": 11,
     "carrossel": 1,
     "foto": 0,
     "video": 1,
@@ -5505,7 +5467,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 11,
+    "post": 10,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
