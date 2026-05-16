@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/05/2026, 08:32:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/05/2026, 12:38:26 **/
 
-const LAST_UPDATE = '16/05/2026, 08:32:51';
+const LAST_UPDATE = '16/05/2026, 12:38:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -486,10 +486,10 @@ const STORIES_DATA = {
   "Planos Seguros": {
     "total": 4,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Plannea": {
     "total": 4,
@@ -4654,7 +4654,7 @@ const LINHA_STORIES_ITEMS = {
   "Planos Seguros": [
     {
       "title": "Feliz aniversário, Lis",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/05",
       "missing": [],
