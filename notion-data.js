@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/05/2026, 12:42:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/05/2026, 16:56:12 **/
 
-const LAST_UPDATE = '17/05/2026, 12:42:26';
+const LAST_UPDATE = '17/05/2026, 16:56:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -234,11 +234,11 @@ const FEED_DATA = {
 const VIDEO_DATA = {
   "Travessias Híbridas": {
     "total": 3,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ser Ponte": {
     "total": 0,
@@ -3571,18 +3571,15 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/V-deo-com-os-artistas-sobre-o-lan-amento-da-exposi-o-35633d8db9d28084a0dfc8dae27e3fc5"
     },
     {
-      "title": "Vídeo com os artistas (agendar)",
-      "status": "a_agendar",
+      "title": "Vídeo do evento",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "17/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-com-os-artistas-agendar-35633d8db9d280fe81c0d055c34ba4fb"
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-do-evento-35633d8db9d280fe81c0d055c34ba4fb"
     }
   ],
   "Ser Ponte": [],
@@ -4315,7 +4312,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Quando-existe-estrutura-o-financeiro-flui-35233d8db9d2802996d5fce83a737a21"
     },
     {
-      "title": "Story/stories",
+      "title": "Existe uma diferença grande entre ter números e confiar neles.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "19/05",
@@ -4325,7 +4322,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-35233d8db9d280fd8f78c78199e04a57"
+      "notionUrl": "https://www.notion.so/Existe-uma-diferen-a-grande-entre-ter-n-meros-e-confiar-neles-35233d8db9d280fd8f78c78199e04a57"
     },
     {
       "title": "Story/stories",
@@ -5259,7 +5256,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 24
   },
   "Ser Ponte": {
