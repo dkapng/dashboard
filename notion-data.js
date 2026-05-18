@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 15:17:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 17:10:28 **/
 
-const LAST_UPDATE = '18/05/2026, 15:17:57';
+const LAST_UPDATE = '18/05/2026, 17:10:28';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -67,7 +67,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 7,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -93,9 +93,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 8,
     "postado": 4,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -107,19 +107,19 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 15,
-    "pronto": 7,
-    "postado": 4,
+    "pronto": 8,
+    "postado": 5,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 8,
+    "a_agendar": 7,
     "st-paused": null
   },
   "Terrartesã": {
     "total": 13,
-    "pronto": 6,
-    "postado": 0,
+    "pronto": 7,
+    "postado": 1,
     "agendado": 3,
-    "agendado_coord": 5,
+    "agendado_coord": 4,
     "a_agendar": 3,
     "st-paused": null
   },
@@ -141,11 +141,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 12,
-    "pronto": 6,
-    "postado": 3,
+    "pronto": 7,
+    "postado": 4,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Plannea": {
     "total": 14,
@@ -157,11 +157,11 @@ const FEED_DATA = {
   },
   "Ortobom": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 4,
-    "agendado": 3,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 12,
@@ -176,8 +176,8 @@ const FEED_DATA = {
     "pronto": 11,
     "postado": 2,
     "agendado": 7,
-    "agendado_coord": 0,
-    "a_agendar": 2
+    "agendado_coord": 1,
+    "a_agendar": 1
   },
   "Finseg Leal": {
     "total": 15,
@@ -221,11 +221,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 14,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 2,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 7,
+    "a_agendar": 6,
     "st-paused": null
   }
 };
@@ -420,7 +420,7 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 5,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -500,7 +500,7 @@ const STORIES_DATA = {
   },
   "Ortobom": {
     "total": 5,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -525,7 +525,7 @@ const STORIES_DATA = {
   },
   "Finseg Leal": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -557,7 +557,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 6,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -843,10 +843,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Chegou-o-novo-relat-rio-anual-da-Ser-Ponte-Acompanhe-as-principais-a-es-realizadas-em-2025-36033d8db9d28096a58bc8b9d8799519"
@@ -1320,7 +1318,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem depende do veículo para trabalhar sabe que parar não é uma opção.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [],
@@ -1472,13 +1470,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A rede credenciada define a experiência com o plano.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-rede-credenciada-define-a-experi-ncia-com-o-plano-32533d8db9d28098a9a4e21e7e3ca13c"
@@ -1637,13 +1633,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando o trabalho se torna uma oportunidade real de recomeço, novas histórias podem ser construídas",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-o-trabalho-se-torna-uma-oportunidade-real-de-recome-o-novas-hist-rias-podem-ser-constru-das-34533d8db9d280aeaf89c5e67c20d3ca"
@@ -2067,14 +2061,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ser o ponto de apoio de alguém também exige ter uma estrutura que sustente essa responsabilidade.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Ser-o-ponto-de-apoio-de-algu-m-tamb-m-exige-ter-uma-estrutura-que-sustente-essa-responsabilidade-35233d8db9d280dca548dfd88592e8ac"
     },
@@ -2354,17 +2346,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Voc-n-o-precisa-se-adaptar-ao-seu-colch-o-Ele-que-precisa-se-adaptar-a-voc-35233d8db9d2803f9d1bebd54f675f98"
     },
     {
-      "title": "Seu colchão já deu sinais…Você só não percebeu ainda.",
-      "status": "a_agendar",
+      "title": "A coceira persistente pode sim ser sinal de ácaros. Seu colchão\ntá dando sinais…",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Seu-colch-o-j-deu-sinais-Voc-s-n-o-percebeu-ainda-35233d8db9d280f99735f3bc195283e9"
+      "notionUrl": "https://www.notion.so/A-coceira-persistente-pode-sim-ser-sinal-de-caros-Seu-colch-o-t-dando-sinais-35233d8db9d280f99735f3bc195283e9"
     },
     {
       "title": "Ela nunca parou por você. Agora é a sua vez de retribuir com cuidado de verdade.",
@@ -2403,7 +2393,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu corpo trabalhou o dia inteiro, seu descanso precisa acompanhar. Tecnologia que ajuda na recuperação física e mental.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [],
@@ -2606,14 +2596,12 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Quando uma criança pede ajuda, o mundo inteiro precisa ajudar. Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-uma-crian-a-pede-ajuda-o-mundo-inteiro-precisa-ajudar-Dia-Nacional-de-Combate-ao-Abuso-e--36433d8db9d280b1abb3dc2b2d70566e"
     },
@@ -3418,13 +3406,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "As conexões mais valiosas não acontecem em eventos acontecem na convivência diária.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/As-conex-es-mais-valiosas-n-o-acontecem-em-eventos-acontecem-na-conviv-ncia-di-ria-34b33d8db9d2803786d9f6244e2d5bc8"
@@ -4248,10 +4234,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Existe-uma-diferen-a-grande-entre-ter-n-meros-e-confiar-neles-35233d8db9d280fd8f78c78199e04a57"
@@ -4487,7 +4471,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Contrato-gen-rico-n-o-protege-neg-cio-nenhum-35633d8db9d280d59ae5f5b6d2581751"
@@ -4684,10 +4668,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "21/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-35233d8db9d280779b01e95c559aa90d"
@@ -4809,10 +4791,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Prote-o-para-imprevistos-Receba-por-cada-dia-que-precisar-de-cuidados-m-dicos-34b33d8db9d2804c8ccdd4169e0dfabb"
@@ -4898,10 +4878,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/ConectaInforma-35233d8db9d2801aa4e8d053b9146ceb"
@@ -5227,7 +5205,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 12
   },
   "Finseg Leal": {
