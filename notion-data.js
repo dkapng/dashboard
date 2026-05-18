@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/05/2026, 19:39:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 09:05:51 **/
 
-const LAST_UPDATE = '17/05/2026, 19:39:34';
+const LAST_UPDATE = '18/05/2026, 09:05:51';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -75,7 +75,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -133,7 +133,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 14,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 1,
@@ -149,7 +149,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 14,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
@@ -173,7 +173,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 10,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
@@ -181,7 +181,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 16,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
@@ -197,11 +197,11 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 11,
-    "pronto": 6,
+    "total": 12,
+    "pronto": 7,
     "postado": 3,
     "agendado": 3,
-    "agendado_coord": 0,
+    "agendado_coord": 1,
     "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
@@ -214,7 +214,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 16,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
@@ -1059,10 +1059,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/BPO-Financeiro-A-pe-a-que-faltava-para-sua-opera-o-rodar-sem-voc-35033d8db9d280c18cc0d6c1e6ad571d"
@@ -1953,10 +1951,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quem-investe-quer-impacto-E-evid-ncia-de-que-ele-real-35033d8db9d28061857def0833cd6dcd"
@@ -2269,10 +2265,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Afinal-voc-sabe-o-que-recupera-o-de-cr-ditos-tribut-rios-35733d8db9d28076b011c7e55374e091"
@@ -2765,10 +2759,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/For-a-que-n-o-deveria-ser-obriga-o-M-es-at-picas-20933d8db9d280d8b8ffd2a95a2038c3"
@@ -2843,10 +2836,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/1-em-cada-5-m-dicos-enfrentar-um-processo-judicial-na-carreira-Voc-tem-o-capital-para-uma-defesa--34b33d8db9d280b7892dfc7eaa043b91"
@@ -2971,6 +2962,19 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "TBT Museu do automóvel",
+      "status": "agendado_coord",
+      "formato": "📸 Foto(s)",
+      "date": "21/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/TBT-Museu-do-autom-vel-35e33d8db9d280c1a421c9ea1defb1d9"
+    },
+    {
       "title": "Novas regras na Europa para julho de 2026: Sua apólice Aprosseg já está atualizada",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3014,10 +3018,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/3-coisas-que-n-o-podem-faltar-na-prote-o-do-seu-carro-el-trico-H2-Carro-el-trico-n-o-igual-ao-t-34b33d8db9d28030932cfe84b52f9e1e"
@@ -3285,10 +3287,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Preven-o-ainda-o-caminho-mais-inteligente-na-sa-de-Exames-de-rotina-e-acompanhamento-m-dico-pod-35233d8db9d28028b984cc107897c4b0"
@@ -5324,7 +5324,7 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "APROSSEG": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 17
   },
   "Daniel Maia Advocacia": {
@@ -5464,7 +5464,7 @@ const FORMAT_COUNTS = {
   "APROSSEG": {
     "post": 10,
     "carrossel": 1,
-    "foto": 0,
+    "foto": 1,
     "video": 4,
     "story": 3
   },
