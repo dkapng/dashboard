@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 09:05:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 13:01:08 **/
 
-const LAST_UPDATE = '18/05/2026, 09:05:51';
+const LAST_UPDATE = '18/05/2026, 13:01:08';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -77,25 +77,25 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 8,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Juntos contra o HPV": {
     "total": 16,
     "pronto": 12,
     "postado": 0,
-    "agendado": 10,
+    "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Jota Diesel": {
-    "total": 10,
-    "pronto": 5,
+    "total": 9,
+    "pronto": 8,
     "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 0,
@@ -164,12 +164,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "ItalaP": {
-    "total": 13,
-    "pronto": 7,
+    "total": 12,
+    "pronto": 6,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
     "total": 10,
@@ -180,13 +180,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Finseg Leal": {
-    "total": 16,
-    "pronto": 10,
-    "postado": 1,
+    "total": 15,
+    "pronto": 9,
+    "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 7,
-    "st-paused": null
+    "a_agendar": 6
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -198,11 +197,11 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 12,
-    "pronto": 7,
+    "pronto": 10,
     "postado": 3,
-    "agendado": 3,
+    "agendado": 6,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 7,
@@ -216,9 +215,9 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 11,
     "postado": 3,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Solar Coworking": {
     "total": 14,
@@ -299,8 +298,8 @@ const VIDEO_DATA = {
   "RR Advocacia": {
     "total": 7,
     "pronto": 7,
-    "postado": 3,
-    "agendado": 4,
+    "postado": 4,
+    "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -339,10 +338,10 @@ const VIDEO_DATA = {
   "ItalaP": {
     "total": 7,
     "pronto": 7,
-    "postado": 1,
+    "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 1,
@@ -372,9 +371,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -436,12 +435,12 @@ const STORIES_DATA = {
     "a_agendar": 5
   },
   "Jota Diesel": {
-    "total": 4,
-    "pronto": 1,
+    "total": 3,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -542,7 +541,7 @@ const STORIES_DATA = {
   },
   "APROSSEG": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1056,7 +1055,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "BPO Financeiro: A peça que faltava para sua operação rodar sem você.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/05",
       "missing": [],
@@ -1126,7 +1125,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Confira tudo o que vai acontecer no dia 22 de maio em São Luís do Curu. Leia a legenda.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/05",
       "missing": [],
@@ -1309,30 +1308,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Neste-Dia-das-M-es-celebramos-quem-move-a-vida-com-amor-for-a-e-dedica-o-todos-os-dias-35933d8db9d280aaafa5d72b903f0451"
     },
     {
-      "title": "Parar o veículo custa mais do que você imagina.",
+      "title": "Desempenho fora do padrão é sinal técnico o prejuízo vem quando não é tratado.",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "21/05",
+      "formato": "🖼️ Post",
+      "date": "29/05",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Parar-o-ve-culo-custa-mais-do-que-voc-imagina-35133d8db9d280d7a16ed8910ef4315c"
-    },
-    {
-      "title": "Rodar na reserva pode estar prejudicando seu sistema de injeção.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Rodar-na-reserva-pode-estar-prejudicando-seu-sistema-de-inje-o-35133d8db9d28025b7d4c70fc0db421d"
+      "notionUrl": "https://www.notion.so/Desempenho-fora-do-padr-o-sinal-t-cnico-o-preju-zo-vem-quando-n-o-tratado-35133d8db9d280038a36e19215124cd3"
     },
     {
       "title": "No Dia do Trabalho, quem mantém tudo em movimento não pode parar.",
@@ -1349,11 +1335,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem depende do veículo para trabalhar sabe que parar não é uma opção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "22/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quem-depende-do-ve-culo-para-trabalhar-sabe-que-parar-n-o-uma-op-o-34b33d8db9d280bcaf90d8b18e0f0224"
@@ -1385,12 +1369,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Diagn-stico-errado-gera-custo-retrabalho-e-o-problema-continua-34b33d8db9d280ee9afde1af2c0c4416"
     },
@@ -1399,10 +1380,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-o-seu-ve-culo-apresenta-esses-sinais-pode-ter-problema-no-sistema-de-inje-o-ou-na-turbina-34a33d8db9d2806ca16fe68ba6378049"
@@ -2440,7 +2419,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Seu corpo trabalhou o dia inteiro, seu descanso precisa acompanhar. Tecnologia que ajuda na recuperação física e mental.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/05",
+      "date": "20/05",
       "missing": [
         "Design"
       ],
@@ -2605,17 +2584,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Hoje-dia-de-reconhecer-quem-est-na-linha-de-frente-todos-os-dias-fazendo-a-diferen-a-com-dedica--35033d8db9d28059aeeed1276a184fef"
-    },
-    {
-      "title": "Respeito não é opinião. É um princípio. - Dia internacional contra homofobia",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Respeito-n-o-opini-o-um-princ-pio-Dia-internacional-contra-homofobia-35033d8db9d280c1b482f3755b61d998"
     },
     {
       "title": "Qualidade é o que sustenta cada resultado - Conheça os padrões que fazem a ItalaP ser referência na região",
@@ -2833,7 +2801,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "1 em cada 5 médicos enfrentará um processo judicial na carreira. Você tem o capital para uma defesa de elite?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/05",
       "missing": [],
@@ -2920,17 +2888,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Por-que-fia-es-antigas-em-Fortaleza-s-o-uma-bomba-rel-gio-para-o-seu-com-rcio-33433d8db9d280d4bb61c8009cc0aba8"
     },
     {
-      "title": "Feliz Aniversário, Marina",
-      "status": "st-paused",
-      "formato": "🖼️ Post",
-      "date": "17/05",
-      "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Feliz-Anivers-rio-Marina-18933d8db9d280ed9123c23a22f95c98"
-    },
-    {
       "title": "Feliz Aniversário, Pedro",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2966,9 +2923,7 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "📸 Foto(s)",
       "date": "21/05",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
@@ -3002,20 +2957,18 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se você não revisou seu seguro esse ano, você está desatualizado.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-voc-n-o-revisou-seu-seguro-esse-ano-voc-est-desatualizado-34b33d8db9d2808eabe1dab15769f881"
     },
     {
       "title": "3 coisas que não podem faltar na proteção do seu carro elétrico. H2: Carro elétrico não é igual ao tradicional. E a proteção também não pode ser.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "18/05",
       "missing": [],
@@ -3026,13 +2979,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Combustão vs. Elétrico: O que muda na sua proteção?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Combust-o-vs-El-trico-O-que-muda-na-sua-prote-o-34b33d8db9d280a9ad0dd66dd7a6209f"
@@ -3284,7 +3235,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Prevenção ainda é o caminho mais inteligente na saúde - Exames de rotina e acompanhamento médico podem evitar problemas maiores.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/05",
       "missing": [],
@@ -3735,7 +3686,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Você ouve os sinais do seu motor?",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "19/05",
+      "date": "20/05",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
@@ -3746,7 +3697,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Sinais que você não pode ignorar",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
@@ -3832,7 +3783,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Usucapião",
-      "status": "agendado",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "18/05",
       "missing": [],
@@ -4041,9 +3992,9 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Um exame simples",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
-      "date": "20/05",
+      "date": "18/05",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
@@ -4205,14 +4156,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Seguro pelo preço?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "20/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Seguro-pelo-pre-o-35233d8db9d2802b8e4ae1ccba67de6c"
     },
@@ -4433,20 +4382,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-35133d8db9d2803a9fe0c6612b962840"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "29/05",
+      "date": "28/05",
       "missing": [
         "Design"
       ],
@@ -4459,11 +4395,9 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "21/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d280b5b7ecf516877f3194"
@@ -4932,10 +4866,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-sabe-quanto-custa-a-bateria-de-um-carro-el-trico-34b33d8db9d280fabb75ddd403809d2b"
@@ -5191,16 +5123,6 @@ const DEMANDAS_EXTRAS = {
       "date": "06/05"
     }
   ],
-  "APROSSEG": [
-    {
-      "title": "Aniversariantes",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Aniversariantes-35733d8db9d2801a9c75ec3205a39d65",
-      "gestora": "Equipe",
-      "date": "13/05"
-    }
-  ],
   "Ventana": [
     {
       "title": "Melhorias no Notion (2025-04)",
@@ -5273,7 +5195,7 @@ const LEGENDAS_DATA = {
   },
   "Jota Diesel": {
     "prontas": 13,
-    "total": 14
+    "total": 13
   },
   "Ventana": {
     "prontas": 0,
@@ -5308,23 +5230,23 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "ItalaP": {
-    "prontas": 19,
-    "total": 20
+    "prontas": 18,
+    "total": 19
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 10,
     "total": 11
   },
   "Finseg Leal": {
-    "prontas": 16,
-    "total": 20
+    "prontas": 15,
+    "total": 19
   },
   "Di Gregório Buffet": {
     "prontas": 0,
     "total": 2
   },
   "APROSSEG": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 17
   },
   "Daniel Maia Advocacia": {
@@ -5371,11 +5293,11 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Jota Diesel": {
-    "post": 8,
-    "carrossel": 2,
+    "post": 9,
+    "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 4
+    "story": 3
   },
   "Ventana": {
     "post": 0,
@@ -5434,7 +5356,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "ItalaP": {
-    "post": 11,
+    "post": 10,
     "carrossel": 2,
     "foto": 0,
     "video": 7,
@@ -5448,7 +5370,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 15,
+    "post": 14,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
