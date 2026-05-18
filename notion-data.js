@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 17:10:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 18:44:42 **/
 
-const LAST_UPDATE = '18/05/2026, 17:10:28';
+const LAST_UPDATE = '18/05/2026, 18:44:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -468,7 +468,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2541,7 +2541,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cefaleia-tamb-m-sa-de-entenda-quando-investigar-35033d8db9d28056ab09fcba8ae9c73c"
@@ -4468,10 +4468,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Contrato-gen-rico-n-o-protege-neg-cio-nenhum-35633d8db9d280d59ae5f5b6d2581751"
