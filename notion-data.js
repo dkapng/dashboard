@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 18:44:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 19:53:44 **/
 
-const LAST_UPDATE = '18/05/2026, 18:44:42';
+const LAST_UPDATE = '18/05/2026, 19:53:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -75,7 +75,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
@@ -165,7 +165,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 12,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -960,10 +960,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-sabe-exatamente-quanto-precisa-faturar-para-n-o-ter-preju-zo-este-m-s-35233d8db9d280fb9bc6e05da9952df9"
@@ -984,10 +982,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seus-n-meros-de-maio-est-o-prontos-Na-Stratto-o-fechamento-n-o-uma-surpresa-um-processo-35033d8db9d280e78b28e368973f1dba"
@@ -2538,10 +2534,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cefaleia-tamb-m-sa-de-entenda-quando-investigar-35033d8db9d28056ab09fcba8ae9c73c"
@@ -2584,10 +2578,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-s-procura-exames-quando-sente-algo-Esse-h-bito-pode-estar-colocando-sua-sa-de-em-risco-33333d8db9d280858465c3efb6dfa1ce"
@@ -2727,7 +2719,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Acidente-pane-ou-imprevisto-A-Finseg-agora-conta-com-mais-um-canal-para-assist-ncia-e-sinistros-24-36433d8db9d2800eb7c5c5da9db0a9b3"
