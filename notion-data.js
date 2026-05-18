@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 19:53:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 20:59:23 **/
 
-const LAST_UPDATE = '18/05/2026, 19:53:44';
+const LAST_UPDATE = '18/05/2026, 20:59:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -181,7 +181,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 15,
-    "pronto": 9,
+    "pronto": 11,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
@@ -2716,10 +2716,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Acidente-pane-ou-imprevisto-A-Finseg-agora-conta-com-mais-um-canal-para-assist-ncia-e-sinistros-24-36433d8db9d2800eb7c5c5da9db0a9b3"
@@ -2740,10 +2738,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Equipamentos-caros-Proteja-sua-bike-e-acess-rios-contra-roubo-e-danos-34b33d8db9d280eaa0e7e52e878adbc0"
