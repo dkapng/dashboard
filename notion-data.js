@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/05/2026, 10:54:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/05/2026, 13:47:41 **/
 
-const LAST_UPDATE = '19/05/2026, 10:54:34';
+const LAST_UPDATE = '19/05/2026, 13:47:41';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4915,10 +4915,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Finseg Leal": [
     {
-      "title": "Folden para whatsapp",
+      "title": "Lembrete para whatsapp",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Folden-para-whatsapp-36533d8db9d280e9837ed11535318814",
+      "notionUrl": "https://www.notion.so/Lembrete-para-whatsapp-36533d8db9d280e9837ed11535318814",
       "gestora": "Equipe",
       "date": "20/05"
     },
