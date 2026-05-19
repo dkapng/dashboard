@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/05/2026, 20:59:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/05/2026, 00:55:29 **/
 
-const LAST_UPDATE = '18/05/2026, 20:59:23';
+const LAST_UPDATE = '19/05/2026, 00:55:29';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -66,12 +66,12 @@ const FEED_DATA = {
     "a_agendar": 10
   },
   "Ser Ponte": {
-    "total": 7,
-    "pronto": 7,
+    "total": 6,
+    "pronto": 6,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Stratto": {
     "total": 13,
@@ -107,7 +107,7 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 15,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 5,
     "agendado": 2,
     "agendado_coord": 0,
@@ -115,11 +115,11 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Terrartesã": {
-    "total": 13,
+    "total": 12,
     "pronto": 7,
     "postado": 1,
     "agendado": 3,
-    "agendado_coord": 4,
+    "agendado_coord": 3,
     "a_agendar": 3,
     "st-paused": null
   },
@@ -156,9 +156,9 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Ortobom": {
-    "total": 12,
-    "pronto": 9,
-    "postado": 4,
+    "total": 13,
+    "pronto": 10,
+    "postado": 5,
     "agendado": 5,
     "agendado_coord": 0,
     "a_agendar": 3
@@ -220,12 +220,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Solar Coworking": {
-    "total": 14,
-    "pronto": 8,
+    "total": 15,
+    "pronto": 12,
     "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 6,
+    "a_agendar": 7,
     "st-paused": null
   }
 };
@@ -452,18 +452,18 @@ const STORIES_DATA = {
   },
   "Univendas": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
   },
   "Terrartesã": {
-    "total": 3,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
-    "agendado_coord": 2,
+    "agendado_coord": 1,
     "a_agendar": 0
   },
   "RR Advocacia": {
@@ -484,7 +484,7 @@ const STORIES_DATA = {
   },
   "Planos Seguros": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -565,7 +565,7 @@ const STORIES_DATA = {
   },
   "Solar Coworking": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -842,7 +842,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Chegou o novo relatório anual da Ser Ponte! Acompanhe as principais ações realizadas em 2025",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "15/05",
+      "date": "19/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -913,19 +913,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-ser-ponte-em-uma-cidade-onde-falta-comida-em-milhares-de-casas-34933d8db9d28094853fd9946496dc6a"
-    },
-    {
-      "title": "30,9% da insegurança alimentar grave do Ceará está em Fortaleza, ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "18/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/30-9-da-inseguran-a-alimentar-grave-do-Cear-est-em-Fortaleza-a-4-maior-capital-do-Brasil-em-pop-34933d8db9d280178e6fdc1b5ed101ae"
     }
   ],
   "Stratto": [
@@ -1387,7 +1374,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Adiar o cuidado com a saúde tem um custo decida cuidar agora.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/05",
+      "date": "26/05",
       "missing": [
         "Design"
       ],
@@ -1444,11 +1431,9 @@ const LINHA_FEED_ITEMS = {
       "title": "A escolha do plano certo traz mais segurança no cuidado com a saúde.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "22/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-escolha-do-plano-certo-traz-mais-seguran-a-no-cuidado-com-a-sa-de-32533d8db9d28000aed5f8059a8dd164"
@@ -1491,10 +1476,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Plano-de-sa-de-n-o-s-cobertura-acesso-32533d8db9d2800a8393fc22ccc4a27c"
@@ -1648,19 +1631,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Celebramos-mulheres-que-ensinaram-sustentaram-e-mantiveram-vivo-um-fazer-que-carrega-identidade-cu-34533d8db9d2804ea1cdf55f65363950"
-    },
-    {
-      "title": "Muitas vezes, a venda é vista como o principal indicador de sucesso. Mas antes dela, existe um caminho que nem sempre aparece.",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "15/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Muitas-vezes-a-venda-vista-como-o-principal-indicador-de-sucesso-Mas-antes-dela-existe-um-camin-34533d8db9d280beb100cf7aa7fe118d"
     },
     {
       "title": "“Ser artesã é exercer uma profissão que exige técnica, tempo, conhecimento e reconhecimento”",
@@ -2304,6 +2274,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ortobom": [
+    {
+      "title": "Trend Neymar: A Ortobom está com a temporada aberta de conforto para você garantir o seu colchão com desconto.",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "18/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Trend-Neymar-A-Ortobom-est-com-a-temporada-aberta-de-conforto-para-voc-garantir-o-seu-colch-o-com-36533d8db9d280c8afedd6ce7e7653b8"
+    },
     {
       "title": "Como escolher o colchão ideal?",
       "status": "a_agendar",
@@ -3295,6 +3276,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "TBT do dia que fomos entrevistados pelo G1",
+      "status": "a_agendar",
+      "formato": "📸 Foto(s)",
+      "date": "21/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/TBT-do-dia-que-fomos-entrevistados-pelo-G1-36533d8db9d280f7a804fff03d095f31"
+    },
+    {
       "title": "Dia das Mães: reconhecer quem faz do amor uma presença constante.",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -3333,11 +3327,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Se o seu negócio está crescendo, o seu ambiente precisa acompanhar esse nível.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "22/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-o-seu-neg-cio-est-crescendo-o-seu-ambiente-precisa-acompanhar-esse-n-vel-34b33d8db9d280efa692fd124cf0413e"
@@ -3346,7 +3338,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A localização do seu negócio influencia diretamente quem chega até você.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/05",
+      "date": "26/05",
       "missing": [
         "Design"
       ],
@@ -3359,11 +3351,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Não é só sobre o que você faz, é sobre como o seu negócio se posiciona no detalhe.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "25/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/N-o-s-sobre-o-que-voc-faz-sobre-como-o-seu-neg-cio-se-posiciona-no-detalhe-34b33d8db9d280d8834de2e72ddbd0c3"
@@ -3384,10 +3374,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Escolher-onde-trabalhar-uma-decis-o-estrat-gica-n-o-apenas-operacional-34b33d8db9d2808b8abcf8c7c0d8a326"
@@ -4073,7 +4061,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Salão Chá ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "02/05",
+      "date": "20/05",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4087,7 +4075,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Doces do último casamento",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "01/05",
+      "date": "19/05",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4364,11 +4352,9 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "21/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2809190b6ef64ff0871bc"
@@ -4399,19 +4385,6 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Terrartesã": [
-    {
-      "title": "Story/stories",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d28002bb39f7e879edef6b"
-    },
     {
       "title": "Story/stories",
       "status": "postado",
@@ -4565,10 +4538,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-voc-precisou-usar-o-plano-a-experi-ncia-foi-exatamente-como-esperava-35233d8db9d280108134c609a80072a6"
@@ -4923,10 +4894,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "19/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d28024a589eac794c23956"
@@ -5140,7 +5109,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 1,
-    "total": 7
+    "total": 6
   },
   "Stratto": {
     "prontas": 17,
@@ -5163,8 +5132,8 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Terrartesã": {
-    "prontas": 15,
-    "total": 17
+    "prontas": 14,
+    "total": 16
   },
   "RR Advocacia": {
     "prontas": 17,
@@ -5183,8 +5152,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Ortobom": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 18,
+    "total": 18
   },
   "ItalaP": {
     "prontas": 18,
@@ -5216,7 +5185,7 @@ const LEGENDAS_DATA = {
   },
   "Solar Coworking": {
     "prontas": 14,
-    "total": 14
+    "total": 15
   }
 };
 
@@ -5229,7 +5198,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Ser Ponte": {
-    "post": 4,
+    "post": 3,
     "carrossel": 3,
     "foto": 0,
     "video": 0,
@@ -5271,11 +5240,11 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Terrartesã": {
-    "post": 13,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 3
+    "story": 2
   },
   "RR Advocacia": {
     "post": 9,
@@ -5306,7 +5275,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Ortobom": {
-    "post": 11,
+    "post": 12,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
@@ -5364,7 +5333,7 @@ const FORMAT_COUNTS = {
   "Solar Coworking": {
     "post": 14,
     "carrossel": 0,
-    "foto": 0,
+    "foto": 1,
     "video": 0,
     "story": 4
   }
