@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/05/2026, 07:56:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/05/2026, 10:54:34 **/
 
-const LAST_UPDATE = '19/05/2026, 07:56:34';
+const LAST_UPDATE = '19/05/2026, 10:54:34';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -166,10 +166,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 12,
     "pronto": 8,
-    "postado": 2,
+    "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Grupo Mulheres do Brasil": {
     "total": 11,
@@ -183,9 +183,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 11,
     "postado": 2,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -421,10 +421,10 @@ const STORIES_DATA = {
   "Stratto": {
     "total": 5,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -469,10 +469,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 4,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 4,
@@ -485,10 +485,10 @@ const STORIES_DATA = {
   "Planos Seguros": {
     "total": 4,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Plannea": {
     "total": 4,
@@ -526,10 +526,10 @@ const STORIES_DATA = {
   "Finseg Leal": {
     "total": 4,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -542,10 +542,10 @@ const STORIES_DATA = {
   "APROSSEG": {
     "total": 3,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -2510,7 +2510,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cefaleia também é saúde: entenda quando investigar.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/05",
       "missing": [],
@@ -2692,7 +2692,7 @@ const LINHA_FEED_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Acidente, pane ou imprevisto? A Finseg agora conta com mais um canal para assistência e sinistros 24h. 0800 591 2311 salve esse contato — ele pode ajudar quando você mais precisar",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [],
@@ -4205,7 +4205,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Existe uma diferença grande entre ter números e confiar neles.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "19/05",
       "missing": [],
@@ -4424,7 +4424,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Contrato genérico não protege negócio nenhum.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "19/05",
       "missing": [],
@@ -4533,7 +4533,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Quando você precisou usar o plano, a experiência foi exatamente como esperava?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "19/05",
       "missing": [],
@@ -4743,7 +4743,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Proteção para imprevistos: Receba por cada dia que precisar de cuidados médicos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "19/05",
       "missing": [],
@@ -4781,7 +4781,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Você sabe quanto custa a bateria de um carro elétrico?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "19/05",
       "missing": [],
@@ -4913,6 +4913,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "Folden para whatsapp",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Folden-para-whatsapp-36533d8db9d280e9837ed11535318814",
+      "gestora": "Equipe",
+      "date": "20/05"
+    },
+    {
+      "title": "Atualização de preços",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Atualiza-o-de-pre-os-36533d8db9d280e48f8ada27d38742cd",
+      "gestora": "Equipe",
+      "date": "21/05"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Assinaturas de e-mail",
@@ -5061,16 +5087,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Pacote-de-demandas-de-identidade-visual-01-27033d8db9d2808993bbc4483bbb3a31",
       "gestora": "Equipe",
       "date": "28/02"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "RR Advocacia": [
