@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/05/2026, 00:55:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/05/2026, 04:40:17 **/
 
-const LAST_UPDATE = '19/05/2026, 00:55:29';
+const LAST_UPDATE = '19/05/2026, 04:40:17';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -157,7 +157,7 @@ const FEED_DATA = {
   },
   "Ortobom": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 5,
     "agendado": 5,
     "agendado_coord": 0,
@@ -2349,10 +2349,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-quarto-tamb-m-influencia-no-seu-descanso-Ambiente-conforto-qualidade-de-vida-35233d8db9d280d3b8e1e24fcc9124d2"
@@ -4915,14 +4913,70 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Grupo Mulheres do Brasil": [
+  "Planos Seguros": [
     {
-      "title": "Portfólio do Grupo Mulheres do Brasil",
+      "title": "Assinaturas de e-mail",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Assinaturas-de-e-mail-36533d8db9d280cea96ed3518ccb6187",
+      "gestora": "Equipe",
+      "date": "19/05"
+    },
+    {
+      "title": "Elegibilidade por Operadora",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Elegibilidade-por-Operadora-36533d8db9d280699c4ad7e47ca76da7",
+      "gestora": "Equipe",
+      "date": "18/05"
+    },
+    {
+      "title": "Checklist de cotações (o que é preciso para cotar)",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Checklist-de-cota-es-o-que-preciso-para-cotar-36533d8db9d280de81d5e78e9aefc106",
+      "gestora": "Equipe",
+      "date": "18/05"
+    },
+    {
+      "title": "Conversa informal com o Paulo (Ideias)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Conversa-informal-com-o-Paulo-Ideias-35d33d8db9d280edb378d04bc6fb0632",
+      "gestora": "Equipe",
+      "date": "29/05"
+    },
+    {
+      "title": "Checklist",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://www.notion.so/Checklist-34233d8db9d280418cc7f0d749f20a4a",
+      "gestora": "Equipe",
+      "date": "13/04"
+    },
+    {
+      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
+      "gestora": "Equipe",
+      "date": "22/05"
+    },
+    {
+      "title": "Boas vindas individual (E-mail)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
+      "gestora": "Equipe",
+      "date": "22/05"
+    },
+    {
+      "title": "Gestão de e-mails",
       "priority": "pppp",
       "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Portf-lio-do-Grupo-Mulheres-do-Brasil-36033d8db9d28049a0f6e65d5e8c9aa4",
+      "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
       "gestora": "Equipe",
-      "date": "15T11:00:00.000/05"
+      "date": "29/05"
     }
   ],
   "Univendas": [
@@ -4958,15 +5012,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "2. Falta informação",
       "notionUrl": "https://www.notion.so/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
       "gestora": "Equipe",
-      "date": "12/05"
-    },
-    {
-      "title": "Narração para vídeo institucional",
-      "priority": "ppp",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Narra-o-para-v-deo-institucional-34a33d8db9d280978e4cf820c61929d5",
-      "gestora": "Equipe",
-      "date": "08/05"
+      "date": "22/05"
     }
   ],
   "Juntos contra o HPV": [
@@ -4979,57 +5025,17 @@ const DEMANDAS_EXTRAS = {
       "date": "15/05"
     }
   ],
-  "Planos Seguros": [
+  "APROSSEG": [
     {
-      "title": "Informação",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Informa-o-35d33d8db9d280edb378d04bc6fb0632",
-      "gestora": "Equipe",
-      "date": "15/05"
-    },
-    {
-      "title": "Checklist",
+      "title": "Aniversariantes",
       "priority": "p",
       "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Checklist-34233d8db9d280418cc7f0d749f20a4a",
+      "notionUrl": "https://www.notion.so/Aniversariantes-35733d8db9d2801a9c75ec3205a39d65",
       "gestora": "Equipe",
-      "date": "13/04"
-    },
-    {
-      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
-      "gestora": "Equipe",
-      "date": "08/05"
-    },
-    {
-      "title": "Boas vindas individual (E-mail)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
-      "gestora": "Equipe",
-      "date": "08/05"
-    },
-    {
-      "title": "Gestão de e-mails",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
-      "gestora": "Equipe",
-      "date": "08/05"
+      "date": "19/05"
     }
   ],
   "Daniel Maia Advocacia": [
-    {
-      "title": "Gestão de e-mails - Estagiário",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-Estagi-rio-35933d8db9d2804191c5f99de9da3d0d",
-      "gestora": "Equipe",
-      "date": "06/05"
-    },
     {
       "title": "Capas de destaques do Instagram",
       "priority": "p",
@@ -5037,16 +5043,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
       "gestora": "Equipe",
       "date": "06/05"
-    }
-  ],
-  "APROSSEG": [
-    {
-      "title": "Aniversariantes",
-      "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://www.notion.so/Aniversariantes-35733d8db9d2801a9c75ec3205a39d65",
-      "gestora": "Equipe",
-      "date": "19/05"
     }
   ],
   "Ventana": [
