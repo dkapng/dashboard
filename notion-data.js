@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/05/2026, 21:08:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 01:44:06 **/
 
-const LAST_UPDATE = '19/05/2026, 21:08:27';
+const LAST_UPDATE = '20/05/2026, 01:44:06';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -2005,7 +2005,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Relacionamentos duradouros com clientes não são construídos no fechamento, mas no acompanhamento contínuo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/05",
+      "date": "20/05",
       "missing": [
         "Design"
       ],
@@ -2064,7 +2064,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Antes de escolher um plano para sua família, responda isso",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "20/05",
+      "date": "22/05",
       "missing": [
         "Design"
       ],
