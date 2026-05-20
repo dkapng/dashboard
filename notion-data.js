@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 17:05:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 19:09:52 **/
 
-const LAST_UPDATE = '20/05/2026, 17:05:04';
+const LAST_UPDATE = '20/05/2026, 19:09:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -83,11 +83,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 12,
-    "postado": 0,
+    "pronto": 13,
+    "postado": 1,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 9,
@@ -133,7 +133,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 14,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 0,
     "agendado": 8,
     "agendado_coord": 1,
@@ -1080,13 +1080,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A prevenção começa com informação e acesso! Esperamos você em São Luís do Curu!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-preven-o-come-a-com-informa-o-e-acesso-Esperamos-voc-em-S-o-Lu-s-do-Curu-35e33d8db9d280c28a99e9cdd28d0056"
@@ -1895,10 +1893,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-mercado-abra-ou-o-ESG-Mas-entendeu-o-social-35033d8db9d280eda129dd99e52fdd25"
@@ -4988,14 +4984,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/A-o-da-carreta-video-35e33d8db9d2806a8384fda8081ed22b",
       "gestora": "Equipe",
       "date": "21/05"
-    },
-    {
-      "title": "Ação da carreta - Design",
-      "priority": "pp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/A-o-da-carreta-Design-35e33d8db9d28032b5ebfe025fb5d85f",
-      "gestora": "Equipe",
-      "date": "20/05"
     }
   ],
   "Daniel Maia Advocacia": [
