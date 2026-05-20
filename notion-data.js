@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 14:38:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 17:05:04 **/
 
-const LAST_UPDATE = '20/05/2026, 14:38:07';
+const LAST_UPDATE = '20/05/2026, 17:05:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -76,10 +76,10 @@ const FEED_DATA = {
   "Stratto": {
     "total": 13,
     "pronto": 10,
-    "postado": 1,
+    "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 16,
@@ -125,11 +125,11 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 10,
-    "pronto": 6,
-    "postado": 3,
+    "pronto": 8,
+    "postado": 4,
     "agendado": 1,
     "agendado_coord": 2,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 14,
@@ -141,11 +141,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 11,
-    "pronto": 7,
-    "postado": 4,
+    "pronto": 8,
+    "postado": 5,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Plannea": {
     "total": 14,
@@ -213,15 +213,15 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 16,
-    "pronto": 11,
-    "postado": 3,
+    "pronto": 12,
+    "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 15,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 3,
     "agendado": 5,
     "agendado_coord": 0,
@@ -966,7 +966,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seus números de maio estão prontos? Na Stratto, o fechamento não é uma surpresa, é um processo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [],
@@ -1086,7 +1086,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-preven-o-come-a-com-informa-o-e-acesso-Esperamos-voc-em-S-o-Lu-s-do-Curu-35e33d8db9d280c28a99e9cdd28d0056"
@@ -1707,10 +1707,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Ambiente-de-trabalho-tamb-m-quest-o-jur-dica-35633d8db9d2804e9a2bd0b7990c415d"
@@ -1741,13 +1739,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Critério jurídico não é excesso. É proteção.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Crit-rio-jur-dico-n-o-excesso-prote-o-35633d8db9d28058b7eaec61dea11c83"
@@ -2003,13 +1999,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Relacionamentos duradouros com clientes não são construídos no fechamento, mas no acompanhamento contínuo.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Relacionamentos-duradouros-com-clientes-n-o-s-o-constru-dos-no-fechamento-mas-no-acompanhamento-con-35233d8db9d28017a94fee67a65b05b2"
@@ -3120,13 +3114,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Antes de tomar qualquer decisão, vale entender o que faz sentido para sua empresa. Vamos conversar?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Antes-de-tomar-qualquer-decis-o-vale-entender-o-que-faz-sentido-para-sua-empresa-Vamos-conversar-35233d8db9d2807c897bcdd284597cc1"
@@ -3311,10 +3303,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-o-seu-neg-cio-est-crescendo-o-seu-ambiente-precisa-acompanhar-esse-n-vel-34b33d8db9d280efa692fd124cf0413e"
@@ -4558,7 +4548,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Na prática, o que você acompanha mais hoje na sua empresa?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "19/05",
+      "date": "20/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
