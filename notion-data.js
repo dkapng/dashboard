@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 08:25:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 11:04:02 **/
 
-const LAST_UPDATE = '20/05/2026, 08:25:49';
+const LAST_UPDATE = '20/05/2026, 11:04:02';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -108,10 +108,10 @@ const FEED_DATA = {
   "Univendas": {
     "total": 15,
     "pronto": 10,
-    "postado": 5,
-    "agendado": 2,
+    "postado": 6,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 7,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Terrartesã": {
@@ -140,12 +140,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Planos Seguros": {
-    "total": 12,
+    "total": 11,
     "pronto": 7,
     "postado": 4,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Plannea": {
     "total": 14,
@@ -221,11 +221,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 15,
-    "pronto": 12,
-    "postado": 2,
+    "pronto": 11,
+    "postado": 3,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 7,
+    "a_agendar": 6,
     "st-paused": null
   }
 };
@@ -256,12 +256,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 7,
+    "total": 6,
     "pronto": 4,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 4,
@@ -566,10 +566,10 @@ const STORIES_DATA = {
   "Solar Coworking": {
     "total": 4,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   }
 };
 
@@ -1429,7 +1429,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A escolha do plano certo traz mais segurança no cuidado com a saúde.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [],
@@ -1473,7 +1473,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Plano de saúde não é só cobertura. É acesso.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [],
@@ -1979,7 +1979,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Prevenção não é um movimento pontual, é uma construção que acontece antes de qualquer problema surgir.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/05",
+      "date": "27/05",
       "missing": [
         "Design"
       ],
@@ -1992,7 +1992,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nos primeiros minutos após um imprevisto, saber o que fazer pode fazer mais diferença do que o próprio seguro.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/05",
+      "date": "22/05",
       "missing": [
         "Design"
       ],
@@ -2040,7 +2040,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a comparação ignora o contexto, a escolha tende a resolver o agora e criar problemas depois.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/05",
+      "date": "25/05",
       "missing": [
         "Design"
       ],
@@ -2059,19 +2059,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-sensa-o-de-tranquilidade-n-o-vem-do-contrato-assinado-mas-da-seguran-a-de-que-ele-responde-quand-35233d8db9d28044b097d2ca21c956ef"
-    },
-    {
-      "title": "Antes de escolher um plano para sua família, responda isso",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Antes-de-escolher-um-plano-para-sua-fam-lia-responda-isso-35233d8db9d2803fb8c4ef2b6b33aa47"
     },
     {
       "title": "Você sabia que o Dia Continental do Seguro nasceu de uma reunião histórica? ",
@@ -2146,14 +2133,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Abrir-empresa-f-cil-Come-ar-do-jeito-certo-outra-hist-ria-que-voc-pode-contar-com-a-Plannea-35733d8db9d2805a9564fab23a3ff3db"
     },
     {
-      "title": "Se a cultura é o que nos define, o RH é o que mantém tudo funcionando, Parabéns time de milhões!",
+      "title": "Se a cultura é o que nos define, o RH é o que mantém tudo funcionando. Parabéns, time de milhões!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-a-cultura-o-que-nos-define-o-RH-o-que-mant-m-tudo-funcionando-Parab-ns-time-de-milh-es-35733d8db9d280d0b55dc8ba7848d529"
@@ -3326,8 +3313,10 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-o-seu-neg-cio-est-crescendo-o-seu-ambiente-precisa-acompanhar-esse-n-vel-34b33d8db9d280efa692fd124cf0413e"
@@ -3369,7 +3358,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Escolher onde trabalhar é uma decisão estratégica, não apenas operacional.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/05",
       "missing": [],
@@ -3562,20 +3551,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://www.notion.so/a-o-do-dia-22-35e33d8db9d280e9b8a3e8ed967b3fdd"
-    },
-    {
-      "title": "Video de convite (aguardando ser enviado)",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "19/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/Video-de-convite-aguardando-ser-enviado-35e33d8db9d28034b0b6d291bb776235"
     },
     {
       "title": "Vídeo",
@@ -4889,7 +4864,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "19/05",
       "missing": [],
@@ -4925,7 +4900,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualização de preços",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Atualiza-o-de-pre-os-36533d8db9d280e48f8ada27d38742cd",
       "gestora": "Equipe",
       "date": "21/05"
@@ -4941,20 +4916,12 @@ const DEMANDAS_EXTRAS = {
   ],
   "Planos Seguros": [
     {
-      "title": "Assinaturas de e-mail",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Assinaturas-de-e-mail-36533d8db9d280cea96ed3518ccb6187",
-      "gestora": "Equipe",
-      "date": "19/05"
-    },
-    {
       "title": "Elegibilidade por Operadora",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Elegibilidade-por-Operadora-36533d8db9d280699c4ad7e47ca76da7",
       "gestora": "Equipe",
-      "date": "18/05"
+      "date": "21/05"
     },
     {
       "title": "Checklist de cotações (o que é preciso para cotar)",
@@ -4963,22 +4930,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Checklist-de-cota-es-o-que-preciso-para-cotar-36533d8db9d280de81d5e78e9aefc106",
       "gestora": "Equipe",
       "date": "18/05"
-    },
-    {
-      "title": "Conversa informal com o Paulo (Ideias)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Conversa-informal-com-o-Paulo-Ideias-35d33d8db9d280edb378d04bc6fb0632",
-      "gestora": "Equipe",
-      "date": "29/05"
-    },
-    {
-      "title": "Checklist",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Checklist-34233d8db9d280418cc7f0d749f20a4a",
-      "gestora": "Equipe",
-      "date": "13/04"
     },
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -5048,17 +4999,15 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/A-o-da-carreta-video-35e33d8db9d2806a8384fda8081ed22b",
       "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
-  "APROSSEG": [
+      "date": "21/05"
+    },
     {
-      "title": "Aniversariantes",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Aniversariantes-35733d8db9d2801a9c75ec3205a39d65",
+      "title": "Ação da carreta - Design",
+      "priority": "pp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://www.notion.so/A-o-da-carreta-Design-35e33d8db9d28032b5ebfe025fb5d85f",
       "gestora": "Equipe",
-      "date": "19/05"
+      "date": "20/05"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -5129,7 +5078,7 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 22,
-    "total": 26
+    "total": 25
   },
   "Jota Diesel": {
     "prontas": 13,
@@ -5156,8 +5105,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Planos Seguros": {
-    "prontas": 13,
-    "total": 13
+    "prontas": 12,
+    "total": 12
   },
   "Plannea": {
     "prontas": 17,
@@ -5185,7 +5134,7 @@ const LEGENDAS_DATA = {
   },
   "APROSSEG": {
     "prontas": 16,
-    "total": 17
+    "total": 19
   },
   "Daniel Maia Advocacia": {
     "prontas": 8,
@@ -5227,7 +5176,7 @@ const FORMAT_COUNTS = {
     "post": 16,
     "carrossel": 0,
     "foto": 0,
-    "video": 7,
+    "video": 6,
     "story": 5
   },
   "Jota Diesel": {
@@ -5274,7 +5223,7 @@ const FORMAT_COUNTS = {
   },
   "Planos Seguros": {
     "post": 11,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
     "video": 1,
     "story": 4
