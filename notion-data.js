@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 11:04:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 14:38:07 **/
 
-const LAST_UPDATE = '20/05/2026, 11:04:02';
+const LAST_UPDATE = '20/05/2026, 14:38:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -69,9 +69,9 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 6,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 13,
@@ -149,7 +149,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 14,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
@@ -840,7 +840,7 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Chegou o novo relatório anual da Ser Ponte! Acompanhe as principais ações realizadas em 2025",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "19/05",
       "missing": [],
@@ -2137,10 +2137,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-a-cultura-o-que-nos-define-o-RH-o-que-mant-m-tudo-funcionando-Parab-ns-time-de-milh-es-35733d8db9d280d0b55dc8ba7848d529"
@@ -4892,7 +4890,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Lembrete para whatsapp",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Lembrete-para-whatsapp-36533d8db9d280e9837ed11535318814",
       "gestora": "Equipe",
       "date": "20/05"
@@ -4900,7 +4898,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualização de preços",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Atualiza-o-de-pre-os-36533d8db9d280e48f8ada27d38742cd",
       "gestora": "Equipe",
       "date": "21/05"
