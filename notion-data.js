@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 23:40:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 03:48:02 **/
 
-const LAST_UPDATE = '20/05/2026, 23:40:34';
+const LAST_UPDATE = '21/05/2026, 03:48:02';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4902,7 +4902,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Assinaturas de e-mail",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Assinaturas-de-e-mail-36533d8db9d280cea96ed3518ccb6187",
       "gestora": "Equipe",
       "date": "21/05"
