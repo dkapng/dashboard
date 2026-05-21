@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 20:46:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/05/2026, 23:40:34 **/
 
-const LAST_UPDATE = '20/05/2026, 20:46:39';
+const LAST_UPDATE = '20/05/2026, 23:40:34';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4900,6 +4900,14 @@ const DEMANDAS_EXTRAS = {
   ],
   "Planos Seguros": [
     {
+      "title": "Assinaturas de e-mail",
+      "priority": "p",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://www.notion.so/Assinaturas-de-e-mail-36533d8db9d280cea96ed3518ccb6187",
+      "gestora": "Equipe",
+      "date": "21/05"
+    },
+    {
       "title": "Elegibilidade por Operadora",
       "priority": "p",
       "rawStatus": "2. Alterações a fazer",
@@ -4984,16 +4992,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/A-o-da-carreta-video-35e33d8db9d2806a8384fda8081ed22b",
       "gestora": "Equipe",
       "date": "21/05"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Capas de destaques do Instagram",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://www.notion.so/Capas-de-destaques-do-Instagram-35033d8db9d280b9b60bc42b6ef47af6",
-      "gestora": "Equipe",
-      "date": "06/05"
     }
   ],
   "Ventana": [
