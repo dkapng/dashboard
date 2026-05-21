@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 16:23:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 18:08:46 **/
 
-const LAST_UPDATE = '21/05/2026, 16:23:56';
+const LAST_UPDATE = '21/05/2026, 18:08:46';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -222,10 +222,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 15,
     "pronto": 12,
-    "postado": 3,
+    "postado": 4,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 6,
+    "a_agendar": 5,
     "st-paused": null
   }
 };
@@ -476,7 +476,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -492,11 +492,12 @@ const STORIES_DATA = {
   },
   "Plannea": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2,
+    "st-paused": null
   },
   "Ortobom": {
     "total": 5,
@@ -3256,14 +3257,12 @@ const LINHA_FEED_ITEMS = {
   "Solar Coworking": [
     {
       "title": "TBT do dia que fomos entrevistados pelo G1",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📸 Foto(s)",
       "date": "21/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/TBT-do-dia-que-fomos-entrevistados-pelo-G1-36533d8db9d280f7a804fff03d095f31"
     },
@@ -4424,10 +4423,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "21/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-voc-pensa-em-ESG-qual-letra-vem-primeiro-na-sua-cabe-a-35133d8db9d280bbaa53cbafd1a22a65"
@@ -4519,12 +4516,10 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "No dia a dia, tem coisa que a gente só percebe quando falta.",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "📱 Story",
       "date": "21/05",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -5054,7 +5049,7 @@ const LEGENDAS_DATA = {
     "total": 21
   },
   "Solar Coworking": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 15
   }
 };
