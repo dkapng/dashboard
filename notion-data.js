@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 11:00:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 14:10:15 **/
 
-const LAST_UPDATE = '21/05/2026, 11:00:46';
+const LAST_UPDATE = '21/05/2026, 14:10:15';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -77,17 +77,17 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 10,
     "postado": 2,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
-    "total": 16,
+    "total": 17,
     "pronto": 13,
     "postado": 1,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Jota Diesel": {
     "total": 9,
@@ -183,9 +183,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 11,
     "postado": 2,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -256,12 +256,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 6,
+    "total": 5,
     "pronto": 4,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 4,
@@ -355,9 +355,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 2,
@@ -385,11 +385,11 @@ const VIDEO_DATA = {
   },
   "Conecta Assessoria": {
     "total": 2,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 0,
@@ -508,12 +508,12 @@ const STORIES_DATA = {
     "st-paused": null
   },
   "ItalaP": {
-    "total": 3,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -944,7 +944,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe exatamente quanto precisa faturar para não ter prejuízo este mês?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [],
@@ -1067,6 +1067,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "VACINAÇÃO NA CARRETA DA SAÚDE em São Luís do Curu (continua nos comentarios)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/VACINA-O-NA-CARRETA-DA-SA-DE-em-S-o-Lu-s-do-Curu-continua-nos-comentarios-36733d8db9d28071a677cc04b5b49b69"
+    },
     {
       "title": "Hoje é dia de mobilização em São Luís do Curu ✔ vacinação HPV\n✔ exames preventivos ✔ carreta de prevenção ✔ atividades educativas ✔ atendimento à população",
       "status": "agendado",
@@ -2689,7 +2703,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Equipamentos caros? Proteja sua bike e acessórios contra roubo e danos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [],
@@ -3523,20 +3537,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/tik-tik-36033d8db9d280268f70f41c66120a9d"
     },
     {
-      "title": "ação do dia 22",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/a-o-do-dia-22-35e33d8db9d280e9b8a3e8ed967b3fdd"
-    },
-    {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3979,14 +3979,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Financeiro + Corretora",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "21/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Financeiro-Corretora-35233d8db9d280f3b25ef65479c65f6f"
     },
@@ -4120,15 +4118,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "roteiro 01: Sua empresa está pronta para a NR1?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "21/05",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/roteiro-01-Sua-empresa-est-pronta-para-a-NR1-35233d8db9d280839102dc8549f679ad"
     }
   ],
@@ -4648,19 +4644,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-j-acessou-seus-exames-pelo-celular-alguma-vez-33333d8db9d28001a5f7ff7b152cdd9a"
-    },
-    {
-      "title": "Você cuida da sua saúde com a mesma prioridade que cuida da sua rotina?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "21/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Voc-cuida-da-sua-sa-de-com-a-mesma-prioridade-que-cuida-da-sua-rotina-33333d8db9d28007bf87c6efbd9feeaa"
     }
   ],
   "Grupo Mulheres do Brasil": [],
@@ -4791,7 +4774,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "#ConectaInforma",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "19/05",
+      "date": "22/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -5084,14 +5067,14 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 18,
-    "total": 19
+    "total": 20
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 11,
     "total": 12
   },
   "Finseg Leal": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 19
   },
   "Di Gregório Buffet": {
@@ -5139,10 +5122,10 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Juntos contra o HPV": {
-    "post": 16,
+    "post": 17,
     "carrossel": 0,
     "foto": 0,
-    "video": 6,
+    "video": 5,
     "story": 5
   },
   "Jota Diesel": {
@@ -5213,7 +5196,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 7,
-    "story": 3
+    "story": 2
   },
   "Grupo Mulheres do Brasil": {
     "post": 11,
