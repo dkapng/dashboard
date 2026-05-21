@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 14:10:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 16:23:56 **/
 
-const LAST_UPDATE = '21/05/2026, 14:10:15';
+const LAST_UPDATE = '21/05/2026, 16:23:56';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -59,7 +59,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 21,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 1,
     "agendado": 10,
     "agendado_coord": 0,
@@ -83,11 +83,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 17,
-    "pronto": 13,
-    "postado": 1,
+    "pronto": 14,
+    "postado": 2,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 9,
@@ -140,12 +140,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Planos Seguros": {
-    "total": 11,
+    "total": 12,
     "pronto": 8,
     "postado": 5,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Plannea": {
     "total": 14,
@@ -167,9 +167,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 8,
     "postado": 3,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
     "total": 11,
@@ -180,12 +180,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Finseg Leal": {
-    "total": 15,
+    "total": 14,
     "pronto": 11,
     "postado": 2,
     "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -756,10 +756,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Estamos-no-cora-o-de-Fortaleza-com-uma-exposi-o-t-o-efervescente-quanto-Voc-est-convidado-para-35233d8db9d280aa9a0cf25e6775ddaf"
@@ -1069,15 +1068,12 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "VACINAÇÃO NA CARRETA DA SAÚDE em São Luís do Curu (continua nos comentarios)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/VACINA-O-NA-CARRETA-DA-SA-DE-em-S-o-Lu-s-do-Curu-continua-nos-comentarios-36733d8db9d28071a677cc04b5b49b69"
     },
@@ -1971,6 +1967,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "O segundo semestre começa antes de julho. Ele começa na revisão do que ficou para trás.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-segundo-semestre-come-a-antes-de-julho-Ele-come-a-na-revis-o-do-que-ficou-para-tr-s-36733d8db9d280089264d84b59d2a4fb"
+    },
+    {
       "title": "Mãe - Figura que representa amor incondicional, cuidado, proteção e dedicação constante. Pessoa que acolhe, orienta, fortalece e oferece segurança, seja por laços biológicos ou afetivos. Sinônimo de presença, força e entrega. Frequentemente descrita como alguém que “carrega o coração fora do peito”.",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -2543,7 +2552,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você só procura exames quando sente algo? Esse hábito pode estar colocando sua saúde em risco.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [],
@@ -2726,6 +2735,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Quem-est-com-voc-todos-os-dias-tamb-m-precisa-de-prote-o-34b33d8db9d280f4b965d4c63d5e9ee8"
     },
     {
+      "title": "70% dos profissionais liberais reduzem o padrão de vida após 30 dias parados",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/70-dos-profissionais-liberais-reduzem-o-padr-o-de-vida-ap-s-30-dias-parados-34b33d8db9d28003b75ecec40cba631f"
+    },
+    {
       "title": "Burnout e lesões: O custo real do afastamento na área da saúde",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2825,34 +2847,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Por-que-fia-es-antigas-em-Fortaleza-s-o-uma-bomba-rel-gio-para-o-seu-com-rcio-33433d8db9d280d4bb61c8009cc0aba8"
-    },
-    {
-      "title": "Feliz Aniversário, Pedro",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Feliz-Anivers-rio-Pedro-18933d8db9d28092af11d025693c9bef"
-    },
-    {
-      "title": "Feliz Aniversário, Suelen",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "27/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Feliz-Anivers-rio-Suelen-18933d8db9d280c18b70e06b69bda7e0"
     }
   ],
   "Di Gregório Buffet": [],
@@ -4433,7 +4427,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-voc-pensa-em-ESG-qual-letra-vem-primeiro-na-sua-cabe-a-35133d8db9d280bbaa53cbafd1a22a65"
@@ -4855,46 +4849,12 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Finseg Leal": [
-    {
-      "title": "Lembrete para whatsapp",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Lembrete-para-whatsapp-36533d8db9d280e9837ed11535318814",
-      "gestora": "Equipe",
-      "date": "20/05"
-    },
-    {
-      "title": "Atualização de preços",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Atualiza-o-de-pre-os-36533d8db9d280e48f8ada27d38742cd",
-      "gestora": "Equipe",
-      "date": "21/05"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
   "Planos Seguros": [
     {
       "title": "Elegibilidade por Operadora",
       "priority": "p",
       "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Elegibilidade-por-Operadora-36533d8db9d280699c4ad7e47ca76da7",
-      "gestora": "Equipe",
-      "date": "21/05"
-    },
-    {
-      "title": "Checklist de cotações (o que é preciso para cotar)",
-      "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://www.notion.so/Checklist-de-cota-es-o-que-preciso-para-cotar-36533d8db9d280de81d5e78e9aefc106",
       "gestora": "Equipe",
       "date": "21/05"
     },
@@ -4959,16 +4919,6 @@ const DEMANDAS_EXTRAS = {
       "date": "22/05"
     }
   ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Ação da carreta - video",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/A-o-da-carreta-video-35e33d8db9d2806a8384fda8081ed22b",
-      "gestora": "Equipe",
-      "date": "21/05"
-    }
-  ],
   "Ventana": [
     {
       "title": "Melhorias no Notion (2025-04)",
@@ -4985,6 +4935,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Pacote-de-demandas-de-identidade-visual-01-27033d8db9d2808993bbc4483bbb3a31",
       "gestora": "Equipe",
       "date": "28/02"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
     }
   ],
   "RR Advocacia": [
@@ -5026,7 +4986,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Juntos contra o HPV": {
-    "prontas": 22,
+    "prontas": 23,
     "total": 25
   },
   "Jota Diesel": {
@@ -5054,7 +5014,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Planos Seguros": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 13
   },
   "Plannea": {
@@ -5067,15 +5027,15 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 18,
-    "total": 20
+    "total": 19
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 11,
     "total": 12
   },
   "Finseg Leal": {
-    "prontas": 16,
-    "total": 19
+    "prontas": 17,
+    "total": 18
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -5171,7 +5131,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Planos Seguros": {
-    "post": 11,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 1,
@@ -5206,7 +5166,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 14,
+    "post": 13,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
