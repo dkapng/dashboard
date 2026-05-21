@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 07:35:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/05/2026, 11:00:46 **/
 
-const LAST_UPDATE = '21/05/2026, 07:35:19';
+const LAST_UPDATE = '21/05/2026, 11:00:46';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -437,10 +437,10 @@ const STORIES_DATA = {
   "Jota Diesel": {
     "total": 3,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -453,10 +453,10 @@ const STORIES_DATA = {
   "Univendas": {
     "total": 3,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Terrartesã": {
     "total": 2,
@@ -501,10 +501,10 @@ const STORIES_DATA = {
   "Ortobom": {
     "total": 5,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3,
+    "a_agendar": 2,
     "st-paused": null
   },
   "ItalaP": {
@@ -4293,7 +4293,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "21/05",
       "missing": [],
@@ -4307,7 +4307,7 @@ const LINHA_STORIES_ITEMS = {
   "Univendas": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "21/05",
       "missing": [],
@@ -4579,7 +4579,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "21/05",
       "missing": [],
@@ -4900,14 +4900,6 @@ const DEMANDAS_EXTRAS = {
   ],
   "Planos Seguros": [
     {
-      "title": "Assinaturas de e-mail",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Assinaturas-de-e-mail-36533d8db9d280cea96ed3518ccb6187",
-      "gestora": "Equipe",
-      "date": "21/05"
-    },
-    {
       "title": "Elegibilidade por Operadora",
       "priority": "p",
       "rawStatus": "2. Alterações a fazer",
@@ -4918,10 +4910,10 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Checklist de cotações (o que é preciso para cotar)",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://www.notion.so/Checklist-de-cota-es-o-que-preciso-para-cotar-36533d8db9d280de81d5e78e9aefc106",
       "gestora": "Equipe",
-      "date": "18/05"
+      "date": "21/05"
     },
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -5028,10 +5020,10 @@ const CAPTACAO_DATA = {
   "Daniel Maia Advocacia": "marcada",
   "Finseg Leal": "marcada",
   "APROSSEG": "realizada",
-  "Juntos contra o HPV": "marcada",
+  "Juntos contra o HPV": "realizada",
   "Planos Seguros": "marcada",
   "Ortobom": "marcada",
-  "Conecta Assessoria": "marcada",
+  "Conecta Assessoria": "realizada",
   "Plannea": "realizada"
 };
 
@@ -5080,7 +5072,7 @@ const LEGENDAS_DATA = {
   },
   "Planos Seguros": {
     "prontas": 12,
-    "total": 12
+    "total": 13
   },
   "Plannea": {
     "prontas": 17,
