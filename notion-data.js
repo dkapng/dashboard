@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/05/2026, 14:47:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/05/2026, 16:25:59 **/
 
-const LAST_UPDATE = '22/05/2026, 14:47:05';
+const LAST_UPDATE = '22/05/2026, 16:25:59';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -188,12 +188,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Di Gregório Buffet": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "APROSSEG": {
     "total": 12,
@@ -213,11 +213,11 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 16,
-    "pronto": 12,
-    "postado": 4,
+    "pronto": 13,
+    "postado": 5,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 15,
@@ -2846,7 +2846,22 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Por-que-fia-es-antigas-em-Fortaleza-s-o-uma-bomba-rel-gio-para-o-seu-com-rcio-33433d8db9d280d4bb61c8009cc0aba8"
     }
   ],
-  "Di Gregório Buffet": [],
+  "Di Gregório Buffet": [
+    {
+      "title": "Seu Evento Merece um Presente Especial",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Seu-Evento-Merece-um-Presente-Especial-36833d8db9d2808fb0f9e9551d282c68"
+    }
+  ],
   "APROSSEG": [
     {
       "title": "TBT Museu do automóvel",
@@ -3126,13 +3141,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se você é corretor e faz tudo sozinho… isso pode estar travando o seu crescimento",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-voc-corretor-e-faz-tudo-sozinho-isso-pode-estar-travando-o-seu-crescimento-35233d8db9d280439520cdcabfa88706"
@@ -3156,7 +3169,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cuidar-da-sa-de-n-o-pode-ser-uma-decis-o-pontual-Sa-de-e-preven-o-precisam-fazer-parte-do-dia-a-di-35233d8db9d2806b97e0f7b19dbeb196"
@@ -5030,7 +5043,7 @@ const LEGENDAS_DATA = {
   },
   "Di Gregório Buffet": {
     "prontas": 0,
-    "total": 2
+    "total": 3
   },
   "APROSSEG": {
     "prontas": 16,
@@ -5164,7 +5177,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Di Gregório Buffet": {
-    "post": 0,
+    "post": 1,
     "carrossel": 0,
     "foto": 0,
     "video": 2,
