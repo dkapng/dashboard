@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/05/2026, 16:25:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/05/2026, 17:54:04 **/
 
-const LAST_UPDATE = '22/05/2026, 16:25:59';
+const LAST_UPDATE = '22/05/2026, 17:54:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -82,12 +82,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Juntos contra o HPV": {
-    "total": 17,
+    "total": 18,
     "pronto": 14,
     "postado": 2,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Jota Diesel": {
     "total": 9,
@@ -189,7 +189,7 @@ const FEED_DATA = {
   },
   "Di Gregório Buffet": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1067,6 +1067,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "saiu na midia ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "25/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Escrevendo",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/saiu-na-midia-36833d8db9d28050a52cd88d25cadc10"
+    },
     {
       "title": "VACINAÇÃO NA CARRETA DA SAÚDE em São Luís do Curu (continua nos comentarios)",
       "status": "postado",
@@ -2853,10 +2867,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-Evento-Merece-um-Presente-Especial-36833d8db9d2808fb0f9e9551d282c68"
@@ -3169,7 +3182,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cuidar-da-sa-de-n-o-pode-ser-uma-decis-o-pontual-Sa-de-e-preven-o-precisam-fazer-parte-do-dia-a-di-35233d8db9d2806b97e0f7b19dbeb196"
@@ -4853,6 +4866,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Conecta Assessoria": [
+    {
+      "title": "alterar foto da assinatura de email da chrys",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/alterar-foto-da-assinatura-de-email-da-chrys-36833d8db9d280168840f9ad2d904d9f",
+      "gestora": "Equipe",
+      "date": "25/05"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Elegibilidade por Operadora",
@@ -4991,7 +5014,7 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 23,
-    "total": 25
+    "total": 26
   },
   "Jota Diesel": {
     "prontas": 13,
@@ -5087,7 +5110,7 @@ const FORMAT_COUNTS = {
   },
   "Juntos contra o HPV": {
     "post": 17,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 5,
     "story": 5
