@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/05/2026, 09:38:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/05/2026, 12:46:05 **/
 
-const LAST_UPDATE = '22/05/2026, 09:38:05';
+const LAST_UPDATE = '22/05/2026, 12:46:05';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -126,10 +126,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 10,
     "pronto": 8,
-    "postado": 4,
+    "postado": 5,
     "agendado": 1,
     "agendado_coord": 2,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 14,
@@ -222,10 +222,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 15,
     "pronto": 12,
-    "postado": 4,
+    "postado": 5,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 5,
+    "a_agendar": 4,
     "st-paused": null
   }
 };
@@ -559,10 +559,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 6,
     "pronto": 5,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 4,
@@ -1713,7 +1713,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ambiente de trabalho também é questão jurídica",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [],
@@ -3303,7 +3303,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se o seu negócio está crescendo, o seu ambiente precisa acompanhar esse nível.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/05",
       "missing": [],
@@ -4761,7 +4761,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#ConectaInforma",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "22/05",
       "missing": [],
