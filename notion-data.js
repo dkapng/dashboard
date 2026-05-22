@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/05/2026, 12:46:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/05/2026, 14:47:05 **/
 
-const LAST_UPDATE = '22/05/2026, 12:46:05';
+const LAST_UPDATE = '22/05/2026, 14:47:05';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -133,7 +133,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 14,
-    "pronto": 10,
+    "pronto": 12,
     "postado": 0,
     "agendado": 8,
     "agendado_coord": 1,
@@ -1845,10 +1845,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-apoio-que-sua-institui-o-precisa-pode-estar-a-um-clique-35133d8db9d28056b8aec788c169cb45"
@@ -1858,10 +1856,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-porqu-certo-pode-mudar-uma-organiza-o-inteira-Indica-o-de-leitura-da-estante-da-Vera-35133d8db9d280a48245f33ff9aa4aa9"
@@ -3136,7 +3132,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-voc-corretor-e-faz-tudo-sozinho-isso-pode-estar-travando-o-seu-crescimento-35233d8db9d280439520cdcabfa88706"
