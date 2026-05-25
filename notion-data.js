@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 17:23:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 18:41:50 **/
 
-const LAST_UPDATE = '25/05/2026, 17:23:00';
+const LAST_UPDATE = '25/05/2026, 18:41:50';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,10 +62,10 @@ const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 15,
     "pronto": 13,
-    "postado": 1,
+    "postado": 2,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ser Ponte": {
     "total": 6,
@@ -85,7 +85,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 18,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 2,
     "agendado": 12,
     "agendado_coord": 0,
@@ -215,7 +215,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 16,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 5,
     "agendado": 8,
     "agendado_coord": 0,
@@ -580,8 +580,8 @@ const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
       "title": "Travessias Híbridas ganha destaque na agenda da DASARTES",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
       "date": "25/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
@@ -920,7 +920,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/3-indicadores-que-voc-precisa-olhar-agora-para-saber-se-o-seu-maio-foi-realmente-bom-35033d8db9d2809784c4e973518d7fd4"
@@ -1091,10 +1091,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dados-Educa-o-Multiplicadores-Mobiliza-o-Vacina-o-Um-modelo-completo-de-preven-o-que-j--34233d8db9d280239ddddfe19aadd560"
@@ -2465,18 +2463,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Quem está decidindo o futuro do país hoje?",
+      "title": "Representatividade também começa quando uma menina liga a TV e se reconhece ali",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Quem-est-decidindo-o-futuro-do-pa-s-hoje-36b33d8db9d280adaf64e49ee5e83f3f"
+      "notionUrl": "https://www.notion.so/Representatividade-tamb-m-come-a-quando-uma-menina-liga-a-TV-e-se-reconhece-ali-36b33d8db9d280adaf64e49ee5e83f3f"
     },
     {
       "title": "O que as mudanças climáticas têm a ver com desigualdade?",
@@ -2484,11 +2481,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/05",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-as-mudan-as-clim-ticas-t-m-a-ver-com-desigualdade-36b33d8db9d2804792e6d21bc61c2740"
     },
@@ -3085,10 +3081,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cuidar-da-sa-de-n-o-pode-ser-uma-decis-o-pontual-Sa-de-e-preven-o-precisam-fazer-parte-do-dia-a-di-35233d8db9d2806b97e0f7b19dbeb196"
@@ -4108,7 +4102,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Existe-uma-diferen-a-grande-entre-ter-n-meros-e-confiar-neles-35233d8db9d280fd8f78c78199e04a57"
     },
     {
-      "title": "Story/stories",
+      "title": "O mês está chegando ao fim.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "26/05",
@@ -4118,7 +4112,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-35233d8db9d2801fa005cf91e0fef673"
+      "notionUrl": "https://www.notion.so/O-m-s-est-chegando-ao-fim-35233d8db9d2801fa005cf91e0fef673"
     },
     {
       "title": "Maio começou.",
@@ -4288,7 +4282,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d2809aa817fa68af5eb633"
     },
     {
-      "title": "Story/stories",
+      "title": "O que fizemos foi estruturar caminhos para que ele continue existindo.",
       "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "26/05",
@@ -4298,7 +4292,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d28049b52ac9dbc6af68a6"
+      "notionUrl": "https://www.notion.so/O-que-fizemos-foi-estruturar-caminhos-para-que-ele-continue-existindo-34533d8db9d28049b52ac9dbc6af68a6"
     }
   ],
   "RR Advocacia": [
@@ -4556,7 +4550,7 @@ const LINHA_STORIES_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "Story/stories",
+      "title": "Cuidar da saúde vai além de fazer exames.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "26/05",
@@ -4566,7 +4560,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-35233d8db9d28024b507f4d8b1c7e545"
+      "notionUrl": "https://www.notion.so/Cuidar-da-sa-de-vai-al-m-de-fazer-exames-35233d8db9d28024b507f4d8b1c7e545"
     },
     {
       "title": "Você já acessou seus exames pelo celular alguma vez?",
@@ -4590,7 +4584,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quem-est-decidindo-o-futuro-do-pa-s-hoje-36b33d8db9d280a2a104ea7c3b3d5231"
     }
@@ -5008,7 +5002,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 12,
+    "prontas": 14,
     "total": 14
   },
   "Finseg Leal": {
@@ -5039,8 +5033,8 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 11,
-    "carrossel": 4,
+    "post": 10,
+    "carrossel": 5,
     "foto": 0,
     "video": 4,
     "story": 1
