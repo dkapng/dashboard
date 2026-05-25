@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 08:34:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 11:40:40 **/
 
-const LAST_UPDATE = '25/05/2026, 08:34:09';
+const LAST_UPDATE = '25/05/2026, 11:40:40';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -92,10 +92,10 @@ const FEED_DATA = {
   "Jota Diesel": {
     "total": 9,
     "pronto": 8,
-    "postado": 4,
+    "postado": 5,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -158,18 +158,18 @@ const FEED_DATA = {
   "Ortobom": {
     "total": 13,
     "pronto": 11,
-    "postado": 5,
+    "postado": 6,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 11,
     "postado": 3,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 11,
@@ -181,11 +181,11 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 11,
-    "postado": 2,
-    "agendado": 9,
+    "pronto": 14,
+    "postado": 3,
+    "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -222,10 +222,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 15,
     "pronto": 12,
-    "postado": 5,
+    "postado": 6,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 4,
+    "a_agendar": 3,
     "st-paused": null
   }
 };
@@ -339,9 +339,9 @@ const VIDEO_DATA = {
     "total": 7,
     "pronto": 7,
     "postado": 2,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 1,
@@ -541,12 +541,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -1357,7 +1357,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Diagnóstico errado gera custo, retrabalho e o problema continua.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "25/05",
       "missing": [],
@@ -2355,7 +2355,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu quarto também influencia no seu descanso. Ambiente + conforto = qualidade de vida.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "25/05",
       "missing": [],
@@ -2437,10 +2437,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Por-tr-s-de-cada-cuidado-existe-uma-equipe-que-faz-acontecer-usar-foto-da-equipe-35233d8db9d280e68c5fd414be79126b"
@@ -2474,23 +2472,19 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-sa-de-da-mulher-passa-por-diferentes-fases-e-cada-uma-delas-traz-mudan-as-que-n-o-devem-ser-ignor-35033d8db9d280bf826ff621310daceb"
     },
     {
       "title": "Seu corpo desacelerou ou acelerou demais? A tireoide pode explicar.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-corpo-desacelerou-ou-acelerou-demais-A-tireoide-pode-explicar-35033d8db9d280a9aab1cd3e70161b23"
@@ -2734,39 +2728,33 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem está com você todos os dias também precisa de proteção!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quem-est-com-voc-todos-os-dias-tamb-m-precisa-de-prote-o-34b33d8db9d280f4b965d4c63d5e9ee8"
     },
     {
       "title": "70% dos profissionais liberais reduzem o padrão de vida após 30 dias parados",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/70-dos-profissionais-liberais-reduzem-o-padr-o-de-vida-ap-s-30-dias-parados-34b33d8db9d28003b75ecec40cba631f"
     },
     {
       "title": "Burnout e lesões: O custo real do afastamento na área da saúde",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Burnout-e-les-es-O-custo-real-do-afastamento-na-rea-da-sa-de-34b33d8db9d28024ae39f05405f89610"
@@ -3349,7 +3337,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Não é só sobre o que você faz, é sobre como o seu negócio se posiciona no detalhe.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "25/05",
       "missing": [],
@@ -3908,14 +3896,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Curto 1",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "27/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Curto-1-35233d8db9d280eda2b2eb54fa61e0ec"
     },
@@ -4720,19 +4706,6 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2801bb6e2d165705c8f54"
     },
     {
-      "title": "Já comprou sua passagem de julho?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "26/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/J-comprou-sua-passagem-de-julho-34b33d8db9d2808fad90c20421a6ae90"
-    },
-    {
       "title": "Você sabe quanto custa a bateria de um carro elétrico?",
       "status": "postado",
       "formato": "📱 Story",
@@ -4866,12 +4839,22 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Comprovações no portfólio cultural",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://www.notion.so/Comprova-es-no-portf-lio-cultural-36b33d8db9d280c883d9df32d5cb3a19",
+      "gestora": "Equipe",
+      "date": "25/05"
+    }
+  ],
   "Conecta Assessoria": [
     {
-      "title": "alterar foto da assinatura de email da chrys",
+      "title": "Alterar foto da assinatura de email da Chrys",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/alterar-foto-da-assinatura-de-email-da-chrys-36833d8db9d280168840f9ad2d904d9f",
+      "notionUrl": "https://www.notion.so/Alterar-foto-da-assinatura-de-email-da-Chrys-36833d8db9d280168840f9ad2d904d9f",
       "gestora": "Equipe",
       "date": "25/05"
     }
@@ -4987,11 +4970,11 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Planos Seguros": "marcada",
   "Daniel Maia Advocacia": "marcada",
   "Finseg Leal": "marcada",
   "APROSSEG": "realizada",
   "Juntos contra o HPV": "realizada",
-  "Planos Seguros": "marcada",
   "Ortobom": "marcada",
   "Conecta Assessoria": "realizada",
   "Plannea": "realizada"
@@ -5053,7 +5036,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "ItalaP": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 19
   },
   "Grupo Mulheres do Brasil": {
@@ -5069,7 +5052,7 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "APROSSEG": {
-    "prontas": 16,
+    "prontas": 18,
     "total": 19
   },
   "Daniel Maia Advocacia": {
@@ -5211,7 +5194,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 1,
     "video": 4,
-    "story": 3
+    "story": 2
   },
   "Daniel Maia Advocacia": {
     "post": 6,
@@ -5288,8 +5271,8 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Planos Seguros": {
-    "reuniao": 1,
-    "producao": 1,
+    "reuniao": 2,
+    "producao": 2,
     "evento": 0
   },
   "Plannea": {
@@ -5308,7 +5291,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Grupo Mulheres do Brasil": {
-    "reuniao": 1,
+    "reuniao": 3,
     "producao": 0,
     "evento": 0
   },
