@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 04:07:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 08:34:09 **/
 
-const LAST_UPDATE = '25/05/2026, 04:07:51';
+const LAST_UPDATE = '25/05/2026, 08:34:09';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1068,7 +1068,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "saiu na midia ",
+      "title": "Saiu na mídia",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "25/05",
@@ -1079,7 +1079,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 2. Escrevendo",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/saiu-na-midia-36833d8db9d28050a52cd88d25cadc10"
+      "notionUrl": "https://www.notion.so/Saiu-na-m-dia-36833d8db9d28050a52cd88d25cadc10"
     },
     {
       "title": "VACINAÇÃO NA CARRETA DA SAÚDE em São Luís do Curu (continua nos comentarios)",
@@ -2740,7 +2740,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quem-est-com-voc-todos-os-dias-tamb-m-precisa-de-prote-o-34b33d8db9d280f4b965d4c63d5e9ee8"
@@ -2753,7 +2753,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/70-dos-profissionais-liberais-reduzem-o-padr-o-de-vida-ap-s-30-dias-parados-34b33d8db9d28003b75ecec40cba631f"
