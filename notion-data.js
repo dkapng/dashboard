@@ -1,25 +1,24 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 14:02:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 15:57:48 **/
 
-const LAST_UPDATE = '25/05/2026, 14:02:23';
+const LAST_UPDATE = '25/05/2026, 15:57:48';
 
 const GESTORAS = {
   "Mayla Valere": [
     "Travessias Híbridas",
     "Ser Ponte",
-    "Ventana",
-    "Rede Pangeia",
+    "Planos Seguros",
     "Plannea",
     "Grupo Mulheres do Brasil",
-    "Di Gregório Buffet",
-    "Daniel Maia Advocacia"
+    "Di Gregório Buffet"
   ],
   "Alice Sousa": [
     "Stratto",
     "Juntos contra o HPV",
-    "Planos Seguros",
+    "Rede Pangeia",
     "ItalaP",
     "Finseg Leal",
     "APROSSEG",
+    "Daniel Maia Advocacia",
     "Conecta Assessoria"
   ],
   "Anna Ventana": [
@@ -29,6 +28,9 @@ const GESTORAS = {
     "RR Advocacia",
     "Ortobom",
     "Solar Coworking"
+  ],
+  "Sem Gestora": [
+    "Ventana"
   ]
 };
 
@@ -58,12 +60,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 21,
+    "total": 15,
     "pronto": 12,
     "postado": 1,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 4
   },
   "Ser Ponte": {
     "total": 6,
@@ -156,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Ortobom": {
-    "total": 13,
+    "total": 12,
     "pronto": 11,
     "postado": 6,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 12,
@@ -197,7 +199,7 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 12,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 1,
@@ -232,12 +234,12 @@ const FEED_DATA = {
 
 const VIDEO_DATA = {
   "Travessias Híbridas": {
-    "total": 3,
-    "pronto": 2,
+    "total": 4,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Ser Ponte": {
     "total": 0,
@@ -257,11 +259,11 @@ const VIDEO_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 5,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 4,
@@ -328,10 +330,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 4,
-    "pronto": 4,
+    "total": 5,
+    "pronto": 5,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -577,6 +579,19 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
+      "title": "Travessias Híbridas ganha destaque na agenda da DASARTES",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Travessias-H-bridas-ganha-destaque-na-agenda-da-DASARTES-36b33d8db9d280008719d096b9de33b3"
+    },
+    {
       "title": "Saiu na Mídia",
       "status": "agendado",
       "formato": "🎠 Carrossel",
@@ -624,7 +639,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Travessias Híbridas está aberto público e convida você a percorrer, de perto, um processo construído em diálogo, encontro e experimentação.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/05",
+      "date": "30/05",
       "missing": [
         "Design",
         "Legenda"
@@ -657,23 +672,9 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Save-the-date-35633d8db9d28057be9ec4c3459065c1"
     },
     {
-      "title": "Mergulhe em um mar de cores. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
+      "title": "Mídia mixa: Você sabia que uma pintura pode ser feita com mais de uma técnica? Curiosidade: As obras expostas na Travessias Híbridas combinam aquarela serigráfica, óleo, acrílico e pastel.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "23/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Mergulhe-em-um-mar-de-cores-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-Centro-Cultural-Ba-35233d8db9d280e8ba65ecf8c19841a9"
-    },
-    {
-      "title": "O impacto da curadoria na sua experiência: Porque o trabalho da Flávia Muluc valoriza tanto nossa exposição? Entrevista exclusiva!",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
       "date": "29/05",
       "missing": [
         "Design",
@@ -682,49 +683,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-impacto-da-curadoria-na-sua-experi-ncia-Porque-o-trabalho-da-Fl-via-Muluc-valoriza-tanto-nossa-ex-35233d8db9d280eba4bcf2910fa3ed43"
-    },
-    {
-      "title": "Conheça Flávia Muluc: A travessia que liga a arte e você.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "28/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Conhe-a-Fl-via-Muluc-A-travessia-que-liga-a-arte-e-voc-35233d8db9d2804cac95f79178b4df5c"
-    },
-    {
-      "title": "Mídia mixa: Você sabia que uma pintura pode ser feita com mais de uma técnica? Curiosidade: As obras expostas na Travessias Híbridas combinam aquarela serigráfica, óleo, acrílico e pastel.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/M-dia-mixa-Voc-sabia-que-uma-pintura-pode-ser-feita-com-mais-de-uma-t-cnica-Curiosidade-As-obras-35233d8db9d280c89f60c44369d11fb3"
-    },
-    {
-      "title": "Grande formato, grande imersão. As pinturas do Travessias Híbridas transmitem a grandeza da criatividade de Hélio Rôla e Wilson Neto também no tamanho. Explore cada detalhe no Centro Cultural Banco do Nordeste, de 16 de maio a 18 de julho.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "25/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Grande-formato-grande-imers-o-As-pinturas-do-Travessias-H-bridas-transmitem-a-grandeza-da-criativi-35233d8db9d280efbea9e564be798c4a"
     },
     {
       "title": "Você não vai deixar ele no vácuo, vai? Visite a Travessias Híbridas, retribua o “olá” e aprecie diversas outras pinturas que unem a visão dos artistas Hélio Rôla e Wilson Neto. De 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
@@ -738,24 +697,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Voc-n-o-vai-deixar-ele-no-v-cuo-vai-Visite-a-Travessias-H-bridas-retribua-o-ol-e-aprecie-dive-35233d8db9d280e1af7bfe4e26e048ec"
     },
     {
-      "title": "A cultura também está nos pequenos detalhes: Explore os personagens imersos no interior de cada pintura da Travessias Híbridas.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "23/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/A-cultura-tamb-m-est-nos-pequenos-detalhes-Explore-os-personagens-imersos-no-interior-de-cada-pint-35233d8db9d280dc85dadeb58ec365b2"
-    },
-    {
       "title": "Estamos no coração de Fortaleza, com uma exposição tão efervescente quanto. Você está convidado para o Travessias Híbridas, de 16 de maio a 18 de julho!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/05",
+      "date": "27/05",
       "missing": [
         "Legenda"
       ],
@@ -763,34 +708,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Estamos-no-cora-o-de-Fortaleza-com-uma-exposi-o-t-o-efervescente-quanto-Voc-est-convidado-para-35233d8db9d280aa9a0cf25e6775ddaf"
-    },
-    {
-      "title": "[Falta título] Um post introduzindo sobre quem é Wilson Neto.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "22/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Falta-t-tulo-Um-post-introduzindo-sobre-quem-Wilson-Neto-35233d8db9d2809aa37ecb5353c54368"
-    },
-    {
-      "title": "[Falta título] Um post introduzindo sobre quem é Hélio Rôla.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "21/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Falta-t-tulo-Um-post-introduzindo-sobre-quem-H-lio-R-la-35233d8db9d28089bd2df188c478d279"
     },
     {
       "title": "Você consegue encontrar estes objetos na pintura?",
@@ -1068,20 +985,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Saiu na mídia",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "25/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Escrevendo",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Saiu-na-m-dia-36833d8db9d28050a52cd88d25cadc10"
-    },
-    {
       "title": "VACINAÇÃO NA CARRETA DA SAÚDE em São Luís do Curu (continua nos comentarios)",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -1091,6 +994,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/VACINA-O-NA-CARRETA-DA-SA-DE-em-S-o-Lu-s-do-Curu-continua-nos-comentarios-36733d8db9d28071a677cc04b5b49b69"
+    },
+    {
+      "title": "A mobilização de São Luís do Curu ganhou destaque na mídia - A ação levou prevenção, vacinação e serviços de saúde para a população",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "27/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-mobiliza-o-de-S-o-Lu-s-do-Curu-ganhou-destaque-na-m-dia-A-a-o-levou-preven-o-vacina-o-e-ser-35e33d8db9d280b2aaeef03cac475da1"
     },
     {
       "title": "Hoje é dia de mobilização em São Luís do Curu ✔ vacinação HPV\n✔ exames preventivos ✔ carreta de prevenção ✔ atividades educativas ✔ atendimento à população",
@@ -1175,7 +1092,7 @@ const LINHA_FEED_ITEMS = {
       "title": "✔ Dados ✔ Educação ✔ Multiplicadores ✔ Mobilização✔ Vacinação - Um modelo completo de prevenção que já está transformando territórios",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/05",
+      "date": "25/05",
       "missing": [
         "Design"
       ],
@@ -2289,19 +2206,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Trend-Neymar-A-Ortobom-est-com-a-temporada-aberta-de-conforto-para-voc-garantir-o-seu-colch-o-com-36533d8db9d280c8afedd6ce7e7653b8"
     },
     {
-      "title": "Como escolher o colchão ideal?",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Como-escolher-o-colch-o-ideal-35233d8db9d28098b802f6824746306f"
-    },
-    {
       "title": "Dia das mães ",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -2887,10 +2791,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Sua-viagem-come-a-na-compra-da-passagem-E-o-risco-tamb-m-34b33d8db9d280ba9155f15ed53a2f63"
@@ -3436,6 +3338,31 @@ const LINHA_FEED_ITEMS = {
 const LINHA_VIDEO_ITEMS = {
   "Travessias Híbridas": [
     {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-36b33d8db9d2800193f2ed770efd6505"
+    },
+    {
+      "title": "Vídeo ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "26/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-36b33d8db9d28050bdd3e7c07973ea2a"
+    },
+    {
       "title": "Vídeo-convite!",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -3445,20 +3372,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-convite-35b33d8db9d2805e8d1eff98b8e688fc"
-    },
-    {
-      "title": "Vídeo com os artistas (sobre o lançamento da exposição)",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "20/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-com-os-artistas-sobre-o-lan-amento-da-exposi-o-35633d8db9d28084a0dfc8dae27e3fc5"
     },
     {
       "title": "Vídeo do evento",
@@ -3535,16 +3448,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-35733d8db9d280169e96d964769194ce"
     },
     {
@@ -3810,6 +3720,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Ortobom": [
     {
+      "title": "Colchão novo",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "25/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Colch-o-novo-36133d8db9d280ffaedadc31d7fd15bd"
+    },
+    {
       "title": "O que sua mãe quer ganhar de presente!!",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -3824,7 +3745,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Acerto na escolha",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
@@ -4994,8 +4915,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 13,
-    "total": 24
+    "prontas": 15,
+    "total": 19
   },
   "Ser Ponte": {
     "prontas": 1,
@@ -5006,8 +4927,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Juntos contra o HPV": {
-    "prontas": 23,
-    "total": 26
+    "prontas": 24,
+    "total": 25
   },
   "Jota Diesel": {
     "prontas": 13,
@@ -5081,10 +5002,10 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 14,
-    "carrossel": 7,
+    "post": 11,
+    "carrossel": 4,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 1
   },
   "Ser Ponte": {
@@ -5166,9 +5087,9 @@ const FORMAT_COUNTS = {
   },
   "Ortobom": {
     "post": 12,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
-    "video": 5,
+    "video": 6,
     "story": 5
   },
   "ItalaP": {
