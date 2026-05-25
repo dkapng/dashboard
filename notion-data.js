@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 18:41:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 19:53:42 **/
 
-const LAST_UPDATE = '25/05/2026, 18:41:50';
+const LAST_UPDATE = '25/05/2026, 19:53:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -362,9 +362,9 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Di Gregório Buffet": {
-    "total": 2,
-    "pronto": 0,
-    "postado": 0,
+    "total": 3,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -3945,6 +3945,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Di Gregório Buffet": [
     {
+      "title": "Vídeo São João",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "25/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-S-o-Jo-o-36b33d8db9d28026a8dfec1f624073d0"
+    },
+    {
       "title": "Salão Chá ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -5010,8 +5021,8 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Di Gregório Buffet": {
-    "prontas": 0,
-    "total": 3
+    "prontas": 1,
+    "total": 4
   },
   "APROSSEG": {
     "prontas": 17,
@@ -5148,7 +5159,7 @@ const FORMAT_COUNTS = {
     "post": 1,
     "carrossel": 0,
     "foto": 0,
-    "video": 2,
+    "video": 3,
     "story": 0
   },
   "APROSSEG": {
