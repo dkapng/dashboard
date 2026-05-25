@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 15:57:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 17:23:00 **/
 
-const LAST_UPDATE = '25/05/2026, 15:57:48';
+const LAST_UPDATE = '25/05/2026, 17:23:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -61,7 +61,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 15,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 1,
     "agendado": 10,
     "agendado_coord": 0,
@@ -174,12 +174,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
-    "total": 11,
+    "total": 13,
     "pronto": 11,
     "postado": 2,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Finseg Leal": {
     "total": 14,
@@ -199,7 +199,7 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 12,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 1,
@@ -519,12 +519,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Finseg Leal": {
     "total": 4,
@@ -583,10 +583,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Travessias-H-bridas-ganha-destaque-na-agenda-da-DASARTES-36b33d8db9d280008719d096b9de33b3"
@@ -1096,7 +1094,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Dados-Educa-o-Multiplicadores-Mobiliza-o-Vacina-o-Um-modelo-completo-de-preven-o-que-j--34233d8db9d280239ddddfe19aadd560"
@@ -2467,6 +2465,34 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Quem está decidindo o futuro do país hoje?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quem-est-decidindo-o-futuro-do-pa-s-hoje-36b33d8db9d280adaf64e49ee5e83f3f"
+    },
+    {
+      "title": "O que as mudanças climáticas têm a ver com desigualdade?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-as-mudan-as-clim-ticas-t-m-a-ver-com-desigualdade-36b33d8db9d2804792e6d21bc61c2740"
+    },
+    {
       "title": "Quando uma criança pede ajuda, o mundo inteiro precisa ajudar. Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes.",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
@@ -2578,14 +2604,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Força que não deveria ser obrigação - Mães atípicas",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "20/05",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "25/05",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/For-a-que-n-o-deveria-ser-obriga-o-M-es-at-picas-20933d8db9d280d8b8ffd2a95a2038c3"
     }
@@ -2776,12 +2800,10 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Novas regras na Europa para julho de 2026: Sua apólice Aprosseg já está atualizada",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Novas-regras-na-Europa-para-julho-de-2026-Sua-ap-lice-Aprosseg-j-est-atualizada-34b33d8db9d2803e9e69da19bdaa804f"
@@ -4558,7 +4580,21 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Voc-j-acessou-seus-exames-pelo-celular-alguma-vez-33333d8db9d28001a5f7ff7b152cdd9a"
     }
   ],
-  "Grupo Mulheres do Brasil": [],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Quem está decidindo o futuro do país hoje?",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quem-est-decidindo-o-futuro-do-pa-s-hoje-36b33d8db9d280a2a104ea7c3b3d5231"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "0800",
@@ -4610,7 +4646,7 @@ const LINHA_STORIES_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
-      "title": "stories que já sairam",
+      "title": "Vídeo da georgia",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/05",
@@ -4619,8 +4655,8 @@ const LINHA_STORIES_ITEMS = {
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/stories-que-j-sairam-36b33d8db9d2800b9909fa65c685919c"
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/V-deo-da-georgia-36b33d8db9d2800b9909fa65c685919c"
     },
     {
       "title": "Aniversário Moacyr",
@@ -4792,7 +4828,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Comprovações no portfólio cultural",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Comprova-es-no-portf-lio-cultural-36b33d8db9d280c883d9df32d5cb3a19",
       "gestora": "Equipe",
       "date": "25/05"
@@ -4901,6 +4937,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Terrartesã": "confirmada",
   "Planos Seguros": "marcada",
   "Daniel Maia Advocacia": "marcada",
   "Finseg Leal": "marcada",
@@ -4971,8 +5008,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 11,
-    "total": 12
+    "prontas": 12,
+    "total": 14
   },
   "Finseg Leal": {
     "prontas": 17,
@@ -5100,11 +5137,11 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Grupo Mulheres do Brasil": {
-    "post": 11,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 1,
-    "story": 0
+    "story": 1
   },
   "Finseg Leal": {
     "post": 13,
@@ -5121,8 +5158,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 10,
-    "carrossel": 1,
+    "post": 9,
+    "carrossel": 2,
     "foto": 1,
     "video": 4,
     "story": 4
@@ -5188,8 +5225,8 @@ const AGENDA_COUNTS = {
   },
   "Terrartesã": {
     "reuniao": 0,
-    "producao": 0,
-    "evento": 0
+    "producao": 1,
+    "evento": 1
   },
   "RR Advocacia": {
     "reuniao": 0,
