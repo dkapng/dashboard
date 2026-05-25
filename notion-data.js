@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 11:40:40 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 14:02:23 **/
 
-const LAST_UPDATE = '25/05/2026, 11:40:40';
+const LAST_UPDATE = '25/05/2026, 14:02:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -149,7 +149,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 14,
-    "pronto": 10,
+    "pronto": 13,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
@@ -167,9 +167,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 11,
     "postado": 3,
-    "agendado": 6,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 11,
@@ -541,12 +541,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 2,
-    "pronto": 2,
+    "total": 4,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -2148,10 +2148,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Abrir-empresa-f-cil-Come-ar-do-jeito-certo-outra-hist-ria-que-voc-pode-contar-com-a-Plannea-35733d8db9d2805a9564fab23a3ff3db"
@@ -2172,10 +2170,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-a-Amazon-entendeu-sobre-execu-o-e-muitas-empresas-ainda-n-o-35733d8db9d2802f86c8ebb3aa18c6e1"
@@ -2185,10 +2181,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-voc-espera-da-sua-contabilidade-hoje-35733d8db9d280fdb76cd83f83bcead4"
@@ -2434,7 +2428,7 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "Por trás de cada cuidado, existe uma equipe que faz acontecer. (usar foto da equipe)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -2469,7 +2463,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A saúde da mulher passa por diferentes fases, e cada uma delas traz mudanças que não devem ser ignoradas.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/05",
       "missing": [],
@@ -4695,6 +4689,30 @@ const LINHA_STORIES_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "stories que já sairam",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/stories-que-j-sairam-36b33d8db9d2800b9909fa65c685919c"
+    },
+    {
+      "title": "Aniversário Moacyr",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "27/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Anivers-rio-Moacyr-36633d8db9d280258f14d33f12558e31"
+    },
+    {
       "title": "Story/stories",
       "status": "postado",
       "formato": "📱 Story",
@@ -4839,6 +4857,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Univendas": [
+    {
+      "title": "Card Prefeitura de Maracanaú",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Card-Prefeitura-de-Maracana-36b33d8db9d2801fac77ee1caafa8ead",
+      "gestora": "Equipe",
+      "date": "25/05"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Comprovações no portfólio cultural",
@@ -4853,7 +4881,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Alterar foto da assinatura de email da Chrys",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Alterar-foto-da-assinatura-de-email-da-Chrys-36833d8db9d280168840f9ad2d904d9f",
       "gestora": "Equipe",
       "date": "25/05"
@@ -4891,24 +4919,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
       "gestora": "Equipe",
       "date": "29/05"
-    }
-  ],
-  "Univendas": [
-    {
-      "title": "Comunicado ",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Comunicado-36033d8db9d280d79074c20826ca2be1",
-      "gestora": "Equipe",
-      "date": "15/05"
-    },
-    {
-      "title": "Card ",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Card-35f33d8db9d28094bea7e2890de89f70",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Ser Ponte": [
@@ -4964,7 +4974,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Fazer-o-Site-RR-Advocacia-2f633d8db9d280328058c11b17ba148b",
       "gestora": "Equipe",
-      "date": "08/05"
+      "date": "25/05"
     }
   ]
 };
@@ -5052,8 +5062,8 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "APROSSEG": {
-    "prontas": 18,
-    "total": 19
+    "prontas": 17,
+    "total": 18
   },
   "Daniel Maia Advocacia": {
     "prontas": 8,
@@ -5194,7 +5204,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 1,
     "video": 4,
-    "story": 2
+    "story": 4
   },
   "Daniel Maia Advocacia": {
     "post": 6,
