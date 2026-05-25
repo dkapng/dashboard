@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 19:53:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 20:59:47 **/
 
-const LAST_UPDATE = '25/05/2026, 19:53:42';
+const LAST_UPDATE = '25/05/2026, 20:59:47';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -93,7 +93,7 @@ const FEED_DATA = {
   },
   "Jota Diesel": {
     "total": 9,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 5,
     "agendado": 3,
     "agendado_coord": 0,
@@ -1216,10 +1216,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Desempenho-fora-do-padr-o-sinal-t-cnico-o-preju-zo-vem-quando-n-o-tratado-35133d8db9d280038a36e19215124cd3"
