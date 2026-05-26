@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 17:03:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 19:01:43 **/
 
-const LAST_UPDATE = '26/05/2026, 17:03:58';
+const LAST_UPDATE = '26/05/2026, 19:01:43';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -109,11 +109,11 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 15,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 6,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 5,
+    "a_agendar": 4,
     "st-paused": null
   },
   "Terrartesã": {
@@ -223,11 +223,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 15,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 6,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 3,
+    "a_agendar": 2,
     "st-paused": null
   }
 };
@@ -379,11 +379,11 @@ const VIDEO_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 2,
@@ -1260,7 +1260,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Adiar o cuidado com a saúde tem um custo decida cuidar agora.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/05",
+      "date": "29/05",
       "missing": [
         "Design"
       ],
@@ -1407,13 +1407,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Gluacoma, a segunda maior causa de cegueira irreversível do mundo! | Dia Nacional de Combate ao Glaucoma",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "26/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Gluacoma-a-segunda-maior-causa-de-cegueira-irrevers-vel-do-mundo-Dia-Nacional-de-Combate-ao-Glau-1ce33d8db9d2803baa0ed0e1a0bd8a50"
@@ -3154,13 +3152,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Estrutura não é detalhe é o que sustenta o crescimento do seu negócio.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "26/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Estrutura-n-o-detalhe-o-que-sustenta-o-crescimento-do-seu-neg-cio-34b33d8db9d2804dbbd3d8c95a448aac"
@@ -3180,7 +3176,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A localização do seu negócio influencia diretamente quem chega até você.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [
         "Design"
       ],
@@ -3970,16 +3966,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo Beatriz, ilícito na empresa",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-Beatriz-il-cito-na-empresa-36c33d8db9d2804a8053e8d283859c98"
     },
     {
@@ -4989,7 +4982,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Daniel Maia Advocacia": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 12
   },
   "Conecta Assessoria": {
