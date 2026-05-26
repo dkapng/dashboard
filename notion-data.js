@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 05:05:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 11:52:22 **/
 
-const LAST_UPDATE = '26/05/2026, 05:05:49';
+const LAST_UPDATE = '26/05/2026, 11:52:22';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -77,7 +77,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 13,
     "postado": 2,
     "agendado": 8,
     "agendado_coord": 0,
@@ -160,10 +160,10 @@ const FEED_DATA = {
   "Ortobom": {
     "total": 13,
     "pronto": 13,
-    "postado": 6,
+    "postado": 7,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 12,
@@ -201,9 +201,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 12,
     "postado": 3,
-    "agendado": 6,
+    "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 7,
@@ -373,9 +373,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -836,10 +836,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Crescer-sem-controle-financeiro-s-aumentar-o-risco-em-escala-35233d8db9d2802b9f18c29fc1266949"
@@ -849,10 +847,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-financeiro-te-d-clareza-ou-s-registra-o-que-j-aconteceu-35233d8db9d280b59007e48863641d72"
@@ -917,10 +913,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "25/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/3-indicadores-que-voc-precisa-olhar-agora-para-saber-se-o-seu-maio-foi-realmente-bom-35033d8db9d2809784c4e973518d7fd4"
@@ -2190,12 +2184,10 @@ const LINHA_FEED_ITEMS = {
   "Ortobom": [
     {
       "title": "Colchão Ortobom Liberty (foco comercial)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "26/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2804,7 +2796,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Novas regras na Europa para julho de 2026: Sua apólice Aprosseg já está atualizada",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "29/05",
       "missing": [],
@@ -2815,7 +2807,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua viagem começa na compra da passagem. E o risco também.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/05",
       "missing": [],
@@ -4007,14 +3999,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Não lê a proposta",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "28/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/N-o-l-a-proposta-35233d8db9d28023bdabeeee6fe2a24b"
     },
@@ -4129,7 +4119,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-m-s-est-chegando-ao-fim-35233d8db9d2801fa005cf91e0fef673"
@@ -5008,7 +4998,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Ortobom": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 19
   },
   "ItalaP": {
@@ -5028,7 +5018,7 @@ const LEGENDAS_DATA = {
     "total": 4
   },
   "APROSSEG": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 18
   },
   "Daniel Maia Advocacia": {
