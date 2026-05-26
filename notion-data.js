@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/05/2026, 20:59:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 01:01:28 **/
 
-const LAST_UPDATE = '25/05/2026, 20:59:47';
+const LAST_UPDATE = '26/05/2026, 01:01:28';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Ortobom": {
-    "total": 12,
-    "pronto": 11,
+    "total": 13,
+    "pronto": 13,
     "postado": 6,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 12,
@@ -438,7 +438,7 @@ const STORIES_DATA = {
   },
   "Jota Diesel": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
@@ -503,11 +503,11 @@ const STORIES_DATA = {
   },
   "Ortobom": {
     "total": 5,
-    "pronto": 3,
+    "pronto": 5,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   },
   "ItalaP": {
@@ -920,7 +920,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/3-indicadores-que-voc-precisa-olhar-agora-para-saber-se-o-seu-maio-foi-realmente-bom-35033d8db9d2809784c4e973518d7fd4"
@@ -1975,7 +1975,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a comparação ignora o contexto, a escolha tende a resolver o agora e criar problemas depois.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/05",
+      "date": "26/05",
       "missing": [
         "Design"
       ],
@@ -2189,6 +2189,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
+      "title": "Colchão Ortobom Liberty (foco comercial)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/05",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Colch-o-Ortobom-Liberty-foco-comercial-36c33d8db9d2803ab358f05cd9ce3c05"
+    },
+    {
       "title": "Trend Neymar: A Ortobom está com a temporada aberta de conforto para você garantir o seu colchão com desconto.",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -2215,10 +2228,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-n-o-precisa-se-adaptar-ao-seu-colch-o-Ele-que-precisa-se-adaptar-a-voc-35233d8db9d2803f9d1bebd54f675f98"
@@ -4220,10 +4231,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d280148fb2e2eea710204f"
@@ -4416,7 +4425,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "O processo de proteção começa antes do problema, não no momento em que ele acontece!",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "26/05",
+      "date": "28/05",
       "missing": [
         "Design"
       ],
@@ -4502,10 +4511,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-35233d8db9d280739c79fb71017704ce"
@@ -4523,14 +4530,12 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversario Lúcio (depósito)",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "📱 Story",
       "date": "24/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Aniversario-L-cio-dep-sito-2e333d8db9d280d1821bdad925f98da4"
     },
@@ -5004,7 +5009,7 @@ const LEGENDAS_DATA = {
   },
   "Ortobom": {
     "prontas": 18,
-    "total": 18
+    "total": 19
   },
   "ItalaP": {
     "prontas": 19,
@@ -5126,7 +5131,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Ortobom": {
-    "post": 12,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 6,
