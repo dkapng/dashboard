@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 14:53:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 17:03:58 **/
 
-const LAST_UPDATE = '26/05/2026, 14:53:12';
+const LAST_UPDATE = '26/05/2026, 17:03:58';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,9 +63,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 13,
     "postado": 2,
-    "agendado": 10,
+    "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ser Ponte": {
     "total": 3,
@@ -134,12 +134,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Rede Pangeia": {
-    "total": 14,
+    "total": 13,
     "pronto": 12,
     "postado": 0,
     "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Planos Seguros": {
     "total": 12,
@@ -150,12 +150,12 @@ const FEED_DATA = {
     "a_agendar": 4
   },
   "Plannea": {
-    "total": 14,
-    "pronto": 13,
+    "total": 13,
+    "pronto": 12,
     "postado": 1,
-    "agendado": 9,
+    "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 13,
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "APROSSEG": {
     "total": 12,
@@ -206,12 +206,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
-    "total": 7,
+    "total": 9,
     "pronto": 7,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 1,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Conecta Assessoria": {
     "total": 16,
@@ -235,11 +235,11 @@ const FEED_DATA = {
 const VIDEO_DATA = {
   "Travessias Híbridas": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Ser Ponte": {
     "total": 0,
@@ -322,10 +322,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Plannea": {
-    "total": 3,
-    "pronto": 3,
+    "total": 4,
+    "pronto": 4,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -378,12 +378,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
-    "total": 1,
+    "total": 3,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Conecta Assessoria": {
     "total": 2,
@@ -477,12 +477,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Rede Pangeia": {
-    "total": 4,
+    "total": 3,
     "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 4,
@@ -494,7 +494,7 @@ const STORIES_DATA = {
   },
   "Plannea": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -546,9 +546,9 @@ const STORIES_DATA = {
     "total": 4,
     "pronto": 3,
     "postado": 2,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -559,12 +559,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 6,
-    "pronto": 6,
-    "postado": 5,
+    "total": 8,
+    "pronto": 8,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 4,
@@ -696,14 +696,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Estamos no coração de Fortaleza, com uma exposição tão efervescente quanto. Você está convidado para o Travessias Híbridas, de 16 de maio a 18 de julho!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Estamos-no-cora-o-de-Fortaleza-com-uma-exposi-o-t-o-efervescente-quanto-Voc-est-convidado-para-35233d8db9d280aa9a0cf25e6775ddaf"
     },
@@ -1684,7 +1682,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nenhuma causa se sustenta quando quem lidera está exausto",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "27/05",
+      "date": "29/05",
       "missing": [
         "Design"
       ],
@@ -1694,23 +1692,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Nenhuma-causa-se-sustenta-quando-quem-lidera-est-exausto-35133d8db9d2805aa151c51c24eec24c"
     },
     {
-      "title": "O que uma OSC precisa entender antes de sentar com uma grande empresa?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-que-uma-OSC-precisa-entender-antes-de-sentar-com-uma-grande-empresa-35133d8db9d28046a62fd95fd2081b63"
-    },
-    {
       "title": "O apoio que sua instituição precisa pode estar a um clique.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/05",
+      "date": "26/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1721,7 +1706,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O porquê certo pode mudar uma organização inteira. (Indicação de leitura da estante da Vera)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/05",
+      "date": "27/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1765,7 +1750,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O mercado abraçou o ESG. Mas entendeu o social?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/05",
+      "date": "28/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1916,7 +1901,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a comparação ignora o contexto, a escolha tende a resolver o agora e criar problemas depois.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/05",
+      "date": "30/05",
       "missing": [
         "Design"
       ],
@@ -1986,7 +1971,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Muito além da folha: o papel real do DP",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "27/05",
+      "date": "29/05",
       "missing": [
         "Design"
       ],
@@ -1994,17 +1979,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Muito-al-m-da-folha-o-papel-real-do-DP-35733d8db9d280bba543f5a3f7b76a85"
-    },
-    {
-      "title": "Abrir empresa é fácil. Começar do jeito certo é outra história, que você pode contar com a Plannea!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Abrir-empresa-f-cil-Come-ar-do-jeito-certo-outra-hist-ria-que-voc-pode-contar-com-a-Plannea-35733d8db9d2805a9564fab23a3ff3db"
     },
     {
       "title": "Se a cultura é o que nos define, o RH é o que mantém tudo funcionando. Parabéns, time de milhões!",
@@ -2019,9 +1993,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que a Amazon entendeu sobre execução e muitas empresas ainda não",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2030,7 +2004,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que você espera da sua contabilidade hoje?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "26/05",
       "missing": [],
@@ -2715,14 +2689,12 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [
     {
       "title": "Seu Evento Merece um Presente Especial",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "26/05",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "28/05",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-Evento-Merece-um-Presente-Especial-36833d8db9d2808fb0f9e9551d282c68"
     }
@@ -2862,6 +2834,34 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Daniel Maia Advocacia": [
+    {
+      "title": "Antes da falência, existe um caminho. Mas ele tem prazo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Antes-da-fal-ncia-existe-um-caminho-Mas-ele-tem-prazo-36c33d8db9d280128b1bdc80e0f37bef"
+    },
+    {
+      "title": "O dinheiro que sai sem você perceber tem nome: risco jurídico não gerenciado.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-dinheiro-que-sai-sem-voc-perceber-tem-nome-risco-jur-dico-n-o-gerenciado-36c33d8db9d2807985c1f70d239fbcb4"
+    },
     {
       "title": "Há laços que nem o Direito consegue traduzir.",
       "status": "agendado",
@@ -3297,21 +3297,18 @@ const LINHA_VIDEO_ITEMS = {
   "Travessias Híbridas": [
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "28/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-36b33d8db9d2800193f2ed770efd6505"
     },
     {
       "title": "Vídeo ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/05",
       "missing": [],
@@ -3616,6 +3613,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Álbum de figurinhas",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "26/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/lbum-de-figurinhas-36c33d8db9d2803580a1d6cd8bef40c0"
+    },
+    {
       "title": "Vídeo do dia das mães",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3874,7 +3882,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Salão Chá ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3946,6 +3954,34 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Daniel Maia Advocacia": [
+    {
+      "title": "Vídeo Rafaela, Golpe do Pix",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-Rafaela-Golpe-do-Pix-36c33d8db9d280408bcfe8ed304ce50a"
+    },
+    {
+      "title": "Vídeo Beatriz, ilícito na empresa",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "26/05",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-Beatriz-il-cito-na-empresa-36c33d8db9d2804a8053e8d283859c98"
+    },
     {
       "title": "Aniversário do Daniel Maia",
       "status": "agendado",
@@ -4261,23 +4297,10 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Rede Pangeia": [
     {
-      "title": "Se sua OSC tivesse uma reunião com uma grande empresa amanhã…",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Se-sua-OSC-tivesse-uma-reuni-o-com-uma-grande-empresa-amanh-35133d8db9d28099a75bedace48d12dd"
-    },
-    {
       "title": "Quando você pensa em ESG, qual letra vem primeiro na sua cabeça?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "21/05",
+      "date": "26/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4288,7 +4311,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Já assistiu O Menino que Descobriu o Vento?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "23/05",
+      "date": "30/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4360,11 +4383,9 @@ const LINHA_STORIES_ITEMS = {
       "title": "Nem toda empresa que cresce está, de fato, estruturada.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "26/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "28/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nem-toda-empresa-que-cresce-est-de-fato-estruturada-35733d8db9d2801a9c97cd8fa7d543cc"
@@ -4384,7 +4405,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Na prática, o que você acompanha mais hoje na sua empresa?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4465,7 +4486,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Cuidar da saúde vai além de fazer exames.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4562,7 +4583,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário Moacyr",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "27/05",
       "missing": [],
@@ -4597,6 +4618,28 @@ const LINHA_STORIES_ITEMS = {
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
+      "title": "Aniversário - Ana Paula",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "31/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Anivers-rio-Ana-Paula-35733d8db9d280c8a4a5c1b03f2a7c05"
+    },
+    {
+      "title": "Aniversário - Igo Freire",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Anivers-rio-Igo-Freire-35733d8db9d28067a173f347121596f4"
+    },
+    {
       "title": "Aline Cavalcante",
       "status": "postado",
       "formato": "📱 Story",
@@ -4620,7 +4663,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#ConectaInforma",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "26/05",
       "missing": [],
@@ -4679,7 +4722,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "26/05",
+      "date": "28/05",
       "missing": [
         "Design"
       ],
@@ -4714,6 +4757,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Univendas": [
+    {
+      "title": "Card Prefeitura de Fortaleza ",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Card-Prefeitura-de-Fortaleza-36c33d8db9d280068f9cdbee0a541fff",
+      "gestora": "Equipe",
+      "date": "29/05"
+    },
+    {
+      "title": "Card Prefeitura de Cascavel ",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Card-Prefeitura-de-Cascavel-36c33d8db9d280d19eddcd56b640cf1e",
+      "gestora": "Equipe",
+      "date": "29/05"
+    },
+    {
+      "title": "Card Prefeitura de Maracanaú",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Card-Prefeitura-de-Maracana-36b33d8db9d2801fac77ee1caafa8ead",
+      "gestora": "Equipe",
+      "date": "25/05"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Roteiros de junho",
@@ -4772,16 +4841,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "15/05"
-    }
-  ],
-  "Univendas": [
-    {
-      "title": "Card Prefeitura de Maracanaú",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Card-Prefeitura-de-Maracana-36b33d8db9d2801fac77ee1caafa8ead",
-      "gestora": "Equipe",
-      "date": "25/05"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4858,7 +4917,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 15,
+    "prontas": 17,
     "total": 19
   },
   "Ser Ponte": {
@@ -4894,8 +4953,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Rede Pangeia": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 13,
+    "total": 13
   },
   "Planos Seguros": {
     "prontas": 13,
@@ -4923,7 +4982,7 @@ const LEGENDAS_DATA = {
   },
   "Di Gregório Buffet": {
     "prontas": 1,
-    "total": 4
+    "total": 3
   },
   "APROSSEG": {
     "prontas": 18,
@@ -4931,11 +4990,11 @@ const LEGENDAS_DATA = {
   },
   "Daniel Maia Advocacia": {
     "prontas": 8,
-    "total": 8
+    "total": 12
   },
   "Conecta Assessoria": {
-    "prontas": 21,
-    "total": 21
+    "prontas": 19,
+    "total": 19
   },
   "Solar Coworking": {
     "prontas": 15,
@@ -5008,11 +5067,11 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Rede Pangeia": {
-    "post": 12,
+    "post": 11,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 4
+    "story": 3
   },
   "Planos Seguros": {
     "post": 12,
@@ -5022,10 +5081,10 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Plannea": {
-    "post": 12,
+    "post": 11,
     "carrossel": 2,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 4
   },
   "Ortobom": {
@@ -5071,10 +5130,10 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Daniel Maia Advocacia": {
-    "post": 6,
+    "post": 8,
     "carrossel": 1,
     "foto": 0,
-    "video": 1,
+    "video": 3,
     "story": 0
   },
   "Conecta Assessoria": {
@@ -5082,7 +5141,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 1,
     "video": 2,
-    "story": 6
+    "story": 8
   },
   "Solar Coworking": {
     "post": 14,
