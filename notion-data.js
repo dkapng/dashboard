@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 17:05:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 19:15:42 **/
 
-const LAST_UPDATE = '27/05/2026, 17:05:20';
+const LAST_UPDATE = '27/05/2026, 19:15:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -85,7 +85,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 18,
-    "pronto": 15,
+    "pronto": 16,
     "postado": 2,
     "agendado": 13,
     "agendado_coord": 0,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 13,
     "postado": 2,
     "agendado": 8,
     "agendado_coord": 1,
@@ -923,17 +923,15 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "RESULTADOS DA AÇÃO EM SÃO LUÍS DO CURU - 400 atendimentos realizados em um dia de mobilização pela saúde e prevenção. (continua nos comentários)",
+      "title": "Resultados da ação em São Luís do Curu - 400 atendimentos realizados em um dia de mobilização pela saúde e prevenção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/RESULTADOS-DA-A-O-EM-S-O-LU-S-DO-CURU-400-atendimentos-realizados-em-um-dia-de-mobiliza-o-pela-s-36d33d8db9d280a998bafee94b9c566e"
+      "notionUrl": "https://www.notion.so/Resultados-da-a-o-em-S-o-Lu-s-do-Curu-400-atendimentos-realizados-em-um-dia-de-mobiliza-o-pela-s-36d33d8db9d280a998bafee94b9c566e"
     },
     {
       "title": "VACINAÇÃO NA CARRETA DA SAÚDE em São Luís do Curu (continua nos comentarios)",
@@ -2356,10 +2354,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Representatividade-tamb-m-come-a-quando-uma-menina-liga-a-TV-e-se-reconhece-ali-36b33d8db9d280adaf64e49ee5e83f3f"
@@ -2369,10 +2365,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-as-mudan-as-clim-ticas-t-m-a-ver-com-desigualdade-36b33d8db9d2804792e6d21bc61c2740"
@@ -4708,16 +4702,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Plannea": [
-    {
-      "title": "Edição de vídeo de promoção",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Edi-o-de-v-deo-de-promo-o-36d33d8db9d280b2b42ee972c9e2b941",
-      "gestora": "Equipe",
-      "date": "27/05"
-    }
-  ],
   "Univendas": [
     {
       "title": "Card Prefeitura de Fortaleza ",
