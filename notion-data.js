@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 14:40:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 17:05:20 **/
 
-const LAST_UPDATE = '27/05/2026, 14:40:00';
+const LAST_UPDATE = '27/05/2026, 17:05:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -84,12 +84,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Juntos contra o HPV": {
-    "total": 17,
+    "total": 18,
     "pronto": 15,
     "postado": 2,
     "agendado": 13,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 9,
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "Rede Pangeia": {
     "total": 13,
     "pronto": 12,
-    "postado": 0,
+    "postado": 1,
     "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 12,
@@ -209,9 +209,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 9,
     "postado": 0,
-    "agendado": 6,
+    "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 16,
@@ -379,11 +379,11 @@ const VIDEO_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 2,
@@ -477,12 +477,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Rede Pangeia": {
-    "total": 3,
-    "pronto": 3,
-    "postado": 0,
+    "total": 2,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 4,
@@ -511,12 +511,12 @@ const STORIES_DATA = {
     "st-paused": null
   },
   "ItalaP": {
-    "total": 2,
+    "total": 3,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 1,
@@ -923,6 +923,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "RESULTADOS DA AÇÃO EM SÃO LUÍS DO CURU - 400 atendimentos realizados em um dia de mobilização pela saúde e prevenção. (continua nos comentários)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/RESULTADOS-DA-A-O-EM-S-O-LU-S-DO-CURU-400-atendimentos-realizados-em-um-dia-de-mobiliza-o-pela-s-36d33d8db9d280a998bafee94b9c566e"
+    },
+    {
       "title": "VACINAÇÃO NA CARRETA DA SAÚDE em São Luís do Curu (continua nos comentarios)",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -937,7 +950,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A mobilização de São Luís do Curu ganhou destaque na mídia - A ação levou prevenção, vacinação e serviços de saúde para a população",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "27/05",
+      "date": "28/05",
       "missing": [
         "Design"
       ],
@@ -1631,7 +1644,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nenhuma causa se sustenta quando quem lidera está exausto",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "29/05",
+      "date": "30/05",
       "missing": [
         "Design"
       ],
@@ -1642,9 +1655,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O apoio que sua instituição precisa pode estar a um clique.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1655,7 +1668,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O porquê certo pode mudar uma organização inteira. (Indicação de leitura da estante da Vera)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/05",
+      "date": "28/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1699,7 +1712,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O mercado abraçou o ESG. Mas entendeu o social?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/05",
+      "date": "29/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2792,27 +2805,23 @@ const LINHA_FEED_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Antes da falência, existe um caminho. Mas ele tem prazo.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Antes-da-fal-ncia-existe-um-caminho-Mas-ele-tem-prazo-36c33d8db9d280128b1bdc80e0f37bef"
     },
     {
       "title": "O dinheiro que sai sem você perceber tem nome: risco jurídico não gerenciado.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-dinheiro-que-sai-sem-voc-perceber-tem-nome-risco-jur-dico-n-o-gerenciado-36c33d8db9d2807985c1f70d239fbcb4"
     },
@@ -3891,16 +3900,13 @@ const LINHA_VIDEO_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Vídeo Rafaela, Golpe do Pix",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "28/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/V-deo-Rafaela-Golpe-do-Pix-36c33d8db9d280408bcfe8ed304ce50a"
     },
     {
@@ -4241,25 +4247,14 @@ const LINHA_STORIES_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "Quando você pensa em ESG, qual letra vem primeiro na sua cabeça?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "26/05",
+      "date": "27/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-voc-pensa-em-ESG-qual-letra-vem-primeiro-na-sua-cabe-a-35133d8db9d280bbaa53cbafd1a22a65"
-    },
-    {
-      "title": "Já assistiu O Menino que Descobriu o Vento?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "30/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/J-assistiu-O-Menino-que-Descobriu-o-Vento-35133d8db9d2805fa771c21f2fd38e64"
     },
     {
       "title": "Algumas causas mobilizam milhões.",
@@ -4425,6 +4420,19 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "ItalaP": [
+    {
+      "title": "Comunicado",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "27/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Comunicado-36d33d8db9d280c7863fe4a72014033c"
+    },
     {
       "title": "Cuidar da saúde vai além de fazer exames.",
       "status": "postado",
@@ -4700,16 +4708,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "ItalaP": [
-    {
-      "title": "Comunicado",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Comunicado-36d33d8db9d280318407d27dd74d378c",
-      "gestora": "Equipe",
-      "date": "29/05"
-    }
-  ],
   "Plannea": [
     {
       "title": "Edição de vídeo de promoção",
@@ -4790,10 +4788,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Finseg Leal": [
     {
-      "title": "Para trocar apenas o preço (favor fazer no Canva)",
+      "title": "Designs para performance #3",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Para-trocar-apenas-o-pre-o-favor-fazer-no-Canva-36c33d8db9d280d7b6b1efdcfeaa8657",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Designs-para-performance-3-36c33d8db9d280d7b6b1efdcfeaa8657",
       "gestora": "Equipe",
       "date": "28/05"
     },
@@ -4892,7 +4890,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 24,
+    "prontas": 25,
     "total": 25
   },
   "Jota Diesel": {
@@ -4952,7 +4950,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Daniel Maia Advocacia": {
-    "prontas": 9,
+    "prontas": 12,
     "total": 12
   },
   "Conecta Assessoria": {
@@ -4988,7 +4986,7 @@ const FORMAT_COUNTS = {
     "story": 6
   },
   "Juntos contra o HPV": {
-    "post": 16,
+    "post": 17,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
@@ -5034,7 +5032,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   },
   "Planos Seguros": {
     "post": 12,
@@ -5062,7 +5060,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 1,
     "video": 7,
-    "story": 2
+    "story": 3
   },
   "Grupo Mulheres do Brasil": {
     "post": 13,
