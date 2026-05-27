@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 11:24:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 14:40:00 **/
 
-const LAST_UPDATE = '27/05/2026, 11:24:58';
+const LAST_UPDATE = '27/05/2026, 14:40:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -84,12 +84,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Juntos contra o HPV": {
-    "total": 18,
+    "total": 17,
     "pronto": 15,
     "postado": 2,
     "agendado": 13,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 9,
@@ -166,9 +166,9 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "ItalaP": {
-    "total": 12,
-    "pronto": 12,
-    "postado": 3,
+    "total": 13,
+    "pronto": 13,
+    "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
     "a_agendar": 1
@@ -250,12 +250,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 4,
+    "total": 3,
     "pronto": 3,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -421,12 +421,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 5,
+    "total": 6,
     "pronto": 5,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -1013,19 +1013,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Liberdade-para-ser-quem-voc-Dia-internacional-contra-homofobia-35033d8db9d28007973bd6478ea14f20"
     },
     {
-      "title": "No Brasil, cerca de 17 mil mulheres são diagnosticadas por ano — muitas ainda em estágios avançados",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/No-Brasil-cerca-de-17-mil-mulheres-s-o-diagnosticadas-por-ano-muitas-ainda-em-est-gios-avan-ados-34233d8db9d280e2b937cc926c1e139b"
-    },
-    {
       "title": "✔ Dados ✔ Educação ✔ Multiplicadores ✔ Mobilização✔ Vacinação - Um modelo completo de prevenção que já está transformando territórios",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -1062,7 +1049,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A prevenção do HPV tem potencial para reduzir o câncer do colo do útero nas próximas décadas",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/05",
+      "date": "29/05",
       "missing": [
         "Design"
       ],
@@ -2207,6 +2194,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Foto das crianças",
+      "status": "postado",
+      "formato": "📸 Foto(s)",
+      "date": "27/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Foto-das-crian-as-36d33d8db9d280f3b94cd80258ab1424"
+    },
+    {
       "title": "Por trás de cada cuidado, existe uma equipe que faz acontecer. (usar foto da equipe)",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -3296,19 +3294,6 @@ const LINHA_VIDEO_ITEMS = {
   "Ser Ponte": [],
   "Stratto": [
     {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/05",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 2. A editar",
-      "notionUrl": "https://www.notion.so/V-deo-35233d8db9d28001bb08ddea39b5288a"
-    },
-    {
       "title": "3 dúvidas comuns sobre BPO financeiro",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3984,6 +3969,19 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Ser Ponte": [],
   "Stratto": [
+    {
+      "title": "Stories que ja sairam",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Stories-que-ja-sairam-36d33d8db9d280d69cc2d246944c824d"
+    },
     {
       "title": "Quando existe estrutura, o financeiro flui.",
       "status": "postado",
@@ -4702,6 +4700,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "ItalaP": [
+    {
+      "title": "Comunicado",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Comunicado-36d33d8db9d280318407d27dd74d378c",
+      "gestora": "Equipe",
+      "date": "29/05"
+    }
+  ],
   "Plannea": [
     {
       "title": "Edição de vídeo de promoção",
@@ -4880,11 +4888,11 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "Stratto": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 16,
+    "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 25,
+    "prontas": 24,
     "total": 25
   },
   "Jota Diesel": {
@@ -4924,8 +4932,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "ItalaP": {
-    "prontas": 19,
-    "total": 19
+    "prontas": 20,
+    "total": 20
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 14,
@@ -4976,11 +4984,11 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 2,
     "foto": 0,
-    "video": 4,
-    "story": 5
+    "video": 3,
+    "story": 6
   },
   "Juntos contra o HPV": {
-    "post": 17,
+    "post": 16,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
@@ -5052,7 +5060,7 @@ const FORMAT_COUNTS = {
   "ItalaP": {
     "post": 10,
     "carrossel": 2,
-    "foto": 0,
+    "foto": 1,
     "video": 7,
     "story": 2
   },
