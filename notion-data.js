@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 19:01:43 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/05/2026, 23:44:33 **/
 
-const LAST_UPDATE = '26/05/2026, 19:01:43';
+const LAST_UPDATE = '26/05/2026, 23:44:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -68,12 +68,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Ser Ponte": {
-    "total": 3,
-    "pronto": 3,
+    "total": 2,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 13,
@@ -95,9 +95,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 9,
     "postado": 5,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -108,17 +108,17 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 15,
-    "pronto": 11,
+    "total": 14,
+    "pronto": 13,
     "postado": 6,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 4,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Terrartesã": {
     "total": 11,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 2,
@@ -127,7 +127,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 10,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 5,
     "agendado": 1,
     "agendado_coord": 2,
@@ -143,11 +143,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 5,
-    "agendado": 3,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Plannea": {
     "total": 13,
@@ -161,9 +161,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 13,
     "postado": 7,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "ItalaP": {
     "total": 12,
@@ -223,11 +223,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 15,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 6,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   }
 };
@@ -269,9 +269,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -333,9 +333,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 5,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "ItalaP": {
     "total": 7,
@@ -363,11 +363,11 @@ const VIDEO_DATA = {
   },
   "Di Gregório Buffet": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "APROSSEG": {
     "total": 4,
@@ -462,7 +462,7 @@ const STORIES_DATA = {
   },
   "Terrartesã": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
@@ -471,10 +471,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 4,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Rede Pangeia": {
     "total": 3,
@@ -774,19 +774,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-que-acompanha-a-Ser-Ponte-aqui-nas-redes-sociais-como-voc-definiria-o-nosso-trabalho-em-uma-p-34933d8db9d2807f8b0adad10765f3fe"
-    },
-    {
-      "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "27/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
     }
   ],
   "Stratto": [
@@ -1165,7 +1152,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Desempenho fora do padrão é sinal técnico o prejuízo vem quando não é tratado.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -1244,27 +1231,23 @@ const LINHA_FEED_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
-      "title": "Tranquilidade não acontece por acaso comece a construir a sua hoje.",
-      "status": "a_agendar",
+      "title": "Por que as maiores empresas de Fortaleza escolhem Unimed para seus times?",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Tranquilidade-n-o-acontece-por-acaso-comece-a-construir-a-sua-hoje-35733d8db9d280939be7fd9690bc1b7e"
+      "notionUrl": "https://www.notion.so/Por-que-as-maiores-empresas-de-Fortaleza-escolhem-Unimed-para-seus-times-35733d8db9d280939be7fd9690bc1b7e"
     },
     {
       "title": "Adiar o cuidado com a saúde tem um custo decida cuidar agora.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Adiar-o-cuidado-com-a-sa-de-tem-um-custo-decida-cuidar-agora-35733d8db9d280448da1cb7a31664dfe"
@@ -1380,19 +1363,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Um-benef-cio-bem-estruturado-transforma-a-rela-o-entre-empresa-e-colaborador-32533d8db9d280e3b886f0dd014a11f2"
     },
     {
-      "title": "Quando você precisa, a rede Unimed entrega",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Quando-voc-precisa-a-rede-Unimed-entrega-31133d8db9d2802da2eae8b33efdc019"
-    },
-    {
       "title": "Fique atento aos sinais! - Dia Mundial da Esclerose Múltipla",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1473,10 +1443,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "26/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Reinser-o-social-com-dignidade-o-papel-do-trabalho-e-da-gera-o-de-renda-na-reconstru-o-de-trajet-34533d8db9d280e78687e634db0f39f7"
@@ -1565,10 +1533,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-risco-jur-dico-se-constr-i-em-sil-ncio-35633d8db9d28033bf0bcf0b669938a0"
@@ -1600,10 +1566,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nem-todo-acordo-seguro-35633d8db9d280438f2ee47e7353b176"
@@ -1838,26 +1802,22 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Prevenção não é um movimento pontual, é uma construção que acontece antes de qualquer problema surgir.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Preven-o-n-o-um-movimento-pontual-uma-constru-o-que-acontece-antes-de-qualquer-problema-surgi-35233d8db9d280f98066d495106672aa"
     },
     {
       "title": "Nos primeiros minutos após um imprevisto, saber o que fazer pode fazer mais diferença do que o próprio seguro.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "26/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nos-primeiros-minutos-ap-s-um-imprevisto-saber-o-que-fazer-pode-fazer-mais-diferen-a-do-que-o-pr-pr-35233d8db9d28087b0e8e1f0da9a65f3"
@@ -2136,7 +2096,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você não precisa se adaptar ao seu colchão. Ele que precisa se adaptar a você",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -3118,6 +3078,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "ua encomenda chegou e a Solar tem espaço pra ela.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/05",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/ua-encomenda-chegou-e-a-Solar-tem-espa-o-pra-ela-36d33d8db9d2804eac89defef4917b89"
+    },
+    {
       "title": "TBT do dia que fomos entrevistados pelo G1",
       "status": "postado",
       "formato": "📸 Foto(s)",
@@ -3174,13 +3148,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A localização do seu negócio influencia diretamente quem chega até você.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-localiza-o-do-seu-neg-cio-influencia-diretamente-quem-chega-at-voc-34b33d8db9d280f78fb0c0c26a9562fb"
@@ -3228,19 +3200,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/As-conex-es-mais-valiosas-n-o-acontecem-em-eventos-acontecem-na-conviv-ncia-di-ria-34b33d8db9d2803786d9f6244e2d5bc8"
-    },
-    {
-      "title": "Você acha que falta tempo, mas talvez o problema seja o ambiente onde você trabalha.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Voc-acha-que-falta-tempo-mas-talvez-o-problema-seja-o-ambiente-onde-voc-trabalha-34b33d8db9d2806aa1c5eeabd20c62b9"
     },
     {
       "title": "Seu negócio está no lugar certo ou em qualquer lugar?",
@@ -3467,7 +3426,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Sinais que você não pode ignorar",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "27/05",
       "missing": [],
@@ -3678,7 +3637,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Acerto na escolha",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "27/05",
       "missing": [],
@@ -3890,16 +3849,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Doces do último casamento",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Doces-do-ltimo-casamento-34f33d8db9d280c1a1a7e79f175331ac"
     }
   ],
@@ -4233,10 +4189,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "26/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-fizemos-foi-estruturar-caminhos-para-que-ele-continue-existindo-34533d8db9d28049b52ac9dbc6af68a6"
@@ -4245,7 +4199,7 @@ const LINHA_STORIES_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Jornada dos funcionários",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "26/05",
       "missing": [],
@@ -4713,6 +4667,17 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "19/05",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d28024a589eac794c23956"
+    },
+    {
+      "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/05",
@@ -4722,18 +4687,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d280029107f2fd308ca8a2"
-    },
-    {
-      "title": "Story/stories",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "19/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d28024a589eac794c23956"
+      "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d280ff8666d0f4fb282f84"
     },
     {
       "title": "Story/stories",
@@ -4750,6 +4704,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Edição de vídeo de promoção",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Edi-o-de-v-deo-de-promo-o-36d33d8db9d280b2b42ee972c9e2b941",
+      "gestora": "Equipe",
+      "date": "27/05"
+    }
+  ],
   "Univendas": [
     {
       "title": "Card Prefeitura de Fortaleza ",
@@ -4915,7 +4879,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 1,
-    "total": 3
+    "total": 2
   },
   "Stratto": {
     "prontas": 17,
@@ -4934,8 +4898,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Univendas": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 14,
+    "total": 14
   },
   "Terrartesã": {
     "prontas": 13,
@@ -4974,7 +4938,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Di Gregório Buffet": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 3
   },
   "APROSSEG": {
@@ -4990,7 +4954,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Solar Coworking": {
-    "prontas": 15,
+    "prontas": 14,
     "total": 15
   }
 };
@@ -5005,7 +4969,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 1,
-    "carrossel": 2,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -5040,7 +5004,7 @@ const FORMAT_COUNTS = {
   },
   "Univendas": {
     "post": 14,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 3
