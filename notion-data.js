@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 07:56:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 11:24:58 **/
 
-const LAST_UPDATE = '27/05/2026, 07:56:54';
+const LAST_UPDATE = '27/05/2026, 11:24:58';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -128,10 +128,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 10,
     "pronto": 10,
-    "postado": 5,
+    "postado": 6,
     "agendado": 1,
     "agendado_coord": 2,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 13,
@@ -207,7 +207,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 7,
+    "pronto": 9,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 1,
@@ -217,9 +217,9 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 16,
     "postado": 6,
-    "agendado": 8,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 15,
@@ -389,9 +389,9 @@ const VIDEO_DATA = {
     "total": 2,
     "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 0,
@@ -513,10 +513,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 2,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 1,
@@ -545,8 +545,8 @@ const STORIES_DATA = {
   "APROSSEG": {
     "total": 4,
     "pronto": 3,
-    "postado": 2,
-    "agendado": 1,
+    "postado": 3,
+    "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -1563,7 +1563,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nem todo acordo é seguro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "27/05",
       "missing": [],
@@ -2798,10 +2798,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Antes-da-fal-ncia-existe-um-caminho-Mas-ele-tem-prazo-36c33d8db9d280128b1bdc80e0f37bef"
@@ -2812,10 +2811,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-dinheiro-que-sai-sem-voc-perceber-tem-nome-risco-jur-dico-n-o-gerenciado-36c33d8db9d2807985c1f70d239fbcb4"
@@ -2923,7 +2921,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Antes de contratar um plano de saúde para sua empresa… verifique isso: ✔ rede hospitalar  ✔ perfil da equipe ✔ coparticipação ✔ cobertura real                            Escolher errado custa caro depois",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -2934,7 +2932,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Conecta + Amil: mais estrutura, mais estratégia e mais resultado para sua empresa.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/05",
       "missing": [],
@@ -3946,7 +3944,7 @@ const LINHA_VIDEO_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "roteiro 02: Benefícios corporativos",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "28/05",
       "missing": [],
@@ -4431,7 +4429,7 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Cuidar da saúde vai além de fazer exames.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "27/05",
       "missing": [],
@@ -4530,7 +4528,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário Moacyr",
-      "status": "agendado",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "27/05",
       "missing": [],
@@ -4786,7 +4784,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Para trocar apenas o preço (favor fazer no Canva)",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://www.notion.so/Para-trocar-apenas-o-pre-o-favor-fazer-no-Canva-36c33d8db9d280d7b6b1efdcfeaa8657",
       "gestora": "Equipe",
       "date": "28/05"
@@ -5126,7 +5124,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Juntos contra o HPV": {
-    "reuniao": 2,
+    "reuniao": 3,
     "producao": 1,
     "evento": 1
   },
