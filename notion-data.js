@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 20:42:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/05/2026, 23:31:45 **/
 
-const LAST_UPDATE = '27/05/2026, 20:42:35';
+const LAST_UPDATE = '27/05/2026, 23:31:45';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4740,7 +4740,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Elegibilidade por Operadora",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://www.notion.so/Elegibilidade-por-Operadora-36533d8db9d280699c4ad7e47ca76da7",
       "gestora": "Equipe",
       "date": "21/05"
