@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 14:59:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 17:27:59 **/
 
-const LAST_UPDATE = '28/05/2026, 14:59:11';
+const LAST_UPDATE = '28/05/2026, 17:27:59';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -87,9 +87,9 @@ const FEED_DATA = {
     "total": 18,
     "pronto": 18,
     "postado": 3,
-    "agendado": 13,
+    "agendado": 15,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 9,
@@ -422,7 +422,7 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 7,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
@@ -512,11 +512,11 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 3,
-    "pronto": 2,
-    "postado": 2,
+    "pronto": 3,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 1,
@@ -946,7 +946,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A mobilização de São Luís do Curu ganhou destaque na mídia - A ação levou prevenção, vacinação e serviços de saúde para a população",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "30/05",
       "missing": [],
@@ -1056,7 +1056,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A prevenção do HPV tem potencial para reduzir o câncer do colo do útero nas próximas décadas",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -3967,10 +3967,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Vaga-de-assistente-financeiro-36e33d8db9d280eb8d1afee6f78b05aa"
@@ -4420,13 +4418,11 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Comunicado",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Comunicado-36d33d8db9d280c7863fe4a72014033c"
