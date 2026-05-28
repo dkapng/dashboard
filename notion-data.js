@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 11:32:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 14:59:11 **/
 
-const LAST_UPDATE = '28/05/2026, 11:32:19';
+const LAST_UPDATE = '28/05/2026, 14:59:11';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -85,7 +85,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 18,
-    "pronto": 16,
+    "pronto": 18,
     "postado": 3,
     "agendado": 13,
     "agendado_coord": 0,
@@ -421,12 +421,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 6,
+    "total": 7,
     "pronto": 6,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -949,10 +949,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "30/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-mobiliza-o-de-S-o-Lu-s-do-Curu-ganhou-destaque-na-m-dia-A-a-o-levou-preven-o-vacina-o-e-ser-35e33d8db9d280b2aaeef03cac475da1"
@@ -1061,10 +1059,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-preven-o-do-HPV-tem-potencial-para-reduzir-o-c-ncer-do-colo-do-tero-nas-pr-ximas-d-cadas-34233d8db9d2809d9147d81ae2439d0f"
@@ -3967,6 +3963,19 @@ const LINHA_STORIES_ITEMS = {
   "Ser Ponte": [],
   "Stratto": [
     {
+      "title": "Vaga de assistente financeiro",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/05",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Vaga-de-assistente-financeiro-36e33d8db9d280eb8d1afee6f78b05aa"
+    },
+    {
       "title": "Stories que ja sairam",
       "status": "postado",
       "formato": "📱 Story",
@@ -4417,7 +4426,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Comunicado-36d33d8db9d280c7863fe4a72014033c"
@@ -4936,7 +4945,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 3,
-    "story": 6
+    "story": 7
   },
   "Juntos contra o HPV": {
     "post": 17,
