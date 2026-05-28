@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 19:16:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 20:48:20 **/
 
-const LAST_UPDATE = '28/05/2026, 19:16:55';
+const LAST_UPDATE = '28/05/2026, 20:48:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -61,7 +61,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 15,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 2,
     "agendado": 11,
     "agendado_coord": 0,
@@ -520,7 +520,7 @@ const STORIES_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -634,18 +634,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/hoje-Travessias-H-bridas-abre-ao-p-blico-e-convida-voc-a-percorrer-de-perto-um-processo-constru--35633d8db9d280a3a57ff765b9457603"
     },
     {
-      "title": "Travessias Híbridas está aberto público e convida você a percorrer, de perto, um processo construído em diálogo, encontro e experimentação.",
+      "title": "Travessias Híbridas está aberto ao público e convida você a percorrer, de perto, um processo construído em diálogo, encontro e experimentação.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Travessias-H-bridas-est-aberto-p-blico-e-convida-voc-a-percorrer-de-perto-um-processo-constru-do-35633d8db9d28039b39cc97b286ad744"
+      "notionUrl": "https://www.notion.so/Travessias-H-bridas-est-aberto-ao-p-blico-e-convida-voc-a-percorrer-de-perto-um-processo-constru-35633d8db9d28039b39cc97b286ad744"
     },
     {
       "title": "É amanhã. Esperamos você na abertura da exposição: Travessias Híbridas",
@@ -4442,10 +4441,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quem-est-decidindo-o-futuro-do-pa-s-hoje-36b33d8db9d280a2a104ea7c3b3d5231"
@@ -5151,7 +5148,7 @@ const AGENDA_COUNTS = {
   "Daniel Maia Advocacia": {
     "reuniao": 0,
     "producao": 1,
-    "evento": 1
+    "evento": 2
   },
   "Conecta Assessoria": {
     "reuniao": 0,
