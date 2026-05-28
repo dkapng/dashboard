@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 07:49:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 11:32:19 **/
 
-const LAST_UPDATE = '28/05/2026, 07:49:30';
+const LAST_UPDATE = '28/05/2026, 11:32:19';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -86,10 +86,10 @@ const FEED_DATA = {
   "Juntos contra o HPV": {
     "total": 18,
     "pronto": 16,
-    "postado": 2,
+    "postado": 3,
     "agendado": 13,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 9,
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "Rede Pangeia": {
     "total": 13,
     "pronto": 12,
-    "postado": 1,
+    "postado": 2,
     "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 12,
@@ -182,9 +182,9 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Finseg Leal": {
-    "total": 14,
-    "pronto": 14,
-    "postado": 3,
+    "total": 15,
+    "pronto": 15,
+    "postado": 4,
     "agendado": 11,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -354,12 +354,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Finseg Leal": {
-    "total": 4,
+    "total": 3,
     "pronto": 3,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 3,
@@ -422,11 +422,11 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 6,
-    "pronto": 5,
-    "postado": 5,
+    "pronto": 6,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -439,10 +439,10 @@ const STORIES_DATA = {
   "Jota Diesel": {
     "total": 3,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -504,10 +504,10 @@ const STORIES_DATA = {
   "Ortobom": {
     "total": 5,
     "pronto": 5,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1,
+    "a_agendar": 0,
     "st-paused": null
   },
   "ItalaP": {
@@ -544,11 +544,11 @@ const STORIES_DATA = {
   },
   "APROSSEG": {
     "total": 4,
-    "pronto": 3,
-    "postado": 3,
+    "pronto": 4,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -561,10 +561,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 8,
     "pronto": 8,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 4,
@@ -924,9 +924,9 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Resultados da ação em São Luís do Curu - 400 atendimentos realizados em um dia de mobilização pela saúde e prevenção.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "27/05",
+      "date": "28/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -948,11 +948,11 @@ const LINHA_FEED_ITEMS = {
       "title": "A mobilização de São Luís do Curu ganhou destaque na mídia - A ação levou prevenção, vacinação e serviços de saúde para a população",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "28/05",
+      "date": "30/05",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-mobiliza-o-de-S-o-Lu-s-do-Curu-ganhou-destaque-na-m-dia-A-a-o-levou-preven-o-vacina-o-e-ser-35e33d8db9d280b2aaeef03cac475da1"
@@ -1664,7 +1664,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O porquê certo pode mudar uma organização inteira. (Indicação de leitura da estante da Vera)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/05",
       "missing": [],
@@ -2494,6 +2494,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Finseg Leal": [
+    {
+      "title": "Foto enviada pelo Jozivan",
+      "status": "postado",
+      "formato": "📸 Foto(s)",
+      "date": "28/05",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Foto-enviada-pelo-Jozivan-36e33d8db9d28092a798cad84e00f2c6"
+    },
     {
       "title": "Acidente, pane ou imprevisto? A Finseg agora conta com mais um canal para assistência e sinistros 24h. 0800 591 2311 salve esse contato — ele pode ajudar quando você mais precisar",
       "status": "agendado",
@@ -3760,20 +3771,6 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Finseg Leal": [
     {
-      "title": "Vídeo com texto e imagem ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-com-texto-e-imagem-35833d8db9d280f689f1d9e0997fc4c8"
-    },
-    {
       "title": "Financeiro + Corretora",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3971,12 +3968,10 @@ const LINHA_STORIES_ITEMS = {
   "Stratto": [
     {
       "title": "Stories que ja sairam",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/05",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
@@ -4109,7 +4104,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/05",
       "missing": [],
@@ -4359,7 +4354,7 @@ const LINHA_STORIES_ITEMS = {
   "Ortobom": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/05",
       "missing": [],
@@ -4515,12 +4510,10 @@ const LINHA_STORIES_ITEMS = {
   "APROSSEG": [
     {
       "title": "Vídeo da georgia",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/05",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. Finalizado",
@@ -4575,7 +4568,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário - Igo Freire",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/05",
       "missing": [],
@@ -4728,66 +4721,6 @@ const DEMANDAS_EXTRAS = {
       "date": "25/05"
     }
   ],
-  "Planos Seguros": [
-    {
-      "title": "Roteiros de junho",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Roteiros-de-junho-36c33d8db9d280c4a659f2314f230677",
-      "gestora": "Equipe",
-      "date": "25/05"
-    },
-    {
-      "title": "Elegibilidade por Operadora",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Elegibilidade-por-Operadora-36533d8db9d280699c4ad7e47ca76da7",
-      "gestora": "Equipe",
-      "date": "21/05"
-    },
-    {
-      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
-      "gestora": "Equipe",
-      "date": "22/05"
-    },
-    {
-      "title": "Boas vindas individual (E-mail)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
-      "gestora": "Equipe",
-      "date": "22/05"
-    },
-    {
-      "title": "Gestão de e-mails",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
-      "gestora": "Equipe",
-      "date": "29/05"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Designs para performance #3",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Designs-para-performance-3-36c33d8db9d280d7b6b1efdcfeaa8657",
-      "gestora": "Equipe",
-      "date": "28/05"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Comprovações no portfólio cultural",
@@ -4832,6 +4765,42 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://www.notion.so/Pacote-de-demandas-de-identidade-visual-01-27033d8db9d2808993bbc4483bbb3a31",
       "gestora": "Equipe",
       "date": "28/02"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
+  "Planos Seguros": [
+    {
+      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
+      "gestora": "Equipe",
+      "date": "22/05"
+    },
+    {
+      "title": "Boas vindas individual (E-mail)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
+      "gestora": "Equipe",
+      "date": "22/05"
+    },
+    {
+      "title": "Gestão de e-mails",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://www.notion.so/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
+      "gestora": "Equipe",
+      "date": "29/05"
     }
   ],
   "RR Advocacia": [
@@ -4922,7 +4891,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Finseg Leal": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 18
   },
   "Di Gregório Buffet": {
@@ -5056,8 +5025,8 @@ const FORMAT_COUNTS = {
   "Finseg Leal": {
     "post": 13,
     "carrossel": 1,
-    "foto": 0,
-    "video": 4,
+    "foto": 1,
+    "video": 3,
     "story": 4
   },
   "Di Gregório Buffet": {
@@ -5174,7 +5143,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Finseg Leal": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
