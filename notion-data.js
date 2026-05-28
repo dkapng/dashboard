@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 17:27:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 19:16:55 **/
 
-const LAST_UPDATE = '28/05/2026, 17:27:59';
+const LAST_UPDATE = '28/05/2026, 19:16:55';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -61,7 +61,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 15,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 2,
     "agendado": 11,
     "agendado_coord": 0,
@@ -117,12 +117,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Terrartesã": {
-    "total": 11,
+    "total": 10,
     "pronto": 8,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 2,
-    "a_agendar": 3,
+    "a_agendar": 2,
     "st-paused": null
   },
   "RR Advocacia": {
@@ -177,9 +177,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 13,
     "postado": 2,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Finseg Leal": {
     "total": 15,
@@ -642,7 +642,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Travessias-H-bridas-est-aberto-p-blico-e-convida-voc-a-percorrer-de-perto-um-processo-constru-do-35633d8db9d28039b39cc97b286ad744"
@@ -675,10 +675,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/M-dia-mixa-Voc-sabia-que-uma-pintura-pode-ser-feita-com-mais-de-uma-t-cnica-Curiosidade-As-obras-35233d8db9d280c89f60c44369d11fb3"
@@ -1418,19 +1417,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cada-ponto-carrega-mais-do-que-linha-carrega-vida-experi-ncia-e-resist-ncia-35733d8db9d28076beabe46475b367b6"
-    },
-    {
-      "title": "O fazer artesanal transforma o cotidiano em caminho, propósito e permanência",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "27/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-fazer-artesanal-transforma-o-cotidiano-em-caminho-prop-sito-e-perman-ncia-35733d8db9d2803584f1fa90e7041fb5"
     },
     {
       "title": "Reinserção social com dignidade: o papel do trabalho e da geração de renda na reconstrução de trajetórias",
@@ -2358,9 +2344,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que as mudanças climáticas têm a ver com desigualdade?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "27/05",
+      "date": "28/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3816,7 +3802,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Salão Chá ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "27/05",
+      "date": "29/05",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4339,7 +4325,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Na prática, o que você acompanha mais hoje na sua empresa?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "27/05",
+      "date": "29/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4864,8 +4850,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Terrartesã": {
-    "prontas": 13,
-    "total": 13
+    "prontas": 12,
+    "total": 12
   },
   "RR Advocacia": {
     "prontas": 17,
@@ -4972,7 +4958,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Terrartesã": {
-    "post": 11,
+    "post": 10,
     "carrossel": 0,
     "foto": 0,
     "video": 2,
