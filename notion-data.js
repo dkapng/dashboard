@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 20:48:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/05/2026, 23:35:44 **/
 
-const LAST_UPDATE = '28/05/2026, 20:48:20';
+const LAST_UPDATE = '28/05/2026, 23:35:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,17 +63,17 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 15,
     "postado": 2,
-    "agendado": 11,
+    "agendado": 13,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 2,
-    "pronto": 2,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 13,
@@ -117,12 +117,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Terrartesã": {
-    "total": 10,
+    "total": 9,
     "pronto": 8,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 2,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   },
   "RR Advocacia": {
@@ -143,11 +143,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 12,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 5,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Plannea": {
     "total": 13,
@@ -177,9 +177,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 13,
     "postado": 2,
-    "agendado": 9,
+    "agendado": 10,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Finseg Leal": {
     "total": 15,
@@ -223,11 +223,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 15,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 6,
     "agendado": 7,
-    "agendado_coord": 0,
-    "a_agendar": 1,
+    "agendado_coord": 1,
+    "a_agendar": 0,
     "st-paused": null
   }
 };
@@ -363,11 +363,11 @@ const VIDEO_DATA = {
   },
   "Di Gregório Buffet": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "APROSSEG": {
     "total": 4,
@@ -453,12 +453,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Terrartesã": {
     "total": 2,
@@ -485,20 +485,20 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 4,
+    "total": 3,
     "pronto": 3,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Plannea": {
-    "total": 4,
-    "pronto": 4,
+    "total": 3,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Ortobom": {
@@ -568,11 +568,11 @@ const STORIES_DATA = {
   },
   "Solar Coworking": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   }
 };
 
@@ -635,14 +635,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Travessias Híbridas está aberto ao público e convida você a percorrer, de perto, um processo construído em diálogo, encontro e experimentação.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Travessias-H-bridas-est-aberto-ao-p-blico-e-convida-voc-a-percorrer-de-perto-um-processo-constru-35633d8db9d28039b39cc97b286ad744"
     },
@@ -670,14 +668,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mídia mixa: Você sabia que uma pintura pode ser feita com mais de uma técnica? Curiosidade: As obras expostas na Travessias Híbridas combinam aquarela serigráfica, óleo, acrílico e pastel.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/M-dia-mixa-Voc-sabia-que-uma-pintura-pode-ser-feita-com-mais-de-uma-t-cnica-Curiosidade-As-obras-35233d8db9d280c89f60c44369d11fb3"
     },
@@ -759,19 +755,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Chegou-o-novo-relat-rio-anual-da-Ser-Ponte-Acompanhe-as-principais-a-es-realizadas-em-2025-36033d8db9d28096a58bc8b9d8799519"
-    },
-    {
-      "title": "Você que acompanha a Ser Ponte aqui nas redes sociais: como você definiria o nosso trabalho em uma palavra?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/05",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Voc-que-acompanha-a-Ser-Ponte-aqui-nas-redes-sociais-como-voc-definiria-o-nosso-trabalho-em-uma-p-34933d8db9d2807f8b0adad10765f3fe"
     }
   ],
   "Stratto": [
@@ -1392,19 +1375,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/O-artesanato-como-heran-a-viva-que-atravessa-gera-es-e-se-transforma-em-renda-35d33d8db9d2801d8b36fb9132e03b32"
     },
     {
-      "title": "Cada peça criada é também um passo em uma nova história.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Cada-pe-a-criada-tamb-m-um-passo-em-uma-nova-hist-ria-35733d8db9d280549ed4ff77bb22c93b"
-    },
-    {
       "title": "Cada ponto carrega mais do que linha, carrega vida, experiência e resistência",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1756,17 +1726,15 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
-      "title": "O segundo semestre começa antes de julho. Ele começa na revisão do que ficou para trás.",
-      "status": "a_agendar",
+      "title": "Você cuida do corpo com academia, alimentação, sono. E a cobertura médica, como está?",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-segundo-semestre-come-a-antes-de-julho-Ele-come-a-na-revis-o-do-que-ficou-para-tr-s-36733d8db9d280089264d84b59d2a4fb"
+      "notionUrl": "https://www.notion.so/Voc-cuida-do-corpo-com-academia-alimenta-o-sono-E-a-cobertura-m-dica-como-est-36733d8db9d280089264d84b59d2a4fb"
     },
     {
       "title": "Mãe - Figura que representa amor incondicional, cuidado, proteção e dedicação constante. Pessoa que acolhe, orienta, fortalece e oferece segurança, seja por laços biológicos ou afetivos. Sinônimo de presença, força e entrega. Frequentemente descrita como alguém que “carrega o coração fora do peito”.",
@@ -2332,7 +2300,7 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Representatividade também começa quando uma menina liga a TV e se reconhece ali",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -3069,18 +3037,15 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
-      "title": "ua encomenda chegou e a Solar tem espaço pra ela.",
-      "status": "a_agendar",
+      "title": "Sua encomenda chegou e a Solar tem espaço pra ela.",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "29/05",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/ua-encomenda-chegou-e-a-Solar-tem-espa-o-pra-ela-36d33d8db9d2804eac89defef4917b89"
+      "notionUrl": "https://www.notion.so/Sua-encomenda-chegou-e-a-Solar-tem-espa-o-pra-ela-36d33d8db9d2804eac89defef4917b89"
     },
     {
       "title": "TBT do dia que fomos entrevistados pelo G1",
@@ -3799,16 +3764,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Salão Chá ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "29/05",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://www.notion.so/Sal-o-Ch-34f33d8db9d2804984dacb98d10c55be"
     },
     {
@@ -4132,19 +4094,6 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Story-stories-35733d8db9d2806182c1f2e28053b7e0"
-    },
-    {
-      "title": "Story/stories",
       "status": "postado",
       "formato": "📱 Story",
       "date": "05/05",
@@ -4262,19 +4211,6 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Feliz-anivers-rio-Lis-35d33d8db9d280d5b4aae45f86afa4e5"
     },
     {
-      "title": "O processo de proteção começa antes do problema, não no momento em que ele acontece!",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-processo-de-prote-o-come-a-antes-do-problema-n-o-no-momento-em-que-ele-acontece-35233d8db9d28060aabee96894470cda"
-    },
-    {
       "title": "Quando você precisou usar o plano, a experiência foi exatamente como esperava?",
       "status": "postado",
       "formato": "📱 Story",
@@ -4298,17 +4234,6 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Plannea": [
-    {
-      "title": "Nem toda empresa que cresce está, de fato, estruturada.",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "28/05",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Nem-toda-empresa-que-cresce-est-de-fato-estruturada-35733d8db9d2801a9c97cd8fa7d543cc"
-    },
     {
       "title": "No dia a dia, tem coisa que a gente só percebe quando falta.",
       "status": "st-paused",
@@ -4440,7 +4365,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Quem está decidindo o futuro do país hoje?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "28/05",
+      "date": "30/05",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4657,13 +4582,11 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "28/05",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Story-stories-34b33d8db9d280ff8666d0f4fb282f84"
@@ -4819,12 +4742,12 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 17,
+    "prontas": 19,
     "total": 19
   },
   "Ser Ponte": {
     "prontas": 1,
-    "total": 2
+    "total": 1
   },
   "Stratto": {
     "prontas": 16,
@@ -4847,8 +4770,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Terrartesã": {
-    "prontas": 12,
-    "total": 12
+    "prontas": 11,
+    "total": 11
   },
   "RR Advocacia": {
     "prontas": 17,
@@ -4883,7 +4806,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Di Gregório Buffet": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 3
   },
   "APROSSEG": {
@@ -4899,7 +4822,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Solar Coworking": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 15
   }
 };
@@ -4913,7 +4836,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Ser Ponte": {
-    "post": 1,
+    "post": 0,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -4952,10 +4875,10 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   },
   "Terrartesã": {
-    "post": 10,
+    "post": 9,
     "carrossel": 0,
     "foto": 0,
     "video": 2,
@@ -4980,14 +4903,14 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 1,
-    "story": 4
+    "story": 3
   },
   "Plannea": {
     "post": 11,
     "carrossel": 2,
     "foto": 0,
     "video": 4,
-    "story": 4
+    "story": 3
   },
   "Ortobom": {
     "post": 13,
@@ -5146,7 +5069,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Daniel Maia Advocacia": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 2
   },
