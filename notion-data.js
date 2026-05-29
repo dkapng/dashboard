@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/05/2026, 10:54:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/05/2026, 14:29:17 **/
 
-const LAST_UPDATE = '29/05/2026, 10:54:16';
+const LAST_UPDATE = '29/05/2026, 14:29:17';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -169,9 +169,10 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 13,
     "postado": 4,
-    "agendado": 9,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 0,
+    "st-paused": null
   },
   "Grupo Mulheres do Brasil": {
     "total": 13,
@@ -2166,11 +2167,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por trás de cada cuidado, existe uma equipe que faz acontecer. (usar foto da equipe)",
-      "status": "agendado",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Por-tr-s-de-cada-cuidado-existe-uma-equipe-que-faz-acontecer-usar-foto-da-equipe-35233d8db9d280e68c5fd414be79126b"
