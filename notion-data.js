@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/05/2026, 07:39:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/05/2026, 10:54:16 **/
 
-const LAST_UPDATE = '29/05/2026, 07:39:58';
+const LAST_UPDATE = '29/05/2026, 10:54:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -128,18 +128,18 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 10,
     "pronto": 10,
-    "postado": 6,
+    "postado": 7,
     "agendado": 1,
     "agendado_coord": 2,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Rede Pangeia": {
     "total": 13,
     "pronto": 12,
-    "postado": 2,
+    "postado": 3,
     "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 12,
@@ -169,9 +169,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 13,
     "postado": 4,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 13,
@@ -224,9 +224,9 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 15,
     "pronto": 15,
-    "postado": 6,
+    "postado": 7,
     "agendado": 7,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 0,
     "st-paused": null
   }
@@ -423,10 +423,10 @@ const STORIES_DATA = {
   "Stratto": {
     "total": 7,
     "pronto": 7,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -1479,7 +1479,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O risco jurídico se constrói em silêncio",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -1659,7 +1659,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O mercado abraçou o ESG. Mas entendeu o social?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -2188,7 +2188,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Parar de fumar não é fácil — mas ignorar os riscos também não é uma opção.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "31/05",
       "missing": [],
@@ -3038,7 +3038,7 @@ const LINHA_FEED_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Sua encomenda chegou e a Solar tem espaço pra ela.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/05",
       "missing": [],
@@ -3911,7 +3911,7 @@ const LINHA_STORIES_ITEMS = {
   "Stratto": [
     {
       "title": "Vaga de assistente financeiro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/05",
       "missing": [],
