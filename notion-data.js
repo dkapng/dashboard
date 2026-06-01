@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/06/2026, 17:52:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/06/2026, 19:58:31 **/
 
-const LAST_UPDATE = '01/06/2026, 17:52:15';
+const LAST_UPDATE = '01/06/2026, 19:58:31';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -133,7 +133,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 10,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -475,7 +475,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1525,10 +1525,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "05/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-o-Banco-Palmas-ensinou-ao-terceiro-setor-brasileiro-37233d8db9d2805f9c8ccd35b6b4b33b"
@@ -3737,10 +3736,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "03/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-sua-OSC-tivesse-uma-reuni-o-com-uma-grande-empresa-amanh-35133d8db9d28099a75bedace48d12dd"
@@ -4280,10 +4277,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Finseg Leal": [
     {
-      "title": "Atualizar valores da unimed",
+      "title": "Atualizar valores da Unimed",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Atualizar-valores-da-unimed-37233d8db9d280f7ab8cebf8ab207dac",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Atualizar-valores-da-Unimed-37233d8db9d280f7ab8cebf8ab207dac",
       "gestora": "Equipe",
       "date": "02/06"
     },
