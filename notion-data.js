@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/06/2026, 07:36:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/06/2026, 13:33:59 **/
 
-const LAST_UPDATE = '01/06/2026, 07:36:26';
+const LAST_UPDATE = '01/06/2026, 13:33:59';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -78,10 +78,10 @@ const FEED_DATA = {
   "Stratto": {
     "total": 13,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Juntos contra o HPV": {
     "total": 14,
@@ -156,12 +156,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Ortobom": {
-    "total": 11,
+    "total": 10,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "ItalaP": {
     "total": 14,
@@ -180,12 +180,12 @@ const FEED_DATA = {
     "a_agendar": 14
   },
   "Finseg Leal": {
-    "total": 1,
-    "pronto": 0,
+    "total": 7,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 7
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -213,7 +213,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 0,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -222,10 +222,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 13,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   }
 };
 
@@ -327,12 +327,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 4,
-    "pronto": 0,
+    "total": 5,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "ItalaP": {
     "total": 2,
@@ -476,10 +476,10 @@ const STORIES_DATA = {
   "Rede Pangeia": {
     "total": 2,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 5,
@@ -506,12 +506,12 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "ItalaP": {
-    "total": 3,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
     "total": 3,
@@ -555,7 +555,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -846,7 +846,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "90% das PMEs têm faturamento de leão e lucro de gatinho. Você trabalha 12h por dia para sustentar uma estrutura que não te paga um pró-labore digno?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "01/06",
       "missing": [],
@@ -1123,11 +1123,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "15/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Rodar-na-reserva-pode-comprometer-o-sistema-diesel-36e33d8db9d2803b9f80f3a9c0648489"
     },
@@ -1831,20 +1830,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Amor-n-o-s-o-que-a-gente-sente-o-que-a-gente-constr-i-toda-noite-36d33d8db9d2809d8d65e391e488fb77"
     },
     {
-      "title": "Seu descanso,seu jeito.  Absolutamente.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "11/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Seu-descanso-seu-jeito-Absolutamente-36d33d8db9d28030ba2bd12ab4708b58"
-    },
-    {
       "title": "Absolut Hybrid Dois jeitos de amar. Um colchão para os dois.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2288,10 +2273,23 @@ const LINHA_FEED_ITEMS = {
   ],
   "Finseg Leal": [
     {
-      "title": "A chuva passou. O prejuízo elétrico muitas vezes começa agora.",
+      "title": "O casal planeja a viagem, os móveis e o apartamento. Mas quase ninguém planeja os imprevistos.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "01/06",
+      "date": "11/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-casal-planeja-a-viagem-os-m-veis-e-o-apartamento-Mas-quase-ningu-m-planeja-os-imprevistos-36733d8db9d280bf9f4efa3f49ec52eb"
+    },
+    {
+      "title": "Eventos climáticos não impactam só o planeta. Impactam a rotina das cidades também.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/06",
       "missing": [
         "Design",
         "Legenda"
@@ -2299,7 +2297,70 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Eventos-clim-ticos-n-o-impactam-s-o-planeta-Impactam-a-rotina-das-cidades-tamb-m-36733d8db9d2809daf18f4b2915f7077"
+    },
+    {
+      "title": "O que mais queimou em Fortaleza após oscilações elétricas neste semestre?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-mais-queimou-em-Fortaleza-ap-s-oscila-es-el-tricas-neste-semestre-36733d8db9d280c6a949ebc6f38f7e59"
+    },
+    {
+      "title": "Quando duas pessoas passam a dividir a vida, muita coisa muda ao mesmo tempo. Despesas, patrimônio, responsabilidades e até a forma como os imprevistos impactam a rotina.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quando-duas-pessoas-passam-a-dividir-a-vida-muita-coisa-muda-ao-mesmo-tempo-Despesas-patrim-nio--36733d8db9d28069adccfaa5526f137f"
+    },
+    {
+      "title": "Construir uma vida juntos também é pensar no que protege ela.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Construir-uma-vida-juntos-tamb-m-pensar-no-que-protege-ela-36733d8db9d280868109e53c1771004c"
+    },
+    {
+      "title": "A chuva passou. O prejuízo elétrico muitas vezes começa agora.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "01/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-chuva-passou-O-preju-zo-el-trico-muitas-vezes-come-a-agora-36733d8db9d28001909df82a880d882d"
+    },
+    {
+      "title": "Proteger uma vida nem sempre exige muito. Às vezes, exige apenas uma doação - Dia Mundial do Doador de Sangue",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Proteger-uma-vida-nem-sempre-exige-muito-s-vezes-exige-apenas-uma-doa-o-Dia-Mundial-do-Doador--35e33d8db9d280238cd0d359a6e84214"
     }
   ],
   "Di Gregório Buffet": [],
@@ -2696,10 +2757,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-preven-o-um-ato-de-intelig-ncia-Drauzio-Varella-36d33d8db9d2803ba9b7c45ac24f826c"
@@ -2709,10 +2768,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "03/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-voc-j-come-ou-a-organizar-as-f-rias-esse-tamb-m-o-momento-de-pensar-na-prote-o-da-viagem-36d33d8db9d28046a619c4423d4c79de"
@@ -2722,10 +2779,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "01/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-realmente-est-no-planejamento-da-sua-empresa-para-junho-36d33d8db9d2800c9f35d71539056cc4"
@@ -2888,7 +2943,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "\n",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "01/06",
       "missing": [],
@@ -3189,32 +3244,43 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [],
   "Ortobom": [
     {
-      "title": "Vídeo",
+      "title": "Todo tipo de colchão ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "11/06",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Todo-tipo-de-colch-o-37233d8db9d2807e9110ec984552a2a6"
+    },
+    {
+      "title": "Desconforto na coluna",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "23/06",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-36d33d8db9d2803cabefcb8849b807cb"
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Desconforto-na-coluna-36d33d8db9d2803cabefcb8849b807cb"
     },
     {
-      "title": "Vídeo",
+      "title": "Conte onde está sentindo dor ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "17/06",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-36d33d8db9d2804d9e87d0e3def16500"
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Conte-onde-est-sentindo-dor-36d33d8db9d2804d9e87d0e3def16500"
     },
     {
       "title": "Vídeo comercial — Dia dos Namorados",
@@ -3231,18 +3297,17 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://www.notion.so/V-deo-comercial-Dia-dos-Namorados-36d33d8db9d2808c8b7af627e7817b85"
     },
     {
-      "title": "Vídeo",
+      "title": "Você precisa testar",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "03/06",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://www.notion.so/V-deo-36d33d8db9d2803d9681d61b8e8389fb"
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://www.notion.so/Voc-precisa-testar-36d33d8db9d2803d9681d61b8e8389fb"
     }
   ],
   "ItalaP": [
@@ -3635,7 +3700,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Já assistiu O Menino que Descobriu o Vento?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "01/06",
       "missing": [],
@@ -3794,6 +3859,19 @@ const LINHA_STORIES_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Agenda mensal",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "02/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Agenda-mensal-37233d8db9d28087b48acdbe12ff79b4"
+    },
+    {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -3884,7 +3962,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/voc-s-j-conversaram-sobre-planejamento-financeiro-juntos-36733d8db9d28098a51df765f628e87b"
     },
@@ -3897,7 +3975,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Umidade-oscila-o-e-sobrecarga-v-o-desgastando-os-equipamentos-aos-poucos-36733d8db9d280e393b5f89ae4759458"
     }
@@ -4029,10 +4107,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "02/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quem-se-planeja-garante-que-a-engrenagem-continue-rodando-n-o-importa-o-cen-rio-36d33d8db9d280d79699c60716d908e4"
@@ -4108,6 +4184,34 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "Atualizar valores da unimed",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Atualizar-valores-da-unimed-37233d8db9d280f7ab8cebf8ab207dac",
+      "gestora": "Equipe",
+      "date": "02/06"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
+  "APROSSEG": [
+    {
+      "title": "Aniversariantes",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/Aniversariantes-37233d8db9d28090bd4ffff94c012432",
+      "gestora": "Equipe",
+      "date": "02/06"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Coletes para jogo nos municípios",
@@ -4190,16 +4294,6 @@ const DEMANDAS_EXTRAS = {
       "date": "28/02"
     }
   ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
   "Planos Seguros": [
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -4268,7 +4362,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Jota Diesel": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 13
   },
   "Ventana": {
@@ -4312,7 +4406,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Finseg Leal": {
-    "prontas": 0,
+    "prontas": 6,
     "total": 12
   },
   "Di Gregório Buffet": {
@@ -4423,10 +4517,10 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Ortobom": {
-    "post": 10,
+    "post": 9,
     "carrossel": 1,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 4
   },
   "ItalaP": {
@@ -4434,7 +4528,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 2,
-    "story": 3
+    "story": 4
   },
   "Grupo Mulheres do Brasil": {
     "post": 15,
@@ -4444,7 +4538,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Finseg Leal": {
-    "post": 1,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 3,
