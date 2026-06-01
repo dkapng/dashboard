@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 31/05/2026, 21:00:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/06/2026, 02:22:43 **/
 
-const LAST_UPDATE = '31/05/2026, 21:00:50';
+const LAST_UPDATE = '01/06/2026, 02:22:43';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -68,12 +68,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Ser Ponte": {
-    "total": 2,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 13,
@@ -132,12 +132,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Rede Pangeia": {
-    "total": 1,
+    "total": 10,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 10
   },
   "Planos Seguros": {
     "total": 13,
@@ -175,9 +175,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 15
+    "a_agendar": 14
   },
   "Finseg Leal": {
     "total": 1,
@@ -303,12 +303,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Rede Pangeia": {
-    "total": 0,
+    "total": 7,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 7
   },
   "Planos Seguros": {
     "total": 4,
@@ -711,20 +711,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-R-200-muda-na-pr-tica-34933d8db9d280d3a377d6f77e509e04"
-    },
-    {
-      "title": "Deixa eu me apresentar.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "01/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Deixa-eu-me-apresentar-34933d8db9d2802193b9e4d7e649e814"
     }
   ],
   "Stratto": [
@@ -1438,10 +1424,134 @@ const LINHA_FEED_ITEMS = {
   "RR Advocacia": [],
   "Rede Pangeia": [
     {
+      "title": "Quando foi a última vez que você conseguiu pensar no crescimento da sua equipe sem se preocupar com o caixa?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quando-foi-a-ltima-vez-que-voc-conseguiu-pensar-no-crescimento-da-sua-equipe-sem-se-preocupar-com--37233d8db9d280cda618d30ccfb98c2a"
+    },
+    {
+      "title": "Sua organização está pronta para o próximo passo? Então eu te espero amanhã!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Sua-organiza-o-est-pronta-para-o-pr-ximo-passo-Ent-o-eu-te-espero-amanh-37233d8db9d280b4b268dafc728b0c0d"
+    },
+    {
+      "title": "Dia 20 de junho: uma pausa para pensar o futuro da sua organização.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Dia-20-de-junho-uma-pausa-para-pensar-o-futuro-da-sua-organiza-o-37233d8db9d2806c9101ddc083a73909"
+    },
+    {
+      "title": "A formação que eu gostaria de ter encontrado anos atrás, acontece no próximo sábado.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-forma-o-que-eu-gostaria-de-ter-encontrado-anos-atr-s-acontece-no-pr-ximo-s-bado-37233d8db9d2802a8cf0cedcc969c1f1"
+    },
+    {
+      "title": "Depois de anos acompanhando OSCs, percebi um padrão e eu quero quebrá-lo. Descubra como amanhã, às 11h!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Depois-de-anos-acompanhando-OSCs-percebi-um-padr-o-e-eu-quero-quebr-lo-Descubra-como-amanh-s-1-37233d8db9d280b58b62d5b7953f4db2"
+    },
+    {
+      "title": "Os jovens querem trabalhar com propósito. Então por que tantas OSCs perdem talentos?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "11/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Os-jovens-querem-trabalhar-com-prop-sito-Ent-o-por-que-tantas-OSCs-perdem-talentos-37233d8db9d280beaf56c8d523723084"
+    },
+    {
+      "title": "A reunião mais importante da sua organização provavelmente não aparece no Instagram",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "09/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-reuni-o-mais-importante-da-sua-organiza-o-provavelmente-n-o-aparece-no-Instagram-37233d8db9d280e9b2f1c9472a1af1db"
+    },
+    {
+      "title": "O que o Banco Palmas ensinou ao terceiro setor brasileiro",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "05/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-o-Banco-Palmas-ensinou-ao-terceiro-setor-brasileiro-37233d8db9d2805f9c8ccd35b6b4b33b"
+    },
+    {
+      "title": "Nenhuma causa se sustenta quando quem lidera está exausto",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "01/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Nenhuma-causa-se-sustenta-quando-quem-lidera-est-exausto-35133d8db9d2805aa151c51c24eec24c"
+    },
+    {
       "title": "O que uma OSC precisa entender antes de sentar com uma grande empresa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "02/06",
+      "date": "03/06",
       "missing": [
         "Design"
       ],
@@ -2138,7 +2248,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que acontece quando uma criança nunca se vê nos livros?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "01/06",
       "missing": [],
@@ -2922,7 +3032,106 @@ const LINHA_VIDEO_ITEMS = {
   "Univendas": [],
   "Terrartesã": [],
   "RR Advocacia": [],
-  "Rede Pangeia": [],
+  "Rede Pangeia": [
+    {
+      "title": "Anúncio do curso (2)  ⭐",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/An-ncio-do-curso-2-37233d8db9d280c18583cb8f012bbc7e"
+    },
+    {
+      "title": "Anúncio do curso ⭐",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "13/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/An-ncio-do-curso-37233d8db9d2809f8412eb9b30e718a0"
+    },
+    {
+      "title": "O momento em que uma boa notícia vira uma preocupação",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "12/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/O-momento-em-que-uma-boa-not-cia-vira-uma-preocupa-o-37233d8db9d28052b37ced93839b4846"
+    },
+    {
+      "title": "Depois de anos acompanhando OSCs, percebi um padrão",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/Depois-de-anos-acompanhando-OSCs-percebi-um-padr-o-37233d8db9d280ef88d4c5720bfd3d8d"
+    },
+    {
+      "title": "Nunca houve tanto interesse por impacto. E tão pouca continuidade.",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "08/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/Nunca-houve-tanto-interesse-por-impacto-E-t-o-pouca-continuidade-37233d8db9d280369ad1d39c334c7614"
+    },
+    {
+      "title": "O mito mais caro do terceiro setor",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "04/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/O-mito-mais-caro-do-terceiro-setor-37233d8db9d280a9bb3ec656e4ee4052"
+    },
+    {
+      "title": "O Brasil forma líderes de causa. Mas quem está formando os gestores?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "02/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/O-Brasil-forma-l-deres-de-causa-Mas-quem-est-formando-os-gestores-37233d8db9d2804ba4f9cf5e9bd7f733"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Viajar tranquilo não depende só do destino",
@@ -4048,7 +4257,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 0,
-    "total": 2
+    "total": 1
   },
   "Stratto": {
     "prontas": 14,
@@ -4079,8 +4288,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Rede Pangeia": {
-    "prontas": 1,
-    "total": 1
+    "prontas": 3,
+    "total": 17
   },
   "Planos Seguros": {
     "prontas": 17,
@@ -4138,7 +4347,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 1,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4193,10 +4402,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Rede Pangeia": {
-    "post": 1,
-    "carrossel": 0,
+    "post": 6,
+    "carrossel": 4,
     "foto": 0,
-    "video": 0,
+    "video": 7,
     "story": 2
   },
   "Planos Seguros": {
