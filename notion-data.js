@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/06/2026, 21:14:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/06/2026, 02:08:52 **/
 
-const LAST_UPDATE = '01/06/2026, 21:14:36';
+const LAST_UPDATE = '02/06/2026, 02:08:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -116,20 +116,20 @@ const FEED_DATA = {
     "a_agendar": 14
   },
   "Terrartesã": {
-    "total": 3,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "RR Advocacia": {
-    "total": 11,
+    "total": 14,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 14
   },
   "Rede Pangeia": {
     "total": 10,
@@ -140,20 +140,20 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Planos Seguros": {
-    "total": 13,
+    "total": 14,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 14
   },
   "Plannea": {
-    "total": 1,
-    "pronto": 1,
+    "total": 13,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 11
   },
   "Ortobom": {
     "total": 10,
@@ -295,12 +295,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 2,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 4
   },
   "Rede Pangeia": {
     "total": 7,
@@ -466,12 +466,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 2,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 2,
@@ -490,12 +490,12 @@ const STORIES_DATA = {
     "a_agendar": 5
   },
   "Plannea": {
-    "total": 2,
-    "pronto": 1,
+    "total": 3,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 4,
@@ -514,12 +514,12 @@ const STORIES_DATA = {
     "a_agendar": 5
   },
   "Grupo Mulheres do Brasil": {
-    "total": 3,
-    "pronto": 0,
+    "total": 4,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Finseg Leal": {
     "total": 4,
@@ -1394,6 +1394,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Cada-pe-a-criada-tamb-m-um-passo-em-uma-nova-hist-ria-35733d8db9d280549ed4ff77bb22c93b"
     },
     {
+      "title": "Cada ponto carrega mais do que linha, carrega vida, experiência e resistência",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "03/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Cada-ponto-carrega-mais-do-que-linha-carrega-vida-experi-ncia-e-resist-ncia-35733d8db9d28076beabe46475b367b6"
+    },
+    {
       "title": "O fazer artesanal transforma o cotidiano em caminho, propósito e permanência",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1422,18 +1435,56 @@ const LINHA_FEED_ITEMS = {
   ],
   "RR Advocacia": [
     {
-      "title": "Sem título",
+      "title": "O ambiente digital cresce rápido. Os riscos também.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-ambiente-digital-cresce-r-pido-Os-riscos-tamb-m-37333d8db9d2809eb92efde4a12efdba"
+    },
+    {
+      "title": "Toda decisão empresarial carrega impactos jurídicos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Toda-decis-o-empresarial-carrega-impactos-jur-dicos-37333d8db9d280a7b245c7c5b5075623"
+    },
+    {
+      "title": "Confiança também se constrói pela forma como sua empresa trata os dados dos clientes.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Confian-a-tamb-m-se-constr-i-pela-forma-como-sua-empresa-trata-os-dados-dos-clientes-37333d8db9d280efbe8fe3f5f6432e08"
+    },
+    {
+      "title": "Um vazamento de informações pode custar mais do que uma multa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/37333d8db9d280a1b3c9d83e3f4d8f7c"
+      "notionUrl": "https://www.notion.so/Um-vazamento-de-informa-es-pode-custar-mais-do-que-uma-multa-37333d8db9d280a1b3c9d83e3f4d8f7c"
     },
     {
       "title": "A proteção de dados já faz parte da reputação da sua empresa.",
@@ -1441,11 +1492,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-prote-o-de-dados-j-faz-parte-da-reputa-o-da-sua-empresa-37333d8db9d2806683bfe257ab627d19"
     },
@@ -1455,11 +1505,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Recuperar-valores-tamb-m-uma-forma-de-fortalecer-o-caixa-da-empresa-37333d8db9d280dc8fb7f856fe1564d6"
     },
@@ -1469,11 +1518,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Revisar-tributos-n-o-buscar-vantagens-garantir-conformidade-37333d8db9d28011a1b3e2e4670ecbda"
     },
@@ -1483,11 +1531,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Cl-usulas-bem-definidas-evitam-conflitos-desnecess-rios-37233d8db9d2805c8140f36ab33d7b83"
     },
@@ -1497,11 +1544,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Contrato-verbal-existe-O-que-a-lei-diz-sobre-isso-37233d8db9d2804b9550dd4e54106d25"
     },
@@ -1511,11 +1557,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-contrato-mais-perigoso-o-que-parece-simples-37233d8db9d28081b3b1cb49855ca1f1"
     },
@@ -1539,11 +1584,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "05/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-contrato-que-parece-seguro-pode-ser-o-maior-risco-do-seu-neg-cio-37233d8db9d2803f82b1dd1584b3cbe1"
     },
@@ -1553,11 +1597,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "03/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/5-erros-de-contrato-que-pequenas-empresas-cometem-sem-sabe-37233d8db9d2809baac2f358d950895d"
     },
@@ -1567,11 +1610,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "02/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-contrato-que-parece-seguro-pode-ser-o-maior-risco-do-seu-neg-cio-37233d8db9d28006a226e1230206781e"
     }
@@ -1879,14 +1921,192 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-atualiza-o-da-NR-1-colocou-em-evid-ncia-algo-que-muitas-empresas-aprenderam-a-normalizar-o-desga-36733d8db9d280c399aad8d3aa5f6cf5"
+    },
+    {
+      "title": "Quando a comparação ignora o contexto, a escolha tende a resolver o agora e criar problemas depois.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quando-a-compara-o-ignora-o-contexto-a-escolha-tende-a-resolver-o-agora-e-criar-problemas-depois-35233d8db9d280c6b6c1d4fc92cd6860"
     }
   ],
   "Plannea": [
     {
-      "title": "Abrir empresa é fácil. Começar do jeito certo é outra história, que você pode contar com a Plannea!",
+      "title": "O que é compliance tributário e por que sua empresa precisa disso hoje",
       "status": "a_agendar",
       "formato": "🖼️ Post",
+      "date": "29/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-compliance-tribut-rio-e-por-que-sua-empresa-precisa-disso-hoje-37333d8db9d280039ab1c565f3436450"
+    },
+    {
+      "title": "Você sabe quanto a Reforma Tributária vai impactar o preço do seu produto?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Voc-sabe-quanto-a-Reforma-Tribut-ria-vai-impactar-o-pre-o-do-seu-produto-37333d8db9d28088a5eeff08f409fb23"
+    },
+    {
+      "title": "O que é o Radar Tributário e como ele protege o seu negócio",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-o-Radar-Tribut-rio-e-como-ele-protege-o-seu-neg-cio-37333d8db9d280aab996e9528951196d"
+    },
+    {
+      "title": "O que diferencia a Plannea de uma contabilidade tradicional",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-que-diferencia-a-Plannea-de-uma-contabilidade-tradicional-37333d8db9d280599fadd8e15cea0845"
+    },
+    {
+      "title": "Pare de pagar impostos sem antes revisar sua estratégia tributária.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Pare-de-pagar-impostos-sem-antes-revisar-sua-estrat-gia-tribut-ria-37333d8db9d280a28ee6c0f9386655e5"
+    },
+    {
+      "title": "Você é dono do negócio ou refém da operação?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Voc-dono-do-neg-cio-ou-ref-m-da-opera-o-37333d8db9d280a5b3baf3ef88195c1a"
+    },
+    {
+      "title": "O futuro pertence às empresas que cuidam das pessoas.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "15/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-futuro-pertence-s-empresas-que-cuidam-das-pessoas-37333d8db9d2802ca22cc212848f9b90"
+    },
+    {
+      "title": "Não vendemos contabilidade. Entregamos inteligência para crescer.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/N-o-vendemos-contabilidade-Entregamos-intelig-ncia-para-crescer-37333d8db9d280d6b415e551c4772fdc"
+    },
+    {
+      "title": "A contabilidade deixou de ser operacional. A sua já percebeu isso?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-contabilidade-deixou-de-ser-operacional-A-sua-j-percebeu-isso-37333d8db9d2802592e3f9f9a991a44a"
+    },
+    {
+      "title": "O lucro que sua empresa procura pode estar escondido na gestão tributária.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-lucro-que-sua-empresa-procura-pode-estar-escondido-na-gest-o-tribut-ria-37333d8db9d280b9a7bafff66daaa3fd"
+    },
+    {
+      "title": "Reduza riscos fiscais antes que eles se transformem em prejuízo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Reduza-riscos-fiscais-antes-que-eles-se-transformem-em-preju-zo-37333d8db9d280ecab64ec4fd6a3195b"
+    },
+    {
+      "title": "Muito além da folha: o papel real do DP",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
       "date": "02/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Muito-al-m-da-folha-o-papel-real-do-DP-35733d8db9d280bba543f5a3f7b76a85"
+    },
+    {
+      "title": "Abrir empresa é fácil. Começar do jeito certo é outra história, que você pode contar com a Plannea!",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "04/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3317,6 +3537,34 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
+      "date": "30/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-37333d8db9d280ac9a26d93fd0dfafca"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-37333d8db9d280c39900fe97a64cff89"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
       "date": "16/06",
       "missing": [
         "Vídeo",
@@ -3918,6 +4166,19 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
+      "date": "25/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-37333d8db9d28041a76ed6f1cf38d77d"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
       "date": "18/06",
       "missing": [
         "Design"
@@ -4050,12 +4311,23 @@ const LINHA_STORIES_ITEMS = {
       "title": "Nem toda empresa que cresce está, de fato, estruturada.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "02/06",
+      "date": "09/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nem-toda-empresa-que-cresce-est-de-fato-estruturada-35733d8db9d2801a9c97cd8fa7d543cc"
+    },
+    {
+      "title": "Na prática, o que você acompanha mais hoje na sua empresa?",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "03/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Na-pr-tica-o-que-voc-acompanha-mais-hoje-na-sua-empresa-35733d8db9d280ef9849ccb7480753f1"
     }
   ],
   "Ortobom": [
@@ -4218,6 +4490,17 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-mercado-ama-produtividade-Mas-ignora-quem-cuida-36b33d8db9d2804d9503c086fdd132e2"
+    },
+    {
+      "title": "Quem está decidindo o futuro do país hoje?",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "02/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Quem-est-decidindo-o-futuro-do-pa-s-hoje-36b33d8db9d280a2a104ea7c3b3d5231"
     }
   ],
   "Finseg Leal": [
@@ -4676,24 +4959,24 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Terrartesã": {
-    "prontas": 3,
-    "total": 3
+    "prontas": 4,
+    "total": 4
   },
   "RR Advocacia": {
-    "prontas": 0,
-    "total": 13
+    "prontas": 13,
+    "total": 18
   },
   "Rede Pangeia": {
     "prontas": 3,
     "total": 17
   },
   "Planos Seguros": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 18,
+    "total": 18
   },
   "Plannea": {
-    "prontas": 1,
-    "total": 1
+    "prontas": 2,
+    "total": 13
   },
   "Ortobom": {
     "prontas": 13,
@@ -4784,18 +5067,18 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Terrartesã": {
-    "post": 3,
+    "post": 4,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 1
   },
   "RR Advocacia": {
-    "post": 11,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
-    "video": 2,
-    "story": 2
+    "video": 4,
+    "story": 3
   },
   "Rede Pangeia": {
     "post": 6,
@@ -4805,18 +5088,18 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Planos Seguros": {
-    "post": 12,
+    "post": 13,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
     "story": 5
   },
   "Plannea": {
-    "post": 1,
-    "carrossel": 0,
+    "post": 11,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 3
   },
   "Ortobom": {
     "post": 9,
@@ -4837,7 +5120,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 4
   },
   "Finseg Leal": {
     "post": 13,
