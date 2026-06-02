@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/06/2026, 06:46:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/06/2026, 10:55:12 **/
 
-const LAST_UPDATE = '02/06/2026, 06:46:47';
+const LAST_UPDATE = '02/06/2026, 10:55:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,8 +88,8 @@ const FEED_DATA = {
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 9,
-    "a_agendar": 4
+    "agendado_coord": 8,
+    "a_agendar": 5
   },
   "Jota Diesel": {
     "total": 9,
@@ -524,10 +524,10 @@ const STORIES_DATA = {
   "Finseg Leal": {
     "total": 4,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -539,11 +539,11 @@ const STORIES_DATA = {
   },
   "APROSSEG": {
     "total": 6,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -556,10 +556,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 5,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 4,
@@ -963,14 +963,14 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se existisse uma vacina contra o câncer, você tomaria? Ela já existe.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Se-existisse-uma-vacina-contra-o-c-ncer-voc-tomaria-Ela-j-existe-35e33d8db9d280a5a25efaa64a9e1a9b"
     },
@@ -1910,7 +1910,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/62-dos-empres-rios-brasileiros-j-operam-sob-n-veis-elevados-de-estresse-36733d8db9d28001b38dc374a770d3c6"
     },
     {
-      "title": "A atualização da NR-1 colocou em evidência algo que muitas empresas aprenderam a normalizar: o desgaste emocional da rotina.",
+      "title": "\nNR-1: existem riscos silenciosos que sua empresa não pode mais ignorar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "01/06",
@@ -1920,7 +1920,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/A-atualiza-o-da-NR-1-colocou-em-evid-ncia-algo-que-muitas-empresas-aprenderam-a-normalizar-o-desga-36733d8db9d280c399aad8d3aa5f6cf5"
+      "notionUrl": "https://www.notion.so/NR-1-existem-riscos-silenciosos-que-sua-empresa-n-o-pode-mais-ignorar-36733d8db9d280c399aad8d3aa5f6cf5"
     },
     {
       "title": "Quando a comparação ignora o contexto, a escolha tende a resolver o agora e criar problemas depois.",
@@ -2962,11 +2962,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Voc-quer-crescer-e-atrair-investidor-Ele-vai-perguntar-se-voc-tem-compliance-O-que-voc-vai-resp-36c33d8db9d28033a243d1b483e6b41f"
     },
@@ -2976,11 +2975,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "19/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-Estado-tomou-uma-decis-o-que-prejudica-o-seu-neg-cio-Sabia-que-voc-pode-questionar-isso-36c33d8db9d280949659f8d4cbff539e"
     },
@@ -3003,11 +3001,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-s-cio-foi-preso-E-agora-quem-responde-pela-empresa-36c33d8db9d280be917dd2f8d33537c1"
     },
@@ -3017,11 +3014,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Seu-contrato-de-fornecimento-ainda-de-2015-Isso-pode-estar-te-custando-caro-36c33d8db9d280059266c4cfe121a17e"
     },
@@ -3031,11 +3027,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Propriedade-intelectual-n-o-s-para-empresas-grandes-para-quem-criou-algo-que-vale-36c33d8db9d28026a6f4da18372a2ade"
     },
@@ -3045,11 +3040,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Marca-n-o-registrada-marca-de-ningu-m-Como-proteger-o-que-voc-construiu-36c33d8db9d280d5b29af56738cf1e64"
     },
@@ -4545,7 +4539,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Umidade, oscilação e sobrecarga vão desgastando os equipamentos aos poucos",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "02/06",
       "missing": [],
@@ -4611,12 +4605,10 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "02/06",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. Finalizado",
@@ -4679,7 +4671,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Quem se planeja garante que a engrenagem continue rodando, não importa o cenário.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "02/06",
       "missing": [],
@@ -5000,10 +4992,10 @@ const LEGENDAS_DATA = {
   },
   "APROSSEG": {
     "prontas": 11,
-    "total": 17
+    "total": 16
   },
   "Daniel Maia Advocacia": {
-    "prontas": 3,
+    "prontas": 9,
     "total": 9
   },
   "Conecta Assessoria": {
