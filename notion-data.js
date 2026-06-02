@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/06/2026, 10:55:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/06/2026, 15:01:52 **/
 
-const LAST_UPDATE = '02/06/2026, 10:55:12';
+const LAST_UPDATE = '02/06/2026, 15:01:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -77,19 +77,19 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 12
   },
   "Juntos contra o HPV": {
-    "total": 14,
+    "total": 15,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 8,
-    "a_agendar": 5
+    "agendado_coord": 4,
+    "a_agendar": 10
   },
   "Jota Diesel": {
     "total": 9,
@@ -134,18 +134,18 @@ const FEED_DATA = {
   "Rede Pangeia": {
     "total": 10,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Planos Seguros": {
     "total": 14,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Plannea": {
     "total": 13,
@@ -482,12 +482,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Planos Seguros": {
-    "total": 5,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 3
   },
   "Plannea": {
     "total": 3,
@@ -507,11 +507,11 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 5,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
     "total": 4,
@@ -836,10 +836,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "03/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Sua-hora-como-CEO-custa-R-200-h-Por-que-voc-ainda-gasta-10-horas-da-sua-semana-digitando-planilha-36c33d8db9d280b4b05de8e71a23cbb9"
@@ -876,7 +874,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Digitaliza-o-e-Sustentabilidade-como-o-uso-de-processos-online-reduz-o-papel-e-ajuda-o-planeta-D-35e33d8db9d2800ea87ae3b2bb33cee9"
@@ -884,15 +882,28 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "TBT do carnaval",
+      "status": "a_agendar",
+      "formato": "📸 Foto(s)",
+      "date": "25/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/TBT-do-carnaval-36b33d8db9d2802e98d4d8d264db8b6c"
+    },
+    {
       "title": "Nosso objetivo principal: zerar um número que nunca deveria ter existido.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/06",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Nosso-objetivo-principal-zerar-um-n-mero-que-nunca-deveria-ter-existido-36b33d8db9d280fba3e2cccc4794c0d2"
     },
@@ -924,27 +935,27 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O documento mais importante do futuro do seu filho está na gaveta hoje.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-documento-mais-importante-do-futuro-do-seu-filho-est-na-gaveta-hoje-36b33d8db9d280e39e6effae11fa826a"
     },
     {
       "title": "Por que a sua vacina também protege quem você nunca viu na vida?",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "16/06",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Por-que-a-sua-vacina-tamb-m-protege-quem-voc-nunca-viu-na-vida-36b33d8db9d280ce8d2df4a75e1b6e92"
     },
@@ -976,14 +987,14 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O único remédio para quem precisa de sangue não se fabrica em laboratório. Vem de você. - Dia Mundial do Doador de Sangue - Junho vermelho",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/06",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-nico-rem-dio-para-quem-precisa-de-sangue-n-o-se-fabrica-em-laborat-rio-Vem-de-voc-Dia-Mundia-35e33d8db9d28044a8f0c00871e2f0aa"
     },
@@ -1667,11 +1678,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-forma-o-que-eu-gostaria-de-ter-encontrado-anos-atr-s-acontece-no-pr-ximo-s-bado-37233d8db9d2802a8cf0cedcc969c1f1"
     },
@@ -1708,11 +1718,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "09/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/A-reuni-o-mais-importante-da-sua-organiza-o-provavelmente-n-o-aparece-no-Instagram-37233d8db9d280e9b2f1c9472a1af1db"
     },
@@ -1721,11 +1730,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "05/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/O-que-o-Banco-Palmas-ensinou-ao-terceiro-setor-brasileiro-37233d8db9d2805f9c8ccd35b6b4b33b"
     },
@@ -1742,9 +1749,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que uma OSC precisa entender antes de sentar com uma grande empresa?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "03/06",
+      "date": "02/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1911,13 +1918,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "\nNR-1: existem riscos silenciosos que sua empresa não pode mais ignorar.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "01/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "02/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/NR-1-existem-riscos-silenciosos-que-sua-empresa-n-o-pode-mais-ignorar-36733d8db9d280c399aad8d3aa5f6cf5"
@@ -1926,7 +1931,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a comparação ignora o contexto, a escolha tende a resolver o agora e criar problemas depois.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "02/06",
+      "date": "24/06",
       "missing": [
         "Design"
       ],
@@ -3673,7 +3678,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O Brasil forma líderes de causa. Mas quem está formando os gestores?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "02/06",
+      "date": "09/06",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4259,32 +4264,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Quando-a-empresa-perde-espa-o-para-revis-o-organiza-o-e-acompanhamento-o-problema-come-a-silencio-36733d8db9d280a9a34ef9aa5c30fbcb"
-    },
-    {
-      "title": "Riscos emocionais dentro das empresas",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "02/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/Riscos-emocionais-dentro-das-empresas-36733d8db9d28061a3fef9c86715f1d1"
-    },
-    {
-      "title": "O processo de proteção começa antes do problema, não no momento em que ele acontece!",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "02/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://www.notion.so/O-processo-de-prote-o-come-a-antes-do-problema-n-o-no-momento-em-que-ele-acontece-35233d8db9d28060aabee96894470cda"
     }
   ],
   "Plannea": [
@@ -4381,13 +4360,11 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Comunicado",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "02/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Comunicado-37233d8db9d2805e93e3e84beeaead9e"
@@ -4397,11 +4374,9 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "02/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 2. Alterações a fazer",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://www.notion.so/Agenda-mensal-37233d8db9d28087b48acdbe12ff79b4"
     },
@@ -4751,6 +4726,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "Vídeo com musica para o dia da imunização",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://www.notion.so/V-deo-com-musica-para-o-dia-da-imuniza-o-37333d8db9d28093b836ee6b6b90efd6",
+      "gestora": "Equipe",
+      "date": "09/06"
+    },
+    {
+      "title": "Coletes para jogo nos municípios",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://www.notion.so/Coletes-para-jogo-nos-munic-pios-36e33d8db9d280f69e1fc82ad6396c14",
+      "gestora": "Equipe",
+      "date": "02/06"
+    }
+  ],
   "Terrartesã": [
     {
       "title": "Tag geral da Terrartesã",
@@ -4761,40 +4754,12 @@ const DEMANDAS_EXTRAS = {
       "date": "05/06"
     }
   ],
-  "Finseg Leal": [
-    {
-      "title": "Atualizar valores da Unimed",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://www.notion.so/Atualizar-valores-da-Unimed-37233d8db9d280f7ab8cebf8ab207dac",
-      "gestora": "Equipe",
-      "date": "02/06"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
   "APROSSEG": [
     {
       "title": "Aniversariantes",
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://www.notion.so/Aniversariantes-37233d8db9d28090bd4ffff94c012432",
-      "gestora": "Equipe",
-      "date": "02/06"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Coletes para jogo nos municípios",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://www.notion.so/Coletes-para-jogo-nos-munic-pios-36e33d8db9d280f69e1fc82ad6396c14",
       "gestora": "Equipe",
       "date": "02/06"
     }
@@ -4871,6 +4836,16 @@ const DEMANDAS_EXTRAS = {
       "date": "28/02"
     }
   ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://www.notion.so/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -4935,7 +4910,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Juntos contra o HPV": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 18
   },
   "Jota Diesel": {
@@ -4959,7 +4934,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Rede Pangeia": {
-    "prontas": 3,
+    "prontas": 6,
     "total": 17
   },
   "Planos Seguros": {
@@ -5033,7 +5008,7 @@ const FORMAT_COUNTS = {
   "Juntos contra o HPV": {
     "post": 13,
     "carrossel": 1,
-    "foto": 0,
+    "foto": 1,
     "video": 1,
     "story": 0
   },
@@ -5084,7 +5059,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 4,
-    "story": 5
+    "story": 3
   },
   "Plannea": {
     "post": 11,
