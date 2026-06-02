@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/06/2026, 19:58:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/06/2026, 21:14:36 **/
 
-const LAST_UPDATE = '01/06/2026, 19:58:31';
+const LAST_UPDATE = '01/06/2026, 21:14:36';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -124,12 +124,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "RR Advocacia": {
-    "total": 0,
+    "total": 11,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 11
   },
   "Rede Pangeia": {
     "total": 10,
@@ -295,12 +295,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 7,
@@ -466,12 +466,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 2,
@@ -1420,7 +1420,162 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://www.notion.so/Venha-conhecer-a-Terrartes-onde-o-artesanal-encontra-prop-sito-Av-Chanceler-Edson-Queiroz-100--34533d8db9d280f2a897da31e90ccef5"
     }
   ],
-  "RR Advocacia": [],
+  "RR Advocacia": [
+    {
+      "title": "Sem título",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/37333d8db9d280a1b3c9d83e3f4d8f7c"
+    },
+    {
+      "title": "A proteção de dados já faz parte da reputação da sua empresa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/A-prote-o-de-dados-j-faz-parte-da-reputa-o-da-sua-empresa-37333d8db9d2806683bfe257ab627d19"
+    },
+    {
+      "title": "Recuperar valores também é uma forma de fortalecer o caixa da empresa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Recuperar-valores-tamb-m-uma-forma-de-fortalecer-o-caixa-da-empresa-37333d8db9d280dc8fb7f856fe1564d6"
+    },
+    {
+      "title": "Revisar tributos não é buscar vantagens. É garantir conformidade.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Revisar-tributos-n-o-buscar-vantagens-garantir-conformidade-37333d8db9d28011a1b3e2e4670ecbda"
+    },
+    {
+      "title": "Cláusulas bem definidas evitam conflitos desnecessários.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Cl-usulas-bem-definidas-evitam-conflitos-desnecess-rios-37233d8db9d2805c8140f36ab33d7b83"
+    },
+    {
+      "title": "Contrato verbal existe? O que a lei diz sobre isso",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Contrato-verbal-existe-O-que-a-lei-diz-sobre-isso-37233d8db9d2804b9550dd4e54106d25"
+    },
+    {
+      "title": "O contrato mais perigoso é o que parece simples",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-contrato-mais-perigoso-o-que-parece-simples-37233d8db9d28081b3b1cb49855ca1f1"
+    },
+    {
+      "title": "Post de data sazonal",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Post-de-data-sazonal-37233d8db9d2802093f3db3894d56dc3"
+    },
+    {
+      "title": "O contrato que parece seguro pode ser o maior risco do seu negócio",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-contrato-que-parece-seguro-pode-ser-o-maior-risco-do-seu-neg-cio-37233d8db9d2803f82b1dd1584b3cbe1"
+    },
+    {
+      "title": "5 erros de contrato que pequenas empresas cometem sem sabe",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "03/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/5-erros-de-contrato-que-pequenas-empresas-cometem-sem-sabe-37233d8db9d2809baac2f358d950895d"
+    },
+    {
+      "title": "O contrato que parece seguro pode ser o maior risco do seu negócio",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/O-contrato-que-parece-seguro-pode-ser-o-maior-risco-do-seu-neg-cio-37233d8db9d28006a226e1230206781e"
+    }
+  ],
   "Rede Pangeia": [
     {
       "title": "Quando foi a última vez que você conseguiu pensar no crescimento da sua equipe sem se preocupar com o caixa?",
@@ -3157,7 +3312,36 @@ const LINHA_VIDEO_ITEMS = {
   "Ventana": [],
   "Univendas": [],
   "Terrartesã": [],
-  "RR Advocacia": [],
+  "RR Advocacia": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-37333d8db9d2803d9ee0d74ac28cbc26"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://www.notion.so/V-deo-37233d8db9d28049a9f6e82046c1a4a9"
+    }
+  ],
   "Rede Pangeia": [
     {
       "title": "Anúncio do curso (2)  ⭐",
@@ -3729,7 +3913,34 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://www.notion.so/Story-stories-34533d8db9d280d6abb8c07ec0c2e064"
     }
   ],
-  "RR Advocacia": [],
+  "RR Advocacia": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "18/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-37333d8db9d280d8b772f5a34688f6cd"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "11/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://www.notion.so/Story-stories-37233d8db9d28087afcfcf779ed2f977"
+    }
+  ],
   "Rede Pangeia": [
     {
       "title": "Se sua OSC tivesse uma reunião com uma grande empresa amanhã…",
@@ -4470,7 +4681,7 @@ const LEGENDAS_DATA = {
   },
   "RR Advocacia": {
     "prontas": 0,
-    "total": 0
+    "total": 13
   },
   "Rede Pangeia": {
     "prontas": 3,
@@ -4580,11 +4791,11 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "RR Advocacia": {
-    "post": 0,
+    "post": 11,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
-    "story": 0
+    "video": 2,
+    "story": 2
   },
   "Rede Pangeia": {
     "post": 6,
