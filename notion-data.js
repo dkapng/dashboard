@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/06/2026, 18:28:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/06/2026, 20:16:04 **/
 
-const LAST_UPDATE = '02/06/2026, 18:28:51';
+const LAST_UPDATE = '02/06/2026, 20:16:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -125,7 +125,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -140,12 +140,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Planos Seguros": {
-    "total": 14,
+    "total": 13,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Plannea": {
     "total": 13,
@@ -165,7 +165,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 14,
-    "pronto": 1,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -188,16 +188,16 @@ const FEED_DATA = {
     "a_agendar": 13
   },
   "Di Gregório Buffet": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 0,
+    "agendado_coord": 1,
     "a_agendar": 0
   },
   "APROSSEG": {
     "total": 11,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -205,7 +205,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 8,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1700,10 +1700,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Decis-es-empresariais-mais-seguras-come-am-com-orienta-o-jur-dica-adequada-37233d8db9d2803f82b1dd1584b3cbe1"
@@ -1900,19 +1898,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-roteiro-da-viagem-j-est-pronto-A-prote-o-tamb-m-deveria-estar-36733d8db9d2802d8250fe11481f7c84"
-    },
-    {
-      "title": "São João movimenta as estradas. E muita gente só lembra da proteção depois que o problema acontece.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "03/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/S-o-Jo-o-movimenta-as-estradas-E-muita-gente-s-lembra-da-prote-o-depois-que-o-problema-acontece-36733d8db9d2803aa789c2dd95740d31"
     },
     {
       "title": "Tem decisões que ficam mais leves quando existe alguém para orientar o caminho. Fale com a Planos: (85) 4141-7474",
@@ -2446,10 +2431,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Existe-uma-gera-o-inteira-de-homens-que-aprendeu-a-ignorar-dor-cansa-o-e-sinais-do-pr-prio-corpo-36d33d8db9d280c2b611c9bb5544e4d0"
@@ -2498,10 +2481,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-primeiros-dias-de-vida-tamb-m-s-o-os-mais-importantes-para-cuidar-Dia-Nacional-do-teste-do-pezin-36b33d8db9d2805c86a2d0a629ab16d6"
@@ -2918,7 +2899,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Proteger-uma-vida-nem-sempre-exige-muito-s-vezes-exige-apenas-uma-doa-o-Dia-Mundial-do-Doador--35e33d8db9d280238cd0d359a6e84214"
     }
   ],
-  "Di Gregório Buffet": [],
+  "Di Gregório Buffet": [
+    {
+      "title": "15 anos, fotos do Clécio",
+      "status": "agendado_coord",
+      "formato": "📸 Foto(s)",
+      "date": "02/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/15-anos-fotos-do-Cl-cio-37333d8db9d28030b0e2ed7a24c1fa60"
+    }
+  ],
   "APROSSEG": [
     {
       "title": "Malas prontas para as férias de julho? Descubra por que o Seguro Viagem é o item mais importante da bagagem.",
@@ -3042,10 +3035,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "03/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/3-itens-fundamentais-para-revisar-no-seu-seguro-de-carro-antes-de-pegar-a-estrada-para-o-feriad-o-36c33d8db9d280068157d3b3d13187fa"
@@ -3094,10 +3085,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "05/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-concorrente-paga-menos-imposto-que-voc-dentro-da-lei-Como-ele-faz-isso-36c33d8db9d280d0903ccda4429acb38"
@@ -5080,8 +5069,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Planos Seguros": {
-    "prontas": 18,
-    "total": 18
+    "prontas": 17,
+    "total": 17
   },
   "Plannea": {
     "prontas": 2,
@@ -5104,8 +5093,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Di Gregório Buffet": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 1,
+    "total": 1
   },
   "APROSSEG": {
     "prontas": 11,
@@ -5197,7 +5186,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Planos Seguros": {
-    "post": 13,
+    "post": 12,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
@@ -5241,7 +5230,7 @@ const FORMAT_COUNTS = {
   "Di Gregório Buffet": {
     "post": 0,
     "carrossel": 0,
-    "foto": 0,
+    "foto": 1,
     "video": 0,
     "story": 0
   },
