@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/06/2026, 14:24:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/06/2026, 17:34:27 **/
 
-const LAST_UPDATE = '03/06/2026, 14:24:55';
+const LAST_UPDATE = '03/06/2026, 17:34:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -61,7 +61,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 9,
-    "pronto": 1,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -85,11 +85,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 15,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 4,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Jota Diesel": {
     "total": 9,
@@ -173,11 +173,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 15,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 0,
-    "a_agendar": 14
+    "agendado_coord": 1,
+    "a_agendar": 13
   },
   "Finseg Leal": {
     "total": 14,
@@ -674,10 +674,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "03/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Wilson-Neto-camadas-gesto-e-experimenta-o-35233d8db9d2809aa37ecb5353c54368"
@@ -688,10 +687,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "02/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/H-lio-R-la-pintura-mem-ria-e-travessia-35233d8db9d28089bd2df188c478d279"
@@ -1009,13 +1007,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Prevenir hoje pode evitar tratamentos agressivos no futuro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "04/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "03/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Prevenir-hoje-pode-evitar-tratamentos-agressivos-no-futuro-34233d8db9d280d38677fabe6243edd5"
@@ -1037,7 +1033,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Muita gente não sabe, mas o SUS oferece tudo isso para prevenção e cuidado: \n💉 Vacinação 🧪 Exames preventivos🏥 Acompanhamento em saúde - Tudo de forma gratuita e acessível",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/06",
+      "date": "13/06",
       "missing": [
         "Design"
       ],
@@ -1050,7 +1046,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O rastreamento regular pode evitar o câncer do colo do útero",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "03/06",
+      "date": "04/06",
       "missing": [
         "Design"
       ],
@@ -2628,13 +2624,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "No dia mundial da corrida, nós queremos que você saiba que já temos data para correr juntos e juntas pelo fim da violência contra mulheres e meninas.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "03/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/No-dia-mundial-da-corrida-n-s-queremos-que-voc-saiba-que-j-temos-data-para-correr-juntos-e-juntas-36b33d8db9d280fcb2bef5a41cd9e2d5"
@@ -3312,11 +3306,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "30/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-endere-o-da-sua-empresa-o-seu-endere-o-residencial-CUIDADO-36d33d8db9d2803b85b5cdf6a82349f2"
     },
@@ -3326,11 +3319,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-Solar-n-o-promete-sucesso-Promete-que-a-estrutura-n-o-vai-ser-o-seu-problema-36d33d8db9d280a9bff8f8a666b2a036"
     },
@@ -3340,11 +3332,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-cliente-marcou-voc-confirmou-Mas-onde-vai-acontecer-essa-reuni-o-36d33d8db9d280bfaf96fe805d599c09"
     },
@@ -3354,11 +3345,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Psic-logo-a-Solar-tem-a-sala-que-o-seu-paciente-merece-36d33d8db9d280ff98c4f05cd6aab754"
     },
@@ -3368,11 +3358,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-melhor-da-vida-profissional-acontece-quando-as-pessoas-certas-se-encontram-36d33d8db9d2803e9f4dcc4397795e25"
     },
@@ -3382,25 +3371,23 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-cliente-sente-quando-existe-profissionalismo-antes-mesmo-da-reuni-o-come-ar-36d33d8db9d280dea9c7f4ecb6cfbfb5"
     },
     {
-      "title": "Flexibilidade para reunir, negociar e crescer — onde a Solar estiver.",
+      "title": "Flexibilidade para reunir, negociar e crescer onde a Solar estiver.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Flexibilidade-para-reunir-negociar-e-crescer-onde-a-Solar-estiver-36d33d8db9d2801fa3c5c9e6f06cce66"
     },
@@ -3410,11 +3397,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dois-endere-os-uma-solu-o-Solar-Coworking-36d33d8db9d280d8ba9ff6288050692f"
     },
@@ -3424,11 +3410,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Grandes-conex-es-tamb-m-nascem-do-ambiente-certo-36d33d8db9d28069ad29c7cd95ade045"
     },
@@ -3438,11 +3423,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-Internacional-das-Micro-Pequenas-e-M-dias-Empresas-36d33d8db9d280fab1b3c981d6f494bd"
     },
@@ -4819,6 +4803,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ortobom": [
+    {
+      "title": "Fazer artes em formato storys ",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
+      "gestora": "Equipe",
+      "date": "05/06"
+    }
+  ],
   "Daniel Maia Advocacia": [
     {
       "title": "Configuração de email",
@@ -5067,7 +5061,7 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 16,
-    "total": 18
+    "total": 19
   },
   "Jota Diesel": {
     "prontas": 10,
@@ -5134,7 +5128,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 3,
+    "prontas": 13,
     "total": 13
   }
 };
