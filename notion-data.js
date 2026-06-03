@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/06/2026, 04:20:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/06/2026, 09:18:01 **/
 
-const LAST_UPDATE = '03/06/2026, 04:20:32';
+const LAST_UPDATE = '03/06/2026, 09:18:01';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -5016,6 +5016,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Di Gregório Buffet": "marcada",
   "APROSSEG": "marcada",
   "RR Advocacia": "marcada",
   "Rede Pangeia": "marcada",
@@ -5347,7 +5348,7 @@ const AGENDA_COUNTS = {
   },
   "Di Gregório Buffet": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "APROSSEG": {
