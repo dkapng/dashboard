@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/06/2026, 10:54:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/06/2026, 13:48:13 **/
 
-const LAST_UPDATE = '04/06/2026, 10:54:54';
+const LAST_UPDATE = '04/06/2026, 13:48:13';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -498,12 +498,12 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "Ortobom": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 5,
@@ -538,12 +538,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 6,
+    "total": 5,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -4419,19 +4419,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-36d33d8db9d28035a9edc34f87f7147b"
-    },
-    {
-      "title": "Corpus cristu",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "04/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Corpus-cristu-35233d8db9d280fb9133d0623b8dffa0"
     }
   ],
   "ItalaP": [
@@ -4615,19 +4602,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-36e33d8db9d280c18d50c77c8a0604c1"
-    },
-    {
-      "title": "Corpus Christi é um momento de fé, reflexão e gratidão. Um tempo para valorizar o que realmente importa: a presença, a família, o lar e os momentos compartilhados. Desejamos um feriado abençoado, de paz e renovação para você e quem você ama. ",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "04/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Corpus-Christi-um-momento-de-f-reflex-o-e-gratid-o-Um-tempo-para-valorizar-o-que-realmente-impo-36c33d8db9d280cc95fdd036fc653264"
     },
     {
       "title": "Story/stories",
@@ -5223,7 +5197,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 5,
-    "story": 4
+    "story": 3
   },
   "ItalaP": {
     "post": 12,
@@ -5258,7 +5232,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 4,
-    "story": 6
+    "story": 5
   },
   "Daniel Maia Advocacia": {
     "post": 6,
