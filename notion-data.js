@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 08:57:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 11:46:25 **/
 
-const LAST_UPDATE = '05/06/2026, 08:57:18';
+const LAST_UPDATE = '05/06/2026, 11:46:25';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,17 +79,17 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 4,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Juntos contra o HPV": {
-    "total": 15,
+    "total": 16,
     "pronto": 5,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 4,
     "agendado_coord": 4,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Jota Diesel": {
     "total": 9,
@@ -126,10 +126,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 4,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Rede Pangeia": {
     "total": 10,
@@ -164,10 +164,10 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "ItalaP": {
-    "total": 14,
+    "total": 15,
     "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 12
   },
@@ -183,9 +183,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 4,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -196,12 +196,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 11,
+    "total": 10,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Daniel Maia Advocacia": {
     "total": 8,
@@ -303,12 +303,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Rede Pangeia": {
-    "total": 7,
+    "total": 6,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Planos Seguros": {
     "total": 4,
@@ -369,10 +369,10 @@ const VIDEO_DATA = {
   "APROSSEG": {
     "total": 4,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -818,7 +818,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Olhar apenas o saldo da conta corrente para tomar decisões é o jeito mais rápido de quebrar uma PME em 2026",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [],
@@ -875,6 +875,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "Quem ama, cuida. E algumas demonstrações de amor podem proteger uma vida inteira.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "12/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-ama-cuida-E-algumas-demonstra-es-de-amor-podem-proteger-uma-vida-inteira-37433d8db9d280b29a86ea168f5eb673"
+    },
     {
       "title": "TBT do carnaval",
       "status": "a_agendar",
@@ -968,7 +981,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se existisse uma vacina contra o câncer, você tomaria? Ela já existe.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [],
@@ -1014,9 +1027,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "No Brasil, cerca de 17 mil mulheres são diagnosticadas por ano — muitas ainda em estágios avançados",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "05/06",
+      "date": "06/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1027,7 +1040,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Muita gente não sabe, mas o SUS oferece tudo isso para prevenção e cuidado: \n💉 Vacinação 🧪 Exames preventivos🏥 Acompanhamento em saúde - Tudo de forma gratuita e acessível",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/06",
+      "date": "11/06",
       "missing": [
         "Design"
       ],
@@ -1038,9 +1051,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O rastreamento regular pode evitar o câncer do colo do útero",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "04/06",
+      "date": "05/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1672,7 +1685,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Decisões empresariais mais seguras começam com orientação jurídica adequada.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/06",
       "missing": [],
@@ -2309,6 +2322,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "CONHEÇA A SELEÇÃO ITALAP - ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "05/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/CONHE-A-A-SELE-O-ITALAP-Um-time-que-entra-em-campo-todos-os-dias-pela-sua-sa-de-37633d8db9d280be86fdceaa791965c8"
+    },
+    {
       "title": "Seu corpo anda tentando chamar sua atenção?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
@@ -2451,7 +2477,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Os primeiros dias de vida também são os mais importantes para cuidar. Dia Nacional do teste do pezinho",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/06",
       "missing": [],
@@ -2790,7 +2816,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando duas pessoas passam a dividir a vida, muita coisa muda ao mesmo tempo. Despesas, patrimônio, responsabilidades e até a forma como os imprevistos impactam a rotina.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [],
@@ -2943,19 +2969,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Partiu-interior-no-S-o-Jo-o-Entenda-como-funciona-a-assist-ncia-rodovi-ria-e-o-guincho-do-seu-segur-36c33d8db9d280a199e0f85cd29c4a0d"
     },
     {
-      "title": "Casal que divide o carro precisa incluir o parceiro como condutor adicional na apólice. Evite surpresas com a seguradora.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "10/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Casal-que-divide-o-carro-precisa-incluir-o-parceiro-como-condutor-adicional-na-ap-lice-Evite-surpre-36c33d8db9d28025bad9d606416da241"
-    },
-    {
       "title": "Quem ama, planeja junto: como o seguro de vida garante a segurança financeira de quem você mais ama.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2972,7 +2985,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nossa seleção estreia dia 13 contra o Marrocos, mas nosso suporte 24h já está escalado para te proteger!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/06",
+      "date": "10/06",
       "missing": [
         "Design"
       ],
@@ -2985,7 +2998,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Vai reunir os amigos para ver o Brasil jogar? Evite dores de cabeça com acidentes elétricos ou danos materiais com o Seguro Residencial.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "05/06",
+      "date": "08/06",
       "missing": [
         "Design"
       ],
@@ -3245,7 +3258,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-parar-de-apagar-inc-ndio-e-ter-mais-paz-de-esp-rito-para-focar-no-crescimento-da-empresa-Clica-36d33d8db9d2804d9f53dd497422818e"
@@ -3700,20 +3713,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Nunca-houve-tanto-interesse-por-impacto-E-t-o-pouca-continuidade-37233d8db9d280369ad1d39c334c7614"
     },
     {
-      "title": "O mito mais caro do terceiro setor",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "04/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-mito-mais-caro-do-terceiro-setor-37233d8db9d280a9bb3ec656e4ee4052"
-    },
-    {
       "title": "O Brasil forma líderes de causa. Mas quem está formando os gestores?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3850,7 +3849,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Video com imagens e texto",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "08/06",
+      "date": "18/06",
       "missing": [
         "Vídeo"
       ],
@@ -3863,7 +3862,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Video para copa",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "05/06",
+      "date": "08/06",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3934,14 +3933,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Reflexão",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
-      "date": "04/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "05/06",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Reflex-o-35d33d8db9d2805abd1dc961d6804a1a"
     }
@@ -4459,7 +4456,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Junho Laranja",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "10/06",
+      "date": "08/06",
       "missing": [
         "Design"
       ],
@@ -4762,6 +4759,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Conecta Assessoria": [
+    {
+      "title": "Aniversariantes",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Aniversariantes-37633d8db9d2804e831dd0a9aab06d3c",
+      "gestora": "Equipe",
+      "date": "10/06"
+    }
+  ],
   "Ortobom": [
     {
       "title": "Fazer artes em formato storys ",
@@ -4784,7 +4791,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vagas",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Vagas-37433d8db9d280c5855fd3124ae69d66",
       "gestora": "Equipe",
       "date": "05/06"
@@ -4886,7 +4893,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Tag geral da Terrartesã",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Tag-geral-da-Terrartes-37233d8db9d28075849fc11a5ac66e8d",
       "gestora": "Equipe",
       "date": "05/06"
@@ -5019,8 +5026,8 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Juntos contra o HPV": {
-    "prontas": 16,
-    "total": 19
+    "prontas": 17,
+    "total": 18
   },
   "Jota Diesel": {
     "prontas": 10,
@@ -5044,7 +5051,7 @@ const LEGENDAS_DATA = {
   },
   "Rede Pangeia": {
     "prontas": 6,
-    "total": 17
+    "total": 16
   },
   "Planos Seguros": {
     "prontas": 17,
@@ -5059,8 +5066,8 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "ItalaP": {
-    "prontas": 15,
-    "total": 16
+    "prontas": 16,
+    "total": 17
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 3,
@@ -5076,7 +5083,7 @@ const LEGENDAS_DATA = {
   },
   "APROSSEG": {
     "prontas": 11,
-    "total": 16
+    "total": 15
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
@@ -5116,7 +5123,7 @@ const FORMAT_COUNTS = {
   },
   "Juntos contra o HPV": {
     "post": 13,
-    "carrossel": 1,
+    "carrossel": 2,
     "foto": 1,
     "video": 1,
     "story": 0
@@ -5160,7 +5167,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 4,
     "foto": 0,
-    "video": 7,
+    "video": 6,
     "story": 2
   },
   "Planos Seguros": {
@@ -5186,7 +5193,7 @@ const FORMAT_COUNTS = {
   },
   "ItalaP": {
     "post": 12,
-    "carrossel": 2,
+    "carrossel": 3,
     "foto": 0,
     "video": 2,
     "story": 5
@@ -5213,7 +5220,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 9,
+    "post": 8,
     "carrossel": 2,
     "foto": 0,
     "video": 4,
