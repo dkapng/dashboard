@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 18:06:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 19:39:33 **/
 
-const LAST_UPDATE = '05/06/2026, 18:06:41';
+const LAST_UPDATE = '05/06/2026, 19:39:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -60,12 +60,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 9,
+    "total": 10,
     "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Ser Ponte": {
     "total": 1,
@@ -573,6 +573,20 @@ const STORIES_DATA = {
 
 const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
+    {
+      "title": "Veja a arte acontecer ao vivo - 12/06 de 14h às 17h - Não perca!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Veja-a-arte-acontecer-ao-vivo-12-06-de-14h-s-17h-N-o-perca-37633d8db9d280e68fc3dad1d6fb84da"
+    },
     {
       "title": "Carrossel de fotos #Tbt",
       "status": "a_agendar",
@@ -2468,7 +2482,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Imuniza-o-O-cuidado-que-acompanha-voc-em-todas-as-fases-da-vida-36d33d8db9d280b5b085f3ea881669b9"
@@ -5013,7 +5027,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
     "prontas": 2,
-    "total": 10
+    "total": 11
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -5099,7 +5113,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 6,
+    "post": 7,
     "carrossel": 2,
     "foto": 1,
     "video": 1,
