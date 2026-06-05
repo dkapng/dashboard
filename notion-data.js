@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 16:15:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 18:06:41 **/
 
-const LAST_UPDATE = '05/06/2026, 16:15:12';
+const LAST_UPDATE = '05/06/2026, 18:06:41';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -165,7 +165,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -2326,10 +2326,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "05/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/CONHE-A-A-SELE-O-ITALAP-Um-time-que-entra-em-campo-todos-os-dias-pela-sua-sa-de-37633d8db9d280be86fdceaa791965c8"
