@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 11:46:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 14:09:39 **/
 
-const LAST_UPDATE = '05/06/2026, 11:46:25';
+const LAST_UPDATE = '05/06/2026, 14:09:39';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -213,7 +213,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -555,7 +555,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2329,7 +2329,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/CONHE-A-A-SELE-O-ITALAP-Um-time-que-entra-em-campo-todos-os-dias-pela-sua-sa-de-37633d8db9d280be86fdceaa791965c8"
@@ -3229,10 +3229,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Flores-murcham-chocolate-acaba-Mas-a-paz-de-saber-que-a-sua-vida-est-protegida-com-a-pessoa-cer-36d33d8db9d280db946bc770a7cbab7d"
@@ -3242,10 +3240,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Preven-o-n-o-tem-idade-Mas-o-cuidado-certo-para-cada-fase-da-vida-sim-36d33d8db9d2806c8a26ed8c01b58d19"
@@ -3255,10 +3251,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-parar-de-apagar-inc-ndio-e-ter-mais-paz-de-esp-rito-para-focar-no-crescimento-da-empresa-Clica-36d33d8db9d2804d9f53dd497422818e"
@@ -4669,10 +4663,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/imposs-vel-render-100-no-trabalho-quando-a-mente-est-preocupada-com-imprevistos-36d33d8db9d280e788fae73e953c06a1"
@@ -4805,14 +4797,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/convite-do-arraia-37433d8db9d280f0ba81ccba97af6a97",
       "gestora": "Equipe",
       "date": "05/06"
-    },
-    {
-      "title": "Aniversariantes",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Aniversariantes-37233d8db9d28090bd4ffff94c012432",
-      "gestora": "Equipe",
-      "date": "02/06"
     }
   ],
   "Stratto": [
