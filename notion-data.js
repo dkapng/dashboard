@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 14:09:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 16:15:12 **/
 
-const LAST_UPDATE = '05/06/2026, 14:09:39';
+const LAST_UPDATE = '05/06/2026, 16:15:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4751,6 +4751,42 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ortobom": [
+    {
+      "title": "Ajuste de Logo para Evento de Corrida",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Ajuste-de-Logo-para-Evento-de-Corrida-37633d8db9d280be9a2cf642ab78cc94",
+      "gestora": "Equipe",
+      "date": "09/06"
+    },
+    {
+      "title": "Fazer artes em formato storys ",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
+      "gestora": "Equipe",
+      "date": "05/06"
+    }
+  ],
+  "Juntos contra o HPV": [
+    {
+      "title": "Materiais para ajuste",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Materiais-para-ajuste-37633d8db9d280c9a3ddcdeb6bdcaa61",
+      "gestora": "Equipe",
+      "date": "10/06"
+    },
+    {
+      "title": "Vídeo com musica para o dia da imunização",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-com-musica-para-o-dia-da-imuniza-o-37333d8db9d28093b836ee6b6b90efd6",
+      "gestora": "Equipe",
+      "date": "09/06"
+    }
+  ],
   "Conecta Assessoria": [
     {
       "title": "Aniversariantes",
@@ -4759,16 +4795,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Aniversariantes-37633d8db9d2804e831dd0a9aab06d3c",
       "gestora": "Equipe",
       "date": "10/06"
-    }
-  ],
-  "Ortobom": [
-    {
-      "title": "Fazer artes em formato storys ",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
-      "gestora": "Equipe",
-      "date": "05/06"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -4861,16 +4887,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "15/05"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Vídeo com musica para o dia da imunização",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/V-deo-com-musica-para-o-dia-da-imuniza-o-37333d8db9d28093b836ee6b6b90efd6",
-      "gestora": "Equipe",
-      "date": "09/06"
     }
   ],
   "Terrartesã": [
