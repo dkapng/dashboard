@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/06/2026, 21:00:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 01:54:32 **/
 
-const LAST_UPDATE = '04/06/2026, 21:00:52';
+const LAST_UPDATE = '05/06/2026, 01:54:32';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -77,7 +77,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
@@ -149,7 +149,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 13,
-    "pronto": 2,
+    "pronto": 4,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -173,7 +173,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 15,
-    "pronto": 2,
+    "pronto": 4,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 1,
@@ -181,7 +181,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -821,10 +821,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Olhar-apenas-o-saldo-da-conta-corrente-para-tomar-decis-es-o-jeito-mais-r-pido-de-quebrar-uma-PME--36c33d8db9d280f1b48bf85d4a68b54b"
@@ -2138,10 +2136,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-lucro-que-sua-empresa-procura-pode-estar-escondido-na-gest-o-tribut-ria-37333d8db9d280b9a7bafff66daaa3fd"
@@ -2152,10 +2149,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "05/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Reduza-riscos-fiscais-antes-que-eles-se-transformem-em-preju-zo-37333d8db9d280ecab64ec4fd6a3195b"
@@ -2632,10 +2628,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quantas-mulheres-empreendem-porque-o-sistema-n-o-abriu-portas-36b33d8db9d28051ba53d6e9d1ed487d"
@@ -2646,10 +2640,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Igualdade-salarial-ainda-precisa-ser-explicada-em-2026-36b33d8db9d2800296bbe3ed19d6ae9c"
@@ -2800,10 +2793,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-duas-pessoas-passam-a-dividir-a-vida-muita-coisa-muda-ao-mesmo-tempo-Despesas-patrim-nio--36733d8db9d28069adccfaa5526f137f"
@@ -4030,7 +4021,7 @@ const LINHA_STORIES_ITEMS = {
   "Ser Ponte": [],
   "Stratto": [
     {
-      "title": "Story/stories",
+      "title": "Nenhum time ganha focando só no ataque.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/06",
@@ -4040,7 +4031,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-36d33d8db9d28034af7ecd1e227eeaab"
+      "notionUrl": "https://app.notion.com/p/Nenhum-time-ganha-focando-s-no-ataque-36d33d8db9d28034af7ecd1e227eeaab"
     },
     {
       "title": "Sua hora como empresário vale muito mais do que passar a semana resolvendo boleto, planilha e conferência financeira.",
@@ -4259,7 +4250,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-37333d8db9d280d8b772f5a34688f6cd"
     },
     {
-      "title": "Story/stories",
+      "title": "Você acredita que o jurídico ajuda no crescimento da empresa?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "11/06",
@@ -4269,7 +4260,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-37233d8db9d28087afcfcf779ed2f977"
+      "notionUrl": "https://app.notion.com/p/Voc-acredita-que-o-jur-dico-ajuda-no-crescimento-da-empresa-37233d8db9d28087afcfcf779ed2f977"
     }
   ],
   "Rede Pangeia": [
@@ -4558,7 +4549,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-37233d8db9d280689a31d26af049caab"
     },
     {
-      "title": "vocês já conversaram sobre planejamento financeiro juntos?",
+      "title": "Vocês já conversaram sobre planejamento financeiro juntos?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/06",
@@ -4568,7 +4559,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/voc-s-j-conversaram-sobre-planejamento-financeiro-juntos-36733d8db9d28098a51df765f628e87b"
+      "notionUrl": "https://app.notion.com/p/Voc-s-j-conversaram-sobre-planejamento-financeiro-juntos-36733d8db9d28098a51df765f628e87b"
     },
     {
       "title": "Umidade, oscilação e sobrecarga vão desgastando os equipamentos aos poucos",
@@ -4677,7 +4668,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-36e33d8db9d2801ab56cff8cb52b6c5d"
     },
     {
-      "title": "Story/stories",
+      "title": "É impossível render 100% no trabalho quando a mente está preocupada com imprevistos.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/06",
@@ -4687,7 +4678,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-36d33d8db9d280e788fae73e953c06a1"
+      "notionUrl": "https://app.notion.com/p/imposs-vel-render-100-no-trabalho-quando-a-mente-est-preocupada-com-imprevistos-36d33d8db9d280e788fae73e953c06a1"
     },
     {
       "title": "Quem se planeja garante que a engrenagem continue rodando, não importa o cenário.",
