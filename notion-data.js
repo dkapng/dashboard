@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/06/2026, 19:51:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/06/2026, 21:00:52 **/
 
-const LAST_UPDATE = '04/06/2026, 19:51:54';
+const LAST_UPDATE = '04/06/2026, 21:00:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -85,7 +85,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 15,
-    "pronto": 2,
+    "pronto": 5,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 4,
@@ -973,10 +973,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-existisse-uma-vacina-contra-o-c-ncer-voc-tomaria-Ela-j-existe-35e33d8db9d280a5a25efaa64a9e1a9b"
@@ -1021,10 +1019,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/No-Brasil-cerca-de-17-mil-mulheres-s-o-diagnosticadas-por-ano-muitas-ainda-em-est-gios-avan-ados-34233d8db9d280e2b937cc926c1e139b"
@@ -1047,10 +1043,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "04/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-rastreamento-regular-pode-evitar-o-c-ncer-do-colo-do-tero-34233d8db9d2806a98f2fa880acc6eb4"
