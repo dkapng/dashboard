@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 05:39:43 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 08:57:18 **/
 
-const LAST_UPDATE = '05/06/2026, 05:39:43';
+const LAST_UPDATE = '05/06/2026, 08:57:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4784,7 +4784,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vagas",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Falta informação",
       "notionUrl": "https://app.notion.com/p/Vagas-37433d8db9d280c5855fd3124ae69d66",
       "gestora": "Equipe",
       "date": "05/06"
@@ -4858,7 +4858,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Alteração na assinatura de e-mail do David",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Falta informação",
       "notionUrl": "https://app.notion.com/p/Altera-o-na-assinatura-de-e-mail-do-David-37333d8db9d2805f9ff7c1b338587b32",
       "gestora": "Equipe",
       "date": "02/06"
