@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 21:01:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/06/2026, 01:34:07 **/
 
-const LAST_UPDATE = '05/06/2026, 21:01:25';
+const LAST_UPDATE = '06/06/2026, 01:34:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -61,7 +61,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 10,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -165,7 +165,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -515,7 +515,7 @@ const STORIES_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -579,10 +579,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Veja-a-arte-acontecer-ao-vivo-12-06-de-14h-s-17h-N-o-perca-37633d8db9d280e68fc3dad1d6fb84da"
@@ -2508,10 +2507,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-doa-o-pode-ser-o-motivo-de-algu-m-continuar-aqui-Dia-Mundial-do-Doador-de-Sangue-Junho-verme-35e33d8db9d280ca9094ff6c61c74618"
@@ -4498,10 +4495,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "04/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-mercado-ama-produtividade-Mas-ignora-quem-cuida-36b33d8db9d2804d9503c086fdd132e2"
