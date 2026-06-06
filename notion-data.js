@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 19:39:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/06/2026, 21:01:25 **/
 
-const LAST_UPDATE = '05/06/2026, 19:39:33';
+const LAST_UPDATE = '05/06/2026, 21:01:25';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -165,7 +165,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 4,
+    "pronto": 7,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -2453,23 +2453,19 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vai-torcer-pelo-Brasil-Ent-o-prepara-esse-cora-o-36d33d8db9d280eba15cddbefe6dc745"
     },
     {
-      "title": "Namore alguém que te olhe do mesmo jeito que a técnica olha para a sua veia boa ",
+      "title": "Namore alguém que te olhe do mesmo jeito que a técnica olha para a sua veia boa",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Namore-algu-m-que-te-olhe-do-mesmo-jeito-que-a-t-cnica-olha-para-a-sua-veia-boa-36d33d8db9d2800a92e9c2cef31ef65c"
@@ -2479,10 +2475,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Imuniza-o-O-cuidado-que-acompanha-voc-em-todas-as-fases-da-vida-36d33d8db9d280b5b085f3ea881669b9"
