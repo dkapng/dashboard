@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/06/2026, 18:59:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/06/2026, 20:10:00 **/
 
-const LAST_UPDATE = '07/06/2026, 18:59:32';
+const LAST_UPDATE = '07/06/2026, 20:10:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4772,10 +4772,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Materiais para ajuste",
+      "title": "Materiais sem logos de apoiadores",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Materiais-para-ajuste-37633d8db9d280c9a3ddcdeb6bdcaa61",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Materiais-sem-logos-de-apoiadores-37633d8db9d280c9a3ddcdeb6bdcaa61",
       "gestora": "Equipe",
       "date": "10/06"
     },
@@ -4810,7 +4810,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vagas",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Vagas-37433d8db9d280c5855fd3124ae69d66",
       "gestora": "Equipe",
       "date": "05/06"
@@ -4894,7 +4894,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Tag geral da Terrartesã",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Tag-geral-da-Terrartes-37233d8db9d28075849fc11a5ac66e8d",
       "gestora": "Equipe",
       "date": "05/06"
