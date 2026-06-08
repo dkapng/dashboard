@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 19:20:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 20:44:18 **/
 
-const LAST_UPDATE = '08/06/2026, 19:20:44';
+const LAST_UPDATE = '08/06/2026, 20:44:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -81,9 +81,9 @@ const FEED_DATA = {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 13,
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 10,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
@@ -445,7 +445,7 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -549,7 +549,7 @@ const STORIES_DATA = {
   },
   "Finseg Leal": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -747,14 +747,12 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "As novas estrelas da nossa cartela (um post que apresente cores e nomes das cores)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/As-novas-estrelas-da-nossa-cartela-um-post-que-apresente-cores-e-nomes-das-cores-37933d8db9d28054bad9f0f2e381e509"
     }
@@ -1860,14 +1858,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Os-jovens-querem-trabalhar-com-prop-sito-Ent-o-por-que-tantas-OSCs-perdem-talentos-37233d8db9d280beaf56c8d523723084"
     },
     {
-      "title": "A reunião mais importante da sua organização provavelmente não aparece no Instagram",
+      "title": "A reunião mais importante da sua organização provavelmente não aparece no Instagram.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "09/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-reuni-o-mais-importante-da-sua-organiza-o-provavelmente-n-o-aparece-no-Instagram-37233d8db9d280e9b2f1c9472a1af1db"
@@ -4137,10 +4133,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nenhum-time-ganha-focando-s-no-ataque-36d33d8db9d28034af7ecd1e227eeaab"
@@ -4675,10 +4669,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-s-j-conversaram-sobre-planejamento-financeiro-juntos-36733d8db9d28098a51df765f628e87b"
@@ -4920,7 +4912,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualizar catálogo com as 6 novas cores",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Atualizar-cat-logo-com-as-6-novas-cores-37933d8db9d280dba629c79c54ff825a",
       "gestora": "Equipe",
       "date": "08/06"
@@ -5170,7 +5162,7 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "Tramix": {
-    "prontas": 0,
+    "prontas": 1,
     "total": 1
   },
   "Stratto": {
