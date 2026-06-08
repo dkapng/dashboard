@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 15:21:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 17:38:12 **/
 
-const LAST_UPDATE = '08/06/2026, 15:21:07';
+const LAST_UPDATE = '08/06/2026, 17:38:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
-    "pronto": 4,
+    "pronto": 6,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 1,
@@ -2570,10 +2570,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Crian-a-n-o-m-e-37933d8db9d28071a081c8555d7e52e7"
@@ -2685,7 +2684,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-crian-a-merece-tempo-para-ser-crian-a-Dia-Mundial-de-Combate-ao-Trabalho-Infantil-36b33d8db9d280f287e2d897457cd9a3"
@@ -2696,10 +2695,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/As-mulheres-matam-mais-que-os-homens-Quando-a-viol-ncia-contra-mulheres-vira-opini-o-quem-ganha-36b33d8db9d280c4a759eeff19c16648"
@@ -3064,7 +3062,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Vai reunir os amigos para ver o Brasil jogar? Evite dores de cabeça com acidentes elétricos ou danos materiais com o Seguro Residencial.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/06",
+      "date": "11/06",
       "missing": [
         "Design"
       ],
@@ -4022,7 +4020,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Fotos na empresa",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "11/06",
+      "date": "08/06",
       "missing": [
         "Legenda"
       ],
@@ -4908,7 +4906,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualizar catálogo com as 6 novas cores",
       "priority": "pppp",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Atualizar-cat-logo-com-as-6-novas-cores-37933d8db9d280dba629c79c54ff825a",
       "gestora": "Equipe",
       "date": "08/06"
