@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 12:35:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 15:21:07 **/
 
-const LAST_UPDATE = '08/06/2026, 12:35:14';
+const LAST_UPDATE = '08/06/2026, 15:21:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -214,12 +214,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Daniel Maia Advocacia": {
-    "total": 9,
-    "pronto": 2,
+    "total": 10,
+    "pronto": 4,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -2573,7 +2573,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Crian-a-n-o-m-e-37933d8db9d28071a081c8555d7e52e7"
@@ -3098,18 +3098,30 @@ const LINHA_FEED_ITEMS = {
   ],
   "Daniel Maia Advocacia": [
     {
-      "title": "Estágio na área trabalhista",
+      "title": "Vaga de advogado trabalhista",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Est-gio-na-rea-trabalhista-37933d8db9d280b293a9d95ba48c22d4"
+      "notionUrl": "https://app.notion.com/p/Vaga-de-advogado-trabalhista-e6b33d8db9d282fb9799811631637a6a"
+    },
+    {
+      "title": "Vaga de estágio na área trabalhista",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/06",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vaga-de-est-gio-na-rea-trabalhista-37933d8db9d280b293a9d95ba48c22d4"
     },
     {
       "title": "Você quer crescer e atrair investidor. Ele vai perguntar se você tem compliance. O que você vai responder?",
@@ -4966,10 +4978,10 @@ const DEMANDAS_EXTRAS = {
       "date": "05/06"
     },
     {
-      "title": "Vagas",
+      "title": "Vagas de estágio e advogado na área trabalhista",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Vagas-37433d8db9d280c5855fd3124ae69d66",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Vagas-de-est-gio-e-advogado-na-rea-trabalhista-37433d8db9d280c5855fd3124ae69d66",
       "gestora": "Equipe",
       "date": "05/06"
     }
@@ -5131,7 +5143,7 @@ const CAPTACAO_DATA = {
   "Conecta Assessoria": "marcada",
   "Solar Coworking": "marcada",
   "Plannea": "marcada",
-  "Terrartesã": "confirmada"
+  "Terrartesã": "cancelada"
 };
 
 const APRESENTACAO_DATA = {};
@@ -5215,7 +5227,7 @@ const LEGENDAS_DATA = {
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
-    "total": 10
+    "total": 11
   },
   "Conecta Assessoria": {
     "prontas": 14,
@@ -5362,7 +5374,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Daniel Maia Advocacia": {
-    "post": 7,
+    "post": 8,
     "carrossel": 2,
     "foto": 0,
     "video": 1,
