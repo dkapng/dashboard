@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 03:36:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 08:51:16 **/
 
-const LAST_UPDATE = '08/06/2026, 03:36:55';
+const LAST_UPDATE = '08/06/2026, 08:51:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -215,9 +215,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 6,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 8
   },
   "Solar Coworking": {
     "total": 13,
@@ -3240,7 +3240,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Prevenção não tem idade. Mas o cuidado certo para cada fase da vida, sim.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [],
@@ -3251,7 +3251,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quer parar de apagar incêndio e ter mais paz de espírito para focar no crescimento da empresa? Clica no link da bio e conheça a Conecta.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [],
