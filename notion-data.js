@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 17:38:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 19:20:44 **/
 
-const LAST_UPDATE = '08/06/2026, 17:38:12';
+const LAST_UPDATE = '08/06/2026, 19:20:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -65,9 +65,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 4,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Ser Ponte": {
     "total": 1,
@@ -79,7 +79,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -94,12 +94,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Juntos contra o HPV": {
-    "total": 16,
-    "pronto": 5,
+    "total": 17,
+    "pronto": 6,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 4,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Jota Diesel": {
     "total": 9,
@@ -183,11 +183,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Finseg Leal": {
     "total": 14,
@@ -273,12 +273,12 @@ const VIDEO_DATA = {
     "a_agendar": 3
   },
   "Juntos contra o HPV": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 4,
@@ -388,9 +388,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -533,7 +533,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 5,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -601,14 +601,12 @@ const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
       "title": "Veja a arte acontecer ao vivo - 12/06 de 14h às 17h - Não perca!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "06/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "08/06",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Veja-a-arte-acontecer-ao-vivo-12-06-de-14h-s-17h-N-o-perca-37633d8db9d280e68fc3dad1d6fb84da"
     },
@@ -655,7 +653,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "05/06",
+      "date": "15/06",
       "missing": [
         "Design",
         "Legenda"
@@ -753,10 +751,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/As-novas-estrelas-da-nossa-cartela-um-post-que-apresente-cores-e-nomes-das-cores-37933d8db9d28054bad9f0f2e381e509"
@@ -926,6 +923,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "Vacinar é um ato de amor que protege por toda a vida - Dia Nacional da Imunização",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vacinar-um-ato-de-amor-que-protege-por-toda-a-vida-Dia-Nacional-da-Imuniza-o-37933d8db9d280b8a8b5f0c0e648dac8"
+    },
     {
       "title": "Quem ama, cuida. E algumas demonstrações de amor podem proteger uma vida inteira.",
       "status": "a_agendar",
@@ -2566,14 +2574,12 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Criança não é mãe!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Crian-a-n-o-m-e-37933d8db9d28071a081c8555d7e52e7"
     },
@@ -2597,10 +2603,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hoje-tem-Brasil-na-copa-e-a-pergunta-Por-que-meninas-ainda-crescem-ouvindo-que-futebol-n-o-coi-36b33d8db9d280d7a964d81aebc8786e"
@@ -2681,10 +2686,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-crian-a-merece-tempo-para-ser-crian-a-Dia-Mundial-de-Combate-ao-Trabalho-Infantil-36b33d8db9d280f287e2d897457cd9a3"
@@ -3626,6 +3630,20 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Dia Nacional da Imunização (vídeo)",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Dia-Nacional-da-Imuniza-o-v-deo-35e33d8db9d2803bb017d02212ae58af"
+    },
+    {
       "title": "Vídeo",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -4018,14 +4036,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Fotos na empresa",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "08/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Fotos-na-empresa-36b33d8db9d280a49571cbb2afc335ff"
     },
@@ -4569,11 +4585,9 @@ const LINHA_STORIES_ITEMS = {
       "title": "Junho Laranja",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "08/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "09/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Junho-Laranja-36d33d8db9d28000b0aec417f62b0dab"
@@ -4664,7 +4678,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-s-j-conversaram-sobre-planejamento-financeiro-juntos-36733d8db9d28098a51df765f628e87b"
@@ -5148,7 +5162,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 11
   },
   "Ser Ponte": {
@@ -5164,8 +5178,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 17,
-    "total": 18
+    "prontas": 18,
+    "total": 19
   },
   "Jota Diesel": {
     "prontas": 10,
@@ -5208,7 +5222,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 3,
+    "prontas": 4,
     "total": 16
   },
   "Finseg Leal": {
@@ -5220,7 +5234,7 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "APROSSEG": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 15
   },
   "Daniel Maia Advocacia": {
@@ -5267,10 +5281,10 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Juntos contra o HPV": {
-    "post": 13,
+    "post": 14,
     "carrossel": 2,
     "foto": 1,
-    "video": 1,
+    "video": 2,
     "story": 0
   },
   "Jota Diesel": {
