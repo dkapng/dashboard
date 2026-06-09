@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 10:40:21 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 13:28:06 **/
 
-const LAST_UPDATE = '09/06/2026, 10:40:21';
+const LAST_UPDATE = '09/06/2026, 13:28:06';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,12 +62,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 10,
+    "total": 15,
     "pronto": 4,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 11
   },
   "Ser Ponte": {
     "total": 1,
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
@@ -145,9 +145,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 4,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Planos Seguros": {
     "total": 13,
@@ -177,9 +177,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 8,
     "postado": 0,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
@@ -274,11 +274,12 @@ const VIDEO_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0,
+    "st-paused": null
   },
   "Jota Diesel": {
     "total": 4,
@@ -321,12 +322,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Rede Pangeia": {
-    "total": 6,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Planos Seguros": {
     "total": 4,
@@ -354,7 +355,7 @@ const VIDEO_DATA = {
   },
   "ItalaP": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -369,12 +370,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Finseg Leal": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -404,9 +405,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 0,
@@ -446,10 +447,10 @@ const STORIES_DATA = {
   "Stratto": {
     "total": 2,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -535,9 +536,9 @@ const STORIES_DATA = {
     "total": 5,
     "pronto": 3,
     "postado": 2,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 4,
@@ -550,10 +551,10 @@ const STORIES_DATA = {
   "Finseg Leal": {
     "total": 4,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -600,6 +601,76 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
+      "title": "Hoje: Mergulhe no processo criativo de Hélio Rôla e Wilson Neto. | Pintura ao vivo + roda de conversa com os artistas: 12/06 de 14h às 17h",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Hoje-Mergulhe-no-processo-criativo-de-H-lio-R-la-e-Wilson-Neto-Pintura-ao-vivo-roda-de-convers-37a33d8db9d28020aa6fc6dec1098021"
+    },
+    {
+      "title": "Amanhã: Sua única chance de presenciar o nascimento de uma nova obra de arte. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Amanh-Sua-nica-chance-de-presenciar-o-nascimento-de-uma-nova-obra-de-arte-Pintura-ao-vivo-ro-37a33d8db9d280acb842c5d2a2f8170d"
+    },
+    {
+      "title": "Conheça o melhor jeito de experimentar a arte: Estar no processo do início ao fim. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Conhe-a-o-melhor-jeito-de-experimentar-a-arte-Estar-no-processo-do-in-cio-ao-fim-Pintura-ao-vivo-37a33d8db9d28072880df4eaf29e20be"
+    },
+    {
+      "title": "Veja o rascunho virar arte final. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Veja-o-rascunho-virar-arte-final-Pintura-ao-vivo-roda-de-conversa-com-H-lio-R-la-e-Wilson-Neto--37a33d8db9d2806281b9ea8e040ebdf1"
+    },
+    {
+      "title": "Já se perguntou o que se passa na mente de um artista renomado? Não perca a chance de descobrir pessoalmente. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/J-se-perguntou-o-que-se-passa-na-mente-de-um-artista-renomado-N-o-perca-a-chance-de-descobrir-pess-37a33d8db9d280f08942c622ad330aa3"
+    },
+    {
       "title": "Veja a arte acontecer ao vivo - 12/06 de 14h às 17h - Não perca!",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -628,7 +699,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Entre na brincadeira. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/06",
+      "date": "15/06",
       "missing": [
         "Design",
         "Legenda"
@@ -653,7 +724,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/06",
+      "date": "22/06",
       "missing": [
         "Design",
         "Legenda"
@@ -667,7 +738,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Conheça Flávia Muluc: A travessia que liga a arte e você.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "12/06",
+      "date": "19/06",
       "missing": [
         "Design",
         "Legenda"
@@ -681,7 +752,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Grande formato, grande imersão. As pinturas do Travessias Híbridas transmitem a grandeza da criatividade de Hélio Rôla e Wilson Neto também no tamanho. Explore cada detalhe no Centro Cultural Banco do Nordeste, de 16 de maio a 18 de julho.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "10/06",
+      "date": "17/06",
       "missing": [
         "Design",
         "Legenda"
@@ -695,7 +766,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A cultura também está nos pequenos detalhes: Explore os personagens imersos no interior de cada pintura da Travessias Híbridas.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "09/06",
+      "date": "16/06",
       "missing": [
         "Design",
         "Legenda"
@@ -763,10 +834,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "10/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nenhum-time-ganha-a-Copa-s-com-o-ataque-Por-que-voc-acha-que-sua-empresa-vai-crescer-focando-apen-36c33d8db9d280eb9895f5ed45b8092c"
@@ -1859,7 +1928,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A reunião mais importante da sua organização provavelmente não aparece no Instagram.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "09/06",
       "missing": [],
@@ -2389,9 +2458,9 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "CONHEÇA A SELEÇÃO ITALAP - ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "08/06",
+      "date": "09/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3192,7 +3261,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Propriedade-intelectual-n-o-s-para-empresas-grandes-para-quem-criou-algo-que-vale-36c33d8db9d28026a6f4da18372a2ade"
@@ -3627,13 +3696,10 @@ const LINHA_VIDEO_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Dia Nacional da Imunização (vídeo)",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🎥 Vídeo vertical",
       "date": "09/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -3825,20 +3891,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Depois-de-anos-acompanhando-OSCs-percebi-um-padr-o-37233d8db9d280ef88d4c5720bfd3d8d"
     },
     {
-      "title": "Nunca houve tanto interesse por impacto. E tão pouca continuidade.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "08/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Nunca-houve-tanto-interesse-por-impacto-E-t-o-pouca-continuidade-37233d8db9d280369ad1d39c334c7614"
-    },
-    {
       "title": "O Brasil forma líderes de causa. Mas quem está formando os gestores?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3975,33 +4027,15 @@ const LINHA_VIDEO_ITEMS = {
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "10/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Video-para-copa-36d33d8db9d2808eb7fcddca203a48f9"
     }
   ],
   "Grupo Mulheres do Brasil": [],
-  "Finseg Leal": [
-    {
-      "title": "Quando a vida muda, a proteção também precisa mudar.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "10/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Quando-a-vida-muda-a-prote-o-tamb-m-precisa-mudar-36733d8db9d280d1a83dd66c000a1cfa"
-    }
-  ],
+  "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
@@ -4097,14 +4131,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Qual o melhor plano",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "11/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Qual-o-melhor-plano-36c33d8db9d280b0bc73dee7a4dbdd96"
     },
@@ -4130,7 +4162,7 @@ const LINHA_STORIES_ITEMS = {
   "Stratto": [
     {
       "title": "Nenhum time ganha focando só no ataque.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "09/06",
       "missing": [],
@@ -4577,7 +4609,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Junho Laranja",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "09/06",
       "missing": [],
@@ -4666,7 +4698,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Vocês já conversaram sobre planejamento financeiro juntos?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "09/06",
       "missing": [],
@@ -4924,6 +4956,16 @@ const DEMANDAS_EXTRAS = {
       "date": "03/03"
     }
   ],
+  "Juntos contra o HPV": [
+    {
+      "title": "Brindes",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Brindes-37933d8db9d280ee96efcc8bec1b15b4",
+      "gestora": "Equipe",
+      "date": "22/06"
+    }
+  ],
   "Stratto": [
     {
       "title": "tbt ",
@@ -4978,24 +5020,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Configura-o-de-email-37433d8db9d28061a78ac150792943e1",
       "gestora": "Equipe",
       "date": "05/06"
-    },
-    {
-      "title": "Vagas de estágio e advogado na área trabalhista",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Vagas-de-est-gio-e-advogado-na-rea-trabalhista-37433d8db9d280c5855fd3124ae69d66",
-      "gestora": "Equipe",
-      "date": "05/06"
-    }
-  ],
-  "APROSSEG": [
-    {
-      "title": "convite do arraia",
-      "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/convite-do-arraia-37433d8db9d280f0ba81ccba97af6a97",
-      "gestora": "Equipe",
-      "date": "05/06"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -5022,34 +5046,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Comprova-es-no-portf-lio-cultural-36b33d8db9d280c883d9df32d5cb3a19",
       "gestora": "Equipe",
       "date": "25/05"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Alteração na assinatura de e-mail do David",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Altera-o-na-assinatura-de-e-mail-do-David-37333d8db9d2805f9ff7c1b338587b32",
-      "gestora": "Equipe",
-      "date": "02/06"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Vídeo com musica para o dia da imunização",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/V-deo-com-musica-para-o-dia-da-imuniza-o-37333d8db9d28093b836ee6b6b90efd6",
-      "gestora": "Equipe",
-      "date": "09/06"
     }
   ],
   "Terrartesã": [
@@ -5096,6 +5092,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Pacote-de-demandas-de-identidade-visual-01-27033d8db9d2808993bbc4483bbb3a31",
       "gestora": "Equipe",
       "date": "28/02"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
     }
   ],
   "Planos Seguros": [
@@ -5153,7 +5159,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
     "prontas": 5,
-    "total": 11
+    "total": 16
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -5168,7 +5174,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 19
   },
   "Jota Diesel": {
@@ -5193,7 +5199,7 @@ const LEGENDAS_DATA = {
   },
   "Rede Pangeia": {
     "prontas": 6,
-    "total": 16
+    "total": 15
   },
   "Planos Seguros": {
     "prontas": 17,
@@ -5208,7 +5214,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "ItalaP": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
@@ -5217,7 +5223,7 @@ const LEGENDAS_DATA = {
   },
   "Finseg Leal": {
     "prontas": 14,
-    "total": 15
+    "total": 14
   },
   "Di Gregório Buffet": {
     "prontas": 1,
@@ -5232,7 +5238,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Conecta Assessoria": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 17
   },
   "Solar Coworking": {
@@ -5243,7 +5249,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 7,
+    "post": 12,
     "carrossel": 2,
     "foto": 1,
     "video": 1,
@@ -5316,7 +5322,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 4,
     "foto": 0,
-    "video": 6,
+    "video": 5,
     "story": 2
   },
   "Planos Seguros": {
@@ -5358,7 +5364,7 @@ const FORMAT_COUNTS = {
     "post": 13,
     "carrossel": 1,
     "foto": 0,
-    "video": 1,
+    "video": 0,
     "story": 4
   },
   "Di Gregório Buffet": {
@@ -5420,7 +5426,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Juntos contra o HPV": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
