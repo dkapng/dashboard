@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 19:08:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 20:49:32 **/
 
-const LAST_UPDATE = '09/06/2026, 19:08:01';
+const LAST_UPDATE = '09/06/2026, 20:49:32';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -127,12 +127,12 @@ const FEED_DATA = {
     "a_agendar": 13
   },
   "Terrartesã": {
-    "total": 13,
+    "total": 12,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "RR Advocacia": {
     "total": 13,
@@ -152,11 +152,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 13,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Plannea": {
     "total": 13,
@@ -231,10 +231,10 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Solar Coworking": {
-    "total": 14,
-    "pronto": 2,
+    "total": 15,
+    "pronto": 3,
     "postado": 2,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 12
   }
@@ -478,20 +478,20 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Univendas": {
-    "total": 5,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 5
-  },
-  "Terrartesã": {
     "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 3
+    "agendado_coord": 0,
+    "a_agendar": 4
+  },
+  "Terrartesã": {
+    "total": 2,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 2
   },
   "RR Advocacia": {
     "total": 3,
@@ -1679,20 +1679,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-fazer-artesanal-transforma-o-cotidiano-em-caminho-prop-sito-e-perman-ncia-37333d8db9d28098b245f9ea12bfb715"
     },
     {
-      "title": "Artesanato com propósito não é só um produto é uma história sendo escrita com as mãos",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Artesanato-com-prop-sito-n-o-s-um-produto-uma-hist-ria-sendo-escrita-com-as-m-os-37333d8db9d280a3bdc7d4c6fd176422"
-    },
-    {
       "title": "Cada peça criada é também um passo em uma nova história.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2142,17 +2128,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/71-dos-brasileiros-afirmam-viver-estresse-no-ambiente-de-trabalho-36733d8db9d28013b783e77a416de84a"
     },
     {
-      "title": "Tem empresa tão ocupada resolvendo o agora que já não consegue revisar a própria estrutura.",
-      "status": "a_agendar",
+      "title": "Tem empresário tão ocupada resolvendo o agora que já não consegue revisar a própria estrutura.",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "08/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "09/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Tem-empresa-t-o-ocupada-resolvendo-o-agora-que-j-n-o-consegue-revisar-a-pr-pria-estrutura-36733d8db9d280b1b648ecee678324ad"
+      "notionUrl": "https://app.notion.com/p/Tem-empres-rio-t-o-ocupada-resolvendo-o-agora-que-j-n-o-consegue-revisar-a-pr-pria-estrutura-36733d8db9d280b1b648ecee678324ad"
     },
     {
       "title": "Empresas emocionalmente sobrecarregadas começam a tomar decisões no automático",
@@ -3515,6 +3499,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "Selo sebrae",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "09/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Selo-sebrae-37a33d8db9d280da9b8dcd9fd3e2463e"
+    },
+    {
       "title": "Aniversario Sr Paulo ",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -3633,7 +3628,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Grandes conexões também nascem do ambiente certo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/06",
+      "date": "10/06",
       "missing": [
         "Design"
       ],
@@ -4349,19 +4344,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-35733d8db9d2809196c3f77cbdeba28c"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "09/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-35733d8db9d2806182c1f2e28053b7e0"
     }
   ],
   "Terrartesã": [
@@ -4390,32 +4372,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-37333d8db9d28047819af51810db835d"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "09/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-37333d8db9d280219b45cc4671ad04e1"
-    },
-    {
-      "title": "Story/stories",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "09/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-34533d8db9d280d6abb8c07ec0c2e064"
     }
   ],
   "RR Advocacia": [
@@ -5227,7 +5183,7 @@ const LEGENDAS_DATA = {
   },
   "Terrartesã": {
     "prontas": 4,
-    "total": 13
+    "total": 12
   },
   "RR Advocacia": {
     "prontas": 13,
@@ -5278,8 +5234,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 15,
+    "total": 15
   }
 };
 
@@ -5338,14 +5294,14 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 0,
-    "story": 5
+    "story": 4
   },
   "Terrartesã": {
-    "post": 13,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 4
+    "story": 2
   },
   "RR Advocacia": {
     "post": 13,
@@ -5432,7 +5388,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Solar Coworking": {
-    "post": 14,
+    "post": 15,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
