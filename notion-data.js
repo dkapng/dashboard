@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 15:30:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 17:29:50 **/
 
-const LAST_UPDATE = '09/06/2026, 15:30:18';
+const LAST_UPDATE = '09/06/2026, 17:29:50';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -65,9 +65,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 6,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 10,
+    "a_agendar": 9,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -79,12 +79,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Tramix": {
-    "total": 1,
+    "total": 6,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 13,
@@ -656,14 +656,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Já se perguntou o que se passa na mente de um artista renomado? Não perca a chance de descobrir pessoalmente. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/J-se-perguntou-o-que-se-passa-na-mente-de-um-artista-renomado-N-o-perca-a-chance-de-descobrir-pess-37a33d8db9d280f08942c622ad330aa3"
     },
@@ -813,6 +811,76 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Tramix": [
+    {
+      "title": "Tem Tramix no zíper? Pode confiar! ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-Tramix-no-z-per-Pode-confiar-37a33d8db9d28006bdb2dd5b9b8e8596"
+    },
+    {
+      "title": "Como saber se sua linha é de qualidade?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-saber-se-sua-linha-de-qualidade-37a33d8db9d2802aa8f3c28c014cac73"
+    },
+    {
+      "title": "Zíperes para diferentes aplicações, estique suas possibilidades com a Tramix",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Z-peres-para-diferentes-aplica-es-estique-suas-possibilidades-com-a-Tramix-37a33d8db9d280e09be5ce1374dfb6ef"
+    },
+    {
+      "title": "66 cores porque inspiração também precisa de variedade.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/66-cores-porque-inspira-o-tamb-m-precisa-de-variedade-37a33d8db9d28077969dda717c9de310"
+    },
+    {
+      "title": "Qualidade Tramix: Quem costura sabe.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Qualidade-Tramix-Quem-costura-sabe-37a33d8db9d280a5b154e71637596361"
+    },
     {
       "title": "As novas estrelas da nossa cartela (um post que apresente cores e nomes das cores)",
       "status": "agendado",
@@ -5126,7 +5194,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 16
   },
   "Ser Ponte": {
@@ -5135,7 +5203,7 @@ const LEGENDAS_DATA = {
   },
   "Tramix": {
     "prontas": 1,
-    "total": 1
+    "total": 6
   },
   "Stratto": {
     "prontas": 15,
@@ -5231,7 +5299,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Tramix": {
-    "post": 1,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
