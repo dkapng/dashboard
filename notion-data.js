@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 13:28:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 15:30:18 **/
 
-const LAST_UPDATE = '09/06/2026, 13:28:06';
+const LAST_UPDATE = '09/06/2026, 15:30:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,11 +63,12 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 15,
-    "pronto": 4,
+    "pronto": 6,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10,
+    "st-paused": null
   },
   "Ser Ponte": {
     "total": 1,
@@ -89,9 +90,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 5,
     "postado": 2,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Juntos contra o HPV": {
     "total": 17,
@@ -215,7 +216,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 10,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -231,11 +232,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 14,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   }
 };
 
@@ -266,11 +267,11 @@ const VIDEO_DATA = {
   },
   "Stratto": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
     "total": 2,
@@ -322,12 +323,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Rede Pangeia": {
-    "total": 5,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Planos Seguros": {
     "total": 4,
@@ -357,9 +358,9 @@ const VIDEO_DATA = {
     "total": 2,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -604,7 +605,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Hoje: Mergulhe no processo criativo de Hélio Rôla e Wilson Neto. | Pintura ao vivo + roda de conversa com os artistas: 12/06 de 14h às 17h",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/06",
+      "date": "12/06",
       "missing": [
         "Design",
         "Legenda"
@@ -618,7 +619,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Amanhã: Sua única chance de presenciar o nascimento de uma nova obra de arte. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/06",
+      "date": "11/06",
       "missing": [
         "Design",
         "Legenda"
@@ -630,13 +631,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Conheça o melhor jeito de experimentar a arte: Estar no processo do início ao fim. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "11/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -662,10 +660,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/J-se-perguntou-o-que-se-passa-na-mente-de-um-artista-renomado-N-o-perca-a-chance-de-descobrir-pess-37a33d8db9d280f08942c622ad330aa3"
@@ -831,7 +828,7 @@ const LINHA_FEED_ITEMS = {
   "Stratto": [
     {
       "title": "Nenhum time ganha a Copa só com o ataque. Por que você acha que sua empresa vai crescer focando apenas em vendas?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "10/06",
       "missing": [],
@@ -3258,10 +3255,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Propriedade-intelectual-n-o-s-para-empresas-grandes-para-quem-criou-algo-que-vale-36c33d8db9d28026a6f4da18372a2ade"
@@ -3453,12 +3448,10 @@ const LINHA_FEED_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Aniversario Sr Paulo ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "08/06",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3653,16 +3646,13 @@ const LINHA_VIDEO_ITEMS = {
   "Stratto": [
     {
       "title": "Video com imagens Tbt",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "11/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 2. A editar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Video-com-imagens-Tbt-37933d8db9d28044aa5bf6b3335cd073"
     },
     {
@@ -3889,20 +3879,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Depois-de-anos-acompanhando-OSCs-percebi-um-padr-o-37233d8db9d280ef88d4c5720bfd3d8d"
-    },
-    {
-      "title": "O Brasil forma líderes de causa. Mas quem está formando os gestores?",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-Brasil-forma-l-deres-de-causa-Mas-quem-est-formando-os-gestores-37233d8db9d2804ba4f9cf5e9bd7f733"
     }
   ],
   "Planos Seguros": [
@@ -4024,7 +4000,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Video para copa",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "10/06",
       "missing": [],
@@ -4960,28 +4936,10 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Brindes",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Brindes-37933d8db9d280ee96efcc8bec1b15b4",
       "gestora": "Equipe",
       "date": "22/06"
-    }
-  ],
-  "Stratto": [
-    {
-      "title": "tbt ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/tbt-37933d8db9d280f6913ccf5b70c24747",
-      "gestora": "Equipe",
-      "date": "10/06"
-    },
-    {
-      "title": "Video com imagens",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Video-com-imagens-37433d8db9d2807e81d6f3bf8f91640e",
-      "gestora": "Equipe",
-      "date": "15/06"
     }
   ],
   "Ortobom": [
@@ -5022,11 +4980,21 @@ const DEMANDAS_EXTRAS = {
       "date": "05/06"
     }
   ],
+  "Stratto": [
+    {
+      "title": "Video com imagens",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Video-com-imagens-37433d8db9d2807e81d6f3bf8f91640e",
+      "gestora": "Equipe",
+      "date": "15/06"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Summit Mulheres nas Profissões | Lenço",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Len-o-37433d8db9d2808583a7de81f961c5e8",
       "gestora": "Equipe",
       "date": "09T11:00:00.000/06"
@@ -5034,7 +5002,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
       "gestora": "Equipe",
       "date": "09T11:00:00.000/06"
@@ -5158,7 +5126,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 5,
+    "prontas": 6,
     "total": 16
   },
   "Ser Ponte": {
@@ -5170,7 +5138,7 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "Stratto": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 16
   },
   "Juntos contra o HPV": {
@@ -5199,7 +5167,7 @@ const LEGENDAS_DATA = {
   },
   "Rede Pangeia": {
     "prontas": 6,
-    "total": 15
+    "total": 14
   },
   "Planos Seguros": {
     "prontas": 17,
@@ -5322,7 +5290,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 4,
     "foto": 0,
-    "video": 5,
+    "video": 4,
     "story": 2
   },
   "Planos Seguros": {
