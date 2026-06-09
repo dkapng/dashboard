@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 07:30:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 10:40:21 **/
 
-const LAST_UPDATE = '09/06/2026, 07:30:52';
+const LAST_UPDATE = '09/06/2026, 10:40:21';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -96,10 +96,10 @@ const FEED_DATA = {
   "Juntos contra o HPV": {
     "total": 17,
     "pronto": 6,
-    "postado": 1,
+    "postado": 2,
     "agendado": 4,
     "agendado_coord": 4,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Jota Diesel": {
     "total": 9,
@@ -565,11 +565,11 @@ const STORIES_DATA = {
   },
   "APROSSEG": {
     "total": 5,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -582,10 +582,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 5,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 4,
@@ -923,7 +923,7 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Vacinar é um ato de amor que protege por toda a vida - Dia Nacional da Imunização",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/06",
       "missing": [],
@@ -3099,7 +3099,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Vaga de advogado trabalhista",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/06",
+      "date": "09/06",
       "missing": [
         "Legenda"
       ],
@@ -3112,7 +3112,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Vaga de estágio na área trabalhista",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/06",
+      "date": "09/06",
       "missing": [
         "Legenda"
       ],
@@ -4717,12 +4717,10 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "09/06",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. Finalizado",
@@ -4783,7 +4781,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "É impossível render 100% no trabalho quando a mente está preocupada com imprevistos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "09/06",
       "missing": [],
@@ -4984,7 +4982,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vagas de estágio e advogado na área trabalhista",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Vagas-de-est-gio-e-advogado-na-rea-trabalhista-37433d8db9d280c5855fd3124ae69d66",
       "gestora": "Equipe",
       "date": "05/06"
@@ -4994,7 +4992,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "convite do arraia",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/convite-do-arraia-37433d8db9d280f0ba81ccba97af6a97",
       "gestora": "Equipe",
       "date": "05/06"
