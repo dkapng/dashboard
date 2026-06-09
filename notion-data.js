@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 20:44:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/06/2026, 23:30:52 **/
 
-const LAST_UPDATE = '08/06/2026, 20:44:18';
+const LAST_UPDATE = '08/06/2026, 23:30:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4910,10 +4910,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Tramix": [
     {
-      "title": "Atualizar catálogo com as 6 novas cores",
+      "title": "Adição de 6 cores novas no catálogo",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Atualizar-cat-logo-com-as-6-novas-cores-37933d8db9d280dba629c79c54ff825a",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Adi-o-de-6-cores-novas-no-cat-logo-37933d8db9d280dba629c79c54ff825a",
       "gestora": "Equipe",
       "date": "08/06"
     },
