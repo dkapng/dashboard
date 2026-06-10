@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/06/2026, 23:44:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 04:03:15 **/
 
-const LAST_UPDATE = '09/06/2026, 23:44:11';
+const LAST_UPDATE = '10/06/2026, 04:03:15';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -193,7 +193,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 5,
+    "pronto": 7,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -2904,10 +2904,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Construir-uma-vida-juntos-tamb-m-pensar-no-que-protege-ela-36733d8db9d280868109e53c1771004c"
@@ -2954,10 +2952,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Proteger-uma-vida-nem-sempre-exige-muito-s-vezes-exige-apenas-uma-doa-o-Dia-Mundial-do-Doador--35e33d8db9d280238cd0d359a6e84214"
@@ -4725,6 +4721,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ser Ponte": [
+    {
+      "title": "Apresentação para pith",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pith-37b33d8db9d280bfa8e4e09aa817e168",
+      "gestora": "Equipe",
+      "date": "12T12:00:00.000/06"
+    },
+    {
+      "title": "Chamada pública - Voluntariado",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Chamada-p-blica-Voluntariado-36033d8db9d280b3b615d6b7c63e1b82",
+      "gestora": "Equipe",
+      "date": "14T15:00:00.000/05"
+    },
+    {
+      "title": "Apresentação do pitch",
+      "priority": "ppp",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
+      "gestora": "Equipe",
+      "date": "22/05"
+    }
+  ],
   "Univendas": [
     {
       "title": "Convite confra junina ",
@@ -4757,24 +4779,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Card-Prefeitura-de-Maracana-36b33d8db9d2801fac77ee1caafa8ead",
       "gestora": "Equipe",
       "date": "25/05"
-    }
-  ],
-  "Tramix": [
-    {
-      "title": "Adição de 6 cores novas no catálogo",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Adi-o-de-6-cores-novas-no-cat-logo-37933d8db9d280dba629c79c54ff825a",
-      "gestora": "Equipe",
-      "date": "08/06"
-    },
-    {
-      "title": "Cartões de visita",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Cart-es-de-visita-31833d8db9d2808e9178c85183031e68",
-      "gestora": "Equipe",
-      "date": "03/03"
     }
   ],
   "Juntos contra o HPV": [
@@ -4871,24 +4875,6 @@ const DEMANDAS_EXTRAS = {
       "date": "05/06"
     }
   ],
-  "Ser Ponte": [
-    {
-      "title": "Chamada pública - Voluntariado",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Chamada-p-blica-Voluntariado-36033d8db9d280b3b615d6b7c63e1b82",
-      "gestora": "Equipe",
-      "date": "14T15:00:00.000/05"
-    },
-    {
-      "title": "Apresentação do pitch",
-      "priority": "ppp",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
-      "gestora": "Equipe",
-      "date": "22/05"
-    }
-  ],
   "Ventana": [
     {
       "title": "Melhorias no Notion (2025-04)",
@@ -4905,6 +4891,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Pacote-de-demandas-de-identidade-visual-01-27033d8db9d2808993bbc4483bbb3a31",
       "gestora": "Equipe",
       "date": "28/02"
+    }
+  ],
+  "Tramix": [
+    {
+      "title": "Cartões de visita",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Cart-es-de-visita-31833d8db9d2808e9178c85183031e68",
+      "gestora": "Equipe",
+      "date": "03/03"
     }
   ],
   "Finseg Leal": [
