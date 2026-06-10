@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 19:24:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 20:54:31 **/
 
-const LAST_UPDATE = '10/06/2026, 19:24:59';
+const LAST_UPDATE = '10/06/2026, 20:54:31';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4379,7 +4379,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-36f33d8db9d280499456d474b749d9c3"
     },
@@ -4777,11 +4777,11 @@ const DEMANDAS_EXTRAS = {
     },
     {
       "title": "Card Prefeitura de Fortaleza ",
-      "priority": "pp",
+      "priority": "pppp",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Card-Prefeitura-de-Fortaleza-36c33d8db9d280068f9cdbee0a541fff",
       "gestora": "Equipe",
-      "date": "29/05"
+      "date": "12/06"
     },
     {
       "title": "Card Prefeitura de Cascavel ",
