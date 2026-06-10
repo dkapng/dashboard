@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 14:53:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 17:18:25 **/
 
-const LAST_UPDATE = '10/06/2026, 14:53:36';
+const LAST_UPDATE = '10/06/2026, 17:18:25';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -650,7 +650,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Veja-o-rascunho-virar-arte-final-Pintura-ao-vivo-roda-de-conversa-com-H-lio-R-la-e-Wilson-Neto--37a33d8db9d2806281b9ea8e040ebdf1"
@@ -4717,6 +4717,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "Video para edital",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Video-para-edital-37b33d8db9d280108508c134a33dae34",
+      "gestora": "Equipe",
+      "date": "20/06"
+    },
+    {
+      "title": "Brindes",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Brindes-37933d8db9d280ee96efcc8bec1b15b4",
+      "gestora": "Equipe",
+      "date": "22/06"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Apresentação para pitch",
@@ -4769,34 +4787,6 @@ const DEMANDAS_EXTRAS = {
       "date": "25/05"
     }
   ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Brindes",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Brindes-37933d8db9d280ee96efcc8bec1b15b4",
-      "gestora": "Equipe",
-      "date": "22/06"
-    }
-  ],
-  "Ortobom": [
-    {
-      "title": "Ajuste de Logo para Evento de Corrida",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Ajuste-de-Logo-para-Evento-de-Corrida-37633d8db9d280be9a2cf642ab78cc94",
-      "gestora": "Equipe",
-      "date": "09/06"
-    },
-    {
-      "title": "Fazer artes em formato storys ",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
-      "gestora": "Equipe",
-      "date": "05/06"
-    }
-  ],
   "Conecta Assessoria": [
     {
       "title": "Aniversariantes",
@@ -4805,6 +4795,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Aniversariantes-37633d8db9d2804e831dd0a9aab06d3c",
       "gestora": "Equipe",
       "date": "10/06"
+    }
+  ],
+  "Ortobom": [
+    {
+      "title": "Fazer artes em formato storys ",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
+      "gestora": "Equipe",
+      "date": "05/06"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -5225,7 +5225,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Juntos contra o HPV": {
-    "reuniao": 1,
+    "reuniao": 3,
     "producao": 0,
     "evento": 0
   },
