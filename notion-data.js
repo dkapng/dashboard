@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 17:18:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 19:24:59 **/
 
-const LAST_UPDATE = '10/06/2026, 17:18:25';
+const LAST_UPDATE = '10/06/2026, 19:24:59';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,11 +63,11 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 15,
-    "pronto": 6,
+    "pronto": 9,
     "postado": 0,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 9,
+    "a_agendar": 8,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -209,7 +209,7 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 10,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
@@ -332,10 +332,10 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Planos Seguros": {
-    "total": 4,
-    "pronto": 0,
+    "total": 5,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 4
   },
@@ -519,12 +519,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Plannea": {
-    "total": 3,
-    "pronto": 2,
-    "postado": 0,
+    "total": 4,
+    "pronto": 4,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 3,
@@ -545,10 +545,10 @@ const STORIES_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 4,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Finseg Leal": {
     "total": 4,
@@ -608,10 +608,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hoje-Mergulhe-no-processo-criativo-de-H-lio-R-la-e-Wilson-Neto-Pintura-ao-vivo-roda-de-convers-37a33d8db9d28020aa6fc6dec1098021"
@@ -622,10 +621,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Amanh-Sua-nica-chance-de-presenciar-o-nascimento-de-uma-nova-obra-de-arte-Pintura-ao-vivo-ro-37a33d8db9d280acb842c5d2a2f8170d"
@@ -643,15 +641,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Veja o rascunho virar arte final. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Veja-o-rascunho-virar-arte-final-Pintura-ao-vivo-roda-de-conversa-com-H-lio-R-la-e-Wilson-Neto--37a33d8db9d2806281b9ea8e040ebdf1"
     },
@@ -3056,10 +3051,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nossa-sele-o-estreia-dia-13-contra-o-Marrocos-mas-nosso-suporte-24h-j-est-escalado-para-te-prote-36c33d8db9d280bcb24ecc533e1220d6"
@@ -3813,6 +3806,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "Vídeo Viagem",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-Viagem-37b33d8db9d2808394a3c011b12684a4"
+    },
+    {
       "title": "Viajar tranquilo não depende só do destino",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -4322,12 +4326,21 @@ const LINHA_STORIES_ITEMS = {
   "Plannea": [
     {
       "title": "Agendar stories de vagas",
-      "status": "a_agendar",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "12/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Agendar-stories-de-vagas-c2c33d8db9d282ef9db501bc6ce2ae24"
+    },
+    {
+      "title": "Agendar stories de vagas",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "10/06",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
@@ -4487,7 +4500,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "O mercado ama produtividade. Mas ignora quem cuida",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "10/06",
       "missing": [],
@@ -4941,7 +4954,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Finseg Leal": "marcada",
-  "Ortobom": "marcada",
+  "Ortobom": "confirmada",
   "Di Gregório Buffet": "marcada",
   "Tramix": "marcada",
   "APROSSEG": "marcada",
@@ -4957,7 +4970,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 16
   },
   "Ser Ponte": {
@@ -5001,8 +5014,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Planos Seguros": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 17,
+    "total": 17
   },
   "Plannea": {
     "prontas": 4,
@@ -5128,7 +5141,7 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 1,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 2
   },
   "Plannea": {
@@ -5136,7 +5149,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 4
   },
   "Ortobom": {
     "post": 8,
