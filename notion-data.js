@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 08:07:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 11:33:52 **/
 
-const LAST_UPDATE = '10/06/2026, 08:07:28';
+const LAST_UPDATE = '10/06/2026, 11:33:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -218,10 +218,10 @@ const FEED_DATA = {
   "Daniel Maia Advocacia": {
     "total": 10,
     "pronto": 6,
-    "postado": 0,
+    "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 6
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -3103,27 +3103,23 @@ const LINHA_FEED_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Vaga de advogado trabalhista",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vaga-de-advogado-trabalhista-e6b33d8db9d282fb9799811631637a6a"
     },
     {
       "title": "Vaga de estágio na área trabalhista",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vaga-de-est-gio-na-rea-trabalhista-37933d8db9d280b293a9d95ba48c22d4"
     },
@@ -4723,10 +4719,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Ser Ponte": [
     {
-      "title": "Apresentação para pith",
+      "title": "Apresentação para pitch",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pith-37b33d8db9d280bfa8e4e09aa817e168",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
     },
@@ -4737,14 +4733,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Chamada-p-blica-Voluntariado-36033d8db9d280b3b615d6b7c63e1b82",
       "gestora": "Equipe",
       "date": "14T15:00:00.000/05"
-    },
-    {
-      "title": "Apresentação do pitch",
-      "priority": "ppp",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-do-pitch-34a33d8db9d280c5b2d9cafce8e0e6fb",
-      "gestora": "Equipe",
-      "date": "22/05"
     }
   ],
   "Univendas": [
@@ -4795,7 +4783,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Ajuste de Logo para Evento de Corrida",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Ajuste-de-Logo-para-Evento-de-Corrida-37633d8db9d280be9a2cf642ab78cc94",
       "gestora": "Equipe",
       "date": "09/06"
@@ -4952,6 +4940,8 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Finseg Leal": "marcada",
+  "Ortobom": "marcada",
   "Di Gregório Buffet": "marcada",
   "Tramix": "marcada",
   "APROSSEG": "marcada",
@@ -5043,7 +5033,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Daniel Maia Advocacia": {
-    "prontas": 9,
+    "prontas": 11,
     "total": 11
   },
   "Conecta Assessoria": {
@@ -5281,7 +5271,7 @@ const AGENDA_COUNTS = {
   },
   "Ortobom": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "ItalaP": {
@@ -5296,7 +5286,7 @@ const AGENDA_COUNTS = {
   },
   "Finseg Leal": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Di Gregório Buffet": {
