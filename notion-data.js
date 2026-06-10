@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 11:33:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 14:53:36 **/
 
-const LAST_UPDATE = '10/06/2026, 11:33:52';
+const LAST_UPDATE = '10/06/2026, 14:53:36';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -195,9 +195,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 7,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 8
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -219,9 +219,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 6,
     "postado": 2,
-    "agendado": 2,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -840,7 +840,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Z-peres-para-diferentes-aplica-es-estique-suas-possibilidades-com-a-Tramix-37a33d8db9d280e09be5ce1374dfb6ef"
     },
     {
-      "title": "66 cores porque inspiração também precisa de variedade.",
+      "title": "70 cores porque inspiração também precisa de variedade.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/06",
@@ -851,7 +851,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/66-cores-porque-inspira-o-tamb-m-precisa-de-variedade-37a33d8db9d28077969dda717c9de310"
+      "notionUrl": "https://app.notion.com/p/70-cores-porque-inspira-o-tamb-m-precisa-de-variedade-37a33d8db9d28077969dda717c9de310"
     },
     {
       "title": "Qualidade Tramix: Quem costura sabe.",
@@ -2857,7 +2857,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O casal planeja a viagem, os móveis e o apartamento. Mas quase ninguém planeja os imprevistos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "11/06",
       "missing": [],
@@ -2901,7 +2901,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Construir uma vida juntos também é pensar no que protege ela.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [],
@@ -3175,7 +3175,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu contrato de fornecimento ainda é de 2015. Isso pode estar te custando caro.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [],
@@ -3186,7 +3186,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Propriedade intelectual não é só para empresas grandes. É para quem criou algo que vale.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [],
@@ -5242,7 +5242,7 @@ const AGENDA_COUNTS = {
   "Univendas": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
+    "evento": 1
   },
   "Terrartesã": {
     "reuniao": 0,
