@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 08:54:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 12:41:17 **/
 
-const LAST_UPDATE = '11/06/2026, 08:54:11';
+const LAST_UPDATE = '11/06/2026, 12:41:17';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,12 +62,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 15,
+    "total": 16,
     "pronto": 9,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 8,
+    "a_agendar": 9,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -184,12 +184,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Grupo Mulheres do Brasil": {
-    "total": 16,
+    "total": 17,
     "pronto": 8,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 1,
-    "a_agendar": 11
+    "a_agendar": 12
   },
   "Finseg Leal": {
     "total": 14,
@@ -210,10 +210,10 @@ const FEED_DATA = {
   "APROSSEG": {
     "total": 10,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Daniel Maia Advocacia": {
     "total": 10,
@@ -350,10 +350,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 4,
     "pronto": 4,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 2,
@@ -497,10 +497,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 3,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 2,
@@ -602,6 +602,20 @@ const STORIES_DATA = {
 
 const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
+    {
+      "title": "Saiu na mídia - Portal IN",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Portal-IN-37c33d8db9d2809394e7dbcc858b2d8f"
+    },
     {
       "title": "Hoje: Mergulhe no processo criativo de Hélio Rôla e Wilson Neto. | Pintura ao vivo + roda de conversa com os artistas: 12/06 de 14h às 17h",
       "status": "a_agendar",
@@ -2609,6 +2623,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Feliz aniversário, Cleide",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Cleide-37c33d8db9d280c684b7da0ac059c2ac"
+    },
+    {
       "title": "Criança não é mãe!",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -3077,7 +3105,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nossa seleção estreia dia 13 contra o Marrocos, mas nosso suporte 24h já está escalado para te proteger!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [],
@@ -3902,7 +3930,7 @@ const LINHA_VIDEO_ITEMS = {
   "Ortobom": [
     {
       "title": "Todo tipo de colchão ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "11/06",
       "missing": [],
@@ -4290,7 +4318,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Você acredita que o jurídico ajuda no crescimento da empresa?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "11/06",
       "missing": [],
@@ -5023,7 +5051,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
     "prontas": 8,
-    "total": 16
+    "total": 17
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -5083,7 +5111,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 6,
-    "total": 16
+    "total": 17
   },
   "Finseg Leal": {
     "prontas": 14,
@@ -5113,7 +5141,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 12,
+    "post": 13,
     "carrossel": 2,
     "foto": 1,
     "video": 1,
@@ -5218,7 +5246,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Grupo Mulheres do Brasil": {
-    "post": 16,
+    "post": 17,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -5272,7 +5300,7 @@ const AGENDA_COUNTS = {
   "Travessias Híbridas": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
+    "evento": 2
   },
   "Ser Ponte": {
     "reuniao": 0,
