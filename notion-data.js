@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 20:54:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/06/2026, 23:53:33 **/
 
-const LAST_UPDATE = '10/06/2026, 20:54:31';
+const LAST_UPDATE = '10/06/2026, 23:53:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -583,12 +583,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 5,
-    "pronto": 2,
+    "total": 8,
+    "pronto": 5,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 6
   },
   "Solar Coworking": {
     "total": 2,
@@ -4638,6 +4638,39 @@ const LINHA_STORIES_ITEMS = {
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
+      "title": "Aniversário da Marcela",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Marcela-37c33d8db9d280c08b32c9bd3e0e3cc5"
+    },
+    {
+      "title": "Aniversário do Reginaldo",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-do-Reginaldo-37c33d8db9d280288152c43b7c55ace7"
+    },
+    {
+      "title": "Aniversário da Heliana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "15/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Heliana-37c33d8db9d2803abb09fd448090a3f3"
+    },
+    {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4804,7 +4837,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Aniversariantes",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Aniversariantes-37633d8db9d2804e831dd0a9aab06d3c",
       "gestora": "Equipe",
       "date": "10/06"
@@ -4816,16 +4849,6 @@ const DEMANDAS_EXTRAS = {
       "priority": "pp",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
-      "gestora": "Equipe",
-      "date": "05/06"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Configuração de email",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Configura-o-de-email-37433d8db9d28061a78ac150792943e1",
       "gestora": "Equipe",
       "date": "05/06"
     }
@@ -4844,7 +4867,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Summit Mulheres nas Profissões | Lenço",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Len-o-37433d8db9d2808583a7de81f961c5e8",
       "gestora": "Equipe",
       "date": "09T11:00:00.000/06"
@@ -4852,7 +4875,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
       "gestora": "Equipe",
       "date": "09T11:00:00.000/06"
@@ -5205,7 +5228,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 4,
-    "story": 5
+    "story": 8
   },
   "Solar Coworking": {
     "post": 14,
