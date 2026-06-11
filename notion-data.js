@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 15:42:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 18:15:13 **/
 
-const LAST_UPDATE = '11/06/2026, 15:42:27';
+const LAST_UPDATE = '11/06/2026, 18:15:13';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,7 +72,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -96,7 +96,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 17,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 4,
@@ -161,7 +161,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 0,
@@ -810,10 +810,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-toparia-apresentar-a-Ser-Ponte-para-tr-s-pessoas-37c33d8db9d280a5bd13e07706f9c17e"
@@ -824,10 +823,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seja-a-ponte-O-problema-n-o-encontrar-quem-precisa-encontrar-quem-pode-ajudar-37c33d8db9d2808ba628fa7348d4ae13"
@@ -1077,6 +1075,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Saiu na mídia: Juntos Contra o HPV lança chatbot para ampliar o acesso à informação sobre o HPV",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Juntos-Contra-o-HPV-lan-a-chatbot-para-ampliar-o-acesso-informa-o-sobre-o-HPV-37c33d8db9d2807fba31e501670498d5"
+    },
+    {
       "title": "Vacinar é um ato de amor que protege por toda a vida - Dia Nacional da Imunização",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -1092,10 +1104,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-ama-cuida-E-algumas-demonstra-es-de-amor-podem-proteger-uma-vida-inteira-37433d8db9d280b29a86ea168f5eb673"
@@ -1203,19 +1213,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Se-existisse-uma-vacina-contra-o-c-ncer-voc-tomaria-Ela-j-existe-35e33d8db9d280a5a25efaa64a9e1a9b"
     },
     {
-      "title": "O único remédio para quem precisa de sangue não se fabrica em laboratório. Vem de você. - Dia Mundial do Doador de Sangue - Junho vermelho",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-nico-rem-dio-para-quem-precisa-de-sangue-n-o-se-fabrica-em-laborat-rio-Vem-de-voc-Dia-Mundia-35e33d8db9d28044a8f0c00871e2f0aa"
-    },
-    {
       "title": "Se já tomei a vacina, ainda posso ter HPV?",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -1253,10 +1250,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Muita-gente-n-o-sabe-mas-o-SUS-oferece-tudo-isso-para-preven-o-e-cuidado-Vacina-o-Exames--34233d8db9d280b5817ac09d978feb2d"
@@ -2251,7 +2246,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/N-o-vendemos-contabilidade-Entregamos-intelig-ncia-para-crescer-37333d8db9d280d6b415e551c4772fdc"
@@ -2262,10 +2257,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-contabilidade-deixou-de-ser-operacional-A-sua-j-percebeu-isso-37333d8db9d2802592e3f9f9a991a44a"
@@ -5062,7 +5056,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 19,
+    "prontas": 18,
     "total": 19
   },
   "Jota Diesel": {
