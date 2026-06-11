@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 04:25:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 08:54:11 **/
 
-const LAST_UPDATE = '11/06/2026, 04:25:09';
+const LAST_UPDATE = '11/06/2026, 08:54:11';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,12 +71,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Ser Ponte": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Tramix": {
     "total": 6,
@@ -790,7 +790,36 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/H-lio-R-la-pintura-mem-ria-e-travessia-35233d8db9d28089bd2df188c478d279"
     }
   ],
-  "Ser Ponte": [],
+  "Ser Ponte": [
+    {
+      "title": "Você toparia apresentar a Ser Ponte para três pessoas?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-toparia-apresentar-a-Ser-Ponte-para-tr-s-pessoas-37c33d8db9d280a5bd13e07706f9c17e"
+    },
+    {
+      "title": "Seja a ponte: ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seja-a-ponte-O-problema-n-o-encontrar-quem-precisa-encontrar-quem-pode-ajudar-37c33d8db9d2808ba628fa7348d4ae13"
+    }
+  ],
   "Tramix": [
     {
       "title": "Tem Tramix no zíper? Pode confiar! ",
@@ -4998,7 +5027,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 0,
-    "total": 0
+    "total": 2
   },
   "Tramix": {
     "prontas": 1,
@@ -5091,7 +5120,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 0,
+    "post": 2,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
