@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 12:41:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 15:42:27 **/
 
-const LAST_UPDATE = '11/06/2026, 12:41:17';
+const LAST_UPDATE = '11/06/2026, 15:42:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 16,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 0,
@@ -80,7 +80,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 6,
-    "pronto": 1,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 17,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 1,
@@ -605,13 +605,12 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Saiu na mídia - Portal IN",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "11/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Portal-IN-37c33d8db9d2809394e7dbcc858b2d8f"
@@ -883,10 +882,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/70-cores-porque-inspira-o-tamb-m-precisa-de-variedade-37a33d8db9d28077969dda717c9de310"
@@ -897,10 +895,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Qualidade-Tramix-Quem-costura-sabe-37a33d8db9d280a5b154e71637596361"
@@ -1259,7 +1256,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Muita-gente-n-o-sabe-mas-o-SUS-oferece-tudo-isso-para-preven-o-e-cuidado-Vacina-o-Exames--34233d8db9d280b5817ac09d978feb2d"
@@ -2628,10 +2625,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Cleide-37c33d8db9d280c684b7da0ac059c2ac"
@@ -5141,8 +5137,8 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 13,
-    "carrossel": 2,
+    "post": 12,
+    "carrossel": 3,
     "foto": 1,
     "video": 1,
     "story": 0
