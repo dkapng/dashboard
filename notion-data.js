@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 18:15:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 20:04:40 **/
 
-const LAST_UPDATE = '11/06/2026, 18:15:13';
+const LAST_UPDATE = '11/06/2026, 20:04:40';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,7 +88,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
@@ -139,9 +139,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 6,
     "postado": 4,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Rede Pangeia": {
     "total": 10,
@@ -161,7 +161,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 0,
@@ -1053,10 +1053,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Namore-algu-m-que-olhe-para-voc-do-mesmo-jeito-que-o-Le-o-da-Receita-olha-para-o-seu-caixa-Com-int-35e33d8db9d2804fa5a4ddee553a7e99"
@@ -1580,11 +1578,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-valor-do-trabalho-tamb-m-est-na-hist-ria-de-quem-o-constr-i-37333d8db9d280aa8bc0f87f9fbe94be"
     },
@@ -1608,11 +1605,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-valor-do-trabalho-tamb-m-est-na-hist-ria-de-quem-o-constr-i-37333d8db9d280e2834cf2b8bbeda8d2"
     },
@@ -1622,11 +1618,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-fazer-que-se-transforma-em-autonomia-37333d8db9d280e59de5e9ae8545c315"
     },
@@ -1636,11 +1631,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-artesanato-como-heran-a-viva-que-atravessa-gera-es-37333d8db9d280c3840df732f005d9d4"
     },
@@ -1650,11 +1644,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cada-pe-a-criada-tamb-m-um-passo-em-uma-nova-hist-ria-37333d8db9d28046ba49ccb59c09df3b"
     },
@@ -1664,11 +1657,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Existem-la-os-que-o-tempo-fortalece-37333d8db9d280fc985fdce796ab7e46"
     },
@@ -1793,7 +1785,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cláusulas bem definidas evitam conflitos desnecessários.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [],
@@ -1804,7 +1796,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Contrato verbal existe? O que a lei diz sobre isso",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/06",
       "missing": [],
@@ -2243,10 +2235,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/N-o-vendemos-contabilidade-Entregamos-intelig-ncia-para-crescer-37333d8db9d280d6b415e551c4772fdc"
@@ -5072,7 +5063,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Terrartesã": {
-    "prontas": 2,
+    "prontas": 8,
     "total": 9
   },
   "RR Advocacia": {
