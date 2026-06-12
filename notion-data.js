@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 18:03:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 19:54:39 **/
 
-const LAST_UPDATE = '12/06/2026, 18:03:42';
+const LAST_UPDATE = '12/06/2026, 19:54:39';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -64,10 +64,10 @@ const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 16,
     "pronto": 10,
-    "postado": 1,
-    "agendado": 6,
+    "postado": 2,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 8,
+    "a_agendar": 6,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -103,11 +103,11 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Jota Diesel": {
-    "total": 8,
-    "pronto": 2,
+    "total": 9,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
-    "agendado_coord": 0,
+    "agendado_coord": 1,
     "a_agendar": 6
   },
   "Ventana": {
@@ -120,11 +120,11 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 14,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 1,
-    "a_agendar": 10,
+    "a_agendar": 9,
     "st-paused": null
   },
   "Terrartesã": {
@@ -152,12 +152,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Planos Seguros": {
-    "total": 12,
+    "total": 11,
     "pronto": 3,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Plannea": {
     "total": 13,
@@ -184,12 +184,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Grupo Mulheres do Brasil": {
-    "total": 17,
+    "total": 16,
     "pronto": 9,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 11
+    "a_agendar": 9
   },
   "Finseg Leal": {
     "total": 14,
@@ -208,12 +208,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 10,
+    "total": 9,
     "pronto": 3,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Daniel Maia Advocacia": {
     "total": 10,
@@ -463,12 +463,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 1,
@@ -604,27 +604,23 @@ const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
       "title": "Saiu na mídia - Portal IN",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "12/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Portal-IN-37c33d8db9d2809394e7dbcc858b2d8f"
     },
     {
       "title": "Hoje: Mergulhe no processo criativo de Hélio Rôla e Wilson Neto. | Pintura ao vivo + roda de conversa com os artistas: 12/06 de 14h às 17h",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hoje-Mergulhe-no-processo-criativo-de-H-lio-R-la-e-Wilson-Neto-Pintura-ao-vivo-roda-de-convers-37a33d8db9d28020aa6fc6dec1098021"
     },
@@ -1277,6 +1273,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Jota Diesel": [
     {
+      "title": "A paixão pelo futebol une o Brasil. A manutenção mantém o Brasil em movimento.",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "12/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-paix-o-pelo-futebol-une-o-Brasil-A-manuten-o-mant-m-o-Brasil-em-movimento-37d33d8db9d280458a7acb41e2aa8edf"
+    },
+    {
       "title": "Motor regulado é menos consumo e mais desempenho.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1494,13 +1501,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que a Unimed Fortaleza é referência quando o assunto é saúde?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-a-Unimed-Fortaleza-refer-ncia-quando-o-assunto-sa-de-36d33d8db9d2806d9486c6db16403e6e"
@@ -2036,19 +2041,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Benef-cio-deixou-de-ser-apenas-um-diferencial-Hoje-ele-influencia-a-forma-como-as-pessoas-enxergam--36733d8db9d2802ab9e1c705b1ae7054"
-    },
-    {
-      "title": "O amor até une os planos. Mas é a estrutura que ajuda a sustentá-los.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-amor-at-une-os-planos-Mas-a-estrutura-que-ajuda-a-sustent-los-36733d8db9d280e1a709d79e8c10b7b0"
     },
     {
       "title": "71% dos brasileiros afirmam viver estresse no ambiente de trabalho.",
@@ -2692,20 +2684,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-gente-vai-sorrir-sim-e-vai-sorrir-porque-tamb-m-temos-um-Oscar-em-casa-Dia-do-cinema-nacional-36b33d8db9d280de965ed5b03abff006"
     },
     {
-      "title": "Ação das líderes no HEMOCE",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "12/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-o-das-l-deres-no-HEMOCE-36b33d8db9d280d1b77cc73cba25846d"
-    },
-    {
       "title": "Toda criança merece tempo para ser criança: Dia Mundial de Combate ao Trabalho Infantil",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2742,7 +2720,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quantas mulheres empreendem porque o sistema não abriu portas?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [],
@@ -3052,19 +3030,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Partiu-interior-no-S-o-Jo-o-Entenda-como-funciona-a-assist-ncia-rodovi-ria-e-o-guincho-do-seu-segur-36c33d8db9d280a199e0f85cd29c4a0d"
     },
     {
-      "title": "Quem ama, planeja junto: como o seguro de vida garante a segurança financeira de quem você mais ama.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-ama-planeja-junto-como-o-seguro-de-vida-garante-a-seguran-a-financeira-de-quem-voc-mais-ama-36c33d8db9d2807caa58f28a051a638b"
-    },
-    {
       "title": "Nossa seleção estreia dia 13 contra o Marrocos, mas nosso suporte 24h já está escalado para te proteger!",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -3079,7 +3044,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Vai reunir os amigos para ver o Brasil jogar? Evite dores de cabeça com acidentes elétricos ou danos materiais com o Seguro Residencial.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "11/06",
+      "date": "12/06",
       "missing": [
         "Design"
       ],
@@ -4160,19 +4125,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-35133d8db9d2803a9fe0c6612b962840"
-    },
-    {
-      "title": "Story/stories.",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "11/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-35133d8db9d280b4a76cdcb8025a7590"
     }
   ],
   "Ventana": [
@@ -4221,7 +4173,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "11/06",
+      "date": "15/06",
       "missing": [
         "Design"
       ],
@@ -4812,7 +4764,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação para pitch",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
@@ -4995,6 +4947,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Planos Seguros": "marcada",
   "Conecta Assessoria": "marcada",
   "Finseg Leal": "marcada",
   "Ortobom": "confirmada",
@@ -5012,7 +4965,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 9,
+    "prontas": 11,
     "total": 17
   },
   "Ser Ponte": {
@@ -5032,8 +4985,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Jota Diesel": {
-    "prontas": 9,
-    "total": 12
+    "prontas": 10,
+    "total": 13
   },
   "Ventana": {
     "prontas": 0,
@@ -5056,8 +5009,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Planos Seguros": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 16,
+    "total": 16
   },
   "Plannea": {
     "prontas": 4,
@@ -5073,7 +5026,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 7,
-    "total": 17
+    "total": 16
   },
   "Finseg Leal": {
     "prontas": 14,
@@ -5084,8 +5037,8 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "APROSSEG": {
-    "prontas": 12,
-    "total": 15
+    "prontas": 11,
+    "total": 14
   },
   "Daniel Maia Advocacia": {
     "prontas": 11,
@@ -5138,11 +5091,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Jota Diesel": {
-    "post": 7,
+    "post": 8,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
-    "story": 4
+    "story": 3
   },
   "Ventana": {
     "post": 0,
@@ -5180,7 +5133,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Planos Seguros": {
-    "post": 11,
+    "post": 10,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
@@ -5208,7 +5161,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Grupo Mulheres do Brasil": {
-    "post": 17,
+    "post": 16,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -5229,7 +5182,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 8,
+    "post": 7,
     "carrossel": 2,
     "foto": 0,
     "video": 4,
@@ -5316,7 +5269,7 @@ const AGENDA_COUNTS = {
   },
   "Planos Seguros": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Plannea": {
