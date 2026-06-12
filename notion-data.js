@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 07:48:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 10:59:16 **/
 
-const LAST_UPDATE = '12/06/2026, 07:48:55';
+const LAST_UPDATE = '12/06/2026, 10:59:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,7 +72,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 2,
-    "pronto": 2,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -90,9 +90,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 6,
     "postado": 2,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Juntos contra o HPV": {
     "total": 17,
@@ -820,12 +820,13 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Seja a ponte: ",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "11/06",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seja-a-ponte-O-problema-n-o-encontrar-quem-precisa-encontrar-quem-pode-ajudar-37c33d8db9d2808ba628fa7348d4ae13"
@@ -1048,7 +1049,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Namore alguém que olhe para você do mesmo jeito que o Leão da Receita olha para o seu caixa. Com interesse total, dedicação exclusiva e sem deixar passar nenhum detalhe.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [],
@@ -1908,7 +1909,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Depois de anos acompanhando OSCs, percebi um padrão e eu quero quebrá-lo. Descubra como amanhã, às 11h!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/06",
+      "date": "14/06",
       "missing": [
         "Design"
       ],
@@ -1921,7 +1922,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Os jovens querem trabalhar com propósito. Então por que tantas OSCs perdem talentos?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/06",
+      "date": "12/06",
       "missing": [
         "Design",
         "Legenda"
@@ -5004,6 +5005,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Conecta Assessoria": "marcada",
   "Finseg Leal": "marcada",
   "Ortobom": "confirmada",
   "Di Gregório Buffet": "marcada",
@@ -5011,7 +5013,6 @@ const CAPTACAO_DATA = {
   "APROSSEG": "marcada",
   "RR Advocacia": "marcada",
   "Rede Pangeia": "marcada",
-  "Conecta Assessoria": "marcada",
   "Solar Coworking": "marcada",
   "Plannea": "marcada",
   "Terrartesã": "cancelada"
@@ -5119,8 +5120,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 2,
-    "carrossel": 0,
+    "post": 1,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -5370,7 +5371,7 @@ const AGENDA_COUNTS = {
   },
   "Conecta Assessoria": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "Solar Coworking": {
