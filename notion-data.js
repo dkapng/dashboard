@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 03:28:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 07:48:55 **/
 
-const LAST_UPDATE = '12/06/2026, 03:28:09';
+const LAST_UPDATE = '12/06/2026, 07:48:55';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -98,9 +98,9 @@ const FEED_DATA = {
     "total": 17,
     "pronto": 8,
     "postado": 2,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 4,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Jota Diesel": {
     "total": 9,
@@ -1097,7 +1097,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem ama, cuida. E algumas demonstrações de amor podem proteger uma vida inteira.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "12/06",
       "missing": [],
