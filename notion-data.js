@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 15:59:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 18:03:42 **/
 
-const LAST_UPDATE = '12/06/2026, 15:59:54';
+const LAST_UPDATE = '12/06/2026, 18:03:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -103,12 +103,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Jota Diesel": {
-    "total": 9,
+    "total": 8,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Ventana": {
     "total": 0,
@@ -194,8 +194,8 @@ const FEED_DATA = {
   "Finseg Leal": {
     "total": 14,
     "pronto": 7,
-    "postado": 1,
-    "agendado": 5,
+    "postado": 2,
+    "agendado": 4,
     "agendado_coord": 0,
     "a_agendar": 8
   },
@@ -232,12 +232,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Solar Coworking": {
-    "total": 14,
-    "pronto": 4,
+    "total": 15,
+    "pronto": 6,
     "postado": 2,
-    "agendado": 2,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   }
 };
 
@@ -1342,19 +1342,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Rodar-na-reserva-pode-comprometer-o-sistema-diesel-36e33d8db9d2803b9f80f3a9c0648489"
     },
     {
-      "title": "Quem te acompanha em toda estrada também merece cuidado.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "12/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-te-acompanha-em-toda-estrada-tamb-m-merece-cuidado-36e33d8db9d2801fb7bce5016825e390"
-    },
-    {
       "title": "Motor diesel regulado reduz fumaça e melhora desempenho.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1919,7 +1906,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Os jovens querem trabalhar com propósito. Então por que tantas OSCs perdem talentos?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "12/06",
+      "date": "15/06",
       "missing": [
         "Legenda"
       ],
@@ -2926,15 +2913,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quando-duas-pessoas-passam-a-dividir-a-vida-muita-coisa-muda-ao-mesmo-tempo-Despesas-patrim-nio--36733d8db9d28069adccfaa5526f137f"
     },
     {
-      "title": "Construir uma vida juntos também é pensar no que protege ela.",
-      "status": "agendado",
+      "title": "Construir uma vida juntos também é pensar em como protegê-la.",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Construir-uma-vida-juntos-tamb-m-pensar-no-que-protege-ela-36733d8db9d280868109e53c1771004c"
+      "notionUrl": "https://app.notion.com/p/Construir-uma-vida-juntos-tamb-m-pensar-em-como-proteg-la-36733d8db9d280868109e53c1771004c"
     },
     {
       "title": "A chuva passou. O prejuízo elétrico muitas vezes começa agora.",
@@ -3405,6 +3392,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "A estrutura certa pode mudar o jogo do seu negócio.",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "13/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-estrutura-certa-pode-mudar-o-jogo-do-seu-neg-cio-37d33d8db9d2803b99b8fc65dae8be57"
+    },
+    {
       "title": "Selo sebrae",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -3493,13 +3491,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O cliente sente quando existe profissionalismo antes mesmo da reunião começar.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "11/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "12/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-cliente-sente-quando-existe-profissionalismo-antes-mesmo-da-reuni-o-come-ar-36d33d8db9d280dea9c7f4ecb6cfbfb5"
@@ -3521,7 +3517,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Dois endereços, uma solução. Solar Coworking.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/06",
+      "date": "16/06",
       "missing": [
         "Design"
       ],
@@ -5036,8 +5032,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Jota Diesel": {
-    "prontas": 10,
-    "total": 13
+    "prontas": 9,
+    "total": 12
   },
   "Ventana": {
     "prontas": 0,
@@ -5100,8 +5096,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 15,
+    "total": 15
   }
 };
 
@@ -5142,7 +5138,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Jota Diesel": {
-    "post": 8,
+    "post": 7,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
@@ -5254,7 +5250,7 @@ const FORMAT_COUNTS = {
     "story": 8
   },
   "Solar Coworking": {
-    "post": 14,
+    "post": 15,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
