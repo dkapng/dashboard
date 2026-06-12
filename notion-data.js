@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/06/2026, 22:42:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 03:28:09 **/
 
-const LAST_UPDATE = '11/06/2026, 22:42:54';
+const LAST_UPDATE = '12/06/2026, 03:28:09';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -82,9 +82,9 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 3,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Stratto": {
     "total": 13,
@@ -878,7 +878,7 @@ const LINHA_FEED_ITEMS = {
       "title": "70 cores porque inspiração também precisa de variedade.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/06",
+      "date": "15/06",
       "missing": [
         "Legenda"
       ],
@@ -889,14 +889,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Qualidade Tramix: Quem costura sabe.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "10/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "12/06",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Qualidade-Tramix-Quem-costura-sabe-37a33d8db9d280a5b154e71637596361"
     },
@@ -4827,14 +4825,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
-    },
-    {
-      "title": "Chamada pública - Voluntariado",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Chamada-p-blica-Voluntariado-36033d8db9d280b3b615d6b7c63e1b82",
-      "gestora": "Equipe",
-      "date": "14T15:00:00.000/05"
     }
   ],
   "Univendas": [
@@ -5039,7 +5029,7 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "Tramix": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 6
   },
   "Stratto": {
