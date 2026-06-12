@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 10:59:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 13:46:21 **/
 
-const LAST_UPDATE = '12/06/2026, 10:59:16';
+const LAST_UPDATE = '12/06/2026, 13:46:21';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -64,15 +64,15 @@ const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 16,
     "pronto": 10,
-    "postado": 0,
+    "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 9,
+    "a_agendar": 8,
     "st-paused": null
   },
   "Ser Ponte": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -145,7 +145,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 10,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
@@ -187,9 +187,9 @@ const FEED_DATA = {
     "total": 17,
     "pronto": 9,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 1,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Finseg Leal": {
     "total": 14,
@@ -606,7 +606,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Saiu na mídia - Portal IN",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/06",
+      "date": "12/06",
       "missing": [
         "Legenda"
       ],
@@ -630,14 +630,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Amanhã: Sua única chance de presenciar o nascimento de uma nova obra de arte. | Pintura ao vivo + roda de conversa com Hélio Rôla e Wilson Neto: 12/06 de 14h às 17h",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "11/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Amanh-Sua-nica-chance-de-presenciar-o-nascimento-de-uma-nova-obra-de-arte-Pintura-ao-vivo-ro-37a33d8db9d280acb842c5d2a2f8170d"
     },
@@ -823,10 +821,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "11/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seja-a-ponte-O-problema-n-o-encontrar-quem-precisa-encontrar-quem-pode-ajudar-37c33d8db9d2808ba628fa7348d4ae13"
@@ -1924,10 +1921,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "12/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-jovens-querem-trabalhar-com-prop-sito-Ent-o-por-que-tantas-OSCs-perdem-talentos-37233d8db9d280beaf56c8d523723084"
@@ -2605,14 +2601,12 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Feliz aniversário, Cleide",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "11/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Cleide-37c33d8db9d280c684b7da0ac059c2ac"
     },
@@ -2697,7 +2691,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-amor-nunca-foi-o-problema-O-preconceito-sim-Dia-do-Orgulho-LGBT-36b33d8db9d2802c8571d5ed48dc6716"
     },
     {
-      "title": "A gente vai sorrir sim e vai sorrir porque também temos um oscar em casa! (Dia do cinema nacional)",
+      "title": "A gente vai sorrir sim e vai sorrir porque também temos um Oscar em casa! (Dia do cinema nacional)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/06",
@@ -2708,7 +2702,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-gente-vai-sorrir-sim-e-vai-sorrir-porque-tamb-m-temos-um-oscar-em-casa-Dia-do-cinema-nacional-36b33d8db9d280de965ed5b03abff006"
+      "notionUrl": "https://app.notion.com/p/A-gente-vai-sorrir-sim-e-vai-sorrir-porque-tamb-m-temos-um-Oscar-em-casa-Dia-do-cinema-nacional-36b33d8db9d280de965ed5b03abff006"
     },
     {
       "title": "Ação das líderes no HEMOCE",
@@ -4284,7 +4278,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-37333d8db9d28041a76ed6f1cf38d77d"
     },
     {
-      "title": "Story/stories",
+      "title": "🔒 ",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "18/06",
@@ -4294,7 +4288,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-37333d8db9d280d8b772f5a34688f6cd"
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-coleta-dados-de-clientes-37333d8db9d280d8b772f5a34688f6cd"
     },
     {
       "title": "Você acredita que o jurídico ajuda no crescimento da empresa?",
@@ -4484,7 +4478,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-36f33d8db9d28064a865d24a02a16aae"
     },
     {
-      "title": "Story/stories",
+      "title": "Tem pelo menos um exame que você está adiando há mais de 6 meses.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "16/06",
@@ -4494,7 +4488,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-36f33d8db9d280cc86f5cd83dab93995"
+      "notionUrl": "https://app.notion.com/p/Tem-pelo-menos-um-exame-que-voc-est-adiando-h-mais-de-6-meses-36f33d8db9d280cc86f5cd83dab93995"
     },
     {
       "title": "Junho Laranja",
@@ -4721,7 +4715,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-36e33d8db9d280299c2cd96531b3f8ef"
     },
     {
-      "title": "Story/stories",
+      "title": "O Brasil é o país mais ansioso do mundo, segundo a OMS. ",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "16/06",
@@ -4731,7 +4725,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-36e33d8db9d2801ab56cff8cb52b6c5d"
+      "notionUrl": "https://app.notion.com/p/O-Brasil-o-pa-s-mais-ansioso-do-mundo-segundo-a-OMS-36e33d8db9d2801ab56cff8cb52b6c5d"
     },
     {
       "title": "É impossível render 100% no trabalho quando a mente está preocupada com imprevistos.",
@@ -4822,7 +4816,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação para pitch",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
@@ -5022,7 +5016,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 17
   },
   "Ser Ponte": {
@@ -5082,7 +5076,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 17
   },
   "Finseg Leal": {
