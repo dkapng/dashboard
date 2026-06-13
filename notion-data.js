@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 19:54:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/06/2026, 21:14:57 **/
 
-const LAST_UPDATE = '12/06/2026, 19:54:39';
+const LAST_UPDATE = '12/06/2026, 21:14:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,21 +62,21 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 16,
+    "total": 15,
     "pronto": 10,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 6,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Ser Ponte": {
-    "total": 2,
-    "pronto": 2,
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Tramix": {
     "total": 6,
@@ -186,10 +186,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 16,
     "pronto": 9,
-    "postado": 1,
+    "postado": 2,
     "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Finseg Leal": {
     "total": 14,
@@ -332,12 +332,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Planos Seguros": {
-    "total": 5,
+    "total": 3,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Plannea": {
     "total": 0,
@@ -543,12 +543,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
-    "total": 4,
+    "total": 3,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Finseg Leal": {
     "total": 4,
@@ -680,20 +680,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Veja-a-arte-acontecer-ao-vivo-12-06-de-14h-s-17h-N-o-perca-37633d8db9d280e68fc3dad1d6fb84da"
     },
     {
-      "title": "Carrossel de fotos #Tbt",
-      "status": "a_agendar",
-      "formato": "📸 Foto(s)",
-      "date": "11/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Carrossel-de-fotos-Tbt-36b33d8db9d28084add6f983d7378f68"
-    },
-    {
       "title": "Entre na brincadeira. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -797,34 +783,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/H-lio-R-la-pintura-mem-ria-e-travessia-35233d8db9d28089bd2df188c478d279"
     }
   ],
-  "Ser Ponte": [
-    {
-      "title": "Você toparia apresentar a Ser Ponte para três pessoas?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "12/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-toparia-apresentar-a-Ser-Ponte-para-tr-s-pessoas-37c33d8db9d280a5bd13e07706f9c17e"
-    },
-    {
-      "title": "Seja a ponte: ",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "11/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seja-a-ponte-O-problema-n-o-encontrar-quem-precisa-encontrar-quem-pode-ajudar-37c33d8db9d2808ba628fa7348d4ae13"
-    }
-  ],
+  "Ser Ponte": [],
   "Tramix": [
     {
       "title": "Tem Tramix no zíper? Pode confiar! ",
@@ -2685,14 +2644,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Toda criança merece tempo para ser criança: Dia Mundial de Combate ao Trabalho Infantil",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-crian-a-merece-tempo-para-ser-crian-a-Dia-Mundial-de-Combate-ao-Trabalho-Infantil-36b33d8db9d280f287e2d897457cd9a3"
     },
@@ -3833,32 +3790,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-o-que-realmente-est-protegido-na-sua-empresa-hoje-36733d8db9d280efbc09d22ef74c8739"
-    },
-    {
-      "title": "Tem empresa tão ocupada apagando incêndio que já não consegue enxergar onde o problema começou.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "11/06",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Tem-empresa-t-o-ocupada-apagando-inc-ndio-que-j-n-o-consegue-enxergar-onde-o-problema-come-ou-36733d8db9d2802a859be1ba2bfd744a"
-    },
-    {
-      "title": "Tem empresa funcionando no limite há tanto tempo que já normalizou o desgaste.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "04/06",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Tem-empresa-funcionando-no-limite-h-tanto-tempo-que-j-normalizou-o-desgaste-36733d8db9d280ae9f5de006f83d30bc"
     }
   ],
   "Plannea": [],
@@ -4329,7 +4260,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Nem toda empresa que cresce está, de fato, estruturada.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "11/06",
+      "date": "15/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4463,19 +4394,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Stories-sobre-o-projeto-Juntos-Contra-o-HPV-36b33d8db9d280bab04fe34786ef7829"
-    },
-    {
-      "title": "O algoritmo não só espalha fake news. Ele fortalece misoginia",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "11/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-algoritmo-n-o-s-espalha-fake-news-Ele-fortalece-misoginia-36b33d8db9d280d28280ce30ea3cf616"
     },
     {
       "title": "O mercado ama produtividade. Mas ignora quem cuida",
@@ -4966,11 +4884,11 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
     "prontas": 11,
-    "total": 17
+    "total": 16
   },
   "Ser Ponte": {
     "prontas": 0,
-    "total": 2
+    "total": 0
   },
   "Tramix": {
     "prontas": 2,
@@ -5009,8 +4927,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Planos Seguros": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 14,
+    "total": 14
   },
   "Plannea": {
     "prontas": 4,
@@ -5025,7 +4943,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 16
   },
   "Finseg Leal": {
@@ -5058,13 +4976,13 @@ const FORMAT_COUNTS = {
   "Travessias Híbridas": {
     "post": 12,
     "carrossel": 3,
-    "foto": 1,
+    "foto": 0,
     "video": 1,
     "story": 0
   },
   "Ser Ponte": {
-    "post": 1,
-    "carrossel": 1,
+    "post": 0,
+    "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -5136,7 +5054,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 1,
     "foto": 0,
-    "video": 5,
+    "video": 3,
     "story": 2
   },
   "Plannea": {
@@ -5165,7 +5083,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 4
+    "story": 3
   },
   "Finseg Leal": {
     "post": 13,
