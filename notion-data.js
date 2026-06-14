@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/06/2026, 17:45:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/06/2026, 19:03:55 **/
 
-const LAST_UPDATE = '14/06/2026, 17:45:05';
+const LAST_UPDATE = '14/06/2026, 19:03:55';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -233,7 +233,7 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 15,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -2577,7 +2577,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Hoje tem Brasil na copa e a pergunta é: Por que meninas ainda crescem ouvindo que futebol “não é coisa de mulher”?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/06",
+      "date": "19/06",
       "missing": [
         "Legenda"
       ],
@@ -3402,7 +3402,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O melhor da vida profissional acontece quando as pessoas certas se encontram.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/06",
+      "date": "16/06",
       "missing": [
         "Design"
       ],
@@ -3426,7 +3426,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Flexibilidade para reunir, negociar e crescer onde a Solar estiver.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/06",
+      "date": "18/06",
       "missing": [
         "Design"
       ],
@@ -3439,11 +3439,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Dois endereços, uma solução. Solar Coworking.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "17/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dois-endere-os-uma-solu-o-Solar-Coworking-36d33d8db9d280d8ba9ff6288050692f"
@@ -3488,10 +3486,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-acha-que-falta-tempo-mas-talvez-o-problema-seja-o-ambiente-onde-voc-trabalha-34b33d8db9d2806aa1c5eeabd20c62b9"
