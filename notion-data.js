@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/06/2026, 19:03:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/06/2026, 20:43:51 **/
 
-const LAST_UPDATE = '14/06/2026, 19:03:55';
+const LAST_UPDATE = '14/06/2026, 20:43:51';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 15,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
@@ -88,7 +88,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -96,7 +96,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 17,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 2,
     "agendado": 5,
     "agendado_coord": 4,
@@ -177,7 +177,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 2,
     "agendado": 5,
     "agendado_coord": 1,
@@ -232,12 +232,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Solar Coworking": {
-    "total": 15,
-    "pronto": 8,
+    "total": 16,
+    "pronto": 12,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 10
   }
 };
 
@@ -592,7 +592,7 @@ const STORIES_DATA = {
   },
   "Solar Coworking": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -685,10 +685,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-na-brincadeira-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-Centro-Cultural-Banco-do--35233d8db9d28062aa8ef9c54546aed2"
@@ -958,10 +957,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-ilus-o-do-Dia-dos-Namorados-Vender-muito-no-dia-12-de-junho-pode-quebrar-o-seu-caixa-no-m-s-de-ju-36c33d8db9d28042a75aec44a0c7fe01"
@@ -1029,10 +1026,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Juntos-Contra-o-HPV-lan-a-chatbot-para-ampliar-o-acesso-informa-o-sobre-o-HPV-37c33d8db9d2807fba31e501670498d5"
@@ -1298,7 +1294,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Rodar na reserva pode comprometer o sistema diesel.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "15/06",
+      "date": "18/06",
       "missing": [
         "Design"
       ],
@@ -2450,10 +2446,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-pior-parte-do-exame-nem-sempre-a-coleta-36f33d8db9d280c49394e8dbb7b98258"
@@ -2606,10 +2600,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quantas-mulheres-ainda-confundem-controle-com-cuidado-36b33d8db9d2804491f0e445e20aa4de"
@@ -3240,7 +3233,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Todo-mundo-gosta-de-falar-do-ataque-Mas-a-defesa-que-sustenta-o-jogo-36d33d8db9d280369150f47c339a3b62"
@@ -3314,6 +3307,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "E se sua empresa tivesse uma base pronta para funcionar?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/E-se-sua-empresa-tivesse-uma-base-pronta-para-funcionar-37f33d8db9d2802ea133e9c1a854d360"
+    },
+    {
       "title": "A estrutura certa pode mudar o jogo do seu negócio.",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -3376,11 +3380,9 @@ const LINHA_FEED_ITEMS = {
       "title": "O cliente marcou, você confirmou. Mas onde vai acontecer essa reunião?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "19/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-cliente-marcou-voc-confirmou-Mas-onde-vai-acontecer-essa-reuni-o-36d33d8db9d280bfaf96fe805d599c09"
@@ -3389,11 +3391,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Psicólogo, a Solar tem a sala que o seu paciente merece.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "22/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Psic-logo-a-Solar-tem-a-sala-que-o-seu-paciente-merece-36d33d8db9d280ff98c4f05cd6aab754"
@@ -3402,11 +3402,9 @@ const LINHA_FEED_ITEMS = {
       "title": "O melhor da vida profissional acontece quando as pessoas certas se encontram.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "18/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-melhor-da-vida-profissional-acontece-quando-as-pessoas-certas-se-encontram-36d33d8db9d2803e9f4dcc4397795e25"
@@ -3426,7 +3424,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Flexibilidade para reunir, negociar e crescer onde a Solar estiver.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/06",
+      "date": "29/06",
       "missing": [
         "Design"
       ],
@@ -4018,7 +4016,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "25/06",
+      "date": "30/06",
       "missing": [
         "Design"
       ],
@@ -4031,7 +4029,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "18/06",
+      "date": "16/06",
       "missing": [
         "Design"
       ],
@@ -4044,7 +4042,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "15/06",
+      "date": "23/06",
       "missing": [
         "Design"
       ],
@@ -4429,7 +4427,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-37233d8db9d280f1b7a1fd1fd6c91004"
     },
     {
-      "title": "Story/stories",
+      "title": "Uma única doação pode ajudar até 4 pessoas.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "15/06",
@@ -4439,7 +4437,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-37233d8db9d280689a31d26af049caab"
+      "notionUrl": "https://app.notion.com/p/Uma-nica-doa-o-pode-ajudar-at-4-pessoas-37233d8db9d280689a31d26af049caab"
     },
     {
       "title": "Vocês já conversaram sobre planejamento financeiro juntos?",
@@ -4644,10 +4642,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "18/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-36d33d8db9d280c5b7e2cd10e446cbee"
@@ -4963,8 +4959,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 16,
+    "total": 16
   }
 };
 
@@ -5117,7 +5113,7 @@ const FORMAT_COUNTS = {
     "story": 8
   },
   "Solar Coworking": {
-    "post": 15,
+    "post": 16,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
