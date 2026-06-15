@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/06/2026, 12:26:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/06/2026, 16:11:47 **/
 
-const LAST_UPDATE = '15/06/2026, 12:26:59';
+const LAST_UPDATE = '15/06/2026, 16:11:47';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -177,7 +177,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 8,
+    "pronto": 11,
     "postado": 0,
     "agendado": 8,
     "agendado_coord": 0,
@@ -193,7 +193,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 13,
-    "pronto": 6,
+    "pronto": 9,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -225,7 +225,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 7,
+    "pronto": 9,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -584,7 +584,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 8,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -783,7 +783,7 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [],
   "Tramix": [
     {
-      "title": "Tem Tramix no zíper? Pode confiar! ",
+      "title": "Tem Tramix no zíper? Pode confiar!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/06",
@@ -935,7 +935,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-ano-de-2026-j-chegou-na-metade-O-plano-de-crescimento-que-voc-desenhou-em-janeiro-deu-lucro-ou--36c33d8db9d28089994aecce43fa4a04"
     },
     {
-      "title": "\"É só um cafezinho\", \"é só o Uber para o escritório\", \"deixa eu pegar R$ 100 do caixa para uma emergência rápida\". Isolados, esses valores parecem insignificantes e inofensivos para a saúde da sua PME. O problema é que, no final de 30 dias, essa falta de registro gera um efeito bola de neve.Essas pequenas retiradas não identificadas somam um rombo oculto de R$ 2.000, R$ 3.000 ou até R$ 5.000 no seu fechamento mensal. Sem a conciliação diária rigorosa de cada centavo, o seu DFC (Demonstrativo de Fluxo de Caixa) perde totalmente a acurácia, fazendo com que você tome decisões estratégicas baseadas em dados mentirosos.Se você não rastreia os pequenos ralos, nunca vai saber o real motivo do dinheiro sumir antes do fim do mês. Na Stratto, nós categorizamos e auditamos cada movimentação do seu negócio para fechar as torneiras invisíveis que prejudicam o seu lucro líquido real.📲 ",
+      "title": "O dinheiro não desaparece. Ele escapa pelos detalhes.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/06",
@@ -945,7 +945,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/s-um-cafezinho-s-o-Uber-para-o-escrit-rio-deixa-eu-pegar-R-100-do-caixa-para-uma-emerg-nc-36c33d8db9d280658e9eedd92382e097"
+      "notionUrl": "https://app.notion.com/p/O-dinheiro-n-o-desaparece-Ele-escapa-pelos-detalhes-36c33d8db9d280658e9eedd92382e097"
     },
     {
       "title": "A ilusão do Dia dos Namorados: Vender muito no dia 12 de junho pode quebrar o seu caixa no mês de julho. Você sabe o porquê?",
@@ -1121,7 +1121,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-a-sua-vacina-tamb-m-protege-quem-voc-nunca-viu-na-vida-36b33d8db9d280ce8d2df4a75e1b6e92"
@@ -2256,10 +2256,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-corpo-anda-tentando-chamar-sua-aten-o-36f33d8db9d28020860be973b4f2d97e"
@@ -2322,10 +2320,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [
-        "Design"
+        "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-homem-costuma-resolver-tudo-Menos-quando-o-assunto-a-pr-pria-sa-de-36f33d8db9d2805eab63cc8d2eb46e8c"
     },
@@ -2411,10 +2409,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-doa-o-pode-ser-o-motivo-de-algu-m-continuar-aqui-Dia-Mundial-do-Doador-de-Sangue-Junho-verme-35e33d8db9d280ca9094ff6c61c74618"
@@ -2663,10 +2659,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/No-S-o-Jo-o-o-risco-n-o-est-apenas-no-tr-nsito-Est-tamb-m-em-quem-n-o-tem-seguro-para-arcar-com--37233d8db9d28053b23fc5c7c51c2707"
@@ -2676,10 +2670,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-o-limite-de-quilometragem-do-seu-guincho-hoje-37233d8db9d280cd931efb973970484a"
@@ -2755,10 +2747,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "16/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Destino-S-o-Jo-o-Sua-mala-est-pronta-Sua-prote-o-tamb-m-36733d8db9d28021a582daf33a462c98"
@@ -3075,10 +3065,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "18/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-contratar-um-plano-de-sa-de-para-sua-empresa-veja-esse-checklist-36e33d8db9d2804dace6e2af579eae8c"
@@ -3088,10 +3076,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-hoje-investe-mais-em-preven-o-ou-em-resolver-problema-depois-que-ele-aparece-36e33d8db9d2800a9266e731fafdfc61"
@@ -4364,10 +4350,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "16/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Brasil-o-pa-s-mais-ansioso-do-mundo-segundo-a-OMS-36e33d8db9d2801ab56cff8cb52b6c5d"
@@ -4437,6 +4421,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Stratto": [
+    {
+      "title": "Avatar para WhatsApp - logo da stratto + cliente",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Avatar-para-WhatsApp-logo-da-stratto-cliente-38033d8db9d2805eaf95e4810fc3de5a",
+      "gestora": "Equipe",
+      "date": "16/06"
+    },
+    {
+      "title": "Video com imagens",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Video-com-imagens-37433d8db9d2807e81d6f3bf8f91640e",
+      "gestora": "Equipe",
+      "date": "15/06"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Video para edital",
@@ -4499,16 +4501,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
       "gestora": "Equipe",
       "date": "05/06"
-    }
-  ],
-  "Stratto": [
-    {
-      "title": "Video com imagens",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Video-com-imagens-37433d8db9d2807e81d6f3bf8f91640e",
-      "gestora": "Equipe",
-      "date": "15/06"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4689,7 +4681,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "ItalaP": {
-    "prontas": 17,
+    "prontas": 16,
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
