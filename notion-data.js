@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/06/2026, 23:59:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/06/2026, 06:27:04 **/
 
-const LAST_UPDATE = '14/06/2026, 23:59:23';
+const LAST_UPDATE = '15/06/2026, 06:27:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -120,7 +120,7 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 1,
@@ -209,7 +209,7 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 9,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
@@ -1442,10 +1442,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-um-bom-plano-de-sa-de-evita-dentro-da-sua-empresa-36d33d8db9d28044b2afd46cbdea7abf"
@@ -2847,27 +2845,23 @@ const LINHA_FEED_ITEMS = {
       "title": "Viajar sem preocupação com extravio de bagagem ou urgências médicas? O Seguro Viagem resolve.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "20/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Viajar-sem-preocupa-o-com-extravio-de-bagagem-ou-urg-ncias-m-dicas-O-Seguro-Viagem-resolve-36e33d8db9d28034bc04ed6a49093712"
     },
     {
-      "title": "Partiu interior no São João? Entenda como funciona a assistência rodoviária e o guincho do seu seguro nas estradas estaduais.",
+      "title": "Entenda como funciona a assistência rodoviária e o guincho do seu seguro nas estradas estaduais.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "15/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Partiu-interior-no-S-o-Jo-o-Entenda-como-funciona-a-assist-ncia-rodovi-ria-e-o-guincho-do-seu-segur-36c33d8db9d280a199e0f85cd29c4a0d"
+      "notionUrl": "https://app.notion.com/p/Entenda-como-funciona-a-assist-ncia-rodovi-ria-e-o-guincho-do-seu-seguro-nas-estradas-estaduais-36c33d8db9d280a199e0f85cd29c4a0d"
     },
     {
       "title": "Nossa seleção estreia dia 13 contra o Marrocos, mas nosso suporte 24h já está escalado para te proteger!",
@@ -2881,17 +2875,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Nossa-sele-o-estreia-dia-13-contra-o-Marrocos-mas-nosso-suporte-24h-j-est-escalado-para-te-prote-36c33d8db9d280bcb24ecc533e1220d6"
     },
     {
-      "title": "Vai reunir os amigos para ver o Brasil jogar? Evite dores de cabeça com acidentes elétricos ou danos materiais com o Seguro Residencial.",
+      "title": "Ansioso pra ver o Brasil jogar? Evite dores de cabeça com acidentes elétricos ou danos materiais com o Seguro Residencial.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Vai-reunir-os-amigos-para-ver-o-Brasil-jogar-Evite-dores-de-cabe-a-com-acidentes-el-tricos-ou-danos-36c33d8db9d280bf8407fd6b26a8bd17"
+      "notionUrl": "https://app.notion.com/p/Ansioso-pra-ver-o-Brasil-jogar-Evite-dores-de-cabe-a-com-acidentes-el-tricos-ou-danos-materiais-com-36c33d8db9d280bf8407fd6b26a8bd17"
     },
     {
       "title": "3 itens fundamentais para revisar no seu seguro de carro antes de pegar a estrada para o feriadão.",
@@ -4503,26 +4495,10 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convite confra junina ",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Convite-confra-junina-37933d8db9d28083858be359214cfd5e",
       "gestora": "Equipe",
       "date": "11/06"
-    },
-    {
-      "title": "Card Prefeitura de Fortaleza ",
-      "priority": "pppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Card-Prefeitura-de-Fortaleza-36c33d8db9d280068f9cdbee0a541fff",
-      "gestora": "Equipe",
-      "date": "12/06"
-    },
-    {
-      "title": "Card Prefeitura de Cascavel ",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Card-Prefeitura-de-Cascavel-36c33d8db9d280d19eddcd56b640cf1e",
-      "gestora": "Equipe",
-      "date": "29/05"
     },
     {
       "title": "Card Prefeitura de Maracanaú",
@@ -4544,6 +4520,14 @@ const DEMANDAS_EXTRAS = {
     }
   ],
   "Ortobom": [
+    {
+      "title": "Atualizar o valor da arte",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Atualizar-o-valor-da-arte-37433d8db9d280368c68cba0c27b45c8",
+      "gestora": "Equipe",
+      "date": "15/06"
+    },
     {
       "title": "Fazer artes em formato storys ",
       "priority": "pp",
@@ -4662,20 +4646,11 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "29/05"
     }
-  ],
-  "RR Advocacia": [
-    {
-      "title": "Fazer o Site | RR Advocacia",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Fazer-o-Site-RR-Advocacia-2f633d8db9d280328058c11b17ba148b",
-      "gestora": "Equipe",
-      "date": "25/05"
-    }
   ]
 };
 
 const CAPTACAO_DATA = {
+  "Ventana": "marcada",
   "Planos Seguros": "marcada",
   "Conecta Assessoria": "marcada",
   "Finseg Leal": "marcada",
@@ -4973,8 +4948,8 @@ const AGENDA_COUNTS = {
   },
   "Ventana": {
     "reuniao": 0,
-    "producao": 0,
-    "evento": 0
+    "producao": 1,
+    "evento": 1
   },
   "Univendas": {
     "reuniao": 0,
