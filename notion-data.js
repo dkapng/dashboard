@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/06/2026, 06:27:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/06/2026, 12:26:59 **/
 
-const LAST_UPDATE = '15/06/2026, 06:27:04';
+const LAST_UPDATE = '15/06/2026, 12:26:59';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -89,26 +89,26 @@ const FEED_DATA = {
   "Stratto": {
     "total": 13,
     "pronto": 7,
-    "postado": 2,
+    "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Juntos contra o HPV": {
     "total": 17,
     "pronto": 9,
     "postado": 2,
-    "agendado": 5,
+    "agendado": 7,
     "agendado_coord": 4,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Jota Diesel": {
     "total": 9,
     "pronto": 8,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Ventana": {
     "total": 0,
@@ -121,10 +121,10 @@ const FEED_DATA = {
   "Univendas": {
     "total": 13,
     "pronto": 6,
-    "postado": 0,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 1,
-    "a_agendar": 8,
+    "a_agendar": 7,
     "st-paused": null
   },
   "Terrartesã": {
@@ -138,10 +138,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Rede Pangeia": {
     "total": 10,
@@ -177,11 +177,11 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 9,
+    "pronto": 8,
     "postado": 0,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
@@ -192,12 +192,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Finseg Leal": {
-    "total": 14,
-    "pronto": 7,
+    "total": 13,
+    "pronto": 6,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -211,9 +211,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 6,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 3
   },
   "Daniel Maia Advocacia": {
     "total": 10,
@@ -227,17 +227,17 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 7,
     "postado": 1,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Solar Coworking": {
     "total": 16,
     "pronto": 12,
-    "postado": 2,
+    "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   }
 };
 
@@ -391,9 +391,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -535,12 +535,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "ItalaP": {
-    "total": 5,
+    "total": 4,
     "pronto": 3,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 3,
@@ -553,10 +553,10 @@ const STORIES_DATA = {
   "Finseg Leal": {
     "total": 4,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -585,10 +585,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 8,
     "pronto": 5,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Solar Coworking": {
     "total": 2,
@@ -949,7 +949,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A ilusão do Dia dos Namorados: Vender muito no dia 12 de junho pode quebrar o seu caixa no mês de julho. Você sabe o porquê?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [],
@@ -1017,14 +1017,12 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Saiu na mídia: Juntos Contra o HPV lança chatbot para ampliar o acesso à informação sobre o HPV",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Juntos-Contra-o-HPV-lan-a-chatbot-para-ampliar-o-acesso-informa-o-sobre-o-HPV-37c33d8db9d2807fba31e501670498d5"
     },
@@ -1187,9 +1185,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Muita gente não sabe, mas o SUS oferece tudo isso para prevenção e cuidado: \n💉 Vacinação 🧪 Exames preventivos🏥 Acompanhamento em saúde - Tudo de forma gratuita e acessível",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "11/06",
+      "date": "17/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1292,7 +1290,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Diagnóstico de motor a diesel: quando deve ser feito?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [],
@@ -1439,7 +1437,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que um bom plano de saúde evita dentro da sua empresa?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [],
@@ -1672,7 +1670,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Revisar tributos não é buscar vantagens. É garantir conformidade.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [],
@@ -2333,9 +2331,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A pior parte do exame nem sempre é a coleta.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "15/06",
+      "date": "16/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2412,9 +2410,11 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma doação pode ser o motivo de alguém continuar aqui.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/06",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "date": "15/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-doa-o-pode-ser-o-motivo-de-algu-m-continuar-aqui-Dia-Mundial-do-Doador-de-Sangue-Junho-verme-35e33d8db9d280ca9094ff6c61c74618"
@@ -2775,17 +2775,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-melhor-do-S-o-Jo-o-estar-onde-a-felicidade-acontece-Feliz-S-o-Jo-o-35e33d8db9d28011ac3bfc0f82fc5664"
-    },
-    {
-      "title": "Proteger uma vida nem sempre exige muito. Às vezes, exige apenas uma doação - Dia Mundial do Doador de Sangue",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/06",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Proteger-uma-vida-nem-sempre-exige-muito-s-vezes-exige-apenas-uma-doa-o-Dia-Mundial-do-Doador--35e33d8db9d280238cd0d359a6e84214"
     }
   ],
   "Di Gregório Buffet": [
@@ -2843,7 +2832,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Viajar sem preocupação com extravio de bagagem ou urgências médicas? O Seguro Viagem resolve.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/06",
       "missing": [],
@@ -2854,7 +2843,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Entenda como funciona a assistência rodoviária e o guincho do seu seguro nas estradas estaduais.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "15/06",
       "missing": [],
@@ -2876,7 +2865,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ansioso pra ver o Brasil jogar? Evite dores de cabeça com acidentes elétricos ou danos materiais com o Seguro Residencial.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [],
@@ -3109,7 +3098,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Todo mundo gosta de falar do ataque. Mas é a defesa que sustenta o jogo.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [],
@@ -3361,7 +3350,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você acha que falta tempo, mas talvez o problema seja o ambiente onde você trabalha.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [],
@@ -3747,14 +3736,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Descobriu que não estava protegido",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "17/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Descobriu-que-n-o-estava-protegido-36b33d8db9d280118148d7eff1687755"
     },
@@ -4164,19 +4151,6 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-36f33d8db9d28064a865d24a02a16aae"
     },
     {
-      "title": "Tem pelo menos um exame que você está adiando há mais de 6 meses.",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "16/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Tem-pelo-menos-um-exame-que-voc-est-adiando-h-mais-de-6-meses-36f33d8db9d280cc86f5cd83dab93995"
-    },
-    {
       "title": "Junho Laranja",
       "status": "agendado",
       "formato": "📱 Story",
@@ -4241,7 +4215,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Uma única doação pode ajudar até 4 pessoas.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "15/06",
       "missing": [],
@@ -4363,7 +4337,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário da Heliana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "15/06",
       "missing": [],
@@ -4509,21 +4483,11 @@ const DEMANDAS_EXTRAS = {
       "date": "25/05"
     }
   ],
-  "Conecta Assessoria": [
-    {
-      "title": "Aniversariantes",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Aniversariantes-37633d8db9d2804e831dd0a9aab06d3c",
-      "gestora": "Equipe",
-      "date": "10/06"
-    }
-  ],
   "Ortobom": [
     {
       "title": "Atualizar o valor da arte",
       "priority": "pp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. A implementar",
       "notionUrl": "https://app.notion.com/p/Atualizar-o-valor-da-arte-37433d8db9d280368c68cba0c27b45c8",
       "gestora": "Equipe",
       "date": "15/06"
@@ -4685,7 +4649,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 19
   },
   "Jota Diesel": {
@@ -4733,15 +4697,15 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Finseg Leal": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 13,
+    "total": 13
   },
   "Di Gregório Buffet": {
     "prontas": 1,
     "total": 1
   },
   "APROSSEG": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 14
   },
   "Daniel Maia Advocacia": {
@@ -4862,7 +4826,7 @@ const FORMAT_COUNTS = {
     "carrossel": 3,
     "foto": 0,
     "video": 2,
-    "story": 5
+    "story": 4
   },
   "Grupo Mulheres do Brasil": {
     "post": 16,
@@ -4872,7 +4836,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Finseg Leal": {
-    "post": 13,
+    "post": 12,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
