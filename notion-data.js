@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/06/2026, 16:11:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/06/2026, 18:59:54 **/
 
-const LAST_UPDATE = '15/06/2026, 16:11:47';
+const LAST_UPDATE = '15/06/2026, 18:59:54';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,7 +88,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 7,
+    "pronto": 9,
     "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
@@ -96,7 +96,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 17,
-    "pronto": 9,
+    "pronto": 12,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 4,
@@ -178,10 +178,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 15,
     "pronto": 11,
-    "postado": 0,
+    "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
@@ -926,10 +926,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-ano-de-2026-j-chegou-na-metade-O-plano-de-crescimento-que-voc-desenhou-em-janeiro-deu-lucro-ou--36c33d8db9d28089994aecce43fa4a04"
@@ -939,10 +937,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-dinheiro-n-o-desaparece-Ele-escapa-pelos-detalhes-36c33d8db9d280658e9eedd92382e097"
@@ -1092,10 +1088,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "18/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (interno)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Esque-a-o-esquema-antigo-O-SUS-atualizou-as-regras-do-jogo-36b33d8db9d280099cb7e0ce8603f152"
@@ -1118,10 +1112,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "16/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-a-sua-vacina-tamb-m-protege-quem-voc-nunca-viu-na-vida-36b33d8db9d280ce8d2df4a75e1b6e92"
@@ -1131,10 +1123,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-erro-comum-que-faz-as-pessoas-pensarem-que-o-HPV-s-afeta-mulheres-36b33d8db9d280929db6fb8b5e4a49ea"
@@ -2406,7 +2396,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma doação pode ser o motivo de alguém continuar aqui.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [],
@@ -4893,7 +4883,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Juntos contra o HPV": {
-    "reuniao": 3,
+    "reuniao": 4,
     "producao": 0,
     "evento": 0
   },
