@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/06/2026, 05:49:43 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/06/2026, 10:24:50 **/
 
-const LAST_UPDATE = '16/06/2026, 05:49:43';
+const LAST_UPDATE = '16/06/2026, 10:24:50';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -144,12 +144,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Rede Pangeia": {
-    "total": 10,
+    "total": 9,
     "pronto": 5,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Planos Seguros": {
     "total": 9,
@@ -232,12 +232,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Solar Coworking": {
-    "total": 16,
-    "pronto": 12,
-    "postado": 3,
+    "total": 15,
+    "pronto": 11,
+    "postado": 4,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 7
   }
 };
 
@@ -324,12 +324,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Rede Pangeia": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 2,
@@ -417,7 +417,7 @@ const VIDEO_DATA = {
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   }
 };
 
@@ -465,10 +465,10 @@ const STORIES_DATA = {
   "Jota Diesel": {
     "total": 3,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 1,
@@ -733,7 +733,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Grande formato, grande imersão. As pinturas do Travessias Híbridas transmitem a grandeza da criatividade de Hélio Rôla e Wilson Neto também no tamanho. Explore cada detalhe no Centro Cultural Banco do Nordeste, de 16 de maio a 18 de julho.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/06",
+      "date": "16/06",
       "missing": [
         "Design",
         "Legenda"
@@ -747,7 +747,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A cultura também está nos pequenos detalhes: Explore os personagens imersos no interior de cada pintura da Travessias Híbridas.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "16/06",
+      "date": "17/06",
       "missing": [
         "Design",
         "Legenda"
@@ -1741,7 +1741,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando foi a última vez que você conseguiu pensar no crescimento da sua equipe sem se preocupar com o caixa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/06",
+      "date": "22/06",
       "missing": [
         "Design",
         "Legenda"
@@ -1755,7 +1755,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua organização está pronta para o próximo passo? Então eu te espero amanhã!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/06",
+      "date": "26/06",
       "missing": [
         "Design",
         "Legenda"
@@ -1769,7 +1769,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Dia 20 de junho: uma pausa para pensar o futuro da sua organização.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/06",
+      "date": "20/06",
       "missing": [
         "Design",
         "Legenda"
@@ -1783,7 +1783,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A formação que eu gostaria de ter encontrado anos atrás, acontece no próximo sábado.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/06",
+      "date": "18/06",
       "missing": [
         "Design"
       ],
@@ -1793,23 +1793,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-forma-o-que-eu-gostaria-de-ter-encontrado-anos-atr-s-acontece-no-pr-ximo-s-bado-37233d8db9d2802a8cf0cedcc969c1f1"
     },
     {
-      "title": "Depois de anos acompanhando OSCs, percebi um padrão e eu quero quebrá-lo. Descubra como amanhã, às 11h!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Depois-de-anos-acompanhando-OSCs-percebi-um-padr-o-e-eu-quero-quebr-lo-Descubra-como-amanh-s-1-37233d8db9d280b58b62d5b7953f4db2"
-    },
-    {
       "title": "Os jovens querem trabalhar com propósito. Então por que tantas OSCs perdem talentos?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "15/06",
+      "date": "17/06",
       "missing": [
         "Legenda"
       ],
@@ -3152,8 +3139,32 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
-      "title": "E se sua empresa tivesse uma base pronta para funcionar?",
+      "title": "O melhor da vida profissional acontece quando as pessoas certas se encontram.",
       "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-melhor-da-vida-profissional-acontece-quando-as-pessoas-certas-se-encontram-38133d8db9d28093b5b0ff9d7f57f205"
+    },
+    {
+      "title": "O cliente marcou, você confirmou. Mas onde vai acontecer essa reunião?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-cliente-marcou-voc-confirmou-Mas-onde-vai-acontecer-essa-reuni-o-38133d8db9d28050a5cdcb66c75f2c51"
+    },
+    {
+      "title": "E se sua empresa tivesse uma base pronta para funcionar?",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "16/06",
       "missing": [],
@@ -3209,30 +3220,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-endere-o-da-sua-empresa-o-seu-endere-o-residencial-CUIDADO-36d33d8db9d2803b85b5cdf6a82349f2"
     },
     {
-      "title": "A Solar não promete sucesso. Promete que a estrutura não vai ser o seu problema.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-Solar-n-o-promete-sucesso-Promete-que-a-estrutura-n-o-vai-ser-o-seu-problema-36d33d8db9d280a9bff8f8a666b2a036"
-    },
-    {
-      "title": "O cliente marcou, você confirmou. Mas onde vai acontecer essa reunião?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "19/06",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-cliente-marcou-voc-confirmou-Mas-onde-vai-acontecer-essa-reuni-o-36d33d8db9d280bfaf96fe805d599c09"
-    },
-    {
       "title": "Psicólogo, a Solar tem a sala que o seu paciente merece.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3242,17 +3229,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Psic-logo-a-Solar-tem-a-sala-que-o-seu-paciente-merece-36d33d8db9d280ff98c4f05cd6aab754"
-    },
-    {
-      "title": "O melhor da vida profissional acontece quando as pessoas certas se encontram.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "18/06",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-melhor-da-vida-profissional-acontece-quando-as-pessoas-certas-se-encontram-36d33d8db9d2803e9f4dcc4397795e25"
     },
     {
       "title": "O cliente sente quando existe profissionalismo antes mesmo da reunião começar.",
@@ -3536,7 +3512,35 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Rede Pangeia": [
     {
-      "title": "Anúncio do curso (2)  ⭐",
+      "title": "Impacto Social",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Impacto-Social-38133d8db9d2808fafddf899cca67444"
+    },
+    {
+      "title": "Gestão e as OSC’s",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Gest-o-e-as-OSC-s-38133d8db9d2804eb8b8f52e4442b6d6"
+    },
+    {
+      "title": "Construindo algo novo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "16/06",
@@ -3547,49 +3551,7 @@ const LINHA_VIDEO_ITEMS = {
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/An-ncio-do-curso-2-37233d8db9d280c18583cb8f012bbc7e"
-    },
-    {
-      "title": "Anúncio do curso ⭐",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "13/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/An-ncio-do-curso-37233d8db9d2809f8412eb9b30e718a0"
-    },
-    {
-      "title": "O momento em que uma boa notícia vira uma preocupação",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "12/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-momento-em-que-uma-boa-not-cia-vira-uma-preocupa-o-37233d8db9d28052b37ced93839b4846"
-    },
-    {
-      "title": "Depois de anos acompanhando OSCs, percebi um padrão",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "10/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Depois-de-anos-acompanhando-OSCs-percebi-um-padr-o-37233d8db9d280ef88d4c5720bfd3d8d"
+      "notionUrl": "https://app.notion.com/p/Construindo-algo-novo-38133d8db9d280878bead53c689508a4"
     }
   ],
   "Planos Seguros": [
@@ -3809,7 +3771,22 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Bate-papo-amil-36c33d8db9d28000991ed93941e33552"
     }
   ],
-  "Solar Coworking": []
+  "Solar Coworking": [
+    {
+      "title": "Copa ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "19/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Copa-38133d8db9d280589053d0af8c7b7888"
+    }
+  ]
 };
 
 const LINHA_STORIES_ITEMS = {
@@ -3857,7 +3834,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/06",
       "missing": [],
@@ -4655,8 +4632,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Rede Pangeia": {
-    "prontas": 6,
-    "total": 14
+    "prontas": 5,
+    "total": 12
   },
   "Planos Seguros": {
     "prontas": 10,
@@ -4699,7 +4676,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 16,
+    "prontas": 15,
     "total": 16
   }
 };
@@ -4776,10 +4753,10 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Rede Pangeia": {
-    "post": 6,
+    "post": 5,
     "carrossel": 4,
     "foto": 0,
-    "video": 4,
+    "video": 3,
     "story": 2
   },
   "Planos Seguros": {
@@ -4853,10 +4830,10 @@ const FORMAT_COUNTS = {
     "story": 8
   },
   "Solar Coworking": {
-    "post": 16,
+    "post": 15,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 2
   }
 };
