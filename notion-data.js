@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/06/2026, 18:28:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/06/2026, 20:03:51 **/
 
-const LAST_UPDATE = '16/06/2026, 18:28:08';
+const LAST_UPDATE = '16/06/2026, 20:03:51';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -161,7 +161,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 12,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 0,
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 1,
@@ -218,7 +218,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 10,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -1036,7 +1036,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-prorroga-o-est-acabando-MENINAS-E-MENINOS-DE-15-A-19-ANOS-Vacina-contra-o-HPV-dispon-vel-pelo-38133d8db9d2809896add5920a0182b6"
     },
     {
-      "title": "MENINAS DE 15 A 19 ANOS\nÚltimos dia para tomar sua vacina contra o HPV! Procure o posto de saúde ou UBS mais próxima até 30 de Junho! Não perca essa oportunidade!",
+      "title": "MENINAS DE 15 A 19 ANOS\nÚltimos dias para tomar sua vacina contra o HPV! Procure o posto de saúde ou UBS mais próxima até 30 de Junho! Não perca essa oportunidade!",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "19/06",
@@ -1046,7 +1046,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/MENINAS-DE-15-A-19-ANOS-ltimos-dia-para-tomar-sua-vacina-contra-o-HPV-Procure-o-posto-de-sa-de-ou--38133d8db9d280b9aa12ebf942c586cc"
+      "notionUrl": "https://app.notion.com/p/MENINAS-DE-15-A-19-ANOS-ltimos-dias-para-tomar-sua-vacina-contra-o-HPV-Procure-o-posto-de-sa-de-ou-38133d8db9d280b9aa12ebf942c586cc"
     },
     {
       "title": "Saiu na mídia: Juntos Contra o HPV lança chatbot para ampliar o acesso à informação sobre o HPV",
@@ -2000,10 +2000,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Pare-de-pagar-impostos-sem-antes-revisar-sua-estrat-gia-tribut-ria-37333d8db9d280a28ee6c0f9386655e5"
@@ -2014,10 +2013,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-dono-do-neg-cio-ou-ref-m-da-opera-o-37333d8db9d280a5b3baf3ef88195c1a"
@@ -2478,10 +2476,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-gente-vai-sorrir-sim-e-vai-sorrir-porque-tamb-m-temos-um-Oscar-em-casa-Dia-do-cinema-nacional-36b33d8db9d280de965ed5b03abff006"
@@ -2898,7 +2895,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Estado-tomou-uma-decis-o-que-prejudica-o-seu-neg-cio-Sabia-que-voc-pode-questionar-isso-36c33d8db9d280949659f8d4cbff539e"
@@ -2954,10 +2951,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Marca-n-o-registrada-marca-de-ningu-m-Como-proteger-o-que-voc-construiu-36c33d8db9d280d5b29af56738cf1e64"
