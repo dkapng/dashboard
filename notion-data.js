@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/06/2026, 15:13:45 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/06/2026, 18:28:08 **/
 
-const LAST_UPDATE = '16/06/2026, 15:13:45';
+const LAST_UPDATE = '16/06/2026, 18:28:08';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 16,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 2,
     "agendado": 8,
     "agendado_coord": 0,
@@ -90,9 +90,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 9,
     "postado": 3,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 16,
@@ -128,12 +128,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Terrartesã": {
-    "total": 8,
+    "total": 7,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "RR Advocacia": {
     "total": 13,
@@ -147,9 +147,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 5,
     "postado": 2,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Planos Seguros": {
     "total": 9,
@@ -179,17 +179,18 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 11,
     "postado": 1,
-    "agendado": 8,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
-    "total": 16,
-    "pronto": 10,
-    "postado": 2,
+    "total": 18,
+    "pronto": 13,
+    "postado": 3,
     "agendado": 6,
     "agendado_coord": 1,
-    "a_agendar": 7
+    "a_agendar": 7,
+    "st-paused": null
   },
   "Finseg Leal": {
     "total": 13,
@@ -270,9 +271,9 @@ const VIDEO_DATA = {
     "total": 3,
     "pronto": 3,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 2,
@@ -325,11 +326,11 @@ const VIDEO_DATA = {
   },
   "Rede Pangeia": {
     "total": 3,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 2,
@@ -353,7 +354,7 @@ const VIDEO_DATA = {
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 1,
@@ -746,10 +747,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Grande-formato-grande-imers-o-As-pinturas-da-Travessias-H-bridas-transmitem-grandeza-e-criatividad-35233d8db9d280efbea9e564be798c4a"
@@ -934,7 +934,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O ano de 2026 já chegou na metade. O plano de crescimento que você desenhou em janeiro deu lucro ou virou desculpa?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [],
@@ -945,7 +945,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O dinheiro não desaparece. Ele escapa pelos detalhes.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [],
@@ -1474,19 +1474,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Terrartesã": [
     {
-      "title": "O fazer artesanal conquistou um novo reconhecimento.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "16/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-fazer-artesanal-conquistou-um-novo-reconhecimento-38133d8db9d28038bc2ffdd574aedfff"
-    },
-    {
       "title": "O valor do trabalho também está na história de quem o constrói. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1771,11 +1758,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-20-de-junho-uma-pausa-para-pensar-o-futuro-da-sua-organiza-o-37233d8db9d2806c9101ddc083a73909"
     },
@@ -1794,14 +1780,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Os jovens querem trabalhar com propósito. Então por que tantas OSCs perdem talentos?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "17/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-jovens-querem-trabalhar-com-prop-sito-Ent-o-por-que-tantas-OSCs-perdem-talentos-37233d8db9d280beaf56c8d523723084"
     },
@@ -2217,7 +2201,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu corpo anda tentando chamar sua atenção?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "19/06",
       "missing": [],
@@ -2280,7 +2264,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O homem costuma resolver tudo. Menos quando o assunto é a própria saúde.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [],
@@ -2380,6 +2364,28 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "O estado enxergou o que a gente já constrói há anos! A nova Lei do Artesão é uma vitória e precisamos celebrá-la.",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
+      "date": "16/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-estado-enxergou-o-que-a-gente-j-constr-i-h-anos-A-nova-Lei-do-Artes-o-uma-vit-ria-e-precisamo-38133d8db9d2800090e1c4559f9013c7"
+    },
+    {
+      "title": "\n",
+      "status": "st-paused",
+      "formato": "🎠 Carrossel",
+      "date": "16/06",
+      "missing": [],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-reconhecimento-chegou-lei-A-import-ncia-do-artesanato-j-era-uma-realidade-38133d8db9d280bb86c8f8ca0b857eb3"
+    },
+    {
       "title": "Feliz aniversário, Cleide",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -2434,10 +2440,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-j-percebeu-quem-costuma-ocupar-os-espa-os-de-poder-e-quem-quase-nunca-est-l-36b33d8db9d2807ebe1dd9ed8e54e2fb"
@@ -3329,14 +3334,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "18/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-36c33d8db9d280f38f8bd57b5fc36de5"
     },
@@ -3523,16 +3526,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Construindo algo novo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "16/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Construindo-algo-novo-38133d8db9d280878bead53c689508a4"
     }
   ],
@@ -3564,6 +3564,20 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Plannea": [],
   "Ortobom": [
+    {
+      "title": "São João",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "25/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/S-o-Jo-o-38133d8db9d280c990dfe46f52a93e03"
+    },
     {
       "title": "Tudo junto ",
       "status": "postado",
@@ -4402,6 +4416,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "APROSSEG": [
+    {
+      "title": "Edição de vídeo",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Edi-o-de-v-deo-38133d8db9d2808bad52d661beebbe9d",
+      "gestora": "Equipe",
+      "date": "19/06"
+    }
+  ],
   "Conecta Assessoria": [
     {
       "title": "Assinatura de email",
@@ -4628,7 +4652,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Stratto": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 16
   },
   "Juntos contra o HPV": {
@@ -4648,15 +4672,15 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Terrartesã": {
-    "prontas": 7,
-    "total": 8
+    "prontas": 6,
+    "total": 7
   },
   "RR Advocacia": {
     "prontas": 13,
     "total": 17
   },
   "Rede Pangeia": {
-    "prontas": 5,
+    "prontas": 8,
     "total": 12
   },
   "Planos Seguros": {
@@ -4669,15 +4693,15 @@ const LEGENDAS_DATA = {
   },
   "Ortobom": {
     "prontas": 12,
-    "total": 14
+    "total": 15
   },
   "ItalaP": {
     "prontas": 16,
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 9,
-    "total": 16
+    "prontas": 11,
+    "total": 18
   },
   "Finseg Leal": {
     "prontas": 13,
@@ -4689,7 +4713,7 @@ const LEGENDAS_DATA = {
   },
   "APROSSEG": {
     "prontas": 12,
-    "total": 14
+    "total": 13
   },
   "Daniel Maia Advocacia": {
     "prontas": 11,
@@ -4764,7 +4788,7 @@ const FORMAT_COUNTS = {
   },
   "Terrartesã": {
     "post": 7,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 1
@@ -4801,7 +4825,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 2,
     "foto": 0,
-    "video": 6,
+    "video": 7,
     "story": 2
   },
   "ItalaP": {
@@ -4813,7 +4837,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 16,
-    "carrossel": 0,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 3
