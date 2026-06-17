@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 09:01:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 13:10:05 **/
 
-const LAST_UPDATE = '17/06/2026, 09:01:57';
+const LAST_UPDATE = '17/06/2026, 13:10:05';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -138,10 +138,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 9,
-    "postado": 5,
+    "postado": 6,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Rede Pangeia": {
     "total": 9,
@@ -220,9 +220,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 8,
     "postado": 2,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -235,10 +235,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 15,
     "pronto": 11,
-    "postado": 4,
+    "postado": 5,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   }
 };
 
@@ -1645,7 +1645,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Recuperar valores também é uma forma de fortalecer o caixa da empresa.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [],
@@ -2898,7 +2898,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O Estado tomou uma decisão que prejudica o seu negócio. Sabia que você pode questionar isso?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "19/06",
       "missing": [],
@@ -2955,7 +2955,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Marca não registrada é marca de ninguém. Como proteger o que você construiu.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [],
@@ -3248,7 +3248,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dois endereços, uma solução. Solar Coworking.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/06",
       "missing": [],
@@ -3784,11 +3784,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "26/06",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Localiza-o-38133d8db9d280b78eeedcb33ca83278"
     },
@@ -3798,11 +3797,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "19/06",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Copa-38133d8db9d280589053d0af8c7b7888"
     }
@@ -4430,10 +4428,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "Assinatura de email",
+      "title": "Assinatura de e-mail para Mylena",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-email-38133d8db9d280c6a38ccfe6f0944627",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-Mylena-38133d8db9d280c6a38ccfe6f0944627",
       "gestora": "Equipe",
       "date": "17/06"
     }
@@ -4446,14 +4444,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Avatar-para-WhatsApp-logo-da-stratto-cliente-38033d8db9d2805eaf95e4810fc3de5a",
       "gestora": "Equipe",
       "date": "16/06"
-    },
-    {
-      "title": "Video com imagens",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Video-com-imagens-37433d8db9d2807e81d6f3bf8f91640e",
-      "gestora": "Equipe",
-      "date": "15/06"
     }
   ],
   "Juntos contra o HPV": [
@@ -4726,7 +4716,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 15,
+    "prontas": 17,
     "total": 17
   }
 };
