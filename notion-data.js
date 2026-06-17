@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/06/2026, 20:03:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/06/2026, 22:59:33 **/
 
-const LAST_UPDATE = '16/06/2026, 20:03:51';
+const LAST_UPDATE = '16/06/2026, 22:59:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -137,7 +137,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 7,
+    "pronto": 9,
     "postado": 5,
     "agendado": 2,
     "agendado_coord": 0,
@@ -218,7 +218,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 10,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -1624,10 +1624,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-prote-o-de-dados-j-faz-parte-da-reputa-o-da-sua-empresa-37333d8db9d2806683bfe257ab627d19"
@@ -1637,10 +1635,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Recuperar-valores-tamb-m-uma-forma-de-fortalecer-o-caixa-da-empresa-37333d8db9d280dc8fb7f856fe1564d6"
@@ -2892,10 +2888,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Estado-tomou-uma-decis-o-que-prejudica-o-seu-neg-cio-Sabia-que-voc-pode-questionar-isso-36c33d8db9d280949659f8d4cbff539e"
@@ -4116,7 +4110,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Agenda-mensal-37233d8db9d28087b48acdbe12ff79b4"
     },
     {
-      "title": "Story/stories",
+      "title": "Você conseguiu cumprir sua meta de cuidar mais da saúde?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "25/06",
@@ -4126,7 +4120,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-36f33d8db9d28064a865d24a02a16aae"
+      "notionUrl": "https://app.notion.com/p/Voc-conseguiu-cumprir-sua-meta-de-cuidar-mais-da-sa-de-36f33d8db9d28064a865d24a02a16aae"
     },
     {
       "title": "Junho Laranja",
@@ -4179,7 +4173,7 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Finseg Leal": [
     {
-      "title": "Story/stories",
+      "title": "Talvez sua proteção já não acompanhe mais a sua realidade.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "25/06",
@@ -4189,7 +4183,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-37233d8db9d280f1b7a1fd1fd6c91004"
+      "notionUrl": "https://app.notion.com/p/Talvez-sua-prote-o-j-n-o-acompanhe-mais-a-sua-realidade-37233d8db9d280f1b7a1fd1fd6c91004"
     },
     {
       "title": "Uma única doação pode ajudar até 4 pessoas.",
