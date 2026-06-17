@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 15:39:40 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 18:01:22 **/
 
-const LAST_UPDATE = '17/06/2026, 15:39:40';
+const LAST_UPDATE = '17/06/2026, 18:01:22';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 17,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 2,
     "agendado": 8,
     "agendado_coord": 0,
@@ -608,10 +608,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Gostou-de-uma-obra-Ela-pode-ser-sua-Acesse-nosso-cat-logo-o-link-t-na-Bio-38233d8db9d28083a82fc2ae5646c1f2"
@@ -4402,6 +4400,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Di Gregório Buffet": [
+    {
+      "title": "Portal em formato de chapéu",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Portal-em-formato-de-chap-u-38233d8db9d2801eb584c3b1d80314a9",
+      "gestora": "Equipe",
+      "date": "18/06"
+    }
+  ],
   "Stratto": [
     {
       "title": "Capa para whatsapp",
@@ -4556,14 +4564,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
-    },
-    {
-      "title": "Pacote de demandas de identidade visual #01",
-      "priority": "p",
-      "rawStatus": "2. Pausada",
-      "notionUrl": "https://app.notion.com/p/Pacote-de-demandas-de-identidade-visual-01-27033d8db9d2808993bbc4483bbb3a31",
-      "gestora": "Equipe",
-      "date": "28/02"
     }
   ],
   "Tramix": [
