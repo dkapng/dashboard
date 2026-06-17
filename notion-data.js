@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 04:16:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 09:01:57 **/
 
-const LAST_UPDATE = '17/06/2026, 04:16:03';
+const LAST_UPDATE = '17/06/2026, 09:01:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,12 +62,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 16,
+    "total": 17,
     "pronto": 13,
     "postado": 2,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 5,
+    "a_agendar": 6,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -604,6 +604,19 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
+      "title": "Gostou de uma obra? Ela pode ser sua! Acesse nosso catálogo, o link tá na Bio!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Gostou-de-uma-obra-Ela-pode-ser-sua-Acesse-nosso-cat-logo-o-link-t-na-Bio-38233d8db9d28083a82fc2ae5646c1f2"
+    },
+    {
       "title": "O diálogo que virou arte: Conheça os bastidores de \"Travessias Híbridas\"!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -811,7 +824,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Como saber se sua linha é de qualidade?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/06",
+      "date": "19/06",
       "missing": [
         "Design",
         "Legenda"
@@ -825,7 +838,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Zíperes para diferentes aplicações, estique suas possibilidades com a Tramix",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/06",
+      "date": "18/06",
       "missing": [
         "Legenda"
       ],
@@ -4611,7 +4624,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Ventana": "marcada",
-  "Planos Seguros": "marcada",
+  "Planos Seguros": "confirmada",
   "Conecta Assessoria": "marcada",
   "Finseg Leal": "marcada",
   "Ortobom": "confirmada",
@@ -4629,8 +4642,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 13,
-    "total": 17
+    "prontas": 14,
+    "total": 18
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -4720,7 +4733,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 13,
+    "post": 14,
     "carrossel": 3,
     "foto": 0,
     "video": 1,
