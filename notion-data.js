@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 13:10:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 15:39:40 **/
 
-const LAST_UPDATE = '17/06/2026, 13:10:05';
+const LAST_UPDATE = '17/06/2026, 15:39:40';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -234,11 +234,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 15,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 5,
-    "agendado": 4,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 3
   }
 };
 
@@ -349,12 +349,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 4,
-    "pronto": 4,
+    "total": 5,
+    "pronto": 5,
     "postado": 3,
-    "agendado": 0,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 0
   },
   "ItalaP": {
     "total": 1,
@@ -416,9 +416,9 @@ const VIDEO_DATA = {
     "total": 0,
     "pronto": 0,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   }
 };
 
@@ -611,7 +611,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Gostou-de-uma-obra-Ela-pode-ser-sua-Acesse-nosso-cat-logo-o-link-t-na-Bio-38233d8db9d28083a82fc2ae5646c1f2"
@@ -3132,7 +3132,7 @@ const LINHA_FEED_ITEMS = {
   "Solar Coworking": [
     {
       "title": "O melhor da vida profissional acontece quando as pessoas certas se encontram.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [],
@@ -3143,13 +3143,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O cliente marcou, você confirmou. Mas onde vai acontecer essa reunião?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "23/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 3. N/A",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-cliente-marcou-voc-confirmou-Mas-onde-vai-acontecer-essa-reuni-o-38133d8db9d28050a5cdcb66c75f2c51"
@@ -3213,7 +3211,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Psicólogo, a Solar tem a sala que o seu paciente merece.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [],
@@ -3567,18 +3565,15 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [],
   "Ortobom": [
     {
-      "title": "São João",
-      "status": "a_agendar",
+      "title": "Copa ",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "25/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/S-o-Jo-o-38133d8db9d280c990dfe46f52a93e03"
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Copa-38233d8db9d280a5ac65f35fdfb059ce"
     },
     {
       "title": "Tudo junto ",
@@ -3592,18 +3587,15 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Tudo-junto-38133d8db9d280e0853cd4b5734c6268"
     },
     {
-      "title": "Copa ",
-      "status": "a_agendar",
+      "title": "Liberty ",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "19/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "date": "30/06",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Copa-38133d8db9d2803baa88e03fd91fbb39"
+      "notionUrl": "https://app.notion.com/p/Liberty-37233d8db9d2808ea730c59b6f211d98"
     },
     {
       "title": "Todo tipo de colchão ",
@@ -3618,22 +3610,20 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Desconforto na coluna",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "23/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Desconforto-na-coluna-36d33d8db9d2803cabefcb8849b807cb"
     },
     {
       "title": "Conte onde está sentindo dor ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "17/06",
+      "date": "18/06",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
@@ -3780,12 +3770,10 @@ const LINHA_VIDEO_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Localização",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/06",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3793,12 +3781,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Copa ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "19/06",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -4416,6 +4402,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Stratto": [
+    {
+      "title": "Capa para whatsapp",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Capa-para-whatsapp-38233d8db9d280c0af3fd852d8fe98dd",
+      "gestora": "Equipe",
+      "date": "19/06"
+    },
+    {
+      "title": "Apresentação na identidade",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
+      "gestora": "Equipe",
+      "date": "22/06"
+    },
+    {
+      "title": "Avatar para WhatsApp - logo da stratto + cliente",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Avatar-para-WhatsApp-logo-da-stratto-cliente-38033d8db9d2805eaf95e4810fc3de5a",
+      "gestora": "Equipe",
+      "date": "16/06"
+    }
+  ],
   "APROSSEG": [
     {
       "title": "Edição de vídeo",
@@ -4434,16 +4446,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-Mylena-38133d8db9d280c6a38ccfe6f0944627",
       "gestora": "Equipe",
       "date": "17/06"
-    }
-  ],
-  "Stratto": [
-    {
-      "title": "Avatar para WhatsApp - logo da stratto + cliente",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Avatar-para-WhatsApp-logo-da-stratto-cliente-38033d8db9d2805eaf95e4810fc3de5a",
-      "gestora": "Equipe",
-      "date": "16/06"
     }
   ],
   "Juntos contra o HPV": [
@@ -4684,7 +4686,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Ortobom": {
-    "prontas": 12,
+    "prontas": 15,
     "total": 15
   },
   "ItalaP": {
