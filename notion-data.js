@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 13:22:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 15:39:57 **/
 
-const LAST_UPDATE = '18/06/2026, 13:22:50';
+const LAST_UPDATE = '18/06/2026, 15:39:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -144,12 +144,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Rede Pangeia": {
-    "total": 9,
+    "total": 7,
     "pronto": 5,
     "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 9,
@@ -1735,7 +1735,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando foi a última vez que você conseguiu pensar no crescimento da sua equipe sem se preocupar com o caixa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/06",
+      "date": "19/06",
       "missing": [
         "Design",
         "Legenda"
@@ -1744,20 +1744,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-conseguiu-pensar-no-crescimento-da-sua-equipe-sem-se-preocupar-com--37233d8db9d280cda618d30ccfb98c2a"
-    },
-    {
-      "title": "Sua organização está pronta para o próximo passo? Então eu te espero amanhã!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-organiza-o-est-pronta-para-o-pr-ximo-passo-Ent-o-eu-te-espero-amanh-37233d8db9d280b4b268dafc728b0c0d"
     },
     {
       "title": "Dia 20 de junho: uma pausa para pensar o futuro da sua organização.",
@@ -1771,19 +1757,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-20-de-junho-uma-pausa-para-pensar-o-futuro-da-sua-organiza-o-37233d8db9d2806c9101ddc083a73909"
-    },
-    {
-      "title": "A formação que eu gostaria de ter encontrado anos atrás, acontece no próximo sábado.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "18/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-forma-o-que-eu-gostaria-de-ter-encontrado-anos-atr-s-acontece-no-pr-ximo-s-bado-37233d8db9d2802a8cf0cedcc969c1f1"
     },
     {
       "title": "Os jovens querem trabalhar com propósito. Então por que tantas OSCs perdem talentos?",
@@ -4664,8 +4637,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Rede Pangeia": {
-    "prontas": 8,
-    "total": 12
+    "prontas": 7,
+    "total": 10
   },
   "Planos Seguros": {
     "prontas": 10,
@@ -4785,7 +4758,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Rede Pangeia": {
-    "post": 5,
+    "post": 3,
     "carrossel": 4,
     "foto": 0,
     "video": 3,
