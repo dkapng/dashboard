@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 09:46:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 13:22:50 **/
 
-const LAST_UPDATE = '18/06/2026, 09:46:49';
+const LAST_UPDATE = '18/06/2026, 13:22:50';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -105,10 +105,10 @@ const FEED_DATA = {
   "Jota Diesel": {
     "total": 9,
     "pronto": 8,
-    "postado": 1,
+    "postado": 2,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 0,
@@ -594,10 +594,10 @@ const STORIES_DATA = {
   "Solar Coworking": {
     "total": 2,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   }
 };
 
@@ -1223,7 +1223,7 @@ const LINHA_FEED_ITEMS = {
   "Jota Diesel": [
     {
       "title": "Rodar na reserva pode comprometer o sistema diesel.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/06",
       "missing": [],
@@ -4381,7 +4381,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "18/06",
       "missing": [],
@@ -4394,11 +4394,61 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Arte para o sympla",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Arte-para-o-sympla-38333d8db9d28011b8b5eb0414fb673b",
+      "gestora": "Equipe",
+      "date": "22/06"
+    },
+    {
+      "title": "Flyer para postar no Instagram e enviar no WhatsApp",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Flyer-para-postar-no-Instagram-e-enviar-no-WhatsApp-38333d8db9d28078ab0bf8aef00add66",
+      "gestora": "Equipe",
+      "date": "22/06"
+    },
+    {
+      "title": "Summit Mulheres nas Profissões | Lenço",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Len-o-37433d8db9d2808583a7de81f961c5e8",
+      "gestora": "Equipe",
+      "date": "09T11:00:00.000/06"
+    },
+    {
+      "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
+      "gestora": "Equipe",
+      "date": "09T11:00:00.000/06"
+    },
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    },
+    {
+      "title": "Comprovações no portfólio cultural",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Comprova-es-no-portf-lio-cultural-36b33d8db9d280c883d9df32d5cb3a19",
+      "gestora": "Equipe",
+      "date": "25/05"
+    }
+  ],
   "Di Gregório Buffet": [
     {
       "title": "Portal em formato de chapéu",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Portal-em-formato-de-chap-u-38233d8db9d2801eb584c3b1d80314a9",
       "gestora": "Equipe",
       "date": "18/06"
@@ -4422,10 +4472,10 @@ const DEMANDAS_EXTRAS = {
       "date": "22/06"
     },
     {
-      "title": "Avatar para WhatsApp - logo da stratto + cliente",
+      "title": "Avatar para WhatsApp com logo da Stratto + cliente",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Avatar-para-WhatsApp-logo-da-stratto-cliente-38033d8db9d2805eaf95e4810fc3de5a",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Avatar-para-WhatsApp-com-logo-da-Stratto-cliente-38033d8db9d2805eaf95e4810fc3de5a",
       "gestora": "Equipe",
       "date": "16/06"
     }
@@ -4434,7 +4484,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Edição de vídeo",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Edi-o-de-v-deo-38133d8db9d2808bad52d661beebbe9d",
       "gestora": "Equipe",
       "date": "19/06"
@@ -4452,10 +4502,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Video para edital",
+      "title": "Vídeo para edital",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Video-para-edital-37b33d8db9d280108508c134a33dae34",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/V-deo-para-edital-37b33d8db9d280108508c134a33dae34",
       "gestora": "Equipe",
       "date": "20/06"
     },
@@ -4494,40 +4544,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
       "gestora": "Equipe",
       "date": "05/06"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Summit Mulheres nas Profissões | Lenço",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Len-o-37433d8db9d2808583a7de81f961c5e8",
-      "gestora": "Equipe",
-      "date": "09T11:00:00.000/06"
-    },
-    {
-      "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
-      "gestora": "Equipe",
-      "date": "09T11:00:00.000/06"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
-    },
-    {
-      "title": "Comprovações no portfólio cultural",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Comprova-es-no-portf-lio-cultural-36b33d8db9d280c883d9df32d5cb3a19",
-      "gestora": "Equipe",
-      "date": "25/05"
     }
   ],
   "Terrartesã": [
