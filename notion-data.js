@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 15:39:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 18:18:09 **/
 
-const LAST_UPDATE = '18/06/2026, 15:39:57';
+const LAST_UPDATE = '18/06/2026, 18:18:09';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -144,12 +144,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Rede Pangeia": {
-    "total": 7,
+    "total": 6,
     "pronto": 5,
     "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 9,
@@ -389,10 +389,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 4,
-    "pronto": 4,
+    "total": 5,
+    "pronto": 5,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -1744,19 +1744,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-conseguiu-pensar-no-crescimento-da-sua-equipe-sem-se-preocupar-com--37233d8db9d280cda618d30ccfb98c2a"
-    },
-    {
-      "title": "Dia 20 de junho: uma pausa para pensar o futuro da sua organização.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "20/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-20-de-junho-uma-pausa-para-pensar-o-futuro-da-sua-organiza-o-37233d8db9d2806c9101ddc083a73909"
     },
     {
       "title": "Os jovens querem trabalhar com propósito. Então por que tantas OSCs perdem talentos?",
@@ -3625,6 +3612,17 @@ const LINHA_VIDEO_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Video da Geórgia ",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "18/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Video-da-Ge-rgia-38333d8db9d280caad0df1a9d79b2fb0"
+    },
+    {
       "title": "Cliente favorito",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -4637,8 +4635,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Rede Pangeia": {
-    "prontas": 7,
-    "total": 10
+    "prontas": 6,
+    "total": 9
   },
   "Planos Seguros": {
     "prontas": 10,
@@ -4669,8 +4667,8 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "APROSSEG": {
-    "prontas": 12,
-    "total": 13
+    "prontas": 13,
+    "total": 14
   },
   "Daniel Maia Advocacia": {
     "prontas": 11,
@@ -4758,7 +4756,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Rede Pangeia": {
-    "post": 3,
+    "post": 2,
     "carrossel": 4,
     "foto": 0,
     "video": 3,
@@ -4817,7 +4815,7 @@ const FORMAT_COUNTS = {
     "post": 7,
     "carrossel": 2,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 5
   },
   "Daniel Maia Advocacia": {
