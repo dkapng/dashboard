@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/06/2026, 21:11:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 02:13:11 **/
 
-const LAST_UPDATE = '17/06/2026, 21:11:46';
+const LAST_UPDATE = '18/06/2026, 02:13:11';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4484,29 +4484,11 @@ const DEMANDAS_EXTRAS = {
       "date": "12T12:00:00.000/06"
     }
   ],
-  "Univendas": [
-    {
-      "title": "Convite confra junina ",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convite-confra-junina-37933d8db9d28083858be359214cfd5e",
-      "gestora": "Equipe",
-      "date": "11/06"
-    },
-    {
-      "title": "Card Prefeitura de Maracanaú",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Card-Prefeitura-de-Maracana-36b33d8db9d2801fac77ee1caafa8ead",
-      "gestora": "Equipe",
-      "date": "25/05"
-    }
-  ],
   "Ortobom": [
     {
       "title": "Atualizar o valor da arte",
       "priority": "pp",
-      "rawStatus": "2. A implementar",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Atualizar-o-valor-da-arte-37433d8db9d280368c68cba0c27b45c8",
       "gestora": "Equipe",
       "date": "15/06"
@@ -4538,6 +4520,14 @@ const DEMANDAS_EXTRAS = {
       "date": "09T11:00:00.000/06"
     },
     {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    },
+    {
       "title": "Comprovações no portfólio cultural",
       "priority": "pppp",
       "rawStatus": "2. Em aprovação",
@@ -4564,16 +4554,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
-    }
-  ],
-  "Tramix": [
-    {
-      "title": "Cartões de visita",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Cart-es-de-visita-31833d8db9d2808e9178c85183031e68",
-      "gestora": "Equipe",
-      "date": "03/03"
     }
   ],
   "Finseg Leal": [
