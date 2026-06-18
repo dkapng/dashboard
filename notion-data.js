@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 06:51:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 09:46:49 **/
 
-const LAST_UPDATE = '18/06/2026, 06:51:02';
+const LAST_UPDATE = '18/06/2026, 09:46:49';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -187,9 +187,9 @@ const FEED_DATA = {
     "total": 18,
     "pronto": 14,
     "postado": 3,
-    "agendado": 6,
+    "agendado": 9,
     "agendado_coord": 1,
-    "a_agendar": 7,
+    "a_agendar": 4,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -607,7 +607,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Gostou de uma obra? Ela pode ser sua! Acesse nosso catálogo, o link tá na Bio!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/06",
+      "date": "18/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -833,7 +833,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Como-saber-se-sua-linha-de-qualidade-37a33d8db9d2802aa8f3c28c014cac73"
     },
     {
-      "title": "Zíperes para diferentes aplicações, estique suas possibilidades com a Tramix",
+      "title": "Zíperes para diferentes aplicações, abra novas possibilidades com a Tramix",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/06",
@@ -843,7 +843,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Z-peres-para-diferentes-aplica-es-estique-suas-possibilidades-com-a-Tramix-37a33d8db9d280e09be5ce1374dfb6ef"
+      "notionUrl": "https://app.notion.com/p/Z-peres-para-diferentes-aplica-es-abra-novas-possibilidades-com-a-Tramix-37a33d8db9d280e09be5ce1374dfb6ef"
     },
     {
       "title": "70 cores porque inspiração também precisa de variedade.",
@@ -2428,27 +2428,23 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Hoje tem Brasil na copa e a pergunta é: Por que meninas ainda crescem ouvindo que futebol “não é coisa de mulher”?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "19/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hoje-tem-Brasil-na-copa-e-a-pergunta-Por-que-meninas-ainda-crescem-ouvindo-que-futebol-n-o-coi-36b33d8db9d280d7a964d81aebc8786e"
     },
     {
       "title": "Você já percebeu quem costuma ocupar os espaços de poder e quem quase nunca está lá?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "17/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "18/06",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-j-percebeu-quem-costuma-ocupar-os-espa-os-de-poder-e-quem-quase-nunca-est-l-36b33d8db9d2807ebe1dd9ed8e54e2fb"
     },
@@ -2479,14 +2475,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A gente vai sorrir sim e vai sorrir porque também temos um Oscar em casa! (Dia do cinema nacional)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "19/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-gente-vai-sorrir-sim-e-vai-sorrir-porque-tamb-m-temos-um-Oscar-em-casa-Dia-do-cinema-nacional-36b33d8db9d280de965ed5b03abff006"
     },
@@ -4674,7 +4668,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 11,
+    "prontas": 14,
     "total": 18
   },
   "Finseg Leal": {
