@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 09:00:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 12:33:13 **/
 
-const LAST_UPDATE = '19/06/2026, 09:00:24';
+const LAST_UPDATE = '19/06/2026, 12:33:13';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -163,9 +163,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 8,
     "postado": 0,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Ortobom": {
     "total": 8,
@@ -1054,7 +1054,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/MENINAS-DE-15-A-19-ANOS-ltimos-dias-para-tomar-sua-vacina-contra-o-HPV-Procure-o-posto-de-sa-de-ou-38133d8db9d280b9aa12ebf942c586cc"
@@ -1737,11 +1737,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-conseguiu-pensar-no-crescimento-da-sua-equipe-sem-se-preocupar-com--37233d8db9d280cda618d30ccfb98c2a"
     },
@@ -1976,14 +1975,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você é dono do negócio ou refém da operação?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-dono-do-neg-cio-ou-ref-m-da-opera-o-37333d8db9d280a5b3baf3ef88195c1a"
     },
@@ -4441,34 +4438,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Apresenta-o-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
       "gestora": "Equipe",
       "date": "22/06"
-    },
-    {
-      "title": "Avatar para WhatsApp com logo da Stratto + cliente",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Avatar-para-WhatsApp-com-logo-da-Stratto-cliente-38033d8db9d2805eaf95e4810fc3de5a",
-      "gestora": "Equipe",
-      "date": "16/06"
-    }
-  ],
-  "APROSSEG": [
-    {
-      "title": "Edição de vídeo",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Edi-o-de-v-deo-38133d8db9d2808bad52d661beebbe9d",
-      "gestora": "Equipe",
-      "date": "19/06"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Assinatura de e-mail para Mylena",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-Mylena-38133d8db9d280c6a38ccfe6f0944627",
-      "gestora": "Equipe",
-      "date": "17/06"
     }
   ],
   "Juntos contra o HPV": [
@@ -4485,6 +4454,14 @@ const DEMANDAS_EXTRAS = {
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Brindes-37933d8db9d280ee96efcc8bec1b15b4",
+      "gestora": "Equipe",
+      "date": "22/06"
+    },
+    {
+      "title": "Coletes para jogo nos municípios",
+      "priority": "p",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/Coletes-para-jogo-nos-munic-pios-36e33d8db9d280f69e1fc82ad6396c14",
       "gestora": "Equipe",
       "date": "22/06"
     }
@@ -4635,7 +4612,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Rede Pangeia": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 9
   },
   "Planos Seguros": {
@@ -4643,7 +4620,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Plannea": {
-    "prontas": 5,
+    "prontas": 6,
     "total": 12
   },
   "Ortobom": {
@@ -4918,7 +4895,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Grupo Mulheres do Brasil": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
