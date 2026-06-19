@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 17:52:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 18:59:35 **/
 
-const LAST_UPDATE = '19/06/2026, 17:52:44';
+const LAST_UPDATE = '19/06/2026, 18:59:35';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -80,7 +80,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 6,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -823,10 +823,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-saber-se-sua-linha-de-qualidade-37a33d8db9d2802aa8f3c28c014cac73"
@@ -2507,7 +2506,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Neg-cio-pr-prio-sem-rede-de-apoio-mais-dif-cil-do-que-parece-20933d8db9d2804a9a9ec78c638d5700"
