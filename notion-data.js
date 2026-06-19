@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 04:36:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 09:00:24 **/
 
-const LAST_UPDATE = '19/06/2026, 04:36:16';
+const LAST_UPDATE = '19/06/2026, 09:00:24';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -105,10 +105,10 @@ const FEED_DATA = {
   "Jota Diesel": {
     "total": 9,
     "pronto": 8,
-    "postado": 2,
+    "postado": 3,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 0,
@@ -138,10 +138,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 9,
-    "postado": 6,
+    "postado": 7,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Rede Pangeia": {
     "total": 6,
@@ -1269,7 +1269,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mais consumo que o normal? Seu motor pode estar avisando.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [],
@@ -1632,7 +1632,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A proteção de dados já faz parte da reputação da sua empresa.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/06",
       "missing": [],
