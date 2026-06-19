@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 18:59:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 20:02:06 **/
 
-const LAST_UPDATE = '19/06/2026, 18:59:35';
+const LAST_UPDATE = '19/06/2026, 20:02:06';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -161,7 +161,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 0,
@@ -177,7 +177,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 1,
     "agendado": 10,
     "agendado_coord": 0,
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 3,
     "agendado": 9,
     "agendado_coord": 1,
@@ -1942,10 +1942,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-diferencia-a-Plannea-de-uma-contabilidade-tradicional-37333d8db9d280599fadd8e15cea0845"
@@ -2206,10 +2205,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Pode-aproveitar-a-canjica-O-bolo-A-pamonha-S-n-o-vale-esquecer-de-voc-36f33d8db9d280009643e38533660ff3"
@@ -2503,10 +2500,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Neg-cio-pr-prio-sem-rede-de-apoio-mais-dif-cil-do-que-parece-20933d8db9d2804a9a9ec78c638d5700"
@@ -2561,7 +2557,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Burnout-h-rnia-de-disco-e-les-es-podem-afastar-voc-do-trabalho-Sua-renda-est-protegida-37233d8db9d280fd874cd37d8dcb3180"
