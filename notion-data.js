@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 20:15:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/06/2026, 23:13:56 **/
 
-const LAST_UPDATE = '18/06/2026, 20:15:32';
+const LAST_UPDATE = '18/06/2026, 23:13:56';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4419,7 +4419,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Portal em formato de chapéu",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Portal-em-formato-de-chap-u-38233d8db9d2801eb584c3b1d80314a9",
       "gestora": "Equipe",
       "date": "18/06"
