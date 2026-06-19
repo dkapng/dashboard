@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 14:49:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 16:29:27 **/
 
-const LAST_UPDATE = '19/06/2026, 14:49:16';
+const LAST_UPDATE = '19/06/2026, 16:29:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -137,7 +137,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 7,
     "agendado": 2,
     "agendado_coord": 0,
@@ -145,7 +145,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 6,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
@@ -497,7 +497,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -813,7 +813,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tem-Tramix-no-z-per-Pode-confiar-37a33d8db9d28006bdb2dd5b9b8e8596"
@@ -1618,10 +1618,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Um-vazamento-de-informa-es-pode-custar-mais-do-que-uma-multa-37333d8db9d280a1b3c9d83e3f4d8f7c"
@@ -1732,10 +1730,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-conseguiu-pensar-no-crescimento-da-sua-equipe-sem-se-preocupar-com--37233d8db9d280cda618d30ccfb98c2a"
@@ -3906,10 +3902,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "18/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-coleta-dados-de-clientes-37333d8db9d280d8b772f5a34688f6cd"
