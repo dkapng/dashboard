@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 12:33:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 14:49:16 **/
 
-const LAST_UPDATE = '19/06/2026, 12:33:13';
+const LAST_UPDATE = '19/06/2026, 14:49:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -96,11 +96,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 11,
-    "postado": 2,
+    "pronto": 13,
+    "postado": 3,
     "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Jota Diesel": {
     "total": 9,
@@ -1038,23 +1038,19 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-prorroga-o-est-acabando-MENINAS-E-MENINOS-DE-15-A-19-ANOS-Vacina-contra-o-HPV-dispon-vel-pelo-38133d8db9d2809896add5920a0182b6"
     },
     {
       "title": "MENINAS DE 15 A 19 ANOS\nÚltimos dias para tomar sua vacina contra o HPV! Procure o posto de saúde ou UBS mais próxima até 30 de Junho! Não perca essa oportunidade!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "19/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/MENINAS-DE-15-A-19-ANOS-ltimos-dias-para-tomar-sua-vacina-contra-o-HPV-Procure-o-posto-de-sa-de-ou-38133d8db9d280b9aa12ebf942c586cc"
