@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 20:02:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/06/2026, 22:34:42 **/
 
-const LAST_UPDATE = '19/06/2026, 20:02:06';
+const LAST_UPDATE = '19/06/2026, 22:34:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,7 +88,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 0,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 13,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
@@ -226,7 +226,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
@@ -929,17 +929,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/BPO-financeiro-s-para-grandes-empresas-36c33d8db9d280d28bc0d256d73e6c17"
     },
     {
-      "title": "A matemática é exata: Contratar um funcionário CLT para o financeiro custa até 60% MAIS do que terceirizar com a equipe de especialistas da Stratto.",
+      "title": "A matemática é exata: Contratar um funcionário CLT para o financeiro custa até 60% mais do que terceirizar com a equipe de especialistas da Stratto.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-matem-tica-exata-Contratar-um-funcion-rio-CLT-para-o-financeiro-custa-at-60-MAIS-do-que-terce-36c33d8db9d2803db11bf0539a9c9ead"
+      "notionUrl": "https://app.notion.com/p/A-matem-tica-exata-Contratar-um-funcion-rio-CLT-para-o-financeiro-custa-at-60-mais-do-que-terce-36c33d8db9d2803db11bf0539a9c9ead"
     },
     {
       "title": "O ano de 2026 já chegou na metade. O plano de crescimento que você desenhou em janeiro deu lucro ou virou desculpa?",
@@ -2554,10 +2552,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Burnout-h-rnia-de-disco-e-les-es-podem-afastar-voc-do-trabalho-Sua-renda-est-protegida-37233d8db9d280fd874cd37d8dcb3180"
@@ -2956,10 +2952,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Brasil-j-est-entre-os-pa-ses-com-maiores-ndices-de-ansiedade-do-mundo-E-existe-um-grupo-que-qu-36e33d8db9d280bf967efc938a0cd628"
