@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/06/2026, 09:24:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/06/2026, 11:40:52 **/
 
-const LAST_UPDATE = '21/06/2026, 09:24:09';
+const LAST_UPDATE = '21/06/2026, 11:40:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4342,18 +4342,18 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Arte para o sympla",
+      "title": "Primeira Reunião Geral | Capa para o Sympla",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Arte-para-o-sympla-38333d8db9d28011b8b5eb0414fb673b",
+      "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Capa-para-o-Sympla-38333d8db9d28011b8b5eb0414fb673b",
       "gestora": "Equipe",
       "date": "22/06"
     },
     {
-      "title": "Flyer para postar no Instagram e enviar no WhatsApp",
+      "title": "Primeira Reunião Geral | Convite",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Flyer-para-postar-no-Instagram-e-enviar-no-WhatsApp-38333d8db9d28078ab0bf8aef00add66",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Convite-38333d8db9d28078ab0bf8aef00add66",
       "gestora": "Equipe",
       "date": "22/06"
     },
@@ -4402,10 +4402,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Stratto": [
     {
-      "title": "Capa para whatsapp",
+      "title": "Capa para WhatsApp",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Capa-para-whatsapp-38233d8db9d280c0af3fd852d8fe98dd",
+      "rawStatus": "2. A encaminhar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Capa-para-WhatsApp-38233d8db9d280c0af3fd852d8fe98dd",
       "gestora": "Equipe",
       "date": "19/06"
     },
@@ -4438,7 +4438,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Coletes para jogo nos municípios",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A encaminhar para aprovação",
       "notionUrl": "https://app.notion.com/p/Coletes-para-jogo-nos-munic-pios-36e33d8db9d280f69e1fc82ad6396c14",
       "gestora": "Equipe",
       "date": "22/06"
