@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/06/2026, 18:50:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/06/2026, 20:04:17 **/
 
-const LAST_UPDATE = '21/06/2026, 18:50:47';
+const LAST_UPDATE = '21/06/2026, 20:04:17';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4430,7 +4430,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Brindes diversos",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
       "gestora": "Equipe",
       "date": "22/06"
