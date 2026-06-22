@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/06/2026, 15:01:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/06/2026, 18:18:36 **/
 
-const LAST_UPDATE = '22/06/2026, 15:01:04';
+const LAST_UPDATE = '22/06/2026, 18:18:36';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 17,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 2,
     "agendado": 8,
     "agendado_coord": 0,
@@ -730,10 +730,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
