@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/06/2026, 18:18:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/06/2026, 19:59:17 **/
 
-const LAST_UPDATE = '22/06/2026, 18:18:36';
+const LAST_UPDATE = '22/06/2026, 19:59:17';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -234,7 +234,7 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 16,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 5,
     "agendado": 7,
     "agendado_coord": 0,
@@ -3073,10 +3073,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "23/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Parab-ns-Eus-bio-Temos-orgulho-de-fazer-parte-da-hist-ria-de-uma-cidade-que-nos-acolhe-inspira-e--38733d8db9d2800aa408eb9f82fdfb45"
@@ -4382,7 +4380,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Primeira Reunião Geral | Capa para o Sympla",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Capa-para-o-Sympla-38333d8db9d28011b8b5eb0414fb673b",
       "gestora": "Equipe",
       "date": "22/06"
@@ -4390,7 +4388,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Primeira Reunião Geral | Convite",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Convite-38333d8db9d28078ab0bf8aef00add66",
       "gestora": "Equipe",
       "date": "22/06"
