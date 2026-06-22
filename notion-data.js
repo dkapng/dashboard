@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/06/2026, 10:11:45 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/06/2026, 15:01:04 **/
 
-const LAST_UPDATE = '22/06/2026, 10:11:45';
+const LAST_UPDATE = '22/06/2026, 15:01:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -82,25 +82,25 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 6,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 13,
     "pronto": 10,
-    "postado": 3,
+    "postado": 4,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 16,
     "pronto": 13,
     "postado": 3,
-    "agendado": 8,
-    "agendado_coord": 1,
-    "a_agendar": 4
+    "agendado": 10,
+    "agendado_coord": 0,
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 9,
@@ -111,10 +111,10 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Ventana": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -146,10 +146,10 @@ const FEED_DATA = {
   "Rede Pangeia": {
     "total": 6,
     "pronto": 6,
-    "postado": 2,
+    "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 9,
@@ -178,10 +178,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 15,
     "pronto": 12,
-    "postado": 1,
+    "postado": 2,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Finseg Leal": {
     "total": 13,
     "pronto": 10,
-    "postado": 2,
+    "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -228,17 +228,17 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 10,
     "postado": 1,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
-    "total": 15,
+    "total": 16,
     "pronto": 12,
     "postado": 5,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   }
 };
 
@@ -473,11 +473,11 @@ const STORIES_DATA = {
   },
   "Ventana": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Univendas": {
     "total": 2,
@@ -733,7 +733,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
@@ -819,14 +819,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Como saber se sua linha é de qualidade?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "19/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "22/06",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-saber-se-sua-linha-de-qualidade-37a33d8db9d2802aa8f3c28c014cac73"
     },
@@ -845,7 +843,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "70 cores porque inspiração também precisa de variedade.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/06",
       "missing": [],
@@ -930,7 +928,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A matemática é exata: Contratar um funcionário CLT para o financeiro custa até 60% mais do que terceirizar com a equipe de especialistas da Stratto.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [],
@@ -1030,8 +1028,21 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "A prorrogação está acabando.\nMENINAS E MENINOS DE 15 A 19 ANOS - Vacina contra o HPV disponível pelo SUS - Só até 30 de junho!",
+      "title": "Saiu na mídia: Assistente virtual JUH é destaque no jornal O Otimista",
       "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Assistente-virtual-JUH-destaque-no-jornal-O-Otimista-38733d8db9d2805487f5e5a07ea9cffc"
+    },
+    {
+      "title": "A prorrogação está acabando.\nMENINAS E MENINOS DE 15 A 19 ANOS - Vacina contra o HPV disponível pelo SUS - Só até 30 de junho!",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [],
@@ -1085,19 +1096,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quem-ama-cuida-E-algumas-demonstra-es-de-amor-podem-proteger-uma-vida-inteira-37433d8db9d280b29a86ea168f5eb673"
     },
     {
-      "title": "TBT do carnaval",
-      "status": "a_agendar",
-      "formato": "📸 Foto(s)",
-      "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/TBT-do-carnaval-36b33d8db9d2802e98d4d8d264db8b6c"
-    },
-    {
       "title": "Nosso objetivo principal: zerar um número que nunca deveria ter existido.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1136,12 +1134,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O erro comum que faz as pessoas pensarem que o HPV só afeta mulheres.",
-      "status": "agendado_coord",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "24/06",
+      "date": "25/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-erro-comum-que-faz-as-pessoas-pensarem-que-o-HPV-s-afeta-mulheres-36b33d8db9d280929db6fb8b5e4a49ea"
     },
@@ -1315,7 +1313,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/N-o-se-ganha-uma-corrida-na-reta-Na-reta-f-cil-na-reta-muitos-aceleram-Agora-na-curva-na-c-36c33d8db9d280a5bdb3e4c562bde9c0"
     }
   ],
-  "Ventana": [],
+  "Ventana": [
+    {
+      "title": "Vaga para designer gráfico(a)",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "22/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vaga-para-designer-gr-fico-a-38733d8db9d28073af65f0958c8d2679"
+    }
+  ],
   "Univendas": [
     {
       "title": "Clube Mais Vantagens: os descontos que você já pode estar usando agora",
@@ -1723,9 +1733,9 @@ const LINHA_FEED_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "Quando foi a última vez que você conseguiu pensar no crescimento da sua equipe sem se preocupar com o caixa?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "19/06",
+      "date": "22/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2200,7 +2210,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Pode aproveitar a canjica. O bolo. A pamonha. Só não vale esquecer de você.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [],
@@ -2549,7 +2559,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Burnout, hérnia de disco e lesões podem afastar você do trabalho. Sua renda está protegida?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [],
@@ -2949,7 +2959,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O Brasil já está entre os países com maiores índices de ansiedade do mundo. E existe um grupo que quase ninguém olha quando fala sobre isso: os empresários.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [],
@@ -3059,6 +3069,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Solar Coworking": [
+    {
+      "title": "Parabéns, Eusébio! Temos orgulho de fazer parte da história de uma cidade que nos acolhe, inspira e impulsiona o crescimento de empresas, pessoas e oportunidades todos os dias.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Parab-ns-Eus-bio-Temos-orgulho-de-fazer-parte-da-hist-ria-de-uma-cidade-que-nos-acolhe-inspira-e--38733d8db9d2800aa408eb9f82fdfb45"
+    },
     {
       "title": "O melhor da vida profissional acontece quando as pessoas certas se encontram.",
       "status": "agendado",
@@ -3429,7 +3452,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Impacto Social",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "30/06",
+      "date": "25/06",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3816,13 +3839,11 @@ const LINHA_STORIES_ITEMS = {
   "Ventana": [
     {
       "title": "Aniversário Sr Paulo ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "08/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Sr-Paulo-37933d8db9d280599c43db8a18605132"
@@ -4340,11 +4361,29 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "Vídeos para o trafego",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deos-para-o-trafego-38733d8db9d2802ab949c4d40af325d9",
+      "gestora": "Equipe",
+      "date": "26/06"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Primeira Reunião Geral | Capa para o Sympla",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Capa-para-o-Sympla-38333d8db9d28011b8b5eb0414fb673b",
       "gestora": "Equipe",
       "date": "22/06"
@@ -4352,7 +4391,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Primeira Reunião Geral | Convite",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Convite-38333d8db9d28078ab0bf8aef00add66",
       "gestora": "Equipe",
       "date": "22/06"
@@ -4380,14 +4419,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
       "gestora": "Equipe",
       "date": "17/06"
-    },
-    {
-      "title": "Comprovações no portfólio cultural",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Comprova-es-no-portf-lio-cultural-36b33d8db9d280c883d9df32d5cb3a19",
-      "gestora": "Equipe",
-      "date": "25/05"
     }
   ],
   "Di Gregório Buffet": [
@@ -4404,7 +4435,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Capa para WhatsApp",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Capa-para-WhatsApp-38233d8db9d280c0af3fd852d8fe98dd",
       "gestora": "Equipe",
       "date": "19/06"
@@ -4412,34 +4443,8 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação na identidade",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
-      "gestora": "Equipe",
-      "date": "22/06"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Vídeo para edital",
-      "priority": "p",
       "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/V-deo-para-edital-37b33d8db9d280108508c134a33dae34",
-      "gestora": "Equipe",
-      "date": "20/06"
-    },
-    {
-      "title": "Brindes diversos",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
-      "gestora": "Equipe",
-      "date": "22/06"
-    },
-    {
-      "title": "Coletes para jogo nos municípios",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Coletes-para-jogo-nos-munic-pios-36e33d8db9d280f69e1fc82ad6396c14",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
       "gestora": "Equipe",
       "date": "22/06"
     }
@@ -4452,6 +4457,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
+    }
+  ],
+  "Juntos contra o HPV": [
+    {
+      "title": "Brindes diversos",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
+      "gestora": "Equipe",
+      "date": "22/06"
+    },
+    {
+      "title": "Coletes para jogo nos municípios",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Coletes-para-jogo-nos-munic-pios-36e33d8db9d280f69e1fc82ad6396c14",
+      "gestora": "Equipe",
+      "date": "22/06"
     }
   ],
   "Ortobom": [
@@ -4476,7 +4499,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Tag geral da Terrartesã",
       "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Tag-geral-da-Terrartes-37233d8db9d28075849fc11a5ac66e8d",
       "gestora": "Equipe",
       "date": "05/06"
@@ -4490,16 +4513,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Planos Seguros": [
@@ -4558,7 +4571,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Tramix": {
-    "prontas": 3,
+    "prontas": 4,
     "total": 6
   },
   "Stratto": {
@@ -4574,8 +4587,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Ventana": {
-    "prontas": 0,
-    "total": 4
+    "prontas": 1,
+    "total": 3
   },
   "Univendas": {
     "prontas": 13,
@@ -4634,8 +4647,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 18,
+    "total": 18
   }
 };
 
@@ -4669,9 +4682,9 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Juntos contra o HPV": {
-    "post": 12,
+    "post": 13,
     "carrossel": 3,
-    "foto": 1,
+    "foto": 0,
     "video": 2,
     "story": 0
   },
@@ -4683,7 +4696,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Ventana": {
-    "post": 0,
+    "post": 1,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4788,7 +4801,7 @@ const FORMAT_COUNTS = {
     "story": 8
   },
   "Solar Coworking": {
-    "post": 15,
+    "post": 16,
     "carrossel": 0,
     "foto": 0,
     "video": 2,
