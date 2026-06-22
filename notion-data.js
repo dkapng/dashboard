@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/06/2026, 04:29:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/06/2026, 10:11:45 **/
 
-const LAST_UPDATE = '22/06/2026, 04:29:55';
+const LAST_UPDATE = '22/06/2026, 10:11:45';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -105,10 +105,10 @@ const FEED_DATA = {
   "Jota Diesel": {
     "total": 9,
     "pronto": 8,
-    "postado": 3,
+    "postado": 4,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -138,10 +138,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 10,
-    "postado": 7,
+    "postado": 8,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 6,
@@ -1272,7 +1272,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem roda muito sabe: prevenção faz diferença.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [],
@@ -1611,7 +1611,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Um vazamento de informações pode custar mais do que uma multa.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/06",
       "missing": [],
@@ -4458,7 +4458,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualizar o valor da arte",
       "priority": "pp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. A implementar",
       "notionUrl": "https://app.notion.com/p/Atualizar-o-valor-da-arte-37433d8db9d280368c68cba0c27b45c8",
       "gestora": "Equipe",
       "date": "15/06"
