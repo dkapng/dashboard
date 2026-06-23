@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 16:23:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 18:12:04 **/
 
-const LAST_UPDATE = '23/06/2026, 16:23:23';
+const LAST_UPDATE = '23/06/2026, 18:12:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -407,10 +407,10 @@ const VIDEO_DATA = {
   "Conecta Assessoria": {
     "total": 4,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 0,
@@ -3726,14 +3726,12 @@ const LINHA_VIDEO_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Castelão",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "23/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Castel-o-36e33d8db9d2802883f6de87e4ca9815"
     },
@@ -4684,7 +4682,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Conecta Assessoria": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 17
   },
   "Solar Coworking": {
