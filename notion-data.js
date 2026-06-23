@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 18:12:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 19:43:58 **/
 
-const LAST_UPDATE = '23/06/2026, 18:12:04';
+const LAST_UPDATE = '23/06/2026, 19:43:58';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4422,7 +4422,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Primeira Reunião Geral | Capa para o Sympla",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Capa-para-o-Sympla-38333d8db9d28011b8b5eb0414fb673b",
       "gestora": "Equipe",
       "date": "22/06"
@@ -4430,7 +4430,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Primeira Reunião Geral | Convite",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Convite-38333d8db9d28078ab0bf8aef00add66",
       "gestora": "Equipe",
       "date": "22/06"
@@ -4480,10 +4480,10 @@ const DEMANDAS_EXTRAS = {
       "date": "19/06"
     },
     {
-      "title": "Apresentação na identidade",
+      "title": "Apresentação sobre terceirização de BPO financeiro na identidade",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-de-BPO-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
       "gestora": "Equipe",
       "date": "22/06"
     }
