@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 11:33:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 14:11:56 **/
 
-const LAST_UPDATE = '23/06/2026, 11:33:11';
+const LAST_UPDATE = '23/06/2026, 14:11:56';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -144,12 +144,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Rede Pangeia": {
-    "total": 6,
+    "total": 8,
     "pronto": 6,
     "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 9,
@@ -325,12 +325,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Rede Pangeia": {
-    "total": 3,
+    "total": 4,
     "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 2,
@@ -1730,6 +1730,32 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Rede Pangeia": [
+    {
+      "title": "O que grandes investidores e fundações procuram em um projeto social? ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-grandes-investidores-e-funda-es-procuram-em-um-projeto-social-38833d8db9d280fbb3cccc6d3116ac6a"
+    },
+    {
+      "title": "O erro que elimina ONGs de editais - E muitas vezes ele não está no projeto.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "26/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-erro-que-elimina-ONGs-de-editais-E-muitas-vezes-ele-n-o-est-no-projeto-38833d8db9d280c89b6bd30cc148e31b"
+    },
     {
       "title": "Quando foi a última vez que você conseguiu pensar no crescimento da sua equipe sem se preocupar com o caixa?",
       "status": "postado",
@@ -3446,6 +3472,20 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Rede Pangeia": [
     {
+      "title": "Organizações e a organização",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/06",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Organiza-es-e-a-organiza-o-38133d8db9d280b6aba7c1880a7c8456"
+    },
+    {
       "title": "Impacto Social",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -4598,8 +4638,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Rede Pangeia": {
-    "prontas": 7,
-    "total": 9
+    "prontas": 9,
+    "total": 12
   },
   "Planos Seguros": {
     "prontas": 10,
@@ -4719,10 +4759,10 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Rede Pangeia": {
-    "post": 2,
-    "carrossel": 4,
+    "post": 3,
+    "carrossel": 5,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 2
   },
   "Planos Seguros": {
