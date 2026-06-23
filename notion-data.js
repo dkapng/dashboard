@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 08:36:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 11:33:11 **/
 
-const LAST_UPDATE = '23/06/2026, 08:36:59';
+const LAST_UPDATE = '23/06/2026, 11:33:11';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -235,10 +235,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 16,
     "pronto": 13,
-    "postado": 5,
+    "postado": 6,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   }
 };
 
@@ -326,7 +326,7 @@ const VIDEO_DATA = {
   },
   "Rede Pangeia": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2724,7 +2724,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Bateram no seu carro e a pessoa não tem seguro? Saiba como a cobertura de terceiros te salva do prejuízo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/06",
+      "date": "23/06",
       "missing": [
         "Design"
       ],
@@ -3070,7 +3070,7 @@ const LINHA_FEED_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Parabéns, Eusébio! Temos orgulho de fazer parte da história de uma cidade que nos acolhe, inspira e impulsiona o crescimento de empresas, pessoas e oportunidades todos os dias.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "23/06",
       "missing": [],
@@ -3451,12 +3451,11 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "25/06",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Impacto-Social-38133d8db9d2808fafddf899cca67444"
     },
     {
@@ -3465,12 +3464,11 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "23/06",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Gest-o-e-as-OSC-s-38133d8db9d2804eb8b8f52e4442b6d6"
     },
     {
@@ -4178,7 +4176,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "23/06",
+      "date": "25/06",
       "missing": [
         "Design"
       ],
