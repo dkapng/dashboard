@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 14:11:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 16:23:23 **/
 
-const LAST_UPDATE = '23/06/2026, 14:11:56';
+const LAST_UPDATE = '23/06/2026, 16:23:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -184,12 +184,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
-    "total": 18,
-    "pronto": 15,
+    "total": 19,
+    "pronto": 16,
     "postado": 3,
     "agendado": 9,
     "agendado_coord": 1,
-    "a_agendar": 4,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -326,11 +326,11 @@ const VIDEO_DATA = {
   },
   "Rede Pangeia": {
     "total": 4,
-    "pronto": 3,
-    "postado": 1,
+    "pronto": 4,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 2,
@@ -2346,6 +2346,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Vaga - Administrativo-Financeiro",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/06",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vaga-Administrativo-Financeiro-38833d8db9d280179bb0c0d90149cad8"
+    },
+    {
       "title": "O estado enxergou o que a gente já constrói há anos! A nova Lei do Artesão é uma vitória e precisamos celebrá-la.",
       "status": "postado",
       "formato": "🎠 Carrossel",
@@ -3476,13 +3489,10 @@ const LINHA_VIDEO_ITEMS = {
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "30/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Organiza-es-e-a-organiza-o-38133d8db9d280b6aba7c1880a7c8456"
     },
     {
@@ -3490,24 +3500,20 @@ const LINHA_VIDEO_ITEMS = {
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "25/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Impacto-Social-38133d8db9d2808fafddf899cca67444"
     },
     {
       "title": "Gestão e as OSC’s",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "23/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Gest-o-e-as-OSC-s-38133d8db9d2804eb8b8f52e4442b6d6"
     },
@@ -4400,7 +4406,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vídeos para o trafego",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/V-deos-para-o-trafego-38733d8db9d2802ab949c4d40af325d9",
       "gestora": "Equipe",
       "date": "26/06"
@@ -4638,7 +4644,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Rede Pangeia": {
-    "prontas": 9,
+    "prontas": 12,
     "total": 12
   },
   "Planos Seguros": {
@@ -4659,7 +4665,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 14,
-    "total": 18
+    "total": 19
   },
   "Finseg Leal": {
     "prontas": 13,
@@ -4794,7 +4800,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Grupo Mulheres do Brasil": {
-    "post": 16,
+    "post": 17,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
