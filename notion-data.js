@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 16:11:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 18:08:19 **/
 
-const LAST_UPDATE = '24/06/2026, 16:11:07';
+const LAST_UPDATE = '24/06/2026, 18:08:19';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -96,7 +96,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 3,
     "agendado": 10,
     "agendado_coord": 0,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 4,
     "agendado": 7,
     "agendado_coord": 0,
@@ -226,7 +226,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 12,
     "postado": 1,
     "agendado": 9,
     "agendado_coord": 0,
@@ -553,7 +553,7 @@ const STORIES_DATA = {
   },
   "Finseg Leal": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1036,12 +1036,10 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Saiu na mídia: Assistente virtual JUH é destaque no jornal O Otimista",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Assistente-virtual-JUH-destaque-no-jornal-O-Otimista-38733d8db9d2805487f5e5a07ea9cffc"
@@ -1929,7 +1927,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quanto-a-Reforma-Tribut-ria-vai-impactar-o-pre-o-do-seu-produto-37333d8db9d28088a5eeff08f409fb23"
@@ -2149,7 +2147,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "Seu plano Unimed agora é aceito na ItalaP Amontada! ",
+      "title": "Seu plano Unimed agora é aceito na ItalaP Amontada!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/06",
@@ -2574,10 +2572,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-a-sua-principal-ferramenta-de-trabalho-voc-mesmo-Um-imprevisto-de-sa-de-de-45-dias-seria-apen-37233d8db9d28048b964eb6667ef5143"
@@ -2955,10 +2951,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-tomar-decis-es-mais-estrat-gicas-para-sua-empresa-Chama-a-Conecta-e-vamos-entender-juntos-o-qu-36e33d8db9d280518617f7682352ad39"
@@ -2968,10 +2962,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/As-pessoas-querem-seguran-a-Suporte-Cuidado-36e33d8db9d2807da349fbb2c48ba2f2"
@@ -3886,7 +3878,7 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Story/stories",
+      "title": "Muitas pessoas acreditam que apenas a compra formal garante a propriedade de um imóvel.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "25/06",
@@ -3896,7 +3888,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-37333d8db9d28041a76ed6f1cf38d77d"
+      "notionUrl": "https://app.notion.com/p/Muitas-pessoas-acreditam-que-apenas-a-compra-formal-garante-a-propriedade-de-um-im-vel-37333d8db9d28041a76ed6f1cf38d77d"
     },
     {
       "title": "🔒 ",
@@ -4099,10 +4091,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Talvez-sua-prote-o-j-n-o-acompanhe-mais-a-sua-realidade-37233d8db9d280f1b7a1fd1fd6c91004"
@@ -4363,7 +4353,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
       "gestora": "Equipe",
       "date": "09T11:00:00.000/06"
@@ -4602,8 +4592,8 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Juntos contra o HPV": {
-    "post": 13,
-    "carrossel": 3,
+    "post": 12,
+    "carrossel": 4,
     "foto": 0,
     "video": 2,
     "story": 0
