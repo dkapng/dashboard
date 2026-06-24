@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 18:08:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 19:44:31 **/
 
-const LAST_UPDATE = '24/06/2026, 18:08:19';
+const LAST_UPDATE = '24/06/2026, 19:44:31';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -161,7 +161,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 12,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
@@ -1924,10 +1924,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quanto-a-Reforma-Tribut-ria-vai-impactar-o-pre-o-do-seu-produto-37333d8db9d28088a5eeff08f409fb23"
