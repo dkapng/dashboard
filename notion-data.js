@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 12:29:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 14:28:07 **/
 
-const LAST_UPDATE = '24/06/2026, 12:29:53';
+const LAST_UPDATE = '24/06/2026, 14:28:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -2330,7 +2330,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vaga-Administrativo-Financeiro-38833d8db9d280179bb0c0d90149cad8"
