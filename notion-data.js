@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 20:50:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/06/2026, 23:36:14 **/
 
-const LAST_UPDATE = '23/06/2026, 20:50:55';
+const LAST_UPDATE = '23/06/2026, 23:36:14';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,7 +88,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 4,
     "agendado": 6,
     "agendado_coord": 0,
@@ -137,7 +137,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 8,
     "agendado": 2,
     "agendado_coord": 0,
@@ -161,7 +161,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 12,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 0,
@@ -177,7 +177,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 2,
     "agendado": 10,
     "agendado_coord": 0,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
@@ -218,7 +218,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 10,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 2,
     "agendado": 6,
     "agendado_coord": 0,
@@ -917,10 +917,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/BPO-financeiro-s-para-grandes-empresas-36c33d8db9d280d28bc0d256d73e6c17"
@@ -1610,10 +1608,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Confian-a-tamb-m-se-constr-i-pela-forma-como-sua-empresa-trata-os-dados-dos-clientes-37333d8db9d280efbe8fe3f5f6432e08"
@@ -1961,10 +1957,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-o-Radar-Tribut-rio-e-como-ele-protege-o-seu-neg-cio-37333d8db9d280aab996e9528951196d"
@@ -2225,10 +2220,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Talvez-n-o-seja-s-estresse-Fique-atento-36f33d8db9d280b689cde0d3c402ea7e"
@@ -2710,10 +2703,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-melhor-do-S-o-Jo-o-estar-onde-a-felicidade-acontece-Feliz-S-o-Jo-o-35e33d8db9d28011ac3bfc0f82fc5664"
@@ -2902,10 +2893,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-s-cio-foi-preso-E-agora-quem-responde-pela-empresa-36c33d8db9d280be917dd2f8d33537c1"
@@ -4436,17 +4425,9 @@ const DEMANDAS_EXTRAS = {
       "date": "22/06"
     },
     {
-      "title": "Summit Mulheres nas Profissões | Lenço",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Len-o-37433d8db9d2808583a7de81f961c5e8",
-      "gestora": "Equipe",
-      "date": "09T11:00:00.000/06"
-    },
-    {
       "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
       "gestora": "Equipe",
       "date": "09T11:00:00.000/06"
