@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 14:28:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 16:11:07 **/
 
-const LAST_UPDATE = '24/06/2026, 14:28:07';
+const LAST_UPDATE = '24/06/2026, 16:11:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 18,
-    "pronto": 15,
+    "pronto": 16,
     "postado": 2,
     "agendado": 10,
     "agendado_coord": 0,
@@ -176,16 +176,16 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "ItalaP": {
-    "total": 15,
+    "total": 16,
     "pronto": 13,
     "postado": 3,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 15,
+    "pronto": 16,
     "postado": 3,
     "agendado": 9,
     "agendado_coord": 1,
@@ -528,20 +528,20 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Ortobom": {
-    "total": 2,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
-    "total": 4,
+    "total": 3,
     "pronto": 3,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 3,
@@ -584,12 +584,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 8,
-    "pronto": 6,
-    "postado": 4,
+    "total": 7,
+    "pronto": 7,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 2,
@@ -636,10 +636,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/SAVE-THE-DATE-30-de-junho-Uma-visita-guiada-com-H-lio-R-la-Wilson-Neto-e-Fl-via-Muluc-38933d8db9d28033ac9af5cf0ec6ce5d"
@@ -1043,7 +1041,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Assistente-virtual-JUH-destaque-no-jornal-O-Otimista-38733d8db9d2805487f5e5a07ea9cffc"
@@ -2151,6 +2149,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Seu plano Unimed agora é aceito na ItalaP Amontada! ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-plano-Unimed-agora-aceito-na-ItalaP-Amontada-38933d8db9d280a0b6c4d27fa0e3b26d"
+    },
+    {
       "title": "CONHEÇA A SELEÇÃO ITALAP - ",
       "status": "agendado",
       "formato": "🎠 Carrossel",
@@ -2327,10 +2338,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "23/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vaga-Administrativo-Financeiro-38833d8db9d280179bb0c0d90149cad8"
@@ -3998,19 +4008,6 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Ortobom": [
     {
-      "title": "Revelação do ganhador ",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Revela-o-do-ganhador-36f33d8db9d280c0bb88eea4c433ea5a"
-    },
-    {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4046,19 +4043,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Agenda-mensal-37233d8db9d28087b48acdbe12ff79b4"
-    },
-    {
-      "title": "Você conseguiu cumprir sua meta de cuidar mais da saúde?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-conseguiu-cumprir-sua-meta-de-cuidar-mais-da-sa-de-36f33d8db9d28064a865d24a02a16aae"
     },
     {
       "title": "Junho Laranja",
@@ -4242,19 +4226,6 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Heliana-37c33d8db9d2803abb09fd448090a3f3"
     },
     {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "30/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-36e33d8db9d280299c2cd96531b3f8ef"
-    },
-    {
       "title": "O Brasil é o país mais ansioso do mundo, segundo a OMS.",
       "status": "postado",
       "formato": "📱 Story",
@@ -4289,13 +4260,11 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "São João",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "24/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/S-o-Jo-o-35e33d8db9d280449768d804d9952d4b"
@@ -4332,14 +4301,6 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Juntos contra o HPV": [
     {
-      "title": "Estruturar dois primeiros carrosséis tira-dúvidas com a Juh",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Estruturar-dois-primeiros-carross-is-tira-d-vidas-com-a-Juh-38933d8db9d28031b5bbfea65acb3b29",
-      "gestora": "Equipe",
-      "date": "30/06"
-    },
-    {
       "title": "Mudar a aparência da Juh",
       "priority": "p",
       "rawStatus": "1. A fazer",
@@ -4354,14 +4315,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Slide-de-apresenta-o-da-Juh-38933d8db9d2805b8f18cc86eedc72fa",
       "gestora": "Equipe",
       "date": "26/06"
-    },
-    {
-      "title": "Conteúdo textual para o carrossel de apresentação da Juh",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Conte-do-textual-para-o-carrossel-de-apresenta-o-da-Juh-38933d8db9d28072ba5ae5d65a2256fd",
-      "gestora": "Equipe",
-      "date": "29/06"
     },
     {
       "title": "Brindes diversos",
@@ -4586,8 +4539,8 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "ItalaP": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 17,
+    "total": 17
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 14,
@@ -4716,14 +4669,14 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 7,
-    "story": 2
+    "story": 1
   },
   "ItalaP": {
-    "post": 12,
+    "post": 13,
     "carrossel": 3,
     "foto": 0,
     "video": 1,
-    "story": 4
+    "story": 3
   },
   "Grupo Mulheres do Brasil": {
     "post": 17,
@@ -4765,7 +4718,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 4,
-    "story": 8
+    "story": 7
   },
   "Solar Coworking": {
     "post": 16,
