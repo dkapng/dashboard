@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 09:32:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/06/2026, 12:29:53 **/
 
-const LAST_UPDATE = '24/06/2026, 09:32:17';
+const LAST_UPDATE = '24/06/2026, 12:29:53';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,12 +62,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 17,
+    "total": 18,
     "pronto": 15,
     "postado": 2,
-    "agendado": 8,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 6,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -82,17 +82,17 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 6,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 13,
     "pronto": 11,
-    "postado": 4,
+    "postado": 5,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
     "total": 16,
@@ -128,20 +128,20 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Terrartesã": {
-    "total": 7,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "RR Advocacia": {
     "total": 13,
     "pronto": 11,
-    "postado": 8,
+    "postado": 9,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 8,
@@ -163,9 +163,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 10,
     "postado": 0,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Ortobom": {
     "total": 8,
@@ -178,14 +178,14 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 15,
     "pronto": 13,
-    "postado": 2,
+    "postado": 3,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 16,
+    "pronto": 15,
     "postado": 3,
     "agendado": 9,
     "agendado_coord": 1,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Finseg Leal": {
     "total": 13,
     "pronto": 11,
-    "postado": 3,
+    "postado": 4,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -210,19 +210,19 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 9,
-    "pronto": 6,
-    "postado": 2,
+    "pronto": 7,
+    "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 10,
     "pronto": 9,
     "postado": 2,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -317,12 +317,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 4,
@@ -424,10 +424,10 @@ const VIDEO_DATA = {
 
 const STORIES_DATA = {
   "Travessias Híbridas": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -464,12 +464,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 3,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 1,
@@ -488,12 +488,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Terrartesã": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "RR Advocacia": {
     "total": 3,
@@ -568,12 +568,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 5,
+    "total": 4,
     "pronto": 3,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -604,8 +604,49 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
-      "title": "Gostou de uma obra? Ela pode ser sua! Acesse nosso catálogo, o link tá na Bio!",
+      "title": "Amanhã, Travessias Híbridas revela novas camadas! 30 de junho: Uma visita guiada com Hélio Rôla, Wilson Neto e Flávia Muluc",
       "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Amanh-Travessias-H-bridas-revela-novas-camadas-30-de-junho-Uma-visita-guiada-com-H-lio-R-la-Wil-38933d8db9d280deab62e81c4524bd27"
+    },
+    {
+      "title": "Já visitou a exposição? Agora é hora de ouvir as histórias por trás dela. 30 de junho - Visita guiada!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/J-visitou-a-exposi-o-Agora-hora-de-ouvir-as-hist-rias-por-tr-s-dela-30-de-junho-Visita-guiad-38933d8db9d28051a7c2dfdf4fef4670"
+    },
+    {
+      "title": "SAVE THE DATE, 30 de junho: Uma visita guiada com Hélio Rôla, Wilson Neto e Flávia Muluc",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/SAVE-THE-DATE-30-de-junho-Uma-visita-guiada-com-H-lio-R-la-Wilson-Neto-e-Fl-via-Muluc-38933d8db9d28033ac9af5cf0ec6ce5d"
+    },
+    {
+      "title": "Gostou de uma obra? Ela pode ser sua! Acesse nosso catálogo, o link tá na Bio!",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/06",
       "missing": [],
@@ -616,7 +657,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O diálogo que virou arte: Conheça os bastidores de \"Travessias Híbridas\"!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "16/06",
       "missing": [],
@@ -728,7 +769,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/06",
+      "date": "27/06",
       "missing": [
         "Legenda"
       ],
@@ -738,24 +779,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
     },
     {
-      "title": "Conheça Flávia Muluc: A travessia que liga a arte e você.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "19/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Conhe-a-Fl-via-Muluc-A-travessia-que-liga-a-arte-e-voc-35233d8db9d2804cac95f79178b4df5c"
-    },
-    {
       "title": "Grande formato, grande imersão. As pinturas da Travessias Híbridas transmitem grandeza e criatividade também no tamanho. Explore cada detalhe no Centro Cultural Banco do Nordeste, de 16 de maio a 18 de julho.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/06",
+      "date": "25/06",
       "missing": [
         "Legenda"
       ],
@@ -763,20 +790,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Grande-formato-grande-imers-o-As-pinturas-da-Travessias-H-bridas-transmitem-grandeza-e-criatividad-35233d8db9d280efbea9e564be798c4a"
-    },
-    {
-      "title": "A cultura também está nos pequenos detalhes: Explore os personagens imersos no interior de cada pintura da Travessias Híbridas.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "17/06",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-cultura-tamb-m-est-nos-pequenos-detalhes-Explore-os-personagens-imersos-no-interior-de-cada-pint-35233d8db9d280dc85dadeb58ec365b2"
     },
     {
       "title": "Wilson Neto: camadas, gesto e experimentação",
@@ -805,14 +818,12 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "Tem Tramix no zíper? Pode confiar!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "19/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "24/06",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tem-Tramix-no-z-per-Pode-confiar-37a33d8db9d28006bdb2dd5b9b8e8596"
     },
@@ -914,7 +925,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "BPO financeiro é só para grandes empresas?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [],
@@ -1511,19 +1522,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Tradi-es-que-continuam-acendendo-hist-rias-Perfeito-para-falar-de-cultura-nordestina-mem-ria-e-per-37333d8db9d28027ace6d347b1b965f9"
     },
     {
-      "title": "O valor do trabalho também está na história de quem o constrói",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "22/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-valor-do-trabalho-tamb-m-est-na-hist-ria-de-quem-o-constr-i-37333d8db9d280e2834cf2b8bbeda8d2"
-    },
-    {
       "title": "O fazer que se transforma em autonomia",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1548,19 +1546,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-artesanato-como-heran-a-viva-que-atravessa-gera-es-37333d8db9d280c3840df732f005d9d4"
-    },
-    {
-      "title": "Cada peça criada é também um passo em uma nova história.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "23/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cada-pe-a-criada-tamb-m-um-passo-em-uma-nova-hist-ria-35733d8db9d280549ed4ff77bb22c93b"
     },
     {
       "title": "O fazer artesanal transforma o cotidiano em caminho, propósito e permanência",
@@ -1605,7 +1590,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Confiança também se constrói pela forma como sua empresa trata os dados dos clientes.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [],
@@ -1966,14 +1951,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que diferencia a Plannea de uma contabilidade tradicional",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "22/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "24/06",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-diferencia-a-Plannea-de-uma-contabilidade-tradicional-37333d8db9d280599fadd8e15cea0845"
     },
@@ -2217,7 +2200,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Talvez não seja só estresse - Fique atento!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [],
@@ -2344,9 +2327,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "23/06",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vaga-Administrativo-Financeiro-38833d8db9d280179bb0c0d90149cad8"
@@ -2537,7 +2521,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Negócio próprio sem rede de apoio? É mais difícil do que parece.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/06",
+      "date": "26/06",
       "missing": [
         "Legenda"
       ],
@@ -2700,7 +2684,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O melhor do São João é estar onde a felicidade acontece. Feliz São João!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [],
@@ -2741,7 +2725,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Atendimento nacional com o acolhimento de Fortaleza. Descubra a tranquilidade de ser cliente APROSSEG.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/06",
+      "date": "25/06",
       "missing": [
         "Design"
       ],
@@ -2752,13 +2736,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Bateram no seu carro e a pessoa não tem seguro? Saiba como a cobertura de terceiros te salva do prejuízo.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "23/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "24/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Bateram-no-seu-carro-e-a-pessoa-n-o-tem-seguro-Saiba-como-a-cobertura-de-terceiros-te-salva-do-prej-36e33d8db9d280268ea7ff5e8fc469c6"
@@ -2890,7 +2872,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu sócio foi preso. E agora, quem responde pela empresa?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/06",
       "missing": [],
@@ -3433,20 +3415,6 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "23/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-37333d8db9d280c39900fe97a64cff89"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
       "date": "16/06",
       "missing": [
         "Vídeo",
@@ -3787,8 +3755,21 @@ const LINHA_VIDEO_ITEMS = {
 const LINHA_STORIES_ITEMS = {
   "Travessias Híbridas": [
     {
-      "title": "Processo criativo fascinante",
+      "title": "É HOJE!",
       "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/HOJE-38933d8db9d28023b33cc75feec4abaa"
+    },
+    {
+      "title": "Processo criativo fascinante",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "16/06",
       "missing": [],
@@ -3849,19 +3830,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-36e33d8db9d2804cb41ae3ddf3f61f73"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "23/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-35133d8db9d2803a9fe0c6612b962840"
     }
   ],
   "Ventana": [
@@ -3905,21 +3873,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-36d33d8db9d2808eb3fad91d3ed58713"
     }
   ],
-  "Terrartesã": [
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "23/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-37333d8db9d280c4ba40f486233fd0e5"
-    }
-  ],
+  "Terrartesã": [],
   "RR Advocacia": [
     {
       "title": "Story/stories",
@@ -4207,19 +4161,6 @@ const LINHA_STORIES_ITEMS = {
   "APROSSEG": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-36e33d8db9d280c18d50c77c8a0604c1"
-    },
-    {
-      "title": "Story/stories",
       "status": "postado",
       "formato": "📱 Story",
       "date": "16/06",
@@ -4389,6 +4330,48 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "Estruturar dois primeiros carrosséis tira-dúvidas com a Juh",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Estruturar-dois-primeiros-carross-is-tira-d-vidas-com-a-Juh-38933d8db9d28031b5bbfea65acb3b29",
+      "gestora": "Equipe",
+      "date": "30/06"
+    },
+    {
+      "title": "Mudar a aparência da Juh",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Mudar-a-apar-ncia-da-Juh-38933d8db9d28006a2dfd576c47b0f2e",
+      "gestora": "Equipe",
+      "date": "25/06"
+    },
+    {
+      "title": "Slide de apresentação da Juh",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Slide-de-apresenta-o-da-Juh-38933d8db9d2805b8f18cc86eedc72fa",
+      "gestora": "Equipe",
+      "date": "26/06"
+    },
+    {
+      "title": "Conteúdo textual para o carrossel de apresentação da Juh",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Conte-do-textual-para-o-carrossel-de-apresenta-o-da-Juh-38933d8db9d28072ba5ae5d65a2256fd",
+      "gestora": "Equipe",
+      "date": "29/06"
+    },
+    {
+      "title": "Brindes diversos",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
+      "gestora": "Equipe",
+      "date": "22/06"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Vídeos para o trafego",
@@ -4451,24 +4434,6 @@ const DEMANDAS_EXTRAS = {
       "date": "18/06"
     }
   ],
-  "Stratto": [
-    {
-      "title": "Capa para WhatsApp",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Capa-para-WhatsApp-38233d8db9d280c0af3fd852d8fe98dd",
-      "gestora": "Equipe",
-      "date": "19/06"
-    },
-    {
-      "title": "Apresentação sobre terceirização de BPO financeiro na identidade",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-de-BPO-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
-      "gestora": "Equipe",
-      "date": "22/06"
-    }
-  ],
   "Ser Ponte": [
     {
       "title": "Apresentação para pitch",
@@ -4477,24 +4442,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Brindes diversos",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
-      "gestora": "Equipe",
-      "date": "22/06"
-    },
-    {
-      "title": "Coletes para jogo nos municípios",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Coletes-para-jogo-nos-munic-pios-36e33d8db9d280f69e1fc82ad6396c14",
-      "gestora": "Equipe",
-      "date": "22/06"
     }
   ],
   "Ortobom": [
@@ -4583,15 +4530,15 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 14,
-    "total": 18
+    "prontas": 15,
+    "total": 19
   },
   "Ser Ponte": {
     "prontas": 0,
     "total": 0
   },
   "Tramix": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 6
   },
   "Stratto": {
@@ -4615,12 +4562,12 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Terrartesã": {
-    "prontas": 6,
-    "total": 7
+    "prontas": 4,
+    "total": 5
   },
   "RR Advocacia": {
     "prontas": 13,
-    "total": 17
+    "total": 16
   },
   "Rede Pangeia": {
     "prontas": 12,
@@ -4631,7 +4578,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Plannea": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 12
   },
   "Ortobom": {
@@ -4674,11 +4621,11 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 14,
-    "carrossel": 3,
+    "post": 17,
+    "carrossel": 1,
     "foto": 0,
     "video": 1,
-    "story": 1
+    "story": 2
   },
   "Ser Ponte": {
     "post": 0,
@@ -4713,7 +4660,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 3
+    "story": 2
   },
   "Ventana": {
     "post": 1,
@@ -4730,17 +4677,17 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Terrartesã": {
-    "post": 7,
+    "post": 5,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 1
+    "story": 0
   },
   "RR Advocacia": {
     "post": 13,
     "carrossel": 0,
     "foto": 0,
-    "video": 4,
+    "video": 3,
     "story": 3
   },
   "Rede Pangeia": {
@@ -4804,7 +4751,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 5,
-    "story": 5
+    "story": 4
   },
   "Daniel Maia Advocacia": {
     "post": 8,
