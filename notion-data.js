@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/06/2026, 10:33:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/06/2026, 13:18:03 **/
 
-const LAST_UPDATE = '25/06/2026, 10:33:31';
+const LAST_UPDATE = '25/06/2026, 13:18:03';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -97,10 +97,10 @@ const FEED_DATA = {
   "Juntos contra o HPV": {
     "total": 16,
     "pronto": 14,
-    "postado": 3,
+    "postado": 4,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 9,
@@ -196,9 +196,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 12,
     "postado": 4,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -228,9 +228,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 12,
     "postado": 1,
-    "agendado": 9,
+    "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 16,
@@ -271,9 +271,9 @@ const VIDEO_DATA = {
     "total": 3,
     "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 2,
@@ -328,9 +328,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 2,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 2,
@@ -555,9 +555,9 @@ const STORIES_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 3,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -1035,9 +1035,9 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Saiu na mídia: Assistente virtual JUH é destaque no jornal O Otimista",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
-      "date": "24/06",
+      "date": "25/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2568,7 +2568,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se a sua principal ferramenta de trabalho é você mesmo… Um imprevisto de saúde de 45 dias seria apenas um susto ou uma crise financeira?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [],
@@ -2947,7 +2947,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quer tomar decisões mais estratégicas para sua empresa? Chama a Conecta e vamos entender juntos o que realmente faz sentido para o seu negócio.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [],
@@ -2958,7 +2958,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "As pessoas querem segurança. Suporte. Cuidado.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/06",
       "missing": [],
@@ -3305,7 +3305,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "25/06",
       "missing": [],
@@ -3455,7 +3455,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Impacto Social",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "25/06",
       "missing": [],
@@ -4087,7 +4087,7 @@ const LINHA_STORIES_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Talvez sua proteção já não acompanhe mais a sua realidade.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "25/06",
       "missing": [],
