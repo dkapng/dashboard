@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/06/2026, 15:30:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/06/2026, 17:33:13 **/
 
-const LAST_UPDATE = '25/06/2026, 15:30:18';
+const LAST_UPDATE = '25/06/2026, 17:33:13';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -96,7 +96,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 4,
     "agendado": 10,
     "agendado_coord": 0,
@@ -218,7 +218,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 10,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
@@ -497,7 +497,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1117,10 +1117,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-documento-mais-importante-do-futuro-do-seu-filho-est-na-gaveta-hoje-36b33d8db9d280e39e6effae11fa826a"
@@ -2839,10 +2837,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-quer-crescer-e-atrair-investidor-Ele-vai-perguntar-se-voc-tem-compliance-O-que-voc-vai-resp-36c33d8db9d28033a243d1b483e6b41f"
@@ -3875,10 +3871,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Muitas-pessoas-acreditam-que-apenas-a-compra-formal-garante-a-propriedade-de-um-im-vel-37333d8db9d28041a76ed6f1cf38d77d"
@@ -4282,6 +4276,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Solar Coworking": [
+    {
+      "title": "COMUNICADO",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/COMUNICADO-38a33d8db9d280a4b41fd8d88e40d6be",
+      "gestora": "Equipe",
+      "date": "26/06"
+    },
+    {
+      "title": "COMUNICADO",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/COMUNICADO-38a33d8db9d2804ea172d809e5c4ebae",
+      "gestora": "Equipe",
+      "date": "26/06"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Mudar a aparência da Juh",
