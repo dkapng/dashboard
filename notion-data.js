@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/06/2026, 13:18:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/06/2026, 15:30:18 **/
 
-const LAST_UPDATE = '25/06/2026, 13:18:03';
+const LAST_UPDATE = '25/06/2026, 15:30:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -65,9 +65,9 @@ const FEED_DATA = {
     "total": 18,
     "pronto": 16,
     "postado": 2,
-    "agendado": 10,
+    "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 5,
+    "a_agendar": 4,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -137,7 +137,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 9,
     "agendado": 2,
     "agendado_coord": 0,
@@ -177,7 +177,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 16,
-    "pronto": 13,
+    "pronto": 15,
     "postado": 3,
     "agendado": 10,
     "agendado_coord": 0,
@@ -633,9 +633,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "SAVE THE DATE, 30 de junho: Uma visita guiada com Hélio Rôla, Wilson Neto e Flávia Muluc",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "24/06",
+      "date": "25/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1576,10 +1576,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-decis-o-empresarial-carrega-impactos-jur-dicos-37333d8db9d280a7b245c7c5b5075623"
@@ -2150,10 +2148,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-plano-Unimed-agora-aceito-na-ItalaP-Amontada-38933d8db9d280a0b6c4d27fa0e3b26d"
@@ -2198,10 +2194,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seis-meses-atr-s-voc-prometeu-cuidar-mais-da-sua-sa-de-36f33d8db9d280d7a852d998ff6457ca"
@@ -3884,7 +3878,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Muitas-pessoas-acreditam-que-apenas-a-compra-formal-garante-a-propriedade-de-um-im-vel-37333d8db9d28041a76ed6f1cf38d77d"
