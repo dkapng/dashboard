@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 16:15:45 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 18:03:00 **/
 
-const LAST_UPDATE = '26/06/2026, 16:15:45';
+const LAST_UPDATE = '26/06/2026, 18:03:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Travessias Híbridas": {
     "total": 18,
-    "pronto": 16,
+    "pronto": 18,
     "postado": 2,
     "agendado": 11,
     "agendado_coord": 0,
@@ -145,7 +145,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 8,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
@@ -448,12 +448,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 2,
-    "pronto": 2,
+    "total": 3,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -585,7 +585,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 8,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
@@ -609,10 +609,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Amanh-Travessias-H-bridas-revela-novas-camadas-30-de-junho-Uma-visita-guiada-com-H-lio-R-la-Wil-38933d8db9d280deab62e81c4524bd27"
@@ -623,10 +622,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/J-visitou-a-exposi-o-Agora-hora-de-ouvir-as-hist-rias-por-tr-s-dela-30-de-junho-Visita-guiad-38933d8db9d28051a7c2dfdf4fef4670"
@@ -896,14 +894,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Nenhum-time-ganha-a-Copa-s-com-o-ataque-Por-que-voc-acha-que-sua-empresa-vai-crescer-focando-apen-36c33d8db9d280eb9895f5ed45b8092c"
     },
     {
-      "title": "Mais do que um CNPJ: parabéns a você, que transforma ideias em empregos e move o Brasil todos os dias - Dia Internacional das Micro, Pequenas e Médias Empresas ",
+      "title": "Mais do que um CNPJ: parabéns a você, que transforma ideias em empregos e move o Brasil todos os dias - Dia Internacional das Micro, Pequenas e Médias Empresas",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/06",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-do-que-um-CNPJ-parab-ns-a-voc-que-transforma-ideias-em-empregos-e-move-o-Brasil-todos-os-dia-36c33d8db9d2801ba27bfe1226cf7422"
@@ -1721,10 +1719,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-erro-que-elimina-ONGs-de-editais-E-muitas-vezes-ele-n-o-est-no-projeto-38833d8db9d280c89b6bd30cc148e31b"
@@ -3771,6 +3767,17 @@ const LINHA_STORIES_ITEMS = {
   "Tramix": [],
   "Stratto": [
     {
+      "title": "Cronograma para a copa",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "26/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cronograma-para-a-copa-38b33d8db9d2801a9e5acaef565e4389"
+    },
+    {
       "title": "Nenhum time ganha focando só no ataque.",
       "status": "postado",
       "formato": "📱 Story",
@@ -4171,10 +4178,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "26/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comunicado-38b33d8db9d28071b0b5f05e2ce534a2"
@@ -4586,7 +4591,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 3,
-    "story": 2
+    "story": 3
   },
   "Juntos contra o HPV": {
     "post": 12,
