@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 18:03:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 19:42:19 **/
 
-const LAST_UPDATE = '26/06/2026, 18:03:00';
+const LAST_UPDATE = '26/06/2026, 19:42:19';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,7 +88,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 5,
     "agendado": 6,
     "agendado_coord": 0,
@@ -898,10 +898,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-do-que-um-CNPJ-parab-ns-a-voc-que-transforma-ideias-em-empregos-e-move-o-Brasil-todos-os-dia-36c33d8db9d2801ba27bfe1226cf7422"
