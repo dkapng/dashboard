@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 14:14:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 16:15:45 **/
 
-const LAST_UPDATE = '26/06/2026, 14:14:05';
+const LAST_UPDATE = '26/06/2026, 16:15:45';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4174,7 +4174,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comunicado-38b33d8db9d28071b0b5f05e2ce534a2"
