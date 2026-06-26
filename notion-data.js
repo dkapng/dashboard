@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 12:12:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 14:14:05 **/
 
-const LAST_UPDATE = '26/06/2026, 12:12:20';
+const LAST_UPDATE = '26/06/2026, 14:14:05';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 16,
+    "pronto": 19,
     "postado": 3,
     "agendado": 9,
     "agendado_coord": 1,
@@ -2379,15 +2379,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Crian-a-n-o-m-e-37933d8db9d28071a081c8555d7e52e7"
     },
     {
-      "title": "A sociedade acredita em recomeço ou só em punição? ",
+      "title": "A sociedade acredita em recomeço ou só em punição?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-sociedade-acredita-em-recome-o-ou-s-em-puni-o-36b33d8db9d280afb3a0fa1aa6b67e15"
@@ -2431,10 +2430,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-amor-nunca-foi-o-problema-O-preconceito-sim-Dia-do-Orgulho-LGBT-36b33d8db9d2802c8571d5ed48dc6716"
@@ -2535,10 +2533,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Florescer-Cuidar-de-uma-OSC-cuidar-de-muitas-hist-rias-1ca33d8db9d28058a820d447ea248776"
@@ -4289,24 +4286,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Solar Coworking": [
-    {
-      "title": "COMUNICADO",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/COMUNICADO-38a33d8db9d280a4b41fd8d88e40d6be",
-      "gestora": "Equipe",
-      "date": "26/06"
-    },
-    {
-      "title": "COMUNICADO",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/COMUNICADO-38a33d8db9d2804ea172d809e5c4ebae",
-      "gestora": "Equipe",
-      "date": "26/06"
-    }
-  ],
   "Juntos contra o HPV": [
     {
       "title": "Mudar a aparência da Juh",
