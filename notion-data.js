@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 09:29:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/06/2026, 12:12:20 **/
 
-const LAST_UPDATE = '26/06/2026, 09:29:57';
+const LAST_UPDATE = '26/06/2026, 12:12:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -584,12 +584,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 7,
+    "total": 8,
     "pronto": 7,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 2,
@@ -2538,7 +2538,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Florescer-Cuidar-de-uma-OSC-cuidar-de-muitas-hist-rias-1ca33d8db9d28058a820d447ea248776"
@@ -4170,6 +4170,19 @@ const LINHA_STORIES_ITEMS = {
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
+      "title": "Comunicado ",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "26/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Comunicado-38b33d8db9d28071b0b5f05e2ce534a2"
+    },
+    {
       "title": "Aniversário da Marcela",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4713,7 +4726,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 4,
-    "story": 7
+    "story": 8
   },
   "Solar Coworking": {
     "post": 16,
