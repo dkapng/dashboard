@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/06/2026, 18:35:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/06/2026, 19:57:09 **/
 
-const LAST_UPDATE = '27/06/2026, 18:35:39';
+const LAST_UPDATE = '27/06/2026, 19:57:09';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,12 +62,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Travessias Híbridas": {
-    "total": 18,
-    "pronto": 18,
+    "total": 17,
+    "pronto": 17,
     "postado": 2,
-    "agendado": 11,
+    "agendado": 14,
     "agendado_coord": 0,
-    "a_agendar": 4,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -605,27 +605,23 @@ const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [
     {
       "title": "Amanhã, Travessias Híbridas revela novas camadas! 30 de junho: Uma visita guiada com Hélio Rôla, Wilson Neto e Flávia Muluc",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Amanh-Travessias-H-bridas-revela-novas-camadas-30-de-junho-Uma-visita-guiada-com-H-lio-R-la-Wil-38933d8db9d280deab62e81c4524bd27"
     },
     {
       "title": "Já visitou a exposição? Agora é hora de ouvir as histórias por trás dela. 30 de junho - Visita guiada!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "26/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "28/06",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/J-visitou-a-exposi-o-Agora-hora-de-ouvir-as-hist-rias-por-tr-s-dela-30-de-junho-Visita-guiad-38933d8db9d28051a7c2dfdf4fef4670"
     },
@@ -762,28 +758,13 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Mais-mais-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-Centro-Cultural-Banco-do-Nordeste-35233d8db9d280fe9c65f2b227ea4c9b"
     },
     {
-      "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
-      "status": "a_agendar",
+      "title": "Grande formato, grande imersão. As pinturas da Travessias Híbridas transmitem grandeza e criatividade também no tamanho. Explore cada detalhe no Centro Cultural Banco do Nordeste, de 16 de maio a 18 de julho.",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
-    },
-    {
-      "title": "Grande formato, grande imersão. As pinturas da Travessias Híbridas transmitem grandeza e criatividade também no tamanho. Explore cada detalhe no Centro Cultural Banco do Nordeste, de 16 de maio a 18 de julho.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "25/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Grande-formato-grande-imers-o-As-pinturas-da-Travessias-H-bridas-transmitem-grandeza-e-criatividad-35233d8db9d280efbea9e564be798c4a"
     },
@@ -4473,8 +4454,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Travessias Híbridas": {
-    "prontas": 15,
-    "total": 19
+    "prontas": 18,
+    "total": 18
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -4564,7 +4545,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Travessias Híbridas": {
-    "post": 17,
+    "post": 16,
     "carrossel": 1,
     "foto": 0,
     "video": 1,
