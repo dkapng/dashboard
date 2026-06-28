@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 18:36:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 19:56:44 **/
 
-const LAST_UPDATE = '28/06/2026, 18:36:02';
+const LAST_UPDATE = '28/06/2026, 19:56:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -893,7 +893,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-vai-continuar-contando-com-a-sorte-ou-vai-estruturar-processos-de-verdade-36c33d8db9d280dbaf83dd211dbd09e4"
