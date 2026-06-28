@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 14:01:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 15:41:24 **/
 
-const LAST_UPDATE = '28/06/2026, 14:01:48';
+const LAST_UPDATE = '28/06/2026, 15:41:24';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
@@ -226,7 +226,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 1,
     "agendado": 11,
     "agendado_coord": 0,
@@ -1884,7 +1884,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-compliance-tribut-rio-e-por-que-sua-empresa-precisa-disso-hoje-37333d8db9d280039ab1c565f3436450"
@@ -2522,10 +2522,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-patrim-nio-que-voc-tem-hoje-o-mesmo-de-quando-contratou-seu-seguro-37233d8db9d2801b930ac3aa2ee0c794"
@@ -2899,10 +2897,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-consulta-fora-do-Brasil-pode-custar-mais-do-que-a-viagem-inteira-E-muita-gente-ainda-viaja-sem--36e33d8db9d280469932f97e81bf64e0"
