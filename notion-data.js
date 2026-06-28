@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 15:41:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 17:08:01 **/
 
-const LAST_UPDATE = '28/06/2026, 15:41:24';
+const LAST_UPDATE = '28/06/2026, 17:08:01';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -161,7 +161,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 12,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
@@ -177,7 +177,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 16,
-    "pronto": 15,
+    "pronto": 16,
     "postado": 3,
     "agendado": 10,
     "agendado_coord": 0,
@@ -1881,10 +1881,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/06",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-compliance-tribut-rio-e-por-que-sua-empresa-precisa-disso-hoje-37333d8db9d280039ab1c565f3436450"
@@ -2154,10 +2153,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "29/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vai-viajar-nas-f-rias-Antes-de-fazer-as-malas-confira-se-voc-n-o-est-esquecendo-o-mais-important-36f33d8db9d280618830f04e8652ab65"
