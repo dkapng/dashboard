@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 17:08:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 18:36:02 **/
 
-const LAST_UPDATE = '28/06/2026, 17:08:01';
+const LAST_UPDATE = '28/06/2026, 18:36:02';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -137,7 +137,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 9,
     "agendado": 2,
     "agendado_coord": 0,
@@ -1538,10 +1538,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-ambiente-digital-cresce-r-pido-Os-riscos-tamb-m-37333d8db9d2809eb92efde4a12efdba"
