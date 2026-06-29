@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/06/2026, 16:22:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/06/2026, 18:05:41 **/
 
-const LAST_UPDATE = '29/06/2026, 16:22:05';
+const LAST_UPDATE = '29/06/2026, 18:05:41';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4104,7 +4104,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vídeos para o trafego",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/V-deos-para-o-trafego-38733d8db9d2802ab949c4d40af325d9",
       "gestora": "Equipe",
       "date": "26/06"
