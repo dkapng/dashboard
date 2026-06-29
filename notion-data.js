@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 21:05:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/06/2026, 02:09:14 **/
 
-const LAST_UPDATE = '28/06/2026, 21:05:18';
+const LAST_UPDATE = '29/06/2026, 02:09:14';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -152,20 +152,20 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Planos Seguros": {
-    "total": 9,
+    "total": 10,
     "pronto": 9,
     "postado": 0,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Plannea": {
-    "total": 12,
-    "pronto": 12,
+    "total": 9,
+    "pronto": 9,
     "postado": 0,
-    "agendado": 7,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 8,
@@ -184,12 +184,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
-    "total": 19,
-    "pronto": 19,
+    "total": 17,
+    "pronto": 17,
     "postado": 3,
-    "agendado": 9,
+    "agendado": 12,
     "agendado_coord": 1,
-    "a_agendar": 5,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -233,12 +233,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Solar Coworking": {
-    "total": 16,
+    "total": 15,
     "pronto": 13,
     "postado": 6,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   }
 };
 
@@ -333,18 +333,18 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Planos Seguros": {
-    "total": 2,
-    "pronto": 1,
+    "total": 3,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 1
   },
   "Plannea": {
-    "total": 0,
-    "pronto": 0,
+    "total": 2,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -365,10 +365,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -512,12 +512,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Plannea": {
     "total": 4,
@@ -544,12 +544,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Finseg Leal": {
     "total": 4,
@@ -587,9 +587,9 @@ const STORIES_DATA = {
     "total": 8,
     "pronto": 8,
     "postado": 5,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 2,
@@ -1868,47 +1868,32 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/NR-1-existem-riscos-silenciosos-que-sua-empresa-n-o-pode-mais-ignorar-36733d8db9d280c399aad8d3aa5f6cf5"
+    },
+    {
+      "title": "Como a Planos acompanha seus contratos ao longo do ano. Se você pensa que nosso trabalho termina no dia da assinatura… arrasta pro lado. 👀",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "30/06",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-a-Planos-acompanha-seus-contratos-ao-longo-do-ano-Se-voc-pensa-que-nosso-trabalho-termina-no--30f33d8db9d280cea7bec775e0d7410f"
     }
   ],
   "Plannea": [
     {
-      "title": "O que é compliance tributário e por que sua empresa precisa disso hoje",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "title": "Tbt São Paulo",
+      "status": "agendado",
+      "formato": "📸 Foto(s)",
+      "date": "18/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-compliance-tribut-rio-e-por-que-sua-empresa-precisa-disso-hoje-37333d8db9d280039ab1c565f3436450"
-    },
-    {
-      "title": "Você sabe quanto a Reforma Tributária vai impactar o preço do seu produto?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabe-quanto-a-Reforma-Tribut-ria-vai-impactar-o-pre-o-do-seu-produto-37333d8db9d28088a5eeff08f409fb23"
-    },
-    {
-      "title": "O que é o Radar Tributário e como ele protege o seu negócio",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-o-Radar-Tribut-rio-e-como-ele-protege-o-seu-neg-cio-37333d8db9d280aab996e9528951196d"
+      "notionUrl": "https://app.notion.com/p/Tbt-S-o-Paulo-38e33d8db9d2808ba23eccb5830212c2"
     },
     {
       "title": "O que diferencia a Plannea de uma contabilidade tradicional",
@@ -1923,14 +1908,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Pare de pagar impostos sem antes revisar sua estratégia tributária.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "19/06",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "30/06",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Pare-de-pagar-impostos-sem-antes-revisar-sua-estrat-gia-tribut-ria-37333d8db9d280a28ee6c0f9386655e5"
     },
@@ -1944,19 +1927,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-dono-do-neg-cio-ou-ref-m-da-opera-o-37333d8db9d280a5b3baf3ef88195c1a"
-    },
-    {
-      "title": "Não vendemos contabilidade. Entregamos inteligência para crescer.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/N-o-vendemos-contabilidade-Entregamos-intelig-ncia-para-crescer-37333d8db9d280d6b415e551c4772fdc"
     },
     {
       "title": "A contabilidade deixou de ser operacional. A sua já percebeu isso?",
@@ -2290,15 +2260,24 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Convite - Reunião Geral",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "25/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Convite-Reuni-o-Geral-38e33d8db9d280b2beedf313a3e5dd24"
+    },
+    {
       "title": "Vaga - Administrativo-Financeiro",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "23/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vaga-Administrativo-Financeiro-38833d8db9d280179bb0c0d90149cad8"
     },
@@ -2348,14 +2327,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A sociedade acredita em recomeço ou só em punição?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/06",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-sociedade-acredita-em-recome-o-ou-s-em-puni-o-36b33d8db9d280afb3a0fa1aa6b67e15"
     },
@@ -2391,19 +2368,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quantas-mulheres-ainda-confundem-controle-com-cuidado-36b33d8db9d2804491f0e445e20aa4de"
-    },
-    {
-      "title": "O amor nunca foi o problema. O preconceito sim! - Dia do Orgulho LGBT",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-amor-nunca-foi-o-problema-O-preconceito-sim-Dia-do-Orgulho-LGBT-36b33d8db9d2802c8571d5ed48dc6716"
     },
     {
       "title": "A gente vai sorrir sim e vai sorrir porque também temos um Oscar em casa! (Dia do cinema nacional)",
@@ -2481,32 +2445,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-uma-crian-a-nunca-se-v-nos-livros-36b33d8db9d28056a9f9ec9a149870d0"
-    },
-    {
-      "title": "Negócio próprio sem rede de apoio? É mais difícil do que parece.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Neg-cio-pr-prio-sem-rede-de-apoio-mais-dif-cil-do-que-parece-20933d8db9d2804a9a9ec78c638d5700"
-    },
-    {
-      "title": "Florescer - Cuidar de uma OSC é cuidar de muitas histórias!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Florescer-Cuidar-de-uma-OSC-cuidar-de-muitas-hist-rias-1ca33d8db9d28058a820d447ea248776"
     }
   ],
   "Finseg Leal": [
@@ -3178,19 +3116,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Grandes-conex-es-tamb-m-nascem-do-ambiente-certo-36d33d8db9d28069ad29c7cd95ade045"
     },
     {
-      "title": "Dia Internacional das Micro, Pequenas e Médias Empresas",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "27/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-Internacional-das-Micro-Pequenas-e-M-dias-Empresas-36d33d8db9d280fab1b3c981d6f494bd"
-    },
-    {
       "title": "\n",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -3440,6 +3365,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "60 Reais por mês!",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/60-Reais-por-m-s-38e33d8db9d280d58b03e45a2833462b"
+    },
+    {
       "title": "Vídeo Viagem",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3464,7 +3400,30 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Viajar-tranquilo-n-o-depende-s-do-destino-36733d8db9d280198ed6e86ecde23e41"
     }
   ],
-  "Plannea": [],
+  "Plannea": [
+    {
+      "title": "Comunicado Ananda",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Comunicado-Ananda-38e33d8db9d28024b6fcffa97d4d8a6a"
+    },
+    {
+      "title": "Vídeo com a equipe externa",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-com-a-equipe-externa-38e33d8db9d2807fabe5c9b89ed117bb"
+    }
+  ],
   "Ortobom": [
     {
       "title": "Copa ",
@@ -3557,7 +3516,19 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Video-para-copa-36d33d8db9d2808eb7fcddca203a48f9"
     }
   ],
-  "Grupo Mulheres do Brasil": [],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Vídeo 1/5 da Vera: Projetos",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-1-5-da-Vera-Projetos-38e33d8db9d28077be96c5bb8ec35ee1"
+    }
+  ],
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [
@@ -3896,21 +3867,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/J-assistiu-O-Menino-que-Descobriu-o-Vento-35133d8db9d2805fa771c21f2fd38e64"
     }
   ],
-  "Planos Seguros": [
-    {
-      "title": "Seu seguro acompanha a realidade atual da sua operação?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "16/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-seguro-acompanha-a-realidade-atual-da-sua-opera-o-36733d8db9d28015a941e771638e52b4"
-    }
-  ],
+  "Planos Seguros": [],
   "Plannea": [
     {
       "title": "Agendar stories de vagas",
@@ -3938,7 +3895,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Nem toda empresa que cresce está, de fato, estruturada.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "15/06",
+      "date": "30/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4008,19 +3965,6 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
-    {
-      "title": "Stories sobre o projeto Juntos Contra o HPV",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Stories-sobre-o-projeto-Juntos-Contra-o-HPV-36b33d8db9d280bab04fe34786ef7829"
-    },
     {
       "title": "O mercado ama produtividade. Mas ignora quem cuida",
       "status": "postado",
@@ -4154,7 +4098,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário da Marcela",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "28/06",
       "missing": [],
@@ -4425,7 +4369,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Ventana": "marcada",
-  "Planos Seguros": "confirmada",
+  "Planos Seguros": "realizada",
   "Conecta Assessoria": "marcada",
   "Finseg Leal": "marcada",
   "Ortobom": "confirmada",
@@ -4468,7 +4412,7 @@ const LEGENDAS_DATA = {
   },
   "Ventana": {
     "prontas": 1,
-    "total": 3
+    "total": 1
   },
   "Univendas": {
     "prontas": 13,
@@ -4487,12 +4431,12 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Planos Seguros": {
-    "prontas": 10,
-    "total": 11
+    "prontas": 12,
+    "total": 13
   },
   "Plannea": {
-    "prontas": 7,
-    "total": 12
+    "prontas": 11,
+    "total": 11
   },
   "Ortobom": {
     "prontas": 15,
@@ -4503,8 +4447,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 14,
-    "total": 19
+    "prontas": 18,
+    "total": 18
   },
   "Finseg Leal": {
     "prontas": 13,
@@ -4527,8 +4471,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 18,
-    "total": 18
+    "prontas": 17,
+    "total": 17
   }
 };
 
@@ -4612,16 +4556,16 @@ const FORMAT_COUNTS = {
   },
   "Planos Seguros": {
     "post": 9,
-    "carrossel": 0,
-    "foto": 0,
-    "video": 2,
-    "story": 1
-  },
-  "Plannea": {
-    "post": 11,
     "carrossel": 1,
     "foto": 0,
-    "video": 0,
+    "video": 3,
+    "story": 0
+  },
+  "Plannea": {
+    "post": 7,
+    "carrossel": 1,
+    "foto": 1,
+    "video": 2,
     "story": 4
   },
   "Ortobom": {
@@ -4639,11 +4583,11 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 17,
+    "post": 15,
     "carrossel": 2,
     "foto": 0,
-    "video": 0,
-    "story": 3
+    "video": 1,
+    "story": 2
   },
   "Finseg Leal": {
     "post": 12,
@@ -4681,7 +4625,7 @@ const FORMAT_COUNTS = {
     "story": 8
   },
   "Solar Coworking": {
-    "post": 16,
+    "post": 15,
     "carrossel": 0,
     "foto": 0,
     "video": 2,
