@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/06/2026, 07:05:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/06/2026, 11:32:09 **/
 
-const LAST_UPDATE = '29/06/2026, 07:05:17';
+const LAST_UPDATE = '29/06/2026, 11:32:09';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -89,10 +89,10 @@ const FEED_DATA = {
   "Stratto": {
     "total": 13,
     "pronto": 13,
-    "postado": 5,
+    "postado": 6,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 16,
@@ -105,10 +105,10 @@ const FEED_DATA = {
   "Jota Diesel": {
     "total": 9,
     "pronto": 8,
-    "postado": 4,
+    "postado": 5,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 1,
@@ -138,18 +138,18 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 13,
-    "postado": 9,
+    "postado": 10,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
-    "total": 8,
-    "pronto": 7,
+    "total": 6,
+    "pronto": 6,
     "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 10,
@@ -176,12 +176,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "ItalaP": {
-    "total": 16,
-    "pronto": 16,
+    "total": 14,
+    "pronto": 14,
     "postado": 3,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 17,
@@ -209,12 +209,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 9,
+    "total": 7,
     "pronto": 7,
     "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 10,
@@ -225,12 +225,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 13,
-    "pronto": 13,
+    "total": 12,
+    "pronto": 12,
     "postado": 1,
     "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 15,
@@ -285,12 +285,12 @@ const VIDEO_DATA = {
     "st-paused": null
   },
   "Jota Diesel": {
-    "total": 4,
+    "total": 1,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -389,12 +389,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 5,
-    "pronto": 5,
+    "total": 4,
+    "pronto": 4,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -450,10 +450,10 @@ const STORIES_DATA = {
   "Stratto": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -536,12 +536,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "ItalaP": {
-    "total": 3,
-    "pronto": 3,
+    "total": 4,
+    "pronto": 4,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 2,
@@ -586,10 +586,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 8,
     "pronto": 8,
-    "postado": 5,
+    "postado": 6,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 2,
@@ -819,7 +819,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Zíperes para diferentes aplicações, abra novas possibilidades com a Tramix",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/06",
+      "date": "29/06",
       "missing": [
         "Legenda"
       ],
@@ -876,7 +876,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mais do que um CNPJ: parabéns a você, que transforma ideias em empregos e move o Brasil todos os dias - Dia Internacional das Micro, Pequenas e Médias Empresas",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "27/06",
       "missing": [],
@@ -889,7 +889,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você vai continuar contando com a sorte ou vai estruturar processos de verdade?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/06",
+      "date": "30/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1082,7 +1082,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nosso-objetivo-principal-zerar-um-n-mero-que-nunca-deveria-ter-existido-36b33d8db9d280fba3e2cccc4794c0d2"
@@ -1091,7 +1091,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O documento mais importante do futuro do seu filho está na gaveta hoje.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/06",
+      "date": "30/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1225,7 +1225,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A injeção diesel influencia mais do que você imagina.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "26/06",
       "missing": [],
@@ -1533,7 +1533,7 @@ const LINHA_FEED_ITEMS = {
   "RR Advocacia": [
     {
       "title": "O ambiente digital cresce rápido. Os riscos também.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/06",
       "missing": [],
@@ -1676,30 +1676,6 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Rede Pangeia": [
-    {
-      "title": "O que grandes investidores e fundações procuram em um projeto social?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-grandes-investidores-e-funda-es-procuram-em-um-projeto-social-38833d8db9d280fbb3cccc6d3116ac6a"
-    },
-    {
-      "title": "O erro que elimina ONGs de editais - E muitas vezes ele não está no projeto.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "26/06",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-erro-que-elimina-ONGs-de-editais-E-muitas-vezes-ele-n-o-est-no-projeto-38833d8db9d280c89b6bd30cc148e31b"
-    },
     {
       "title": "Quando foi a última vez que você conseguiu pensar no crescimento da sua equipe sem se preocupar com o caixa?",
       "status": "postado",
@@ -2085,7 +2061,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Seu plano Unimed agora é aceito na ItalaP Amontada!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/06",
+      "date": "29/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2113,28 +2089,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-corpo-anda-tentando-chamar-sua-aten-o-36f33d8db9d28020860be973b4f2d97e"
-    },
-    {
-      "title": "Vai viajar nas férias? Antes de fazer as malas, confira se você não está esquecendo o mais importante: sua saúde.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "29/06",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Vai-viajar-nas-f-rias-Antes-de-fazer-as-malas-confira-se-voc-n-o-est-esquecendo-o-mais-important-36f33d8db9d280618830f04e8652ab65"
-    },
-    {
-      "title": "Seis meses atrás você prometeu cuidar mais da sua saúde.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/06",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seis-meses-atr-s-voc-prometeu-cuidar-mais-da-sua-sa-de-36f33d8db9d280d7a852d998ff6457ca"
     },
     {
       "title": "Talvez não seja só estresse - Fique atento!",
@@ -2452,7 +2406,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O patrimônio que você tem hoje é o mesmo de quando contratou seu seguro?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/06",
+      "date": "30/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2607,32 +2561,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "APROSSEG": [
     {
-      "title": "Malas prontas para as férias de julho? Descubra por que o Seguro Viagem é o item mais importante da bagagem.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "29/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Malas-prontas-para-as-f-rias-de-julho-Descubra-por-que-o-Seguro-Viagem-o-item-mais-importante-da--36e33d8db9d280419994d06dda5cf518"
-    },
-    {
-      "title": "Atendimento nacional com o acolhimento de Fortaleza. Descubra a tranquilidade de ser cliente APROSSEG.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "25/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Atendimento-nacional-com-o-acolhimento-de-Fortaleza-Descubra-a-tranquilidade-de-ser-cliente-APROSSE-36e33d8db9d280ed8f6bdc907821d51d"
-    },
-    {
       "title": "Bateram no seu carro e a pessoa não tem seguro? Saiba como a cobertura de terceiros te salva do prejuízo.",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -2737,7 +2665,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você quer crescer e atrair investidor. Ele vai perguntar se você tem compliance. O que você vai responder?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/06",
+      "date": "30/06",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2823,17 +2751,6 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
-    {
-      "title": "Uma consulta fora do Brasil pode custar mais do que a viagem inteira. E muita gente ainda viaja sem seguro.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/06",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-consulta-fora-do-Brasil-pode-custar-mais-do-que-a-viagem-inteira-E-muita-gente-ainda-viaja-sem--36e33d8db9d280469932f97e81bf64e0"
-    },
     {
       "title": "Quer tomar decisões mais estratégicas para sua empresa? Chama a Conecta e vamos entender juntos o que realmente faz sentido para o seu negócio.",
       "status": "agendado",
@@ -3217,48 +3134,6 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Jota Diesel": [
     {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "24/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-36e33d8db9d280ddadf9efb3f8c3c065"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-36e33d8db9d280dea193f761554c26fa"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "10/06",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-36e33d8db9d28039b6e0ec999f11e267"
-    },
-    {
       "title": "O problema da turbina",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -3544,19 +3419,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Video-da-Ge-rgia-38333d8db9d280caad0df1a9d79b2fb0"
     },
     {
-      "title": "Cliente favorito",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "26/06",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Cliente-favorito-36b33d8db9d2807eb70ec0a150574985"
-    },
-    {
       "title": "Descobriu que não estava protegido",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3707,7 +3569,7 @@ const LINHA_STORIES_ITEMS = {
   "Stratto": [
     {
       "title": "Cronograma para a copa",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "26/06",
       "missing": [],
@@ -3931,6 +3793,17 @@ const LINHA_STORIES_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Julho é um mês que traz dois importantes lembretes sobre saúde.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/06",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Julho-um-m-s-que-traz-dois-importantes-lembretes-sobre-sa-de-38333d8db9d2801eaad0ce39c2b2a674"
+    },
+    {
       "title": "Comunicado",
       "status": "postado",
       "formato": "📱 Story",
@@ -4087,7 +3960,7 @@ const LINHA_STORIES_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Comunicado ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "26/06",
       "missing": [],
@@ -4408,7 +4281,7 @@ const LEGENDAS_DATA = {
   },
   "Jota Diesel": {
     "prontas": 10,
-    "total": 13
+    "total": 10
   },
   "Ventana": {
     "prontas": 1,
@@ -4427,8 +4300,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Rede Pangeia": {
-    "prontas": 12,
-    "total": 12
+    "prontas": 10,
+    "total": 10
   },
   "Planos Seguros": {
     "prontas": 12,
@@ -4443,8 +4316,8 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "ItalaP": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 15,
+    "total": 15
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 18,
@@ -4459,16 +4332,16 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "APROSSEG": {
-    "prontas": 13,
-    "total": 14
+    "prontas": 11,
+    "total": 11
   },
   "Daniel Maia Advocacia": {
     "prontas": 11,
     "total": 11
   },
   "Conecta Assessoria": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 16,
+    "total": 16
   },
   "Solar Coworking": {
     "prontas": 17,
@@ -4516,7 +4389,7 @@ const FORMAT_COUNTS = {
     "post": 9,
     "carrossel": 0,
     "foto": 0,
-    "video": 4,
+    "video": 1,
     "story": 2
   },
   "Ventana": {
@@ -4548,8 +4421,8 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Rede Pangeia": {
-    "post": 3,
-    "carrossel": 5,
+    "post": 2,
+    "carrossel": 4,
     "foto": 0,
     "video": 4,
     "story": 2
@@ -4576,11 +4449,11 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "ItalaP": {
-    "post": 13,
-    "carrossel": 3,
+    "post": 12,
+    "carrossel": 2,
     "foto": 0,
     "video": 1,
-    "story": 3
+    "story": 4
   },
   "Grupo Mulheres do Brasil": {
     "post": 15,
@@ -4604,10 +4477,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 7,
-    "carrossel": 2,
+    "post": 6,
+    "carrossel": 1,
     "foto": 0,
-    "video": 5,
+    "video": 4,
     "story": 4
   },
   "Daniel Maia Advocacia": {
@@ -4618,7 +4491,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Conecta Assessoria": {
-    "post": 12,
+    "post": 11,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
@@ -4665,7 +4538,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ventana": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 1
   },
