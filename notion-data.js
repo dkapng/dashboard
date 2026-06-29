@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/06/2026, 11:32:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/06/2026, 14:30:24 **/
 
-const LAST_UPDATE = '29/06/2026, 11:32:09';
+const LAST_UPDATE = '29/06/2026, 14:30:24';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -96,7 +96,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 16,
-    "pronto": 15,
+    "pronto": 16,
     "postado": 4,
     "agendado": 10,
     "agendado_coord": 0,
@@ -1079,10 +1079,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nosso-objetivo-principal-zerar-um-n-mero-que-nunca-deveria-ter-existido-36b33d8db9d280fba3e2cccc4794c0d2"
