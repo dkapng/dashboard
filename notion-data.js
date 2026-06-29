@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 19:56:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/06/2026, 21:05:18 **/
 
-const LAST_UPDATE = '28/06/2026, 19:56:44';
+const LAST_UPDATE = '28/06/2026, 21:05:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,7 +88,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 5,
     "agendado": 6,
     "agendado_coord": 0,
@@ -890,10 +890,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-vai-continuar-contando-com-a-sorte-ou-vai-estruturar-processos-de-verdade-36c33d8db9d280dbaf83dd211dbd09e4"
@@ -1679,7 +1677,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Rede Pangeia": [
     {
-      "title": "O que grandes investidores e fundações procuram em um projeto social? ",
+      "title": "O que grandes investidores e fundações procuram em um projeto social?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/06",
