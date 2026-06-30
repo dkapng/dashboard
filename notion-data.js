@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/06/2026, 15:02:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/06/2026, 17:26:10 **/
 
-const LAST_UPDATE = '30/06/2026, 15:02:03';
+const LAST_UPDATE = '30/06/2026, 17:26:10';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -168,12 +168,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 8,
+    "total": 9,
     "pronto": 5,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 14,
@@ -389,9 +389,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 4,
-    "pronto": 4,
-    "postado": 1,
+    "total": 5,
+    "pronto": 5,
+    "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -568,12 +568,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 4,
+    "total": 3,
     "pronto": 3,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -1959,6 +1959,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ortobom": [
+    {
+      "title": "Férias não são só para viajar. São para recuperar as energias.”",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/06",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/F-rias-n-o-s-o-s-para-viajar-S-o-para-recuperar-as-energias-38f33d8db9d28019a507cc7c593fb40c"
+    },
     {
       "title": "Trend dia dos namorados ",
       "status": "agendado_coord",
@@ -3403,6 +3417,17 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Video-da-Ge-rgia-38333d8db9d280caad0df1a9d79b2fb0"
     },
     {
+      "title": "Cliente favorito",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/06",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Cliente-favorito-36b33d8db9d2807eb70ec0a150574985"
+    },
+    {
       "title": "Descobriu que não estava protegido",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3923,19 +3948,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Story-stories-36b33d8db9d280a38542e958dd9edbc3"
-    },
-    {
-      "title": "Dia do Caminhoneiro",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "30/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Caminhoneiro-35e33d8db9d28041906df25fb6b5a4ac"
     }
   ],
   "Daniel Maia Advocacia": [],
@@ -4088,7 +4100,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vídeos para o trafego",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/V-deos-para-o-trafego-38733d8db9d2802ab949c4d40af325d9",
       "gestora": "Equipe",
       "date": "26/06"
@@ -4150,7 +4162,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação para pitch",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
@@ -4295,7 +4307,7 @@ const LEGENDAS_DATA = {
   },
   "Ortobom": {
     "prontas": 15,
-    "total": 15
+    "total": 16
   },
   "ItalaP": {
     "prontas": 15,
@@ -4314,8 +4326,8 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "APROSSEG": {
-    "prontas": 11,
-    "total": 11
+    "prontas": 12,
+    "total": 12
   },
   "Daniel Maia Advocacia": {
     "prontas": 11,
@@ -4424,7 +4436,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Ortobom": {
-    "post": 6,
+    "post": 7,
     "carrossel": 2,
     "foto": 0,
     "video": 7,
@@ -4462,8 +4474,8 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 1,
     "foto": 0,
-    "video": 4,
-    "story": 4
+    "video": 5,
+    "story": 3
   },
   "Daniel Maia Advocacia": {
     "post": 8,
