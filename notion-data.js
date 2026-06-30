@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/06/2026, 13:00:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/06/2026, 15:02:03 **/
 
-const LAST_UPDATE = '30/06/2026, 13:00:01';
+const LAST_UPDATE = '30/06/2026, 15:02:03';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -90,9 +90,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 13,
     "postado": 6,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 16,
@@ -327,10 +327,10 @@ const VIDEO_DATA = {
   "Rede Pangeia": {
     "total": 4,
     "pronto": 4,
-    "postado": 2,
+    "postado": 3,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 3,
@@ -887,7 +887,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você vai continuar contando com a sorte ou vai estruturar processos de verdade?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/06",
       "missing": [],
@@ -3179,7 +3179,7 @@ const LINHA_VIDEO_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "Organizações e a organização",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "30/06",
       "missing": [],
