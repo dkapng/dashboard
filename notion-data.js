@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/06/2026, 10:06:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/06/2026, 13:00:01 **/
 
-const LAST_UPDATE = '30/06/2026, 10:06:02';
+const LAST_UPDATE = '30/06/2026, 13:00:01';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -98,9 +98,9 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 16,
     "postado": 4,
-    "agendado": 10,
+    "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 9,
@@ -178,10 +178,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 14,
     "pronto": 14,
-    "postado": 3,
+    "postado": 4,
     "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 17,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Finseg Leal": {
     "total": 13,
     "pronto": 13,
-    "postado": 4,
+    "postado": 5,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 1,
@@ -220,9 +220,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 10,
     "postado": 2,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 12,
@@ -425,7 +425,7 @@ const VIDEO_DATA = {
 const STORIES_DATA = {
   "Travessias Híbridas": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -538,10 +538,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 4,
     "pronto": 4,
-    "postado": 2,
+    "postado": 3,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 2,
@@ -586,10 +586,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 8,
     "pronto": 8,
-    "postado": 6,
+    "postado": 7,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 2,
@@ -1076,7 +1076,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nosso objetivo principal: zerar um número que nunca deveria ter existido.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/06",
       "missing": [],
@@ -1087,7 +1087,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O documento mais importante do futuro do seu filho está na gaveta hoje.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/06",
       "missing": [],
@@ -2057,7 +2057,7 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "Seu plano Unimed agora é aceito na ItalaP Amontada!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/06",
       "missing": [],
@@ -2402,7 +2402,7 @@ const LINHA_FEED_ITEMS = {
   "Finseg Leal": [
     {
       "title": "O patrimônio que você tem hoje é o mesmo de quando contratou seu seguro?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "30/06",
       "missing": [],
@@ -2661,7 +2661,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você quer crescer e atrair investidor. Ele vai perguntar se você tem compliance. O que você vai responder?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/06",
       "missing": [],
@@ -3528,10 +3528,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "30/06",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/HOJE-38933d8db9d28023b33cc75feec4abaa"
@@ -3778,7 +3776,7 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Julho é um mês que traz dois importantes lembretes sobre saúde.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "30/06",
       "missing": [],
@@ -3966,7 +3964,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário do Reginaldo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "30/06",
       "missing": [],
@@ -4597,7 +4595,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Solar Coworking": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   }
