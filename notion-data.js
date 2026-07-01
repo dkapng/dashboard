@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 13:02:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 15:21:28 **/
 
-const LAST_UPDATE = '01/07/2026, 13:02:42';
+const LAST_UPDATE = '01/07/2026, 15:21:28';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -781,7 +781,7 @@ const LINHA_FEED_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Post",
+      "title": "Você conhece os seus direitos em caso de acidente de trabalho?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
@@ -792,10 +792,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d28014bca5cc3069918f7c"
+      "notionUrl": "https://app.notion.com/p/Voc-conhece-os-seus-direitos-em-caso-de-acidente-de-trabalho-39033d8db9d28014bca5cc3069918f7c"
     },
     {
-      "title": "Post",
+      "title": "Assinou um contrato sem ler todos os detalhes? Isso pode gerar consequências.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/07",
@@ -806,10 +806,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280dbac3cff062a1f4d26"
+      "notionUrl": "https://app.notion.com/p/Assinou-um-contrato-sem-ler-todos-os-detalhes-Isso-pode-gerar-consequ-ncias-39033d8db9d280dbac3cff062a1f4d26"
     },
     {
-      "title": "Post",
+      "title": "Imóvel irregular pode trazer prejuízos na hora de vender ou financiar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
@@ -820,10 +820,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280fd9ac4ce90e8c8141b"
+      "notionUrl": "https://app.notion.com/p/Im-vel-irregular-pode-trazer-preju-zos-na-hora-de-vender-ou-financiar-39033d8db9d280fd9ac4ce90e8c8141b"
     },
     {
-      "title": "Post",
+      "title": "Foi demitido? Conheça alguns dos seus principais direitos.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/07",
@@ -834,10 +834,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280fa9564d72afe851917"
+      "notionUrl": "https://app.notion.com/p/Foi-demitido-Conhe-a-alguns-dos-seus-principais-direitos-39033d8db9d280fa9564d72afe851917"
     },
     {
-      "title": "Post",
+      "title": "Contrato verbal existe e pode ter validade jurídica.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/07",
@@ -848,10 +848,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d28089bc67cc1a0b739538"
+      "notionUrl": "https://app.notion.com/p/Contrato-verbal-existe-e-pode-ter-validade-jur-dica-39033d8db9d28089bc67cc1a0b739538"
     },
     {
-      "title": "Post",
+      "title": "Nem toda jornada extra passa despercebida pela lei.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/07",
@@ -862,10 +862,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d2805d8093e12cc45c057b"
+      "notionUrl": "https://app.notion.com/p/Nem-toda-jornada-extra-passa-despercebida-pela-lei-39033d8db9d2805d8093e12cc45c057b"
     },
     {
-      "title": "Post",
+      "title": "Você mora em um imóvel há anos? Entenda quando a posse pode ser reconhecida legalmente.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/07",
@@ -876,10 +876,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280679bdee8aca7d215b2"
+      "notionUrl": "https://app.notion.com/p/Voc-mora-em-um-im-vel-h-anos-Entenda-quando-a-posse-pode-ser-reconhecida-legalmente-39033d8db9d280679bdee8aca7d215b2"
     },
     {
-      "title": "Post",
+      "title": "Recebeu uma cobrança de uma dívida antiga? Saiba o que observar",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/07",
@@ -890,10 +890,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d2804684eeff82f0eef8fc"
+      "notionUrl": "https://app.notion.com/p/Recebeu-uma-cobran-a-de-uma-d-vida-antiga-Saiba-o-que-observar-39033d8db9d2804684eeff82f0eef8fc"
     },
     {
-      "title": "Post",
+      "title": "Trabalhar sem registro pode trazer prejuízos para ambas as partes.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/07",
@@ -904,7 +904,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d2808f817fc374809fa918"
+      "notionUrl": "https://app.notion.com/p/Trabalhar-sem-registro-pode-trazer-preju-zos-para-ambas-as-partes-39033d8db9d2808f817fc374809fa918"
     },
     {
       "title": "Segurança jurídica não impede o crescimento. Sustenta o crescimento.",
@@ -3041,7 +3041,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28038bf81cc1d2652bd3f"
     },
