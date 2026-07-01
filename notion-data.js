@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 10:16:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 13:02:42 **/
 
-const LAST_UPDATE = '01/07/2026, 10:16:46';
+const LAST_UPDATE = '01/07/2026, 13:02:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -97,9 +97,9 @@ const FEED_DATA = {
     "total": 3,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 2
+    "agendado": 2,
+    "agendado_coord": 0,
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 6,
@@ -134,12 +134,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 1,
+    "total": 10,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 9
   },
   "Rede Pangeia": {
     "total": 12,
@@ -230,12 +230,12 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Solar Coworking": {
-    "total": 7,
+    "total": 13,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 13
   }
 };
 
@@ -313,12 +313,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 5
   },
   "Rede Pangeia": {
     "total": 1,
@@ -371,10 +371,10 @@ const VIDEO_DATA = {
   "Finseg Leal": {
     "total": 5,
     "pronto": 5,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -492,20 +492,20 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 0,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 4
   },
   "Rede Pangeia": {
     "total": 5,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Planos Seguros": {
     "total": 4,
@@ -573,19 +573,19 @@ const STORIES_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 5,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 5,
@@ -656,21 +656,21 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil.",
-      "status": "agendado_coord",
+      "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil. ",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "01/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Talvez-voc-j-me-conhe-a-Eu-cresci-junto-com-o-movimento-Juntos-Contra-o-HPV-E-agora-estou-de-car-38933d8db9d280afbe28fa66acaf0e22"
     },
     {
       "title": "Centenas de milhões de pessoas já tomaram. O que os dados dizem?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "02/07",
       "missing": [],
@@ -681,7 +681,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Garantido por lei, gratuito no SUS e ignorado por muitos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "03/07",
       "missing": [],
@@ -781,8 +781,134 @@ const LINHA_FEED_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Segurança jurídica não impede o crescimento. Sustenta o crescimento.",
+      "title": "Post",
       "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d28014bca5cc3069918f7c"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280dbac3cff062a1f4d26"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280fd9ac4ce90e8c8141b"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280fa9564d72afe851917"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d28089bc67cc1a0b739538"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d2805d8093e12cc45c057b"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280679bdee8aca7d215b2"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d2804684eeff82f0eef8fc"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d2808f817fc374809fa918"
+    },
+    {
+      "title": "Segurança jurídica não impede o crescimento. Sustenta o crescimento.",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "01/07",
       "missing": [],
@@ -2189,6 +2315,90 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d2805fa3fddab25ec23471"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280bc9d7cfa0b7c8fd182"
+    },
+    {
+      "title": "Empresas bem posicionadas são lembradas com mais facilidade.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Empresas-bem-posicionadas-s-o-lembradas-com-mais-facilidade-39033d8db9d280739e66d30125fa517c"
+    },
+    {
+      "title": "Empresas bem posicionadas são lembradas com mais facilidade.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Empresas-bem-posicionadas-s-o-lembradas-com-mais-facilidade-39033d8db9d2805fa1b7c02c5d922948"
+    },
+    {
+      "title": "Sua estrutura acompanha o crescimento do seu negócio?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-estrutura-acompanha-o-crescimento-do-seu-neg-cio-39033d8db9d280808969dd4ab4fc4282"
+    },
+    {
+      "title": "Trabalhar de casa pode estar custando mais do que você imagina.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Trabalhar-de-casa-pode-estar-custando-mais-do-que-voc-imagina-39033d8db9d280e0ae17ccafa1596970"
+    },
+    {
       "title": "Receber encomendas com segurança também é uma vantagem estratégica.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2231,7 +2441,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Fortaleza-ou-Eus-bio-duas-localiza-es-mais-possibilidades-para-o-seu-neg-cio-39033d8db9d280e7993bc62fb08d39b5"
     },
     {
-      "title": "Psicólogo, o ambiente também faz parte da experiência do paciente.",
+      "title": "Psicólogo explica: o ambiente também faz parte da experiência do cliente",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/07",
@@ -2242,7 +2452,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Psic-logo-o-ambiente-tamb-m-faz-parte-da-experi-ncia-do-paciente-39033d8db9d280968aeaff60c9e4896e"
+      "notionUrl": "https://app.notion.com/p/Psic-logo-explica-o-ambiente-tamb-m-faz-parte-da-experi-ncia-do-cliente-39033d8db9d280968aeaff60c9e4896e"
     },
     {
       "title": "Networking de verdade acontece quando você menos espera.",
@@ -2259,7 +2469,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-39033d8db9d2800bbe99fb1aca70528d"
     },
     {
-      "title": "O endereço da sua empresa transmite confiança ou levanta dúvidas?",
+      "title": "O endereço da sua empresa transmite confiança ou levanta suspeita?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/07",
@@ -2270,7 +2480,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-endere-o-da-sua-empresa-transmite-confian-a-ou-levanta-d-vidas-39033d8db9d280feb532c2845d3b9ebb"
+      "notionUrl": "https://app.notion.com/p/O-endere-o-da-sua-empresa-transmite-confian-a-ou-levanta-suspeita-39033d8db9d280feb532c2845d3b9ebb"
     },
     {
       "title": "A Solar não promete sucesso. Promete que a estrutura não vai ser o seu problema.",
@@ -2298,7 +2508,77 @@ const LINHA_VIDEO_ITEMS = {
   "Ventana": [],
   "Univendas": [],
   "Terrartesã": [],
-  "RR Advocacia": [],
+  "RR Advocacia": [
+    {
+      "title": "Contrato verbal",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Contrato-verbal-39033d8db9d2802484eefe2026763605"
+    },
+    {
+      "title": "Contrato virtual",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Contrato-virtual-39033d8db9d28079a8fcdba690b6f84f"
+    },
+    {
+      "title": "Execução judicial",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "15/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Execu-o-judicial-39033d8db9d28037a891c6f4078b8179"
+    },
+    {
+      "title": "Jurídico ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "08/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Jur-dico-39033d8db9d280d5aee8eb857a1fb124"
+    },
+    {
+      "title": "Só procurar advogado quando estoura um problema.",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "03/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/S-procurar-advogado-quando-estoura-um-problema-39033d8db9d28093ae0ee83453b53872"
+    }
+  ],
   "Rede Pangeia": [
     {
       "title": "Trabalhar em um lugar que paga mais ",
@@ -2535,14 +2815,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "3 sinais ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "01/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/3-sinais-38f33d8db9d280239d9bfd3f3d3f245b"
     }
@@ -2753,7 +3031,60 @@ const LINHA_STORIES_ITEMS = {
   "Ventana": [],
   "Univendas": [],
   "Terrartesã": [],
-  "RR Advocacia": [],
+  "RR Advocacia": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "23/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28038bf81cc1d2652bd3f"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "16/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d2805a80e6dc4d6afc8539"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "09/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28089b661dfe74452fd08"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "02/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280658df1cae8f1f66ac7"
+    }
+  ],
   "Rede Pangeia": [
     {
       "title": "#DicaDaSemana",
@@ -2807,7 +3138,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#DicaDaSemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "01/07",
       "missing": [],
@@ -2960,14 +3291,12 @@ const LINHA_STORIES_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Feliz aniversário, Emily",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "01/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Emily-39033d8db9d2803298f1dfc9d9510ff2"
     }
@@ -3021,7 +3350,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário - Davi Teixeira / 2D Assessoria",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "01/07",
       "missing": [],
@@ -3105,7 +3434,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Mudar a aparência da Juh",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Mudar-a-apar-ncia-da-Juh-38933d8db9d28006a2dfd576c47b0f2e",
       "gestora": "Equipe",
       "date": "25/06"
@@ -3315,7 +3644,7 @@ const LEGENDAS_DATA = {
   },
   "RR Advocacia": {
     "prontas": 1,
-    "total": 1
+    "total": 15
   },
   "Rede Pangeia": {
     "prontas": 13,
@@ -3342,7 +3671,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Finseg Leal": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 19
   },
   "Di Gregório Buffet": {
@@ -3363,7 +3692,7 @@ const LEGENDAS_DATA = {
   },
   "Solar Coworking": {
     "prontas": 5,
-    "total": 12
+    "total": 17
   }
 };
 
@@ -3432,11 +3761,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 1,
+    "post": 10,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
-    "story": 0
+    "video": 5,
+    "story": 4
   },
   "Rede Pangeia": {
     "post": 6,
@@ -3516,7 +3845,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Solar Coworking": {
-    "post": 7,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 4,
