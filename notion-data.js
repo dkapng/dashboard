@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 18:57:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 20:12:32 **/
 
-const LAST_UPDATE = '01/07/2026, 18:57:00';
+const LAST_UPDATE = '01/07/2026, 20:12:32';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -663,7 +663,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Talvez-voc-j-me-conhe-a-Eu-cresci-junto-com-o-movimento-Juntos-Contra-o-HPV-E-agora-estou-de-car-38933d8db9d280afbe28fa66acaf0e22"
@@ -3405,7 +3405,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Mudar a aparência da Juh",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Mudar-a-apar-ncia-da-Juh-38933d8db9d28006a2dfd576c47b0f2e",
       "gestora": "Equipe",
       "date": "25/06"
@@ -3413,7 +3413,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Slide de apresentação da Juh",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Slide-de-apresenta-o-da-Juh-38933d8db9d2805b8f18cc86eedc72fa",
       "gestora": "Equipe",
       "date": "26/06"
