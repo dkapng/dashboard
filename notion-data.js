@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 15:21:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 17:21:12 **/
 
-const LAST_UPDATE = '01/07/2026, 15:21:28';
+const LAST_UPDATE = '01/07/2026, 17:21:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -698,11 +698,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-o-consumo-aumentou-seu-ve-culo-pode-estar-tentando-avisar-algo-38e33d8db9d28013bb6ce1934fdbbc82"
     },
@@ -712,11 +711,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-desempenho-n-o-come-a-no-acelerador-Come-a-na-manuten-o-38e33d8db9d28085852cfe570e04fe9a"
     },
@@ -726,11 +724,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-sinais-aparecem-antes-do-problema-Voc-est-observando-38e33d8db9d280289d49da456a7cc68b"
     },
@@ -740,11 +737,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Rodar-na-reserva-pode-custar-mais-do-que-voc-imagina-38e33d8db9d28085ae01dabb83967e4c"
     },
@@ -767,11 +763,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "03/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-roda-muito-sabe-confian-a-se-constr-i-na-manuten-o-38e33d8db9d28074b669dd59f85d99e4"
     }
@@ -786,11 +781,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-os-seus-direitos-em-caso-de-acidente-de-trabalho-39033d8db9d28014bca5cc3069918f7c"
     },
@@ -800,11 +794,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Assinou-um-contrato-sem-ler-todos-os-detalhes-Isso-pode-gerar-consequ-ncias-39033d8db9d280dbac3cff062a1f4d26"
     },
@@ -814,11 +807,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Im-vel-irregular-pode-trazer-preju-zos-na-hora-de-vender-ou-financiar-39033d8db9d280fd9ac4ce90e8c8141b"
     },
@@ -828,11 +820,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Foi-demitido-Conhe-a-alguns-dos-seus-principais-direitos-39033d8db9d280fa9564d72afe851917"
     },
@@ -842,11 +833,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Contrato-verbal-existe-e-pode-ter-validade-jur-dica-39033d8db9d28089bc67cc1a0b739538"
     },
@@ -856,11 +846,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-toda-jornada-extra-passa-despercebida-pela-lei-39033d8db9d2805d8093e12cc45c057b"
     },
@@ -870,11 +859,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-mora-em-um-im-vel-h-anos-Entenda-quando-a-posse-pode-ser-reconhecida-legalmente-39033d8db9d280679bdee8aca7d215b2"
     },
@@ -884,11 +872,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Recebeu-uma-cobran-a-de-uma-d-vida-antiga-Saiba-o-que-observar-39033d8db9d2804684eeff82f0eef8fc"
     },
@@ -898,11 +885,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Trabalhar-sem-registro-pode-trazer-preju-zos-para-ambas-as-partes-39033d8db9d2808f817fc374809fa918"
     },
@@ -1225,11 +1211,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nada-melhor-que-chegar-em-casa-e-encontrar-o-conforto-que-voc-merece-38f33d8db9d280769fffd988487e5cc0"
     },
@@ -1239,25 +1224,23 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Acordar-sem-dores-no-pesco-o-come-a-com-a-escolha-do-travesseiro-certo-38f33d8db9d28027b24cff359f023bd8"
     },
     {
-      "title": "As férias chegaram. Seu descanso está à altura desse momento?”",
+      "title": "As férias chegaram. Seu descanso está à altura desse momento?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/As-f-rias-chegaram-Seu-descanso-est-altura-desse-momento-38f33d8db9d280a5bf73c90f178c92bd"
     },
@@ -1267,11 +1250,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Metade-do-ano-j-passou-Seu-colch-o-ainda-entrega-o-conforto-que-voc-precisa-38f33d8db9d280198ce7f7b2f11d473b"
     },
@@ -1281,11 +1263,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "03/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dormir-bem-n-o-luxo-qualidade-de-vida-38f33d8db9d2809287c5d19545e324c1"
     },
@@ -1295,11 +1276,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "01/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-coluna-trabalha-o-dia-inteiro-noite-ela-precisa-do-suporte-certo-38f33d8db9d280f3b791f916e4830a9f"
     },
@@ -1309,11 +1289,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Julho-o-m-s-perfeito-para-investir-no-seu-conforto-e-come-ar-o-segundo-semestre-dormindo-melhor-38f33d8db9d2804d987bfe94a397738f"
     }
@@ -2376,11 +2355,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-estrutura-acompanha-o-crescimento-do-seu-neg-cio-39033d8db9d280808969dd4ab4fc4282"
     },
@@ -2390,11 +2368,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Trabalhar-de-casa-pode-estar-custando-mais-do-que-voc-imagina-39033d8db9d280e0ae17ccafa1596970"
     },
@@ -2404,11 +2381,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Receber-encomendas-com-seguran-a-tamb-m-uma-vantagem-estrat-gica-39033d8db9d2801e80e9cf50137d3cb5"
     },
@@ -2418,11 +2394,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-da-reuni-o-come-ar-seu-cliente-j-criou-uma-primeira-impress-o-39033d8db9d2807b85d6f1a32c51c584"
     },
@@ -2432,11 +2407,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Fortaleza-ou-Eus-bio-duas-localiza-es-mais-possibilidades-para-o-seu-neg-cio-39033d8db9d280e7993bc62fb08d39b5"
     },
@@ -2446,11 +2420,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Psic-logo-explica-o-ambiente-tamb-m-faz-parte-da-experi-ncia-do-cliente-39033d8db9d280968aeaff60c9e4896e"
     },
@@ -2460,11 +2433,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-39033d8db9d2800bbe99fb1aca70528d"
     },
@@ -2474,11 +2446,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-endere-o-da-sua-empresa-transmite-confian-a-ou-levanta-suspeita-39033d8db9d280feb532c2845d3b9ebb"
     },
@@ -3054,7 +3025,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d2805a80e6dc4d6afc8539"
     },
@@ -3067,7 +3038,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28089b661dfe74452fd08"
     },
@@ -3080,7 +3051,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280658df1cae8f1f66ac7"
     }
@@ -3442,7 +3413,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Slide de apresentação da Juh",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Slide-de-apresenta-o-da-Juh-38933d8db9d2805b8f18cc86eedc72fa",
       "gestora": "Equipe",
       "date": "26/06"
@@ -3627,7 +3598,7 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "Jota Diesel": {
-    "prontas": 1,
+    "prontas": 6,
     "total": 6
   },
   "Ventana": {
@@ -3643,7 +3614,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 1,
+    "prontas": 10,
     "total": 15
   },
   "Rede Pangeia": {
@@ -3659,7 +3630,7 @@ const LEGENDAS_DATA = {
     "total": 9
   },
   "Ortobom": {
-    "prontas": 0,
+    "prontas": 7,
     "total": 9
   },
   "ItalaP": {
@@ -3691,7 +3662,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Solar Coworking": {
-    "prontas": 5,
+    "prontas": 13,
     "total": 17
   }
 };
