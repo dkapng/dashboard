@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 07:27:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 10:16:46 **/
 
-const LAST_UPDATE = '01/07/2026, 07:27:24';
+const LAST_UPDATE = '01/07/2026, 10:16:46';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -230,12 +230,12 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Solar Coworking": {
-    "total": 1,
+    "total": 7,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 7
   }
 };
 
@@ -572,12 +572,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 5,
@@ -588,12 +588,12 @@ const STORIES_DATA = {
     "a_agendar": 5
   },
   "Solar Coworking": {
-    "total": 0,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 5
   }
 };
 
@@ -2189,6 +2189,90 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "Receber encomendas com segurança também é uma vantagem estratégica.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Receber-encomendas-com-seguran-a-tamb-m-uma-vantagem-estrat-gica-39033d8db9d2801e80e9cf50137d3cb5"
+    },
+    {
+      "title": "Antes da reunião começar, seu cliente já criou uma primeira impressão.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Antes-da-reuni-o-come-ar-seu-cliente-j-criou-uma-primeira-impress-o-39033d8db9d2807b85d6f1a32c51c584"
+    },
+    {
+      "title": "Fortaleza ou Eusébio: duas localizações, mais possibilidades para o seu negócio.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Fortaleza-ou-Eus-bio-duas-localiza-es-mais-possibilidades-para-o-seu-neg-cio-39033d8db9d280e7993bc62fb08d39b5"
+    },
+    {
+      "title": "Psicólogo, o ambiente também faz parte da experiência do paciente.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Psic-logo-o-ambiente-tamb-m-faz-parte-da-experi-ncia-do-paciente-39033d8db9d280968aeaff60c9e4896e"
+    },
+    {
+      "title": "Networking de verdade acontece quando você menos espera.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-39033d8db9d2800bbe99fb1aca70528d"
+    },
+    {
+      "title": "O endereço da sua empresa transmite confiança ou levanta dúvidas?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-endere-o-da-sua-empresa-transmite-confian-a-ou-levanta-d-vidas-39033d8db9d280feb532c2845d3b9ebb"
+    },
+    {
       "title": "A Solar não promete sucesso. Promete que a estrutura não vai ser o seu problema.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2873,7 +2957,21 @@ const LINHA_STORIES_ITEMS = {
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [],
-  "Daniel Maia Advocacia": [],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Feliz aniversário, Emily",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "01/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Emily-39033d8db9d2803298f1dfc9d9510ff2"
+    }
+  ],
   "Conecta Assessoria": [
     {
       "title": "Aniversário - Fabio / Proviz",
@@ -2933,7 +3031,73 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Davi-Teixeira-2D-Assessoria-38f33d8db9d2805e9e31fbe25f7fd145"
     }
   ],
-  "Solar Coworking": []
+  "Solar Coworking": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280cfb1c4f1e4fedb4582"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "23/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280a3a390d65b6736d6ff"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "16/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28026a384da37f7108b96"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "09/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280d39bddec646f2d55da"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "02/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d2800098d7f6a637eaff75"
+    }
+  ]
 };
 
 const DEMANDAS_EXTRAS = {
@@ -3102,6 +3266,8 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Finseg Leal": "marcada",
+  "Planos Seguros": "marcada",
   "Daniel Maia Advocacia": "marcada",
   "APROSSEG": "marcada",
   "Grupo Mulheres do Brasil": "marcada",
@@ -3197,7 +3363,7 @@ const LEGENDAS_DATA = {
   },
   "Solar Coworking": {
     "prontas": 5,
-    "total": 5
+    "total": 12
   }
 };
 
@@ -3340,7 +3506,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 1
   },
   "Conecta Assessoria": {
     "post": 15,
@@ -3350,11 +3516,11 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Solar Coworking": {
-    "post": 1,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 0
+    "story": 5
   }
 };
 
@@ -3416,7 +3582,7 @@ const AGENDA_COUNTS = {
   },
   "Planos Seguros": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Plannea": {
@@ -3441,7 +3607,7 @@ const AGENDA_COUNTS = {
   },
   "Finseg Leal": {
     "reuniao": 1,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Di Gregório Buffet": {
