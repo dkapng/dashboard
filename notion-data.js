@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 08:28:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 10:16:23 **/
 
-const LAST_UPDATE = '02/07/2026, 08:28:03';
+const LAST_UPDATE = '02/07/2026, 10:16:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3579,6 +3579,8 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Conecta Assessoria": "marcada",
+  "ItalaP": "marcada",
   "Finseg Leal": "marcada",
   "Planos Seguros": "marcada",
   "Daniel Maia Advocacia": "marcada",
@@ -3910,7 +3912,7 @@ const AGENDA_COUNTS = {
   },
   "ItalaP": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Grupo Mulheres do Brasil": {
@@ -3940,7 +3942,7 @@ const AGENDA_COUNTS = {
   },
   "Conecta Assessoria": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Solar Coworking": {
