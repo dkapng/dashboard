@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 22:29:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 02:34:14 **/
 
-const LAST_UPDATE = '01/07/2026, 22:29:57';
+const LAST_UPDATE = '02/07/2026, 02:34:14';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -98,8 +98,8 @@ const FEED_DATA = {
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
-    "agendado_coord": 0,
-    "a_agendar": 1
+    "agendado_coord": 1,
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 6,
@@ -580,12 +580,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 5,
+    "total": 6,
     "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Solar Coworking": {
     "total": 5,
@@ -657,13 +657,13 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "01/07",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Talvez-voc-j-me-conhe-a-Eu-cresci-junto-com-o-movimento-Juntos-Contra-o-HPV-E-agora-estou-de-car-38933d8db9d280afbe28fa66acaf0e22"
@@ -3030,7 +3030,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d2805a80e6dc4d6afc8539"
     },
     {
-      "title": "Story/stories",
+      "title": "Muita gente acredita que só precisa de um advogado quando o problema já aconteceu.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/07",
@@ -3040,10 +3040,10 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28089b661dfe74452fd08"
+      "notionUrl": "https://app.notion.com/p/Muita-gente-acredita-que-s-precisa-de-um-advogado-quando-o-problema-j-aconteceu-39033d8db9d28089b661dfe74452fd08"
     },
     {
-      "title": "Story/stories",
+      "title": "Segurança jurídica começa com informação.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "02/07",
@@ -3053,7 +3053,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280658df1cae8f1f66ac7"
+      "notionUrl": "https://app.notion.com/p/Seguran-a-jur-dica-come-a-com-informa-o-39033d8db9d280658df1cae8f1f66ac7"
     }
   ],
   "Rede Pangeia": [
@@ -3273,6 +3273,19 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "Stories que já saíram",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "07/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-que-j-sa-ram-38f33d8db9d2805485fccb0fd2dae7ab"
+    },
     {
       "title": "Aniversário - Fabio / Proviz",
       "status": "a_agendar",
@@ -3813,7 +3826,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 5
+    "story": 6
   },
   "Solar Coworking": {
     "post": 13,
