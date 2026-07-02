@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 12:38:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 14:38:26 **/
 
-const LAST_UPDATE = '02/07/2026, 12:38:25';
+const LAST_UPDATE = '02/07/2026, 14:38:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3063,7 +3063,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seguran-a-jur-dica-come-a-com-informa-o-39033d8db9d280658df1cae8f1f66ac7"
@@ -3427,6 +3427,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "Atualização de valores ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Atualiza-o-de-valores-39133d8db9d2800b92bfee844212f521",
+      "gestora": "Equipe",
+      "date": "03/07"
+    },
+    {
+      "title": "Videos para o trafego",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Videos-para-o-trafego-39133d8db9d280e78521f0b0f0197a1b",
+      "gestora": "Equipe",
+      "date": "07/07"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Mudar a aparência da Juh",
@@ -3451,24 +3477,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
       "gestora": "Equipe",
       "date": "22/06"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Vídeos para o trafego",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deos-para-o-trafego-38733d8db9d2802ab949c4d40af325d9",
-      "gestora": "Equipe",
-      "date": "26/06"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Grupo Mulheres do Brasil": [
