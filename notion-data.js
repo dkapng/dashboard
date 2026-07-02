@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 14:38:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 16:13:34 **/
 
-const LAST_UPDATE = '02/07/2026, 14:38:26';
+const LAST_UPDATE = '02/07/2026, 16:13:34';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -86,12 +86,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 2,
+    "total": 11,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 9
   },
   "Juntos contra o HPV": {
     "total": 4,
@@ -265,12 +265,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 0,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 0,
@@ -493,7 +493,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 4,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -631,6 +631,123 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [],
   "Stratto": [
+    {
+      "title": "Toda empresa tem números. Poucas entendem o que eles dizem.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-n-meros-Poucas-entendem-o-que-eles-dizem-39133d8db9d280efb6f4e06d0cbb16f5"
+    },
+    {
+      "title": "Quando um processo depende da memória de alguém, ele já começou errado.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-um-processo-depende-da-mem-ria-de-algu-m-ele-j-come-ou-errado-39133d8db9d2803e9042c48821e7d5ad"
+    },
+    {
+      "title": "Organização não torna sua empresa mais lenta. Ela impede que você perca dinheiro em silêncio.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Organiza-o-n-o-torna-sua-empresa-mais-lenta-Ela-impede-que-voc-perca-dinheiro-em-sil-ncio-39133d8db9d2804abdb0ca87c582ae52"
+    },
+    {
+      "title": "O improviso pode até fazer uma empresa sobreviver. Nunca fará ela crescer.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-improviso-pode-at-fazer-uma-empresa-sobreviver-Nunca-far-ela-crescer-39133d8db9d280f5beebc63b0d2ea019"
+    },
+    {
+      "title": "Toda empresa quer uma solução. Poucas param para entender o verdadeiro problema.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-empresa-quer-uma-solu-o-Poucas-param-para-entender-o-verdadeiro-problema-39133d8db9d2808a8934dc70ffa3d2f8"
+    },
+    {
+      "title": "O financeiro não começa quando o boleto vence. Ele começa muito antes disso.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "29/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-financeiro-n-o-come-a-quando-o-boleto-vence-Ele-come-a-muito-antes-disso-39133d8db9d280bdafe8f4913fb4204e"
+    },
+    {
+      "title": "Sua empresa continua funcionando enquanto organizamos o financeiro. E é exatamente assim que deve ser.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-continua-funcionando-enquanto-organizamos-o-financeiro-E-exatamente-assim-que-deve-se-39133d8db9d280a58a16c2d567153e0a"
+    },
+    {
+      "title": "5 sinais de que sua empresa precisa de um diagnóstico financeiro",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "15/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/5-sinais-de-que-sua-empresa-precisa-de-um-diagn-stico-financeiro-39133d8db9d2805aa670cbc0644af129"
+    },
+    {
+      "title": "O que realmente muda na primeira semana de um cliente da Stratto? Não é o financeiro. É a forma de enxergar o negócio.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "08/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-realmente-muda-na-primeira-semana-de-um-cliente-da-Stratto-N-o-o-financeiro-a-forma-de-e-39133d8db9d280d38a7be23a40672651"
+    },
     {
       "title": "9 em cada 10 PMEs quebram por falhas graves de gestão financeira, não por falta de produto. Onde sua empresa estará em dezembro?",
       "status": "agendado",
@@ -2486,7 +2603,50 @@ const LINHA_VIDEO_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [],
   "Tramix": [],
-  "Stratto": [],
+  "Stratto": [
+    {
+      "title": "Existe uma diferença enorme entre controlar contas e fazer gestão financeira.",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "31/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Existe-uma-diferen-a-enorme-entre-controlar-contas-e-fazer-gest-o-financeira-39133d8db9d28099b742d4056340cd69"
+    },
+    {
+      "title": "O maior erro de quem terceiriza o financeiro.",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "24/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/O-maior-erro-de-quem-terceiriza-o-financeiro-39133d8db9d2809a839bece5becef080"
+    },
+    {
+      "title": "Antes de assumir o financeiro de uma empresa, fazemos uma coisa que quase ninguém faz.",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "17/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Antes-de-assumir-o-financeiro-de-uma-empresa-fazemos-uma-coisa-que-quase-ningu-m-faz-39133d8db9d280189008dbb541a3fb8b"
+    }
+  ],
   "Juntos contra o HPV": [],
   "Jota Diesel": [],
   "Ventana": [],
@@ -3060,10 +3220,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "02/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seguran-a-jur-dica-come-a-com-informa-o-39033d8db9d280658df1cae8f1f66ac7"
@@ -3626,8 +3784,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Stratto": {
-    "prontas": 2,
-    "total": 2
+    "prontas": 11,
+    "total": 14
   },
   "Juntos contra o HPV": {
     "prontas": 4,
@@ -3726,10 +3884,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Stratto": {
-    "post": 2,
-    "carrossel": 0,
+    "post": 7,
+    "carrossel": 4,
     "foto": 0,
-    "video": 0,
+    "video": 3,
     "story": 0
   },
   "Juntos contra o HPV": {
