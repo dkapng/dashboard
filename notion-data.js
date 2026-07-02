@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 20:12:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/07/2026, 22:29:57 **/
 
-const LAST_UPDATE = '01/07/2026, 20:12:32';
+const LAST_UPDATE = '01/07/2026, 22:29:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -656,7 +656,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil. ",
+      "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "01/07",
