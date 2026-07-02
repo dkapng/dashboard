@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 10:16:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 12:38:25 **/
 
-const LAST_UPDATE = '02/07/2026, 10:16:23';
+const LAST_UPDATE = '02/07/2026, 12:38:25';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -94,12 +94,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Juntos contra o HPV": {
-    "total": 3,
+    "total": 4,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 6,
@@ -582,10 +582,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 6,
     "pronto": 4,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 5,
@@ -656,10 +656,23 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Tira-dúvidas com a Juh #01 - HPV só afeta mulheres?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "07/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tira-d-vidas-com-a-Juh-01-HPV-s-afeta-mulheres-38933d8db9d2807297ebed6ba952d095"
+    },
+    {
       "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil.",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "01/07",
+      "date": "06/07",
       "missing": [
         "Design"
       ],
@@ -1961,7 +1974,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Malas prontas para as férias de julho? Descubra por que o Seguro Viagem é o item mais importante da bagagem.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "01/07",
+      "date": "02/07",
       "missing": [
         "Design"
       ],
@@ -3323,7 +3336,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário - Rochele / Prime Saude",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "02/07",
       "missing": [],
@@ -3418,7 +3431,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Mudar a aparência da Juh",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Mudar-a-apar-ncia-da-Juh-38933d8db9d28006a2dfd576c47b0f2e",
       "gestora": "Equipe",
       "date": "25/06"
@@ -3426,7 +3439,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Slide de apresentação da Juh",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Slide-de-apresenta-o-da-Juh-38933d8db9d2805b8f18cc86eedc72fa",
       "gestora": "Equipe",
       "date": "26/06"
@@ -3609,8 +3622,8 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "Juntos contra o HPV": {
-    "prontas": 3,
-    "total": 3
+    "prontas": 4,
+    "total": 4
   },
   "Jota Diesel": {
     "prontas": 6,
@@ -3713,7 +3726,7 @@ const FORMAT_COUNTS = {
   },
   "Juntos contra o HPV": {
     "post": 2,
-    "carrossel": 1,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 0
