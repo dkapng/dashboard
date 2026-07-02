@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 16:13:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 17:39:39 **/
 
-const LAST_UPDATE = '02/07/2026, 16:13:34';
+const LAST_UPDATE = '02/07/2026, 17:39:39';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -98,8 +98,8 @@ const FEED_DATA = {
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
-    "agendado_coord": 1,
-    "a_agendar": 1
+    "agendado_coord": 0,
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 6,
@@ -787,13 +787,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "06/07",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Talvez-voc-j-me-conhe-a-Eu-cresci-junto-com-o-movimento-Juntos-Contra-o-HPV-E-agora-estou-de-car-38933d8db9d280afbe28fa66acaf0e22"
@@ -2610,11 +2610,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "31/07",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Existe-uma-diferen-a-enorme-entre-controlar-contas-e-fazer-gest-o-financeira-39133d8db9d28099b742d4056340cd69"
     },
@@ -2624,11 +2623,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "24/07",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/O-maior-erro-de-quem-terceiriza-o-financeiro-39133d8db9d2809a839bece5becef080"
     },
@@ -2638,11 +2636,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "17/07",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Antes-de-assumir-o-financeiro-de-uma-empresa-fazemos-uma-coisa-que-quase-ningu-m-faz-39133d8db9d280189008dbb541a3fb8b"
     }
@@ -3784,7 +3781,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Stratto": {
-    "prontas": 11,
+    "prontas": 14,
     "total": 14
   },
   "Juntos contra o HPV": {
