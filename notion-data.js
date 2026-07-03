@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 06:40:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 09:03:14 **/
 
-const LAST_UPDATE = '03/07/2026, 06:40:33';
+const LAST_UPDATE = '03/07/2026, 09:03:14';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3664,7 +3664,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação para pitch",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
