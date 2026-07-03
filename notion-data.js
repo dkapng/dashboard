@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 11:38:21 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 13:20:27 **/
 
-const LAST_UPDATE = '03/07/2026, 11:38:21';
+const LAST_UPDATE = '03/07/2026, 13:20:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -94,12 +94,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Juntos contra o HPV": {
-    "total": 4,
+    "total": 6,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 4
   },
   "Jota Diesel": {
     "total": 6,
@@ -773,10 +773,36 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Atenção, jovens! A vacinação contra o HPV foi prorrogada! Meninas e meninos de 15 a 19 anos que ainda não foram vacinados podem receber a vacina GRATUIRAMENTE pelo SUS. Novo prazo: até 31 de dezembro de 2026. Procure a UBS mais próxima e garanta sua proteção.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Aten-o-jovens-A-vacina-o-contra-o-HPV-foi-prorrogada-Meninas-e-meninos-de-15-a-19-anos-que-aind-39233d8db9d2803e9f81ef2c8ec43077"
+    },
+    {
+      "title": "Tira-dúvidas com a Juh #02 - ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "27/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tira-d-vidas-com-a-Juh-02-Se-eu-tomei-a-vacina-contra-o-HPV-ainda-preciso-fazer-o-exame-preventi-13933d8db9d2827fb30881864c69ca06"
+    },
+    {
       "title": "Tira-dúvidas com a Juh #01 - HPV só afeta mulheres?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "07/07",
+      "date": "13/07",
       "missing": [
         "Design"
       ],
@@ -3664,7 +3690,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação para pitch",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
@@ -3767,8 +3793,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 4,
-    "total": 4
+    "prontas": 6,
+    "total": 6
   },
   "Jota Diesel": {
     "prontas": 6,
@@ -3870,8 +3896,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 2,
-    "carrossel": 2,
+    "post": 3,
+    "carrossel": 3,
     "foto": 0,
     "video": 0,
     "story": 0
