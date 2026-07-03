@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 18:59:45 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 20:09:31 **/
 
-const LAST_UPDATE = '03/07/2026, 18:59:45';
+const LAST_UPDATE = '03/07/2026, 20:09:31';
 
 const GESTORAS = {
   "1998lucasdepaula@gmail.com": [
@@ -72,9 +72,9 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "total": 2,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
@@ -627,6 +627,17 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "AAFEC": [],
   "Travessias Híbridas": [
+    {
+      "title": "Carrossel de fotos da exposição",
+      "status": "postado",
+      "formato": "📸 Foto(s)",
+      "date": "03/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Carrossel-de-fotos-da-exposi-o-39233d8db9d280ee8a29e978aff7e4ec"
+    },
     {
       "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
@@ -3807,8 +3818,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Travessias Híbridas": {
-    "prontas": 0,
-    "total": 1
+    "prontas": 1,
+    "total": 2
   },
   "Ser Ponte": {
     "prontas": 0,
@@ -3907,7 +3918,7 @@ const FORMAT_COUNTS = {
   "Travessias Híbridas": {
     "post": 1,
     "carrossel": 0,
-    "foto": 0,
+    "foto": 1,
     "video": 0,
     "story": 0
   },
