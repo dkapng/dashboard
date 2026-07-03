@@ -1,15 +1,19 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 14:54:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 16:07:10 **/
 
-const LAST_UPDATE = '03/07/2026, 14:54:55';
+const LAST_UPDATE = '03/07/2026, 16:07:10';
 
 const GESTORAS = {
-  "Mayla Valere": [
-    "Travessias Híbridas",
+  "1998lucasdepaula@gmail.com": [
+    "AAFEC",
     "Ser Ponte",
     "Tramix",
     "Planos Seguros",
     "Plannea",
-    "Grupo Mulheres do Brasil",
+    "Grupo Mulheres do Brasil"
+  ],
+  "Mayla Valere": [
+    "Travessias Híbridas",
+    "Ventana",
     "Di Gregório Buffet"
   ],
   "Alice Sousa": [
@@ -29,13 +33,11 @@ const GESTORAS = {
     "RR Advocacia",
     "Ortobom",
     "Solar Coworking"
-  ],
-  "Sem Gestora": [
-    "Ventana"
   ]
 };
 
 const NICHES = {
+  "AAFEC": "Geral",
   "Travessias Híbridas": "Geral",
   "Ser Ponte": "Geral",
   "Tramix": "Geral",
@@ -61,6 +63,14 @@ const NICHES = {
 };
 
 const FEED_DATA = {
+  "AAFEC": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
   "Travessias Híbridas": {
     "total": 1,
     "pronto": 1,
@@ -240,6 +250,14 @@ const FEED_DATA = {
 };
 
 const VIDEO_DATA = {
+  "AAFEC": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
   "Travessias Híbridas": {
     "total": 0,
     "pronto": 0,
@@ -419,6 +437,14 @@ const VIDEO_DATA = {
 };
 
 const STORIES_DATA = {
+  "AAFEC": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
   "Travessias Híbridas": {
     "total": 0,
     "pronto": 0,
@@ -598,6 +624,7 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
+  "AAFEC": [],
   "Travessias Híbridas": [
     {
       "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
@@ -2608,6 +2635,7 @@ const LINHA_FEED_ITEMS = {
 };
 
 const LINHA_VIDEO_ITEMS = {
+  "AAFEC": [],
   "Travessias Híbridas": [],
   "Ser Ponte": [],
   "Tramix": [],
@@ -3144,6 +3172,7 @@ const LINHA_VIDEO_ITEMS = {
 };
 
 const LINHA_STORIES_ITEMS = {
+  "AAFEC": [],
   "Travessias Híbridas": [],
   "Ser Ponte": [],
   "Tramix": [],
@@ -3592,10 +3621,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Tramix": [
     {
-      "title": "Adesivo para embalagens",
+      "title": "Adesivos para embalagens",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Adesivo-para-embalagens-39233d8db9d280a59975d3595120a767",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Adesivos-para-embalagens-39233d8db9d280a59975d3595120a767",
       "gestora": "Equipe",
       "date": "03/07"
     }
@@ -3604,7 +3633,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualização de valores",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Atualiza-o-de-valores-39133d8db9d2800b92bfee844212f521",
       "gestora": "Equipe",
       "date": "03/07"
@@ -3786,6 +3815,10 @@ const CAPTACAO_DATA = {
 const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
+  "AAFEC": {
+    "prontas": 0,
+    "total": 0
+  },
   "Travessias Híbridas": {
     "prontas": 0,
     "total": 1
@@ -3877,6 +3910,13 @@ const LEGENDAS_DATA = {
 };
 
 const FORMAT_COUNTS = {
+  "AAFEC": {
+    "post": 0,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 0,
+    "story": 0
+  },
   "Travessias Híbridas": {
     "post": 1,
     "carrossel": 0,
@@ -4034,6 +4074,11 @@ const FORMAT_COUNTS = {
 };
 
 const AGENDA_COUNTS = {
+  "AAFEC": {
+    "reuniao": 0,
+    "producao": 0,
+    "evento": 0
+  },
   "Travessias Híbridas": {
     "reuniao": 0,
     "producao": 0,
