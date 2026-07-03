@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 23:11:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 03:07:06 **/
 
-const LAST_UPDATE = '02/07/2026, 23:11:48';
+const LAST_UPDATE = '03/07/2026, 03:07:06';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 10,
-    "pronto": 1,
+    "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -988,10 +988,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-mora-em-um-im-vel-h-anos-Entenda-quando-a-posse-pode-ser-reconhecida-legalmente-39033d8db9d280679bdee8aca7d215b2"
@@ -1001,10 +999,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Recebeu-uma-cobran-a-de-uma-d-vida-antiga-Saiba-o-que-observar-39033d8db9d2804684eeff82f0eef8fc"
@@ -1014,10 +1010,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Trabalhar-sem-registro-pode-trazer-preju-zos-para-ambas-as-partes-39033d8db9d2808f817fc374809fa918"
