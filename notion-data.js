@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 20:34:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/07/2026, 23:11:48 **/
 
-const LAST_UPDATE = '02/07/2026, 20:34:25';
+const LAST_UPDATE = '02/07/2026, 23:11:48';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
@@ -215,7 +215,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 1,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 4,
@@ -223,7 +223,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 15,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -1017,7 +1017,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Trabalhar-sem-registro-pode-trazer-preju-zos-para-ambas-as-partes-39033d8db9d2808f817fc374809fa918"
@@ -1961,10 +1961,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "03/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Um-inc-ndio-pode-destruir-um-espa-o-Mas-o-maior-preju-zo-come-a-quando-a-empresa-para-33433d8db9d280bb99b5df705d972502"
@@ -2198,10 +2196,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "09/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-proteger-sua-empresa-contra-acusa-es-de-sonega-o-fiscal-30333d8db9d280c0b643f93ee0102f3f"
@@ -2222,10 +2218,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comprar-empresa-sem-revis-o-jur-dica-comprar-surpresa-30233d8db9d280c38e9acf0db4de6ca4"
@@ -2354,10 +2348,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-todo-plano-oferece-a-cobertura-que-sua-fam-lia-pode-precisar-durante-uma-viagem-38933d8db9d2809d97ccd7ae99298e88"
@@ -2367,10 +2359,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-filho-quer-aproveitar-as-f-rias-Voc-est-preparado-para-os-imprevistos-delas-38933d8db9d280c58b86c01d10622e2b"
@@ -2380,10 +2370,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Julho-o-m-s-das-f-rias-E-tamb-m-o-m-s-em-que-muita-gente-percebe-o-quanto-a-rotina-faz-falta-38933d8db9d280958a8cf4a4b393a932"
@@ -3584,7 +3572,7 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Finseg Leal": [
     {
-      "title": "Atualização de valores ",
+      "title": "Atualização de valores",
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Atualiza-o-de-valores-39133d8db9d2800b92bfee844212f521",
