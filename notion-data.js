@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 09:03:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 11:38:21 **/
 
-const LAST_UPDATE = '03/07/2026, 09:03:14';
+const LAST_UPDATE = '03/07/2026, 11:38:21';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 5,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -582,10 +582,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 6,
     "pronto": 4,
-    "postado": 2,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 5,
@@ -1952,7 +1952,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Um incêndio pode destruir um espaço. Mas o maior prejuízo começa quando a empresa para.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "03/07",
       "missing": [],
@@ -3198,7 +3198,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Segurança jurídica começa com informação.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "02/07",
+      "date": "03/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3451,7 +3451,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário - Isabele / Nordeste Seguros",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "03/07",
       "missing": [],
@@ -3462,7 +3462,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário - Marcia / MD Corretora",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "03/07",
       "missing": [],
