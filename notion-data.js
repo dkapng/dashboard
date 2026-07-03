@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 13:20:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 14:54:55 **/
 
-const LAST_UPDATE = '03/07/2026, 13:20:27';
+const LAST_UPDATE = '03/07/2026, 14:54:55';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3590,6 +3590,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Tramix": [
+    {
+      "title": "Adesivo para embalagens",
+      "priority": "ppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Adesivo-para-embalagens-39233d8db9d280a59975d3595120a767",
+      "gestora": "Equipe",
+      "date": "03/07"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Atualização de valores",
