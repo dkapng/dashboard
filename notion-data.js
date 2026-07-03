@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 17:35:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 18:59:45 **/
 
-const LAST_UPDATE = '03/07/2026, 17:35:55';
+const LAST_UPDATE = '03/07/2026, 18:59:45';
 
 const GESTORAS = {
   "1998lucasdepaula@gmail.com": [
@@ -73,7 +73,7 @@ const FEED_DATA = {
   },
   "Travessias Híbridas": {
     "total": 1,
-    "pronto": 1,
+    "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -88,10 +88,10 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Tramix": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -144,12 +144,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 10,
-    "pronto": 4,
+    "total": 11,
+    "pronto": 5,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 6
   },
   "Rede Pangeia": {
     "total": 12,
@@ -332,12 +332,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 1,
-    "pronto": 1,
+    "total": 2,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 0
   },
   "Rede Pangeia": {
     "total": 1,
@@ -519,10 +519,10 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 4,
-    "pronto": 1,
+    "total": 5,
+    "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 4
   },
@@ -631,11 +631,12 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "01/07",
+      "date": "06/07",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
@@ -657,7 +658,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Conhece-algu-m-que-tem-tudo-pra-ser-ponte-Marca-essa-pessoa-aqui-34933d8db9d28060b0afcd0abbee6056"
     }
   ],
-  "Tramix": [],
+  "Tramix": [
+    {
+      "title": "Zíperes para diferentes aplicações, abra novas possibilidades com a Tramix",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "03/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Z-peres-para-diferentes-aplica-es-abra-novas-possibilidades-com-a-Tramix-37a33d8db9d280e09be5ce1374dfb6ef"
+    }
+  ],
   "Stratto": [
     {
       "title": "Toda empresa tem números. Poucas entendem o que eles dizem.",
@@ -963,7 +976,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você conhece os seus direitos em caso de acidente de trabalho?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/07",
+      "date": "29/07",
       "missing": [
         "Design"
       ],
@@ -976,7 +989,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Assinou um contrato sem ler todos os detalhes? Isso pode gerar consequências.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/07",
+      "date": "27/07",
       "missing": [
         "Design"
       ],
@@ -989,7 +1002,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Imóvel irregular pode trazer prejuízos na hora de vender ou financiar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/07",
+      "date": "31/07",
       "missing": [
         "Design"
       ],
@@ -1002,7 +1015,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Foi demitido? Conheça alguns dos seus principais direitos.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/07",
+      "date": "22/07",
       "missing": [
         "Design"
       ],
@@ -1015,7 +1028,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Contrato verbal existe e pode ter validade jurídica.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/07",
+      "date": "24/07",
       "missing": [
         "Design"
       ],
@@ -1028,7 +1041,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nem toda jornada extra passa despercebida pela lei.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/07",
+      "date": "20/07",
       "missing": [
         "Design"
       ],
@@ -1039,9 +1052,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você mora em um imóvel há anos? Entenda quando a posse pode ser reconhecida legalmente.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "10/07",
+      "date": "08/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1050,9 +1063,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Recebeu uma cobrança de uma dívida antiga? Saiba o que observar",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "07/07",
+      "date": "15/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1061,7 +1074,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Trabalhar sem registro pode trazer prejuízos para ambas as partes.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [],
@@ -1080,6 +1093,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seguran-a-jur-dica-n-o-impede-o-crescimento-Sustenta-o-crescimento-37333d8db9d280cb8bdef0a944dfd04d"
+    },
+    {
+      "title": "Toda decisão empresarial carrega impactos jurídicos.",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-decis-o-empresarial-carrega-impactos-jur-dicos-37333d8db9d280a7b245c7c5b5075623"
     }
   ],
   "Rede Pangeia": [
@@ -2679,70 +2703,56 @@ const LINHA_VIDEO_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Contrato verbal",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "29/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "date": "14/07",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Contrato-verbal-39033d8db9d2802484eefe2026763605"
     },
     {
       "title": "Contrato virtual",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "22/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "date": "17/07",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Contrato-virtual-39033d8db9d28079a8fcdba690b6f84f"
     },
     {
       "title": "Execução judicial",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "15/07",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "10/07",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Execu-o-judicial-39033d8db9d28037a891c6f4078b8179"
     },
     {
       "title": "Jurídico ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "08/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "date": "07/07",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Jur-dico-39033d8db9d280d5aee8eb857a1fb124"
     },
     {
       "title": "Só procurar advogado quando estoura um problema.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "03/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/S-procurar-advogado-quando-estoura-um-problema-39033d8db9d28093ae0ee83453b53872"
     }
@@ -3215,23 +3225,10 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28038bf81cc1d2652bd3f"
     },
     {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "16/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d2805a80e6dc4d6afc8539"
-    },
-    {
       "title": "Muita gente acredita que só precisa de um advogado quando o problema já aconteceu.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "09/07",
+      "date": "30/07",
       "missing": [
         "Design"
       ],
@@ -3242,7 +3239,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Segurança jurídica começa com informação.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "03/07",
       "missing": [],
@@ -3250,6 +3247,28 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seguran-a-jur-dica-come-a-com-informa-o-39033d8db9d280658df1cae8f1f66ac7"
+    },
+    {
+      "title": "Muitas pessoas acreditam que apenas a compra formal garante a propriedade de um imóvel.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "16/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Muitas-pessoas-acreditam-que-apenas-a-compra-formal-garante-a-propriedade-de-um-im-vel-37333d8db9d28041a76ed6f1cf38d77d"
+    },
+    {
+      "title": "🔒 ",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "09/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-coleta-dados-de-clientes-37333d8db9d280d8b772f5a34688f6cd"
     }
   ],
   "Rede Pangeia": [
@@ -3359,7 +3378,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Seq. Stories",
       "status": "agendado_coord",
       "formato": "📱 Story",
-      "date": "01/07",
+      "date": "04/07",
       "missing": [
         "Design"
       ],
@@ -3796,8 +3815,8 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "Tramix": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 1,
+    "total": 1
   },
   "Stratto": {
     "prontas": 14,
@@ -3824,8 +3843,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 10,
-    "total": 15
+    "prontas": 16,
+    "total": 16
   },
   "Rede Pangeia": {
     "prontas": 13,
@@ -3900,7 +3919,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Tramix": {
-    "post": 0,
+    "post": 1,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -3949,11 +3968,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 10,
+    "post": 11,
     "carrossel": 0,
     "foto": 0,
     "video": 5,
-    "story": 4
+    "story": 5
   },
   "Rede Pangeia": {
     "post": 6,
