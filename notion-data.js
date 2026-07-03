@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 16:07:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 17:35:55 **/
 
-const LAST_UPDATE = '03/07/2026, 16:07:10';
+const LAST_UPDATE = '03/07/2026, 17:35:55';
 
 const GESTORAS = {
   "1998lucasdepaula@gmail.com": [
@@ -195,9 +195,10 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 5,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 9,
+    "st-paused": null
   },
   "Finseg Leal": {
     "total": 14,
@@ -566,12 +567,12 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Finseg Leal": {
     "total": 0,
@@ -1788,66 +1789,56 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quantas dores femininas ainda são tratadas como exagero?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "10/07",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "08/07",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quantas-dores-femininas-ainda-s-o-tratadas-como-exagero-38e33d8db9d28037a706fbde23f8bb0f"
     },
     {
       "title": "Independência financeira muda relações, escolhas e futuros",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Independ-ncia-financeira-muda-rela-es-escolhas-e-futuros-36b33d8db9d2802bb21dd3adc85511cf"
     },
     {
       "title": "O que faz alguém dedicar tempo à transformação de outras vidas?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "01/07",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "03/07",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-faz-algu-m-dedicar-tempo-transforma-o-de-outras-vidas-36b33d8db9d280c493d3f2ee4a767f58"
     },
     {
       "title": "Negócio próprio sem rede de apoio? É mais difícil do que parece.",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "08/07",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Neg-cio-pr-prio-sem-rede-de-apoio-mais-dif-cil-do-que-parece-20933d8db9d2804a9a9ec78c638d5700"
     },
     {
       "title": "Florescer - Cuidar de uma OSC é cuidar de muitas histórias!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "03/07",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "04/07",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Florescer-Cuidar-de-uma-OSC-cuidar-de-muitas-hist-rias-1ca33d8db9d28058a820d447ea248776"
     }
@@ -3446,21 +3437,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-est-realmente-descansando-ou-apenas-mudando-a-rotina-38333d8db9d2806b9991c8af583c6b30"
     }
   ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Stories de chamamento a voluntárias!",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "02/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Stories-de-chamamento-a-volunt-rias-36b33d8db9d2805887f9d9810414573d"
-    }
-  ],
+  "Grupo Mulheres do Brasil": [],
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [],
@@ -3619,21 +3596,11 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Tramix": [
-    {
-      "title": "Adesivos para embalagens",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Adesivos-para-embalagens-39233d8db9d280a59975d3595120a767",
-      "gestora": "Equipe",
-      "date": "03/07"
-    }
-  ],
   "Finseg Leal": [
     {
       "title": "Atualização de valores",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Atualiza-o-de-valores-39133d8db9d2800b92bfee844212f521",
       "gestora": "Equipe",
       "date": "03/07"
@@ -3757,7 +3724,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Tag geral da Terrartesã",
       "priority": "ppp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Tag-geral-da-Terrartes-37233d8db9d28075849fc11a5ac66e8d",
       "gestora": "Equipe",
       "date": "05/06"
@@ -3802,6 +3769,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Ortobom": "marcada",
   "Conecta Assessoria": "marcada",
   "ItalaP": "marcada",
   "Finseg Leal": "marcada",
@@ -3880,8 +3848,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 4,
-    "total": 18
+    "prontas": 8,
+    "total": 17
   },
   "Finseg Leal": {
     "prontas": 15,
@@ -4027,7 +3995,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 1
+    "story": 0
   },
   "Finseg Leal": {
     "post": 13,
@@ -4146,7 +4114,7 @@ const AGENDA_COUNTS = {
   },
   "Ortobom": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 2,
     "evento": 0
   },
   "ItalaP": {
