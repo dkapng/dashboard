@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/07/2026, 17:28:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/07/2026, 18:27:47 **/
 
-const LAST_UPDATE = '04/07/2026, 17:28:00';
+const LAST_UPDATE = '04/07/2026, 18:27:47';
 
 const GESTORAS = {
   "1998lucasdepaula@gmail.com": [
