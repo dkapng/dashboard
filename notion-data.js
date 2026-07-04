@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 22:06:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/07/2026, 02:03:21 **/
 
-const LAST_UPDATE = '03/07/2026, 22:06:01';
+const LAST_UPDATE = '04/07/2026, 02:03:21';
 
 const GESTORAS = {
   "1998lucasdepaula@gmail.com": [
@@ -128,10 +128,10 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 2,
-    "pronto": 2,
+    "total": 7,
+    "pronto": 7,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 7,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -160,12 +160,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Planos Seguros": {
-    "total": 3,
-    "pronto": 1,
+    "total": 5,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 4
   },
   "Plannea": {
     "total": 9,
@@ -982,6 +982,39 @@ const LINHA_FEED_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
+      "title": "Clube Mais Vantagens: os descontos que você já pode estar usando agora",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "10/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Clube-Mais-Vantagens-os-descontos-que-voc-j-pode-estar-usando-agora-36d33d8db9d2804fbb34c7691acc3129"
+    },
+    {
+      "title": "O que a medicina preventiva pode fazer pela sua qualidade de vida",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "06/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-a-medicina-preventiva-pode-fazer-pela-sua-qualidade-de-vida-36d33d8db9d2801bb341fa8e3ceb8e51"
+    },
+    {
+      "title": "Mais do que hospitais: uma rede preparada para cuidar de verdade",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "07/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-do-que-hospitais-uma-rede-preparada-para-cuidar-de-verdade-36d33d8db9d28025b724c33c343e4280"
+    },
+    {
       "title": "Você não precisa esperar um susto para cuidar do coração. A prevenção ainda é o melhor tratamento.",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -991,6 +1024,28 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-n-o-precisa-esperar-um-susto-para-cuidar-do-cora-o-A-preven-o-ainda-o-melhor-tratamento-36d33d8db9d28019b551c050c132cd47"
+    },
+    {
+      "title": "Mais de 4 mil médicos credenciados: cuidado em todas as especialidades",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "05/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-de-4-mil-m-dicos-credenciados-cuidado-em-todas-as-especialidades-36d33d8db9d280bb8702ed5a902d7a83"
+    },
+    {
+      "title": "Saúde emocional também precisa de acompanhamento",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "08/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sa-de-emocional-tamb-m-precisa-de-acompanhamento-36d33d8db9d2800c9d1dd6e390bfcb67"
     },
     {
       "title": "Sua saúde merece uma resposta rápida",
@@ -1292,6 +1347,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "Nem todo destino está preparado para  os seus imprevistos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Nem-todo-destino-est-preparado-para-os-seus-imprevistos-38033d8db9d280849a5effed0ac9baa0"
+    },
+    {
       "title": "Antes de escolher um plano para sua família, responda isso",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
@@ -1316,6 +1384,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-tem-as-melhores-op-es-em-planos-de-sa-de-tem-cota-o-planos-na-sua-m-o-33a33d8db9d280c4a5faf04512f3337a"
+    },
+    {
+      "title": "Como a Planos acompanha seus contratos ao longo do ano. Se você pensa que nosso trabalho termina no dia da assinatura… arrasta pro lado. 👀",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "05/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-a-Planos-acompanha-seus-contratos-ao-longo-do-ano-Se-voc-pensa-que-nosso-trabalho-termina-no--30f33d8db9d280cea7bec775e0d7410f"
     },
     {
       "title": "Não importa o destino, nós vamos com você - Seguro viagem!",
@@ -2185,7 +2266,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Malas prontas para as férias de julho? Descubra por que o Seguro Viagem é o item mais importante da bagagem.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "02/07",
+      "date": "06/07",
       "missing": [
         "Design"
       ],
@@ -2198,7 +2279,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Atendimento nacional com o acolhimento de Fortaleza. Descubra a tranquilidade de ser cliente APROSSEG.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "02/07",
+      "date": "07/07",
       "missing": [
         "Design"
       ],
@@ -3843,8 +3924,8 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Univendas": {
-    "prontas": 2,
-    "total": 2
+    "prontas": 7,
+    "total": 7
   },
   "Terrartesã": {
     "prontas": 0,
@@ -3859,8 +3940,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 6,
-    "total": 6
+    "prontas": 7,
+    "total": 8
   },
   "Plannea": {
     "prontas": 4,
@@ -3962,7 +4043,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 2,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -3990,8 +4071,8 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Planos Seguros": {
-    "post": 2,
-    "carrossel": 1,
+    "post": 3,
+    "carrossel": 2,
     "foto": 0,
     "video": 3,
     "story": 4
