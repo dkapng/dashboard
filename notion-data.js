@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 20:09:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/07/2026, 22:06:01 **/
 
-const LAST_UPDATE = '03/07/2026, 20:09:31';
+const LAST_UPDATE = '03/07/2026, 22:06:01';
 
 const GESTORAS = {
   "1998lucasdepaula@gmail.com": [
@@ -128,10 +128,10 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 0,
-    "pronto": 0,
+    "total": 2,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -551,12 +551,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 2,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 3,
@@ -615,12 +615,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Solar Coworking": {
-    "total": 5,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   }
 };
 
@@ -980,7 +980,30 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ventana": [],
-  "Univendas": [],
+  "Univendas": [
+    {
+      "title": "Você não precisa esperar um susto para cuidar do coração. A prevenção ainda é o melhor tratamento.",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "04/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-n-o-precisa-esperar-um-susto-para-cuidar-do-cora-o-A-preven-o-ainda-o-melhor-tratamento-36d33d8db9d28019b551c050c132cd47"
+    },
+    {
+      "title": "Sua saúde merece uma resposta rápida",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "03/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-sa-de-merece-uma-resposta-r-pida-36d33d8db9d280bab2a1cf46f00154fe"
+    }
+  ],
   "Terrartesã": [],
   "RR Advocacia": [
     {
@@ -3413,19 +3436,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-38f33d8db9d2809285c5f6d88c1f2dfb"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "02/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-38f33d8db9d280efa99bdfc44acbfb5c"
     }
   ],
   "ItalaP": [
@@ -3608,19 +3618,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280d39bddec646f2d55da"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "02/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d2800098d7f6a637eaff75"
     }
   ]
 };
@@ -3846,8 +3843,8 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Univendas": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 2,
+    "total": 2
   },
   "Terrartesã": {
     "prontas": 0,
@@ -3965,7 +3962,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 0,
+    "post": 2,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4011,7 +4008,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 2,
-    "story": 2
+    "story": 1
   },
   "ItalaP": {
     "post": 12,
@@ -4067,7 +4064,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 5
+    "story": 4
   }
 };
 
