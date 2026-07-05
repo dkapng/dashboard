@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/07/2026, 11:26:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/07/2026, 12:44:34 **/
 
-const LAST_UPDATE = '05/07/2026, 11:26:09';
+const LAST_UPDATE = '05/07/2026, 12:44:34';
 
 const GESTORAS = {
   "1998lucasdepaula@gmail.com": [
@@ -2996,7 +2996,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Conheça o lugar onde tecnologia e cuidado caminham juntos.",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "07/07",
+      "date": "09/07",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3524,6 +3524,19 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
+      "date": "07/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39433d8db9d280b5be6bcd8a642552d3"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
       "date": "23/07",
       "missing": [
         "Design"
@@ -3534,23 +3547,10 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-38333d8db9d280028995f7e5a91cba73"
     },
     {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "16/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-38333d8db9d28001a197d1724ff38fb6"
-    },
-    {
       "title": "Você está realmente descansando ou apenas mudando a rotina?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "09/07",
+      "date": "16/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
