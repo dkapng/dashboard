@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 17:20:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 18:53:29 **/
 
-const LAST_UPDATE = '06/07/2026, 17:20:31';
+const LAST_UPDATE = '06/07/2026, 18:53:29';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -73,7 +73,7 @@ const FEED_DATA = {
   },
   "Travessias Híbridas": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -105,7 +105,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 6,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -644,10 +644,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
@@ -868,10 +867,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "06/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Talvez-voc-j-me-conhe-a-Eu-cresci-junto-com-o-movimento-Juntos-Contra-o-HPV-E-agora-estou-de-car-38933d8db9d280afbe28fa66acaf0e22"
@@ -3502,7 +3499,7 @@ const LINHA_STORIES_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "Story/stories",
+      "title": "Agora você conta com mais especialistas na ItalaP.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "07/07",
@@ -3512,7 +3509,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39433d8db9d280b5be6bcd8a642552d3"
+      "notionUrl": "https://app.notion.com/p/Agora-voc-conta-com-mais-especialistas-na-ItalaP-39433d8db9d280b5be6bcd8a642552d3"
     },
     {
       "title": "Story/stories",
@@ -3751,7 +3748,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação para pitch",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
