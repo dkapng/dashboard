@@ -1,9 +1,9 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 09:40:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 13:14:19 **/
 
-const LAST_UPDATE = '06/07/2026, 09:40:35';
+const LAST_UPDATE = '06/07/2026, 13:14:19';
 
 const GESTORAS = {
-  "1998lucasdepaula@gmail.com": [
+  "Lucas de Paula": [
     "AAFEC",
     "Ser Ponte",
     "Tramix",
@@ -171,9 +171,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 9,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 7,
@@ -192,10 +192,10 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Grupo Mulheres do Brasil": {
-    "total": 14,
-    "pronto": 5,
+    "total": 15,
+    "pronto": 6,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
     "a_agendar": 9,
     "st-paused": null
@@ -404,12 +404,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 8,
+    "total": 7,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -1470,14 +1470,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Lucro positivo, caixa negativo: por que isso acontece?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Lucro-positivo-caixa-negativo-por-que-isso-acontece-1f133d8db9d280cf83e8edbe9dc56db9"
     },
@@ -1800,6 +1798,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Homens, este convite é para vocês. ",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
+      "date": "06/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Homens-este-convite-para-voc-s-Hoje-s-18h30-o-Grupo-Mulheres-do-Brasil-abre-a-Reuni-o-Geral-p-39533d8db9d280109e35c191c08d63d1"
+    },
     {
       "title": "Quando foi a última vez que você fez algo pela primeira vez?",
       "status": "a_agendar",
@@ -3215,20 +3224,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/s-perguntas-que-quase-ningu-m-faz-38f33d8db9d28061907ffcbb2eccea3d"
-    },
-    {
-      "title": "Por que tanta gente só descobre problemas no seguro quando precisa usar? ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Por-que-tanta-gente-s-descobre-problemas-no-seguro-quando-precisa-usar-38f33d8db9d280749f84cd8e694b1c9a"
     }
   ],
   "Daniel Maia Advocacia": [],
@@ -3702,6 +3697,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "APROSSEG": [
+    {
+      "title": "Video com a fala dos produtores (do dia do São João) ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Video-com-a-fala-dos-produtores-do-dia-do-S-o-Jo-o-39533d8db9d2800b984ef53ba3cab4da",
+      "gestora": "Equipe",
+      "date": "07/07"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Atualização de valores",
@@ -3754,55 +3759,11 @@ const DEMANDAS_EXTRAS = {
       "date": "22/06"
     }
   ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Primeira Reunião Geral | Capa para o Sympla",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Capa-para-o-Sympla-38333d8db9d28011b8b5eb0414fb673b",
-      "gestora": "Equipe",
-      "date": "22/06"
-    },
-    {
-      "title": "Primeira Reunião Geral | Convite",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Primeira-Reuni-o-Geral-Convite-38333d8db9d28078ab0bf8aef00add66",
-      "gestora": "Equipe",
-      "date": "22/06"
-    },
-    {
-      "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
-      "gestora": "Equipe",
-      "date": "09T11:00:00.000/06"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
-    }
-  ],
-  "Di Gregório Buffet": [
-    {
-      "title": "Portal em formato de chapéu",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Portal-em-formato-de-chap-u-38233d8db9d2801eb584c3b1d80314a9",
-      "gestora": "Equipe",
-      "date": "18/06"
-    }
-  ],
   "Ser Ponte": [
     {
       "title": "Apresentação para pitch",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
@@ -3826,11 +3787,29 @@ const DEMANDAS_EXTRAS = {
       "date": "05/06"
     }
   ],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
+      "gestora": "Equipe",
+      "date": "09T11:00:00.000/06"
+    },
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
   "Terrartesã": [
     {
       "title": "Tag geral da Terrartesã",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Tag-geral-da-Terrartes-37233d8db9d28075849fc11a5ac66e8d",
       "gestora": "Equipe",
       "date": "05/06"
@@ -3942,7 +3921,7 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Plannea": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 9
   },
   "Ortobom": {
@@ -3954,8 +3933,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 8,
-    "total": 17
+    "prontas": 9,
+    "total": 18
   },
   "Finseg Leal": {
     "prontas": 15,
@@ -3967,7 +3946,7 @@ const LEGENDAS_DATA = {
   },
   "APROSSEG": {
     "prontas": 10,
-    "total": 19
+    "total": 18
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
@@ -4098,7 +4077,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 14,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 4,
     "story": 0
@@ -4121,7 +4100,7 @@ const FORMAT_COUNTS = {
     "post": 7,
     "carrossel": 3,
     "foto": 0,
-    "video": 8,
+    "video": 7,
     "story": 0
   },
   "Daniel Maia Advocacia": {
@@ -4254,7 +4233,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Conecta Assessoria": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
