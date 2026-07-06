@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 13:14:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 15:24:03 **/
 
-const LAST_UPDATE = '06/07/2026, 13:14:19';
+const LAST_UPDATE = '06/07/2026, 15:24:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -217,12 +217,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 10,
+    "total": 8,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 7
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -236,9 +236,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 6,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 9
   },
   "Solar Coworking": {
     "total": 13,
@@ -2259,41 +2259,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quem-faz-as-perguntas-certas-toma-decis-es-mais-seguras-38f33d8db9d280fbb674c48d5562ba7d"
     },
     {
-      "title": "Você não precisa esperar um imprevisto para entender o seu seguro.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "07/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-n-o-precisa-esperar-um-imprevisto-para-entender-o-seu-seguro-38f33d8db9d28039a818d08c2945cff4"
-    },
-    {
       "title": "Malas prontas para as férias de julho? Descubra por que o Seguro Viagem é o item mais importante da bagagem.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "06/07",
+      "date": "07/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Malas-prontas-para-as-f-rias-de-julho-Descubra-por-que-o-Seguro-Viagem-o-item-mais-importante-da--36e33d8db9d280419994d06dda5cf518"
-    },
-    {
-      "title": "Atendimento nacional com o acolhimento de Fortaleza. Descubra a tranquilidade de ser cliente APROSSEG.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "07/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Atendimento-nacional-com-o-acolhimento-de-Fortaleza-Descubra-a-tranquilidade-de-ser-cliente-APROSSE-36e33d8db9d280ed8f6bdc907821d51d"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -2529,7 +2503,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nem todo plano oferece a cobertura que sua família pode precisar durante uma viagem.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/07",
       "missing": [],
@@ -2540,7 +2514,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu filho quer aproveitar as férias. Você está preparado para os imprevistos delas?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/07",
       "missing": [],
@@ -2551,7 +2525,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Julho é o mês das férias. E também o mês em que muita gente percebe o quanto a rotina faz falta.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [],
@@ -3854,13 +3828,13 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "APROSSEG": "marcada",
   "Ortobom": "marcada",
   "Conecta Assessoria": "marcada",
   "ItalaP": "marcada",
   "Finseg Leal": "marcada",
   "Planos Seguros": "marcada",
   "Daniel Maia Advocacia": "marcada",
-  "APROSSEG": "marcada",
   "Grupo Mulheres do Brasil": "marcada",
   "Stratto": "marcada"
 };
@@ -3922,7 +3896,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 5,
-    "total": 9
+    "total": 10
   },
   "Ortobom": {
     "prontas": 7,
@@ -3945,8 +3919,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 10,
-    "total": 18
+    "prontas": 8,
+    "total": 16
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
@@ -4097,7 +4071,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 7,
+    "post": 5,
     "carrossel": 3,
     "foto": 0,
     "video": 7,
@@ -4224,7 +4198,7 @@ const AGENDA_COUNTS = {
   },
   "APROSSEG": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 1
   },
   "Daniel Maia Advocacia": {
