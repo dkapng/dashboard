@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/07/2026, 21:00:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 01:48:41 **/
 
-const LAST_UPDATE = '05/07/2026, 21:00:51';
+const LAST_UPDATE = '06/07/2026, 01:48:41';
 
 const GESTORAS = {
   "1998lucasdepaula@gmail.com": [
@@ -218,7 +218,7 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 10,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -242,7 +242,7 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 13,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1389,7 +1389,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Como a Planos acompanha seus contratos ao longo do ano. Se você pensa que nosso trabalho termina no dia da assinatura… arrasta pro lado. 👀",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "05/07",
+      "date": "07/07",
       "missing": [
         "Design"
       ],
@@ -2253,7 +2253,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você não precisa esperar um imprevisto para entender o seu seguro.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "06/07",
+      "date": "07/07",
       "missing": [
         "Design"
       ],
@@ -2267,10 +2267,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "06/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Malas-prontas-para-as-f-rias-de-julho-Descubra-por-que-o-Seguro-Viagem-o-item-mais-importante-da--36e33d8db9d280419994d06dda5cf518"
@@ -2589,6 +2587,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "Sua encomenda chegou. O problema é que não tinha ninguém pra receber. Isso já aconteceu na sua empresa?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-encomenda-chegou-O-problema-que-n-o-tinha-ningu-m-pra-receber-Isso-j-aconteceu-na-sua-empre-39533d8db9d28090af1bfc5ca00182b1"
+    },
+    {
       "title": "Post",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2734,19 +2745,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-39033d8db9d2800bbe99fb1aca70528d"
-    },
-    {
-      "title": "O endereço da sua empresa transmite confiança ou levanta suspeita?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "06/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-endere-o-da-sua-empresa-transmite-confian-a-ou-levanta-suspeita-39033d8db9d280feb532c2845d3b9ebb"
     },
     {
       "title": "A Solar não promete sucesso. Promete que a estrutura não vai ser o seu problema.",
@@ -3980,7 +3978,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Solar Coworking": {
-    "prontas": 13,
+    "prontas": 12,
     "total": 17
   }
 };
