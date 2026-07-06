@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 15:24:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/07/2026, 17:20:31 **/
 
-const LAST_UPDATE = '06/07/2026, 15:24:03';
+const LAST_UPDATE = '06/07/2026, 17:20:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -168,12 +168,12 @@ const FEED_DATA = {
     "a_agendar": 4
   },
   "Plannea": {
-    "total": 9,
+    "total": 10,
     "pronto": 9,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Ortobom": {
     "total": 7,
@@ -186,10 +186,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 15,
     "pronto": 6,
-    "postado": 0,
-    "agendado": 3,
+    "postado": 1,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 9
   },
   "Grupo Mulheres do Brasil": {
     "total": 15,
@@ -204,9 +204,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 5,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 4,
     "agendado_coord": 1,
-    "a_agendar": 12
+    "a_agendar": 9
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -228,9 +228,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 4,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Conecta Assessoria": {
     "total": 15,
@@ -647,7 +647,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
@@ -1412,6 +1412,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Stories: compliance tributário",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-compliance-tribut-rio-39533d8db9d280f28dd5e61ab8fd5e71"
+    },
+    {
       "title": "O que é compliance tributário e por que sua empresa precisa disso hoje",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1732,7 +1746,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você já deixou de beber água antes do exame por medo de errar?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/07",
       "missing": [],
@@ -1743,7 +1757,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu corpo muda em cada fase da vida. Seus cuidados precisam acompanhar essas mudanças.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/07",
       "missing": [],
@@ -1787,7 +1801,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seis meses atrás você prometeu cuidar mais da sua saúde.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [],
@@ -2111,7 +2125,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se sua vida mudou nos últimos 6 meses e sua apólice não mudou, talvez esteja na hora de revisá-la.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/07",
       "missing": [],
@@ -2122,7 +2136,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você confia no seu seguro. Mas saberia explicar exatamente o que ele cobre?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/07",
       "missing": [],
@@ -2133,7 +2147,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "3 palavras da sua apólice - que você precisa conhecer: 1. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/07",
       "missing": [],
@@ -2373,7 +2387,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Comprar empresa sem revisão jurídica é comprar surpresa!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/07",
       "missing": [],
@@ -3685,7 +3699,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualização de valores",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Atualiza-o-de-valores-39133d8db9d2800b92bfee844212f521",
       "gestora": "Equipe",
       "date": "03/07"
@@ -3737,7 +3751,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação para pitch",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
@@ -3896,7 +3910,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 5,
-    "total": 10
+    "total": 11
   },
   "Ortobom": {
     "prontas": 7,
@@ -3919,7 +3933,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 16
   },
   "Daniel Maia Advocacia": {
@@ -4029,7 +4043,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Plannea": {
-    "post": 9,
+    "post": 10,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
