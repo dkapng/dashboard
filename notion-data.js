@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 11:12:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 13:43:35 **/
 
-const LAST_UPDATE = '07/07/2026, 11:12:55';
+const LAST_UPDATE = '07/07/2026, 13:43:35';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -97,7 +97,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 11,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -168,12 +168,12 @@ const FEED_DATA = {
     "a_agendar": 4
   },
   "Plannea": {
-    "total": 10,
+    "total": 9,
     "pronto": 9,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 7,
@@ -192,12 +192,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Grupo Mulheres do Brasil": {
-    "total": 15,
-    "pronto": 6,
+    "total": 16,
+    "pronto": 7,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 9,
+    "a_agendar": 10,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -543,12 +543,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Plannea": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 1,
@@ -607,12 +607,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 6,
+    "total": 7,
     "pronto": 4,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 4,
@@ -739,10 +739,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-empresa-quer-uma-solu-o-Poucas-param-para-entender-o-verdadeiro-problema-39133d8db9d2808a8934dc70ffa3d2f8"
@@ -794,7 +792,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-realmente-muda-na-primeira-semana-de-um-cliente-da-Stratto-N-o-o-financeiro-a-forma-de-e-39133d8db9d280d38a7be23a40672651"
@@ -1409,20 +1407,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "Stories: compliance tributário",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "09/07",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Stories-compliance-tribut-rio-39533d8db9d280f28dd5e61ab8fd5e71"
-    },
-    {
       "title": "O que é compliance tributário e por que sua empresa precisa disso hoje",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1809,6 +1793,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Aniversário da Sandra Lira (Juntos Contra o HPV)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Sandra-Lira-Juntos-Contra-o-HPV-39633d8db9d280eb9f82d2e9a97f3598"
+    },
     {
       "title": "Homens, este convite é para vocês. ",
       "status": "agendado",
@@ -3479,7 +3474,34 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seq-Stories-30f33d8db9d2803b8644fddc3075e757"
     }
   ],
-  "Plannea": [],
+  "Plannea": [
+    {
+      "title": "Despesas reembolsáveis",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Despesas-reembols-veis-39533d8db9d280a4a6b1f8d45c0c04ec"
+    },
+    {
+      "title": "Compliance tributário",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "09/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Compliance-tribut-rio-39533d8db9d280f28dd5e61ab8fd5e71"
+    }
+  ],
   "Ortobom": [
     {
       "title": "Story/stories",
@@ -3577,6 +3599,19 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Fabio-Proviz-38f33d8db9d280aa9d29d32150639990"
+    },
+    {
+      "title": "Aniversário - Rodrigo / KN Corretora",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "11/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-Rodrigo-KN-Corretora-38f33d8db9d28061b9dff7871c6e8e41"
     },
     {
       "title": "Aniversário - Isabele / Nordeste Seguros",
@@ -3690,6 +3725,40 @@ const DEMANDAS_EXTRAS = {
       "date": "07/07"
     }
   ],
+  "Juntos contra o HPV": [
+    {
+      "title": "Identidade visual do Simpósio",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Identidade-visual-do-Simp-sio-39233d8db9d280e59547fa563217fcf7",
+      "gestora": "Equipe",
+      "date": "20T10:30:00.000/07"
+    },
+    {
+      "title": "Mudar a aparência da Juh",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Mudar-a-apar-ncia-da-Juh-38933d8db9d28006a2dfd576c47b0f2e",
+      "gestora": "Equipe",
+      "date": "25/06"
+    },
+    {
+      "title": "Slide de apresentação da Juh",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Slide-de-apresenta-o-da-Juh-38933d8db9d2805b8f18cc86eedc72fa",
+      "gestora": "Equipe",
+      "date": "26/06"
+    },
+    {
+      "title": "Brindes diversos",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
+      "gestora": "Equipe",
+      "date": "22/06"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Atualização de valores",
@@ -3714,32 +3783,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "15/05"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Mudar a aparência da Juh",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Mudar-a-apar-ncia-da-Juh-38933d8db9d28006a2dfd576c47b0f2e",
-      "gestora": "Equipe",
-      "date": "25/06"
-    },
-    {
-      "title": "Slide de apresentação da Juh",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Slide-de-apresenta-o-da-Juh-38933d8db9d2805b8f18cc86eedc72fa",
-      "gestora": "Equipe",
-      "date": "26/06"
-    },
-    {
-      "title": "Brindes diversos",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
-      "gestora": "Equipe",
-      "date": "22/06"
     }
   ],
   "Ser Ponte": [
@@ -3901,11 +3944,11 @@ const LEGENDAS_DATA = {
   },
   "Planos Seguros": {
     "prontas": 7,
-    "total": 8
+    "total": 9
   },
   "Plannea": {
     "prontas": 5,
-    "total": 11
+    "total": 9
   },
   "Ortobom": {
     "prontas": 8,
@@ -3916,8 +3959,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 9,
-    "total": 18
+    "prontas": 10,
+    "total": 19
   },
   "Finseg Leal": {
     "prontas": 15,
@@ -3937,7 +3980,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 15,
-    "total": 16
+    "total": 15
   },
   "Solar Coworking": {
     "prontas": 12,
@@ -4038,11 +4081,11 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Plannea": {
-    "post": 10,
+    "post": 9,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 2
   },
   "Ortobom": {
     "post": 7,
@@ -4059,7 +4102,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 14,
+    "post": 15,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
@@ -4098,7 +4141,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 6
+    "story": 7
   },
   "Solar Coworking": {
     "post": 13,
@@ -4118,7 +4161,7 @@ const AGENDA_COUNTS = {
   "Travessias Híbridas": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
+    "evento": 1
   },
   "Ser Ponte": {
     "reuniao": 0,
