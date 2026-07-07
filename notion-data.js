@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 13:43:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 15:55:50 **/
 
-const LAST_UPDATE = '07/07/2026, 13:43:35';
+const LAST_UPDATE = '07/07/2026, 15:55:50';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -97,11 +97,11 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 11,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Juntos contra o HPV": {
     "total": 6,
@@ -128,20 +128,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 7,
+    "total": 16,
     "pronto": 7,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 9
   },
   "Terrartesã": {
-    "total": 0,
+    "total": 11,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 11
   },
   "RR Advocacia": {
     "total": 11,
@@ -160,12 +160,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Planos Seguros": {
-    "total": 5,
+    "total": 9,
     "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 8
   },
   "Plannea": {
     "total": 9,
@@ -503,12 +503,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 0,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Terrartesã": {
     "total": 0,
@@ -683,17 +683,15 @@ const LINHA_FEED_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "Toda empresa tem números. Poucas entendem o que eles dizem.",
+      "title": "Toda empresa tem números.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-n-meros-Poucas-entendem-o-que-eles-dizem-39133d8db9d280efb6f4e06d0cbb16f5"
+      "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-n-meros-39133d8db9d280efb6f4e06d0cbb16f5"
     },
     {
       "title": "Quando um processo depende da memória de alguém, ele já começou errado.",
@@ -726,19 +724,17 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-improviso-pode-at-fazer-uma-empresa-sobreviver-Nunca-far-ela-crescer-39133d8db9d280f5beebc63b0d2ea019"
     },
     {
       "title": "Toda empresa quer uma solução. Poucas param para entender o verdadeiro problema.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "06/07",
+      "date": "07/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -779,7 +775,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-sinais-de-que-sua-empresa-precisa-de-um-diagn-stico-financeiro-39133d8db9d2805aa670cbc0644af129"
@@ -789,10 +785,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "08/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-realmente-muda-na-primeira-semana-de-um-cliente-da-Stratto-N-o-o-financeiro-a-forma-de-e-39133d8db9d280d38a7be23a40672651"
@@ -825,7 +819,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Atenção, jovens! A vacinação contra o HPV foi prorrogada! Meninas e meninos de 15 a 19 anos que ainda não foram vacinados podem receber a vacina GRATUIRAMENTE pelo SUS. Novo prazo: até 31 de dezembro de 2026. Procure a UBS mais próxima e garanta sua proteção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/07",
+      "date": "08/07",
       "missing": [
         "Design"
       ],
@@ -864,7 +858,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "06/07",
+      "date": "07/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -977,6 +971,132 @@ const LINHA_FEED_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
+      "title": "Sem título",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/39633d8db9d280edbf99cbc383a6cc31"
+    },
+    {
+      "title": "Clube Mais Vantagens: porque cuidar da saúde também é cuidar do seu bolso.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Clube-Mais-Vantagens-porque-cuidar-da-sa-de-tamb-m-cuidar-do-seu-bolso-39633d8db9d28050970ec5a2c9e2d602"
+    },
+    {
+      "title": "O melhor momento para contratar um plano é antes de precisar dele.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-melhor-momento-para-contratar-um-plano-antes-de-precisar-dele-39633d8db9d280f1bafcdc8eb6e44d42"
+    },
+    {
+      "title": "Coração saudável começa com acompanhamento.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cora-o-saud-vel-come-a-com-acompanhamento-39633d8db9d2800b8360e7a537546b2a"
+    },
+    {
+      "title": "Imprevistos não tiram férias. A prevenção também não",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Imprevistos-n-o-tiram-f-rias-A-preven-o-tamb-m-n-o-39633d8db9d280348046d90c09d85028"
+    },
+    {
+      "title": "Mais do que um plano, uma rede preparada para cuidar de você.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-do-que-um-plano-uma-rede-preparada-para-cuidar-de-voc-39633d8db9d280e1811aca8ff003bb05"
+    },
+    {
+      "title": "A escolha do plano certo faz diferença todos os dias.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-escolha-do-plano-certo-faz-diferen-a-todos-os-dias-39633d8db9d280bea4d3d0b5138bf23a"
+    },
+    {
+      "title": "Investir em saúde é investir no crescimento da sua empresa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Investir-em-sa-de-investir-no-crescimento-da-sua-empresa-39633d8db9d280548af4eb4da55966a5"
+    },
+    {
+      "title": "Férias sem preocupação: saúde também faz parte do roteiro",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/F-rias-sem-preocupa-o-sa-de-tamb-m-faz-parte-do-roteiro-39633d8db9d280a5b73dc90f93d3c05b"
+    },
+    {
       "title": "Clube Mais Vantagens: os descontos que você já pode estar usando agora",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -1054,7 +1174,151 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Sua-sa-de-merece-uma-resposta-r-pida-36d33d8db9d280bab2a1cf46f00154fe"
     }
   ],
-  "Terrartesã": [],
+  "Terrartesã": [
+    {
+      "title": "Quando uma mulher fortalece sua autonomia, ela transforma também o lugar onde vive.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-uma-mulher-fortalece-sua-autonomia-ela-transforma-tamb-m-o-lugar-onde-vive-39633d8db9d28030aaeee38a516a05bb"
+    },
+    {
+      "title": "Mais do que aprender uma técnica, criar com as próprias mãos pode ser o início de uma nova história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-do-que-aprender-uma-t-cnica-criar-com-as-pr-prias-m-os-pode-ser-o-in-cio-de-uma-nova-hist-ria-39633d8db9d2808dae5dd3bd7d10d24e"
+    },
+    {
+      "title": "Valorizar o artesanato é reconhecer o trabalho, a cultura e as histórias de vida que permanecem vivas em cada criação.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Valorizar-o-artesanato-reconhecer-o-trabalho-a-cultura-e-as-hist-rias-de-vida-que-permanecem-viva-39633d8db9d280d58581e9d1f911cab6"
+    },
+    {
+      "title": "Quando o conhecimento tradicional encontra oportunidade, o fazer artesanal se torna caminho de desenvolvimento e transformação social.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-o-conhecimento-tradicional-encontra-oportunidade-o-fazer-artesanal-se-torna-caminho-de-desen-39633d8db9d2801fa3d7db3ba1834f6c"
+    },
+    {
+      "title": "Onde existem mãos aprendendo, existem futuros sendo construídos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Onde-existem-m-os-aprendendo-existem-futuros-sendo-constru-dos-39633d8db9d280c99b63c8130f6fc9f3"
+    },
+    {
+      "title": "Cada peça criada é também um passo em uma nova história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cada-pe-a-criada-tamb-m-um-passo-em-uma-nova-hist-ria-39633d8db9d2808daebde5d794dd6269"
+    },
+    {
+      "title": "O valor do trabalho também está na história de quem o constrói",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-valor-do-trabalho-tamb-m-est-na-hist-ria-de-quem-o-constr-i-39633d8db9d2807f84f9db1fe31ffa0a"
+    },
+    {
+      "title": "O artesanato como herança viva que atravessa gerações",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-artesanato-como-heran-a-viva-que-atravessa-gera-es-39633d8db9d2802797f9e88baf9a4074"
+    },
+    {
+      "title": "Quando o aprendizado encontra oportunidade, novas histórias começam a ser escritas",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-o-aprendizado-encontra-oportunidade-novas-hist-rias-come-am-a-ser-escritas-39633d8db9d280c38470d8d066c8b4eb"
+    },
+    {
+      "title": "Cada ponto carrega mais do que linha, carrega vida, experiência e resistência",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cada-ponto-carrega-mais-do-que-linha-carrega-vida-experi-ncia-e-resist-ncia-39633d8db9d280e18126e2b9ec69f40e"
+    },
+    {
+      "title": "O fazer artesanal transforma o cotidiano em caminho, propósito e permanência.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-fazer-artesanal-transforma-o-cotidiano-em-caminho-prop-sito-e-perman-ncia-39633d8db9d28014bea2e7f0d4ad2ae6"
+    }
+  ],
   "RR Advocacia": [
     {
       "title": "Você conhece os seus direitos em caso de acidente de trabalho?",
@@ -1341,6 +1605,58 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Planos Seguros": [
+    {
+      "title": "O patrimônio mudou. A estratégia de proteção também?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-patrim-nio-mudou-A-estrat-gia-de-prote-o-tamb-m-39633d8db9d280928790e06378d4a7a6"
+    },
+    {
+      "title": "Deixar pra depois pode ser a pior decisão\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Deixar-pra-depois-pode-ser-a-pior-decis-o-39633d8db9d280b8a92ce66d530ed44a"
+    },
+    {
+      "title": "A má gestão dos seguros pode estar limitando o crescimento da sua empresa\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-m-gest-o-dos-seguros-pode-estar-limitando-o-crescimento-da-sua-empresa-39633d8db9d280c498baccb6a526f1d9"
+    },
+    {
+      "title": "Algumas coberturas não fazem mais sentido",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Algumas-coberturas-n-o-fazem-mais-sentido-39633d8db9d280f29916d062ae5ec4f3"
+    },
     {
       "title": "Nem todo destino está preparado para  os seus imprevistos.",
       "status": "a_agendar",
@@ -3294,7 +3610,47 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Ventana": [],
-  "Univendas": [],
+  "Univendas": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39633d8db9d280bfa1bbeec12e0eb2ed"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "23/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39633d8db9d280f781c9f6aa283ab51a"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "16/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39633d8db9d280238fbdf4f9b5a45752"
+    }
+  ],
   "Terrartesã": [],
   "RR Advocacia": [
     {
@@ -3578,7 +3934,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Stories que já saíram",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "07/07",
+      "date": "09/07",
       "missing": [
         "Design"
       ],
@@ -3795,24 +4151,6 @@ const DEMANDAS_EXTRAS = {
       "date": "12T12:00:00.000/06"
     }
   ],
-  "Ortobom": [
-    {
-      "title": "Atualizar o valor da arte",
-      "priority": "pp",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Atualizar-o-valor-da-arte-37433d8db9d280368c68cba0c27b45c8",
-      "gestora": "Equipe",
-      "date": "15/06"
-    },
-    {
-      "title": "Fazer artes em formato storys ",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fazer-artes-em-formato-storys-37433d8db9d280d8b228c86acaaff7a8",
-      "gestora": "Equipe",
-      "date": "05/06"
-    }
-  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
@@ -3928,11 +4266,11 @@ const LEGENDAS_DATA = {
   },
   "Univendas": {
     "prontas": 7,
-    "total": 7
+    "total": 16
   },
   "Terrartesã": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 11,
+    "total": 11
   },
   "RR Advocacia": {
     "prontas": 16,
@@ -3943,8 +4281,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 7,
-    "total": 9
+    "prontas": 11,
+    "total": 12
   },
   "Plannea": {
     "prontas": 5,
@@ -4046,14 +4384,14 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 7,
+    "post": 16,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 3
   },
   "Terrartesã": {
-    "post": 0,
+    "post": 11,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4074,7 +4412,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Planos Seguros": {
-    "post": 3,
+    "post": 7,
     "carrossel": 2,
     "foto": 0,
     "video": 3,
@@ -4154,7 +4492,7 @@ const FORMAT_COUNTS = {
 
 const AGENDA_COUNTS = {
   "AAFEC": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
