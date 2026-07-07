@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 19:06:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 20:27:43 **/
 
-const LAST_UPDATE = '07/07/2026, 19:06:28';
+const LAST_UPDATE = '07/07/2026, 20:27:43';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -105,7 +105,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 6,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -202,7 +202,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 1,
@@ -528,7 +528,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 5,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -818,10 +818,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aten-o-jovens-A-vacina-o-contra-o-HPV-foi-prorrogada-Meninas-e-meninos-de-15-a-19-anos-que-aind-39233d8db9d2803e9f81ef2c8ec43077"
@@ -2411,10 +2409,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-revis-o-de-20-minutos-pode-evitar-preju-zos-que-duram-anos-38f33d8db9d2805e8e9ac9bd2502c9bc"
@@ -2424,10 +2420,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-maior-erro-n-o-ficar-sem-seguro-acreditar-que-est-protegido-quando-a-cobertura-j-n-o-acompa-38f33d8db9d280af8e80cf9f9723452d"
@@ -3757,10 +3751,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/DicaDaSemana-38833d8db9d2807e929ef4b99610a5b4"
@@ -4123,14 +4115,6 @@ const DEMANDAS_EXTRAS = {
       "date": "13T10:30:00.000/07"
     },
     {
-      "title": "Mudar a aparência da Juh",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Mudar-a-apar-ncia-da-Juh-38933d8db9d28006a2dfd576c47b0f2e",
-      "gestora": "Equipe",
-      "date": "25/06"
-    },
-    {
       "title": "Slide de apresentação da Juh",
       "priority": "p",
       "rawStatus": "2. Em aprovação",
@@ -4193,24 +4177,6 @@ const DEMANDAS_EXTRAS = {
       "date": "12T12:00:00.000/06"
     }
   ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Summit Mulheres nas Profissões | Camisa para embaixadoras",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Summit-Mulheres-nas-Profiss-es-Camisa-para-embaixadoras-37433d8db9d280d386fdd030f56d3f5a",
-      "gestora": "Equipe",
-      "date": "09T11:00:00.000/06"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
-    }
-  ],
   "Terrartesã": [
     {
       "title": "Tag geral da Terrartesã",
@@ -4219,6 +4185,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Tag-geral-da-Terrartes-37233d8db9d28075849fc11a5ac66e8d",
       "gestora": "Equipe",
       "date": "05/06"
+    }
+  ],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
     }
   ],
   "Ventana": [
