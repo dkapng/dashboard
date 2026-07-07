@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 08:40:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 11:12:55 **/
 
-const LAST_UPDATE = '07/07/2026, 08:40:22';
+const LAST_UPDATE = '07/07/2026, 11:12:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -366,10 +366,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 2,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 4,
@@ -1360,7 +1360,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Antes de escolher um plano para sua família, responda isso",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "07/07",
+      "date": "11/07",
       "missing": [
         "Design"
       ],
@@ -2929,14 +2929,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Todo tipo de colchão",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Todo-tipo-de-colch-o-36133d8db9d280f8a525e5a80151fd91"
     }
@@ -3432,7 +3430,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Seu seguro acompanha a realidade atual da sua operação?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "07/07",
+      "date": "14/07",
       "missing": [
         "Design"
       ],
@@ -3910,7 +3908,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ortobom": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 9
   },
   "ItalaP": {
