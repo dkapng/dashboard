@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 17:46:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 19:06:28 **/
 
-const LAST_UPDATE = '07/07/2026, 17:46:30';
+const LAST_UPDATE = '07/07/2026, 19:06:28';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 1,
     "agendado": 5,
     "agendado_coord": 0,
@@ -202,7 +202,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 1,
@@ -607,12 +607,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 7,
+    "total": 8,
     "pronto": 5,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 4,
@@ -2023,10 +2023,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-um-passeio-e-outro-as-f-rias-tamb-m-podem-ser-um-momento-para-cuidar-da-sa-de-dos-pequenos-38233d8db9d280f1a47de95f60af14a7"
@@ -2429,7 +2427,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-maior-erro-n-o-ficar-sem-seguro-acreditar-que-est-protegido-quando-a-cobertura-j-n-o-acompa-38f33d8db9d280af8e80cf9f9723452d"
@@ -2439,10 +2437,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-erros-que-podem-comprometer-sua-cobertura-sem-que-voc-perceba-38f33d8db9d2802d97eaf313494b7275"
@@ -3961,6 +3957,19 @@ const LINHA_STORIES_ITEMS = {
       "title": "Stories que já saíram",
       "status": "a_agendar",
       "formato": "📱 Story",
+      "date": "14/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-que-j-sa-ram-38f33d8db9d2806c801cda560bc6548b"
+    },
+    {
+      "title": "Stories que já saíram",
+      "status": "a_agendar",
+      "formato": "📱 Story",
       "date": "09/07",
       "missing": [
         "Design"
@@ -4512,7 +4521,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 7
+    "story": 8
   },
   "Solar Coworking": {
     "post": 13,
