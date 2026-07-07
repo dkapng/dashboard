@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 15:55:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/07/2026, 17:46:30 **/
 
-const LAST_UPDATE = '07/07/2026, 15:55:50';
+const LAST_UPDATE = '07/07/2026, 17:46:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -97,19 +97,19 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 11,
-    "pronto": 6,
-    "postado": 0,
+    "pronto": 7,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Juntos contra o HPV": {
     "total": 6,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 6,
@@ -160,12 +160,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Planos Seguros": {
-    "total": 9,
+    "total": 11,
     "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 10
   },
   "Plannea": {
     "total": 9,
@@ -535,12 +535,12 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "Planos Seguros": {
-    "total": 4,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Plannea": {
     "total": 2,
@@ -560,7 +560,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -608,7 +608,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 7,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -772,17 +772,15 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-sinais-de-que-sua-empresa-precisa-de-um-diagn-stico-financeiro-39133d8db9d2805aa670cbc0644af129"
     },
     {
       "title": "O que realmente muda na primeira semana de um cliente da Stratto? Não é o financeiro. É a forma de enxergar o negócio.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "08/07",
       "missing": [],
@@ -856,7 +854,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Talvez você já me conheça… Eu cresci junto com o movimento Juntos Contra o HPV. E agora estou de cara nova para falar com ainda mais pessoas em todo o Brasil.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "07/07",
       "missing": [],
@@ -971,18 +969,17 @@ const LINHA_FEED_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
-      "title": "Sem título",
+      "title": "Mais do que um plano de saúde: benefícios que fazem a diferença no seu dia a dia.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/39633d8db9d280edbf99cbc383a6cc31"
+      "notionUrl": "https://app.notion.com/p/Mais-do-que-um-plano-de-sa-de-benef-cios-que-fazem-a-diferen-a-no-seu-dia-a-dia-39633d8db9d280edbf99cbc383a6cc31"
     },
     {
       "title": "Clube Mais Vantagens: porque cuidar da saúde também é cuidar do seu bolso.",
@@ -990,11 +987,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Clube-Mais-Vantagens-porque-cuidar-da-sa-de-tamb-m-cuidar-do-seu-bolso-39633d8db9d28050970ec5a2c9e2d602"
     },
@@ -1004,11 +1000,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-melhor-momento-para-contratar-um-plano-antes-de-precisar-dele-39633d8db9d280f1bafcdc8eb6e44d42"
     },
@@ -1018,11 +1013,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cora-o-saud-vel-come-a-com-acompanhamento-39633d8db9d2800b8360e7a537546b2a"
     },
@@ -1032,11 +1026,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Imprevistos-n-o-tiram-f-rias-A-preven-o-tamb-m-n-o-39633d8db9d280348046d90c09d85028"
     },
@@ -1046,11 +1039,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-do-que-um-plano-uma-rede-preparada-para-cuidar-de-voc-39633d8db9d280e1811aca8ff003bb05"
     },
@@ -1060,11 +1052,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-escolha-do-plano-certo-faz-diferen-a-todos-os-dias-39633d8db9d280bea4d3d0b5138bf23a"
     },
@@ -1074,11 +1065,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Investir-em-sa-de-investir-no-crescimento-da-sua-empresa-39633d8db9d280548af4eb4da55966a5"
     },
@@ -1088,11 +1078,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/F-rias-sem-preocupa-o-sa-de-tamb-m-faz-parte-do-roteiro-39633d8db9d280a5b73dc90f93d3c05b"
     },
@@ -1606,6 +1595,33 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "A telemedicina pode transformar seu acesso à saúde",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-telemedicina-pode-transformar-seu-acesso-sa-de-39633d8db9d28066939ed15ba8498c7b"
+    },
+    {
+      "title": "Quando foi a última vez que você olhou para o seu prédio além do valor do imóvel?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-olhou-para-o-seu-pr-dio-al-m-do-valor-do-im-vel-39633d8db9d280cbb479e06dab22988b"
+    },
+    {
       "title": "O patrimônio mudou. A estratégia de proteção também?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2010,7 +2026,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-um-passeio-e-outro-as-f-rias-tamb-m-podem-ser-um-momento-para-cuidar-da-sa-de-dos-pequenos-38233d8db9d280f1a47de95f60af14a7"
@@ -3612,7 +3628,7 @@ const LINHA_STORIES_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
-      "title": "Story/stories",
+      "title": "Benefícios Unimed + Clube Mais Vantagens",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "30/07",
@@ -3620,12 +3636,12 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39633d8db9d280bfa1bbeec12e0eb2ed"
+      "notionUrl": "https://app.notion.com/p/Benef-cios-Unimed-Clube-Mais-Vantagens-39633d8db9d280bfa1bbeec12e0eb2ed"
     },
     {
-      "title": "Story/stories",
+      "title": "Plano Empresarial",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "23/07",
@@ -3633,12 +3649,12 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39633d8db9d280f781c9f6aa283ab51a"
+      "notionUrl": "https://app.notion.com/p/Plano-Empresarial-39633d8db9d280f781c9f6aa283ab51a"
     },
     {
-      "title": "Story/stories",
+      "title": "Exames ",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "16/07",
@@ -3646,9 +3662,9 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39633d8db9d280238fbdf4f9b5a45752"
+      "notionUrl": "https://app.notion.com/p/Exames-39633d8db9d280238fbdf4f9b5a45752"
     }
   ],
   "Terrartesã": [],
@@ -3778,6 +3794,19 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "O patrimônio da sua empresa mudou. A estratégia de cobertura também?",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "21/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-patrim-nio-da-sua-empresa-mudou-A-estrat-gia-de-cobertura-tamb-m-39633d8db9d280679a7be265e75856ba"
+    },
+    {
       "title": "Seu seguro acompanha a realidade atual da sua operação?",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -3879,10 +3908,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "07/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Agora-voc-conta-com-mais-especialistas-na-ItalaP-39433d8db9d280b5be6bcd8a642552d3"
@@ -3961,10 +3988,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "11/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Rodrigo-KN-Corretora-38f33d8db9d28061b9dff7871c6e8e41"
@@ -4071,24 +4096,22 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "APROSSEG": [
+  "Juntos contra o HPV": [
     {
-      "title": "Video com a fala dos produtores (do dia do São João) ",
+      "title": "Atualização do panfleto da Juh",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Video-com-a-fala-dos-produtores-do-dia-do-S-o-Jo-o-39533d8db9d2800b984ef53ba3cab4da",
+      "notionUrl": "https://app.notion.com/p/Atualiza-o-do-panfleto-da-Juh-39633d8db9d2804ea163de14dc5e879a",
       "gestora": "Equipe",
-      "date": "07/07"
-    }
-  ],
-  "Juntos contra o HPV": [
+      "date": "10/07"
+    },
     {
       "title": "Identidade visual do Simpósio",
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Identidade-visual-do-Simp-sio-39233d8db9d280e59547fa563217fcf7",
       "gestora": "Equipe",
-      "date": "20T10:30:00.000/07"
+      "date": "13T10:30:00.000/07"
     },
     {
       "title": "Mudar a aparência da Juh",
@@ -4113,6 +4136,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
       "gestora": "Equipe",
       "date": "22/06"
+    }
+  ],
+  "APROSSEG": [
+    {
+      "title": "Video com a fala dos produtores (do dia do São João) ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Video-com-a-fala-dos-produtores-do-dia-do-S-o-Jo-o-39533d8db9d2800b984ef53ba3cab4da",
+      "gestora": "Equipe",
+      "date": "07/07"
     }
   ],
   "Finseg Leal": [
@@ -4265,7 +4298,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Univendas": {
-    "prontas": 7,
+    "prontas": 16,
     "total": 16
   },
   "Terrartesã": {
@@ -4281,8 +4314,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 11,
-    "total": 12
+    "prontas": 12,
+    "total": 14
   },
   "Plannea": {
     "prontas": 5,
@@ -4412,11 +4445,11 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Planos Seguros": {
-    "post": 7,
+    "post": 9,
     "carrossel": 2,
     "foto": 0,
     "video": 3,
-    "story": 4
+    "story": 5
   },
   "Plannea": {
     "post": 9,
@@ -4517,7 +4550,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Juntos contra o HPV": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
