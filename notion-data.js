@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 17:00:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 18:38:08 **/
 
-const LAST_UPDATE = '08/07/2026, 17:00:26';
+const LAST_UPDATE = '08/07/2026, 18:38:08';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -348,12 +348,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 3,
-    "pronto": 3,
+    "total": 5,
+    "pronto": 5,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Plannea": {
     "total": 0,
@@ -3266,6 +3266,28 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "Benefícios",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Benef-cios-39733d8db9d280c28cd5d08e3caf2ba3"
+    },
+    {
+      "title": "App operadoras",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/App-operadoras-39733d8db9d2808d8670f63922ab3e2c"
+    },
+    {
       "title": "Você está seguro?",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -4394,8 +4416,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 13,
-    "total": 14
+    "prontas": 15,
+    "total": 16
   },
   "Plannea": {
     "prontas": 5,
@@ -4528,7 +4550,7 @@ const FORMAT_COUNTS = {
     "post": 9,
     "carrossel": 2,
     "foto": 0,
-    "video": 3,
+    "video": 5,
     "story": 5
   },
   "Plannea": {
