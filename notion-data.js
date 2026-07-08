@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 09:58:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 12:21:52 **/
 
-const LAST_UPDATE = '08/07/2026, 09:58:04';
+const LAST_UPDATE = '08/07/2026, 12:21:52';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Ser Ponte": {
-    "total": 1,
-    "pronto": 0,
+    "total": 7,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 1
+    "agendado_coord": 2,
+    "a_agendar": 5
   },
   "Tramix": {
     "total": 1,
@@ -529,10 +529,10 @@ const STORIES_DATA = {
   "Rede Pangeia": {
     "total": 5,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 5,
@@ -654,18 +654,90 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ser Ponte": [
     {
-      "title": "Conhece alguém que tem tudo pra ser ponte? Marca essa pessoa aqui.",
+      "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-est-sendo-convidado-a-para-o-30-minutos-para-Ser-Ponte-online-39733d8db9d280e0a052c4c90cd9e0e8"
+    },
+    {
+      "title": "Você toparia apresentar a Ser Ponte para três pessoas?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-toparia-apresentar-a-Ser-Ponte-para-tr-s-pessoas-37c33d8db9d280a5bd13e07706f9c17e"
+    },
+    {
+      "title": "Você que acompanha a Ser Ponte aqui nas redes sociais: como você definiria o nosso trabalho em uma palavra?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-que-acompanha-a-Ser-Ponte-aqui-nas-redes-sociais-como-voc-definiria-o-nosso-trabalho-em-uma-p-34933d8db9d2807f8b0adad10765f3fe"
+    },
+    {
+      "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "10/07",
+      "date": "20/07",
       "missing": [
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Conhece-algu-m-que-tem-tudo-pra-ser-ponte-Marca-essa-pessoa-aqui-34933d8db9d28060b0afcd0abbee6056"
+      "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
+    },
+    {
+      "title": "Existe uma Fortaleza que não chega no fim do mês.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Existe-uma-Fortaleza-que-n-o-chega-no-fim-do-m-s-34933d8db9d28002b145e0f13bdf673d"
+    },
+    {
+      "title": "Quem decide quem recebe esse dinheiro?",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-decide-quem-recebe-esse-dinheiro-34933d8db9d28084b8afcf54e1f27231"
+    },
+    {
+      "title": "O que é ser ponte em uma cidade onde falta comida em milhares de casas?",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "13/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-ser-ponte-em-uma-cidade-onde-falta-comida-em-milhares-de-casas-34933d8db9d28094853fd9946496dc6a"
     }
   ],
   "Tramix": [
@@ -1598,11 +1670,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-telemedicina-pode-transformar-seu-acesso-sa-de-39633d8db9d28066939ed15ba8498c7b"
     },
@@ -3759,7 +3830,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#DicaDaSemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "08/07",
       "missing": [],
@@ -3895,7 +3966,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Agora você conta com mais especialistas na ItalaP.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "07/07",
+      "date": "08/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4259,8 +4330,8 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "Ser Ponte": {
-    "prontas": 0,
-    "total": 1
+    "prontas": 6,
+    "total": 7
   },
   "Tramix": {
     "prontas": 1,
@@ -4299,7 +4370,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 14
   },
   "Plannea": {
@@ -4360,8 +4431,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 0,
-    "carrossel": 1,
+    "post": 5,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 0
