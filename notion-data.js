@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 15:13:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 17:00:26 **/
 
-const LAST_UPDATE = '08/07/2026, 15:13:30';
+const LAST_UPDATE = '08/07/2026, 17:00:26';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -84,8 +84,8 @@ const FEED_DATA = {
     "pronto": 3,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 4,
-    "a_agendar": 3
+    "agendado_coord": 3,
+    "a_agendar": 4
   },
   "Tramix": {
     "total": 1,
@@ -455,12 +455,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Tramix": {
     "total": 0,
@@ -688,15 +688,14 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "20/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
     },
@@ -3652,7 +3651,34 @@ const LINHA_VIDEO_ITEMS = {
 const LINHA_STORIES_ITEMS = {
   "AAFEC": [],
   "Travessias Híbridas": [],
-  "Ser Ponte": [],
+  "Ser Ponte": [
+    {
+      "title": "Quando a renda não é suficiente",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "21/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-39733d8db9d28033aa72c8ca28100bc8"
+    },
+    {
+      "title": "O que é ser ponte?",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "14/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-ser-ponte-39733d8db9d2803aaa7fcc8a1193e916"
+    }
+  ],
   "Tramix": [],
   "Stratto": [],
   "Juntos contra o HPV": [],
@@ -4328,7 +4354,7 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "Ser Ponte": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 7
   },
   "Tramix": {
@@ -4433,7 +4459,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 2
   },
   "Tramix": {
     "post": 1,
