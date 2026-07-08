@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 13:54:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 15:13:30 **/
 
-const LAST_UPDATE = '08/07/2026, 13:54:51';
+const LAST_UPDATE = '08/07/2026, 15:13:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -390,10 +390,10 @@ const VIDEO_DATA = {
   "Finseg Leal": {
     "total": 5,
     "pronto": 5,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -561,10 +561,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 3,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -889,7 +889,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Atenção, jovens! A vacinação contra o HPV foi prorrogada! Meninas e meninos de 15 a 19 anos que ainda não foram vacinados podem receber a vacina GRATUIRAMENTE pelo SUS. Novo prazo: até 31 de dezembro de 2026. Procure a UBS mais próxima e garanta sua proteção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/07",
+      "date": "09/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3473,14 +3473,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "A pergunta que vale milhares",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "08/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/A-pergunta-que-vale-milhares-38f33d8db9d28094aac7fc077e824845"
     },
@@ -3964,7 +3962,7 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Agora você conta com mais especialistas na ItalaP.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "08/07",
       "missing": [],
@@ -4390,7 +4388,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Finseg Leal": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 19
   },
   "Di Gregório Buffet": {
