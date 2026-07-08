@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 12:21:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 13:54:51 **/
 
-const LAST_UPDATE = '08/07/2026, 12:21:52';
+const LAST_UPDATE = '08/07/2026, 13:54:51';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -84,8 +84,8 @@ const FEED_DATA = {
     "pronto": 3,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 2,
-    "a_agendar": 5
+    "agendado_coord": 4,
+    "a_agendar": 3
   },
   "Tramix": {
     "total": 1,
@@ -688,27 +688,27 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "20/07",
       "missing": [
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
     },
     {
       "title": "Existe uma Fortaleza que não chega no fim do mês.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Existe-uma-Fortaleza-que-n-o-chega-no-fim-do-m-s-34933d8db9d28002b145e0f13bdf673d"
