@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 18:38:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 19:57:45 **/
 
-const LAST_UPDATE = '08/07/2026, 18:38:08';
+const LAST_UPDATE = '08/07/2026, 19:57:45';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Ser Ponte": {
-    "total": 7,
+    "total": 12,
     "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 3,
-    "a_agendar": 4
+    "a_agendar": 9
   },
   "Tramix": {
     "total": 1,
@@ -161,19 +161,19 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 11,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Plannea": {
     "total": 9,
     "pronto": 9,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 7,
@@ -654,6 +654,71 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ser Ponte": [
     {
+      "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa\n",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "31/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-revela-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
+    },
+    {
+      "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.\n",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "29/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ser-mulher-representa-em-m-dia-10-horas-semanais-a-mais-de-trabalho-dom-stico-e-de-cuidado-39733d8db9d2802c9dc5e3ce7162d868"
+    },
+    {
+      "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.\n",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "27/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
+    },
+    {
+      "title": "Todos os dias, mulheres realizam 12,5 bilhões de horas de trabalho de cuidado não remunerado no mundo.\n",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "24/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Todos-os-dias-mulheres-realizam-12-5-bilh-es-de-horas-de-trabalho-de-cuidado-n-o-remunerado-no-mund-39733d8db9d280a9a19ac3877e11ecab"
+    },
+    {
+      "title": "Mais da metade dos lares do Ceará é chefiada por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-chefiada-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-lios-39733d8db9d2801b9ce7d623d765dfc8"
+    },
+    {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -999,7 +1064,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Rodar na reserva pode custar mais do que você imagina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "06/07",
+      "date": "08/07",
       "missing": [
         "Design"
       ],
@@ -1782,13 +1847,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Como a Planos acompanha seus contratos ao longo do ano. Se você pensa que nosso trabalho termina no dia da assinatura… arrasta pro lado. 👀",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "07/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "08/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-a-Planos-acompanha-seus-contratos-ao-longo-do-ano-Se-voc-pensa-que-nosso-trabalho-termina-no--30f33d8db9d280cea7bec775e0d7410f"
@@ -1902,14 +1965,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Reforma não é só sigla: 3 impactos práticos no preço do seu produto",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Reforma-n-o-s-sigla-3-impactos-pr-ticos-no-pre-o-do-seu-produto-1f133d8db9d280dc916fd074625d126e"
     }
@@ -2195,7 +2256,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Aniversário da Sandra Lira (Juntos Contra o HPV)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/07",
+      "date": "17/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3941,7 +4002,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Seq. Stories ",
       "status": "agendado_coord",
       "formato": "📱 Story",
-      "date": "08/07",
+      "date": "09/07",
       "missing": [
         "Design"
       ],
@@ -4376,8 +4437,8 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "Ser Ponte": {
-    "prontas": 7,
-    "total": 7
+    "prontas": 12,
+    "total": 12
   },
   "Tramix": {
     "prontas": 1,
@@ -4420,7 +4481,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Plannea": {
-    "prontas": 5,
+    "prontas": 6,
     "total": 9
   },
   "Ortobom": {
@@ -4478,7 +4539,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 5,
-    "carrossel": 2,
+    "carrossel": 7,
     "foto": 0,
     "video": 0,
     "story": 2
