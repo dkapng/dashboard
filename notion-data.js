@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 21:08:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 01:27:33 **/
 
-const LAST_UPDATE = '08/07/2026, 21:08:33';
+const LAST_UPDATE = '09/07/2026, 01:27:33';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -153,7 +153,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 12,
-    "pronto": 4,
+    "pronto": 8,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -226,7 +226,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 4,
@@ -536,7 +536,7 @@ const STORIES_DATA = {
   },
   "Planos Seguros": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 2,
@@ -1609,10 +1609,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "16/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Transformar-o-futuro-come-a-pela-prote-o-de-crian-as-e-adolescentes-hoje-Dia-do-Estatuto-da-Crian--38833d8db9d280509059f324f6b2acc3"
@@ -1670,10 +1668,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-indicadores-que-toda-OSC-deveria-acompanhar-38833d8db9d2805bab65e173d26603c7"
@@ -1683,10 +1679,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "10/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Planejar-o-segundo-semestre-revisar-prioridades-38833d8db9d280ffb5dafed8208b2885"
@@ -1696,10 +1690,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/N-o-existe-sustentabilidade-financeira-sem-estrat-gia-38833d8db9d280fcab79f6f2f60bd4c3"
@@ -2800,10 +2792,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "14/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-decidiu-comprar-um-novo-im-vel-mas-o-processo-travou-3-motivos-que-ningu-m-te-conta-30333d8db9d280fc90c2ffe7fcf5a2bf"
@@ -3995,10 +3985,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "09/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seq-Stories-30f33d8db9d280a8a053d3e8d07a1d2a"
