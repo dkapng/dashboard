@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 17:15:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 18:53:50 **/
 
-const LAST_UPDATE = '09/07/2026, 17:15:31';
+const LAST_UPDATE = '09/07/2026, 18:53:50';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -88,12 +88,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Tramix": {
-    "total": 1,
+    "total": 4,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 11,
@@ -404,20 +404,20 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 7,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 3,
     "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 2,
@@ -806,6 +806,46 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [
     {
+      "title": "O acabamento começa na linha certa",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-acabamento-come-a-na-linha-certa-39833d8db9d2802f882ac633354e3342"
+    },
+    {
+      "title": "Cor dos aviamentos também é um detalhe que importa ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cor-dos-aviamentos-tamb-m-um-detalhe-que-importa-39833d8db9d280258fe5d9715b8a968d"
+    },
+    {
+      "title": "O elástico certo faz diferença no resultado da peça.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-el-stico-certo-faz-diferen-a-no-resultado-da-pe-a-39833d8db9d2806fb1a3cba9e008f0d9"
+    },
+    {
       "title": "Zíperes para diferentes aplicações, abra novas possibilidades com a Tramix",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -819,7 +859,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "Toda empresa tem números.",
+      "title": "Toda empresa tem números. Poucas entendem o que eles dizem.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/07",
@@ -827,7 +867,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-n-meros-39133d8db9d280efb6f4e06d0cbb16f5"
+      "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-n-meros-Poucas-entendem-o-que-eles-dizem-39133d8db9d280efb6f4e06d0cbb16f5"
     },
     {
       "title": "Quando um processo depende da memória de alguém, ele já começou errado.",
@@ -3639,20 +3679,6 @@ const LINHA_VIDEO_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
-      "title": "O que realmente importa ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "06/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-que-realmente-importa-38f33d8db9d280e88998e063dc5114cf"
-    },
-    {
       "title": "Uma frase que eu escuto com frequência ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3721,20 +3747,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Ser-que-essa-prote-o-foi-feita-para-voc-38f33d8db9d280dfae2df3f3d1f6442b"
-    },
-    {
-      "title": "Às perguntas que quase ninguém faz ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/s-perguntas-que-quase-ningu-m-faz-38f33d8db9d28061907ffcbb2eccea3d"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -3752,28 +3764,24 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Bens-na-separa-o-39833d8db9d280e1a2c0e565bc61e643"
     },
     {
-      "title": "Hiperconecxão",
-      "status": "a_agendar",
+      "title": "Hiperconexão",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "17/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Hiperconecx-o-39833d8db9d280b18496c5673fad363c"
+      "notionUrl": "https://app.notion.com/p/Hiperconex-o-39833d8db9d280b18496c5673fad363c"
     },
     {
       "title": "Contratos",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "10/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Contratos-39833d8db9d2802699f5f26a34ccd71a"
     }
@@ -4455,6 +4463,16 @@ const DEMANDAS_EXTRAS = {
       "date": "15/05"
     }
   ],
+  "Stratto": [
+    {
+      "title": "Apresentação sobre terceirização do financeiro na identidade",
+      "priority": "p",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-do-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
+      "gestora": "Equipe",
+      "date": "23/06"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Apresentação para pitch",
@@ -4551,8 +4569,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Tramix": {
-    "prontas": 1,
-    "total": 1
+    "prontas": 3,
+    "total": 4
   },
   "Stratto": {
     "prontas": 14,
@@ -4616,10 +4634,10 @@ const LEGENDAS_DATA = {
   },
   "APROSSEG": {
     "prontas": 9,
-    "total": 16
+    "total": 14
   },
   "Daniel Maia Advocacia": {
-    "prontas": 9,
+    "prontas": 11,
     "total": 12
   },
   "Conecta Assessoria": {
@@ -4655,7 +4673,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Tramix": {
-    "post": 1,
+    "post": 4,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4770,7 +4788,7 @@ const FORMAT_COUNTS = {
     "post": 5,
     "carrossel": 3,
     "foto": 0,
-    "video": 7,
+    "video": 5,
     "story": 0
   },
   "Daniel Maia Advocacia": {
