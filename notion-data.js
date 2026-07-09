@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 18:53:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 20:04:37 **/
 
-const LAST_UPDATE = '09/07/2026, 18:53:50';
+const LAST_UPDATE = '09/07/2026, 20:04:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -99,9 +99,9 @@ const FEED_DATA = {
     "total": 11,
     "pronto": 7,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Juntos contra o HPV": {
     "total": 12,
@@ -154,10 +154,10 @@ const FEED_DATA = {
   "Rede Pangeia": {
     "total": 12,
     "pronto": 8,
-    "postado": 0,
-    "agendado": 3,
+    "postado": 1,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 4
   },
   "Planos Seguros": {
     "total": 11,
@@ -187,9 +187,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 7,
     "postado": 1,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
@@ -204,9 +204,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 8,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 7,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 6
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -236,9 +236,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 9,
     "postado": 0,
-    "agendado": 6,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 6
   },
   "Solar Coworking": {
     "total": 13,
@@ -391,9 +391,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 5,
     "postado": 2,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -415,17 +415,17 @@ const VIDEO_DATA = {
     "total": 3,
     "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 2,
     "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 0,
@@ -860,7 +860,7 @@ const LINHA_FEED_ITEMS = {
   "Stratto": [
     {
       "title": "Toda empresa tem números. Poucas entendem o que eles dizem.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/07",
       "missing": [],
@@ -1724,7 +1724,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Transformar o futuro começa pela proteção de crianças e adolescentes hoje. Dia do Estatuto da Criança e do Adolescente (ECA)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "16/07",
       "missing": [],
@@ -1746,7 +1746,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Boa vontade não substitui gestão. Comprometimento não substitui planejamento. E propósito, sozinho, não garante sustentabilidade.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/07",
       "missing": [],
@@ -1783,7 +1783,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "5 indicadores que toda OSC deveria acompanhar",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "13/07",
       "missing": [],
@@ -1794,7 +1794,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Planejar o segundo semestre é revisar prioridades!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "10/07",
       "missing": [],
@@ -1805,7 +1805,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Não existe sustentabilidade financeira sem estratégia.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "17/07",
       "missing": [],
@@ -2259,7 +2259,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Entre um passeio e outro, as férias também podem ser um momento para cuidar da saúde dos pequenos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [],
@@ -2647,7 +2647,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma revisão de 20 minutos pode evitar prejuízos que duram anos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [],
@@ -2658,7 +2658,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O maior erro não é ficar sem seguro. É acreditar que está protegido quando a cobertura já não acompanha sua realidade.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/07",
       "missing": [],
@@ -2669,7 +2669,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "5 erros que podem comprometer sua cobertura sem que você perceba.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [],
@@ -3031,7 +3031,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe qual plano faz sentido para a sua realidade hoje? ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [],
@@ -3042,7 +3042,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tem coisas que ficam mais caras enquanto você pensa. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/07",
       "missing": [],
@@ -3053,7 +3053,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tem decisões que parecem urgentes só depois que o problema aparece.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [],
@@ -3525,6 +3525,20 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "#respost do dr. Roque Savioli",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/respost-do-dr-Roque-Savioli-39833d8db9d28026837ef73b72ca0757"
+    },
+    {
       "title": "A saúde que você confia, sempre perto de você.",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3551,20 +3565,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/O-que-acontece-com-seu-exame-depois-da-coleta-38333d8db9d2809591a3ee8dc5994826"
-    },
-    {
-      "title": "Você sabe quais exames costumam fazer parte de um check-up básico?",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Voc-sabe-quais-exames-costumam-fazer-parte-de-um-check-up-b-sico-38333d8db9d28007a147ce13db0a4b90"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -3642,14 +3642,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Barato sai caro",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "15/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Barato-sai-caro-38f33d8db9d28083addac8880df088ae"
     },
@@ -3752,14 +3750,12 @@ const LINHA_VIDEO_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Bens na separação",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "24/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Bens-na-separa-o-39833d8db9d280e1a2c0e565bc61e643"
     },
@@ -3789,14 +3785,12 @@ const LINHA_VIDEO_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Monte klinikun",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "14/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Monte-klinikun-39833d8db9d28053ba7fd9e40bec87c7"
     },
@@ -4625,7 +4619,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Finseg Leal": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 19
   },
   "Di Gregório Buffet": {
@@ -4637,11 +4631,11 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Daniel Maia Advocacia": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 12
   },
   "Conecta Assessoria": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 17
   },
   "Solar Coworking": {
