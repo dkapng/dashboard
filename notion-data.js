@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 10:46:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 13:23:15 **/
 
-const LAST_UPDATE = '09/07/2026, 10:46:51';
+const LAST_UPDATE = '09/07/2026, 13:23:15';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -104,10 +104,10 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Juntos contra o HPV": {
-    "total": 6,
+    "total": 7,
     "pronto": 4,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 3
   },
@@ -372,12 +372,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "ItalaP": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 4,
@@ -412,20 +412,20 @@ const VIDEO_DATA = {
     "a_agendar": 7
   },
   "Daniel Maia Advocacia": {
-    "total": 0,
-    "pronto": 0,
+    "total": 3,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Conecta Assessoria": {
-    "total": 0,
-    "pronto": 0,
+    "total": 2,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 0,
@@ -607,12 +607,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 8,
+    "total": 7,
     "pronto": 5,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 4,
@@ -950,8 +950,22 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Atenção, jovens! A vacinação contra o HPV foi prorrogada! Meninas e meninos de 15 a 19 anos que ainda não foram vacinados podem receber a vacina GRATUIRAMENTE pelo SUS. Novo prazo: até 31 de dezembro de 2026. Procure a UBS mais próxima e garanta sua proteção.",
+      "title": "A prevenção também pode ser acompanhada. Conheça o observatório do Grupo Mulheres do Brasil. (post em colab com o gmdbfor)",
       "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "24/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-preven-o-tamb-m-pode-ser-acompanhada-Conhe-a-o-observat-rio-do-Grupo-Mulheres-do-Brasil-post-e-39833d8db9d280a2871cc638ca0c44a8"
+    },
+    {
+      "title": "Atenção, jovens! A vacinação contra o HPV foi prorrogada! Meninas e meninos de 15 a 19 anos que ainda não foram vacinados podem receber a vacina GRATUIRAMENTE pelo SUS. Novo prazo: até 31 de dezembro de 2026. Procure a UBS mais próxima e garanta sua proteção.",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/07",
       "missing": [],
@@ -3433,20 +3447,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quais-exames-costumam-fazer-parte-de-um-check-up-b-sico-38333d8db9d28007a147ce13db0a4b90"
-    },
-    {
-      "title": "Conheça o lugar onde tecnologia e cuidado caminham juntos.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Conhe-a-o-lugar-onde-tecnologia-e-cuidado-caminham-juntos-38333d8db9d280478fd4e22d7cde1b02"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -3659,8 +3659,73 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/s-perguntas-que-quase-ningu-m-faz-38f33d8db9d28061907ffcbb2eccea3d"
     }
   ],
-  "Daniel Maia Advocacia": [],
-  "Conecta Assessoria": [],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Bens na separação",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "24/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Bens-na-separa-o-39833d8db9d280e1a2c0e565bc61e643"
+    },
+    {
+      "title": "Hiperconecxão",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "17/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Hiperconecx-o-39833d8db9d280b18496c5673fad363c"
+    },
+    {
+      "title": "Contratos",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Contratos-39833d8db9d2802699f5f26a34ccd71a"
+    }
+  ],
+  "Conecta Assessoria": [
+    {
+      "title": "Monte klinikun",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Monte-klinikun-39833d8db9d28053ba7fd9e40bec87c7"
+    },
+    {
+      "title": "Best Halland ",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Best-Halland-39833d8db9d2809389e0df133ec6f37d"
+    }
+  ],
   "Solar Coworking": [
     {
       "title": "Cada empresa tem seu momento",
@@ -4053,7 +4118,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Agora você conta com mais especialistas na ItalaP.",
       "status": "postado",
       "formato": "📱 Story",
-      "date": "08/07",
+      "date": "09/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4107,7 +4172,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Stories que já saíram",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "14/07",
+      "date": "16/07",
       "missing": [
         "Design"
       ],
@@ -4115,19 +4180,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Stories-que-j-sa-ram-38f33d8db9d2806c801cda560bc6548b"
-    },
-    {
-      "title": "Stories que já saíram",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "09/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. N/A",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Stories-que-j-sa-ram-38f33d8db9d2805485fccb0fd2dae7ab"
     },
     {
       "title": "Aniversário - Fabio / Proviz",
@@ -4255,7 +4307,25 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "APROSSEG": [
+    {
+      "title": "Aniversáriantes do mês",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Anivers-riantes-do-m-s-39833d8db9d280eda03fc5b410bf0b96",
+      "gestora": "Equipe",
+      "date": "13/07"
+    }
+  ],
   "Juntos contra o HPV": [
+    {
+      "title": "Video para formação",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Video-para-forma-o-39833d8db9d280e0a465d57c6e6a5d61",
+      "gestora": "Equipe",
+      "date": "14/07"
+    },
     {
       "title": "Atualização do panfleto da Juh",
       "priority": "p",
@@ -4287,16 +4357,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
       "gestora": "Equipe",
       "date": "22/06"
-    }
-  ],
-  "APROSSEG": [
-    {
-      "title": "Video com a fala dos produtores (do dia do São João) ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Video-com-a-fala-dos-produtores-do-dia-do-S-o-Jo-o-39533d8db9d2800b984ef53ba3cab4da",
-      "gestora": "Equipe",
-      "date": "07/07"
     }
   ],
   "Finseg Leal": [
@@ -4430,7 +4490,7 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 6,
-    "total": 6
+    "total": 7
   },
   "Jota Diesel": {
     "prontas": 6,
@@ -4470,7 +4530,7 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 15,
-    "total": 19
+    "total": 18
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 10,
@@ -4490,11 +4550,11 @@ const LEGENDAS_DATA = {
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
-    "total": 9
+    "total": 12
   },
   "Conecta Assessoria": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 16,
+    "total": 17
   },
   "Solar Coworking": {
     "prontas": 13,
@@ -4540,7 +4600,7 @@ const FORMAT_COUNTS = {
   },
   "Juntos contra o HPV": {
     "post": 3,
-    "carrossel": 3,
+    "carrossel": 4,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4612,7 +4672,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 3,
     "foto": 0,
-    "video": 4,
+    "video": 3,
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
@@ -4647,15 +4707,15 @@ const FORMAT_COUNTS = {
     "post": 8,
     "carrossel": 1,
     "foto": 0,
-    "video": 0,
+    "video": 3,
     "story": 1
   },
   "Conecta Assessoria": {
     "post": 15,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
-    "story": 8
+    "video": 2,
+    "story": 7
   },
   "Solar Coworking": {
     "post": 13,
