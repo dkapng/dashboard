@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 13:23:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 15:15:36 **/
 
-const LAST_UPDATE = '09/07/2026, 13:23:15';
+const LAST_UPDATE = '09/07/2026, 15:15:36';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -104,12 +104,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Juntos contra o HPV": {
-    "total": 7,
+    "total": 8,
     "pronto": 4,
     "postado": 1,
     "agendado": 3,
-    "agendado_coord": 0,
-    "a_agendar": 3
+    "agendado_coord": 2,
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 6,
@@ -950,16 +950,28 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Juh, quem já teve HPV pode tomar a vacina? H2: Sim! Mesmo quem já teve contato com o HPV pode se beneficiar da vacinação, pois ela protege contra diferentes tipos do vírus. H3: Em caso de dúvidas, procure uma unidade de saúde ou converse com a Juh. ",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Juh-quem-j-teve-HPV-pode-tomar-a-vacina-H2-Sim-Mesmo-quem-j-teve-contato-com-o-HPV-pode-se-ben-39833d8db9d2808da469f1df13af8f96"
+    },
+    {
       "title": "A prevenção também pode ser acompanhada. Conheça o observatório do Grupo Mulheres do Brasil. (post em colab com o gmdbfor)",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "24/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-preven-o-tamb-m-pode-ser-acompanhada-Conhe-a-o-observat-rio-do-Grupo-Mulheres-do-Brasil-post-e-39833d8db9d280a2871cc638ca0c44a8"
     },
@@ -4455,7 +4467,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "APROSSEG": "marcada",
-  "Ortobom": "marcada",
+  "Ortobom": "confirmada",
   "Conecta Assessoria": "marcada",
   "ItalaP": "marcada",
   "Finseg Leal": "marcada",
@@ -4489,8 +4501,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 6,
-    "total": 7
+    "prontas": 8,
+    "total": 8
   },
   "Jota Diesel": {
     "prontas": 6,
@@ -4599,7 +4611,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 3,
+    "post": 4,
     "carrossel": 4,
     "foto": 0,
     "video": 0,
