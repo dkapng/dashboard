@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 19:57:45 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/07/2026, 21:08:33 **/
 
-const LAST_UPDATE = '08/07/2026, 19:57:45';
+const LAST_UPDATE = '08/07/2026, 21:08:33';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -234,7 +234,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 15,
-    "pronto": 6,
+    "pronto": 9,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 0,
@@ -244,9 +244,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   }
 };
 
@@ -642,7 +642,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "06/07",
+      "date": "08/07",
       "missing": [
         "Legenda"
       ],
@@ -1432,7 +1432,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O fazer artesanal transforma o cotidiano em caminho, propósito e permanência.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/07",
+      "date": "09/07",
       "missing": [
         "Design"
       ],
@@ -1686,7 +1686,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Planejar-o-segundo-semestre-revisar-prioridades-38833d8db9d280ffb5dafed8208b2885"
@@ -2926,10 +2926,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-qual-plano-faz-sentido-para-a-sua-realidade-hoje-Talvez-a-resposta-seja-diferente-da-que--38933d8db9d28055bf27f1a9a0e14267"
@@ -2939,10 +2937,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tem-coisas-que-ficam-mais-caras-enquanto-voc-pensa-Sa-de-uma-delas-38933d8db9d2809aacf1d9d8466bcc4b"
@@ -2952,10 +2948,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tem-decis-es-que-parecem-urgentes-s-depois-que-o-problema-aparece-38933d8db9d280bbaf60ec9c76341ada"
@@ -3030,14 +3024,12 @@ const LINHA_FEED_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Sua encomenda chegou. O problema é que não tinha ninguém pra receber. Isso já aconteceu na sua empresa?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "05/07",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "08/07",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-encomenda-chegou-O-problema-que-n-o-tinha-ningu-m-pra-receber-Isso-j-aconteceu-na-sua-empre-39533d8db9d28090af1bfc5ca00182b1"
     },
@@ -3166,7 +3158,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Psicólogo explica: o ambiente também faz parte da experiência do cliente",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/07",
+      "date": "11/07",
       "missing": [
         "Design"
       ],
@@ -3179,7 +3171,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Networking de verdade acontece quando você menos espera.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/07",
+      "date": "09/07",
       "missing": [
         "Design"
       ],
@@ -4517,7 +4509,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Solar Coworking": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 17
   }
 };
