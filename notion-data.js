@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 15:15:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/07/2026, 17:15:31 **/
 
-const LAST_UPDATE = '09/07/2026, 15:15:36';
+const LAST_UPDATE = '09/07/2026, 17:15:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -104,11 +104,11 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Juntos contra o HPV": {
-    "total": 8,
+    "total": 12,
     "pronto": 4,
     "postado": 1,
     "agendado": 3,
-    "agendado_coord": 2,
+    "agendado_coord": 6,
     "a_agendar": 2
   },
   "Jota Diesel": {
@@ -292,12 +292,12 @@ const VIDEO_DATA = {
     "a_agendar": 3
   },
   "Juntos contra o HPV": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 0,
@@ -950,6 +950,58 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "“A tecnologia nos dá a velocidade, mas é o calor humano que gera a confiança.”",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-tecnologia-nos-d-a-velocidade-mas-o-calor-humano-que-gera-a-confian-a-39833d8db9d280c0857bd09f446a6bc9"
+    },
+    {
+      "title": "“",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-escola-o-ch-o-onde-a-gente-planta-a-cidadania-e-o-cuidado-com-o-futuro-Como-as-salas-de-aula-39833d8db9d280a6a5c7f27da10d1db0"
+    },
+    {
+      "title": "Uma conversa de cinco minutos na comunidade pode evitar um diagnóstico trágico daqui a vinte anos.",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "29/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uma-conversa-de-cinco-minutos-na-comunidade-pode-evitar-um-diagn-stico-tr-gico-daqui-a-vinte-anos-O-39833d8db9d280f39b35c8e29d045142"
+    },
+    {
+      "title": "O câncer do colo do útero é o segundo mais frequente em mulheres em várias regiões do Brasil.",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-c-ncer-do-colo-do-tero-o-segundo-mais-frequente-em-mulheres-em-v-rias-regi-es-do-Brasil-Se-a-i-39833d8db9d2809fa212c359eda2b8d7"
+    },
+    {
       "title": "Juh, quem já teve HPV pode tomar a vacina? H2: Sim! Mesmo quem já teve contato com o HPV pode se beneficiar da vacinação, pois ela protege contra diferentes tipos do vírus. H3: Em caso de dúvidas, procure uma unidade de saúde ou converse com a Juh. ",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
@@ -990,7 +1042,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Tira-dúvidas com a Juh #02 - ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "27/07",
+      "date": "31/07",
       "missing": [
         "Design"
       ],
@@ -3258,7 +3310,21 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Antes-de-assumir-o-financeiro-de-uma-empresa-fazemos-uma-coisa-que-quase-ningu-m-faz-39133d8db9d280189008dbb541a3fb8b"
     }
   ],
-  "Juntos contra o HPV": [],
+  "Juntos contra o HPV": [
+    {
+      "title": "Formação de multiplicadores Tejuçuoca",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "27/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Forma-o-de-multiplicadores-Teju-uoca-39833d8db9d280939849cfaf9b273c85"
+    }
+  ],
   "Jota Diesel": [],
   "Ventana": [],
   "Univendas": [],
@@ -3576,7 +3642,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O que realmente importa ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "30/07",
+      "date": "06/08",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4381,14 +4447,6 @@ const DEMANDAS_EXTRAS = {
       "date": "03/07"
     },
     {
-      "title": "Videos para o trafego",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Videos-para-o-trafego-39133d8db9d280e78521f0b0f0197a1b",
-      "gestora": "Equipe",
-      "date": "07/07"
-    },
-    {
       "title": "Diagnóstico de proteções - Versão de Apresentação",
       "priority": "p",
       "rawStatus": "2. Falta informação",
@@ -4501,8 +4559,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 8,
-    "total": 8
+    "prontas": 12,
+    "total": 13
   },
   "Jota Diesel": {
     "prontas": 6,
@@ -4611,10 +4669,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 4,
+    "post": 8,
     "carrossel": 4,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "Jota Diesel": {
