@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 15:18:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 16:57:12 **/
 
-const LAST_UPDATE = '10/07/2026, 15:18:14';
+const LAST_UPDATE = '10/07/2026, 16:57:12';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -75,9 +75,9 @@ const FEED_DATA = {
     "total": 2,
     "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ser Ponte": {
     "total": 12,
@@ -260,10 +260,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -640,14 +640,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma infinidade de texturas como você nunca viu. Travessias Híbridas: de 16 de maio a 18 de julho, no Centro Cultural Banco do Nordeste.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "08/07",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "10/07",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
     }
@@ -3370,7 +3368,19 @@ const LINHA_FEED_ITEMS = {
 
 const LINHA_VIDEO_ITEMS = {
   "AAFEC": [],
-  "Travessias Híbridas": [],
+  "Travessias Híbridas": [
+    {
+      "title": "Brandon convida",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Brandon-convida-39933d8db9d280579f73f747a73c5884"
+    }
+  ],
   "Ser Ponte": [],
   "Tramix": [],
   "Stratto": [
@@ -4476,6 +4486,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Solar Coworking": [
+    {
+      "title": "Cartão de boas-vindas para novos clientes",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Cart-o-de-boas-vindas-para-novos-clientes-39933d8db9d28026844bf9e4db2268df",
+      "gestora": "Equipe",
+      "date": "14/07"
+    }
+  ],
   "APROSSEG": [
     {
       "title": "Aniversáriantes do mês",
@@ -4618,8 +4638,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Travessias Híbridas": {
-    "prontas": 1,
-    "total": 2
+    "prontas": 3,
+    "total": 3
   },
   "Ser Ponte": {
     "prontas": 12,
@@ -4719,7 +4739,7 @@ const FORMAT_COUNTS = {
     "post": 1,
     "carrossel": 0,
     "foto": 1,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "Ser Ponte": {
@@ -4908,7 +4928,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ventana": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
