@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 19:30:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 20:52:52 **/
 
-const LAST_UPDATE = '10/07/2026, 19:30:53';
+const LAST_UPDATE = '10/07/2026, 20:52:52';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,7 +89,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 0,
@@ -850,7 +850,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Um-bom-acabamento-tamb-m-fideliza-clientes-39933d8db9d280adb831ccad0fbed0b0"
@@ -860,10 +860,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Retrabalho-custa-mais-do-que-parece-39933d8db9d28019bac6fa85fe808555"
