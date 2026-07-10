@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 18:04:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 19:30:53 **/
 
-const LAST_UPDATE = '10/07/2026, 18:04:03';
+const LAST_UPDATE = '10/07/2026, 19:30:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,11 +89,11 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 3,
+    "pronto": 5,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 6
   },
   "Stratto": {
     "total": 11,
@@ -863,55 +863,49 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Retrabalho-custa-mais-do-que-parece-39933d8db9d28019bac6fa85fe808555"
     },
     {
-      "title": "A escolha da linha certa muda a qualidade da resistência da peça ",
+      "title": "A escolha da linha certa muda a qualidade da resistência da peça",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-escolha-da-linha-certa-muda-a-qualidade-da-resist-ncia-da-pe-a-39933d8db9d280049aecee64ceea192e"
     },
     {
       "title": "O acabamento começa na linha certa",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "11/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "12/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-acabamento-come-a-na-linha-certa-39833d8db9d2802f882ac633354e3342"
     },
     {
       "title": "Cor dos aviamentos também é um detalhe que importa",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "10/07",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "11/07",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cor-dos-aviamentos-tamb-m-um-detalhe-que-importa-39833d8db9d280258fe5d9715b8a968d"
     },
     {
       "title": "O elástico certo faz diferença no resultado da peça.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "09/07",
+      "date": "10/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4646,7 +4640,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Tramix": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 10
   },
   "Stratto": {
