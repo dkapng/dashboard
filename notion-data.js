@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 11:05:21 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 13:35:55 **/
 
-const LAST_UPDATE = '10/07/2026, 11:05:21';
+const LAST_UPDATE = '10/07/2026, 13:35:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,7 +89,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -544,7 +544,7 @@ const STORIES_DATA = {
   },
   "Plannea": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -905,7 +905,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cor-dos-aviamentos-tamb-m-um-detalhe-que-importa-39833d8db9d280258fe5d9715b8a968d"
@@ -915,10 +915,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-el-stico-certo-faz-diferen-a-no-resultado-da-pe-a-39833d8db9d2806fb1a3cba9e008f0d9"
@@ -2468,11 +2466,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-fez-algo-pela-primeira-vez-38e33d8db9d28096a042e2a782db0659"
     },
@@ -2482,11 +2479,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-j-percebeu-que-toda-mulher-tem-uma-fase-em-que-come-a-a-dizer-mais-n-o-38e33d8db9d280b8b294e3a53875e4f0"
     },
@@ -2496,11 +2492,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-ensinou-as-mulheres-a-cuidar-de-todo-mundo-antes-de-cuidar-de-si-38e33d8db9d28031809bc6af171b5baf"
     },
@@ -2510,11 +2505,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-paga-primeiro-a-conta-da-crise-clim-tica-38e33d8db9d280569223dda4964fbc52"
     },
@@ -2524,11 +2518,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-se-perde-quando-saberes-tradicionais-deixam-de-ser-transmitidos-38e33d8db9d280bdb4acfd35e8276ccb"
     },
@@ -2538,11 +2531,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-interromper-a-viol-ncia-antes-que-ela-chegue-ao-ltimo-est-gio-38e33d8db9d280008630ee7922a7ec59"
     },
@@ -2552,11 +2544,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Brasil-reconhece-as-mulheres-que-preservam-sua-mem-ria-cultural-38e33d8db9d280ed85d8df275899c8bf"
     },
@@ -2566,11 +2557,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-muda-quando-uma-menina-cresce-cercada-de-refer-ncias-femininas-38e33d8db9d280e3a403cac15c40decf"
     },
@@ -2580,11 +2570,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Existem-amizades-que-mudam-uma-vida-Algumas-mudam-um-pa-s-Dia-do-amigo-38e33d8db9d280ba998adbc016dbb607"
     },
@@ -4274,10 +4263,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Compliance-tribut-rio-39533d8db9d280f28dd5e61ab8fd5e71"
@@ -4526,22 +4513,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Identidade-visual-do-Simp-sio-39233d8db9d280e59547fa563217fcf7",
       "gestora": "Equipe",
       "date": "13T10:30:00.000/07"
-    },
-    {
-      "title": "Slide de apresentação da Juh",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Slide-de-apresenta-o-da-Juh-38933d8db9d2805b8f18cc86eedc72fa",
-      "gestora": "Equipe",
-      "date": "26/06"
-    },
-    {
-      "title": "Brindes diversos",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Brindes-diversos-37933d8db9d280ee96efcc8bec1b15b4",
-      "gestora": "Equipe",
-      "date": "22/06"
     }
   ],
   "Finseg Leal": [
@@ -4586,7 +4557,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Tag geral da Terrartesã",
       "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Tag-geral-da-Terrartes-37233d8db9d28075849fc11a5ac66e8d",
       "gestora": "Equipe",
       "date": "05/06"
@@ -4720,7 +4691,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 10,
+    "prontas": 19,
     "total": 19
   },
   "Finseg Leal": {
