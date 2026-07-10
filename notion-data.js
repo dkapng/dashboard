@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 13:35:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 15:18:14 **/
 
-const LAST_UPDATE = '10/07/2026, 13:35:55';
+const LAST_UPDATE = '10/07/2026, 15:18:14';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,7 +89,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -113,11 +113,11 @@ const FEED_DATA = {
   },
   "Jota Diesel": {
     "total": 6,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Ventana": {
     "total": 0,
@@ -521,10 +521,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 5,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 5,
@@ -902,10 +902,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cor-dos-aviamentos-tamb-m-um-detalhe-que-importa-39833d8db9d280258fe5d9715b8a968d"
@@ -1255,23 +1254,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Os-sinais-aparecem-antes-do-problema-Voc-est-observando-38e33d8db9d280289d49da456a7cc68b"
     },
     {
-      "title": "Rodar na reserva pode custar mais do que você imagina.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Rodar-na-reserva-pode-custar-mais-do-que-voc-imagina-38e33d8db9d28085ae01dabb83967e4c"
-    },
-    {
       "title": "A injeção diesel influencia mais do que você imagina.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "02/07",
+      "date": "14/07",
       "missing": [
         "Design"
       ],
@@ -1282,16 +1268,27 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem roda muito sabe: confiança se constrói na manutenção.",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "10/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-roda-muito-sabe-confian-a-se-constr-i-na-manuten-o-38e33d8db9d28074b669dd59f85d99e4"
+    },
+    {
+      "title": "Motor regulado é menos consumo e mais desempenho.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "03/07",
+      "date": "13/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-roda-muito-sabe-confian-a-se-constr-i-na-manuten-o-38e33d8db9d28074b669dd59f85d99e4"
+      "notionUrl": "https://app.notion.com/p/Motor-regulado-menos-consumo-e-mais-desempenho-36e33d8db9d2807ab144f1b8d6fe7049"
     }
   ],
   "Ventana": [],
@@ -4108,7 +4105,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "🔒 ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "09/07",
       "missing": [],
@@ -4551,16 +4548,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
-    }
-  ],
-  "Terrartesã": [
-    {
-      "title": "Tag geral da Terrartesã",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Tag-geral-da-Terrartes-37233d8db9d28075849fc11a5ac66e8d",
-      "gestora": "Equipe",
-      "date": "05/06"
     }
   ],
   "Grupo Mulheres do Brasil": [
