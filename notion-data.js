@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 08:44:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 11:05:21 **/
 
-const LAST_UPDATE = '10/07/2026, 08:44:22';
+const LAST_UPDATE = '10/07/2026, 11:05:21';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -88,12 +88,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Tramix": {
-    "total": 4,
+    "total": 10,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 9
   },
   "Stratto": {
     "total": 11,
@@ -463,12 +463,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Tramix": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 0,
@@ -806,6 +806,84 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [
     {
+      "title": "À primeira vista dois produtos podem parecer iguais, mas a diferença surge com o tempo",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/primeira-vista-dois-produtos-podem-parecer-iguais-mas-a-diferen-a-surge-com-o-tempo-39933d8db9d280caa166f804261b13f7"
+    },
+    {
+      "title": "Produzir com qualidade também é pensar no pós-venda",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Produzir-com-qualidade-tamb-m-pensar-no-p-s-venda-39933d8db9d28030bb85f268be756a48"
+    },
+    {
+      "title": "A produtividade também depende dos materiai",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-produtividade-tamb-m-depende-dos-materiai-39933d8db9d280629c49f3d268393ba9"
+    },
+    {
+      "title": "Um bom acabamento também fideliza clientes",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Um-bom-acabamento-tamb-m-fideliza-clientes-39933d8db9d280adb831ccad0fbed0b0"
+    },
+    {
+      "title": "Retrabalho custa mais do que parece",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Retrabalho-custa-mais-do-que-parece-39933d8db9d28019bac6fa85fe808555"
+    },
+    {
+      "title": "A escolha da linha certa muda a qualidade da resistência da peça ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-escolha-da-linha-certa-muda-a-qualidade-da-resist-ncia-da-pe-a-39933d8db9d280049aecee64ceea192e"
+    },
+    {
       "title": "O acabamento começa na linha certa",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -819,7 +897,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-acabamento-come-a-na-linha-certa-39833d8db9d2802f882ac633354e3342"
     },
     {
-      "title": "Cor dos aviamentos também é um detalhe que importa ",
+      "title": "Cor dos aviamentos também é um detalhe que importa",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/07",
@@ -3889,7 +3967,34 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-ser-ponte-39733d8db9d2803aaa7fcc8a1193e916"
     }
   ],
-  "Tramix": [],
+  "Tramix": [
+    {
+      "title": "O trabalho da confecção termina quando a peça sai da máquina? ",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "23/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-trabalho-da-confec-o-termina-quando-a-pe-a-sai-da-m-quina-Na-verdade-a-que-come-a-a-experi-n-39933d8db9d280f390c9d78c9809666e"
+    },
+    {
+      "title": "Seu cliente percebe um bom acabamento. Mesmo sem entender de costura.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "16/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-cliente-percebe-um-bom-acabamento-Mesmo-sem-entender-de-costura-39933d8db9d28075af29cedfaab24155"
+    }
+  ],
   "Stratto": [],
   "Juntos contra o HPV": [],
   "Jota Diesel": [
@@ -4172,7 +4277,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Compliance-tribut-rio-39533d8db9d280f28dd5e61ab8fd5e71"
@@ -4563,8 +4668,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Tramix": {
-    "prontas": 3,
-    "total": 4
+    "prontas": 9,
+    "total": 10
   },
   "Stratto": {
     "prontas": 14,
@@ -4667,11 +4772,11 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Tramix": {
-    "post": 4,
+    "post": 10,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 2
   },
   "Stratto": {
     "post": 7,
