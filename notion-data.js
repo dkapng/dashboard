@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/07/2026, 14:48:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/07/2026, 15:50:20 **/
 
-const LAST_UPDATE = '11/07/2026, 14:48:01';
+const LAST_UPDATE = '11/07/2026, 15:50:20';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -105,7 +105,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 12,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 6,
@@ -1159,10 +1159,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tira-d-vidas-com-a-Juh-01-HPV-s-afeta-mulheres-38933d8db9d2807297ebed6ba952d095"
