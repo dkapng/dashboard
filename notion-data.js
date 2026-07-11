@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/07/2026, 12:47:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/07/2026, 13:46:34 **/
 
-const LAST_UPDATE = '11/07/2026, 12:47:11';
+const LAST_UPDATE = '11/07/2026, 13:46:34';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -2245,10 +2245,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Julho-tem-duas-cores-E-as-duas-falam-sobre-algo-que-n-o-pode-esperar-a-sua-sa-de-38233d8db9d280eea993e8a2430d2200"
@@ -2300,7 +2298,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quais-exames-costumam-fazer-parte-de-um-check-up-b-sico-Muita-gente-fala-sobre-preven-o--38233d8db9d280a5800ac561275db30f"
