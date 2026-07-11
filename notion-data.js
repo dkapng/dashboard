@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 20:52:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 22:57:49 **/
 
-const LAST_UPDATE = '10/07/2026, 20:52:52';
+const LAST_UPDATE = '10/07/2026, 22:57:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,7 +89,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 0,
@@ -608,7 +608,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 7,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -847,10 +847,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Um-bom-acabamento-tamb-m-fideliza-clientes-39933d8db9d280adb831ccad0fbed0b0"
@@ -4357,10 +4355,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Fabio-Proviz-38f33d8db9d280aa9d29d32150639990"
