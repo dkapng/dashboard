@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/07/2026, 22:57:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/07/2026, 02:13:20 **/
 
-const LAST_UPDATE = '10/07/2026, 22:57:49';
+const LAST_UPDATE = '11/07/2026, 02:13:20';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -193,7 +193,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
-    "pronto": 7,
+    "pronto": 10,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 0,
@@ -2515,10 +2515,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-interromper-a-viol-ncia-antes-que-ela-chegue-ao-ltimo-est-gio-38e33d8db9d280008630ee7922a7ec59"
@@ -2528,10 +2526,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Brasil-reconhece-as-mulheres-que-preservam-sua-mem-ria-cultural-38e33d8db9d280ed85d8df275899c8bf"
@@ -2541,10 +2537,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-muda-quando-uma-menina-cresce-cercada-de-refer-ncias-femininas-38e33d8db9d280e3a403cac15c40decf"
