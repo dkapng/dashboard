@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/07/2026, 15:54:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/07/2026, 17:03:33 **/
 
-const LAST_UPDATE = '12/07/2026, 15:54:55';
+const LAST_UPDATE = '12/07/2026, 17:03:33';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4502,7 +4502,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Identidade visual do Simpósio",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Identidade-visual-do-Simp-sio-39233d8db9d280e59547fa563217fcf7",
       "gestora": "Equipe",
       "date": "13T10:30:00.000/07"
