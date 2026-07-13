@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 15:27:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 16:57:33 **/
 
-const LAST_UPDATE = '13/07/2026, 15:27:31';
+const LAST_UPDATE = '13/07/2026, 16:57:33';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -72,20 +72,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 3,
+    "total": 4,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Ser Ponte": {
     "total": 12,
     "pronto": 3,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 3,
-    "a_agendar": 9
+    "agendado_coord": 4,
+    "a_agendar": 8
   },
   "Tramix": {
     "total": 10,
@@ -192,12 +192,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
-    "total": 16,
+    "total": 20,
     "pronto": 10,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 10,
+    "a_agendar": 14,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -629,6 +629,20 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [],
   "Travessias Híbridas": [
     {
+      "title": "Convite para o lançamento do catálogo",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Convite-para-o-lan-amento-do-cat-logo-39c33d8db9d28008a8e1fae34867aca3"
+    },
+    {
       "title": "Saiu na mídia - Vida & Arte O POVO",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
@@ -766,13 +780,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "20/07",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
@@ -2471,6 +2485,62 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Post de aniversário: Adriana Athayde",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Adriana-Athayde-39c33d8db9d280e8be11f4f4efb5f956"
+    },
+    {
+      "title": "Post de aniversário: Martha Porto ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Martha-Porto-39c33d8db9d280c391c4d1d44b7f4a17"
+    },
+    {
+      "title": "Post de aniversário: Ethel Whitehurst ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Ethel-Whitehurst-39c33d8db9d280d7bce4d4a80f36ecb1"
+    },
+    {
+      "title": "Post de aniversário: Josie Picanço",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Josie-Pican-o-39c33d8db9d280f284ebed306dcaf675"
+    },
     {
       "title": "Aniversário da Sandra Lira (Juntos Contra o HPV)",
       "status": "a_agendar",
@@ -4525,7 +4595,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convite para o lançamento do catálogo",
       "priority": "ppp",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Convite-para-o-lan-amento-do-cat-logo-39c33d8db9d280879702f614f7f03140",
       "gestora": "Equipe",
       "date": "14/07"
@@ -4674,7 +4744,7 @@ const LEGENDAS_DATA = {
   },
   "Travessias Híbridas": {
     "prontas": 3,
-    "total": 4
+    "total": 5
   },
   "Ser Ponte": {
     "prontas": 12,
@@ -4734,7 +4804,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 19,
-    "total": 19
+    "total": 23
   },
   "Finseg Leal": {
     "prontas": 17,
@@ -4771,7 +4841,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Travessias Híbridas": {
-    "post": 1,
+    "post": 2,
     "carrossel": 1,
     "foto": 1,
     "video": 1,
@@ -4876,7 +4946,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 15,
+    "post": 19,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
