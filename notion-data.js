@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 08:36:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 11:13:52 **/
 
-const LAST_UPDATE = '13/07/2026, 08:36:05';
+const LAST_UPDATE = '13/07/2026, 11:13:52';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -72,12 +72,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 2,
+    "total": 3,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ser Ponte": {
     "total": 12,
@@ -99,17 +99,17 @@ const FEED_DATA = {
     "total": 11,
     "pronto": 7,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 12,
     "pronto": 5,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 6,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 6,
@@ -168,12 +168,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Plannea": {
-    "total": 9,
+    "total": 12,
     "pronto": 9,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 6
   },
   "Ortobom": {
     "total": 7,
@@ -217,12 +217,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 8,
+    "total": 7,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -543,12 +543,12 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "Plannea": {
-    "total": 2,
+    "total": 3,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 1,
@@ -612,7 +612,8 @@ const STORIES_DATA = {
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2,
+    "st-paused": null
   },
   "Solar Coworking": {
     "total": 4,
@@ -627,6 +628,20 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "AAFEC": [],
   "Travessias Híbridas": [
+    {
+      "title": "Saiu na mídia",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "13/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-39c33d8db9d280a78e36fdfe442aaf16"
+    },
     {
       "title": "Carrossel de fotos da exposição",
       "status": "postado",
@@ -960,7 +975,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O improviso pode até fazer uma empresa sobreviver. Nunca fará ela crescer.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [],
@@ -1008,7 +1023,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "5 sinais de que sua empresa precisa de um diagnóstico financeiro",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "15/07",
       "missing": [],
@@ -1156,7 +1171,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tira-dúvidas com a Juh #01 - HPV só afeta mulheres?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "13/07",
       "missing": [],
@@ -2039,6 +2054,45 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-escolhe-fornecedores-apenas-pelo-pre-o-Isso-pode-mudar-com-a-Reforma-Tribut-ria-39c33d8db9d28054be4ed24c30313d4e"
+    },
+    {
+      "title": "Split Payment: por que sua empresa pode deixar de receber o valor total de uma venda? (embaixo menor: ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Split-Payment-por-que-sua-empresa-pode-deixar-de-receber-o-valor-total-de-uma-venda-embaixo-menor-39c33d8db9d280c3b47ff89a4f6476cd"
+    },
+    {
+      "title": "Você sabia que uma empresa pode vender pra ela mesma? Mas atenção. Isso tem regras! ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabia-que-uma-empresa-pode-vender-pra-ela-mesma-Mas-aten-o-Isso-tem-regras-39c33d8db9d2803394a7d0117240c03d"
+    },
+    {
       "title": "O que é compliance tributário e por que sua empresa precisa disso hoje",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2816,23 +2870,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-pior-frase-que-algu-m-pode-dizer-depois-de-um-sinistro-Eu-achei-que-isso-estava-coberto-38f33d8db9d2809286fbcd51bb108158"
     },
     {
-      "title": "Cuidar também é uma forma de demonstrar amizade - Dia do amigo",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cuidar-tamb-m-uma-forma-de-demonstrar-amizade-Dia-do-amigo-38f33d8db9d280d395f8dfb9e5e23473"
-    },
-    {
       "title": "O seguro mais barato quase nunca é o mais econômico.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/07",
+      "date": "14/07",
       "missing": [
         "Design"
       ],
@@ -2845,7 +2886,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O mesmo seguro pode proteger duas pessoas de formas completamente diferentes. Descubra o porquê.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "13/07",
+      "date": "20/07",
       "missing": [
         "Design"
       ],
@@ -2853,19 +2894,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-mesmo-seguro-pode-proteger-duas-pessoas-de-formas-completamente-diferentes-Descubra-o-porqu-38f33d8db9d280389773e5515cb5ea50"
-    },
-    {
-      "title": "Quem faz as perguntas certas, toma decisões mais seguras.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "10/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-faz-as-perguntas-certas-toma-decis-es-mais-seguras-38f33d8db9d280fbb674c48d5562ba7d"
     },
     {
       "title": "Malas prontas para as férias de julho? Descubra por que o Seguro Viagem é o item mais importante da bagagem.",
@@ -2877,6 +2905,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Malas-prontas-para-as-f-rias-de-julho-Descubra-por-que-o-Seguro-Viagem-o-item-mais-importante-da--36e33d8db9d280419994d06dda5cf518"
+    },
+    {
+      "title": "Evite Problemas, Viaje com um Seguro Viagem",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Evite-Problemas-Viaje-com-um-Seguro-Viagem-91c39877bbb24e8f8c57712cd398f37c"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -3775,7 +3816,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Será que essa proteção foi feita para você? ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "14/07",
+      "date": "17/07",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4218,6 +4259,19 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Você já parou para pensar no caminho que o dinheiro faz depois que um cliente paga uma venda?",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "21/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-j-parou-para-pensar-no-caminho-que-o-dinheiro-faz-depois-que-um-cliente-paga-uma-venda-39c33d8db9d280718513ce9329f79319"
+    },
+    {
       "title": "Despesas reembolsáveis",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4338,7 +4392,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário - Rodrigo / KN Corretora",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "📱 Story",
       "date": "11/07",
       "missing": [],
@@ -4602,7 +4656,7 @@ const LEGENDAS_DATA = {
   },
   "Travessias Híbridas": {
     "prontas": 3,
-    "total": 3
+    "total": 4
   },
   "Ser Ponte": {
     "prontas": 12,
@@ -4649,8 +4703,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Plannea": {
-    "prontas": 6,
-    "total": 9
+    "prontas": 9,
+    "total": 12
   },
   "Ortobom": {
     "prontas": 8,
@@ -4673,8 +4727,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 9,
-    "total": 14
+    "prontas": 8,
+    "total": 13
   },
   "Daniel Maia Advocacia": {
     "prontas": 12,
@@ -4700,7 +4754,7 @@ const FORMAT_COUNTS = {
   },
   "Travessias Híbridas": {
     "post": 1,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 1,
     "video": 1,
     "story": 0
@@ -4783,11 +4837,11 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Plannea": {
-    "post": 9,
-    "carrossel": 0,
+    "post": 10,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 3
   },
   "Ortobom": {
     "post": 7,
@@ -4825,7 +4879,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 5,
+    "post": 4,
     "carrossel": 3,
     "foto": 0,
     "video": 5,
