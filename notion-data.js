@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 16:57:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 17:55:38 **/
 
-const LAST_UPDATE = '13/07/2026, 16:57:33';
+const LAST_UPDATE = '13/07/2026, 17:55:38';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -73,19 +73,20 @@ const FEED_DATA = {
   },
   "Travessias Híbridas": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 2
   },
   "Ser Ponte": {
-    "total": 12,
-    "pronto": 3,
+    "total": 13,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 4,
-    "a_agendar": 8
+    "a_agendar": 8,
+    "st-paused": null
   },
   "Tramix": {
     "total": 10,
@@ -648,10 +649,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "13/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Vida-Arte-O-POVO-39c33d8db9d280a78e36fdfe442aaf16"
@@ -829,6 +829,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-ser-ponte-em-uma-cidade-onde-falta-comida-em-milhares-de-casas-34933d8db9d28094853fd9946496dc6a"
+    },
+    {
+      "title": "30,9% da insegurança alimentar grave do Ceará está em Fortaleza, ",
+      "status": "st-paused",
+      "formato": "🖼️ Post",
+      "date": "13/07",
+      "missing": [],
+      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawLegenda": "🪶 2. Alterações a fazer",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/30-9-da-inseguran-a-alimentar-grave-do-Cear-est-em-Fortaleza-a-4-maior-capital-do-Brasil-em-pop-34933d8db9d280178e6fdc1b5ed101ae"
     }
   ],
   "Tramix": [
@@ -4747,8 +4758,8 @@ const LEGENDAS_DATA = {
     "total": 5
   },
   "Ser Ponte": {
-    "prontas": 12,
-    "total": 12
+    "prontas": 13,
+    "total": 13
   },
   "Tramix": {
     "prontas": 10,
@@ -4848,7 +4859,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 5,
+    "post": 6,
     "carrossel": 7,
     "foto": 0,
     "video": 0,
