@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 17:55:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 18:50:06 **/
 
-const LAST_UPDATE = '13/07/2026, 17:55:38';
+const LAST_UPDATE = '13/07/2026, 18:50:06';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -72,12 +72,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Travessias Híbridas": {
-    "total": 4,
-    "pronto": 3,
+    "total": 9,
+    "pronto": 4,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 6
   },
   "Ser Ponte": {
     "total": 13,
@@ -630,10 +630,10 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [],
   "Travessias Híbridas": [
     {
-      "title": "Convite para o lançamento do catálogo",
+      "title": "Obrigado por atravessar tudo isso com a gente.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/07",
+      "date": "18/07",
       "missing": [
         "Design",
         "Legenda"
@@ -641,18 +641,71 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Convite-para-o-lan-amento-do-cat-logo-39c33d8db9d28008a8e1fae34867aca3"
+      "notionUrl": "https://app.notion.com/p/Obrigado-por-atravessar-tudo-isso-com-a-gente-39c33d8db9d2803d82b2e44e522f3b95"
     },
     {
-      "title": "Saiu na mídia - Vida & Arte O POVO",
+      "title": "Amanhã: Lançamento do nosso catálogo. Uma despedida à altura de Travessias Híbridas.",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "13/07",
+      "formato": "🖼️ Post",
+      "date": "17/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Amanh-Lan-amento-do-nosso-cat-logo-Uma-despedida-altura-de-Travessias-H-bridas-39c33d8db9d280c080a2cc643d42a2e6"
+    },
+    {
+      "title": "Não deixe essa travessia terminar sem você. Sábado, dia 18/07 às 11h nos despedimos da exposição com o nosso catálogo, venha fazer parte. 11h.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/N-o-deixe-essa-travessia-terminar-sem-voc-S-bado-dia-18-07-s-11h-nos-despedimos-da-exposi-o-com-39c33d8db9d2805ca3dfe09f50b914c6"
+    },
+    {
+      "title": "Marque aquela pessoa que vai visitar a exposição com você.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Marque-aquela-pessoa-que-vai-visitar-a-exposi-o-com-voc-39c33d8db9d2808a9234fd942aacb769"
+    },
+    {
+      "title": "Convite para o lançamento do catálogo",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/07",
       "missing": [
         "Legenda"
       ],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Convite-para-o-lan-amento-do-cat-logo-39c33d8db9d28008a8e1fae34867aca3"
+    },
+    {
+      "title": "Saiu na mídia - Vida & Arte O POVO",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
+      "date": "13/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Vida-Arte-O-POVO-39c33d8db9d280a78e36fdfe442aaf16"
     },
@@ -677,6 +730,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
+    },
+    {
+      "title": "A cultura também está nos pequenos detalhes: Você tem até sábado (dia 18/07) para explorar os personagens imersos no interior de cada pintura da Travessias Híbridas.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "14/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-cultura-tamb-m-est-nos-pequenos-detalhes-Voc-tem-at-s-bado-dia-18-07-para-explorar-os-person-35233d8db9d280dc85dadeb58ec365b2"
     }
   ],
   "Ser Ponte": [
@@ -4754,8 +4821,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Travessias Híbridas": {
-    "prontas": 3,
-    "total": 5
+    "prontas": 4,
+    "total": 10
   },
   "Ser Ponte": {
     "prontas": 13,
@@ -4852,8 +4919,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Travessias Híbridas": {
-    "post": 2,
-    "carrossel": 1,
+    "post": 6,
+    "carrossel": 2,
     "foto": 1,
     "video": 1,
     "story": 0
