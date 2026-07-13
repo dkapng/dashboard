@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/07/2026, 22:00:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 05:11:27 **/
 
-const LAST_UPDATE = '12/07/2026, 22:00:13';
+const LAST_UPDATE = '13/07/2026, 05:11:27';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -364,12 +364,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 2,
-    "pronto": 2,
+    "total": 1,
+    "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "ItalaP": {
     "total": 3,
@@ -3551,19 +3551,6 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [],
   "Ortobom": [
     {
-      "title": "Você precisa testar",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/07",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Voc-precisa-testar-36133d8db9d2805dbe0accff3d8cbbb7"
-    },
-    {
       "title": "Todo tipo de colchão",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -4494,7 +4481,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualização do panfleto da Juh",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Atualiza-o-do-panfleto-da-Juh-39633d8db9d2804ea163de14dc5e879a",
       "gestora": "Equipe",
       "date": "10/07"
@@ -4502,7 +4489,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Identidade visual do Simpósio",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Identidade-visual-do-Simp-sio-39233d8db9d280e59547fa563217fcf7",
       "gestora": "Equipe",
       "date": "13T10:30:00.000/07"
@@ -4667,7 +4654,7 @@ const LEGENDAS_DATA = {
   },
   "Ortobom": {
     "prontas": 8,
-    "total": 9
+    "total": 8
   },
   "ItalaP": {
     "prontas": 15,
@@ -4806,7 +4793,7 @@ const FORMAT_COUNTS = {
     "post": 7,
     "carrossel": 0,
     "foto": 0,
-    "video": 2,
+    "video": 1,
     "story": 1
   },
   "ItalaP": {
