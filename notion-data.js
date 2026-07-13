@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 18:50:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 19:49:02 **/
 
-const LAST_UPDATE = '13/07/2026, 18:50:06';
+const LAST_UPDATE = '13/07/2026, 19:49:02';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4673,7 +4673,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convite para o lançamento do catálogo",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Convite-para-o-lan-amento-do-cat-logo-39c33d8db9d280879702f614f7f03140",
       "gestora": "Equipe",
       "date": "14/07"
