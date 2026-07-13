@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 11:13:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 13:53:40 **/
 
-const LAST_UPDATE = '13/07/2026, 11:13:52';
+const LAST_UPDATE = '13/07/2026, 13:53:40';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -629,7 +629,7 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [],
   "Travessias Híbridas": [
     {
-      "title": "Saiu na mídia",
+      "title": "Saiu na mídia - Vida & Arte O POVO",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "13/07",
@@ -640,7 +640,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-39c33d8db9d280a78e36fdfe442aaf16"
+      "notionUrl": "https://app.notion.com/p/Saiu-na-m-dia-Vida-Arte-O-POVO-39c33d8db9d280a78e36fdfe442aaf16"
     },
     {
       "title": "Carrossel de fotos da exposição",
@@ -4503,6 +4503,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Travessias Híbridas": [
+    {
+      "title": "Convite para o lançamento do catálogo",
+      "priority": "ppp",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Convite-para-o-lan-amento-do-cat-logo-39c33d8db9d280879702f614f7f03140",
+      "gestora": "Equipe",
+      "date": "14/07"
+    }
+  ],
   "Solar Coworking": [
     {
       "title": "Cartão de boas-vindas para novos clientes",
