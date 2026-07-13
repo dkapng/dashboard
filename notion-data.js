@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 13:53:40 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 15:27:31 **/
 
-const LAST_UPDATE = '13/07/2026, 13:53:40';
+const LAST_UPDATE = '13/07/2026, 15:27:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -187,9 +187,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 9,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
@@ -2294,7 +2294,7 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "Julho tem duas cores. E as duas falam sobre algo que não pode esperar: a sua saúde.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "15/07",
       "missing": [],
@@ -2344,7 +2344,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe quais exames costumam fazer parte de um check-up básico?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "17/07",
       "missing": [],
@@ -4503,6 +4503,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Stratto": [
+    {
+      "title": "Video com imagens enviadas por eles",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Video-com-imagens-enviadas-por-eles-39c33d8db9d280b3b333eb9393787805",
+      "gestora": "Equipe",
+      "date": "14/07"
+    },
+    {
+      "title": "Apresentação sobre terceirização do financeiro na identidade",
+      "priority": "p",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-do-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
+      "gestora": "Equipe",
+      "date": "23/06"
+    }
+  ],
   "Travessias Híbridas": [
     {
       "title": "Convite para o lançamento do catálogo",
@@ -4575,16 +4593,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "15/05"
-    }
-  ],
-  "Stratto": [
-    {
-      "title": "Apresentação sobre terceirização do financeiro na identidade",
-      "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-do-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
-      "gestora": "Equipe",
-      "date": "23/06"
     }
   ],
   "Ser Ponte": [
