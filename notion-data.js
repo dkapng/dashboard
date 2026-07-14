@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 20:45:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/07/2026, 22:49:37 **/
 
-const LAST_UPDATE = '13/07/2026, 20:45:38';
+const LAST_UPDATE = '13/07/2026, 22:49:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -92,9 +92,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 7,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 11,
@@ -172,8 +172,8 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 9,
     "postado": 0,
-    "agendado": 5,
-    "agendado_coord": 1,
+    "agendado": 6,
+    "agendado_coord": 0,
     "a_agendar": 6
   },
   "Ortobom": {
@@ -196,9 +196,9 @@ const FEED_DATA = {
     "total": 20,
     "pronto": 10,
     "postado": 0,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 14,
+    "a_agendar": 13,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -973,7 +973,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A escolha da linha certa muda a qualidade da resistência da peça",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [],
@@ -2136,7 +2136,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Não importa o destino, nós vamos com você - Seguro viagem!",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "10/07",
+      "date": "13/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
@@ -2232,12 +2232,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Markup ou chute? Como calcular preço de venda sem adivinhar",
-      "status": "agendado_coord",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Markup-ou-chute-Como-calcular-pre-o-de-venda-sem-adivinhar-1f433d8db9d2801ca7c3d7b792507b83"
     },
@@ -2730,7 +2730,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que muda quando uma menina cresce cercada de referências femininas?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/07",
       "missing": [],
