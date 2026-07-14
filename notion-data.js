@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 09:45:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 11:43:50 **/
 
-const LAST_UPDATE = '14/07/2026, 09:45:39';
+const LAST_UPDATE = '14/07/2026, 11:43:50';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -365,12 +365,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 3,
@@ -3740,6 +3740,31 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [],
   "Ortobom": [
     {
+      "title": "cama ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/cama-39d33d8db9d2804a969ec76e30b1707b"
+    },
+    {
+      "title": "FERIAS",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/FERIAS-39d33d8db9d28096ae64c44008afd599"
+    },
+    {
       "title": "Todo tipo de colchão",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -4873,8 +4898,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Ortobom": {
-    "prontas": 8,
-    "total": 8
+    "prontas": 9,
+    "total": 10
   },
   "ItalaP": {
     "prontas": 15,
@@ -5013,7 +5038,7 @@ const FORMAT_COUNTS = {
     "post": 7,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
+    "video": 3,
     "story": 1
   },
   "ItalaP": {
