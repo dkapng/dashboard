@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 14:38:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 16:07:14 **/
 
-const LAST_UPDATE = '14/07/2026, 14:38:55';
+const LAST_UPDATE = '14/07/2026, 16:07:14';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -177,12 +177,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Ortobom": {
-    "total": 7,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "ItalaP": {
     "total": 15,
@@ -365,12 +365,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 1,
-    "pronto": 1,
+    "total": 3,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 5
   },
   "ItalaP": {
     "total": 3,
@@ -552,12 +552,12 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "Ortobom": {
-    "total": 1,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 3,
@@ -2373,6 +2373,58 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
+      "title": "Sua coluna trabalha o dia inteiro. À noite ela precisa do suporte certo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-coluna-trabalha-o-dia-inteiro-noite-ela-precisa-do-suporte-certo-39d33d8db9d28038bea1c1b60060c0cc"
+    },
+    {
+      "title": "Dormir bem não é luxo. É qualidade de vida",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dormir-bem-n-o-luxo-qualidade-de-vida-39d33d8db9d280fba0b2c37c9dee5436"
+    },
+    {
+      "title": "Metade do ano já passou. Seu colchão ainda entrega o conforto que você precisa?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Metade-do-ano-j-passou-Seu-colch-o-ainda-entrega-o-conforto-que-voc-precisa-39d33d8db9d28058bb5af20150ea3441"
+    },
+    {
+      "title": "Acordar sem dores no pescoço começa com a escolha do travesseiro certo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Acordar-sem-dores-no-pesco-o-come-a-com-a-escolha-do-travesseiro-certo-39d33d8db9d280a289cbcb55aa0257af"
+    },
+    {
       "title": "Nada melhor que chegar em casa e encontrar o conforto que você merece",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2384,84 +2436,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nada-melhor-que-chegar-em-casa-e-encontrar-o-conforto-que-voc-merece-38f33d8db9d280769fffd988487e5cc0"
-    },
-    {
-      "title": "Acordar sem dores no pescoço começa com a escolha do travesseiro certo.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Acordar-sem-dores-no-pesco-o-come-a-com-a-escolha-do-travesseiro-certo-38f33d8db9d28027b24cff359f023bd8"
-    },
-    {
-      "title": "As férias chegaram. Seu descanso está à altura desse momento?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/As-f-rias-chegaram-Seu-descanso-est-altura-desse-momento-38f33d8db9d280a5bf73c90f178c92bd"
-    },
-    {
-      "title": "Metade do ano já passou. Seu colchão ainda entrega o conforto que você precisa?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "06/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Metade-do-ano-j-passou-Seu-colch-o-ainda-entrega-o-conforto-que-voc-precisa-38f33d8db9d280198ce7f7b2f11d473b"
-    },
-    {
-      "title": "Dormir bem não é luxo. É qualidade de vida",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "03/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dormir-bem-n-o-luxo-qualidade-de-vida-38f33d8db9d2809287c5d19545e324c1"
-    },
-    {
-      "title": "Sua coluna trabalha o dia inteiro. À noite ela precisa do suporte certo.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "01/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-coluna-trabalha-o-dia-inteiro-noite-ela-precisa-do-suporte-certo-38f33d8db9d280f3b791f916e4830a9f"
-    },
-    {
-      "title": "Julho é o mês perfeito para investir no seu conforto e começar o segundo semestre dormindo melhor.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "10/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Julho-o-m-s-perfeito-para-investir-no-seu-conforto-e-come-ar-o-segundo-semestre-dormindo-melhor-38f33d8db9d2804d987bfe94a397738f"
     }
   ],
   "ItalaP": [
@@ -3818,7 +3792,61 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [],
   "Ortobom": [
     {
-      "title": "cama bau",
+      "title": "As férias acabam",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/As-f-rias-acabam-39d33d8db9d280658342f5a2d7dffea8"
+    },
+    {
+      "title": "Cama dos sonhos ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cama-dos-sonhos-39d33d8db9d280e58faeeca48c2a9bb9"
+    },
+    {
+      "title": "Revisão ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Revis-o-39d33d8db9d280b3a699e751908d447f"
+    },
+    {
+      "title": "Coluna ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "21/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Coluna-39d33d8db9d2806486aac0148ef605be"
+    },
+    {
+      "title": "Cama Baú",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "16/07",
@@ -3828,7 +3856,7 @@ const LINHA_VIDEO_ITEMS = {
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/cama-bau-39d33d8db9d2804a969ec76e30b1707b"
+      "notionUrl": "https://app.notion.com/p/Cama-Ba-39d33d8db9d2804a969ec76e30b1707b"
     },
     {
       "title": "FERIAS",
@@ -4551,14 +4579,27 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "09/07",
+      "date": "29/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-38f33d8db9d2809285c5f6d88c1f2dfb"
+      "notionUrl": "https://app.notion.com/p/Story-stories-39d33d8db9d280079f41e85e65c8b17f"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39d33d8db9d280849df9ef2b2af1878f"
     }
   ],
   "ItalaP": [
@@ -4975,8 +5016,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Ortobom": {
-    "prontas": 10,
-    "total": 10
+    "prontas": 8,
+    "total": 12
   },
   "ItalaP": {
     "prontas": 15,
@@ -5112,11 +5153,11 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Ortobom": {
-    "post": 7,
+    "post": 5,
     "carrossel": 0,
     "foto": 0,
-    "video": 3,
-    "story": 1
+    "video": 7,
+    "story": 2
   },
   "ItalaP": {
     "post": 12,
