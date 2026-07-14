@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 11:43:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 13:09:15 **/
 
-const LAST_UPDATE = '14/07/2026, 11:43:50';
+const LAST_UPDATE = '14/07/2026, 13:09:15';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 0,
+    "total": 6,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 6
   },
   "Travessias Híbridas": {
     "total": 9,
@@ -194,11 +194,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
-    "pronto": 10,
-    "postado": 0,
+    "pronto": 11,
+    "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 13,
+    "a_agendar": 12,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -627,7 +627,88 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
-  "AAFEC": [],
+  "AAFEC": [
+    {
+      "title": "O seu artista preferido na nossa Galeria da Fama",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-seu-artista-preferido-na-nossa-Galeria-da-Fama-39d33d8db9d2801ab5f9e69dacdf6e61"
+    },
+    {
+      "title": "Boteco com os amigos é na AAFEC!\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Boteco-com-os-amigos-na-AAFEC-39d33d8db9d280cdab59de3863f85f5f"
+    },
+    {
+      "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabia-que-a-AAFEC-oferece-academia-gratuita-aos-associados-39d33d8db9d2806a9fc5deab6b03d0de"
+    },
+    {
+      "title": "Saiba tudo sobre seus direitos no encontro mensal dos associados\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Saiba-tudo-sobre-seus-direitos-no-encontro-mensal-dos-associados-39d33d8db9d280ab8362f58fb53cf578"
+    },
+    {
+      "title": "1 em cada 4 idosos no mundo pode estar em situação de isolamento social (em foto menor: Mas envelhecer não precisa significar viver sozinho.)",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/1-em-cada-4-idosos-no-mundo-pode-estar-em-situa-o-de-isolamento-social-em-foto-menor-Mas-envelhec-39d33d8db9d2809189a9eeea61dcfedd"
+    },
+    {
+      "title": "Você não precisa viver a terceira idade sozinho\n",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-n-o-precisa-viver-a-terceira-idade-sozinho-39d33d8db9d2800aa04fd21d6ece735f"
+    }
+  ],
   "Travessias Híbridas": [
     {
       "title": "Obrigado por atravessar tudo isso com a gente.",
@@ -2607,15 +2688,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Post de aniversário: Josie Picanço",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/07",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Josie-Pican-o-39c33d8db9d280f284ebed306dcaf675"
     },
@@ -4842,8 +4920,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 4,
+    "total": 6
   },
   "Travessias Híbridas": {
     "prontas": 4,
@@ -4906,7 +4984,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 19,
+    "prontas": 20,
     "total": 23
   },
   "Finseg Leal": {
@@ -4937,8 +5015,8 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 0,
-    "carrossel": 0,
+    "post": 4,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 0
