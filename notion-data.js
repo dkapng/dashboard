@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 16:07:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 17:35:21 **/
 
-const LAST_UPDATE = '14/07/2026, 16:07:14';
+const LAST_UPDATE = '14/07/2026, 17:35:21';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -373,12 +373,12 @@ const VIDEO_DATA = {
     "a_agendar": 5
   },
   "ItalaP": {
-    "total": 3,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 4,
@@ -3883,20 +3883,6 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "#respost do dr. Roque Savioli",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/respost-do-dr-Roque-Savioli-39833d8db9d28026837ef73b72ca0757"
-    },
-    {
       "title": "A saúde que você confia, sempre perto de você.",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -4584,7 +4570,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39d33d8db9d280079f41e85e65c8b17f"
     },
@@ -4597,7 +4583,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39d33d8db9d280849df9ef2b2af1878f"
     }
@@ -5021,7 +5007,7 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 15,
-    "total": 18
+    "total": 17
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 20,
@@ -5163,7 +5149,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 3,
     "foto": 0,
-    "video": 3,
+    "video": 2,
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
