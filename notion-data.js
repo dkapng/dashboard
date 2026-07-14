@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 13:09:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/07/2026, 14:38:55 **/
 
-const LAST_UPDATE = '14/07/2026, 13:09:15';
+const LAST_UPDATE = '14/07/2026, 14:38:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -365,7 +365,7 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 2,
+    "total": 1,
     "pronto": 1,
     "postado": 1,
     "agendado": 1,
@@ -3818,18 +3818,17 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [],
   "Ortobom": [
     {
-      "title": "cama ",
+      "title": "cama bau",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "16/07",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/cama-39d33d8db9d2804a969ec76e30b1707b"
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/cama-bau-39d33d8db9d2804a969ec76e30b1707b"
     },
     {
       "title": "FERIAS",
@@ -4976,7 +4975,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Ortobom": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 10
   },
   "ItalaP": {
