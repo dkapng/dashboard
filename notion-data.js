@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 15:59:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 17:12:53 **/
 
-const LAST_UPDATE = '15/07/2026, 15:59:28';
+const LAST_UPDATE = '15/07/2026, 17:12:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -76,8 +76,8 @@ const FEED_DATA = {
     "pronto": 4,
     "postado": 1,
     "agendado": 2,
-    "agendado_coord": 0,
-    "a_agendar": 6
+    "agendado_coord": 1,
+    "a_agendar": 5
   },
   "Ser Ponte": {
     "total": 13,
@@ -742,7 +742,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Não deixe essa travessia terminar sem você. Sábado, dia 18/07 às 11h nos despedimos da exposição com o nosso catálogo, venha fazer parte. 11h.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/07",
+      "date": "18/07",
       "missing": [
         "Design",
         "Legenda"
@@ -756,28 +756,28 @@ const LINHA_FEED_ITEMS = {
       "title": "Marque aquela pessoa que vai visitar a exposição com você.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/07",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Marque-aquela-pessoa-que-vai-visitar-a-exposi-o-com-voc-39c33d8db9d2808a9234fd942aacb769"
-    },
-    {
-      "title": "Convite para o lançamento do catálogo",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/07",
+      "date": "16/07",
       "missing": [
         "Legenda"
       ],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Convite-para-o-lan-amento-do-cat-logo-39c33d8db9d28008a8e1fae34867aca3"
+      "notionUrl": "https://app.notion.com/p/Marque-aquela-pessoa-que-vai-visitar-a-exposi-o-com-voc-39c33d8db9d2808a9234fd942aacb769"
+    },
+    {
+      "title": "Convidamos você para a última travessia.",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "15/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Convidamos-voc-para-a-ltima-travessia-39c33d8db9d28008a8e1fae34867aca3"
     },
     {
       "title": "Saiu na mídia - Vida & Arte O POVO",
@@ -813,18 +813,18 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Uma-infinidade-de-texturas-como-voc-nunca-viu-Travessias-H-bridas-de-16-de-maio-a-18-de-julho-no-35233d8db9d28048a48ce605f36303ce"
     },
     {
-      "title": "A cultura também está nos pequenos detalhes: Você tem até sábado (dia 18/07) para explorar os personagens imersos no interior de cada pintura da Travessias Híbridas.",
+      "title": "A cultura também está nos pequenos detalhes.",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "14/07",
+      "formato": "🖼️ Post",
+      "date": "16/07",
       "missing": [
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-cultura-tamb-m-est-nos-pequenos-detalhes-Voc-tem-at-s-bado-dia-18-07-para-explorar-os-person-35233d8db9d280dc85dadeb58ec365b2"
+      "notionUrl": "https://app.notion.com/p/A-cultura-tamb-m-est-nos-pequenos-detalhes-35233d8db9d280dc85dadeb58ec365b2"
     }
   ],
   "Ser Ponte": [
@@ -5124,8 +5124,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Travessias Híbridas": {
-    "post": 6,
-    "carrossel": 2,
+    "post": 7,
+    "carrossel": 1,
     "foto": 1,
     "video": 1,
     "story": 0
