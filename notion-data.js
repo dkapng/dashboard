@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 11:43:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 13:14:41 **/
 
-const LAST_UPDATE = '15/07/2026, 11:43:05';
+const LAST_UPDATE = '15/07/2026, 13:14:41';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -109,16 +109,16 @@ const FEED_DATA = {
     "pronto": 5,
     "postado": 1,
     "agendado": 4,
-    "agendado_coord": 6,
-    "a_agendar": 1
+    "agendado_coord": 0,
+    "a_agendar": 7
   },
   "Jota Diesel": {
-    "total": 6,
+    "total": 10,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 9
   },
   "Ventana": {
     "total": 0,
@@ -242,12 +242,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Solar Coworking": {
-    "total": 13,
+    "total": 12,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   }
 };
 
@@ -488,9 +488,9 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 2,
-    "pronto": 0,
-    "postado": 0,
+    "total": 3,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -617,9 +617,9 @@ const STORIES_DATA = {
     "st-paused": null
   },
   "Solar Coworking": {
-    "total": 4,
-    "pronto": 0,
-    "postado": 0,
+    "total": 5,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 4
@@ -1242,79 +1242,79 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "“A tecnologia nos dá a velocidade, mas é o calor humano que gera a confiança.”",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-tecnologia-nos-d-a-velocidade-mas-o-calor-humano-que-gera-a-confian-a-39833d8db9d280c0857bd09f446a6bc9"
     },
     {
       "title": "“",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-escola-o-ch-o-onde-a-gente-planta-a-cidadania-e-o-cuidado-com-o-futuro-Como-as-salas-de-aula-39833d8db9d280a6a5c7f27da10d1db0"
     },
     {
-      "title": "Uma conversa de cinco minutos na comunidade pode evitar um diagnóstico trágico daqui a vinte anos.",
-      "status": "agendado_coord",
+      "title": "Uma conversa de cinco minutos na comunidade pode evitar um diagnóstico trágico daqui a vinte anos. O poder oculto de quem escolhe ser a voz da prevenção. ",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-conversa-de-cinco-minutos-na-comunidade-pode-evitar-um-diagn-stico-tr-gico-daqui-a-vinte-anos-O-39833d8db9d280f39b35c8e29d045142"
     },
     {
-      "title": "O câncer do colo do útero é o segundo mais frequente em mulheres em várias regiões do Brasil.",
-      "status": "agendado_coord",
+      "title": "O câncer do colo do útero é o segundo mais frequente em mulheres em várias regiões do Brasil. Se a informação salva, por que ainda silenciamos? Multiplicar esse saber é uma urgência.  ",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-c-ncer-do-colo-do-tero-o-segundo-mais-frequente-em-mulheres-em-v-rias-regi-es-do-Brasil-Se-a-i-39833d8db9d2809fa212c359eda2b8d7"
     },
     {
       "title": "Juh, quem já teve HPV pode tomar a vacina? H2: Sim! Mesmo quem já teve contato com o HPV pode se beneficiar da vacinação, pois ela protege contra diferentes tipos do vírus. H3: Em caso de dúvidas, procure uma unidade de saúde ou converse com a Juh. ",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Juh-quem-j-teve-HPV-pode-tomar-a-vacina-H2-Sim-Mesmo-quem-j-teve-contato-com-o-HPV-pode-se-ben-39833d8db9d2808da469f1df13af8f96"
     },
     {
       "title": "A prevenção também pode ser acompanhada. Conheça o observatório do Grupo Mulheres do Brasil. (post em colab com o gmdbfor)",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-preven-o-tamb-m-pode-ser-acompanhada-Conhe-a-o-observat-rio-do-Grupo-Mulheres-do-Brasil-post-e-39833d8db9d280a2871cc638ca0c44a8"
     },
@@ -1330,7 +1330,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Aten-o-jovens-A-vacina-o-contra-o-HPV-foi-prorrogada-Meninas-e-meninos-de-15-a-19-anos-que-aind-39233d8db9d2803e9f81ef2c8ec43077"
     },
     {
-      "title": "Tira-dúvidas com a Juh #02 - ",
+      "title": "Tira-dúvidas com a Juh #02 - Se eu tomei a vacina contra o HPV, ainda preciso fazer o exame preventivo?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "31/07",
@@ -1389,6 +1389,84 @@ const LINHA_FEED_ITEMS = {
   ],
   "Jota Diesel": [
     {
+      "title": "Economizar combustível começa antes de abastecer.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Economizar-combust-vel-come-a-antes-de-abastecer-39e33d8db9d28054b3e5ca9f6b52cfc3"
+    },
+    {
+      "title": "Quem move o Brasil merece reconhecimento todos os dias.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-move-o-Brasil-merece-reconhecimento-todos-os-dias-39e33d8db9d28014968ee54f586f3159"
+    },
+    {
+      "title": "Desempenho não depende só do motor. A manutenção faz toda a diferença.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Desempenho-n-o-depende-s-do-motor-A-manuten-o-faz-toda-a-diferen-a-39e33d8db9d2804ebdccf740d7428f9f"
+    },
+    {
+      "title": "Mais desempenho não começa no acelerador. Começa na manutenção.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-desempenho-n-o-come-a-no-acelerador-Come-a-na-manuten-o-39e33d8db9d28068b2efd7e9757b590d"
+    },
+    {
+      "title": "Os sinais aparecem antes do problema. Você está observando?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Os-sinais-aparecem-antes-do-problema-Voc-est-observando-39e33d8db9d280f8ab3beb24fbe201d8"
+    },
+    {
+      "title": "Pequenos cuidados fazem grandes motores durarem mais.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Pequenos-cuidados-fazem-grandes-motores-durarem-mais-39e33d8db9d280b5ac35cc49c3eccd0e"
+    },
+    {
       "title": "Se o consumo aumentou, seu veículo pode estar tentando avisar algo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1400,32 +1478,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-o-consumo-aumentou-seu-ve-culo-pode-estar-tentando-avisar-algo-38e33d8db9d28013bb6ce1934fdbbc82"
-    },
-    {
-      "title": "Mais desempenho não começa no acelerador. Começa na manutenção.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "10/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mais-desempenho-n-o-come-a-no-acelerador-Come-a-na-manuten-o-38e33d8db9d28085852cfe570e04fe9a"
-    },
-    {
-      "title": "Os sinais aparecem antes do problema. Você está observando?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "09/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Os-sinais-aparecem-antes-do-problema-Voc-est-observando-38e33d8db9d280289d49da456a7cc68b"
     },
     {
       "title": "A injeção diesel influencia mais do que você imagina.",
@@ -3505,19 +3557,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Trabalhar-de-casa-pode-estar-custando-mais-do-que-voc-imagina-39033d8db9d280e0ae17ccafa1596970"
     },
     {
-      "title": "Receber encomendas com segurança também é uma vantagem estratégica.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Receber-encomendas-com-seguran-a-tamb-m-uma-vantagem-estrat-gica-39033d8db9d2801e80e9cf50137d3cb5"
-    },
-    {
       "title": "Antes da reunião começar, seu cliente já criou uma primeira impressão.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -4265,30 +4304,41 @@ const LINHA_STORIES_ITEMS = {
   "Juntos contra o HPV": [],
   "Jota Diesel": [
     {
-      "title": "Story/stories",
-      "status": "a_agendar",
+      "title": "Story/stories que ja saíram ",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "14/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "15/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-38e33d8db9d2802494b1f5c272b88e41"
+      "notionUrl": "https://app.notion.com/p/Story-stories-que-ja-sa-ram-39e33d8db9d280158f36c47cc41824ad"
     },
     {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "07/07",
+      "date": "24/07",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-38e33d8db9d280b983ffe53a867b31ce"
+      "notionUrl": "https://app.notion.com/p/Story-stories-39e33d8db9d2807f9504c610290fc0e9"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "17/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-39e33d8db9d280e7a8d6e29b8a6de92a"
     }
   ],
   "Ventana": [],
@@ -4725,6 +4775,17 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "Storys que ja saíram ",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "15/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Storys-que-ja-sa-ram-39e33d8db9d28006ac18d15ee00e44c5"
+    },
+    {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4978,8 +5039,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Jota Diesel": {
-    "prontas": 6,
-    "total": 6
+    "prontas": 10,
+    "total": 10
   },
   "Ventana": {
     "prontas": 0,
@@ -5042,8 +5103,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 13,
-    "total": 17
+    "prontas": 12,
+    "total": 16
   }
 };
 
@@ -5091,11 +5152,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Jota Diesel": {
-    "post": 5,
+    "post": 9,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 3
   },
   "Ventana": {
     "post": 0,
@@ -5203,11 +5264,11 @@ const FORMAT_COUNTS = {
     "story": 7
   },
   "Solar Coworking": {
-    "post": 13,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 4
+    "story": 5
   }
 };
 
