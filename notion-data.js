@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 13:14:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 14:44:20 **/
 
-const LAST_UPDATE = '15/07/2026, 13:14:41';
+const LAST_UPDATE = '15/07/2026, 14:44:20';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4593,7 +4593,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Despesas-reembols-veis-39533d8db9d280a4a6b1f8d45c0c04ec"
