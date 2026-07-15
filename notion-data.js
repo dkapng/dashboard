@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 18:28:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 19:29:41 **/
 
-const LAST_UPDATE = '15/07/2026, 18:28:15';
+const LAST_UPDATE = '15/07/2026, 19:29:41';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -72,12 +72,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Travessias Híbridas": {
-    "total": 9,
-    "pronto": 9,
+    "total": 10,
+    "pronto": 10,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Ser Ponte": {
     "total": 13,
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 12,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -196,9 +196,9 @@ const FEED_DATA = {
     "total": 20,
     "pronto": 13,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 12,
+    "a_agendar": 11,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -710,6 +710,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Travessias Híbridas": [
+    {
+      "title": "Até breve, nos vemos em próximas travessias!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/At-breve-nos-vemos-em-pr-ximas-travessias-39e33d8db9d2807ea58bd324312c1c95"
+    },
     {
       "title": "Obrigado por atravessar tudo isso com a gente.",
       "status": "a_agendar",
@@ -1251,10 +1264,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-escola-o-ch-o-onde-a-gente-planta-a-cidadania-e-o-cuidado-com-o-futuro-Como-as-salas-de-aula-39833d8db9d280a6a5c7f27da10d1db0"
@@ -2812,7 +2823,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O Brasil reconhece as mulheres que preservam sua memória cultural?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/07",
       "missing": [],
@@ -5020,7 +5031,7 @@ const LEGENDAS_DATA = {
   },
   "Travessias Híbridas": {
     "prontas": 5,
-    "total": 10
+    "total": 11
   },
   "Ser Ponte": {
     "prontas": 13,
@@ -5117,7 +5128,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Travessias Híbridas": {
-    "post": 7,
+    "post": 8,
     "carrossel": 1,
     "foto": 1,
     "video": 1,
