@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 14:44:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 15:59:28 **/
 
-const LAST_UPDATE = '15/07/2026, 14:44:20';
+const LAST_UPDATE = '15/07/2026, 15:59:28';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 12,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
-    "pronto": 11,
+    "pronto": 13,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -545,7 +545,7 @@ const STORIES_DATA = {
   },
   "Plannea": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -608,12 +608,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 7,
+    "total": 8,
     "pronto": 6,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1,
+    "a_agendar": 2,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -1280,14 +1280,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Uma-conversa-de-cinco-minutos-na-comunidade-pode-evitar-um-diagn-stico-tr-gico-daqui-a-vinte-anos-O-39833d8db9d280f39b35c8e29d045142"
     },
     {
-      "title": "O câncer do colo do útero é o segundo mais frequente em mulheres em várias regiões do Brasil. Se a informação salva, por que ainda silenciamos? Multiplicar esse saber é uma urgência.  ",
+      "title": "O câncer do colo do útero é o segundo mais frequente em mulheres em várias regiões do Brasil. Se a informação salva, por que ainda silenciamos? Multiplicar esse saber é uma urgência.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-c-ncer-do-colo-do-tero-o-segundo-mais-frequente-em-mulheres-em-v-rias-regi-es-do-Brasil-Se-a-i-39833d8db9d2809fa212c359eda2b8d7"
@@ -2690,10 +2688,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Martha-Porto-39c33d8db9d280c391c4d1d44b7f4a17"
@@ -2704,10 +2701,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Ethel-Whitehurst-39c33d8db9d280d7bce4d4a80f36ecb1"
@@ -4590,10 +4586,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Despesas-reembols-veis-39533d8db9d280a4a6b1f8d45c0c04ec"
@@ -4693,6 +4687,19 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "Stories que ja saíram (2)",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "21/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-que-ja-sa-ram-2-38f33d8db9d2803d9821df16ee2ba070"
+    },
     {
       "title": "Stories que já saíram",
       "status": "a_agendar",
@@ -5261,7 +5268,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 2,
-    "story": 7
+    "story": 8
   },
   "Solar Coworking": {
     "post": 12,
