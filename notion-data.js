@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 17:12:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 18:28:15 **/
 
-const LAST_UPDATE = '15/07/2026, 17:12:53';
+const LAST_UPDATE = '15/07/2026, 18:28:15';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -73,10 +73,10 @@ const FEED_DATA = {
   },
   "Travessias Híbridas": {
     "total": 9,
-    "pronto": 4,
+    "pronto": 9,
     "postado": 1,
-    "agendado": 2,
-    "agendado_coord": 1,
+    "agendado": 3,
+    "agendado_coord": 0,
     "a_agendar": 5
   },
   "Ser Ponte": {
@@ -716,10 +716,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Obrigado-por-atravessar-tudo-isso-com-a-gente-39c33d8db9d2803d82b2e44e522f3b95"
@@ -730,27 +729,25 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Amanh-Lan-amento-do-nosso-cat-logo-Uma-despedida-altura-de-Travessias-H-bridas-39c33d8db9d280c080a2cc643d42a2e6"
     },
     {
-      "title": "Não deixe essa travessia terminar sem você. Sábado, dia 18/07 às 11h nos despedimos da exposição com o nosso catálogo, venha fazer parte. 11h.",
+      "title": "Não deixe essa travessia terminar sem você. Sábado, dia 18/07 às 17h nos despedimos da exposição com o nosso catálogo, venha fazer parte.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/N-o-deixe-essa-travessia-terminar-sem-voc-S-bado-dia-18-07-s-11h-nos-despedimos-da-exposi-o-com-39c33d8db9d2805ca3dfe09f50b914c6"
+      "notionUrl": "https://app.notion.com/p/N-o-deixe-essa-travessia-terminar-sem-voc-S-bado-dia-18-07-s-17h-nos-despedimos-da-exposi-o-com-39c33d8db9d2805ca3dfe09f50b914c6"
     },
     {
       "title": "Marque aquela pessoa que vai visitar a exposição com você.",
@@ -767,15 +764,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Convidamos você para a última travessia.",
-      "status": "agendado_coord",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/07",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Convidamos-voc-para-a-ltima-travessia-39c33d8db9d28008a8e1fae34867aca3"
     },
@@ -818,10 +812,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-cultura-tamb-m-est-nos-pequenos-detalhes-35233d8db9d280dc85dadeb58ec365b2"
@@ -5026,7 +5019,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Travessias Híbridas": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 10
   },
   "Ser Ponte": {
