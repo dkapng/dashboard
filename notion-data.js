@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 19:29:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 20:30:27 **/
 
-const LAST_UPDATE = '15/07/2026, 19:29:41';
+const LAST_UPDATE = '15/07/2026, 20:30:27';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -196,9 +196,9 @@ const FEED_DATA = {
     "total": 20,
     "pronto": 13,
     "postado": 1,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 11,
+    "a_agendar": 10,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -2701,14 +2701,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Post de aniversário: Ethel Whitehurst",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "16/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Ethel-Whitehurst-39c33d8db9d280d7bce4d4a80f36ecb1"
     },
@@ -4649,7 +4647,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Agora-voc-conta-com-mais-especialistas-na-ItalaP-39433d8db9d280b5be6bcd8a642552d3"
     },
     {
-      "title": "Story/stories",
+      "title": "Existem doenças que podem passar anos sem apresentar sintomas.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "23/07",
@@ -4659,7 +4657,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-38333d8db9d280028995f7e5a91cba73"
+      "notionUrl": "https://app.notion.com/p/Existem-doen-as-que-podem-passar-anos-sem-apresentar-sintomas-38333d8db9d280028995f7e5a91cba73"
     },
     {
       "title": "Você está realmente descansando ou apenas mudando a rotina?",
@@ -4864,7 +4862,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Mídia kit para a corrida de 2026",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
       "gestora": "Equipe",
       "date": "17/06"
@@ -5090,7 +5088,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 20,
+    "prontas": 21,
     "total": 23
   },
   "Finseg Leal": {
