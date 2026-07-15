@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 09:49:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/07/2026, 11:43:05 **/
 
-const LAST_UPDATE = '15/07/2026, 09:49:20';
+const LAST_UPDATE = '15/07/2026, 11:43:05';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -530,10 +530,10 @@ const STORIES_DATA = {
   "Rede Pangeia": {
     "total": 5,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 5,
@@ -610,10 +610,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 7,
     "pronto": 6,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -2647,7 +2647,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Martha-Porto-39c33d8db9d280c391c4d1d44b7f4a17"
     },
     {
-      "title": "Post de aniversário: Ethel Whitehurst ",
+      "title": "Post de aniversário: Ethel Whitehurst",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "16/07",
@@ -2657,7 +2657,7 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Ethel-Whitehurst-39c33d8db9d280d7bce4d4a80f36ecb1"
     },
     {
@@ -4424,7 +4424,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#DicaDaSemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "15/07",
       "missing": [],
@@ -4658,7 +4658,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário - Fabio / Proviz",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "15/07",
       "missing": [],
@@ -4780,6 +4780,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Alteração na assinatura de e-mail",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Altera-o-na-assinatura-de-e-mail-39e33d8db9d280d78bf2f270e39caad8",
+      "gestora": "Equipe",
+      "date": "15/07"
+    },
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
   "Stratto": [
     {
       "title": "Video com imagens enviadas por eles",
@@ -4880,16 +4898,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
     }
   ],
   "Ventana": [
