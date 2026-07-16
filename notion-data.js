@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 09:59:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 12:05:26 **/
 
-const LAST_UPDATE = '16/07/2026, 09:59:25';
+const LAST_UPDATE = '16/07/2026, 12:05:26';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -285,12 +285,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 3,
-    "pronto": 0,
+    "total": 4,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 1,
@@ -367,10 +367,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 3,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 2,
@@ -522,10 +522,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 5,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 5,
@@ -3629,6 +3629,17 @@ const LINHA_VIDEO_ITEMS = {
   "Tramix": [],
   "Stratto": [
     {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-39f33d8db9d280329f7fcb8b0309d53a"
+    },
+    {
       "title": "Existe uma diferença enorme entre controlar contas e fazer gestão financeira.",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3872,12 +3883,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Cama Baú",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "16/07",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -4410,7 +4419,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Muitas pessoas acreditam que apenas a compra formal garante a propriedade de um imóvel.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/07",
       "missing": [],
@@ -4838,50 +4847,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Grupo Mulheres do Brasil": [
+  "Terrartesã": [
     {
-      "title": "Alteração na assinatura de e-mail",
-      "priority": "pppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Altera-o-na-assinatura-de-e-mail-39e33d8db9d280d78bf2f270e39caad8",
-      "gestora": "Equipe",
-      "date": "15/07"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
-    }
-  ],
-  "Stratto": [
-    {
-      "title": "Video com imagens enviadas por eles",
+      "title": "Alteração de endereço ",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Video-com-imagens-enviadas-por-eles-39c33d8db9d280b3b333eb9393787805",
+      "notionUrl": "https://app.notion.com/p/Altera-o-de-endere-o-39f33d8db9d280d7bcbdd1f580aceeaf",
       "gestora": "Equipe",
-      "date": "14/07"
-    },
-    {
-      "title": "Apresentação sobre terceirização do financeiro na identidade",
-      "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-do-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
-      "gestora": "Equipe",
-      "date": "23/06"
+      "date": "20/07"
     }
   ],
-  "Travessias Híbridas": [
+  "Tramix": [
     {
-      "title": "Convite para o lançamento do catálogo",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convite-para-o-lan-amento-do-cat-logo-39c33d8db9d280879702f614f7f03140",
+      "title": "Banner promoção",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Banner-promo-o-39f33d8db9d2809dad83ecacdef91246",
       "gestora": "Equipe",
-      "date": "14/07"
+      "date": "16/07"
     }
   ],
   "Solar Coworking": [
@@ -4906,46 +4889,22 @@ const DEMANDAS_EXTRAS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Video para formação",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Video-para-forma-o-39833d8db9d280e0a465d57c6e6a5d61",
-      "gestora": "Equipe",
-      "date": "14/07"
-    },
-    {
-      "title": "Atualização do panfleto da Juh",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Atualiza-o-do-panfleto-da-Juh-39633d8db9d2804ea163de14dc5e879a",
-      "gestora": "Equipe",
-      "date": "10/07"
-    },
-    {
       "title": "Identidade visual do Simpósio",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Pausada",
       "notionUrl": "https://app.notion.com/p/Identidade-visual-do-Simp-sio-39233d8db9d280e59547fa563217fcf7",
       "gestora": "Equipe",
       "date": "13T10:30:00.000/07"
     }
   ],
-  "Finseg Leal": [
+  "Stratto": [
     {
-      "title": "Atualização de valores",
+      "title": "Apresentação sobre terceirização do financeiro na identidade",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Atualiza-o-de-valores-39133d8db9d2800b92bfee844212f521",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-do-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
       "gestora": "Equipe",
-      "date": "03/07"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
+      "date": "23/06"
     }
   ],
   "Ser Ponte": [
@@ -4958,6 +4917,16 @@ const DEMANDAS_EXTRAS = {
       "date": "12T12:00:00.000/06"
     }
   ],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
   "Ventana": [
     {
       "title": "Melhorias no Notion (2025-04)",
@@ -4966,6 +4935,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
     }
   ],
   "Planos Seguros": [
@@ -5028,8 +5007,8 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Stratto": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 15,
+    "total": 15
   },
   "Juntos contra o HPV": {
     "prontas": 12,
@@ -5138,7 +5117,7 @@ const FORMAT_COUNTS = {
     "post": 7,
     "carrossel": 4,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 0
   },
   "Juntos contra o HPV": {
