@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 16:17:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 17:24:30 **/
 
-const LAST_UPDATE = '16/07/2026, 16:17:35';
+const LAST_UPDATE = '16/07/2026, 17:24:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4789,6 +4789,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "EDITAR VIDEOS",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/EDITAR-VIDEOS-39f33d8db9d2801abc39f72e98a6e055",
+      "gestora": "Equipe",
+      "date": "20/07"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Terrartesã": [
     {
       "title": "Alteração de endereço ",
@@ -4813,7 +4831,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartão de boas-vindas para novos clientes",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Cart-o-de-boas-vindas-para-novos-clientes-39933d8db9d28026844bf9e4db2268df",
       "gestora": "Equipe",
       "date": "14/07"
@@ -4879,16 +4897,6 @@ const DEMANDAS_EXTRAS = {
       "date": "08/05"
     }
   ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
   "Planos Seguros": [
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -4918,6 +4926,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Rede Pangeia": "marcada",
   "Travessias Híbridas": "marcada",
   "APROSSEG": "marcada",
   "Ortobom": "confirmada",
@@ -5249,7 +5258,7 @@ const AGENDA_COUNTS = {
   },
   "Rede Pangeia": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Planos Seguros": {
