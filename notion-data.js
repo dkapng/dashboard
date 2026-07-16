@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 18:30:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 19:30:34 **/
 
-const LAST_UPDATE = '16/07/2026, 18:30:29';
+const LAST_UPDATE = '16/07/2026, 19:30:34';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -2269,7 +2269,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "\n",
+      "title": "Sua empresa escolhe fornecedores apenas pelo preço? Isso pode mudar com a Reforma Tributária",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
@@ -3230,7 +3230,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-funciona-uma-investiga-o-criminal-no-Brasil-etapas-e-riscos-que-ningu-m-te-conta-30333d8db9d2800d80adf58658b9d47b"
@@ -4831,7 +4831,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartão de boas-vindas para novos clientes",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Cart-o-de-boas-vindas-para-novos-clientes-39933d8db9d28026844bf9e4db2268df",
       "gestora": "Equipe",
       "date": "14/07"
