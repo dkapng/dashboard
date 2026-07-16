@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 13:47:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 14:59:30 **/
 
-const LAST_UPDATE = '16/07/2026, 13:47:16';
+const LAST_UPDATE = '16/07/2026, 14:59:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -242,12 +242,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Solar Coworking": {
-    "total": 12,
+    "total": 8,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 7
   }
 };
 
@@ -617,12 +617,12 @@ const STORIES_DATA = {
     "st-paused": null
   },
   "Solar Coworking": {
-    "total": 5,
+    "total": 3,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   }
 };
 
@@ -3472,32 +3472,30 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Sua-encomenda-chegou-O-problema-que-n-o-tinha-ningu-m-pra-receber-Isso-j-aconteceu-na-sua-empre-39533d8db9d28090af1bfc5ca00182b1"
     },
     {
-      "title": "Post",
+      "title": "Psicólogo explica: o ambiente também faz parte da experiência do cliente",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d2805fa3fddab25ec23471"
+      "notionUrl": "https://app.notion.com/p/Psic-logo-explica-o-ambiente-tamb-m-faz-parte-da-experi-ncia-do-cliente-39033d8db9d2805fa3fddab25ec23471"
     },
     {
-      "title": "Post",
+      "title": "Networking de verdade acontece quando você menos espera.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-39033d8db9d280bc9d7cfa0b7c8fd182"
+      "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-39033d8db9d280bc9d7cfa0b7c8fd182"
     },
     {
       "title": "Empresas bem posicionadas são lembradas com mais facilidade.",
@@ -3519,11 +3517,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Empresas-bem-posicionadas-s-o-lembradas-com-mais-facilidade-39033d8db9d2805fa1b7c02c5d922948"
     },
@@ -3554,19 +3551,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Trabalhar-de-casa-pode-estar-custando-mais-do-que-voc-imagina-39033d8db9d280e0ae17ccafa1596970"
     },
     {
-      "title": "Antes da reunião começar, seu cliente já criou uma primeira impressão.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Antes-da-reuni-o-come-ar-seu-cliente-j-criou-uma-primeira-impress-o-39033d8db9d2807b85d6f1a32c51c584"
-    },
-    {
       "title": "Fortaleza ou Eusébio: duas localizações, mais possibilidades para o seu negócio.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3578,45 +3562,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Fortaleza-ou-Eus-bio-duas-localiza-es-mais-possibilidades-para-o-seu-neg-cio-39033d8db9d280e7993bc62fb08d39b5"
-    },
-    {
-      "title": "Psicólogo explica: o ambiente também faz parte da experiência do cliente",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "11/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Psic-logo-explica-o-ambiente-tamb-m-faz-parte-da-experi-ncia-do-cliente-39033d8db9d280968aeaff60c9e4896e"
-    },
-    {
-      "title": "Networking de verdade acontece quando você menos espera.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "09/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-39033d8db9d2800bbe99fb1aca70528d"
-    },
-    {
-      "title": "A Solar não promete sucesso. Promete que a estrutura não vai ser o seu problema.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "01/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-Solar-n-o-promete-sucesso-Promete-que-a-estrutura-n-o-vai-ser-o-seu-problema-38133d8db9d2803cad27cc487d0fd36a"
     }
   ]
 };
@@ -4809,7 +4754,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280cfb1c4f1e4fedb4582"
     },
@@ -4822,35 +4767,9 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280a3a390d65b6736d6ff"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "16/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28026a384da37f7108b96"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "09/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d280d39bddec646f2d55da"
     }
   ]
 };
@@ -5088,8 +5007,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 12,
-    "total": 16
+    "prontas": 11,
+    "total": 12
   }
 };
 
@@ -5249,11 +5168,11 @@ const FORMAT_COUNTS = {
     "story": 8
   },
   "Solar Coworking": {
-    "post": 12,
+    "post": 8,
     "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 5
+    "story": 3
   }
 };
 
