@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 19:30:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 20:52:38 **/
 
-const LAST_UPDATE = '16/07/2026, 19:30:34';
+const LAST_UPDATE = '16/07/2026, 20:52:38';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -98,7 +98,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 11,
-    "pronto": 7,
+    "pronto": 10,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 21,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
@@ -227,7 +227,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 4,
+    "pronto": 7,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 4,
@@ -1119,10 +1119,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-um-processo-depende-da-mem-ria-de-algu-m-ele-j-come-ou-errado-39133d8db9d2803e9042c48821e7d5ad"
@@ -1132,10 +1130,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Organiza-o-n-o-torna-sua-empresa-mais-lenta-Ela-impede-que-voc-perca-dinheiro-em-sil-ncio-39133d8db9d2804abdb0ca87c582ae52"
@@ -1180,10 +1176,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-continua-funcionando-enquanto-organizamos-o-financeiro-E-exatamente-assim-que-deve-se-39133d8db9d280a58a16c2d567153e0a"
@@ -2802,7 +2796,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-se-perde-quando-saberes-tradicionais-deixam-de-ser-transmitidos-38e33d8db9d280bdb4acfd35e8276ccb"
@@ -2845,10 +2839,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Existem-amizades-que-mudam-uma-vida-Algumas-mudam-um-pa-s-Dia-do-amigo-38e33d8db9d280ba998adbc016dbb607"
@@ -3201,10 +3193,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "23/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-contrato-social-ainda-protege-a-realidade-da-sua-empresa-38f33d8db9d28025a97acbc19d967201"
@@ -3214,10 +3204,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "21/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Boa-f-objetiva-o-princ-pio-que-decide-disputas-milion-rias-30333d8db9d280e49ef2f54c63003bec"
@@ -3227,10 +3215,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "16/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-funciona-uma-investiga-o-criminal-no-Brasil-etapas-e-riscos-que-ningu-m-te-conta-30333d8db9d2800d80adf58658b9d47b"
