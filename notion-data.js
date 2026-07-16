@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 12:05:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 13:47:16 **/
 
-const LAST_UPDATE = '16/07/2026, 12:05:26';
+const LAST_UPDATE = '16/07/2026, 13:47:16';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 13,
-    "pronto": 4,
+    "total": 14,
+    "pronto": 5,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 4,
-    "a_agendar": 8,
+    "a_agendar": 9,
     "st-paused": null
   },
   "Tramix": {
@@ -108,9 +108,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 7,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "Jota Diesel": {
     "total": 10,
@@ -288,9 +288,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 1,
@@ -562,10 +562,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 3,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -609,11 +609,11 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 8,
-    "pronto": 6,
-    "postado": 5,
+    "pronto": 7,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -822,6 +822,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ser Ponte": [
+    {
+      "title": "#TBT",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "16/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/TBT-39f33d8db9d280da99e8dace1d7c314e"
+    },
     {
       "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa\n",
       "status": "a_agendar",
@@ -1118,7 +1129,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando um processo depende da memória de alguém, ele já começou errado.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "20/07",
       "missing": [
         "Design"
       ],
@@ -1131,7 +1142,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Organização não torna sua empresa mais lenta. Ela impede que você perca dinheiro em silêncio.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/07",
+      "date": "17/07",
       "missing": [
         "Design"
       ],
@@ -1249,7 +1260,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "“",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [],
@@ -1273,9 +1284,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O câncer do colo do útero é o segundo mais frequente em mulheres em várias regiões do Brasil. Se a informação salva, por que ainda silenciamos? Multiplicar esse saber é uma urgência.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "15/07",
+      "date": "16/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3111,7 +3122,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O seguro mais barato quase nunca é o mais econômico.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/07",
+      "date": "17/07",
       "missing": [
         "Design"
       ],
@@ -3148,7 +3159,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Evite Problemas, Viaje com um Seguro Viagem",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/07",
+      "date": "16/07",
       "missing": [
         "Design"
       ],
@@ -3630,7 +3641,7 @@ const LINHA_VIDEO_ITEMS = {
   "Stratto": [
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "16/07",
       "missing": [],
@@ -3669,7 +3680,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Antes de assumir o financeiro de uma empresa, fazemos uma coisa que quase ninguém faz.",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "17/07",
+      "date": "21/07",
       "missing": [
         "Vídeo"
       ],
@@ -4100,7 +4111,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O problema de escolher só pelo preço",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "16/07",
+      "date": "20/07",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4114,7 +4125,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Será que essa proteção foi feita para você? ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "17/07",
+      "date": "21/07",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4658,7 +4669,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Você está realmente descansando ou apenas mudando a rotina?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/07",
       "missing": [],
@@ -4701,12 +4712,10 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Stories que já saíram",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/07",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
@@ -4901,7 +4910,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Apresentação sobre terceirização do financeiro na identidade",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-do-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
       "gestora": "Equipe",
       "date": "23/06"
@@ -4999,8 +5008,8 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ser Ponte": {
-    "prontas": 13,
-    "total": 13
+    "prontas": 14,
+    "total": 14
   },
   "Tramix": {
     "prontas": 10,
@@ -5101,7 +5110,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 6,
-    "carrossel": 7,
+    "carrossel": 8,
     "foto": 0,
     "video": 0,
     "story": 2
