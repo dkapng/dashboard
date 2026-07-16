@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 14:59:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 16:17:35 **/
 
-const LAST_UPDATE = '16/07/2026, 14:59:30';
+const LAST_UPDATE = '16/07/2026, 16:17:35';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 14,
-    "pronto": 5,
+    "total": 13,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 4,
-    "a_agendar": 9,
+    "a_agendar": 8,
     "st-paused": null
   },
   "Tramix": {
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
-    "total": 20,
-    "pronto": 13,
+    "total": 21,
+    "pronto": 14,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 10,
+    "a_agendar": 11,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -253,12 +253,12 @@ const FEED_DATA = {
 
 const VIDEO_DATA = {
   "AAFEC": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Travessias Híbridas": {
     "total": 1,
@@ -822,17 +822,6 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ser Ponte": [
-    {
-      "title": "#TBT",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "16/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/TBT-39f33d8db9d280da99e8dace1d7c314e"
-    },
     {
       "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa\n",
       "status": "a_agendar",
@@ -2672,6 +2661,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "#TBT",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "16/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/TBT-39f33d8db9d280da99e8dace1d7c314e"
+    },
+    {
       "title": "Post de aniversário: Adriana Athayde",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3567,7 +3567,21 @@ const LINHA_FEED_ITEMS = {
 };
 
 const LINHA_VIDEO_ITEMS = {
-  "AAFEC": [],
+  "AAFEC": [
+    {
+      "title": "#TBT",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/07",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/TBT-39f33d8db9d28094b8c7c4a4ba021cea"
+    }
+  ],
   "Travessias Híbridas": [
     {
       "title": "Brandon convida",
@@ -4904,6 +4918,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Travessias Híbridas": "marcada",
   "APROSSEG": "marcada",
   "Ortobom": "confirmada",
   "Conecta Assessoria": "marcada",
@@ -4919,16 +4934,16 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 4,
-    "total": 6
+    "prontas": 5,
+    "total": 7
   },
   "Travessias Híbridas": {
     "prontas": 11,
     "total": 11
   },
   "Ser Ponte": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 13,
+    "total": 13
   },
   "Tramix": {
     "prontas": 10,
@@ -4983,8 +4998,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 21,
-    "total": 23
+    "prontas": 22,
+    "total": 24
   },
   "Finseg Leal": {
     "prontas": 17,
@@ -5017,7 +5032,7 @@ const FORMAT_COUNTS = {
     "post": 4,
     "carrossel": 2,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "Travessias Híbridas": {
@@ -5029,7 +5044,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 6,
-    "carrossel": 8,
+    "carrossel": 7,
     "foto": 0,
     "video": 0,
     "story": 2
@@ -5127,7 +5142,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 19,
-    "carrossel": 1,
+    "carrossel": 2,
     "foto": 0,
     "video": 4,
     "story": 0
@@ -5184,8 +5199,8 @@ const AGENDA_COUNTS = {
   },
   "Travessias Híbridas": {
     "reuniao": 0,
-    "producao": 0,
-    "evento": 1
+    "producao": 1,
+    "evento": 2
   },
   "Ser Ponte": {
     "reuniao": 0,
