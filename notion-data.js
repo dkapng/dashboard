@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 20:52:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/07/2026, 23:00:04 **/
 
-const LAST_UPDATE = '16/07/2026, 20:52:38';
+const LAST_UPDATE = '16/07/2026, 23:00:04';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -154,7 +154,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 21,
-    "pronto": 15,
+    "pronto": 17,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
@@ -203,7 +203,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 8,
+    "pronto": 11,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 1,
@@ -529,7 +529,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 5,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1997,10 +1997,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Parcerias-fortalecem-organiza-es-Redes-fortalecem-territ-rios-38833d8db9d280fc92a4d03c5d3fc5af"
@@ -2537,7 +2535,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quais-exames-costumam-fazer-parte-de-um-check-up-b-sico-Muita-gente-fala-sobre-preven-o--38233d8db9d280a5800ac561275db30f"
     },
     {
-      "title": "Conheça o lugar onde tecnologia e cuidado caminham juntos. (carrossel com fotos das salas) ",
+      "title": "Conheça o lugar onde tecnologia e cuidado caminham juntos. (carrossel com fotos das salas)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/07",
@@ -2780,10 +2778,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-paga-primeiro-a-conta-da-crise-clim-tica-38e33d8db9d280569223dda4964fbc52"
@@ -2793,10 +2789,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-se-perde-quando-saberes-tradicionais-deixam-de-ser-transmitidos-38e33d8db9d280bdb4acfd35e8276ccb"
@@ -2946,10 +2940,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Na-Finseg-revisamos-sua-prote-o-para-que-ela-acompanhe-as-mudan-as-da-sua-vida-38f33d8db9d280bcaad8cb0273623bf8"
@@ -2959,10 +2951,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-patrim-nio-cresceu-Sua-cobertura-cresceu-junto-38f33d8db9d280d1acf6d6266ae1d16c"
@@ -2972,10 +2962,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-custaria-reconstruir-seu-patrim-nio-hoje-A-maioria-das-pessoas-nunca-fez-essa-conta-38f33d8db9d280078426c184343971ba"
@@ -4415,10 +4403,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/DicaDaSemana-38833d8db9d280fc9e85cf9395772279"
