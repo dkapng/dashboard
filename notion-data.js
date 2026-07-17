@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 09:40:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 11:26:30 **/
 
-const LAST_UPDATE = '17/07/2026, 09:40:35';
+const LAST_UPDATE = '17/07/2026, 11:26:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
-    "total": 21,
-    "pronto": 17,
+    "total": 20,
+    "pronto": 16,
     "postado": 1,
-    "agendado": 8,
+    "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 11,
+    "a_agendar": 7,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -431,10 +431,10 @@ const VIDEO_DATA = {
   "Solar Coworking": {
     "total": 0,
     "pronto": 0,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   }
 };
 
@@ -2654,7 +2654,7 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "#TBT",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "16/07",
       "missing": [],
@@ -2679,14 +2679,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Post de aniversário: Martha Porto ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Martha-Porto-39c33d8db9d280c391c4d1d44b7f4a17"
     },
@@ -2714,7 +2712,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Aniversário da Sandra Lira (Juntos Contra o HPV)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [],
@@ -2794,17 +2792,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-se-perde-quando-saberes-tradicionais-deixam-de-ser-transmitidos-38e33d8db9d280bdb4acfd35e8276ccb"
-    },
-    {
-      "title": "Como interromper a violência antes que ela chegue ao último estágio?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Como-interromper-a-viol-ncia-antes-que-ela-chegue-ao-ltimo-est-gio-38e33d8db9d280008630ee7922a7ec59"
     },
     {
       "title": "O Brasil reconhece as mulheres que preservam sua memória cultural?",
@@ -4144,12 +4131,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "O lugar influencia",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "17/07",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -4980,7 +4965,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 22,
-    "total": 24
+    "total": 23
   },
   "Finseg Leal": {
     "prontas": 17,
@@ -5122,7 +5107,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 19,
+    "post": 18,
     "carrossel": 2,
     "foto": 0,
     "video": 4,
