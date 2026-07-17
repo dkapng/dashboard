@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 11:26:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 12:54:03 **/
 
-const LAST_UPDATE = '17/07/2026, 11:26:30';
+const LAST_UPDATE = '17/07/2026, 12:54:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -99,10 +99,10 @@ const FEED_DATA = {
   "Stratto": {
     "total": 11,
     "pronto": 10,
-    "postado": 1,
+    "postado": 2,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 12,
@@ -186,7 +186,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
@@ -218,20 +218,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 7,
+    "total": 6,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 9,
     "pronto": 7,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 4,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Conecta Assessoria": {
     "total": 15,
@@ -405,12 +405,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 5,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Daniel Maia Advocacia": {
     "total": 3,
@@ -1127,7 +1127,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Organização não torna sua empresa mais lenta. Ela impede que você perca dinheiro em silêncio.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [],
@@ -2515,10 +2515,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontece-com-seu-exame-depois-da-coleta-38233d8db9d280c28548e94b5a348a6c"
@@ -2537,7 +2535,7 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Conheça o lugar onde tecnologia e cuidado caminham juntos. (carrossel com fotos das salas)",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "22/07",
       "missing": [
         "Design"
@@ -3060,23 +3058,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quem-dirige-com-prote-o-dirige-mais-tranquilo-25-de-Julho-Dia-do-Motorista-38f33d8db9d28000b84dde1b1c8953bb"
     },
     {
-      "title": "Quando acontece uma batida, a primeira reação é olhar para o próprio veículo. Mas nem sempre ele é a sua maior preocupação.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-acontece-uma-batida-a-primeira-rea-o-olhar-para-o-pr-prio-ve-culo-Mas-nem-sempre-ele-a-38f33d8db9d2807e9387fc8e6e2cbe52"
-    },
-    {
       "title": "A pior frase que alguém pode dizer depois de um sinistro é: \"Eu achei que isso estava coberto.”",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "31/07",
       "missing": [
         "Design"
       ],
@@ -3102,7 +3087,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O mesmo seguro pode proteger duas pessoas de formas completamente diferentes. Descubra o porquê.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "20/07",
+      "date": "27/07",
       "missing": [
         "Design"
       ],
@@ -3126,7 +3111,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Evite Problemas, Viaje com um Seguro Viagem",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/07",
+      "date": "20/07",
       "missing": [
         "Design"
       ],
@@ -3187,9 +3172,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Como funciona uma investigação criminal no Brasil — etapas e riscos (que ninguém te conta)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "16/07",
+      "date": "18/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3986,24 +3971,10 @@ const LINHA_VIDEO_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
-      "title": "Uma frase que eu escuto com frequência ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Uma-frase-que-eu-escuto-com-frequ-ncia-38f33d8db9d28074b5d6f5f14aae3ca8"
-    },
-    {
       "title": "Seu seguro ainda acompanha a sua vida?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "23/07",
+      "date": "30/07",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4017,7 +3988,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O que eu analisaria primeiro ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "21/07",
+      "date": "28/07",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4031,7 +4002,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O problema de escolher só pelo preço",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "20/07",
+      "date": "21/07",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4045,7 +4016,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Será que essa proteção foi feita para você? ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "21/07",
+      "date": "23/07",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -4746,24 +4717,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Finseg Leal": [
-    {
-      "title": "EDITAR VIDEOS",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/EDITAR-VIDEOS-39f33d8db9d2801abc39f72e98a6e055",
-      "gestora": "Equipe",
-      "date": "20/07"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
   "Terrartesã": [
     {
       "title": "Alteração de endereço ",
@@ -4814,16 +4767,6 @@ const DEMANDAS_EXTRAS = {
       "date": "13T10:30:00.000/07"
     }
   ],
-  "Stratto": [
-    {
-      "title": "Apresentação sobre terceirização do financeiro na identidade",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-sobre-terceiriza-o-do-financeiro-na-identidade-38233d8db9d28063a0cdcc5275ff9877",
-      "gestora": "Equipe",
-      "date": "23/06"
-    }
-  ],
   "Ser Ponte": [
     {
       "title": "Apresentação para pitch",
@@ -4852,6 +4795,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
     }
   ],
   "Planos Seguros": [
@@ -4976,8 +4929,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 8,
-    "total": 13
+    "prontas": 7,
+    "total": 11
   },
   "Daniel Maia Advocacia": {
     "prontas": 12,
@@ -5100,8 +5053,8 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "ItalaP": {
-    "post": 12,
-    "carrossel": 3,
+    "post": 11,
+    "carrossel": 4,
     "foto": 0,
     "video": 2,
     "story": 3
@@ -5129,9 +5082,9 @@ const FORMAT_COUNTS = {
   },
   "APROSSEG": {
     "post": 4,
-    "carrossel": 3,
+    "carrossel": 2,
     "foto": 0,
-    "video": 5,
+    "video": 4,
     "story": 0
   },
   "Daniel Maia Advocacia": {
