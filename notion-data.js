@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 14:04:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 15:32:05 **/
 
-const LAST_UPDATE = '17/07/2026, 14:04:07';
+const LAST_UPDATE = '17/07/2026, 15:32:05';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -90,7 +90,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 0,
@@ -561,7 +561,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1006,23 +1006,21 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Produzir-com-qualidade-tamb-m-pensar-no-p-s-venda-39933d8db9d28030bb85f268be756a48"
     },
     {
-      "title": "A produtividade também depende dos materiai",
+      "title": "A produtividade também depende dos materiais",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-produtividade-tamb-m-depende-dos-materiai-39933d8db9d280629c49f3d268393ba9"
+      "notionUrl": "https://app.notion.com/p/A-produtividade-tamb-m-depende-dos-materiais-39933d8db9d280629c49f3d268393ba9"
     },
     {
       "title": "Um bom acabamento também fideliza clientes",
@@ -4540,10 +4538,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "23/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Existem-doen-as-que-podem-passar-anos-sem-apresentar-sintomas-38333d8db9d280028995f7e5a91cba73"
@@ -4715,7 +4711,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualizar capa do Facebook com a régua nova",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A implementar",
       "notionUrl": "https://app.notion.com/p/Atualizar-capa-do-Facebook-com-a-r-gua-nova-3a033d8db9d28035ab12c90237ac008c",
       "gestora": "Equipe",
       "date": "17/07"
@@ -4723,7 +4719,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Capa e avatar para o canal do Youtube",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A implementar",
       "notionUrl": "https://app.notion.com/p/Capa-e-avatar-para-o-canal-do-Youtube-3a033d8db9d280b2ad5cd795c8627c99",
       "gestora": "Equipe",
       "date": "17/07"
