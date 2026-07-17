@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 19:11:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 20:14:03 **/
 
-const LAST_UPDATE = '17/07/2026, 19:11:32';
+const LAST_UPDATE = '17/07/2026, 20:14:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1911,7 +1911,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-toda-jornada-extra-passa-despercebida-pela-lei-39033d8db9d2805d8093e12cc45c057b"
