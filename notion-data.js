@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 15:32:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 17:00:55 **/
 
-const LAST_UPDATE = '17/07/2026, 15:32:05';
+const LAST_UPDATE = '17/07/2026, 17:00:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -90,11 +90,11 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 0,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Stratto": {
     "total": 11,
@@ -154,19 +154,19 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 12,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
     "a_agendar": 4
   },
   "Planos Seguros": {
-    "total": 11,
+    "total": 9,
     "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Plannea": {
     "total": 12,
@@ -235,7 +235,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 15,
-    "pronto": 9,
+    "pronto": 12,
     "postado": 0,
     "agendado": 9,
     "agendado_coord": 0,
@@ -349,12 +349,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 5,
-    "pronto": 5,
+    "total": 10,
+    "pronto": 10,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 7
   },
   "Plannea": {
     "total": 0,
@@ -536,12 +536,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Planos Seguros": {
-    "total": 5,
+    "total": 4,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Plannea": {
     "total": 3,
@@ -990,10 +990,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/primeira-vista-dois-produtos-podem-parecer-iguais-mas-a-diferen-a-surge-com-o-tempo-39933d8db9d280caa166f804261b13f7"
@@ -1003,10 +1001,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Produzir-com-qualidade-tamb-m-pensar-no-p-s-venda-39933d8db9d28030bb85f268be756a48"
@@ -1024,7 +1020,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Um bom acabamento também fideliza clientes",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/07",
       "missing": [],
@@ -1037,7 +1033,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Retrabalho custa mais do que parece",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/07",
+      "date": "18/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1275,7 +1271,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-c-ncer-do-colo-do-tero-o-segundo-mais-frequente-em-mulheres-em-v-rias-regi-es-do-Brasil-Se-a-i-39833d8db9d2809fa212c359eda2b8d7"
     },
     {
-      "title": "Juh, quem já teve HPV pode tomar a vacina? H2: Sim! Mesmo quem já teve contato com o HPV pode se beneficiar da vacinação, pois ela protege contra diferentes tipos do vírus. H3: Em caso de dúvidas, procure uma unidade de saúde ou converse com a Juh. ",
+      "title": "Juh, quem já teve HPV pode tomar a vacina? H2: Sim! Mesmo quem já teve contato com o HPV pode se beneficiar da vacinação, pois ela protege contra diferentes tipos do vírus. H3: Em caso de dúvidas, procure uma unidade de saúde ou converse com a Juh.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
@@ -2052,10 +2048,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-organiza-es-que-duram-d-cadas-t-m-em-comum-38833d8db9d280a188b7ffd879306845"
@@ -2118,23 +2112,10 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
-      "title": "A telemedicina pode transformar seu acesso à saúde",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-telemedicina-pode-transformar-seu-acesso-sa-de-39633d8db9d28066939ed15ba8498c7b"
-    },
-    {
       "title": "Quando foi a última vez que você olhou para o seu prédio além do valor do imóvel?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/07",
+      "date": "30/07",
       "missing": [
         "Design"
       ],
@@ -2147,7 +2128,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O patrimônio mudou. A estratégia de proteção também?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/07",
+      "date": "28/07",
       "missing": [
         "Design"
       ],
@@ -2160,7 +2141,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Deixar pra depois pode ser a pior decisão\n",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/07",
+      "date": "25/07",
       "missing": [
         "Design"
       ],
@@ -2170,23 +2151,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Deixar-pra-depois-pode-ser-a-pior-decis-o-39633d8db9d280b8a92ce66d530ed44a"
     },
     {
-      "title": "A má gestão dos seguros pode estar limitando o crescimento da sua empresa\n",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-m-gest-o-dos-seguros-pode-estar-limitando-o-crescimento-da-sua-empresa-39633d8db9d280c498baccb6a526f1d9"
-    },
-    {
       "title": "Algumas coberturas não fazem mais sentido",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/07",
+      "date": "21/07",
       "missing": [
         "Design"
       ],
@@ -3263,10 +3231,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sal-rio-atrai-Cuidado-mant-m-Sua-empresa-est-oferecendo-os-benef-cios-que-sua-equipe-realmente-va-38933d8db9d2803cb354ec7493adc98c"
@@ -3276,10 +3242,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Perder-um-talento-custa-mais-do-que-contratar-um-benef-cio-E-esse-custo-raramente-aparece-em-uma-n-38933d8db9d280849f62efb1a055fb3f"
@@ -3289,10 +3253,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-todo-mundo-sabe-mas-algumas-profiss-es-t-m-acesso-a-condi-es-que-pouca-gente-conhece-38933d8db9d28063b0e3c8bc6169032b"
@@ -3678,10 +3640,71 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "Uma conversa com empresário",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Uma-conversa-com-empres-rio-3a033d8db9d2804793c6f7775fc44b2b"
+    },
+    {
+      "title": "Profissionais liberais",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "31/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Profissionais-liberais-3a033d8db9d280deb14fd0115b19a7fb"
+    },
+    {
+      "title": "História popupar",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "27/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Hist-ria-popupar-3a033d8db9d280e29159d0b9706efb3b"
+    },
+    {
+      "title": "História mulher protetora",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "24/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Hist-ria-mulher-protetora-3a033d8db9d2804793a3cfad5e106a81"
+    },
+    {
+      "title": "Câmera no carro ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/C-mera-no-carro-3a033d8db9d280fda6e4c24f4af83be4"
+    },
+    {
       "title": "Benefícios",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "16/07",
+      "date": "20/07",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
@@ -4177,7 +4200,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Seu cliente percebe um bom acabamento. Mesmo sem entender de costura.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "16/07",
+      "date": "21/07",
       "missing": [
         "Design"
       ],
@@ -4396,7 +4419,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "O patrimônio da sua empresa mudou. A estratégia de cobertura também?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "21/07",
+      "date": "28/07",
       "missing": [
         "Design"
       ],
@@ -4409,7 +4432,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Seu seguro acompanha a realidade atual da sua operação?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "14/07",
+      "date": "21/07",
       "missing": [
         "Design"
       ],
@@ -4417,19 +4440,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-seguro-acompanha-a-realidade-atual-da-sua-opera-o-36733d8db9d28015a941e771638e52b4"
-    },
-    {
-      "title": "O processo de proteção começa antes do problema, não no momento em que ele acontece!",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-processo-de-prote-o-come-a-antes-do-problema-n-o-no-momento-em-que-ele-acontece-35233d8db9d28060aabee96894470cda"
     },
     {
       "title": "Seq. Stories ",
@@ -4707,6 +4717,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Tramix": [
+    {
+      "title": "Atualizar dos stories ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Atualizar-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
+      "gestora": "Equipe",
+      "date": "21/07"
+    }
+  ],
   "Travessias Híbridas": [
     {
       "title": "Atualizar capa do Facebook com a régua nova",
@@ -4733,16 +4753,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Altera-o-de-endere-o-39f33d8db9d280d7bcbdd1f580aceeaf",
       "gestora": "Equipe",
       "date": "20/07"
-    }
-  ],
-  "Tramix": [
-    {
-      "title": "Banner promoção",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Banner-promo-o-39f33d8db9d2809dad83ecacdef91246",
-      "gestora": "Equipe",
-      "date": "16/07"
     }
   ],
   "Solar Coworking": [
@@ -4910,7 +4920,7 @@ const LEGENDAS_DATA = {
   },
   "Planos Seguros": {
     "prontas": 15,
-    "total": 16
+    "total": 19
   },
   "Plannea": {
     "prontas": 9,
@@ -5040,11 +5050,11 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Planos Seguros": {
-    "post": 9,
+    "post": 7,
     "carrossel": 2,
     "foto": 0,
-    "video": 5,
-    "story": 5
+    "video": 10,
+    "story": 4
   },
   "Plannea": {
     "post": 10,
