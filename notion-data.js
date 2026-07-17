@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 12:54:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 14:04:07 **/
 
-const LAST_UPDATE = '17/07/2026, 12:54:03';
+const LAST_UPDATE = '17/07/2026, 14:04:07';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -186,7 +186,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 10,
+    "pronto": 13,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
@@ -2287,7 +2287,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Split-Payment-por-que-sua-empresa-pode-deixar-de-receber-o-valor-total-de-uma-venda-embaixo-menor-39c33d8db9d280c3b47ff89a4f6476cd"
     },
     {
-      "title": "Você sabia que uma empresa pode vender pra ela mesma? Mas atenção. Isso tem regras! ",
+      "title": "Você sabia que uma empresa pode vender pra ela mesma? Mas atenção. Isso tem regras!",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "20/07",
@@ -2502,10 +2502,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-corpo-est-recebendo-a-hidrata-o-que-precisa-ou-apenas-sobrevivendo-ao-calor-38233d8db9d280e7ba81f769a5349ac7"
@@ -2537,10 +2535,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conhe-a-o-lugar-onde-tecnologia-e-cuidado-caminham-juntos-carrossel-com-fotos-das-salas-38233d8db9d2805bac99c49a421d91f6"
@@ -2574,10 +2570,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-av-s-costumam-se-preocupar-com-todo-mundo-Mas-quem-est-cuidando-deles-38233d8db9d280519765c71fdb1c1da4"
@@ -4281,7 +4275,7 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Story/stories",
+      "title": "Você conhece todos os seus direitos?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "23/07",
@@ -4291,7 +4285,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d28038bf81cc1d2652bd3f"
+      "notionUrl": "https://app.notion.com/p/Voc-conhece-todos-os-seus-direitos-39033d8db9d28038bf81cc1d2652bd3f"
     },
     {
       "title": "Muita gente acredita que só precisa de um advogado quando o problema já aconteceu.",
@@ -4717,6 +4711,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Travessias Híbridas": [
+    {
+      "title": "Atualizar capa do Facebook com a régua nova",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Atualizar-capa-do-Facebook-com-a-r-gua-nova-3a033d8db9d28035ab12c90237ac008c",
+      "gestora": "Equipe",
+      "date": "17/07"
+    },
+    {
+      "title": "Capa e avatar para o canal do Youtube",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Capa-e-avatar-para-o-canal-do-Youtube-3a033d8db9d280b2ad5cd795c8627c99",
+      "gestora": "Equipe",
+      "date": "17/07"
+    }
+  ],
   "Terrartesã": [
     {
       "title": "Alteração de endereço ",
