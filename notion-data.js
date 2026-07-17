@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 17:00:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/07/2026, 18:12:36 **/
 
-const LAST_UPDATE = '17/07/2026, 17:00:55';
+const LAST_UPDATE = '17/07/2026, 18:12:36';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -172,9 +172,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 9,
     "postado": 0,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Ortobom": {
     "total": 5,
@@ -1911,7 +1911,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-toda-jornada-extra-passa-despercebida-pela-lei-39033d8db9d2805d8093e12cc45c057b"
@@ -2335,14 +2335,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Documentos digitais: salve-se da auditoria com boa política de arquivo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Documentos-digitais-salve-se-da-auditoria-com-boa-pol-tica-de-arquivo-1f133d8db9d2809caf73d5c52879fda4"
     },
@@ -4923,7 +4921,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Plannea": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 12
   },
   "Ortobom": {
