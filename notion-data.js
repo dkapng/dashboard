@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/07/2026, 09:57:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/07/2026, 11:19:50 **/
 
-const LAST_UPDATE = '18/07/2026, 09:57:50';
+const LAST_UPDATE = '18/07/2026, 11:19:50';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -92,9 +92,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 10,
     "postado": 0,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 11,
@@ -1031,7 +1031,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Retrabalho custa mais do que parece",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/07",
       "missing": [],
