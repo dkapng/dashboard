@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 15:14:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 16:38:53 **/
 
-const LAST_UPDATE = '19/07/2026, 15:14:01';
+const LAST_UPDATE = '19/07/2026, 16:38:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -218,11 +218,11 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 6,
-    "pronto": 1,
+    "total": 8,
+    "pronto": 5,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 0,
+    "agendado_coord": 2,
     "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
@@ -405,12 +405,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 4,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 3,
@@ -2995,6 +2995,28 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Explicando o que ninguém explica: Afinal, por que existe franquia?",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "23/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Explicando-o-que-ningu-m-explica-Afinal-por-que-existe-franquia-3a233d8db9d28065bf86d05780d6af3e"
+    },
+    {
+      "title": "Será que a I.A já consegue analisar riscos melhor que humanos?",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ser-que-a-I-A-j-consegue-analisar-riscos-melhor-que-humanos-3a233d8db9d280118e77d19e6ae5355c"
+    },
+    {
       "title": "Quem dirige com proteção, dirige mais tranquilo. 25 de Julho | Dia do Motorista",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3024,11 +3046,9 @@ const LINHA_FEED_ITEMS = {
       "title": "O seguro mais barato quase nunca é o mais econômico.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "20/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-seguro-mais-barato-quase-nunca-o-mais-econ-mico-38f33d8db9d280d1b61bfd32a7060b4d"
@@ -3058,17 +3078,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Malas-prontas-para-as-f-rias-de-julho-Descubra-por-que-o-Seguro-Viagem-o-item-mais-importante-da--36e33d8db9d280419994d06dda5cf518"
     },
     {
-      "title": "Evite Problemas, Viaje com um Seguro Viagem",
+      "title": "O melhor destino é viajar sem preocupações.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "21/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Evite-Problemas-Viaje-com-um-Seguro-Viagem-91c39877bbb24e8f8c57712cd398f37c"
+      "notionUrl": "https://app.notion.com/p/O-melhor-destino-viajar-sem-preocupa-es-91c39877bbb24e8f8c57712cd398f37c"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -4002,34 +4020,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/O-que-eu-analisaria-primeiro-38f33d8db9d28001b0edd9577d8aedb4"
-    },
-    {
-      "title": "O problema de escolher só pelo preço",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-problema-de-escolher-s-pelo-pre-o-38f33d8db9d2808580e3e3a1d0807fc0"
-    },
-    {
-      "title": "Será que essa proteção foi feita para você? ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "23/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Ser-que-essa-prote-o-foi-feita-para-voc-38f33d8db9d280dfae2df3f3d1f6442b"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -4935,7 +4925,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 7,
+    "prontas": 9,
     "total": 11
   },
   "Daniel Maia Advocacia": {
@@ -5087,10 +5077,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 4,
+    "post": 6,
     "carrossel": 2,
     "foto": 0,
-    "video": 4,
+    "video": 2,
     "story": 0
   },
   "Daniel Maia Advocacia": {
