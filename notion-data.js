@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 19:43:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 20:51:11 **/
 
-const LAST_UPDATE = '19/07/2026, 19:43:16';
+const LAST_UPDATE = '19/07/2026, 20:51:11';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -170,7 +170,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 12,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
@@ -218,12 +218,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 8,
-    "pronto": 6,
+    "total": 9,
+    "pronto": 7,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 2,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -405,12 +405,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 2,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 3,
@@ -545,7 +545,7 @@ const STORIES_DATA = {
   },
   "Plannea": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -696,7 +696,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/1-em-cada-4-idosos-no-mundo-pode-estar-em-situa-o-de-isolamento-social-em-foto-menor-Mas-envelhec-39d33d8db9d2809189a9eeea61dcfedd"
     },
     {
-      "title": "Você não precisa viver a terceira idade sozinho\n",
+      "title": "Você não precisa viver a terceira idade sozinho",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "20/07",
@@ -2225,10 +2225,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-escolhe-fornecedores-apenas-pelo-pre-o-Isso-pode-mudar-com-a-Reforma-Tribut-ria-39c33d8db9d28054be4ed24c30313d4e"
@@ -2993,6 +2991,20 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Você sabe quem paga quando um cliente sofre um acidente dentro da sua empresa?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-quem-paga-quando-um-cliente-sofre-um-acidente-dentro-da-sua-empresa-3a233d8db9d28090bd3dd797b9edad0c"
+    },
+    {
       "title": "Explicando o que ninguém explica: Afinal, por que existe franquia?",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
@@ -3053,11 +3065,9 @@ const LINHA_FEED_ITEMS = {
       "title": "O mesmo seguro pode proteger duas pessoas de formas completamente diferentes. Descubra o porquê.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "28/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-mesmo-seguro-pode-proteger-duas-pessoas-de-formas-completamente-diferentes-Descubra-o-porqu-38f33d8db9d280389773e5515cb5ea50"
@@ -3988,36 +3998,7 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Di Gregório Buffet": [],
-  "APROSSEG": [
-    {
-      "title": "Seu seguro ainda acompanha a sua vida?",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Seu-seguro-ainda-acompanha-a-sua-vida-38f33d8db9d2801b9db0de8055c1b64d"
-    },
-    {
-      "title": "O que eu analisaria primeiro ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-que-eu-analisaria-primeiro-38f33d8db9d28001b0edd9577d8aedb4"
-    }
-  ],
+  "APROSSEG": [],
   "Daniel Maia Advocacia": [
     {
       "title": "Bens na separação",
@@ -4446,10 +4427,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "21/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-j-parou-para-pensar-no-caminho-que-o-dinheiro-faz-depois-que-um-cliente-paga-uma-venda-39c33d8db9d280718513ce9329f79319"
@@ -5073,10 +5052,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 6,
+    "post": 7,
     "carrossel": 2,
     "foto": 0,
-    "video": 2,
+    "video": 0,
     "story": 0
   },
   "Daniel Maia Advocacia": {
