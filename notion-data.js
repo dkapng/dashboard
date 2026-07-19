@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 11:59:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 13:00:24 **/
 
-const LAST_UPDATE = '19/07/2026, 11:59:36';
+const LAST_UPDATE = '19/07/2026, 13:00:24';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -146,7 +146,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 11,
-    "pronto": 5,
+    "pronto": 8,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -1882,10 +1882,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Foi-demitido-Conhe-a-alguns-dos-seus-principais-direitos-39033d8db9d280fa9564d72afe851917"
@@ -1895,10 +1893,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Contrato-verbal-existe-e-pode-ter-validade-jur-dica-39033d8db9d28089bc67cc1a0b739538"
@@ -1908,10 +1904,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-toda-jornada-extra-passa-despercebida-pela-lei-39033d8db9d2805d8093e12cc45c057b"
@@ -4301,7 +4295,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-todos-os-seus-direitos-39033d8db9d28038bf81cc1d2652bd3f"
