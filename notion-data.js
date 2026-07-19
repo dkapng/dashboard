@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 18:43:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 19:43:16 **/
 
-const LAST_UPDATE = '19/07/2026, 18:43:33';
+const LAST_UPDATE = '19/07/2026, 19:43:16';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -170,7 +170,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 12,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
@@ -219,7 +219,7 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 8,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 2,
@@ -2228,7 +2228,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-escolhe-fornecedores-apenas-pelo-pre-o-Isso-pode-mudar-com-a-Reforma-Tribut-ria-39c33d8db9d28054be4ed24c30313d4e"
@@ -2238,10 +2238,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Split-Payment-por-que-sua-empresa-pode-deixar-de-receber-o-valor-total-de-uma-venda-embaixo-menor-39c33d8db9d280c3b47ff89a4f6476cd"
@@ -3021,10 +3019,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-dirige-com-prote-o-dirige-mais-tranquilo-25-de-Julho-Dia-do-Motorista-38f33d8db9d28000b84dde1b1c8953bb"
