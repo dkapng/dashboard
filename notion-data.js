@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 13:00:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 14:04:29 **/
 
-const LAST_UPDATE = '19/07/2026, 13:00:24';
+const LAST_UPDATE = '19/07/2026, 14:04:29';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -170,7 +170,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 12,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
@@ -521,7 +521,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 5,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
@@ -862,7 +862,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
     },
     {
-      "title": "Todos os dias, mulheres realizam 12,5 bilhões de horas de trabalho de cuidado não remunerado no mundo.\n",
+      "title": "Todos os dias, mulheres realizam 12,5 bilhões de horas de trabalho de cuidado não remunerado no mundo.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/07",
@@ -2241,7 +2241,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Split-Payment-por-que-sua-empresa-pode-deixar-de-receber-o-valor-total-de-uma-venda-embaixo-menor-39c33d8db9d280c3b47ff89a4f6476cd"
@@ -2251,10 +2251,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabia-que-uma-empresa-pode-vender-pra-ela-mesma-Mas-aten-o-Isso-tem-regras-39c33d8db9d2803394a7d0117240c03d"
@@ -3026,7 +3024,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O seguro mais barato quase nunca é o mais econômico.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/07",
+      "date": "18/07",
       "missing": [
         "Design"
       ],
@@ -4292,10 +4290,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "23/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-todos-os-seus-direitos-39033d8db9d28038bf81cc1d2652bd3f"
