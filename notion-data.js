@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 16:13:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 17:47:13 **/
 
-const LAST_UPDATE = '20/07/2026, 16:13:03';
+const LAST_UPDATE = '20/07/2026, 17:47:13';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 13,
+    "total": 9,
     "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 4,
-    "a_agendar": 8,
+    "a_agendar": 4,
     "st-paused": null
   },
   "Tramix": {
@@ -351,10 +351,10 @@ const VIDEO_DATA = {
   "Planos Seguros": {
     "total": 10,
     "pronto": 10,
-    "postado": 0,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Plannea": {
     "total": 0,
@@ -703,7 +703,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-n-o-precisa-viver-a-terceira-idade-sozinho-39d33d8db9d2800aa04fd21d6ece735f"
@@ -823,9 +823,9 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ser Ponte": [
     {
-      "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa\n",
+      "title": "Como você definiria nosso trabalho em uma palavra?",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
+      "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [
         "Design"
@@ -833,59 +833,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-revela-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
-    },
-    {
-      "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.\n",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Ser-mulher-representa-em-m-dia-10-horas-semanais-a-mais-de-trabalho-dom-stico-e-de-cuidado-39733d8db9d2802c9dc5e3ce7162d868"
-    },
-    {
-      "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.\n",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
-    },
-    {
-      "title": "Todos os dias, mulheres realizam 12,5 bilhões de horas de trabalho de cuidado não remunerado no mundo.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Todos-os-dias-mulheres-realizam-12-5-bilh-es-de-horas-de-trabalho-de-cuidado-n-o-remunerado-no-mund-39733d8db9d280a9a19ac3877e11ecab"
-    },
-    {
-      "title": "Mais da metade dos lares do Ceará é chefiada por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-chefiada-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-lios-39733d8db9d2801b9ce7d623d765dfc8"
+      "notionUrl": "https://app.notion.com/p/Como-voc-definiria-nosso-trabalho-em-uma-palavra-3a333d8db9d280ef98d3dc9be3114612"
     },
     {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
@@ -902,7 +850,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você toparia apresentar a Ser Ponte para três pessoas?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "09/07",
+      "date": "22/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -924,7 +872,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "20/07",
+      "date": "29/07",
       "missing": [
         "Design"
       ],
@@ -937,7 +885,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Existe uma Fortaleza que não chega no fim do mês.",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "17/07",
+      "date": "27/07",
       "missing": [
         "Design"
       ],
@@ -950,7 +898,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem decide quem recebe esse dinheiro?",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "15/07",
+      "date": "24/07",
       "missing": [
         "Design"
       ],
@@ -963,7 +911,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O que é ser ponte em uma cidade onde falta comida em milhares de casas?",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "13/07",
+      "date": "20/07",
       "missing": [
         "Design"
       ],
@@ -3619,7 +3567,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Benefícios",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "20/07",
       "missing": [],
@@ -3997,7 +3945,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Quando a renda não é suficiente",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "21/07",
+      "date": "28/07",
       "missing": [
         "Design"
       ],
@@ -4010,7 +3958,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "O que é ser ponte?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "14/07",
+      "date": "21/07",
       "missing": [
         "Design"
       ],
@@ -4550,7 +4498,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Templates para apresentação de slides",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Templates-para-apresenta-o-de-slides-3a333d8db9d2809abccec0d8a0e4a01a",
       "gestora": "Equipe",
       "date": "20/07"
@@ -4693,6 +4641,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Jota Diesel": "confirmada",
   "Rede Pangeia": "cancelada",
   "Travessias Híbridas": "marcada",
   "APROSSEG": "marcada",
@@ -4718,8 +4667,8 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ser Ponte": {
-    "prontas": 13,
-    "total": 13
+    "prontas": 9,
+    "total": 9
   },
   "Tramix": {
     "prontas": 10,
@@ -4819,8 +4768,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 6,
-    "carrossel": 7,
+    "post": 7,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 2
@@ -5000,7 +4949,7 @@ const AGENDA_COUNTS = {
   },
   "Jota Diesel": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Ventana": {
