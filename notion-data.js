@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 10:51:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 12:46:03 **/
 
-const LAST_UPDATE = '20/07/2026, 10:51:52';
+const LAST_UPDATE = '20/07/2026, 12:46:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -97,12 +97,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Stratto": {
-    "total": 11,
+    "total": 12,
     "pronto": 10,
     "postado": 2,
-    "agendado": 6,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
     "total": 12,
@@ -156,9 +156,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 10,
     "postado": 1,
-    "agendado": 7,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 9,
@@ -188,9 +188,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 13,
     "postado": 1,
-    "agendado": 8,
+    "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
@@ -205,9 +205,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 11,
     "postado": 0,
-    "agendado": 7,
+    "agendado": 10,
     "agendado_coord": 1,
-    "a_agendar": 6
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -229,9 +229,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 7,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 4,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Conecta Assessoria": {
     "total": 15,
@@ -285,12 +285,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 4,
-    "pronto": 1,
-    "postado": 0,
+    "total": 3,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 1,
@@ -373,12 +373,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "ItalaP": {
-    "total": 2,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 4,
@@ -392,9 +392,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 5,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -1098,6 +1098,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Stratto": [
     {
+      "title": "Quanto do seu faturamento realmente fica na empresa?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quanto-do-seu-faturamento-realmente-fica-na-empresa-39133d8db9d280069092d0f17a70cdb2"
+    },
+    {
       "title": "Toda empresa tem números. Poucas entendem o que eles dizem.",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -1110,9 +1123,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando um processo depende da memória de alguém, ele já começou errado.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "20/07",
+      "date": "21/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1167,9 +1180,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua empresa continua funcionando enquanto organizamos o financeiro. E é exatamente assim que deve ser.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "22/07",
+      "date": "23/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1931,7 +1944,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Parcerias fortalecem organizações. Redes fortalecem territórios.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [],
@@ -1988,7 +2001,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que organizações que duram décadas têm em comum?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "24/07",
       "missing": [],
@@ -2409,7 +2422,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu corpo está recebendo a hidratação que precisa ou apenas sobrevivendo ao calor?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -2420,7 +2433,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que acontece com seu exame depois da coleta?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [],
@@ -2442,7 +2455,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Conheça o lugar onde tecnologia e cuidado caminham juntos. (carrossel com fotos das salas)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "22/07",
       "missing": [],
@@ -2477,7 +2490,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Os avós costumam se preocupar com todo mundo. Mas quem está cuidando deles?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "26/07",
       "missing": [],
@@ -2826,7 +2839,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Na Finseg, revisamos sua proteção para que ela acompanhe as mudanças da sua vida.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -2837,7 +2850,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu patrimônio cresceu. Sua cobertura cresceu junto?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/07",
       "missing": [],
@@ -2848,7 +2861,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quanto custaria reconstruir seu patrimônio hoje? A maioria das pessoas nunca fez essa conta.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [],
@@ -3088,7 +3101,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu contrato social ainda protege a realidade da sua empresa?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "23/07",
       "missing": [],
@@ -3457,6 +3470,17 @@ const LINHA_VIDEO_ITEMS = {
   "Tramix": [],
   "Stratto": [
     {
+      "title": "Treinamento ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "20/07",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Treinamento-3a333d8db9d2807c9af5dc9b7c0b1a4e"
+    },
+    {
       "title": "Vídeo",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3468,7 +3492,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-39f33d8db9d280329f7fcb8b0309d53a"
     },
     {
-      "title": "Existe uma diferença enorme entre controlar contas e fazer gestão financeira.",
+      "title": "O maior erro de quem terceiriza o financeiro.",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "31/07",
@@ -3478,33 +3502,7 @@ const LINHA_VIDEO_ITEMS = {
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Existe-uma-diferen-a-enorme-entre-controlar-contas-e-fazer-gest-o-financeira-39133d8db9d28099b742d4056340cd69"
-    },
-    {
-      "title": "O maior erro de quem terceiriza o financeiro.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "24/07",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/O-maior-erro-de-quem-terceiriza-o-financeiro-39133d8db9d2809a839bece5becef080"
-    },
-    {
-      "title": "Antes de assumir o financeiro de uma empresa, fazemos uma coisa que quase ninguém faz.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/07",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Antes-de-assumir-o-financeiro-de-uma-empresa-fazemos-uma-coisa-que-quase-ningu-m-faz-39133d8db9d280189008dbb541a3fb8b"
     }
   ],
   "Juntos contra o HPV": [
@@ -3818,20 +3816,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/A-sa-de-que-voc-confia-sempre-perto-de-voc-38333d8db9d2805287ebdb8033a79832"
-    },
-    {
-      "title": "O que acontece com seu exame depois da coleta?",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-que-acontece-com-seu-exame-depois-da-coleta-38333d8db9d2809591a3ee8dc5994826"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -3896,14 +3880,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Erro mais comum",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "22/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Erro-mais-comum-38f33d8db9d280abb470f2a86fd8c9ba"
     },
@@ -4601,12 +4583,40 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Tramix": [
+  "Juntos contra o HPV": [
     {
-      "title": "Atualizar dos stories ",
+      "title": "I Simpósio | Papel timbrado",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Papel-timbrado-3a333d8db9d280f5a59ef62bb52f0334",
+      "gestora": "Equipe",
+      "date": "20/07"
+    },
+    {
+      "title": "I Simpósio | Templates para apresentação de slides",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Templates-para-apresenta-o-de-slides-3a333d8db9d2809abccec0d8a0e4a01a",
+      "gestora": "Equipe",
+      "date": "20/07"
+    }
+  ],
+  "Conecta Assessoria": [
+    {
+      "title": "Arte para o tráfego",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Atualizar-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
+      "notionUrl": "https://app.notion.com/p/Arte-para-o-tr-fego-3a333d8db9d280fba752d67416223221",
+      "gestora": "Equipe",
+      "date": "22/07"
+    }
+  ],
+  "Tramix": [
+    {
+      "title": "Atualizar destaques dos stories",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
       "gestora": "Equipe",
       "date": "21/07"
     }
@@ -4657,16 +4667,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Anivers-riantes-do-m-s-39833d8db9d280eda03fc5b410bf0b96",
       "gestora": "Equipe",
       "date": "13/07"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Identidade visual do Simpósio",
-      "priority": "p",
-      "rawStatus": "2. Pausada",
-      "notionUrl": "https://app.notion.com/p/Identidade-visual-do-Simp-sio-39233d8db9d280e59547fa563217fcf7",
-      "gestora": "Equipe",
-      "date": "13T10:30:00.000/07"
     }
   ],
   "Ser Ponte": [
@@ -4816,14 +4816,14 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 15,
-    "total": 17
+    "total": 16
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 22,
     "total": 23
   },
   "Finseg Leal": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 19
   },
   "Di Gregório Buffet": {
@@ -4878,10 +4878,10 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Stratto": {
-    "post": 7,
+    "post": 8,
     "carrossel": 4,
     "foto": 0,
-    "video": 4,
+    "video": 3,
     "story": 0
   },
   "Juntos contra o HPV": {
@@ -4958,7 +4958,7 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 4,
     "foto": 0,
-    "video": 2,
+    "video": 1,
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
