@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 18:55:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 19:53:08 **/
 
-const LAST_UPDATE = '20/07/2026, 18:55:52';
+const LAST_UPDATE = '20/07/2026, 19:53:08';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 12,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -1186,7 +1186,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-tecnologia-nos-d-a-velocidade-mas-o-calor-humano-que-gera-a-confian-a-39833d8db9d280c0857bd09f446a6bc9"
@@ -1229,12 +1229,10 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Juh, quem já teve HPV pode tomar a vacina? H2: Sim! Mesmo quem já teve contato com o HPV pode se beneficiar da vacinação, pois ela protege contra diferentes tipos do vírus. H3: Em caso de dúvidas, procure uma unidade de saúde ou converse com a Juh.",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Juh-quem-j-teve-HPV-pode-tomar-a-vacina-H2-Sim-Mesmo-quem-j-teve-contato-com-o-HPV-pode-se-ben-39833d8db9d2808da469f1df13af8f96"
@@ -4784,8 +4782,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 8,
-    "carrossel": 4,
+    "post": 7,
+    "carrossel": 5,
     "foto": 0,
     "video": 1,
     "story": 0
