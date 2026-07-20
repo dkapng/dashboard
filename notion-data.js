@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 00:07:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 02:52:04 **/
 
-const LAST_UPDATE = '20/07/2026, 00:07:53';
+const LAST_UPDATE = '20/07/2026, 02:52:04';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -129,12 +129,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 16,
-    "pronto": 7,
+    "total": 14,
+    "pronto": 11,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Terrartesã": {
     "total": 11,
@@ -242,12 +242,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Solar Coworking": {
-    "total": 8,
-    "pronto": 1,
+    "total": 7,
+    "pronto": 4,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   }
 };
 
@@ -504,12 +504,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 3,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Terrartesã": {
     "total": 0,
@@ -1479,6 +1479,19 @@ const LINHA_FEED_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
+      "title": "Confiança é quando você sabe que pode contar com alguém. Feliz Dia do Amigo!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Confian-a-quando-voc-sabe-que-pode-contar-com-algu-m-Feliz-Dia-do-Amigo-3a333d8db9d28085bfe0d018f08a4515"
+    },
+    {
       "title": "Mais do que um plano de saúde: benefícios que fazem a diferença no seu dia a dia.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1521,11 +1534,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Coração saudável começa com acompanhamento.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "22/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cora-o-saud-vel-come-a-com-acompanhamento-39633d8db9d2800b8360e7a537546b2a"
@@ -1534,66 +1545,23 @@ const LINHA_FEED_ITEMS = {
       "title": "Imprevistos não tiram férias. A prevenção também não",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "24/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Imprevistos-n-o-tiram-f-rias-A-preven-o-tamb-m-n-o-39633d8db9d280348046d90c09d85028"
     },
     {
-      "title": "Mais do que um plano, uma rede preparada para cuidar de você.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mais-do-que-um-plano-uma-rede-preparada-para-cuidar-de-voc-39633d8db9d280e1811aca8ff003bb05"
-    },
-    {
-      "title": "A escolha do plano certo faz diferença todos os dias.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-escolha-do-plano-certo-faz-diferen-a-todos-os-dias-39633d8db9d280bea4d3d0b5138bf23a"
-    },
-    {
       "title": "Investir em saúde é investir no crescimento da sua empresa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "21/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Investir-em-sa-de-investir-no-crescimento-da-sua-empresa-39633d8db9d280548af4eb4da55966a5"
-    },
-    {
-      "title": "Férias sem preocupação: saúde também faz parte do roteiro",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "13/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/F-rias-sem-preocupa-o-sa-de-tamb-m-faz-parte-do-roteiro-39633d8db9d280a5b73dc90f93d3c05b"
     },
     {
       "title": "Clube Mais Vantagens: os descontos que você já pode estar usando agora",
@@ -3411,25 +3379,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Empresas bem posicionadas são lembradas com mais facilidade.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Empresas-bem-posicionadas-s-o-lembradas-com-mais-facilidade-39033d8db9d280739e66d30125fa517c"
-    },
-    {
-      "title": "Empresas bem posicionadas são lembradas com mais facilidade.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "24/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Empresas-bem-posicionadas-s-o-lembradas-com-mais-facilidade-39033d8db9d2805fa1b7c02c5d922948"
@@ -3438,7 +3390,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua estrutura acompanha o crescimento do seu negócio?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/07",
+      "date": "27/07",
       "missing": [
         "Design"
       ],
@@ -3452,10 +3404,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Trabalhar-de-casa-pode-estar-custando-mais-do-que-voc-imagina-39033d8db9d280e0ae17ccafa1596970"
@@ -3464,11 +3414,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Fortaleza ou Eusébio: duas localizações, mais possibilidades para o seu negócio.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "22/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Fortaleza-ou-Eus-bio-duas-localiza-es-mais-possibilidades-para-o-seu-neg-cio-39033d8db9d280e7993bc62fb08d39b5"
@@ -4059,7 +4007,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Cada empresa tem seu momento",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "24/07",
+      "date": "21/07",
       "missing": [
         "Vídeo"
       ],
@@ -4231,19 +4179,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Plano-Empresarial-39633d8db9d280f781c9f6aa283ab51a"
-    },
-    {
-      "title": "Exames ",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "16/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Exames-39633d8db9d280238fbdf4f9b5a45752"
     }
   ],
   "Terrartesã": [],
@@ -4852,8 +4787,8 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Univendas": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 13,
+    "total": 14
   },
   "Terrartesã": {
     "prontas": 11,
@@ -4909,7 +4844,7 @@ const LEGENDAS_DATA = {
   },
   "Solar Coworking": {
     "prontas": 11,
-    "total": 12
+    "total": 11
   }
 };
 
@@ -4971,11 +4906,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 16,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   },
   "Terrartesã": {
     "post": 11,
@@ -5069,7 +5004,7 @@ const FORMAT_COUNTS = {
     "story": 8
   },
   "Solar Coworking": {
-    "post": 8,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 4,
