@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 14:28:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 16:13:03 **/
 
-const LAST_UPDATE = '20/07/2026, 14:28:13';
+const LAST_UPDATE = '20/07/2026, 16:13:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -131,10 +131,10 @@ const FEED_DATA = {
   "Univendas": {
     "total": 14,
     "pronto": 11,
-    "postado": 0,
-    "agendado": 7,
+    "postado": 1,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 3
   },
   "Terrartesã": {
     "total": 11,
@@ -147,10 +147,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 11,
     "pronto": 8,
-    "postado": 1,
-    "agendado": 4,
+    "postado": 2,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 12,
@@ -180,9 +180,9 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 15,
@@ -244,10 +244,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 7,
     "pronto": 4,
-    "postado": 0,
-    "agendado": 1,
+    "postado": 1,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 3
   }
 };
 
@@ -368,9 +368,9 @@ const VIDEO_DATA = {
     "total": 3,
     "pronto": 3,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 1,
@@ -432,9 +432,9 @@ const VIDEO_DATA = {
     "total": 0,
     "pronto": 0,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   }
 };
 
@@ -1491,14 +1491,12 @@ const LINHA_FEED_ITEMS = {
   "Univendas": [
     {
       "title": "Confiança é quando você sabe que pode contar com alguém. Feliz Dia do Amigo!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Confian-a-quando-voc-sabe-que-pode-contar-com-algu-m-Feliz-Dia-do-Amigo-3a333d8db9d28085bfe0d018f08a4515"
     },
@@ -1543,7 +1541,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Coração saudável começa com acompanhamento.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -1554,7 +1552,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Imprevistos não tiram férias. A prevenção também não",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -1565,7 +1563,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Investir em saúde é investir no crescimento da sua empresa.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/07",
       "missing": [],
@@ -1839,7 +1837,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Foi demitido? Conheça alguns dos seus principais direitos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -1850,7 +1848,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Contrato verbal existe e pode ter validade jurídica.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -1861,7 +1859,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nem toda jornada extra passa despercebida pela lei.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [],
@@ -2381,7 +2379,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nada melhor que chegar em casa e encontrar o conforto que você merece",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -3353,7 +3351,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Empresas bem posicionadas são lembradas com mais facilidade.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -3377,7 +3375,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Trabalhar de casa pode estar custando mais do que você imagina.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [],
@@ -3388,7 +3386,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Fortaleza ou Eusébio: duas localizações, mais possibilidades para o seu negócio.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -3707,27 +3705,23 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Revisão ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "23/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Revis-o-39d33d8db9d280b3a699e751908d447f"
     },
     {
       "title": "Coluna ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "21/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Coluna-39d33d8db9d2806486aac0148ef605be"
     },
@@ -3950,12 +3944,10 @@ const LINHA_VIDEO_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Cada empresa tem seu momento",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "21/07",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -4750,7 +4742,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Univendas": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 14
   },
   "Terrartesã": {
@@ -4774,7 +4766,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Ortobom": {
-    "prontas": 9,
+    "prontas": 11,
     "total": 13
   },
   "ItalaP": {
