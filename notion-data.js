@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 19:53:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 20:50:59 **/
 
-const LAST_UPDATE = '20/07/2026, 19:53:08';
+const LAST_UPDATE = '20/07/2026, 20:50:59';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -1183,10 +1183,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-tecnologia-nos-d-a-velocidade-mas-o-calor-humano-que-gera-a-confian-a-39833d8db9d280c0857bd09f446a6bc9"
@@ -1238,7 +1236,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Juh-quem-j-teve-HPV-pode-tomar-a-vacina-H2-Sim-Mesmo-quem-j-teve-contato-com-o-HPV-pode-se-ben-39833d8db9d2808da469f1df13af8f96"
     },
     {
-      "title": "A prevenção também pode ser acompanhada. Conheça o observatório do Grupo Mulheres do Brasil. (post em colab com o gmdbfor)",
+      "title": "A prevenção também pode ser acompanhada. Conheça o observatório do Grupo Mulheres do Brasil. (post em collab com o GMdB Fortaleza)",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/07",
