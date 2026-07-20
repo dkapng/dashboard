@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 12:46:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 14:28:13 **/
 
-const LAST_UPDATE = '20/07/2026, 12:46:03';
+const LAST_UPDATE = '20/07/2026, 14:28:13';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -115,10 +115,10 @@ const FEED_DATA = {
   "Jota Diesel": {
     "total": 9,
     "pronto": 5,
-    "postado": 1,
-    "agendado": 0,
+    "postado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 0,
@@ -179,10 +179,10 @@ const FEED_DATA = {
   "Ortobom": {
     "total": 6,
     "pronto": 3,
-    "postado": 0,
-    "agendado": 0,
+    "postado": 1,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 15,
@@ -218,12 +218,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 10,
-    "pronto": 10,
-    "postado": 0,
-    "agendado": 1,
-    "agendado_coord": 4,
-    "a_agendar": 5
+    "total": 7,
+    "pronto": 7,
+    "postado": 1,
+    "agendado": 3,
+    "agendado_coord": 3,
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -237,9 +237,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 12,
     "postado": 0,
-    "agendado": 9,
+    "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 7,
@@ -1381,14 +1381,12 @@ const LINHA_FEED_ITEMS = {
   "Jota Diesel": [
     {
       "title": "Na estrada, parceria vale ouro. (Dia do amigo)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Na-estrada-parceria-vale-ouro-Dia-do-amigo-3a333d8db9d2800da910ee340d27f317"
     },
@@ -1420,7 +1418,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Desempenho não depende só do motor. A manutenção faz toda a diferença.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -1431,7 +1429,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mais desempenho não começa no acelerador. Começa na manutenção.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/07",
       "missing": [],
@@ -1442,7 +1440,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Pequenos cuidados fazem grandes motores durarem mais.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -2322,14 +2320,12 @@ const LINHA_FEED_ITEMS = {
   "Ortobom": [
     {
       "title": "Feito para amigos: Porque toda visita merece se sentir em casa.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feito-para-amigos-Porque-toda-visita-merece-se-sentir-em-casa-3a333d8db9d280c189fef3b0be74281a"
     },
@@ -2374,7 +2370,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Acordar sem dores no pescoço começa com a escolha do travesseiro certo.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/07",
       "missing": [],
@@ -2965,7 +2961,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Todo empresário sabe administrar custos. Mas eles sabem administram riscos?",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "30/07",
+      "date": "31/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
@@ -2973,21 +2969,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Todo-empres-rio-sabe-administrar-custos-Mas-eles-sabem-administram-riscos-3a233d8db9d280b9b311dd1ba48263b7"
     },
     {
-      "title": "Você sabe quem paga quando um cliente sofre um acidente dentro da sua empresa?",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "27/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabe-quem-paga-quando-um-cliente-sofre-um-acidente-dentro-da-sua-empresa-3a233d8db9d28090bd3dd797b9edad0c"
-    },
-    {
       "title": "Explicando o que ninguém explica: Afinal, por que existe franquia?",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "23/07",
+      "date": "27/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
@@ -2998,7 +2983,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Será que a I.A já consegue analisar riscos melhor que humanos?",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "24/07",
+      "date": "28/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
@@ -3007,7 +2992,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem dirige com proteção, dirige mais tranquilo. 25 de Julho | Dia do Motorista",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/07",
       "missing": [],
@@ -3017,19 +3002,8 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quem-dirige-com-prote-o-dirige-mais-tranquilo-25-de-Julho-Dia-do-Motorista-38f33d8db9d28000b84dde1b1c8953bb"
     },
     {
-      "title": "A pior frase que alguém pode dizer depois de um sinistro é: \"Eu achei que isso estava coberto.”",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "31/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-pior-frase-que-algu-m-pode-dizer-depois-de-um-sinistro-Eu-achei-que-isso-estava-coberto-38f33d8db9d2809286fbcd51bb108158"
-    },
-    {
       "title": "O seguro mais barato quase nunca é o mais econômico.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [],
@@ -3037,17 +3011,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-seguro-mais-barato-quase-nunca-o-mais-econ-mico-38f33d8db9d280d1b61bfd32a7060b4d"
-    },
-    {
-      "title": "O mesmo seguro pode proteger duas pessoas de formas completamente diferentes. Descubra o porquê.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "28/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-mesmo-seguro-pode-proteger-duas-pessoas-de-formas-completamente-diferentes-Descubra-o-porqu-38f33d8db9d280389773e5515cb5ea50"
     },
     {
       "title": "Malas prontas para as férias de julho? Descubra por que o Seguro Viagem é o item mais importante da bagagem.",
@@ -3062,7 +3025,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O melhor destino é viajar sem preocupações.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/07",
       "missing": [],
@@ -3219,7 +3182,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Salário atrai. Cuidado mantém. Sua empresa está oferecendo os benefícios que sua equipe realmente valoriza?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -3230,7 +3193,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Perder um talento custa mais do que contratar um benefício. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -3241,7 +3204,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nem todo mundo sabe, mas algumas profissões têm acesso a condições que pouca gente conhece.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/07",
       "missing": [],
@@ -4587,7 +4550,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Papel timbrado",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Papel-timbrado-3a333d8db9d280f5a59ef62bb52f0334",
       "gestora": "Equipe",
       "date": "20/07"
@@ -4595,7 +4558,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Templates para apresentação de slides",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Templates-para-apresenta-o-de-slides-3a333d8db9d2809abccec0d8a0e4a01a",
       "gestora": "Equipe",
       "date": "20/07"
@@ -4779,7 +4742,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Jota Diesel": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 9
   },
   "Ventana": {
@@ -4811,7 +4774,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Ortobom": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 13
   },
   "ItalaP": {
@@ -4831,8 +4794,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 11,
-    "total": 11
+    "prontas": 8,
+    "total": 8
   },
   "Daniel Maia Advocacia": {
     "prontas": 12,
@@ -4983,8 +4946,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 8,
-    "carrossel": 2,
+    "post": 6,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
