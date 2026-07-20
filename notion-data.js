@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 08:38:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 10:51:52 **/
 
-const LAST_UPDATE = '20/07/2026, 08:38:07';
+const LAST_UPDATE = '20/07/2026, 10:51:52';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4738,7 +4738,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
-  "Rede Pangeia": "marcada",
+  "Rede Pangeia": "cancelada",
   "Travessias Híbridas": "marcada",
   "APROSSEG": "marcada",
   "Ortobom": "confirmada",
