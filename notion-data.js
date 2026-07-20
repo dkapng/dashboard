@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 17:47:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 18:55:52 **/
 
-const LAST_UPDATE = '20/07/2026, 17:47:13';
+const LAST_UPDATE = '20/07/2026, 18:55:52';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -65,7 +65,7 @@ const NICHES = {
 const FEED_DATA = {
   "AAFEC": {
     "total": 6,
-    "pronto": 0,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -669,15 +669,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-sabia-que-a-AAFEC-oferece-academia-gratuita-aos-associados-39d33d8db9d2806a9fc5deab6b03d0de"
     },
     {
-      "title": "Saiba tudo sobre seus direitos no encontro mensal dos associados\n",
+      "title": "Saiba tudo sobre seus direitos no encontro mensal dos associados",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiba-tudo-sobre-seus-direitos-no-encontro-mensal-dos-associados-39d33d8db9d280ab8362f58fb53cf578"
@@ -687,10 +686,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/1-em-cada-4-idosos-no-mundo-pode-estar-em-situa-o-de-isolamento-social-em-foto-menor-Mas-envelhec-39d33d8db9d2809189a9eeea61dcfedd"
@@ -700,10 +697,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-n-o-precisa-viver-a-terceira-idade-sozinho-39d33d8db9d2800aa04fd21d6ece735f"
@@ -1239,7 +1234,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Juh-quem-j-teve-HPV-pode-tomar-a-vacina-H2-Sim-Mesmo-quem-j-teve-contato-com-o-HPV-pode-se-ben-39833d8db9d2808da469f1df13af8f96"
