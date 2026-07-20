@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/07/2026, 20:51:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 00:07:53 **/
 
-const LAST_UPDATE = '19/07/2026, 20:51:11';
+const LAST_UPDATE = '20/07/2026, 00:07:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -113,12 +113,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Jota Diesel": {
-    "total": 10,
-    "pronto": 1,
+    "total": 9,
+    "pronto": 5,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Ventana": {
     "total": 0,
@@ -177,12 +177,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Ortobom": {
-    "total": 5,
-    "pronto": 0,
+    "total": 6,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "ItalaP": {
     "total": 15,
@@ -218,12 +218,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 9,
-    "pronto": 7,
+    "total": 10,
+    "pronto": 10,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 2,
-    "a_agendar": 6
+    "agendado_coord": 4,
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -1367,10 +1367,23 @@ const LINHA_FEED_ITEMS = {
   ],
   "Jota Diesel": [
     {
+      "title": "Na estrada, parceria vale ouro. (Dia do amigo)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Na-estrada-parceria-vale-ouro-Dia-do-amigo-3a333d8db9d2800da910ee340d27f317"
+    },
+    {
       "title": "Economizar combustível começa antes de abastecer.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "30/07",
+      "date": "29/07",
       "missing": [
         "Design"
       ],
@@ -1383,7 +1396,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem move o Brasil merece reconhecimento todos os dias.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/07",
+      "date": "31/07",
       "missing": [
         "Design"
       ],
@@ -1396,11 +1409,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Desempenho não depende só do motor. A manutenção faz toda a diferença.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "24/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Desempenho-n-o-depende-s-do-motor-A-manuten-o-faz-toda-a-diferen-a-39e33d8db9d2804ebdccf740d7428f9f"
@@ -1409,37 +1420,20 @@ const LINHA_FEED_ITEMS = {
       "title": "Mais desempenho não começa no acelerador. Começa na manutenção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "21/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-desempenho-n-o-come-a-no-acelerador-Come-a-na-manuten-o-39e33d8db9d28068b2efd7e9757b590d"
     },
     {
-      "title": "Os sinais aparecem antes do problema. Você está observando?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "16/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Os-sinais-aparecem-antes-do-problema-Voc-est-observando-39e33d8db9d280f8ab3beb24fbe201d8"
-    },
-    {
       "title": "Pequenos cuidados fazem grandes motores durarem mais.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "22/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Pequenos-cuidados-fazem-grandes-motores-durarem-mais-39e33d8db9d280b5ac35cc49c3eccd0e"
@@ -1448,7 +1442,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Se o consumo aumentou, seu veículo pode estar tentando avisar algo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/07",
+      "date": "28/07",
       "missing": [
         "Design"
       ],
@@ -1456,19 +1450,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-o-consumo-aumentou-seu-ve-culo-pode-estar-tentando-avisar-algo-38e33d8db9d28013bb6ce1934fdbbc82"
-    },
-    {
-      "title": "A injeção diesel influencia mais do que você imagina.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "14/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-inje-o-diesel-influencia-mais-do-que-voc-imagina-38e33d8db9d2801aa31dfa711528cfd0"
     },
     {
       "title": "Quem roda muito sabe: confiança se constrói na manutenção.",
@@ -1485,7 +1466,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Motor regulado é menos consumo e mais desempenho.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/07",
+      "date": "27/07",
       "missing": [
         "Design"
       ],
@@ -2359,6 +2340,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
+      "title": "Feito para amigos: Porque toda visita merece se sentir em casa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feito-para-amigos-Porque-toda-visita-merece-se-sentir-em-casa-3a333d8db9d280c189fef3b0be74281a"
+    },
+    {
       "title": "Sua coluna trabalha o dia inteiro. À noite ela precisa do suporte certo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2388,7 +2382,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Metade do ano já passou. Seu colchão ainda entrega o conforto que você precisa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/07",
+      "date": "27/07",
       "missing": [
         "Design"
       ],
@@ -2401,11 +2395,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Acordar sem dores no pescoço começa com a escolha do travesseiro certo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "21/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Acordar-sem-dores-no-pesco-o-come-a-com-a-escolha-do-travesseiro-certo-39d33d8db9d280a289cbcb55aa0257af"
@@ -2414,11 +2406,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Nada melhor que chegar em casa e encontrar o conforto que você merece",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "24/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nada-melhor-que-chegar-em-casa-e-encontrar-o-conforto-que-voc-merece-38f33d8db9d280769fffd988487e5cc0"
@@ -2991,16 +2981,24 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Todo empresário sabe administrar custos. Mas eles sabem administram riscos?",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "30/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Todo-empres-rio-sabe-administrar-custos-Mas-eles-sabem-administram-riscos-3a233d8db9d280b9b311dd1ba48263b7"
+    },
+    {
       "title": "Você sabe quem paga quando um cliente sofre um acidente dentro da sua empresa?",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "27/07",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quem-paga-quando-um-cliente-sofre-um-acidente-dentro-da-sua-empresa-3a233d8db9d28090bd3dd797b9edad0c"
     },
@@ -3042,10 +3040,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-pior-frase-que-algu-m-pode-dizer-depois-de-um-sinistro-Eu-achei-que-isso-estava-coberto-38f33d8db9d2809286fbcd51bb108158"
@@ -3468,7 +3464,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Fortaleza ou Eusébio: duas localizações, mais possibilidades para o seu negócio.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/07",
+      "date": "27/07",
       "missing": [
         "Design"
       ],
@@ -4185,7 +4181,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "24/07",
+      "date": "23/07",
       "missing": [
         "Design"
       ],
@@ -4848,8 +4844,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Jota Diesel": {
-    "prontas": 10,
-    "total": 10
+    "prontas": 8,
+    "total": 9
   },
   "Ventana": {
     "prontas": 0,
@@ -4881,7 +4877,7 @@ const LEGENDAS_DATA = {
   },
   "Ortobom": {
     "prontas": 8,
-    "total": 12
+    "total": 13
   },
   "ItalaP": {
     "prontas": 15,
@@ -4900,7 +4896,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 9,
+    "prontas": 11,
     "total": 11
   },
   "Daniel Maia Advocacia": {
@@ -4962,7 +4958,7 @@ const FORMAT_COUNTS = {
   },
   "Jota Diesel": {
     "post": 9,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 3
@@ -5017,7 +5013,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Ortobom": {
-    "post": 5,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
     "video": 7,
@@ -5052,7 +5048,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 7,
+    "post": 8,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
