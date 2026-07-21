@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 11:31:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 13:18:05 **/
 
-const LAST_UPDATE = '21/07/2026, 11:31:44';
+const LAST_UPDATE = '21/07/2026, 13:18:05';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -108,9 +108,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 10,
     "postado": 1,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 9,
@@ -609,11 +609,11 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 9,
-    "pronto": 7,
-    "postado": 6,
+    "pronto": 8,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -1237,7 +1237,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A prevenção também pode ser acompanhada. Conheça o observatório do Grupo Mulheres do Brasil. (post em collab com o GMdB Fortaleza)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "24/07",
       "missing": [],
@@ -4355,12 +4355,10 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Stories que ja saíram (2)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "21/07",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
@@ -4486,29 +4484,19 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Juntos contra o HPV": [
-    {
-      "title": "I Simpósio | Papel timbrado",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Papel-timbrado-3a333d8db9d280f5a59ef62bb52f0334",
-      "gestora": "Equipe",
-      "date": "20/07"
-    },
-    {
-      "title": "I Simpósio | Templates para apresentação de slides",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Templates-para-apresenta-o-de-slides-3a333d8db9d2809abccec0d8a0e4a01a",
-      "gestora": "Equipe",
-      "date": "20/07"
-    }
-  ],
   "Conecta Assessoria": [
+    {
+      "title": "Vaga para Auxiliar Administrativo",
+      "priority": "pp",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Vaga-para-Auxiliar-Administrativo-3a433d8db9d28096a669f921f8e9fefe",
+      "gestora": "Equipe",
+      "date": "21/07"
+    },
     {
       "title": "Arte para o tráfego",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Arte-para-o-tr-fego-3a333d8db9d280fba752d67416223221",
       "gestora": "Equipe",
       "date": "22/07"
