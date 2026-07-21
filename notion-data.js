@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 19:57:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 20:55:48 **/
 
-const LAST_UPDATE = '21/07/2026, 19:57:59';
+const LAST_UPDATE = '21/07/2026, 20:55:48';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -186,7 +186,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 1,
     "agendado": 12,
     "agendado_coord": 0,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
-    "pronto": 16,
+    "pronto": 20,
     "postado": 1,
     "agendado": 11,
     "agendado_coord": 0,
@@ -1201,7 +1201,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-escola-o-ch-o-onde-a-gente-planta-a-cidadania-e-o-cuidado-com-o-futuro-Como-as-salas-de-aula-39833d8db9d280a6a5c7f27da10d1db0"
     },
     {
-      "title": "Uma conversa de cinco minutos na comunidade pode evitar um diagnóstico trágico daqui a vinte anos. O poder oculto de quem escolhe ser a voz da prevenção. ",
+      "title": "Uma conversa de cinco minutos na comunidade pode evitar um diagnóstico trágico daqui a vinte anos. O poder oculto de quem escolhe ser a voz da prevenção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
@@ -2346,7 +2346,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-pele-vai-lembrar-dos-cuidados-que-voc-teve-hoje-Voc-est-cuidando-dela-38233d8db9d2801e885dd13701cec880"
@@ -2411,10 +2411,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-sil-ncio-uma-das-caracter-sticas-mais-perigosas-das-hepatites-virais-Dia-mundial-da-luta-contr-38233d8db9d28024b375e03e38fe8512"
@@ -2515,10 +2513,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Post-de-anivers-rio-Adriana-Athayde-39c33d8db9d280e8be11f4f4efb5f956"
@@ -2583,10 +2580,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-fez-algo-pela-primeira-vez-38e33d8db9d28096a042e2a782db0659"
@@ -2596,10 +2591,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-j-percebeu-que-toda-mulher-tem-uma-fase-em-que-come-a-a-dizer-mais-n-o-38e33d8db9d280b8b294e3a53875e4f0"
@@ -2609,10 +2602,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-ensinou-as-mulheres-a-cuidar-de-todo-mundo-antes-de-cuidar-de-si-38e33d8db9d28031809bc6af171b5baf"
