@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 09:07:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 11:31:44 **/
 
-const LAST_UPDATE = '21/07/2026, 09:07:11';
+const LAST_UPDATE = '21/07/2026, 11:31:44';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -108,9 +108,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 10,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 9,
@@ -562,10 +562,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -1180,7 +1180,7 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "“A tecnologia nos dá a velocidade, mas é o calor humano que gera a confiança.”",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -1226,9 +1226,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Juh, quem já teve HPV pode tomar a vacina? H2: Sim! Mesmo quem já teve contato com o HPV pode se beneficiar da vacinação, pois ela protege contra diferentes tipos do vírus. H3: Em caso de dúvidas, procure uma unidade de saúde ou converse com a Juh.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "20/07",
+      "date": "21/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4301,9 +4301,9 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Existem doenças que podem passar anos sem apresentar sintomas.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "23/07",
+      "date": "21/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
