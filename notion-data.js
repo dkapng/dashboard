@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 18:58:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 19:57:59 **/
 
-const LAST_UPDATE = '21/07/2026, 18:58:37';
+const LAST_UPDATE = '21/07/2026, 19:57:59';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -227,7 +227,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 7,
+    "pronto": 9,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 4,
@@ -235,7 +235,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 15,
-    "pronto": 13,
+    "pronto": 15,
     "postado": 0,
     "agendado": 12,
     "agendado_coord": 0,
@@ -655,7 +655,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Boteco-com-os-amigos-na-AAFEC-39d33d8db9d280cdab59de3863f85f5f"
     },
     {
-      "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?\n",
+      "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/07",
@@ -2976,10 +2976,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-empresa-recebeu-uma-notifica-o-do-Minist-rio-P-blico-E-agora-38f33d8db9d280119336e92fec49e0cb"
@@ -2989,10 +2987,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-vale-a-pena-transformar-uma-empresa-LTDA-em-Sociedade-An-nima-38f33d8db9d280b88491ed8bafb01451"
@@ -3081,10 +3077,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-voc-fez-pela-sua-sa-de-al-m-de-prometer-que-iria-cuidar-dela-38933d8db9d2807ebf34c1f9b1a11674"
@@ -3094,10 +3088,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aos-30-sa-de-conveni-ncia-Aos-60-ela-vira-prioridade-38933d8db9d28060b704e56754713137"
