@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 20:50:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/07/2026, 22:58:20 **/
 
-const LAST_UPDATE = '20/07/2026, 20:50:59';
+const LAST_UPDATE = '20/07/2026, 22:58:20';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 12,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -465,7 +465,7 @@ const STORIES_DATA = {
   },
   "Tramix": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -608,12 +608,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 8,
+    "total": 9,
     "pronto": 7,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1,
+    "a_agendar": 2,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -1240,10 +1240,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-preven-o-tamb-m-pode-ser-acompanhada-Conhe-a-o-observat-rio-do-Grupo-Mulheres-do-Brasil-post-e-39833d8db9d280a2871cc638ca0c44a8"
@@ -3978,10 +3976,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "21/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-cliente-percebe-um-bom-acabamento-Mesmo-sem-entender-de-costura-39933d8db9d28075af29cedfaab24155"
@@ -4344,6 +4340,19 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "Stories que já saíram",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-que-j-sa-ram-38f33d8db9d28058a3aaf13a824f60d4"
+    },
     {
       "title": "Stories que ja saíram (2)",
       "status": "a_agendar",
@@ -4896,7 +4905,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 2,
-    "story": 8
+    "story": 9
   },
   "Solar Coworking": {
     "post": 7,
