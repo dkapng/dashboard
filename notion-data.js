@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 13:18:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 14:51:09 **/
 
-const LAST_UPDATE = '21/07/2026, 13:18:05';
+const LAST_UPDATE = '21/07/2026, 14:51:09';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4538,16 +4538,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Altera-o-de-endere-o-39f33d8db9d280d7bcbdd1f580aceeaf",
       "gestora": "Equipe",
       "date": "20/07"
-    }
-  ],
-  "Solar Coworking": [
-    {
-      "title": "Cartão de boas-vindas para novos clientes",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Cart-o-de-boas-vindas-para-novos-clientes-39933d8db9d28026844bf9e4db2268df",
-      "gestora": "Equipe",
-      "date": "14/07"
     }
   ],
   "APROSSEG": [
