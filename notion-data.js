@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 17:41:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 18:58:37 **/
 
-const LAST_UPDATE = '21/07/2026, 17:41:44';
+const LAST_UPDATE = '21/07/2026, 18:58:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -235,7 +235,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 15,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 0,
     "agendado": 12,
     "agendado_coord": 0,
@@ -3097,7 +3097,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aos-30-sa-de-conveni-ncia-Aos-60-ela-vira-prioridade-38933d8db9d28060b704e56754713137"
@@ -3107,10 +3107,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Chega-um-momento-em-que-os-filhos-come-am-a-cuidar-dos-pais-E-essa-conversa-costuma-chegar-mais-ced-38933d8db9d280199ce8cc7280fb2c87"
@@ -4484,6 +4482,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Vídeo promoção Mayara",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
+      "gestora": "Equipe",
+      "date": "22/07"
+    }
+  ],
   "Conecta Assessoria": [
     {
       "title": "Vaga para Auxiliar Administrativo",
@@ -4492,14 +4500,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Vaga-para-Auxiliar-Administrativo-3a433d8db9d28096a669f921f8e9fefe",
       "gestora": "Equipe",
       "date": "21/07"
-    },
-    {
-      "title": "Arte para o tráfego",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Arte-para-o-tr-fego-3a333d8db9d280fba752d67416223221",
-      "gestora": "Equipe",
-      "date": "22/07"
     }
   ],
   "Tramix": [
@@ -4722,7 +4722,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 17,
-    "total": 17
+    "total": 18
   },
   "Solar Coworking": {
     "prontas": 11,
@@ -5001,7 +5001,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Conecta Assessoria": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 1,
     "evento": 0
   },
