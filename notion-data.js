@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 16:07:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 17:41:44 **/
 
-const LAST_UPDATE = '21/07/2026, 16:07:23';
+const LAST_UPDATE = '21/07/2026, 17:41:44';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4619,15 +4619,15 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Planos Seguros": "confirmada",
+  "Ortobom": "confirmada",
   "Jota Diesel": "confirmada",
   "Rede Pangeia": "cancelada",
   "Travessias Híbridas": "marcada",
   "APROSSEG": "marcada",
-  "Ortobom": "confirmada",
   "Conecta Assessoria": "marcada",
   "ItalaP": "marcada",
   "Finseg Leal": "marcada",
-  "Planos Seguros": "marcada",
   "Daniel Maia Advocacia": "marcada",
   "Grupo Mulheres do Brasil": "marcada",
   "Stratto": "marcada"
@@ -4957,7 +4957,7 @@ const AGENDA_COUNTS = {
   },
   "Planos Seguros": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "Plannea": {
@@ -4967,7 +4967,7 @@ const AGENDA_COUNTS = {
   },
   "Ortobom": {
     "reuniao": 0,
-    "producao": 2,
+    "producao": 3,
     "evento": 0
   },
   "ItalaP": {
