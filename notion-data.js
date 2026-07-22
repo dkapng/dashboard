@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 16:01:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 17:35:40 **/
 
-const LAST_UPDATE = '22/07/2026, 16:01:18';
+const LAST_UPDATE = '22/07/2026, 17:35:40';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -488,12 +488,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 3,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -4017,19 +4017,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-39e33d8db9d2807f9504c610290fc0e9"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "17/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39e33d8db9d280e7a8d6e29b8a6de92a"
     }
   ],
   "Ventana": [],
@@ -4798,7 +4785,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   },
   "Ventana": {
     "post": 0,
