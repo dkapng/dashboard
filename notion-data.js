@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 09:22:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 11:32:24 **/
 
-const LAST_UPDATE = '22/07/2026, 09:22:34';
+const LAST_UPDATE = '22/07/2026, 11:32:24';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -169,12 +169,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Plannea": {
-    "total": 12,
+    "total": 13,
     "pronto": 12,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Ortobom": {
     "total": 6,
@@ -234,9 +234,9 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Conecta Assessoria": {
-    "total": 15,
-    "pronto": 15,
-    "postado": 0,
+    "total": 16,
+    "pronto": 16,
+    "postado": 1,
     "agendado": 12,
     "agendado_coord": 0,
     "a_agendar": 3
@@ -2112,6 +2112,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Juntar fotos",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Juntar-fotos-3a533d8db9d2804981a2eebb5d54af20"
+    },
+    {
       "title": "Sua empresa escolhe fornecedores apenas pelo preço? Isso pode mudar com a Reforma Tributária",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3057,6 +3070,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "Vaga para Auxiliar Administrativo",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vaga-para-Auxiliar-Administrativo-3a433d8db9d280b58adccf569355de43"
+    },
     {
       "title": "O que você fez pela sua saúde além de prometer que iria cuidar dela?",
       "status": "a_agendar",
@@ -4596,6 +4620,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "RR Advocacia": "marcada",
   "Planos Seguros": "confirmada",
   "Ortobom": "confirmada",
   "Jota Diesel": "confirmada",
@@ -4666,8 +4691,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Plannea": {
-    "prontas": 10,
-    "total": 12
+    "prontas": 11,
+    "total": 13
   },
   "Ortobom": {
     "prontas": 11,
@@ -4698,7 +4723,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Conecta Assessoria": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 18
   },
   "Solar Coworking": {
@@ -4800,7 +4825,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Plannea": {
-    "post": 10,
+    "post": 11,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
@@ -4856,7 +4881,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Conecta Assessoria": {
-    "post": 15,
+    "post": 16,
     "carrossel": 0,
     "foto": 0,
     "video": 2,
@@ -4923,8 +4948,8 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "RR Advocacia": {
-    "reuniao": 0,
-    "producao": 0,
+    "reuniao": 1,
+    "producao": 1,
     "evento": 0
   },
   "Rede Pangeia": {
