@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 11:32:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 13:16:12 **/
 
-const LAST_UPDATE = '22/07/2026, 11:32:24';
+const LAST_UPDATE = '22/07/2026, 13:16:12';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -170,7 +170,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 0,
     "agendado": 7,
     "agendado_coord": 0,
@@ -2116,10 +2116,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Juntar-fotos-3a533d8db9d2804981a2eebb5d54af20"
