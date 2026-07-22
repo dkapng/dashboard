@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 14:47:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 16:01:18 **/
 
-const LAST_UPDATE = '22/07/2026, 14:47:24';
+const LAST_UPDATE = '22/07/2026, 16:01:18';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -97,12 +97,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Stratto": {
-    "total": 12,
-    "pronto": 10,
+    "total": 13,
+    "pronto": 11,
     "postado": 2,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 12,
@@ -601,11 +601,11 @@ const STORIES_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 2,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 9,
@@ -1040,6 +1040,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Stratto": [
+    {
+      "title": "Hoje celebramos você, Fabiano!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Hoje-celebramos-voc-Fabiano-3a533d8db9d2800197e5efaea7e311bc"
+    },
     {
       "title": "Quanto do seu faturamento realmente fica na empresa?",
       "status": "a_agendar",
@@ -4325,17 +4336,15 @@ const LINHA_STORIES_ITEMS = {
   "APROSSEG": [],
   "Daniel Maia Advocacia": [
     {
-      "title": "Story/stories",
-      "status": "a_agendar",
+      "title": "Aniversário da Sofia",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "22/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3a533d8db9d2808781c6c0b0269778a4"
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Sofia-3a533d8db9d2808781c6c0b0269778a4"
     },
     {
       "title": "Feliz aniversário, Emily",
@@ -4494,6 +4503,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ventana": [
+    {
+      "title": "Briefing e e-mail de boas vindas",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Briefing-e-e-mail-de-boas-vindas-3a533d8db9d280b1bedbca459c754824",
+      "gestora": "Equipe",
+      "date": "27/07"
+    },
+    {
+      "title": "Melhorias no Notion (2025-04)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
+      "gestora": "Equipe",
+      "date": "08/05"
+    }
+  ],
   "Plannea": [
     {
       "title": "Vídeo promoção Mayara",
@@ -4572,16 +4599,6 @@ const DEMANDAS_EXTRAS = {
       "date": "17/06"
     }
   ],
-  "Ventana": [
-    {
-      "title": "Melhorias no Notion (2025-04)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
-      "gestora": "Equipe",
-      "date": "08/05"
-    }
-  ],
   "Finseg Leal": [
     {
       "title": "Diagnóstico de proteções - Versão de Apresentação",
@@ -4621,6 +4638,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Conecta Assessoria": "marcada",
   "RR Advocacia": "marcada",
   "Planos Seguros": "confirmada",
   "Ortobom": "confirmada",
@@ -4628,7 +4646,6 @@ const CAPTACAO_DATA = {
   "Rede Pangeia": "cancelada",
   "Travessias Híbridas": "marcada",
   "APROSSEG": "marcada",
-  "Conecta Assessoria": "marcada",
   "ItalaP": "marcada",
   "Finseg Leal": "marcada",
   "Daniel Maia Advocacia": "marcada",
@@ -4656,8 +4673,8 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Stratto": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 16,
+    "total": 16
   },
   "Juntos contra o HPV": {
     "prontas": 12,
@@ -4763,7 +4780,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Stratto": {
-    "post": 8,
+    "post": 9,
     "carrossel": 4,
     "foto": 0,
     "video": 3,
@@ -4934,7 +4951,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ventana": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 0,
     "evento": 0
   },
@@ -5005,7 +5022,7 @@ const AGENDA_COUNTS = {
   },
   "Conecta Assessoria": {
     "reuniao": 2,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "Solar Coworking": {
