@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 13:16:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 14:47:24 **/
 
-const LAST_UPDATE = '22/07/2026, 13:16:12';
+const LAST_UPDATE = '22/07/2026, 14:47:24';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -530,10 +530,10 @@ const STORIES_DATA = {
   "Rede Pangeia": {
     "total": 5,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 4,
@@ -600,12 +600,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 9,
@@ -4126,7 +4126,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#DicaDaSemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "22/07",
       "missing": [],
@@ -4325,6 +4325,19 @@ const LINHA_STORIES_ITEMS = {
   "APROSSEG": [],
   "Daniel Maia Advocacia": [
     {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "22/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3a533d8db9d2808781c6c0b0269778a4"
+    },
+    {
       "title": "Feliz aniversário, Emily",
       "status": "postado",
       "formato": "📱 Story",
@@ -4489,16 +4502,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
       "gestora": "Equipe",
       "date": "22/07"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Vaga para Auxiliar Administrativo",
-      "priority": "pp",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Vaga-para-Auxiliar-Administrativo-3a433d8db9d28096a669f921f8e9fefe",
-      "gestora": "Equipe",
-      "date": "21/07"
     }
   ],
   "Tramix": [
@@ -4876,7 +4879,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 3,
-    "story": 1
+    "story": 2
   },
   "Conecta Assessoria": {
     "post": 16,
