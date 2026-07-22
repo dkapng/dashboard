@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 20:55:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/07/2026, 23:01:54 **/
 
-const LAST_UPDATE = '21/07/2026, 20:55:48';
+const LAST_UPDATE = '21/07/2026, 23:01:54';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 12,
-    "pronto": 10,
+    "pronto": 12,
     "postado": 1,
     "agendado": 9,
     "agendado_coord": 0,
@@ -186,7 +186,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 1,
     "agendado": 12,
     "agendado_coord": 0,
@@ -1205,10 +1205,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-conversa-de-cinco-minutos-na-comunidade-pode-evitar-um-diagn-stico-tr-gico-daqui-a-vinte-anos-O-39833d8db9d280f39b35c8e29d045142"
@@ -1262,10 +1260,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tira-d-vidas-com-a-Juh-02-Se-eu-tomei-a-vacina-contra-o-HPV-ainda-preciso-fazer-o-exame-preventi-13933d8db9d2827fb30881864c69ca06"
@@ -2343,10 +2339,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-pele-vai-lembrar-dos-cuidados-que-voc-teve-hoje-Voc-est-cuidando-dela-38233d8db9d2801e885dd13701cec880"
