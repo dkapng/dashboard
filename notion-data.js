@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 20:08:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 21:58:15 **/
 
-const LAST_UPDATE = '22/07/2026, 20:08:34';
+const LAST_UPDATE = '22/07/2026, 21:58:15';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,11 +81,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 9,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 4,
-    "a_agendar": 4,
+    "agendado_coord": 3,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Tramix": {
@@ -904,13 +904,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que é ser ponte em uma cidade onde falta comida em milhares de casas?",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "20/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-ser-ponte-em-uma-cidade-onde-falta-comida-em-milhares-de-casas-34933d8db9d28094853fd9946496dc6a"
@@ -4516,6 +4514,64 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
       "gestora": "Equipe",
       "date": "22/07"
+    }
+  ],
+  "Juntos contra o HPV": [
+    {
+      "title": "I Simpósio | Camisa",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Plaquinhas de tempo",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Plaquinhas-de-tempo-3a333d8db9d280658b21e84b4fc070fa",
+      "gestora": "Equipe",
+      "date": "24/07"
+    },
+    {
+      "title": "I Simpósio | Ecobag",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Bloco de notas",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Caneta",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Caneta-3a333d8db9d280eb8032ccfb20a48952",
+      "gestora": "Equipe",
+      "date": "24/07"
+    },
+    {
+      "title": "I Simpósio | Crachá e cordão personalizado",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Crach-e-cord-o-personalizado-3a333d8db9d280b8a108cb2356b3d28f",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Capas para Facebook e LinkedIn",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
+      "gestora": "Equipe",
+      "date": "24/07"
     }
   ],
   "Tramix": [
