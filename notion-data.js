@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 14:11:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 15:42:57 **/
 
-const LAST_UPDATE = '23/07/2026, 14:11:54';
+const LAST_UPDATE = '23/07/2026, 15:42:57';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -99,10 +99,10 @@ const FEED_DATA = {
   "Stratto": {
     "total": 14,
     "pronto": 12,
-    "postado": 3,
+    "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
     "total": 12,
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
-    "total": 20,
+    "total": 19,
     "pronto": 19,
     "postado": 2,
     "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 6,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -234,12 +234,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 16,
+    "total": 17,
     "pronto": 16,
     "postado": 1,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 7,
@@ -489,11 +489,11 @@ const STORIES_DATA = {
   },
   "Jota Diesel": {
     "total": 2,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -1035,7 +1035,7 @@ const LINHA_FEED_ITEMS = {
   "Stratto": [
     {
       "title": "Hoje é dia de celebrar o Victor!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "23/07",
       "missing": [],
@@ -2509,20 +2509,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Propaganda da camisa e do lenço sobre o Summit",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "23/07",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Propaganda-da-camisa-e-do-len-o-sobre-o-Summit-3a633d8db9d280469790caa5296f1970"
-    },
-    {
       "title": "#TBT",
       "status": "agendado",
       "formato": "🎠 Carrossel",
@@ -3072,6 +3058,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "Trend CPFxCNPJ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "23/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Trend-CPFxCNPJ-3a633d8db9d2806f8126e2489c151141"
+    },
     {
       "title": "Vaga para Auxiliar Administrativo",
       "status": "postado",
@@ -4000,12 +4000,10 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "23/07",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -4605,7 +4603,7 @@ const DEMANDAS_EXTRAS = {
   ],
   "Terrartesã": [
     {
-      "title": "Alteração de endereço ",
+      "title": "Alteração de endereço",
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Altera-o-de-endere-o-39f33d8db9d280d7bcbdd1f580aceeaf",
@@ -4620,7 +4618,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Anivers-riantes-do-m-s-39833d8db9d280eda03fc5b410bf0b96",
       "gestora": "Equipe",
-      "date": "13/07"
+      "date": "27/07"
     }
   ],
   "Ser Ponte": [
@@ -4766,7 +4764,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 21,
-    "total": 23
+    "total": 22
   },
   "Finseg Leal": {
     "prontas": 18,
@@ -4786,7 +4784,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 18,
-    "total": 18
+    "total": 19
   },
   "Solar Coworking": {
     "prontas": 11,
@@ -4909,7 +4907,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 17,
-    "carrossel": 3,
+    "carrossel": 2,
     "foto": 0,
     "video": 4,
     "story": 0
@@ -4944,7 +4942,7 @@ const FORMAT_COUNTS = {
   },
   "Conecta Assessoria": {
     "post": 16,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 2,
     "story": 9
