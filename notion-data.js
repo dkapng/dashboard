@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/07/2026, 21:58:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 01:15:19 **/
 
-const LAST_UPDATE = '22/07/2026, 21:58:15';
+const LAST_UPDATE = '23/07/2026, 01:15:19';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -65,7 +65,7 @@ const NICHES = {
 const FEED_DATA = {
   "AAFEC": {
     "total": 6,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -146,7 +146,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 11,
-    "pronto": 8,
+    "pronto": 11,
     "postado": 2,
     "agendado": 6,
     "agendado_coord": 0,
@@ -154,7 +154,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 12,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 1,
     "agendado": 9,
     "agendado_coord": 0,
@@ -203,7 +203,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 11,
+    "pronto": 14,
     "postado": 0,
     "agendado": 10,
     "agendado_coord": 1,
@@ -529,7 +529,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 5,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -633,23 +633,19 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-seu-artista-preferido-na-nossa-Galeria-da-Fama-39d33d8db9d2801ab5f9e69dacdf6e61"
     },
     {
-      "title": "Boteco com os amigos é na AAFEC!\n",
+      "title": "Boteco com os amigos é na AAFEC!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Boteco-com-os-amigos-na-AAFEC-39d33d8db9d280cdab59de3863f85f5f"
@@ -660,10 +656,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabia-que-a-AAFEC-oferece-academia-gratuita-aos-associados-39d33d8db9d2806a9fc5deab6b03d0de"
@@ -1743,10 +1738,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-os-seus-direitos-em-caso-de-acidente-de-trabalho-39033d8db9d28014bca5cc3069918f7c"
@@ -1756,10 +1749,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Assinou-um-contrato-sem-ler-todos-os-detalhes-Isso-pode-gerar-consequ-ncias-39033d8db9d280dbac3cff062a1f4d26"
@@ -1769,10 +1760,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Im-vel-irregular-pode-trazer-preju-zos-na-hora-de-vender-ou-financiar-39033d8db9d280fd9ac4ce90e8c8141b"
@@ -1872,10 +1861,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-esse-recurso-acabar-amanh-sua-organiza-o-continua-de-p-38833d8db9d2800da6ffd2de539ca168"
@@ -2739,10 +2726,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-trabalha-por-conta-pr-pria-tamb-m-precisa-proteger-o-pr-prio-faturamento-38f33d8db9d280e9ac31fe909fe26aa9"
@@ -2752,10 +2737,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Burnout-h-rnia-de-disco-e-les-es-podem-interromper-sua-renda-por-meses-Voc-est-preparado-38f33d8db9d280c18142d9e105e244b2"
@@ -2765,10 +2748,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-maior-fonte-de-renda-n-o-est-no-banco-Est-na-sua-capacidade-de-trabalhar-38f33d8db9d2806c801ae85749b17452"
@@ -4112,10 +4093,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/DicaDaSemana-38833d8db9d280769805ee2a26deb4cf"
@@ -4572,6 +4551,14 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
       "gestora": "Equipe",
       "date": "24/07"
+    },
+    {
+      "title": "I Simpósio | Backdrops",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
+      "gestora": "Equipe",
+      "date": "30/07"
     }
   ],
   "Tramix": [
