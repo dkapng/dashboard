@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 12:32:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 14:11:54 **/
 
-const LAST_UPDATE = '23/07/2026, 12:32:31';
+const LAST_UPDATE = '23/07/2026, 14:11:54';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -98,7 +98,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 14,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 3,
     "agendado": 8,
     "agendado_coord": 0,
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
-    "total": 19,
+    "total": 20,
     "pronto": 19,
     "postado": 2,
     "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 5,
+    "a_agendar": 6,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -1038,10 +1038,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "23/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hoje-dia-de-celebrar-o-Victor-3a633d8db9d2805486c0ee238ce851cb"
@@ -2510,6 +2508,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Propaganda da camisa e do lenço sobre o Summit",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "23/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Propaganda-da-camisa-e-do-len-o-sobre-o-Summit-3a633d8db9d280469790caa5296f1970"
+    },
     {
       "title": "#TBT",
       "status": "agendado",
@@ -4754,7 +4766,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 21,
-    "total": 22
+    "total": 23
   },
   "Finseg Leal": {
     "prontas": 18,
@@ -4897,7 +4909,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 17,
-    "carrossel": 2,
+    "carrossel": 3,
     "foto": 0,
     "video": 4,
     "story": 0
