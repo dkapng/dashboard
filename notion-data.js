@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 08:46:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 10:29:51 **/
 
-const LAST_UPDATE = '23/07/2026, 08:46:26';
+const LAST_UPDATE = '23/07/2026, 10:29:51';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -936,7 +936,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Produzir com qualidade também é pensar no pós-venda",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/07",
+      "date": "23/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3949,7 +3949,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "O trabalho da confecção termina quando a peça sai da máquina? ",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "23/07",
+      "date": "25/07",
       "missing": [
         "Design"
       ],
