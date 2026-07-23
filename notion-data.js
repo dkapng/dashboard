@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 15:42:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 17:08:14 **/
 
-const LAST_UPDATE = '23/07/2026, 15:42:57';
+const LAST_UPDATE = '23/07/2026, 17:08:14';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4599,16 +4599,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Capa-e-avatar-para-o-canal-do-Youtube-3a033d8db9d280b2ad5cd795c8627c99",
       "gestora": "Equipe",
       "date": "17/07"
-    }
-  ],
-  "Terrartesã": [
-    {
-      "title": "Alteração de endereço",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Altera-o-de-endere-o-39f33d8db9d280d7bcbdd1f580aceeaf",
-      "gestora": "Equipe",
-      "date": "20/07"
     }
   ],
   "APROSSEG": [
