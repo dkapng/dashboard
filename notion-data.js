@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 10:29:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/07/2026, 12:32:31 **/
 
-const LAST_UPDATE = '23/07/2026, 10:29:51';
+const LAST_UPDATE = '23/07/2026, 12:32:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -97,9 +97,9 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Stratto": {
-    "total": 13,
+    "total": 14,
     "pronto": 11,
-    "postado": 2,
+    "postado": 3,
     "agendado": 8,
     "agendado_coord": 0,
     "a_agendar": 3
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
-    "total": 20,
-    "pronto": 20,
-    "postado": 1,
+    "total": 19,
+    "pronto": 19,
+    "postado": 2,
     "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 7,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -229,9 +229,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 9,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 5,
     "agendado_coord": 4,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 16,
@@ -1034,8 +1034,21 @@ const LINHA_FEED_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "Hoje celebramos você, Fabiano!",
+      "title": "Hoje é dia de celebrar o Victor!",
       "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Hoje-dia-de-celebrar-o-Victor-3a633d8db9d2805486c0ee238ce851cb"
+    },
+    {
+      "title": "Hoje celebramos você, Fabiano!",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -2622,7 +2635,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que se perde quando saberes tradicionais deixam de ser transmitidos?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -2652,17 +2665,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-muda-quando-uma-menina-cresce-cercada-de-refer-ncias-femininas-38e33d8db9d280e3a403cac15c40decf"
-    },
-    {
-      "title": "Existem amizades que mudam uma vida. Algumas mudam um país. (Dia do amigo)",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "20/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Existem-amizades-que-mudam-uma-vida-Algumas-mudam-um-pa-s-Dia-do-amigo-38e33d8db9d280ba998adbc016dbb607"
     },
     {
       "title": "Quantas dores femininas ainda são tratadas como exagero?",
@@ -2959,7 +2961,7 @@ const LINHA_FEED_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "A empresa recebeu uma notificação do Ministério Público. E agora?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/07",
       "missing": [],
@@ -2970,7 +2972,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando vale a pena transformar uma empresa LTDA em Sociedade Anônima?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/07",
       "missing": [],
@@ -4703,8 +4705,8 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Stratto": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 17,
+    "total": 17
   },
   "Juntos contra o HPV": {
     "prontas": 12,
@@ -4751,8 +4753,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 22,
-    "total": 23
+    "prontas": 21,
+    "total": 22
   },
   "Finseg Leal": {
     "prontas": 18,
@@ -4810,7 +4812,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Stratto": {
-    "post": 9,
+    "post": 10,
     "carrossel": 4,
     "foto": 0,
     "video": 3,
@@ -4894,7 +4896,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 18,
+    "post": 17,
     "carrossel": 2,
     "foto": 0,
     "video": 4,
