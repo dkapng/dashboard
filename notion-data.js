@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 14:01:43 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 15:54:07 **/
 
-const LAST_UPDATE = '24/07/2026, 14:01:43';
+const LAST_UPDATE = '24/07/2026, 15:54:07';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -633,11 +633,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabia-que-a-AAFEC-oferece-academia-gratuita-aos-associados-39d33d8db9d2806a9fc5deab6b03d0de"
     },
@@ -646,11 +644,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Saiba-tudo-sobre-seus-direitos-no-encontro-mensal-dos-associados-39d33d8db9d280ab8362f58fb53cf578"
     },
@@ -3346,11 +3342,9 @@ const LINHA_VIDEO_ITEMS = {
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "27/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Forma-o-de-multiplicadores-Teju-uoca-39833d8db9d280939849cfaf9b273c85"
     }
@@ -4603,6 +4597,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Juntos contra o HPV": "marcada",
   "Conecta Assessoria": "marcada",
   "RR Advocacia": "marcada",
   "Planos Seguros": "confirmada",
@@ -4622,7 +4617,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 3,
+    "prontas": 5,
     "total": 5
   },
   "Travessias Híbridas": {
@@ -4642,7 +4637,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Juntos contra o HPV": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 13
   },
   "Jota Diesel": {
@@ -4907,7 +4902,7 @@ const AGENDA_COUNTS = {
   },
   "Juntos contra o HPV": {
     "reuniao": 2,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Jota Diesel": {
