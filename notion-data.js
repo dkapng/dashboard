@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 08:59:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 10:52:11 **/
 
-const LAST_UPDATE = '24/07/2026, 08:59:31';
+const LAST_UPDATE = '24/07/2026, 10:52:11';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 6,
-    "pronto": 6,
+    "total": 4,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Travessias Híbridas": {
     "total": 10,
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 9,
+    "total": 6,
     "pronto": 5,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 3,
-    "a_agendar": 5,
+    "agendado_coord": 1,
+    "a_agendar": 4,
     "st-paused": null
   },
   "Tramix": {
@@ -456,12 +456,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 2,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Tramix": {
     "total": 2,
@@ -629,32 +629,10 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
-      "title": "O seu artista preferido na nossa Galeria da Fama",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "31/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-seu-artista-preferido-na-nossa-Galeria-da-Fama-39d33d8db9d2801ab5f9e69dacdf6e61"
-    },
-    {
-      "title": "Boteco com os amigos é na AAFEC!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Boteco-com-os-amigos-na-AAFEC-39d33d8db9d280cdab59de3863f85f5f"
-    },
-    {
       "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "31/07",
       "missing": [
         "Legenda"
       ],
@@ -667,7 +645,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Saiba tudo sobre seus direitos no encontro mensal dos associados",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/07",
+      "date": "29/07",
       "missing": [
         "Legenda"
       ],
@@ -680,7 +658,7 @@ const LINHA_FEED_ITEMS = {
       "title": "1 em cada 4 idosos no mundo pode estar em situação de isolamento social (em foto menor: Mas envelhecer não precisa significar viver sozinho.)",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "22/07",
+      "date": "27/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -691,7 +669,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você não precisa viver a terceira idade sozinho",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "20/07",
+      "date": "24/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -813,19 +791,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ser Ponte": [
     {
-      "title": "Como você definiria nosso trabalho em uma palavra?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Como-voc-definiria-nosso-trabalho-em-uma-palavra-3a333d8db9d280ef98d3dc9be3114612"
-    },
-    {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -840,7 +805,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você toparia apresentar a Ser Ponte para três pessoas?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/07",
+      "date": "27/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -859,36 +824,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-que-acompanha-a-Ser-Ponte-aqui-nas-redes-sociais-como-voc-definiria-o-nosso-trabalho-em-uma-p-34933d8db9d2807f8b0adad10765f3fe"
     },
     {
-      "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
-      "status": "agendado_coord",
-      "formato": "🎠 Carrossel",
-      "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
-    },
-    {
-      "title": "Existe uma Fortaleza que não chega no fim do mês.",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "27/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Existe-uma-Fortaleza-que-n-o-chega-no-fim-do-m-s-34933d8db9d28002b145e0f13bdf673d"
-    },
-    {
       "title": "Quem decide quem recebe esse dinheiro?",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "24/07",
+      "date": "31/07",
       "missing": [
         "Design"
       ],
@@ -901,7 +840,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O que é ser ponte em uma cidade onde falta comida em milhares de casas?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "20/07",
+      "date": "24/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -925,7 +864,7 @@ const LINHA_FEED_ITEMS = {
       "title": "À primeira vista dois produtos podem parecer iguais, mas a diferença surge com o tempo",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/07",
+      "date": "31/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -936,7 +875,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Produzir com qualidade também é pensar no pós-venda",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "23/07",
+      "date": "29/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -947,7 +886,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A produtividade também depende dos materiais",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/07",
+      "date": "24/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3342,7 +3281,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "#TBT",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "23/07",
+      "date": "30/07",
       "missing": [
         "Vídeo"
       ],
@@ -3932,23 +3871,10 @@ const LINHA_STORIES_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
-      "title": "Quando a renda não é suficiente",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "28/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-39733d8db9d28033aa72c8ca28100bc8"
-    },
-    {
       "title": "O que é ser ponte?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "21/07",
+      "date": "29/07",
       "missing": [
         "Design"
       ],
@@ -3976,7 +3902,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Seu cliente percebe um bom acabamento. Mesmo sem entender de costura.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "21/07",
+      "date": "28/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4689,16 +4615,16 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 5,
-    "total": 7
+    "prontas": 3,
+    "total": 5
   },
   "Travessias Híbridas": {
     "prontas": 11,
     "total": 11
   },
   "Ser Ponte": {
-    "prontas": 9,
-    "total": 9
+    "prontas": 6,
+    "total": 6
   },
   "Tramix": {
     "prontas": 10,
@@ -4784,7 +4710,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 4,
+    "post": 2,
     "carrossel": 2,
     "foto": 0,
     "video": 1,
@@ -4798,11 +4724,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 7,
-    "carrossel": 2,
+    "post": 5,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 1
   },
   "Tramix": {
     "post": 10,
@@ -4973,7 +4899,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Juntos contra o HPV": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 0,
     "evento": 0
   },
