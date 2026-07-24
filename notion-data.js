@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 17:13:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 18:34:34 **/
 
-const LAST_UPDATE = '24/07/2026, 17:13:32';
+const LAST_UPDATE = '24/07/2026, 18:34:34';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 6,
-    "pronto": 5,
+    "total": 7,
+    "pronto": 6,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 4,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Tramix": {
@@ -786,6 +786,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ser Ponte": [
+    {
+      "title": "Save the Date - Parte 2 do Bazar Solidário",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Save-the-Date-Parte-2-do-Bazar-Solid-rio-3a733d8db9d280af912fc6776f49db9c"
+    },
     {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
       "status": "a_agendar",
@@ -4626,7 +4639,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 6,
-    "total": 6
+    "total": 7
   },
   "Tramix": {
     "prontas": 10,
@@ -4726,7 +4739,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 5,
+    "post": 6,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
