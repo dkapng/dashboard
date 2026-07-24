@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 10:52:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 12:21:43 **/
 
-const LAST_UPDATE = '24/07/2026, 10:52:11';
+const LAST_UPDATE = '24/07/2026, 12:21:43';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -235,7 +235,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 17,
-    "pronto": 16,
+    "pronto": 17,
     "postado": 1,
     "agendado": 12,
     "agendado_coord": 0,
@@ -3003,10 +3003,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "23/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Trend-CPFxCNPJ-3a633d8db9d2806f8126e2489c151141"
@@ -4405,6 +4404,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ortobom": [
+    {
+      "title": "Configuração de mensagens automáticas no Instagram.",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
+      "gestora": "Equipe",
+      "date": "28/07"
+    }
+  ],
   "Ventana": [
     {
       "title": "Briefing e e-mail de boas vindas",
