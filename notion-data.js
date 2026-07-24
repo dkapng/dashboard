@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 12:21:43 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 14:01:43 **/
 
-const LAST_UPDATE = '24/07/2026, 12:21:43';
+const LAST_UPDATE = '24/07/2026, 14:01:43';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -236,10 +236,10 @@ const FEED_DATA = {
   "Conecta Assessoria": {
     "total": 17,
     "pronto": 17,
-    "postado": 1,
+    "postado": 2,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 7,
@@ -2999,14 +2999,12 @@ const LINHA_FEED_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Trend CPFxCNPJ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "23/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Trend-CPFxCNPJ-3a633d8db9d2806f8126e2489c151141"
     },
@@ -4708,7 +4706,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Conecta Assessoria": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 19
   },
   "Solar Coworking": {
