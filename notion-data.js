@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 15:54:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 17:13:32 **/
 
-const LAST_UPDATE = '24/07/2026, 15:54:07';
+const LAST_UPDATE = '24/07/2026, 17:13:32';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -522,10 +522,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 5,
     "pronto": 4,
-    "postado": 2,
+    "postado": 3,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 5,
@@ -3960,7 +3960,7 @@ const LINHA_STORIES_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Você conhece todos os seus direitos?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "23/07",
       "missing": [],
