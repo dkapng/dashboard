@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/07/2026, 23:33:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/07/2026, 02:36:41 **/
 
-const LAST_UPDATE = '24/07/2026, 23:33:35';
+const LAST_UPDATE = '25/07/2026, 02:36:41';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4521,24 +4521,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
       "gestora": "Equipe",
       "date": "21/07"
-    }
-  ],
-  "Travessias Híbridas": [
-    {
-      "title": "Atualizar capa do Facebook com a régua nova",
-      "priority": "pppp",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Atualizar-capa-do-Facebook-com-a-r-gua-nova-3a033d8db9d28035ab12c90237ac008c",
-      "gestora": "Equipe",
-      "date": "17/07"
-    },
-    {
-      "title": "Capa e avatar para o canal do Youtube",
-      "priority": "pppp",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Capa-e-avatar-para-o-canal-do-Youtube-3a033d8db9d280b2ad5cd795c8627c99",
-      "gestora": "Equipe",
-      "date": "17/07"
     }
   ],
   "APROSSEG": [
