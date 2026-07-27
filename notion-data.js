@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 15:53:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 17:16:00 **/
 
-const LAST_UPDATE = '27/07/2026, 15:53:55';
+const LAST_UPDATE = '27/07/2026, 17:16:00';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -205,9 +205,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 14,
     "postado": 0,
-    "agendado": 10,
+    "agendado": 11,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -2713,7 +2713,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua maior fonte de renda não está no banco. Está na sua capacidade de trabalhar.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/07",
       "missing": [],
