@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 17:16:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 18:35:54 **/
 
-const LAST_UPDATE = '27/07/2026, 17:16:00';
+const LAST_UPDATE = '27/07/2026, 18:35:54';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1029,7 +1029,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quanto do seu faturamento realmente fica na empresa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "28/07",
       "missing": [
         "Design"
       ],
@@ -1189,7 +1189,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma conversa de cinco minutos na comunidade pode evitar um diagnóstico trágico daqui a vinte anos. O poder oculto de quem escolhe ser a voz da prevenção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "28/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1841,7 +1841,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Se esse recurso acabar amanhã, sua organização continua de pé?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "28/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
