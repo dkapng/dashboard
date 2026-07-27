@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 14:15:43 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 15:53:55 **/
 
-const LAST_UPDATE = '27/07/2026, 14:15:43';
+const LAST_UPDATE = '27/07/2026, 15:53:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,9 +89,9 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Tramix": {
-    "total": 10,
+    "total": 12,
     "pronto": 10,
-    "postado": 1,
+    "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -147,10 +147,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 11,
     "pronto": 11,
-    "postado": 2,
+    "postado": 3,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 12,
@@ -464,12 +464,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Tramix": {
-    "total": 2,
-    "pronto": 2,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 0,
@@ -866,10 +866,36 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [
     {
-      "title": "À primeira vista dois produtos podem parecer iguais, mas a diferença surge com o tempo",
+      "title": "A máquina costuma perceber um problema antes do cliente",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-m-quina-costuma-perceber-um-problema-antes-do-cliente-3aa33d8db9d2803f989cd105a54a269e"
+    },
+    {
+      "title": "Cada tipo de roupa pede um elástico diferente.\n",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cada-tipo-de-roupa-pede-um-el-stico-diferente-3aa33d8db9d2805bacffefd04d43fec8"
+    },
+    {
+      "title": "À primeira vista dois produtos podem parecer iguais, mas a diferença surge com o tempo",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "27/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -878,9 +904,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Produzir com qualidade também é pensar no pós-venda",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "24/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -891,7 +917,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A produtividade também depende dos materiais",
       "status": "postado",
       "formato": "🖼️ Post",
-      "date": "24/07",
+      "date": "22/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1701,7 +1727,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Assinou um contrato sem ler todos os detalhes? Isso pode gerar consequências.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "27/07",
       "missing": [],
@@ -3911,17 +3937,6 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Tramix": [
     {
-      "title": "O trabalho da confecção termina quando a peça sai da máquina? ",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "25/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-trabalho-da-confec-o-termina-quando-a-pe-a-sai-da-m-quina-Na-verdade-a-que-come-a-a-experi-n-39933d8db9d280f390c9d78c9809666e"
-    },
-    {
       "title": "Seu cliente percebe um bom acabamento. Mesmo sem entender de costura.",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4672,8 +4687,8 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Tramix": {
-    "prontas": 10,
-    "total": 10
+    "prontas": 12,
+    "total": 12
   },
   "Stratto": {
     "prontas": 17,
@@ -4776,11 +4791,11 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Tramix": {
-    "post": 10,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 1
   },
   "Stratto": {
     "post": 10,
