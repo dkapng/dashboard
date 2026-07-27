@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 12:21:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 14:15:43 **/
 
-const LAST_UPDATE = '27/07/2026, 12:21:27';
+const LAST_UPDATE = '27/07/2026, 14:15:43';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -91,10 +91,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 10,
     "pronto": 10,
-    "postado": 0,
+    "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 14,
@@ -227,19 +227,19 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 10,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 4,
     "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 17,
+    "total": 18,
     "pronto": 17,
     "postado": 2,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 7,
@@ -465,7 +465,7 @@ const STORIES_DATA = {
   },
   "Tramix": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -869,7 +869,7 @@ const LINHA_FEED_ITEMS = {
       "title": "À primeira vista dois produtos podem parecer iguais, mas a diferença surge com o tempo",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "31/07",
+      "date": "29/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -880,7 +880,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Produzir com qualidade também é pensar no pós-venda",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/07",
+      "date": "27/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -889,7 +889,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A produtividade também depende dos materiais",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -2905,12 +2905,11 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "27/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Artigo-O-Povo-Suic-dio-e-Cyberbullying-3aa33d8db9d2805e914bd19848183c51"
     },
     {
@@ -3014,6 +3013,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "Ranking",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3aa33d8db9d280548234f1c38d7c33e0"
+    },
     {
       "title": "Trend CPFxCNPJ",
       "status": "postado",
@@ -3902,10 +3915,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "25/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-trabalho-da-confec-o-termina-quando-a-pe-a-sai-da-m-quina-Na-verdade-a-que-come-a-a-experi-n-39933d8db9d280f390c9d78c9809666e"
@@ -4429,10 +4440,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Régua ",
+      "title": "I Simpósio | Régua",
       "priority": "pppp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
     },
@@ -4549,6 +4560,16 @@ const DEMANDAS_EXTRAS = {
       "date": "21/07"
     }
   ],
+  "AAFEC": [
+    {
+      "title": "Revista 128",
+      "priority": "pp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Revista-128-39c33d8db9d280d297c1fd5405fda88f",
+      "gestora": "Equipe",
+      "date": "28T17:00:00.000/07"
+    }
+  ],
   "APROSSEG": [
     {
       "title": "Aniversáriantes do mês",
@@ -4621,7 +4642,7 @@ const CAPTACAO_DATA = {
   "AAFEC": "marcada",
   "ItalaP": "confirmada",
   "Juntos contra o HPV": "marcada",
-  "Conecta Assessoria": "marcada",
+  "Conecta Assessoria": "confirmada",
   "RR Advocacia": "marcada",
   "Planos Seguros": "confirmada",
   "Ortobom": "confirmada",
@@ -4881,7 +4902,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Conecta Assessoria": {
-    "post": 16,
+    "post": 17,
     "carrossel": 1,
     "foto": 0,
     "video": 2,
