@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 18:35:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 19:54:37 **/
 
-const LAST_UPDATE = '27/07/2026, 18:35:54';
+const LAST_UPDATE = '27/07/2026, 19:54:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -229,9 +229,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 10,
     "postado": 0,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 4,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 18,
@@ -2927,14 +2927,12 @@ const LINHA_FEED_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Artigo O Povo - ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "27/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Artigo-O-Povo-Suic-dio-e-Cyberbullying-3aa33d8db9d2805e914bd19848183c51"
     },
@@ -4755,7 +4753,7 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Daniel Maia Advocacia": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 13
   },
   "Conecta Assessoria": {
