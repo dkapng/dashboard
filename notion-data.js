@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 09:14:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/07/2026, 12:21:27 **/
 
-const LAST_UPDATE = '27/07/2026, 09:14:18';
+const LAST_UPDATE = '27/07/2026, 12:21:27';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,11 +81,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 7,
-    "pronto": 6,
-    "postado": 0,
+    "pronto": 7,
+    "postado": 4,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 5,
+    "agendado_coord": 0,
+    "a_agendar": 2,
     "st-paused": null
   },
   "Tramix": {
@@ -171,10 +171,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 13,
     "pronto": 13,
-    "postado": 0,
+    "postado": 4,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 6,
@@ -226,12 +226,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
-    "total": 9,
+    "total": 10,
     "pronto": 9,
     "postado": 0,
     "agendado": 5,
     "agendado_coord": 4,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 17,
@@ -546,10 +546,10 @@ const STORIES_DATA = {
   "Plannea": {
     "total": 3,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 2,
@@ -788,12 +788,10 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Save the Date - Parte 2 do Bazar Solidário",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -812,9 +810,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você toparia apresentar a Ser Ponte para três pessoas?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "22/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -834,12 +832,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem decide quem recebe esse dinheiro?",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "31/07",
-      "missing": [
-        "Design"
-      ],
+      "date": "27/07",
+      "missing": [],
       "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -847,7 +843,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que é ser ponte em uma cidade onde falta comida em milhares de casas?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "24/07",
       "missing": [],
@@ -1167,7 +1163,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Uma conversa de cinco minutos na comunidade pode evitar um diagnóstico trágico daqui a vinte anos. O poder oculto de quem escolhe ser a voz da prevenção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/07",
+      "date": "27/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2079,7 +2075,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua empresa escolhe fornecedores apenas pelo preço? Isso pode mudar com a Reforma Tributária",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/07",
       "missing": [],
@@ -2090,7 +2086,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Split Payment: por que sua empresa pode deixar de receber o valor total de uma venda? (embaixo menor: ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "22/07",
       "missing": [],
@@ -2101,7 +2097,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabia que uma empresa pode vender pra ela mesma? Mas atenção. Isso tem regras!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "20/07",
       "missing": [],
@@ -2112,12 +2108,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que é compliance tributário e por que sua empresa precisa disso hoje",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "10/07",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "27/07",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2193,7 +2187,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Despesas reembolsáveis: o furo no balde que ninguém vê.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/07",
+      "date": "29/07",
       "missing": [
         "Legenda"
       ],
@@ -2906,6 +2900,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Daniel Maia Advocacia": [
     {
+      "title": "Artigo O Povo - ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "27/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Artigo-O-Povo-Suic-dio-e-Cyberbullying-3aa33d8db9d2805e914bd19848183c51"
+    },
+    {
       "title": "A empresa recebeu uma notificação do Ministério Público. E agora?",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -3054,7 +3062,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Chega um momento em que os filhos começam a cuidar dos pais. E essa conversa costuma chegar mais cedo do que imaginamos.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "30/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3354,7 +3362,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Formação de multiplicadores Tejuçuoca",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "27/07",
+      "date": "29/07",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
@@ -4141,7 +4149,7 @@ const LINHA_STORIES_ITEMS = {
   "Plannea": [
     {
       "title": "Você já parou para pensar no caminho que o dinheiro faz depois que um cliente paga uma venda?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "21/07",
       "missing": [],
@@ -4154,7 +4162,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Despesas reembolsáveis",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "14/07",
+      "date": "31/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4165,7 +4173,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Compliance tributário",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "09/07",
+      "date": "28/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4409,45 +4417,25 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Ortobom": [
+  "Conecta Assessoria": [
     {
-      "title": "Configuração de mensagens automáticas no Instagram.",
+      "title": "Ranking",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
-      "gestora": "Equipe",
-      "date": "28/07"
-    }
-  ],
-  "Ventana": [
-    {
-      "title": "Briefing e e-mail de boas vindas",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Briefing-e-e-mail-de-boas-vindas-3a533d8db9d280b1bedbca459c754824",
+      "notionUrl": "https://app.notion.com/p/Ranking-3aa33d8db9d2807ea2ebdcf2f29e3ce3",
       "gestora": "Equipe",
       "date": "27/07"
-    },
-    {
-      "title": "Melhorias no Notion (2025-04)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
-      "gestora": "Equipe",
-      "date": "08/05"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Vídeo promoção Mayara",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
-      "gestora": "Equipe",
-      "date": "22/07"
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "Régua ",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
+      "gestora": "Equipe",
+      "date": "28/07"
+    },
     {
       "title": "I Simpósio | Camisa",
       "priority": "p",
@@ -4511,6 +4499,44 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
       "gestora": "Equipe",
       "date": "30/07"
+    }
+  ],
+  "Ortobom": [
+    {
+      "title": "Configuração de mensagens automáticas no Instagram.",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
+      "gestora": "Equipe",
+      "date": "28/07"
+    }
+  ],
+  "Ventana": [
+    {
+      "title": "Briefing e e-mail de boas vindas",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Briefing-e-e-mail-de-boas-vindas-3a533d8db9d280b1bedbca459c754824",
+      "gestora": "Equipe",
+      "date": "27/07"
+    },
+    {
+      "title": "Melhorias no Notion (2025-04)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
+      "gestora": "Equipe",
+      "date": "08/05"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Vídeo promoção Mayara",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
+      "gestora": "Equipe",
+      "date": "22/07"
     }
   ],
   "Tramix": [
@@ -4592,6 +4618,8 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "AAFEC": "marcada",
+  "ItalaP": "confirmada",
   "Juntos contra o HPV": "marcada",
   "Conecta Assessoria": "marcada",
   "RR Advocacia": "marcada",
@@ -4601,7 +4629,6 @@ const CAPTACAO_DATA = {
   "Rede Pangeia": "cancelada",
   "Travessias Híbridas": "marcada",
   "APROSSEG": "marcada",
-  "ItalaP": "marcada",
   "Finseg Leal": "marcada",
   "Daniel Maia Advocacia": "marcada",
   "Grupo Mulheres do Brasil": "marcada",
@@ -4620,7 +4647,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ser Ponte": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 7
   },
   "Tramix": {
@@ -4664,7 +4691,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Plannea": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 13
   },
   "Ortobom": {
@@ -4693,11 +4720,11 @@ const LEGENDAS_DATA = {
   },
   "Daniel Maia Advocacia": {
     "prontas": 12,
-    "total": 12
+    "total": 13
   },
   "Conecta Assessoria": {
     "prontas": 19,
-    "total": 19
+    "total": 20
   },
   "Solar Coworking": {
     "prontas": 11,
@@ -4848,7 +4875,7 @@ const FORMAT_COUNTS = {
   },
   "Daniel Maia Advocacia": {
     "post": 8,
-    "carrossel": 1,
+    "carrossel": 2,
     "foto": 0,
     "video": 3,
     "story": 2
@@ -4872,8 +4899,8 @@ const FORMAT_COUNTS = {
 const AGENDA_COUNTS = {
   "AAFEC": {
     "reuniao": 1,
-    "producao": 0,
-    "evento": 0
+    "producao": 1,
+    "evento": 1
   },
   "Travessias Híbridas": {
     "reuniao": 0,
@@ -4947,7 +4974,7 @@ const AGENDA_COUNTS = {
   },
   "ItalaP": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "Grupo Mulheres do Brasil": {
