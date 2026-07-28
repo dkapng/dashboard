@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 09:49:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 12:14:02 **/
 
-const LAST_UPDATE = '28/07/2026, 09:49:25';
+const LAST_UPDATE = '28/07/2026, 12:14:02';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -108,9 +108,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 12,
     "postado": 1,
-    "agendado": 9,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 9,
@@ -155,10 +155,10 @@ const FEED_DATA = {
   "Rede Pangeia": {
     "total": 12,
     "pronto": 11,
-    "postado": 1,
+    "postado": 2,
     "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 9,
@@ -188,17 +188,17 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 15,
     "postado": 1,
-    "agendado": 12,
+    "agendado": 13,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
-    "total": 19,
-    "pronto": 19,
+    "total": 18,
+    "pronto": 18,
     "postado": 2,
     "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 5,
+    "a_agendar": 4,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -235,7 +235,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 18,
-    "pronto": 17,
+    "pronto": 18,
     "postado": 2,
     "agendado": 12,
     "agendado_coord": 0,
@@ -608,12 +608,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 9,
+    "total": 8,
     "pronto": 8,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -836,7 +836,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/07",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-decide-quem-recebe-esse-dinheiro-34933d8db9d28084b8afcf54e1f27231"
@@ -1187,7 +1187,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma conversa de cinco minutos na comunidade pode evitar um diagnóstico trágico daqui a vinte anos. O poder oculto de quem escolhe ser a voz da prevenção.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/07",
       "missing": [],
@@ -1839,7 +1839,7 @@ const LINHA_FEED_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "Se esse recurso acabar amanhã, sua organização continua de pé?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/07",
       "missing": [],
@@ -2388,7 +2388,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O silêncio é uma das características mais perigosas das hepatites virais - Dia mundial da luta contra as hepatites virais",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/07",
       "missing": [],
@@ -2556,21 +2556,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Homens-este-convite-para-voc-s-Hoje-s-18h30-o-Grupo-Mulheres-do-Brasil-abre-a-Reuni-o-Geral-p-39533d8db9d280109e35c191c08d63d1"
     },
     {
-      "title": "Quando foi a última vez que você fez algo pela primeira vez?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "31/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-fez-algo-pela-primeira-vez-38e33d8db9d28096a042e2a782db0659"
-    },
-    {
       "title": "Você já percebeu que toda mulher tem uma fase em que começa a dizer mais \"não\"?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/07",
+      "date": "30/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2581,7 +2570,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem ensinou as mulheres a cuidar de todo mundo antes de cuidar de si?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "29/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2592,7 +2581,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem paga primeiro a conta da crise climática?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/07",
+      "date": "28/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3041,12 +3030,11 @@ const LINHA_FEED_ITEMS = {
       "title": "Ranking",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/07",
+      "date": "28/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/3aa33d8db9d280548234f1c38d7c33e0"
@@ -4298,19 +4286,6 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "Stories que já saíram",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "28/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. N/A",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Stories-que-j-sa-ram-38f33d8db9d28058a3aaf13a824f60d4"
-    },
-    {
       "title": "Stories que ja saíram (2)",
       "status": "postado",
       "formato": "📱 Story",
@@ -4445,7 +4420,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Ranking",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Ranking-3aa33d8db9d2807ea2ebdcf2f29e3ce3",
       "gestora": "Equipe",
       "date": "27/07"
@@ -4455,7 +4430,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
@@ -4737,8 +4712,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 21,
-    "total": 22
+    "prontas": 20,
+    "total": 21
   },
   "Finseg Leal": {
     "prontas": 18,
@@ -4880,7 +4855,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 17,
+    "post": 16,
     "carrossel": 2,
     "foto": 0,
     "video": 4,
@@ -4919,7 +4894,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 2,
-    "story": 9
+    "story": 8
   },
   "Solar Coworking": {
     "post": 7,
@@ -4992,7 +4967,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Planos Seguros": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 2,
     "evento": 0
   },
@@ -5027,7 +5002,7 @@ const AGENDA_COUNTS = {
     "evento": 1
   },
   "APROSSEG": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 2,
     "evento": 1
   },
