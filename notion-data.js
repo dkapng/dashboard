@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 18:09:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 19:32:17 **/
 
-const LAST_UPDATE = '28/07/2026, 18:09:41';
+const LAST_UPDATE = '28/07/2026, 19:32:17';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 10,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 1,
@@ -806,10 +806,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "28/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Marcas-confirmadas-3ab33d8db9d280bababccb5d88e0e3c1"
