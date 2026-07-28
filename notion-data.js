@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 13:56:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 15:10:24 **/
 
-const LAST_UPDATE = '28/07/2026, 13:56:41';
+const LAST_UPDATE = '28/07/2026, 15:10:24';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 4,
+    "total": 5,
     "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Travessias Híbridas": {
     "total": 10,
@@ -177,20 +177,20 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Ortobom": {
-    "total": 6,
+    "total": 8,
     "pronto": 3,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 5
   },
   "ItalaP": {
-    "total": 15,
+    "total": 16,
     "pronto": 15,
     "postado": 1,
     "agendado": 13,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
@@ -373,12 +373,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "ItalaP": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 4,
@@ -628,6 +628,20 @@ const STORIES_DATA = {
 
 const LINHA_FEED_ITEMS = {
   "AAFEC": [
+    {
+      "title": "Demanda extra: Entregas da agenda de agosto",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/07",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Demanda-extra-Entregas-da-agenda-de-agosto-3ab33d8db9d2801992eed630fbcb4d2e"
+    },
     {
       "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?",
       "status": "a_agendar",
@@ -2236,18 +2250,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
-      "title": "Feito para amigos: Porque toda visita merece se sentir em casa.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "20/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feito-para-amigos-Porque-toda-visita-merece-se-sentir-em-casa-3a333d8db9d280c189fef3b0be74281a"
-    },
-    {
-      "title": "Sua coluna trabalha o dia inteiro. À noite ela precisa do suporte certo.",
+      "title": "Há anos transformando noites de sono em momentos de bem-estar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
@@ -2257,7 +2260,44 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-coluna-trabalha-o-dia-inteiro-noite-ela-precisa-do-suporte-certo-39d33d8db9d28038bea1c1b60060c0cc"
+      "notionUrl": "https://app.notion.com/p/H-anos-transformando-noites-de-sono-em-momentos-de-bem-estar-3ab33d8db9d2802e8c4ce6e810e966e3"
+    },
+    {
+      "title": "Aniversário Ortobom: celebrando o conforto que faz parte da sua história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-Ortobom-celebrando-o-conforto-que-faz-parte-da-sua-hist-ria-3ab33d8db9d28008a4a2c094757418e3"
+    },
+    {
+      "title": "Quem faz aniversário é a Ortobom. Quem ganha o presente é você.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-faz-anivers-rio-a-Ortobom-Quem-ganha-o-presente-voc-3ab33d8db9d280c5a20eee31ff9aab29"
+    },
+    {
+      "title": "Feito para amigos: Porque toda visita merece se sentir em casa.",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "20/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feito-para-amigos-Porque-toda-visita-merece-se-sentir-em-casa-3a333d8db9d280c189fef3b0be74281a"
     },
     {
       "title": "Dormir bem não é luxo. É qualidade de vida",
@@ -2309,6 +2349,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "ItalaP": [
+    {
+      "title": "A partir de 01 de agosto, nosso atendimento online funcionará nos seguintes horários: (continua nos comentários) ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/07",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-partir-de-01-de-agosto-nosso-atendimento-online-funcionar-nos-seguintes-hor-rios-continua-nos--3ab33d8db9d280bd9c2ff9cf14be591d"
+    },
     {
       "title": "Julho tem duas cores. E as duas falam sobre algo que não pode esperar: a sua saúde.",
       "status": "agendado",
@@ -3595,11 +3648,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "30/07",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/As-f-rias-acabam-39d33d8db9d280658342f5a2d7dffea8"
     },
@@ -3670,22 +3722,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Todo-tipo-de-colch-o-36133d8db9d280f8a525e5a80151fd91"
     }
   ],
-  "ItalaP": [
-    {
-      "title": "A saúde que você confia, sempre perto de você.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "29/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/A-sa-de-que-voc-confia-sempre-perto-de-voc-38333d8db9d2805287ebdb8033a79832"
-    }
-  ],
+  "ItalaP": [],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Vídeo 5/5 da Vera: Convite",
@@ -4646,7 +4683,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "AAFEC": {
     "prontas": 5,
-    "total": 5
+    "total": 6
   },
   "Travessias Híbridas": {
     "prontas": 11,
@@ -4701,11 +4738,11 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Ortobom": {
-    "prontas": 12,
-    "total": 13
+    "prontas": 15,
+    "total": 15
   },
   "ItalaP": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
@@ -4740,7 +4777,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 2,
+    "post": 3,
     "carrossel": 2,
     "foto": 0,
     "video": 1,
@@ -4838,17 +4875,17 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Ortobom": {
-    "post": 6,
+    "post": 8,
     "carrossel": 0,
     "foto": 0,
     "video": 7,
     "story": 2
   },
   "ItalaP": {
-    "post": 11,
+    "post": 12,
     "carrossel": 4,
     "foto": 0,
-    "video": 1,
+    "video": 0,
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
