@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 16:59:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 18:09:41 **/
 
-const LAST_UPDATE = '28/07/2026, 16:59:03';
+const LAST_UPDATE = '28/07/2026, 18:09:41';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -801,7 +801,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/TUDO-QUE-VOC-PRECISA-SABER-SOBRE-O-BAZAR-3ab33d8db9d280d69497e3d7a72e434d"
     },
     {
-      "title": "\n",
+      "title": "Marcas confirmadas",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "28/07",
@@ -809,10 +809,10 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/MARCAS-CONFIRMADAS-3ab33d8db9d280bababccb5d88e0e3c1"
+      "notionUrl": "https://app.notion.com/p/Marcas-confirmadas-3ab33d8db9d280bababccb5d88e0e3c1"
     },
     {
       "title": "Save the Date - Parte 2 do Bazar Solidário",
@@ -4496,7 +4496,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
