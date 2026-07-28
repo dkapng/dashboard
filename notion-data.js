@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 12:14:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/07/2026, 13:56:41 **/
 
-const LAST_UPDATE = '28/07/2026, 12:14:02';
+const LAST_UPDATE = '28/07/2026, 13:56:41';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -367,10 +367,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 1,
@@ -3605,15 +3605,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Cama dos sonhos ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "28/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cama-dos-sonhos-39d33d8db9d280e58faeeca48c2a9bb9"
     },
@@ -4704,7 +4701,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Ortobom": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 13
   },
   "ItalaP": {
