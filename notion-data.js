@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 15:02:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 16:50:51 **/
 
-const LAST_UPDATE = '29/07/2026, 15:02:14';
+const LAST_UPDATE = '29/07/2026, 16:50:51';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -234,12 +234,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 18,
-    "pronto": 18,
+    "total": 17,
+    "pronto": 17,
     "postado": 2,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 7,
@@ -301,12 +301,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Jota Diesel": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -608,12 +608,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 8,
-    "pronto": 8,
+    "total": 9,
+    "pronto": 9,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -1141,7 +1141,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-financeiro-n-o-come-a-quando-o-boleto-vence-Ele-come-a-muito-antes-disso-39133d8db9d280bdafe8f4913fb4204e"
@@ -2374,7 +2374,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "A partir de 01 de agosto, nosso atendimento online funcionará nos seguintes horários: (continua nos comentários) ",
+      "title": "A partir de 01 de agosto, nosso atendimento online funcionará nos seguintes horários: (continua nos comentários)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
@@ -3104,19 +3104,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "Ranking",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/07",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/3aa33d8db9d280548234f1c38d7c33e0"
-    },
-    {
       "title": "Trend CPFxCNPJ",
       "status": "postado",
       "formato": "🎠 Carrossel",
@@ -3472,7 +3459,22 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Forma-o-de-multiplicadores-Teju-uoca-39833d8db9d280939849cfaf9b273c85"
     }
   ],
-  "Jota Diesel": [],
+  "Jota Diesel": [
+    {
+      "title": "Você não sabe onde fica a Jota?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/07",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Voc-n-o-sabe-onde-fica-a-Jota-3ac33d8db9d2802dbb70ebb2111ed3f2"
+    }
+  ],
   "Ventana": [],
   "Univendas": [],
   "Terrartesã": [],
@@ -4329,6 +4331,17 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Conecta Assessoria": [
     {
+      "title": "Ranking",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/07",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3aa33d8db9d280548234f1c38d7c33e0"
+    },
+    {
       "title": "Stories que ja saíram (2)",
       "status": "postado",
       "formato": "📱 Story",
@@ -4471,7 +4484,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Revista 128",
       "priority": "pp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Falta informação",
       "notionUrl": "https://app.notion.com/p/Revista-128-39c33d8db9d280d297c1fd5405fda88f",
       "gestora": "Equipe",
       "date": "28T17:00:00.000/07"
@@ -4704,7 +4717,7 @@ const LEGENDAS_DATA = {
   },
   "Jota Diesel": {
     "prontas": 9,
-    "total": 9
+    "total": 10
   },
   "Ventana": {
     "prontas": 0,
@@ -4764,7 +4777,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 19,
-    "total": 20
+    "total": 19
   },
   "Solar Coworking": {
     "prontas": 11,
@@ -4819,7 +4832,7 @@ const FORMAT_COUNTS = {
     "post": 9,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 2
   },
   "Ventana": {
@@ -4921,11 +4934,11 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Conecta Assessoria": {
-    "post": 17,
+    "post": 16,
     "carrossel": 1,
     "foto": 0,
     "video": 2,
-    "story": 8
+    "story": 9
   },
   "Solar Coworking": {
     "post": 7,
