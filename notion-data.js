@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 17:44:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 18:53:12 **/
 
-const LAST_UPDATE = '29/07/2026, 17:44:46';
+const LAST_UPDATE = '29/07/2026, 18:53:12';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -90,7 +90,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 12,
-    "pronto": 10,
+    "pronto": 12,
     "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
@@ -908,10 +908,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-m-quina-costuma-perceber-um-problema-antes-do-cliente-3aa33d8db9d2803f989cd105a54a269e"
@@ -921,10 +919,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cada-tipo-de-roupa-pede-um-el-stico-diferente-3aa33d8db9d2805bacffefd04d43fec8"
@@ -3952,7 +3948,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-ser-ponte-39733d8db9d2803aaa7fcc8a1193e916"
