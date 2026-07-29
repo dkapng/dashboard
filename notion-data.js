@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 10:12:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 12:26:16 **/
 
-const LAST_UPDATE = '29/07/2026, 10:12:17';
+const LAST_UPDATE = '29/07/2026, 12:26:16';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -171,10 +171,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 13,
     "pronto": 13,
-    "postado": 4,
+    "postado": 5,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 8,
@@ -1069,7 +1069,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quanto do seu faturamento realmente fica na empresa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/07",
+      "date": "30/07",
       "missing": [
         "Design"
       ],
@@ -2251,12 +2251,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Despesas reembolsáveis: o furo no balde que ninguém vê.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2772,7 +2770,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Burnout, hérnia de disco e lesões podem interromper sua renda por meses. Você está preparado?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/07",
+      "date": "30/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4479,16 +4477,6 @@ const DEMANDAS_EXTRAS = {
       "date": "28T17:00:00.000/07"
     }
   ],
-  "Conecta Assessoria": [
-    {
-      "title": "Ranking",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Ranking-3aa33d8db9d2807ea2ebdcf2f29e3ce3",
-      "gestora": "Equipe",
-      "date": "27/07"
-    }
-  ],
   "Juntos contra o HPV": [
     {
       "title": "I Simpósio | Régua",
@@ -4672,8 +4660,8 @@ const DEMANDAS_EXTRAS = {
 const CAPTACAO_DATA = {
   "AAFEC": "marcada",
   "ItalaP": "confirmada",
-  "Juntos contra o HPV": "marcada",
-  "Conecta Assessoria": "confirmada",
+  "Juntos contra o HPV": "confirmada",
+  "Conecta Assessoria": "realizada",
   "RR Advocacia": "marcada",
   "Planos Seguros": "confirmada",
   "Ortobom": "confirmada",
@@ -4743,7 +4731,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Plannea": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 13
   },
   "Ortobom": {
@@ -5035,7 +5023,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Finseg Leal": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 1,
     "evento": 0
   },
