@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 08:00:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 10:12:17 **/
 
-const LAST_UPDATE = '29/07/2026, 08:00:48';
+const LAST_UPDATE = '29/07/2026, 10:12:17';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -147,10 +147,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 11,
     "pronto": 11,
-    "postado": 3,
+    "postado": 4,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 12,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 18,
     "pronto": 18,
-    "postado": 3,
+    "postado": 4,
     "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 3,
+    "a_agendar": 2,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -351,10 +351,10 @@ const VIDEO_DATA = {
   "Planos Seguros": {
     "total": 10,
     "pronto": 10,
-    "postado": 1,
+    "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Plannea": {
     "total": 0,
@@ -1756,7 +1756,7 @@ const LINHA_FEED_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Você conhece os seus direitos em caso de acidente de trabalho?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/07",
       "missing": [],
@@ -2647,7 +2647,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem ensinou as mulheres a cuidar de todo mundo antes de cuidar de si?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/07",
       "missing": [],
@@ -3551,14 +3551,12 @@ const LINHA_VIDEO_ITEMS = {
   "Planos Seguros": [
     {
       "title": "Uma conversa com empresário",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "29/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Uma-conversa-com-empres-rio-3a033d8db9d2804793c6f7775fc44b2b"
     },
@@ -4741,7 +4739,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 19
   },
   "Plannea": {
