@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 19:54:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 20:55:30 **/
 
-const LAST_UPDATE = '29/07/2026, 19:54:34';
+const LAST_UPDATE = '29/07/2026, 20:55:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -3948,7 +3948,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-ser-ponte-39733d8db9d2803aaa7fcc8a1193e916"
@@ -4485,7 +4485,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Plaquinhas de tempo",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Pausada",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Plaquinhas-de-tempo-3a333d8db9d280658b21e84b4fc070fa",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4509,7 +4509,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Caneta",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Pausada",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Caneta-3a333d8db9d280eb8032ccfb20a48952",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4525,7 +4525,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capas para Facebook e LinkedIn",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
       "gestora": "Equipe",
       "date": "24/07"
