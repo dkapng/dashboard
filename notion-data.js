@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 16:50:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 17:44:46 **/
 
-const LAST_UPDATE = '29/07/2026, 16:50:51';
+const LAST_UPDATE = '29/07/2026, 17:44:46';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,11 +81,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 10,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 4,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 4,
+    "agendado_coord": 0,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Tramix": {
@@ -98,7 +98,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 14,
-    "pronto": 12,
+    "pronto": 14,
     "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
@@ -186,7 +186,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 16,
-    "pronto": 15,
+    "pronto": 16,
     "postado": 1,
     "agendado": 13,
     "agendado_coord": 0,
@@ -234,12 +234,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 17,
-    "pronto": 17,
+    "total": 16,
+    "pronto": 16,
     "postado": 2,
     "agendado": 12,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 7,
@@ -391,10 +391,10 @@ const VIDEO_DATA = {
   "Finseg Leal": {
     "total": 5,
     "pronto": 5,
-    "postado": 2,
+    "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -610,10 +610,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 9,
     "pronto": 9,
-    "postado": 7,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -787,7 +787,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ser Ponte": [
     {
-      "title": "\n",
+      "title": "TUDO QUE VOCÊ PRECISA SABER SOBRE O BAZAR",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "30/07",
@@ -859,13 +859,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Existe uma Fortaleza que não chega no fim do mês.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Existe-uma-Fortaleza-que-n-o-chega-no-fim-do-m-s-34933d8db9d28002b145e0f13bdf673d"
@@ -919,14 +917,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-m-quina-costuma-perceber-um-problema-antes-do-cliente-3aa33d8db9d2803f989cd105a54a269e"
     },
     {
-      "title": "Cada tipo de roupa pede um elástico diferente.\n",
+      "title": "Cada tipo de roupa pede um elástico diferente.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cada-tipo-de-roupa-pede-um-el-stico-diferente-3aa33d8db9d2805bacffefd04d43fec8"
@@ -1070,10 +1068,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-do-seu-faturamento-realmente-fica-na-empresa-39133d8db9d280069092d0f17a70cdb2"
@@ -1138,10 +1134,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-financeiro-n-o-come-a-quando-o-boleto-vence-Ele-come-a-muito-antes-disso-39133d8db9d280bdafe8f4913fb4204e"
@@ -2378,10 +2372,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-partir-de-01-de-agosto-nosso-atendimento-online-funcionar-nos-seguintes-hor-rios-continua-nos--3ab33d8db9d280bd9c2ff9cf14be591d"
@@ -3126,21 +3118,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Vaga-para-Auxiliar-Administrativo-3a433d8db9d280b58adccf569355de43"
     },
     {
-      "title": "O que você fez pela sua saúde além de prometer que iria cuidar dela?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "31/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-voc-fez-pela-sua-sa-de-al-m-de-prometer-que-iria-cuidar-dela-38933d8db9d2807ebf34c1f9b1a11674"
-    },
-    {
       "title": "Aos 30, saúde é conveniência. Aos 60, ela vira prioridade.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/07",
+      "date": "30/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3151,7 +3132,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Chega um momento em que os filhos começam a cuidar dos pais. E essa conversa costuma chegar mais cedo do que imaginamos.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "30/07",
+      "date": "31/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3796,14 +3777,12 @@ const LINHA_VIDEO_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Liberdade para escolher",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "29/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Liberdade-para-escolher-38f33d8db9d28033af43f14ccf61cabb"
     },
@@ -4332,12 +4311,12 @@ const LINHA_STORIES_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Ranking",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "28/07",
+      "date": "29/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/3aa33d8db9d280548234f1c38d7c33e0"
     },
@@ -4760,7 +4739,7 @@ const LEGENDAS_DATA = {
     "total": 21
   },
   "Finseg Leal": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 19
   },
   "Di Gregório Buffet": {
@@ -4776,8 +4755,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Conecta Assessoria": {
-    "prontas": 19,
-    "total": 19
+    "prontas": 18,
+    "total": 18
   },
   "Solar Coworking": {
     "prontas": 11,
@@ -4934,7 +4913,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Conecta Assessoria": {
-    "post": 16,
+    "post": 15,
     "carrossel": 1,
     "foto": 0,
     "video": 2,
