@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 08:54:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 10:42:10 **/
 
-const LAST_UPDATE = '30/07/2026, 08:54:18';
+const LAST_UPDATE = '30/07/2026, 10:42:10';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -188,9 +188,9 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 16,
     "postado": 1,
-    "agendado": 13,
+    "agendado": 14,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
@@ -285,20 +285,20 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 1,
@@ -1063,7 +1063,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quanto do seu faturamento realmente fica na empresa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "30/07",
+      "date": "31/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1129,7 +1129,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O financeiro não começa quando o boleto vence. Ele começa muito antes disso.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "29/07",
+      "date": "30/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2365,7 +2365,7 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "A partir de 01 de agosto, nosso atendimento online funcionará nos seguintes horários: (continua nos comentários)",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/07",
       "missing": [],
@@ -3408,25 +3408,12 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-39f33d8db9d280329f7fcb8b0309d53a"
-    },
-    {
-      "title": "O maior erro de quem terceiriza o financeiro.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "31/07",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-maior-erro-de-quem-terceiriza-o-financeiro-39133d8db9d2809a839bece5becef080"
     }
   ],
   "Juntos contra o HPV": [
     {
       "title": "Formação de multiplicadores Tejuçuoca",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "29/07",
       "missing": [],
@@ -4087,7 +4074,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "#DicaDaSemana",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "29/07",
+      "date": "30/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4447,6 +4434,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Atualização de contato ",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Atualiza-o-de-contato-3ad33d8db9d280e0917dcd73cd2b254f",
+      "gestora": "Equipe",
+      "date": "30/07"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "I Simpósio | Certificados",
@@ -4655,7 +4652,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "AAFEC": "marcada",
-  "ItalaP": "confirmada",
+  "ItalaP": "marcada",
   "Juntos contra o HPV": "confirmada",
   "Conecta Assessoria": "realizada",
   "RR Advocacia": "marcada",
@@ -4691,8 +4688,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Stratto": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 16,
+    "total": 16
   },
   "Juntos contra o HPV": {
     "prontas": 13,
@@ -4801,7 +4798,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 4,
     "foto": 0,
-    "video": 3,
+    "video": 2,
     "story": 0
   },
   "Juntos contra o HPV": {
