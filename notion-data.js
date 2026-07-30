@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 10:42:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 12:46:24 **/
 
-const LAST_UPDATE = '30/07/2026, 10:42:10';
+const LAST_UPDATE = '30/07/2026, 12:46:24';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -161,12 +161,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Planos Seguros": {
-    "total": 9,
-    "pronto": 3,
+    "total": 10,
+    "pronto": 4,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Plannea": {
     "total": 13,
@@ -367,10 +367,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 3,
     "pronto": 3,
-    "postado": 3,
+    "postado": 4,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "ItalaP": {
     "total": 0,
@@ -457,7 +457,7 @@ const STORIES_DATA = {
   },
   "Ser Ponte": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -795,7 +795,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/TUDO-QUE-VOC-PRECISA-SABER-SOBRE-O-BAZAR-3ab33d8db9d280d69497e3d7a72e434d"
@@ -2003,6 +2003,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Planos Seguros": [
+    {
+      "title": "Há 16 anos cuidando de pessoas!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/07",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/H-16-anos-cuidando-de-pessoas-3ad33d8db9d2802dbf12d3d242e19b03"
+    },
     {
       "title": "Quando foi a última vez que você olhou para o seu prédio além do valor do imóvel?",
       "status": "a_agendar",
@@ -3632,12 +3645,10 @@ const LINHA_VIDEO_ITEMS = {
   "Ortobom": [
     {
       "title": "As férias acabam",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "30/07",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3932,10 +3943,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "29/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-ser-ponte-39733d8db9d2803aaa7fcc8a1193e916"
@@ -4434,17 +4443,15 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Daniel Maia Advocacia": [
+  "Juntos contra o HPV": [
     {
-      "title": "Atualização de contato ",
-      "priority": "pppp",
+      "title": "I Simpósio | Capa para YouTube",
+      "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Atualiza-o-de-contato-3ad33d8db9d280e0917dcd73cd2b254f",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-YouTube-3ad33d8db9d2808fbf71e1c8f8b1e90b",
       "gestora": "Equipe",
       "date": "30/07"
-    }
-  ],
-  "Juntos contra o HPV": [
+    },
     {
       "title": "I Simpósio | Certificados",
       "priority": "p",
@@ -4522,6 +4529,16 @@ const DEMANDAS_EXTRAS = {
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
+      "gestora": "Equipe",
+      "date": "30/07"
+    }
+  ],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Atualização de contato ",
+      "priority": "pppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Atualiza-o-de-contato-3ad33d8db9d280e0917dcd73cd2b254f",
       "gestora": "Equipe",
       "date": "30/07"
     }
@@ -4721,7 +4738,7 @@ const LEGENDAS_DATA = {
   },
   "Planos Seguros": {
     "prontas": 16,
-    "total": 19
+    "total": 20
   },
   "Plannea": {
     "prontas": 13,
@@ -4851,7 +4868,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Planos Seguros": {
-    "post": 7,
+    "post": 8,
     "carrossel": 2,
     "foto": 0,
     "video": 10,
