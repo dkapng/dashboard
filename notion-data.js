@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 12:46:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 14:17:56 **/
 
-const LAST_UPDATE = '30/07/2026, 12:46:24';
+const LAST_UPDATE = '30/07/2026, 14:17:56';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -163,10 +163,10 @@ const FEED_DATA = {
   "Planos Seguros": {
     "total": 10,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Plannea": {
     "total": 13,
@@ -188,26 +188,26 @@ const FEED_DATA = {
     "total": 16,
     "pronto": 16,
     "postado": 1,
-    "agendado": 14,
+    "agendado": 15,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
     "pronto": 18,
-    "postado": 4,
+    "postado": 5,
     "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Finseg Leal": {
     "total": 14,
     "pronto": 14,
     "postado": 0,
-    "agendado": 11,
+    "agendado": 13,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -236,10 +236,10 @@ const FEED_DATA = {
   "Conecta Assessoria": {
     "total": 16,
     "pronto": 16,
-    "postado": 2,
-    "agendado": 12,
+    "postado": 3,
+    "agendado": 13,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 7,
@@ -2005,12 +2005,10 @@ const LINHA_FEED_ITEMS = {
   "Planos Seguros": [
     {
       "title": "Há 16 anos cuidando de pessoas!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "30/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2400,7 +2398,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua pele vai lembrar dos cuidados que você teve hoje. Você está cuidando dela?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [],
@@ -2635,7 +2633,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você já percebeu que toda mulher tem uma fase em que começa a dizer mais \"não\"?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "30/07",
       "missing": [],
@@ -2758,7 +2756,7 @@ const LINHA_FEED_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Quem trabalha por conta própria também precisa proteger o próprio faturamento.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [],
@@ -2769,7 +2767,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Burnout, hérnia de disco e lesões podem interromper sua renda por meses. Você está preparado?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/07",
       "missing": [],
@@ -3128,7 +3126,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Aos 30, saúde é conveniência. Aos 60, ela vira prioridade.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "30/07",
       "missing": [],
@@ -3139,7 +3137,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Chega um momento em que os filhos começam a cuidar dos pais. E essa conversa costuma chegar mais cedo do que imaginamos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [],
@@ -4445,6 +4443,14 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Juntos contra o HPV": [
     {
+      "title": "Capa para o site",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
+      "gestora": "Equipe",
+      "date": "31/07"
+    },
+    {
       "title": "I Simpósio | Capa para YouTube",
       "priority": "p",
       "rawStatus": "1. A fazer",
@@ -4471,7 +4477,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Camisa",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4479,7 +4485,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Plaquinhas de tempo",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Plaquinhas-de-tempo-3a333d8db9d280658b21e84b4fc070fa",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4487,7 +4493,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Ecobag",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4495,7 +4501,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Bloco de notas",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4503,7 +4509,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Caneta",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Caneta-3a333d8db9d280eb8032ccfb20a48952",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4511,7 +4517,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Credencial e cordão personalizado",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Credencial-e-cord-o-personalizado-3a333d8db9d280b8a108cb2356b3d28f",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4519,7 +4525,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capas para Facebook e LinkedIn",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4737,7 +4743,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 20
   },
   "Plannea": {
