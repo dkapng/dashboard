@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 22:48:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 01:52:20 **/
 
-const LAST_UPDATE = '29/07/2026, 22:48:04';
+const LAST_UPDATE = '30/07/2026, 01:52:20';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4447,6 +4447,88 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "I Simpósio | Certificados",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Régua",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
+      "gestora": "Equipe",
+      "date": "28/07"
+    },
+    {
+      "title": "I Simpósio | Camisa",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Plaquinhas de tempo",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Plaquinhas-de-tempo-3a333d8db9d280658b21e84b4fc070fa",
+      "gestora": "Equipe",
+      "date": "24/07"
+    },
+    {
+      "title": "I Simpósio | Ecobag",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Bloco de notas",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Caneta",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Caneta-3a333d8db9d280eb8032ccfb20a48952",
+      "gestora": "Equipe",
+      "date": "24/07"
+    },
+    {
+      "title": "I Simpósio | Credencial e cordão personalizado",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Credencial-e-cord-o-personalizado-3a333d8db9d280b8a108cb2356b3d28f",
+      "gestora": "Equipe",
+      "date": "30/07"
+    },
+    {
+      "title": "I Simpósio | Capas para Facebook e LinkedIn",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
+      "gestora": "Equipe",
+      "date": "24/07"
+    },
+    {
+      "title": "I Simpósio | Backdrops",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
+      "gestora": "Equipe",
+      "date": "30/07"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Agenda de agosto de 2026",
@@ -4463,80 +4545,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Revista-128-39c33d8db9d280d297c1fd5405fda88f",
       "gestora": "Equipe",
       "date": "28T17:00:00.000/07"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "I Simpósio | Régua",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
-      "gestora": "Equipe",
-      "date": "28/07"
-    },
-    {
-      "title": "I Simpósio | Camisa",
-      "priority": "p",
-      "rawStatus": "2. Pausada",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Plaquinhas de tempo",
-      "priority": "p",
-      "rawStatus": "2. Pausada",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Plaquinhas-de-tempo-3a333d8db9d280658b21e84b4fc070fa",
-      "gestora": "Equipe",
-      "date": "24/07"
-    },
-    {
-      "title": "I Simpósio | Ecobag",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Bloco de notas",
-      "priority": "p",
-      "rawStatus": "2. Pausada",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Caneta",
-      "priority": "p",
-      "rawStatus": "2. Pausada",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Caneta-3a333d8db9d280eb8032ccfb20a48952",
-      "gestora": "Equipe",
-      "date": "24/07"
-    },
-    {
-      "title": "I Simpósio | Crachá e cordão personalizado",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Crach-e-cord-o-personalizado-3a333d8db9d280b8a108cb2356b3d28f",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Capas para Facebook e LinkedIn",
-      "priority": "p",
-      "rawStatus": "2. Pausada",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
-      "gestora": "Equipe",
-      "date": "24/07"
-    },
-    {
-      "title": "I Simpósio | Backdrops",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
-      "gestora": "Equipe",
-      "date": "30/07"
     }
   ],
   "Ortobom": [
