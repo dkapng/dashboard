@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 14:17:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 15:53:31 **/
 
-const LAST_UPDATE = '30/07/2026, 14:17:56';
+const LAST_UPDATE = '30/07/2026, 15:53:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -100,17 +100,17 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 14,
     "postado": 4,
-    "agendado": 8,
+    "agendado": 10,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 12,
     "pronto": 12,
     "postado": 1,
-    "agendado": 10,
+    "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 9,
@@ -521,7 +521,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 5,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 3,
     "agendado": 1,
     "agendado_coord": 0,
@@ -530,10 +530,10 @@ const STORIES_DATA = {
   "Rede Pangeia": {
     "total": 5,
     "pronto": 5,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 3,
@@ -1061,7 +1061,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quanto do seu faturamento realmente fica na empresa?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [],
@@ -1127,7 +1127,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O financeiro não começa quando o boleto vence. Ele começa muito antes disso.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "30/07",
       "missing": [],
@@ -1272,7 +1272,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tira-dúvidas com a Juh #02 - Se eu tomei a vacina contra o HPV, ainda preciso fazer o exame preventivo?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "31/07",
       "missing": [],
@@ -4034,10 +4034,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "30/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Muita-gente-acredita-que-s-precisa-de-um-advogado-quando-o-problema-j-aconteceu-39033d8db9d28089b661dfe74452fd08"
@@ -4079,7 +4077,7 @@ const LINHA_STORIES_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "#DicaDaSemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "30/07",
       "missing": [],
