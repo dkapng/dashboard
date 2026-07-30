@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 20:55:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/07/2026, 22:48:04 **/
 
-const LAST_UPDATE = '29/07/2026, 20:55:30';
+const LAST_UPDATE = '29/07/2026, 22:48:04';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4477,7 +4477,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Camisa",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Pausada",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4493,7 +4493,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Ecobag",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4501,7 +4501,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Bloco de notas",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Pausada",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4525,7 +4525,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capas para Facebook e LinkedIn",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Pausada",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
       "gestora": "Equipe",
       "date": "24/07"
