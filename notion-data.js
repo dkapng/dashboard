@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 15:53:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/07/2026, 17:11:39 **/
 
-const LAST_UPDATE = '30/07/2026, 15:53:31';
+const LAST_UPDATE = '30/07/2026, 17:11:39';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 10,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -792,10 +792,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "30/07",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/TUDO-QUE-VOC-PRECISA-SABER-SOBRE-O-BAZAR-3ab33d8db9d280d69497e3d7a72e434d"
@@ -4454,7 +4453,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-YouTube-3ad33d8db9d2808fbf71e1c8f8b1e90b",
       "gestora": "Equipe",
-      "date": "30/07"
+      "date": "31/07"
     },
     {
       "title": "I Simpósio | Certificados",
@@ -4467,7 +4466,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
@@ -4539,7 +4538,7 @@ const DEMANDAS_EXTRAS = {
   ],
   "Daniel Maia Advocacia": [
     {
-      "title": "Atualização de contato ",
+      "title": "Atualização de contato",
       "priority": "pppp",
       "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Atualiza-o-de-contato-3ad33d8db9d280e0917dcd73cd2b254f",
