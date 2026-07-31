@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 15:52:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 17:17:24 **/
 
-const LAST_UPDATE = '31/07/2026, 15:52:07';
+const LAST_UPDATE = '31/07/2026, 17:17:24';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1894,7 +1894,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-maioria-das-organiza-es-sociais-nasce-de-uma-causa-leg-tima-Mas-o-impacto-n-o-depende-apenas-do--38833d8db9d280b38f05c944515286b9"
