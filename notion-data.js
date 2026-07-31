@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 17:17:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 18:35:35 **/
 
-const LAST_UPDATE = '31/07/2026, 17:17:24';
+const LAST_UPDATE = '31/07/2026, 18:35:35';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -154,7 +154,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 12,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 2,
     "agendado": 9,
     "agendado_coord": 0,
@@ -1891,10 +1891,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "31/07",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-maioria-das-organiza-es-sociais-nasce-de-uma-causa-leg-tima-Mas-o-impacto-n-o-depende-apenas-do--38833d8db9d280b38f05c944515286b9"
