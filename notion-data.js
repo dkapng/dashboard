@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 10:46:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 12:57:24 **/
 
-const LAST_UPDATE = '31/07/2026, 10:46:37';
+const LAST_UPDATE = '31/07/2026, 12:57:24';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -91,10 +91,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 12,
     "pronto": 12,
-    "postado": 3,
+    "postado": 4,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 14,
@@ -171,10 +171,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 13,
     "pronto": 13,
-    "postado": 5,
+    "postado": 6,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 8,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 18,
     "pronto": 18,
-    "postado": 5,
+    "postado": 6,
     "agendado": 11,
     "agendado_coord": 0,
-    "a_agendar": 1,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -301,12 +301,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Jota Diesel": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -351,10 +351,10 @@ const VIDEO_DATA = {
   "Planos Seguros": {
     "total": 10,
     "pronto": 10,
-    "postado": 2,
+    "postado": 3,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Plannea": {
     "total": 0,
@@ -546,10 +546,10 @@ const STORIES_DATA = {
   "Plannea": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 2,
@@ -904,7 +904,7 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "A máquina costuma perceber um problema antes do cliente",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "31/07",
       "missing": [],
@@ -2130,7 +2130,7 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Juntar fotos",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/07",
       "missing": [],
@@ -2564,12 +2564,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Post de aniversário: Adriana Athayde",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "31/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -3436,16 +3434,13 @@ const LINHA_VIDEO_ITEMS = {
   "Jota Diesel": [
     {
       "title": "Você não sabe onde fica a Jota?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "30/07",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-n-o-sabe-onde-fica-a-Jota-3ac33d8db9d2802dbb70ebb2111ed3f2"
     }
   ],
@@ -3536,12 +3531,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Profissionais liberais",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "31/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -4183,7 +4176,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Despesas reembolsáveis",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "31/07",
       "missing": [],
@@ -4540,7 +4533,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Agenda de agosto de 2026",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Agenda-de-agosto-de-2026-3ab33d8db9d2802bbd19d15dd7f8b476",
       "gestora": "Equipe",
       "date": "29/07"
@@ -4548,7 +4541,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Revista 128",
       "priority": "pp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Revista-128-39c33d8db9d280d297c1fd5405fda88f",
       "gestora": "Equipe",
       "date": "28T17:00:00.000/07"
@@ -4706,7 +4699,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Jota Diesel": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 10
   },
   "Ventana": {
@@ -4730,7 +4723,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 20
   },
   "Plannea": {
@@ -4746,7 +4739,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 20,
+    "prontas": 21,
     "total": 21
   },
   "Finseg Leal": {
