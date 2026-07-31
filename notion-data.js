@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 08:53:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 10:46:37 **/
 
-const LAST_UPDATE = '31/07/2026, 08:53:24';
+const LAST_UPDATE = '31/07/2026, 10:46:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4458,7 +4458,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Certificados",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4530,18 +4530,8 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Backdrops",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Falta informação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
-      "gestora": "Equipe",
-      "date": "30/07"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Atualização de contato",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Atualiza-o-de-contato-3ad33d8db9d280e0917dcd73cd2b254f",
       "gestora": "Equipe",
       "date": "30/07"
     }
@@ -4558,7 +4548,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Revista 128",
       "priority": "pp",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Revista-128-39c33d8db9d280d297c1fd5405fda88f",
       "gestora": "Equipe",
       "date": "28T17:00:00.000/07"
