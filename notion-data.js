@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 14:26:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 31/07/2026, 15:52:07 **/
 
-const LAST_UPDATE = '31/07/2026, 14:26:46';
+const LAST_UPDATE = '31/07/2026, 15:52:07';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,21 +80,21 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 10,
-    "pronto": 10,
-    "postado": 4,
+    "total": 8,
+    "pronto": 8,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5,
+    "a_agendar": 2,
     "st-paused": null
   },
   "Tramix": {
-    "total": 12,
-    "pronto": 12,
+    "total": 11,
+    "pronto": 11,
     "postado": 4,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 14,
@@ -458,18 +458,18 @@ const STORIES_DATA = {
   "Ser Ponte": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Tramix": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 0,
@@ -790,7 +790,7 @@ const LINHA_FEED_ITEMS = {
       "title": "TUDO QUE VOCÊ PRECISA SABER SOBRE O BAZAR",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "30/07",
+      "date": "31/07",
       "missing": [
         "Legenda"
       ],
@@ -801,12 +801,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Marcas confirmadas",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "28/07",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -824,17 +822,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Save-the-Date-Parte-2-do-Bazar-Solid-rio-3a733d8db9d280af912fc6776f49db9c"
     },
     {
-      "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-est-sendo-convidado-a-para-o-30-minutos-para-Ser-Ponte-online-39733d8db9d280e0a052c4c90cd9e0e8"
-    },
-    {
       "title": "Você toparia apresentar a Ser Ponte para três pessoas?",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -844,17 +831,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-toparia-apresentar-a-Ser-Ponte-para-tr-s-pessoas-37c33d8db9d280a5bd13e07706f9c17e"
-    },
-    {
-      "title": "Você que acompanha a Ser Ponte aqui nas redes sociais: como você definiria o nosso trabalho em uma palavra?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "10/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-que-acompanha-a-Ser-Ponte-aqui-nas-redes-sociais-como-voc-definiria-o-nosso-trabalho-em-uma-p-34933d8db9d2807f8b0adad10765f3fe"
     },
     {
       "title": "Existe uma Fortaleza que não chega no fim do mês.",
@@ -912,17 +888,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-m-quina-costuma-perceber-um-problema-antes-do-cliente-3aa33d8db9d2803f989cd105a54a269e"
-    },
-    {
-      "title": "Cada tipo de roupa pede um elástico diferente.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/07",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cada-tipo-de-roupa-pede-um-el-stico-diferente-3aa33d8db9d2805bacffefd04d43fec8"
     },
     {
       "title": "À primeira vista dois produtos podem parecer iguais, mas a diferença surge com o tempo",
@@ -3930,9 +3895,9 @@ const LINHA_STORIES_ITEMS = {
   "Ser Ponte": [
     {
       "title": "O que é ser ponte?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "29/07",
+      "date": "31/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3943,9 +3908,9 @@ const LINHA_STORIES_ITEMS = {
   "Tramix": [
     {
       "title": "Seu cliente percebe um bom acabamento. Mesmo sem entender de costura.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "28/07",
+      "date": "31/07",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4433,10 +4398,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Juntos contra o HPV": [
     {
-      "title": "Capa para o site",
+      "title": "I Simpósio | Capa para o site",
       "priority": "ppp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
       "gestora": "Equipe",
       "date": "31/07"
     },
@@ -4533,7 +4498,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Agenda de agosto de 2026",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Agenda-de-agosto-de-2026-3ab33d8db9d2802bbd19d15dd7f8b476",
       "gestora": "Equipe",
       "date": "29/07"
@@ -4683,12 +4648,12 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ser Ponte": {
-    "prontas": 8,
-    "total": 10
+    "prontas": 7,
+    "total": 8
   },
   "Tramix": {
-    "prontas": 12,
-    "total": 12
+    "prontas": 11,
+    "total": 11
   },
   "Stratto": {
     "prontas": 16,
@@ -4784,14 +4749,14 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 7,
+    "post": 5,
     "carrossel": 3,
     "foto": 0,
     "video": 0,
     "story": 1
   },
   "Tramix": {
-    "post": 12,
+    "post": 11,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
