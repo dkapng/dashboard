@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 16:03:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 17:41:22 **/
 
-const LAST_UPDATE = '03/08/2026, 16:03:00';
+const LAST_UPDATE = '03/08/2026, 17:41:22';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -104,12 +104,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Juntos contra o HPV": {
-    "total": 10,
+    "total": 11,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 6,
-    "a_agendar": 4
+    "agendado_coord": 5,
+    "a_agendar": 6
   },
   "Jota Diesel": {
     "total": 10,
@@ -152,12 +152,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Rede Pangeia": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 13,
@@ -184,12 +184,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "ItalaP": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 1,
@@ -216,12 +216,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 9,
+    "total": 10,
     "pronto": 3,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 8
+    "postado": 1,
+    "agendado": 2,
+    "agendado_coord": 0,
+    "a_agendar": 7
   },
   "Daniel Maia Advocacia": {
     "total": 7,
@@ -234,10 +234,10 @@ const FEED_DATA = {
   "Conecta Assessoria": {
     "total": 14,
     "pronto": 4,
-    "postado": 0,
-    "agendado": 1,
+    "postado": 1,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 10
   },
   "Solar Coworking": {
     "total": 9,
@@ -371,12 +371,12 @@ const VIDEO_DATA = {
     "a_agendar": 6
   },
   "ItalaP": {
-    "total": 1,
-    "pronto": 0,
+    "total": 5,
+    "pronto": 5,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -390,9 +390,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -403,12 +403,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 5,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Daniel Maia Advocacia": {
     "total": 1,
@@ -1079,6 +1079,32 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Seu trabalho pode fazer parte do I Simpósio do Movimento Juntos contra o HPV - as submissões estão abertas!",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "04/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-trabalho-pode-fazer-parte-do-I-Simp-sio-do-Movimento-Juntos-contra-o-HPV-as-submiss-es-est-o-a-3b133d8db9d280ebac5fe101473a1616"
+    },
+    {
+      "title": "SAVE THE DATE, Vem aí o I Simpósio do Movimento Juntos Contra o HPV",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "03/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/SAVE-THE-DATE-Vem-a-o-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-3b133d8db9d2800f8407d82ac8f73d38"
+    },
+    {
       "title": "O que acontecerá no I Simpósio do movimento do juntos contra o HPV? Muito mais do que palestras. Um encontro para compartilhar conhecimento e construir soluções. ",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
@@ -1131,23 +1157,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-ci-ncia-j-sabe-o-caminho-Agora-precisamos-acelerar-3ab33d8db9d28006b833e9935e7a2888"
     },
     {
-      "title": "Grandes transformações começam muito antes do palco!",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "04/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Grandes-transforma-es-come-am-muito-antes-do-palco-3ab33d8db9d2808393a2c28e09b691fb"
-    },
-    {
       "title": "Conheça o movimento que está mudando a prevenção no Brasil",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "03/08",
+      "date": "08/08",
       "missing": [
         "Design"
       ],
@@ -1580,7 +1593,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Descontos-no-sal-rio-t-m-limites-Voc-sabe-quais-s-o-3aa33d8db9d280758fb8d424bb4d547b"
     }
   ],
-  "Rede Pangeia": [],
+  "Rede Pangeia": [
+    {
+      "title": "A maioria das organizações sociais nasce de uma causa legítima. Mas o impacto não depende apenas do propósito.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "03/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-maioria-das-organiza-es-sociais-nasce-de-uma-causa-leg-tima-Mas-o-impacto-n-o-depende-apenas-do--38833d8db9d280b38f05c944515286b9"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Você conhece todos os benefícios do seu seguro residencial?",
@@ -1905,7 +1930,36 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seu-pai-merece-um-presente-que-ele-vai-sentir-todas-as-noites-3a733d8db9d28035830bc41072fcb973"
     }
   ],
-  "ItalaP": [],
+  "ItalaP": [
+    {
+      "title": "O check-up não serve para encontrar doenças. Serve para cuidar da sua saúde antes delas aparecerem. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-check-up-n-o-serve-para-encontrar-doen-as-Serve-para-cuidar-da-sua-sa-de-antes-delas-aparecerem-3b133d8db9d280568476e6ed5090ec0a"
+    },
+    {
+      "title": "Você conhece os sinais que seu corpo dá quando algo não está bem?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-conhece-os-sinais-que-seu-corpo-d-quando-algo-n-o-est-bem-3b133d8db9d2801096b3ff1531e17af2"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Quando foi a última vez que você fez algo pela primeira vez?",
@@ -2024,11 +2078,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-define-o-valor-da-indeniza-o-38f33d8db9d280d7a87ad35e716c5325"
     },
@@ -2038,11 +2091,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cobertura-compreensiva-o-nome-parece-complicado-mas-o-conceito-simples-38f33d8db9d280939a49dfbee9f880e1"
     },
@@ -2052,11 +2104,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "04/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-contratar-um-novo-seguro-converse-com-quem-pode-analisar-sua-realidade-primeiro-38f33d8db9d28040b5f0d6ed92d60570"
     },
@@ -2077,8 +2128,22 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Tbt do Dialogo do Seguro III",
+      "status": "a_agendar",
+      "formato": "📸 Foto(s)",
+      "date": "06/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tbt-do-Dialogo-do-Seguro-III-3b133d8db9d2807e9861e682fa0bc724"
+    },
+    {
       "title": "Você sabe quem paga quando um cliente sofre um acidente dentro da sua empresa?",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "03/08",
       "missing": [],
@@ -2167,7 +2232,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A pior frase que alguém pode dizer depois de um sinistro é: \"Eu achei que isso estava coberto.”",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [],
@@ -2178,7 +2243,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O mesmo seguro pode proteger duas pessoas de formas completamente diferentes. Descubra o porquê.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "04/08",
       "missing": [],
@@ -2265,11 +2330,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-erros-que-mais-geram-processos-trabalhistas-nas-empresas-Contrata-o-se-documenta-o-Jornada-3a633d8db9d2805d9643fed402503afb"
     },
@@ -2279,11 +2343,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "04/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-maior-prova-de-uma-a-o-trabalhista-pode-estar-no-WhatsApp-da-sua-empresa-3a633d8db9d280f48006f401a987fbe2"
     }
@@ -2408,7 +2471,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu pai sempre protegeu todo mundo. Quem está protegendo a saúde dele hoje?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "07/08",
       "missing": [],
@@ -2432,7 +2495,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O mito dos 31 dias de agosto.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -2443,7 +2506,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Checklist de Agosto: Organizar contas ▢ / Planejar a agenda ▢ / Blindar a saúde da família ▢.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "03/08",
       "missing": [],
@@ -2948,18 +3011,67 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "O que acontece com seu exame depois da coleta?",
+      "title": "Confiança desde cedo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "04/08",
+      "date": "31/08",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-que-acontece-com-seu-exame-depois-da-coleta-38333d8db9d2809591a3ee8dc5994826"
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Confian-a-desde-cedo-3b133d8db9d280438240ea3108044ecb"
+    },
+    {
+      "title": "Novidade Unimed",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "24/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Novidade-Unimed-3b133d8db9d280208812edf523363ab9"
+    },
+    {
+      "title": "O caminho da coleta",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "17/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/O-caminho-da-coleta-3b133d8db9d28037a1fcd47f5dd4e407"
+    },
+    {
+      "title": "Check-up",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Check-up-3b133d8db9d280bc8248cf89e20e2848"
+    },
+    {
+      "title": "Seja bem-vindo a italap",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "03/08",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Seja-bem-vindo-a-italap-3b133d8db9d280b5ac81e069ebb71759"
     }
   ],
   "Grupo Mulheres do Brasil": [],
@@ -3005,7 +3117,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Os erros que os pais descobrem depois",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "03/08",
       "missing": [],
@@ -3042,19 +3154,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Dia-dos-Pais-3a033d8db9d2800088dee243ca0b0a0d"
-    },
-    {
-      "title": "Dia Nacional da Saúde",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "05/08",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Dia-Nacional-da-Sa-de-3a033d8db9d280a3a7b4e27f70785d8c"
     },
     {
       "title": "O que realmente importa ",
@@ -3475,10 +3574,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Daniel Maia Advocacia": [
     {
-      "title": "Assinatura de e-mail",
+      "title": "Assinaturas de e-mail de Mirella e Vanessa",
       "priority": "pp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-3ad33d8db9d28051bdbcc25fa4eac4d0",
+      "notionUrl": "https://app.notion.com/p/Assinaturas-de-e-mail-de-Mirella-e-Vanessa-3ad33d8db9d28051bdbcc25fa4eac4d0",
       "gestora": "Equipe",
       "date": "03/08"
     }
@@ -3503,7 +3602,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Certificados",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3737,8 +3836,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Juntos contra o HPV": {
-    "prontas": 14,
-    "total": 16
+    "prontas": 15,
+    "total": 17
   },
   "Jota Diesel": {
     "prontas": 8,
@@ -3761,8 +3860,8 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Rede Pangeia": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 1,
+    "total": 1
   },
   "Planos Seguros": {
     "prontas": 15,
@@ -3777,15 +3876,15 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "ItalaP": {
-    "prontas": 0,
-    "total": 1
+    "prontas": 1,
+    "total": 8
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 1,
     "total": 1
   },
   "Finseg Leal": {
-    "prontas": 1,
+    "prontas": 4,
     "total": 17
   },
   "Di Gregório Buffet": {
@@ -3793,11 +3892,11 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 14,
+    "prontas": 13,
     "total": 15
   },
   "Daniel Maia Advocacia": {
-    "prontas": 0,
+    "prontas": 2,
     "total": 11
   },
   "Conecta Assessoria": {
@@ -3848,7 +3947,7 @@ const FORMAT_COUNTS = {
   },
   "Juntos contra o HPV": {
     "post": 6,
-    "carrossel": 4,
+    "carrossel": 5,
     "foto": 0,
     "video": 5,
     "story": 3
@@ -3890,7 +3989,7 @@ const FORMAT_COUNTS = {
   },
   "Rede Pangeia": {
     "post": 0,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -3917,10 +4016,10 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "ItalaP": {
-    "post": 0,
+    "post": 2,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
+    "video": 5,
     "story": 0
   },
   "Grupo Mulheres do Brasil": {
@@ -3947,8 +4046,8 @@ const FORMAT_COUNTS = {
   "APROSSEG": {
     "post": 8,
     "carrossel": 1,
-    "foto": 0,
-    "video": 5,
+    "foto": 1,
+    "video": 4,
     "story": 0
   },
   "Daniel Maia Advocacia": {
