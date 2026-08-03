@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 11:37:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 14:05:14 **/
 
-const LAST_UPDATE = '03/08/2026, 11:37:29';
+const LAST_UPDATE = '03/08/2026, 14:05:14';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 6,
-    "pronto": 0,
+    "total": 10,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 4
+    "a_agendar": 8
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -80,20 +80,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 9,
-    "pronto": 2,
+    "total": 11,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 10
   },
   "Tramix": {
     "total": 9,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Stratto": {
     "total": 5,
@@ -160,20 +160,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 8,
+    "total": 13,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 13
   },
   "Plannea": {
     "total": 5,
     "pronto": 5,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 7,
@@ -194,10 +194,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Finseg Leal": {
     "total": 11,
@@ -251,12 +251,12 @@ const FEED_DATA = {
 
 const VIDEO_DATA = {
   "AAFEC": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -347,9 +347,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 4,
-    "pronto": 1,
-    "postado": 0,
+    "total": 5,
+    "pronto": 3,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 4
@@ -534,12 +534,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 2,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 2
+    "agendado_coord": 1,
+    "a_agendar": 3
   },
   "Plannea": {
     "total": 2,
@@ -629,7 +629,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Servidores fazendários aposentados antes de 1998 que possuem direito à revisão dos valores recebidos",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "14/08",
+      "date": "24/08",
       "missing": [
         "Design"
       ],
@@ -642,7 +642,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Atenção, associados: criminosos estão aplicando o golpe do corretor",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "12/08",
+      "date": "19/08",
       "missing": [
         "Design"
       ],
@@ -655,7 +655,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nosso grupo é do Balacobaco\n",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "10/08",
+      "date": "17/08",
       "missing": [
         "Design"
       ],
@@ -668,7 +668,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quer fazer parte do Coral AAFEC?\n",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/08",
+      "date": "21/08",
       "missing": [
         "Design"
       ],
@@ -681,7 +681,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O seu artista preferido na nossa Galeria da Fama",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "05/08",
+      "date": "12/08",
       "missing": [
         "Design"
       ],
@@ -694,7 +694,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Boteco com os amigos é na AAFEC!",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "03/08",
+      "date": "10/08",
       "missing": [
         "Design"
       ],
@@ -702,10 +702,67 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Boteco-com-os-amigos-na-AAFEC-39d33d8db9d280cdab59de3863f85f5f"
+    },
+    {
+      "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabia-que-a-AAFEC-oferece-academia-gratuita-aos-associados-39d33d8db9d2806a9fc5deab6b03d0de"
+    },
+    {
+      "title": "Saiba tudo sobre seus direitos no encontro mensal dos associados",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Saiba-tudo-sobre-seus-direitos-no-encontro-mensal-dos-associados-39d33d8db9d280ab8362f58fb53cf578"
+    },
+    {
+      "title": "1 em cada 4 idosos no mundo pode estar em situação de isolamento social (em foto menor: Mas envelhecer não precisa significar viver sozinho.)",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "05/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/1-em-cada-4-idosos-no-mundo-pode-estar-em-situa-o-de-isolamento-social-em-foto-menor-Mas-envelhec-39d33d8db9d2809189a9eeea61dcfedd"
+    },
+    {
+      "title": "Você não precisa viver a terceira idade sozinho",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "03/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-n-o-precisa-viver-a-terceira-idade-sozinho-39d33d8db9d2800aa04fd21d6ece735f"
     }
   ],
   "Travessias Híbridas": [],
   "Ser Ponte": [
+    {
+      "title": "TUDO QUE VOCÊ PRECISA SABER SOBRE O BAZAR",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "03/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/TUDO-QUE-VOC-PRECISA-SABER-SOBRE-O-BAZAR-3ab33d8db9d280d69497e3d7a72e434d"
+    },
     {
       "title": "Como você definiria nosso trabalho em uma palavra?",
       "status": "a_agendar",
@@ -788,7 +845,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "03/08",
+      "date": "19/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -818,6 +875,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
+    },
+    {
+      "title": "Existe uma Fortaleza que não chega no fim do mês.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Existe-uma-Fortaleza-que-n-o-chega-no-fim-do-m-s-34933d8db9d28002b145e0f13bdf673d"
     }
   ],
   "Tramix": [
@@ -915,7 +983,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cada tipo de roupa pede um elástico diferente.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "03/08",
       "missing": [],
@@ -1606,6 +1674,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-telemedicina-pode-transformar-seu-acesso-sa-de-39633d8db9d28066939ed15ba8498c7b"
     },
     {
+      "title": "Quando foi a última vez que você olhou para o seu prédio além do valor do imóvel?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-olhou-para-o-seu-pr-dio-al-m-do-valor-do-im-vel-39633d8db9d280cbb479e06dab22988b"
+    },
+    {
       "title": "O patrimônio mudou. A estratégia de proteção também?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1617,6 +1698,58 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-patrim-nio-mudou-A-estrat-gia-de-prote-o-tamb-m-39633d8db9d280928790e06378d4a7a6"
+    },
+    {
+      "title": "Deixar pra depois pode ser a pior decisão\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Deixar-pra-depois-pode-ser-a-pior-decis-o-39633d8db9d280b8a92ce66d530ed44a"
+    },
+    {
+      "title": "A má gestão dos seguros pode estar limitando o crescimento da sua empresa\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-m-gest-o-dos-seguros-pode-estar-limitando-o-crescimento-da-sua-empresa-39633d8db9d280c498baccb6a526f1d9"
+    },
+    {
+      "title": "Antes de escolher um plano para sua família, responda isso",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "11/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Antes-de-escolher-um-plano-para-sua-fam-lia-responda-isso-35233d8db9d2803fb8c4ef2b6b33aa47"
+    },
+    {
+      "title": "Se tem as melhores opções em planos de saúde, tem cotação planos na sua mão.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-tem-as-melhores-op-es-em-planos-de-sa-de-tem-cota-o-planos-na-sua-m-o-33a33d8db9d280c4a5faf04512f3337a"
     }
   ],
   "Plannea": [
@@ -1668,7 +1801,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "SPED sem dor de cabeça: checklist de envio à prova de multa",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "03/08",
       "missing": [],
@@ -1776,7 +1909,7 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Quando foi a última vez que você fez algo pela primeira vez?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "03/08",
       "missing": [],
@@ -2456,7 +2589,21 @@ const LINHA_FEED_ITEMS = {
 };
 
 const LINHA_VIDEO_ITEMS = {
-  "AAFEC": [],
+  "AAFEC": [
+    {
+      "title": "#TBT",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "06/08",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/TBT-39f33d8db9d28094b8c7c4a4ba021cea"
+    }
+  ],
   "Travessias Híbridas": [],
   "Ser Ponte": [],
   "Tramix": [],
@@ -2691,17 +2838,25 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Proteção mãos",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "03/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Prote-o-m-os-3a033d8db9d28081b84ef7d2dbe624ae"
+    },
+    {
+      "title": "App operadoras",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/08",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/App-operadoras-39733d8db9d2808d8670f63922ab3e2c"
     }
   ],
   "Plannea": [],
@@ -3163,6 +3318,19 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-patrim-nio-da-sua-empresa-mudou-A-estrat-gia-de-cobertura-tamb-m-39633d8db9d280679a7be265e75856ba"
     },
     {
+      "title": "Seu seguro acompanha a realidade atual da sua operação?",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "21/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-seguro-acompanha-a-realidade-atual-da-sua-opera-o-36733d8db9d28015a941e771638e52b4"
+    },
+    {
       "title": "O processo de proteção começa antes do problema, não no momento em que ele acontece!",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -3174,6 +3342,19 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-processo-de-prote-o-come-a-antes-do-problema-n-o-no-momento-em-que-ele-acontece-35233d8db9d28060aabee96894470cda"
+    },
+    {
+      "title": "Seq. Stories",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "27/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seq-Stories-30f33d8db9d2803b8644fddc3075e757"
     }
   ],
   "Plannea": [
@@ -3306,7 +3487,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para o site",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
       "gestora": "Equipe",
       "date": "31/07"
@@ -3330,7 +3511,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
@@ -3338,7 +3519,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Camisa",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3354,7 +3535,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Ecobag",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3362,7 +3543,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Bloco de notas",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3525,6 +3706,8 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Finseg Leal": "confirmada",
+  "APROSSEG": "confirmada",
   "Univendas": "marcada",
   "Plannea": "marcada",
   "Rede Pangeia": "marcada"
@@ -3534,16 +3717,16 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 6,
-    "total": 6
+    "prontas": 11,
+    "total": 11
   },
   "Travessias Híbridas": {
     "prontas": 0,
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 9,
-    "total": 9
+    "prontas": 10,
+    "total": 11
   },
   "Tramix": {
     "prontas": 8,
@@ -3582,8 +3765,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Planos Seguros": {
-    "prontas": 8,
-    "total": 12
+    "prontas": 15,
+    "total": 18
   },
   "Plannea": {
     "prontas": 4,
@@ -3629,10 +3812,10 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 4,
-    "carrossel": 2,
+    "post": 6,
+    "carrossel": 4,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "Travessias Híbridas": {
@@ -3643,8 +3826,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 3,
-    "carrossel": 6,
+    "post": 4,
+    "carrossel": 7,
     "foto": 0,
     "video": 0,
     "story": 1
@@ -3713,11 +3896,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Planos Seguros": {
-    "post": 8,
-    "carrossel": 0,
+    "post": 12,
+    "carrossel": 1,
     "foto": 0,
-    "video": 4,
-    "story": 2
+    "video": 5,
+    "story": 4
   },
   "Plannea": {
     "post": 5,
@@ -3879,7 +4062,7 @@ const AGENDA_COUNTS = {
   },
   "Finseg Leal": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Di Gregório Buffet": {
@@ -3889,7 +4072,7 @@ const AGENDA_COUNTS = {
   },
   "APROSSEG": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Daniel Maia Advocacia": {
