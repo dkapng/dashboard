@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 17:41:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 19:00:29 **/
 
-const LAST_UPDATE = '03/08/2026, 17:41:22';
+const LAST_UPDATE = '03/08/2026, 19:00:29';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -155,9 +155,9 @@ const FEED_DATA = {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 13,
@@ -1025,7 +1025,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Crescimento precisa de caixa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "03/08",
+      "date": "04/08",
       "missing": [
         "Legenda"
       ],
@@ -1596,7 +1596,7 @@ const LINHA_FEED_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "A maioria das organizações sociais nasce de uma causa legítima. Mas o impacto não depende apenas do propósito.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "03/08",
       "missing": [],
@@ -3572,6 +3572,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Card para whatsapp",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Card-para-whatsapp-3b133d8db9d28047a0f8ef54045c7e83",
+      "gestora": "Equipe",
+      "date": "06/08"
+    },
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
   "Daniel Maia Advocacia": [
     {
       "title": "Assinaturas de e-mail de Mirella e Vanessa",
@@ -3754,16 +3772,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
       "gestora": "Equipe",
       "date": "12T12:00:00.000/06"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
     }
   ],
   "Finseg Leal": [
