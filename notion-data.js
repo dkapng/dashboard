@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/08/2026, 20:27:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/08/2026, 22:05:41 **/
 
-const LAST_UPDATE = '02/08/2026, 20:27:12';
+const LAST_UPDATE = '02/08/2026, 22:05:41';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -3012,7 +3012,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3ab33d8db9d280aba0d7c55786939a80"
     },
     {
-      "title": "Story/stories",
+      "title": "Algo muito importante está sendo preparado…",
       "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "07/08",
@@ -3022,7 +3022,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ab33d8db9d280e8bed4c34a3acd08e0"
+      "notionUrl": "https://app.notion.com/p/Algo-muito-importante-est-sendo-preparado-3ab33d8db9d280e8bed4c34a3acd08e0"
     }
   ],
   "Jota Diesel": [
@@ -3137,7 +3137,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3aa33d8db9d280b98f6be33ce9718452"
     },
     {
-      "title": "Story/stories",
+      "title": "Muitas pessoas possuem direitos que nem imaginam.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "06/08",
@@ -3147,7 +3147,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-39033d8db9d2805a80e6dc4d6afc8539"
+      "notionUrl": "https://app.notion.com/p/Muitas-pessoas-possuem-direitos-que-nem-imaginam-39033d8db9d2805a80e6dc4d6afc8539"
     }
   ],
   "Rede Pangeia": [],
@@ -3357,7 +3357,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Ecobag",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3365,7 +3365,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Bloco de notas",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
       "gestora": "Equipe",
       "date": "30/07"
