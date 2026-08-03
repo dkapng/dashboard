@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/08/2026, 22:05:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 01:58:48 **/
 
-const LAST_UPDATE = '02/08/2026, 22:05:41';
+const LAST_UPDATE = '03/08/2026, 01:58:48';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -97,7 +97,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -145,7 +145,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 6,
-    "pronto": 0,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -169,7 +169,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 5,
-    "pronto": 3,
+    "pronto": 5,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -200,12 +200,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Finseg Leal": {
-    "total": 10,
+    "total": 11,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 11
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -233,7 +233,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 14,
-    "pronto": 1,
+    "pronto": 4,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -959,10 +959,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "03/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Crescimento-precisa-de-caixa-39133d8db9d280cb8e93c92f5c225387"
@@ -1484,10 +1483,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-todo-problema-jur-dico-come-a-no-tribunal-Muitos-come-am-em-um-documento-3aa33d8db9d280e8974ae8563df3d4f8"
@@ -1497,10 +1494,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mora-h-anos-em-um-im-vel-Entenda-quando-a-posse-pode-ser-reconhecida-legalmente-3aa33d8db9d2800db731d70be8fe49c9"
@@ -1510,10 +1505,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "03/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Descontos-no-sal-rio-t-m-limites-Voc-sabe-quais-s-o-3aa33d8db9d280758fb8d424bb4d547b"
@@ -1667,10 +1660,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Transforme-recibos-em-insights-automa-o-cont-bil-na-pr-tica-1f133d8db9d280d48bdac217561767d1"
@@ -1680,10 +1671,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "03/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/SPED-sem-dor-de-cabe-a-checklist-de-envio-prova-de-multa-1f133d8db9d280959627c3f41cb0b79f"
@@ -1909,6 +1898,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-define-o-valor-da-indeniza-o-38f33d8db9d280d7a87ad35e716c5325"
+    },
+    {
+      "title": "Cobertura compreensiva: o nome parece complicado, mas o conceito é simples.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cobertura-compreensiva-o-nome-parece-complicado-mas-o-conceito-simples-38f33d8db9d280939a49dfbee9f880e1"
     },
     {
       "title": "Antes de contratar um novo seguro, converse com quem pode analisar sua realidade primeiro.",
@@ -2275,10 +2278,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "07/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-pai-sempre-protegeu-todo-mundo-Quem-est-protegendo-a-sa-de-dele-hoje-3a433d8db9d280549f07fd8b37a9ab63"
@@ -2301,10 +2302,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-mito-dos-31-dias-de-agosto-3a433d8db9d2802c8956f422f1e4be19"
@@ -2314,10 +2313,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "03/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Checklist-de-Agosto-Organizar-contas-Planejar-a-agenda-Blindar-a-sa-de-da-fam-lia-3a433d8db9d2802e9a84ea81b7061ed6"
@@ -3751,7 +3748,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 9,
+    "post": 10,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
