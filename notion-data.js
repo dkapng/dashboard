@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 14:05:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/08/2026, 16:03:00 **/
 
-const LAST_UPDATE = '03/08/2026, 14:05:14';
+const LAST_UPDATE = '03/08/2026, 16:03:00';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -3487,7 +3487,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para o site",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
       "gestora": "Equipe",
       "date": "31/07"
@@ -3495,7 +3495,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para YouTube",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-YouTube-3ad33d8db9d2808fbf71e1c8f8b1e90b",
       "gestora": "Equipe",
       "date": "31/07"
@@ -3503,7 +3503,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Certificados",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
       "gestora": "Equipe",
       "date": "30/07"
