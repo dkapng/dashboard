@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 19:55:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 20:57:52 **/
 
-const LAST_UPDATE = '04/08/2026, 19:55:51';
+const LAST_UPDATE = '04/08/2026, 20:57:52';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -193,7 +193,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 12,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2228,10 +2228,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-tantas-mulheres-ainda-deixam-o-mercado-de-trabalho-ap-s-a-maternidade-3b233d8db9d2804db9d9f1ed3fefa12e"
@@ -3863,7 +3862,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/formato-stories-3b233d8db9d28051958acdadc86182cc",
       "gestora": "Equipe",
-      "date": "10/08"
+      "date": "05/08"
     },
     {
       "title": "Configuração de mensagens automáticas no Instagram.",
@@ -4087,6 +4086,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Ser Ponte": "marcada",
   "Finseg Leal": "confirmada",
   "APROSSEG": "confirmada",
   "Univendas": "marcada",
@@ -4368,7 +4368,7 @@ const AGENDA_COUNTS = {
   },
   "Ser Ponte": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Tramix": {
