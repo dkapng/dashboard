@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 17:07:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 18:45:49 **/
 
-const LAST_UPDATE = '04/08/2026, 17:07:09';
+const LAST_UPDATE = '04/08/2026, 18:45:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -96,20 +96,20 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Stratto": {
-    "total": 4,
+    "total": 13,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 12
   },
   "Juntos contra o HPV": {
-    "total": 11,
-    "pronto": 3,
+    "total": 10,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 5,
-    "a_agendar": 6
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 10,
@@ -283,12 +283,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Stratto": {
-    "total": 5,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -365,10 +365,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 0,
     "pronto": 0,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "ItalaP": {
     "total": 5,
@@ -470,12 +470,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Stratto": {
-    "total": 0,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 3,
@@ -1032,9 +1032,36 @@ const LINHA_FEED_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "Escalar não é contratar mais pessoas.",
+      "title": "\"O exemplo não é a melhor forma de ensinar. É a única.\" — Albert Schweitzer",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
+      "formato": "🖼️ Post",
+      "date": "09/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-exemplo-n-o-a-melhor-forma-de-ensinar-a-nica-Albert-Schweitzer-3b233d8db9d280d6b55ac57c33ba56d5"
+    },
+    {
+      "title": "\nQuer conhecer a metodologia da Stratto? Fale com nossa equipe pelo WhatsApp: ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quer-conhecer-a-metodologia-da-Stratto-Fale-com-nossa-equipe-pelo-WhatsApp-85-99420-2057-3b233d8db9d280d68481f6d1685fd9f4"
+    },
+    {
+      "title": "Antes de comemorar o próximo recorde de vendas, vale fazer uma pergunta: sua empresa está crescendo de forma saudável ou apenas aumentando os custos?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
         "Design",
@@ -1043,11 +1070,130 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Escalar-n-o-contratar-mais-pessoas-39133d8db9d28053a251cf1ea8d220d0"
+      "notionUrl": "https://app.notion.com/p/Antes-de-comemorar-o-pr-ximo-recorde-de-vendas-vale-fazer-uma-pergunta-sua-empresa-est-crescendo--3b233d8db9d28000bf45fa2e651f9b95"
+    },
+    {
+      "title": "Toda reunião precisa terminar com uma decisão melhor do que começou.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-reuni-o-precisa-terminar-com-uma-decis-o-melhor-do-que-come-ou-3b233d8db9d2803bbab4ef79aabf6371"
+    },
+    {
+      "title": "Toda empresa possui uma operação diferente. Por isso, acreditamos que uma boa gestão começa conhecendo pessoas, processos e objetivos.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "20/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-empresa-possui-uma-opera-o-diferente-Por-isso-acreditamos-que-uma-boa-gest-o-come-a-conhecen-3b233d8db9d280fcb793d30da81006f4"
+    },
+    {
+      "title": "Acompanhar empresas de diferentes segmentos mostrou uma verdade que se repete: o problema raramente está apenas nos números.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Acompanhar-empresas-de-diferentes-segmentos-mostrou-uma-verdade-que-se-repete-o-problema-raramente--3b233d8db9d2802fafa4c1e0d504aec1"
+    },
+    {
+      "title": "Toda empresa tem uma história. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-uma-hist-ria-A-nossa-come-ou-com-um-prop-sito-3b233d8db9d28003b020e601ebf03ab2"
+    },
+    {
+      "title": "Empresas de segmentos diferentes. Um mesmo objetivo: crescer com segurança.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Empresas-de-segmentos-diferentes-Um-mesmo-objetivo-crescer-com-seguran-a-3b233d8db9d2804598dcce60818c1e2e"
+    },
+    {
+      "title": "Mais do que um BPO Financeiro. Somos parceiros estratégicos para empresas que querem crescer.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-do-que-um-BPO-Financeiro-Somos-parceiros-estrat-gicos-para-empresas-que-querem-crescer-3b233d8db9d2800ca8bdd48d357bb89b"
+    },
+    {
+      "title": "O que empresas de segmentos tão diferentes encontram na Stratto?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "24/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-empresas-de-segmentos-t-o-diferentes-encontram-na-Stratto-39133d8db9d280848806f86b3a9f1a1b"
+    },
+    {
+      "title": "Toda decisão importante dentro de uma empresa passa, de alguma forma, pelo financeiro.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-decis-o-importante-dentro-de-uma-empresa-passa-de-alguma-forma-pelo-financeiro-39133d8db9d28016b867cd8707f241ed"
+    },
+    {
+      "title": "Grandes resultados começam muito antes da primeira análise financeira.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Grandes-resultados-come-am-muito-antes-da-primeira-an-lise-financeira-39133d8db9d28095b9adfe73085fb560"
     },
     {
       "title": "Crescimento precisa de caixa.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "04/08",
       "missing": [],
@@ -1055,42 +1201,14 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Crescimento-precisa-de-caixa-39133d8db9d280cb8e93c92f5c225387"
-    },
-    {
-      "title": "Lucro x Faturamento.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "19/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Lucro-x-Faturamento-39133d8db9d280099cc3d99dfe409ad4"
-    },
-    {
-      "title": "Quanto custa crescer sem planejamento?",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "12/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-custa-crescer-sem-planejamento-39133d8db9d28025b751d8cb86c5f219"
     }
   ],
   "Juntos contra o HPV": [
     {
       "title": "Seu trabalho pode fazer parte do I Simpósio do Movimento Juntos contra o HPV - as submissões estão abertas!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "04/08",
+      "date": "05/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1099,7 +1217,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "SAVE THE DATE, Vem aí o I Simpósio do Movimento Juntos Contra o HPV",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "04/08",
       "missing": [],
@@ -1164,7 +1282,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Conheça o movimento que está mudando a prevenção no Brasil",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "08/08",
+      "date": "07/08",
       "missing": [
         "Design"
       ],
@@ -1211,17 +1329,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aproximadamente-20-mulheres-morrem-por-dia-no-pa-s-devido-a-uma-doen-a-evit-vel-O-verdadeiro-impact-39833d8db9d2803e8c1cfc3c0f6231c1"
-    },
-    {
-      "title": "Juh, a vacina contra o HPV é segura? H2: Sim! A vacina é segura, eficaz e recomendada por autoridades de saúde do Brasil e do mundo. H3: Ela protege contra os tipos de HPV que mais causam câncer e outras doenças relacionadas ao vírus.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "06/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Juh-a-vacina-contra-o-HPV-segura-H2-Sim-A-vacina-segura-eficaz-e-recomendada-por-autoridade-39833d8db9d2806d9bb2c842a6c1278f"
     }
   ],
   "Jota Diesel": [
@@ -1959,16 +2066,15 @@ const LINHA_FEED_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "Seu próximo cuidado com a sua saúde pode começar hoje. Conte com a ItalaP",
+      "title": "Seu próximo cuidado com a sua saúde pode começar hoje. Conte com a ItalaP!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-pr-ximo-cuidado-com-a-sua-sa-de-pode-come-ar-hoje-Conte-com-a-ItalaP-3b133d8db9d2804da364dab25132fbd7"
     },
@@ -1978,11 +2084,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "06/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-check-up-n-o-serve-para-encontrar-doen-as-Serve-para-cuidar-da-sua-sa-de-antes-delas-aparecerem-3b133d8db9d280568476e6ed5090ec0a"
     },
@@ -1992,11 +2097,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-os-sinais-que-seu-corpo-d-quando-algo-n-o-est-bem-3b133d8db9d2801096b3ff1531e17af2"
     }
@@ -2292,7 +2396,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Antes de contratar um novo seguro, converse com quem pode analisar sua realidade primeiro.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/08",
+      "date": "05/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2884,61 +2988,6 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "BPO como estrutura para expansão.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/BPO-como-estrutura-para-expans-o-39133d8db9d280889d87ec39f9fec187"
-    },
-    {
-      "title": "O caixa aguenta o crescimento?",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-caixa-aguenta-o-crescimento-39133d8db9d28014a354d644a6eeeb19"
-    },
-    {
-      "title": "Sua empresa está crescendo... ou ficando mais cara?",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Sua-empresa-est-crescendo-ou-ficando-mais-cara-39133d8db9d280f39e07c641831ac248"
-    },
-    {
-      "title": "Existe uma diferença enorme entre controlar contas e fazer gestão financeira.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/08",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Existe-uma-diferen-a-enorme-entre-controlar-contas-e-fazer-gest-o-financeira-39133d8db9d28099b742d4056340cd69"
-    },
-    {
       "title": "Antes de assumir o financeiro de uma empresa, fazemos uma coisa que quase ninguém faz.",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -2970,7 +3019,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Reels com a Aline (embaixadora)",
       "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
-      "date": "19/08",
+      "date": "26/08",
       "missing": [
         "Vídeo"
       ],
@@ -2996,7 +3045,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Por que esse Simpósio é diferente? ",
       "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
-      "date": "12/08",
+      "date": "19/08",
       "missing": [
         "Vídeo"
       ],
@@ -3009,7 +3058,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O que é o I Simpósio do Movimento Juntos contra o HPV?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "05/08",
+      "date": "12/08",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3152,12 +3201,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "O CONFORTO QUE SEU PAI MERECE",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "03/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3456,7 +3503,47 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-trabalho-da-confec-o-termina-quando-a-pe-a-sai-da-m-quina-Na-verdade-a-que-come-a-a-experi-n-39933d8db9d280f390c9d78c9809666e"
     }
   ],
-  "Stratto": [],
+  "Stratto": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "27/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3b233d8db9d2808da8e9c1498059c8d7"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "19/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Escrevendo",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3b233d8db9d2804b9addd217b6d581cc"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "13/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3b233d8db9d280e483adc59d844300fc"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Story/stories",
@@ -3488,7 +3575,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Algo muito importante está sendo preparado…",
       "status": "agendado_coord",
       "formato": "📱 Story",
-      "date": "07/08",
+      "date": "06/08",
       "missing": [
         "Design"
       ],
@@ -4052,12 +4139,12 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Stratto": {
-    "prontas": 3,
-    "total": 12
+    "prontas": 10,
+    "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 15,
-    "total": 17
+    "prontas": 14,
+    "total": 16
   },
   "Jota Diesel": {
     "prontas": 8,
@@ -4096,7 +4183,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "ItalaP": {
-    "prontas": 1,
+    "prontas": 4,
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
@@ -4159,14 +4246,14 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Stratto": {
-    "post": 1,
-    "carrossel": 3,
+    "post": 11,
+    "carrossel": 2,
     "foto": 0,
-    "video": 5,
-    "story": 0
+    "video": 1,
+    "story": 3
   },
   "Juntos contra o HPV": {
-    "post": 6,
+    "post": 5,
     "carrossel": 5,
     "foto": 0,
     "video": 5,
