@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 18:45:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 19:55:51 **/
 
-const LAST_UPDATE = '04/08/2026, 18:45:49';
+const LAST_UPDATE = '04/08/2026, 19:55:51';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,7 +89,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 1,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -202,10 +202,10 @@ const FEED_DATA = {
   "Finseg Leal": {
     "total": 11,
     "pronto": 4,
-    "postado": 0,
-    "agendado": 0,
+    "postado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 8
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -419,12 +419,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 0,
@@ -971,10 +971,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-experi-ncia-do-cliente-come-a-nos-aviamentos-3aa33d8db9d28044b0b4c0a082d61495"
@@ -997,10 +995,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-pe-a-passa-por-muitas-m-os-antes-de-chegar-ao-consumidor-3aa33d8db9d280f3a00deb7c23145df0"
@@ -2070,10 +2066,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-pr-ximo-cuidado-com-a-sua-sa-de-pode-come-ar-hoje-Conte-com-a-ItalaP-3b133d8db9d2804da364dab25132fbd7"
@@ -2083,10 +2077,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-check-up-n-o-serve-para-encontrar-doen-as-Serve-para-cuidar-da-sua-sa-de-antes-delas-aparecerem-3b133d8db9d280568476e6ed5090ec0a"
@@ -2096,10 +2088,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-os-sinais-que-seu-corpo-d-quando-algo-n-o-est-bem-3b133d8db9d2801096b3ff1531e17af2"
@@ -2372,7 +2362,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem define o valor da indenização?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [],
@@ -2383,7 +2373,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cobertura compreensiva: o nome parece complicado, mas o conceito é simples.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/08",
       "missing": [],
@@ -2394,7 +2384,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Antes de contratar um novo seguro, converse com quem pode analisar sua realidade primeiro.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -2644,7 +2634,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A maior prova de uma ação trabalhista pode estar no WhatsApp da sua empresa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/08",
+      "date": "05/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3453,22 +3443,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Como-um-advogado-falaria-isso-no-tribunal-Dia-do-Advogado-3a633d8db9d280198d6dd117ed6347bf"
     }
   ],
-  "Conecta Assessoria": [
-    {
-      "title": "Best Senior Patrocinado",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "04/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Best-Senior-Patrocinado-3ae33d8db9d2803196c5cd1f18800e36"
-    }
-  ],
+  "Conecta Assessoria": [],
   "Solar Coworking": []
 };
 
@@ -4208,7 +4183,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 14,
-    "total": 15
+    "total": 14
   },
   "Solar Coworking": {
     "prontas": 6,
@@ -4368,7 +4343,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 2,
     "foto": 0,
-    "video": 1,
+    "video": 0,
     "story": 0
   },
   "Solar Coworking": {
