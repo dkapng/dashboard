@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 13:53:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 15:23:44 **/
 
-const LAST_UPDATE = '04/08/2026, 13:53:08';
+const LAST_UPDATE = '04/08/2026, 15:23:44';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -192,12 +192,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
-    "total": 2,
+    "total": 12,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 11
   },
   "Finseg Leal": {
     "total": 11,
@@ -1934,11 +1934,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Dia-dos-pais-3a733d8db9d28036b132ebdc6a5edc6e"
     },
@@ -2027,6 +2026,146 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Quanto vale o trabalho que nunca aparece no contracheque?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Quanto-vale-o-trabalho-que-nunca-aparece-no-contracheque-3b233d8db9d2804cb3a2cb8098c3c1bb"
+    },
+    {
+      "title": "As meninas estudam mais. Mas isso ainda não significa igualdade.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/As-meninas-estudam-mais-Mas-isso-ainda-n-o-significa-igualdade-3b233d8db9d280a0bf2ef15faec08dbd"
+    },
+    {
+      "title": "Quanto custa viver sem tempo?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Quanto-custa-viver-sem-tempo-3b233d8db9d2801696defab865684d38"
+    },
+    {
+      "title": "Quem cuida de quem cuida?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Quem-cuida-de-quem-cuida-3b233d8db9d2805bbcf8c43c14918b67"
+    },
+    {
+      "title": "O CEP onde uma menina nasce ainda influencia o futuro que ela pode construir",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/O-CEP-onde-uma-menina-nasce-ainda-influencia-o-futuro-que-ela-pode-construir-3b233d8db9d280d6bc5bd9426248a6ca"
+    },
+    {
+      "title": "A solidão na velhice também tem gênero",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/A-solid-o-na-velhice-tamb-m-tem-g-nero-3b233d8db9d2801a9df1e5a3ac2ea901"
+    },
+    {
+      "title": "Por que tantas mulheres empreendem por necessidade e não por oportunidade?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Por-que-tantas-mulheres-empreendem-por-necessidade-e-n-o-por-oportunidade-3b233d8db9d280199692c5eb4618b387"
+    },
+    {
+      "title": "O que é violência patrimonial? Muitas mulheres ainda não conhecem esse tipo de violência",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/O-que-viol-ncia-patrimonial-Muitas-mulheres-ainda-n-o-conhecem-esse-tipo-de-viol-ncia-3b233d8db9d2805b8edee7a3eddac2c1"
+    },
+    {
+      "title": "Economia do cuidado é o trabalho invisível que movimenta o país",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Economia-do-cuidado-o-trabalho-invis-vel-que-movimenta-o-pa-s-3b233d8db9d28085844addf494ec18c5"
+    },
+    {
+      "title": "Por que tantas mulheres ainda deixam o mercado de trabalho após a maternidade?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Por-que-tantas-mulheres-ainda-deixam-o-mercado-de-trabalho-ap-s-a-maternidade-3b233d8db9d2804db9d9f1ed3fefa12e"
+    },
     {
       "title": "Ser pai é estar presente. Feliz Dia dos pais!",
       "status": "a_agendar",
@@ -3045,11 +3184,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "03/08",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-CONFORTO-QUE-SEU-PAI-MERECE-3ac33d8db9d280e4b1bdfae78094cc5c"
     },
@@ -3059,11 +3197,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "19/08",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-PROBLEMA-N-O-A-SEGUNDA-FEIRA-3ac33d8db9d280f6ba47ec223edecc04"
     },
@@ -3073,11 +3210,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "07/08",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/UM-PRESENTE-DE-DIA-DOS-PAIS-3ac33d8db9d28069afa5d699761d343d"
     },
@@ -3087,11 +3223,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "12/08",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/QUAL-O-M-VEL-MAIS-IMPORTANTE-DA-SUA-CASA-3a733d8db9d28043b85bfc620490fc61"
     },
@@ -3101,11 +3236,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "05/08",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-SEU-PAI-MERECE-O-MELHOR-3a733d8db9d28010b0b5ecfee0c5a5b0"
     }
@@ -3688,6 +3822,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ortobom": [
+    {
+      "title": "formato stories",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/formato-stories-3b233d8db9d28051958acdadc86182cc",
+      "gestora": "Equipe",
+      "date": "10/08"
+    },
+    {
+      "title": "Configuração de mensagens automáticas no Instagram.",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
+      "gestora": "Equipe",
+      "date": "10/08"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Agenda de setembro de 2026",
@@ -3812,16 +3964,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
       "gestora": "Equipe",
       "date": "30/07"
-    }
-  ],
-  "Ortobom": [
-    {
-      "title": "Configuração de mensagens automáticas no Instagram.",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
-      "gestora": "Equipe",
-      "date": "28/07"
     }
   ],
   "Ventana": [
@@ -3978,7 +4120,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Ortobom": {
-    "prontas": 6,
+    "prontas": 12,
     "total": 13
   },
   "ItalaP": {
@@ -3987,7 +4129,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 2,
-    "total": 2
+    "total": 14
   },
   "Finseg Leal": {
     "prontas": 4,
@@ -4129,7 +4271,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Grupo Mulheres do Brasil": {
-    "post": 2,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
