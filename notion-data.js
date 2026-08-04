@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 09:26:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 11:59:03 **/
 
-const LAST_UPDATE = '04/08/2026, 09:26:42';
+const LAST_UPDATE = '04/08/2026, 11:59:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -147,9 +147,9 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 1,
@@ -160,20 +160,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 13,
+    "total": 14,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 14
   },
   "Plannea": {
-    "total": 5,
+    "total": 6,
     "pronto": 5,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Ortobom": {
     "total": 7,
@@ -275,12 +275,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Tramix": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 5,
@@ -1095,7 +1095,7 @@ const LINHA_FEED_ITEMS = {
       "title": "SAVE THE DATE, Vem aí o I Simpósio do Movimento Juntos Contra o HPV",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "03/08",
+      "date": "04/08",
       "missing": [
         "Design"
       ],
@@ -1561,7 +1561,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nem todo problema jurídico começa no tribunal. Muitos começam em um documento.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [],
@@ -1572,7 +1572,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mora há anos em um imóvel? Entenda quando a posse pode ser reconhecida legalmente.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -1583,7 +1583,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Descontos no salário têm limites. Você sabe quais são?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "03/08",
       "missing": [],
@@ -1607,6 +1607,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Planos Seguros": [
+    {
+      "title": "Feliz Dia dos pais!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-3b233d8db9d280c1a691e1f84179b2cc"
+    },
     {
       "title": "Você conhece todos os benefícios do seu seguro residencial?",
       "status": "a_agendar",
@@ -1778,6 +1791,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Plannea": [
+    {
+      "title": "Feliz Dia dos Pais ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-Pais-3b233d8db9d2808b9eddcd28a2b5712f"
+    },
     {
       "title": "Contabilidade não é apenas cumprir obrigações",
       "status": "a_agendar",
@@ -2669,7 +2695,22 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Travessias Híbridas": [],
   "Ser Ponte": [],
-  "Tramix": [],
+  "Tramix": [
+    {
+      "title": "Vídeo dia dos pais ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-dia-dos-pais-3b233d8db9d280638ebaeee78df55638"
+    }
+  ],
   "Stratto": [
     {
       "title": "BPO como estrutura para expansão.",
@@ -3594,7 +3635,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Assinaturas de e-mail de Mirella e Vanessa",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Assinaturas-de-e-mail-de-Mirella-e-Vanessa-3ad33d8db9d28051bdbcc25fa4eac4d0",
       "gestora": "Equipe",
       "date": "03/08"
@@ -3604,7 +3645,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para o site",
       "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
       "gestora": "Equipe",
       "date": "31/07"
@@ -3612,7 +3653,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para YouTube",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-YouTube-3ad33d8db9d2808fbf71e1c8f8b1e90b",
       "gestora": "Equipe",
       "date": "31/07"
@@ -3620,7 +3661,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Certificados",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3628,7 +3669,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
@@ -3636,7 +3677,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Camisa",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3652,7 +3693,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Ecobag",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3660,7 +3701,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Bloco de notas",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
       "gestora": "Equipe",
       "date": "30/07"
@@ -3837,7 +3878,7 @@ const LEGENDAS_DATA = {
   },
   "Tramix": {
     "prontas": 8,
-    "total": 9
+    "total": 10
   },
   "Stratto": {
     "prontas": 2,
@@ -3872,12 +3913,12 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "Planos Seguros": {
-    "prontas": 15,
-    "total": 18
+    "prontas": 16,
+    "total": 19
   },
   "Plannea": {
-    "prontas": 4,
-    "total": 5
+    "prontas": 5,
+    "total": 6
   },
   "Ortobom": {
     "prontas": 6,
@@ -3943,7 +3984,7 @@ const FORMAT_COUNTS = {
     "post": 8,
     "carrossel": 1,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 1
   },
   "Stratto": {
@@ -4003,14 +4044,14 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Planos Seguros": {
-    "post": 12,
+    "post": 13,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
     "story": 4
   },
   "Plannea": {
-    "post": 5,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
