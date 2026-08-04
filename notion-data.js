@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 15:23:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 17:07:09 **/
 
-const LAST_UPDATE = '04/08/2026, 15:23:44';
+const LAST_UPDATE = '04/08/2026, 17:07:09';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,11 +81,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 11,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 10
+    "agendado_coord": 0,
+    "a_agendar": 11
   },
   "Tramix": {
     "total": 10,
@@ -96,16 +96,16 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Stratto": {
-    "total": 5,
+    "total": 4,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 11,
-    "pronto": 0,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 5,
@@ -201,7 +201,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 11,
-    "pronto": 2,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -878,13 +878,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "03/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-n-o-sobre-cortar-gastos-sobre-escolher-o-que-vai-faltar-34933d8db9d2804c808fc2194b29875c"
@@ -1052,11 +1050,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Crescimento-precisa-de-caixa-39133d8db9d280cb8e93c92f5c225387"
     },
@@ -1087,20 +1083,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-custa-crescer-sem-planejamento-39133d8db9d28025b751d8cb86c5f219"
-    },
-    {
-      "title": "4 sinais de que sua empresa cresceu sem estrutura.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "05/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/4-sinais-de-que-sua-empresa-cresceu-sem-estrutura-39133d8db9d280d68790e89268c71cd5"
     }
   ],
   "Juntos contra o HPV": [
@@ -1109,10 +1091,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "04/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-trabalho-pode-fazer-parte-do-I-Simp-sio-do-Movimento-Juntos-contra-o-HPV-as-submiss-es-est-o-a-3b133d8db9d280ebac5fe101473a1616"
@@ -1122,10 +1102,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/SAVE-THE-DATE-Vem-a-o-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-3b133d8db9d2800f8407d82ac8f73d38"
@@ -1239,10 +1217,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Juh-a-vacina-contra-o-HPV-segura-H2-Sim-A-vacina-segura-eficaz-e-recomendada-por-autoridade-39833d8db9d2806d9bb2c842a6c1278f"
@@ -2135,7 +2111,7 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-viol-ncia-patrimonial-Muitas-mulheres-ainda-n-o-conhecem-esse-tipo-de-viol-ncia-3b233d8db9d2805b8edee7a3eddac2c1"
     },
     {
@@ -2163,7 +2139,7 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-tantas-mulheres-ainda-deixam-o-mercado-de-trabalho-ap-s-a-maternidade-3b233d8db9d2804db9d9f1ed3fefa12e"
     },
     {
@@ -2295,10 +2271,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-define-o-valor-da-indeniza-o-38f33d8db9d280d7a87ad35e716c5325"
@@ -2308,10 +2282,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cobertura-compreensiva-o-nome-parece-complicado-mas-o-conceito-simples-38f33d8db9d280939a49dfbee9f880e1"
@@ -4080,8 +4052,8 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Stratto": {
-    "prontas": 2,
-    "total": 13
+    "prontas": 3,
+    "total": 12
   },
   "Juntos contra o HPV": {
     "prontas": 15,
@@ -4188,7 +4160,7 @@ const FORMAT_COUNTS = {
   },
   "Stratto": {
     "post": 1,
-    "carrossel": 4,
+    "carrossel": 3,
     "foto": 0,
     "video": 5,
     "story": 0
