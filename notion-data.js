@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 11:59:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/08/2026, 13:53:08 **/
 
-const LAST_UPDATE = '04/08/2026, 11:59:03';
+const LAST_UPDATE = '04/08/2026, 13:53:08';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 10,
+    "total": 11,
     "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -88,12 +88,12 @@ const FEED_DATA = {
     "a_agendar": 10
   },
   "Tramix": {
-    "total": 9,
+    "total": 10,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Stratto": {
     "total": 5,
@@ -184,24 +184,24 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "ItalaP": {
-    "total": 2,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Finseg Leal": {
     "total": 11,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -216,16 +216,16 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 10,
+    "total": 11,
     "pronto": 3,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Daniel Maia Advocacia": {
     "total": 7,
-    "pronto": 0,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -419,12 +419,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 0,
@@ -626,6 +626,19 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
+      "title": "Feliz dia dos pais (em letra menor: O tempo passa, você se aposenta, mas a família fica)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-dia-dos-pais-em-letra-menor-O-tempo-passa-voc-se-aposenta-mas-a-fam-lia-fica-3b233d8db9d2800da2decc996f816774"
+    },
+    {
       "title": "Servidores fazendários aposentados antes de 1998 que possuem direito à revisão dos valores recebidos",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
@@ -718,7 +731,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Saiba tudo sobre seus direitos no encontro mensal dos associados",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/08",
+      "date": "05/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -729,7 +742,7 @@ const LINHA_FEED_ITEMS = {
       "title": "1 em cada 4 idosos no mundo pode estar em situação de isolamento social (em foto menor: Mas envelhecer não precisa significar viver sozinho.)",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "05/08",
+      "date": "07/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -890,6 +903,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [
     {
+      "title": "Feliz Dia dos pais! (Em letra menor: ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-Em-letra-menor-Os-melhores-fios-s-o-aqueles-que-unem-gera-es-3b233d8db9d280eab544e492d4a150fa"
+    },
+    {
       "title": "Há 20 anos crescemos juntos com a indústria cearense",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -995,12 +1021,12 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "#TBT",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
+      "formato": "📸 Foto(s)",
       "date": "06/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/TBT-39f33d8db9d2805cbc5bf4edbaa807d0"
@@ -1608,7 +1634,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
-      "title": "Feliz Dia dos pais!",
+      "title": "Feliz Dia dos pais! (Em letra menor: ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
@@ -1618,7 +1644,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-3b233d8db9d280c1a691e1f84179b2cc"
+      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-Em-letra-menor-O-primeiro-sentimento-de-seguran-a-de-muitos-filhos-tem-nome-p-3b233d8db9d280c1a691e1f84179b2cc"
     },
     {
       "title": "Você conhece todos os benefícios do seu seguro residencial?",
@@ -1792,7 +1818,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "Feliz Dia dos Pais ",
+      "title": "Feliz Dia dos Pais (em letra menor: a gente consegue contabilizar e mensurar tudo, menos a infinitude do sentimento de quem amamos)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
@@ -1802,7 +1828,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-Pais-3b233d8db9d2808b9eddcd28a2b5712f"
+      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-Pais-em-letra-menor-a-gente-consegue-contabilizar-e-mensurar-tudo-menos-a-infinitud-3b233d8db9d2808b9eddcd28a2b5712f"
     },
     {
       "title": "Contabilidade não é apenas cumprir obrigações",
@@ -1958,6 +1984,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Seu próximo cuidado com a sua saúde pode começar hoje. Conte com a ItalaP",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-pr-ximo-cuidado-com-a-sua-sa-de-pode-come-ar-hoje-Conte-com-a-ItalaP-3b133d8db9d2804da364dab25132fbd7"
+    },
+    {
       "title": "O check-up não serve para encontrar doenças. Serve para cuidar da sua saúde antes delas aparecerem. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1987,6 +2027,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Ser pai é estar presente. Feliz Dia dos pais!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ser-pai-estar-presente-Feliz-Dia-dos-pais-3b233d8db9d28094b976e7a7c92f77bd"
+    },
     {
       "title": "Quando foi a última vez que você fez algo pela primeira vez?",
       "status": "postado",
@@ -2119,7 +2172,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cobertura-compreensiva-o-nome-parece-complicado-mas-o-conceito-simples-38f33d8db9d280939a49dfbee9f880e1"
@@ -2129,10 +2182,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-contratar-um-novo-seguro-converse-com-quem-pode-analisar-sua-realidade-primeiro-38f33d8db9d28040b5f0d6ed92d60570"
@@ -2153,6 +2204,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Di Gregório Buffet": [],
   "APROSSEG": [
+    {
+      "title": "Feliz Dia dos pais! (Em letra menor: ter por perto quem a gente ama é o nosso verdadeiro seguro para uma vida feliz)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-Em-letra-menor-ter-por-perto-quem-a-gente-ama-o-nosso-verdadeiro-seguro-para-3b233d8db9d280b181e0e56f631e0943"
+    },
     {
       "title": "Tbt do Dialogo do Seguro III",
       "status": "a_agendar",
@@ -2355,10 +2419,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-erros-que-mais-geram-processos-trabalhistas-nas-empresas-Contrata-o-se-documenta-o-Jornada-3a633d8db9d2805d9643fed402503afb"
@@ -2368,10 +2430,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-maior-prova-de-uma-a-o-trabalhista-pode-estar-no-WhatsApp-da-sua-empresa-3a633d8db9d280f48006f401a987fbe2"
@@ -2697,7 +2757,7 @@ const LINHA_VIDEO_ITEMS = {
   "Ser Ponte": [],
   "Tramix": [
     {
-      "title": "Vídeo dia dos pais ",
+      "title": "Vídeo de dia dos pais",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "09/08",
@@ -2705,10 +2765,10 @@ const LINHA_VIDEO_ITEMS = {
         "Vídeo",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-dia-dos-pais-3b233d8db9d280638ebaeee78df55638"
+      "notionUrl": "https://app.notion.com/p/V-deo-de-dia-dos-pais-3b233d8db9d280638ebaeee78df55638"
     }
   ],
   "Stratto": [
@@ -3240,7 +3300,22 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Como-um-advogado-falaria-isso-no-tribunal-Dia-do-Advogado-3a633d8db9d280198d6dd117ed6347bf"
     }
   ],
-  "Conecta Assessoria": [],
+  "Conecta Assessoria": [
+    {
+      "title": "Best Senior Patrocinado",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "04/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Best-Senior-Patrocinado-3ae33d8db9d2803196c5cd1f18800e36"
+    }
+  ],
   "Solar Coworking": []
 };
 
@@ -3613,6 +3688,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "AAFEC": [
+    {
+      "title": "Agenda de setembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
+      "gestora": "Equipe",
+      "date": "22/08"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Card para whatsapp",
@@ -3629,16 +3714,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
       "gestora": "Equipe",
       "date": "17/06"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Assinaturas de e-mail de Mirella e Vanessa",
-      "priority": "pp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Assinaturas-de-e-mail-de-Mirella-e-Vanessa-3ad33d8db9d28051bdbcc25fa4eac4d0",
-      "gestora": "Equipe",
-      "date": "03/08"
     }
   ],
   "Juntos contra o HPV": [
@@ -3737,24 +3812,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
       "gestora": "Equipe",
       "date": "30/07"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Agenda de agosto de 2026",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-agosto-de-2026-3ab33d8db9d2802bbd19d15dd7f8b476",
-      "gestora": "Equipe",
-      "date": "29/07"
-    },
-    {
-      "title": "Revista 128",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Revista-128-39c33d8db9d280d297c1fd5405fda88f",
-      "gestora": "Equipe",
-      "date": "28T17:00:00.000/07"
     }
   ],
   "Ortobom": [
@@ -3865,8 +3922,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 11,
-    "total": 11
+    "prontas": 12,
+    "total": 13
   },
   "Travessias Híbridas": {
     "prontas": 0,
@@ -3877,8 +3934,8 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Tramix": {
-    "prontas": 8,
-    "total": 10
+    "prontas": 9,
+    "total": 11
   },
   "Stratto": {
     "prontas": 2,
@@ -3929,8 +3986,8 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 1,
-    "total": 1
+    "prontas": 2,
+    "total": 2
   },
   "Finseg Leal": {
     "prontas": 4,
@@ -3941,8 +3998,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 13,
-    "total": 15
+    "prontas": 14,
+    "total": 16
   },
   "Daniel Maia Advocacia": {
     "prontas": 2,
@@ -3960,7 +4017,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 6,
+    "post": 7,
     "carrossel": 4,
     "foto": 0,
     "video": 1,
@@ -3981,9 +4038,9 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Tramix": {
-    "post": 8,
-    "carrossel": 1,
-    "foto": 0,
+    "post": 9,
+    "carrossel": 0,
+    "foto": 1,
     "video": 1,
     "story": 1
   },
@@ -4065,14 +4122,14 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "ItalaP": {
-    "post": 2,
+    "post": 3,
     "carrossel": 0,
     "foto": 0,
     "video": 5,
     "story": 0
   },
   "Grupo Mulheres do Brasil": {
-    "post": 1,
+    "post": 2,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4093,7 +4150,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 8,
+    "post": 9,
     "carrossel": 1,
     "foto": 1,
     "video": 4,
@@ -4110,7 +4167,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 2,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "Solar Coworking": {
