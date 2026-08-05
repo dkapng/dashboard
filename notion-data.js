@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 17:04:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 18:42:10 **/
 
-const LAST_UPDATE = '05/08/2026, 17:04:10';
+const LAST_UPDATE = '05/08/2026, 18:42:10';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -455,11 +455,11 @@ const STORIES_DATA = {
   },
   "Ser Ponte": {
     "total": 3,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Tramix": {
     "total": 1,
@@ -1901,7 +1901,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Promovidos-do-m-s-de-julho-3b333d8db9d280648924d8cb4e0999e9"
@@ -3578,20 +3578,18 @@ const LINHA_STORIES_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Spoilers do bazar",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Spoilers-do-bazar-3b333d8db9d280c99125f81fe5445a8c"
     },
     {
       "title": "Divulgação do bazar no formato stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/08",
       "missing": [],
@@ -4023,10 +4021,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Ortobom": [
     {
-      "title": "formato stories",
+      "title": "Campanha do dia dos pais em formato de stories",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/formato-stories-3b233d8db9d28051958acdadc86182cc",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Campanha-do-dia-dos-pais-em-formato-de-stories-3b233d8db9d28051958acdadc86182cc",
       "gestora": "Equipe",
       "date": "05/08"
     },
