@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 09:50:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 12:09:36 **/
 
-const LAST_UPDATE = '05/08/2026, 09:50:07';
+const LAST_UPDATE = '05/08/2026, 12:09:36';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -66,10 +66,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 11,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 11,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -194,10 +194,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 12,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Finseg Leal": {
     "total": 11,
@@ -454,12 +454,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 1,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Tramix": {
     "total": 1,
@@ -729,7 +729,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Saiba tudo sobre seus direitos no encontro mensal dos associados",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -846,10 +846,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-chefiada-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-lios-39733d8db9d2801b9ce7d623d765dfc8"
@@ -2224,12 +2222,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que tantas mulheres ainda deixam o mercado de trabalho após a maternidade?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -3451,6 +3447,19 @@ const LINHA_STORIES_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
+      "title": "Divulgação do bazar no formato stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "12/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Divulga-o-do-bazar-no-formato-stories-3b333d8db9d280309dfac5de9e608367"
+    },
+    {
       "title": "Quando a renda não é suficiente",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4162,7 +4171,7 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 14
   },
   "Finseg Leal": {
@@ -4211,7 +4220,7 @@ const FORMAT_COUNTS = {
     "carrossel": 7,
     "foto": 0,
     "video": 0,
-    "story": 1
+    "story": 2
   },
   "Tramix": {
     "post": 9,
