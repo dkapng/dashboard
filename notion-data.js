@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 12:09:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 13:58:35 **/
 
-const LAST_UPDATE = '05/08/2026, 12:09:36';
+const LAST_UPDATE = '05/08/2026, 13:58:35';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,20 +80,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 11,
+    "total": 10,
     "pronto": 6,
-    "postado": 0,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 8
   },
   "Tramix": {
     "total": 10,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Stratto": {
     "total": 13,
@@ -168,9 +168,9 @@ const FEED_DATA = {
     "a_agendar": 14
   },
   "Plannea": {
-    "total": 6,
+    "total": 7,
     "pronto": 5,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 5
@@ -186,10 +186,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 3,
     "pronto": 3,
-    "postado": 0,
-    "agendado": 0,
+    "postado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 12,
@@ -227,9 +227,9 @@ const FEED_DATA = {
     "total": 7,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "Conecta Assessoria": {
     "total": 14,
@@ -348,11 +348,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 5,
-    "pronto": 3,
-    "postado": 1,
+    "pronto": 4,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Plannea": {
     "total": 0,
@@ -419,12 +419,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 0,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 0,
@@ -454,16 +454,16 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 2,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Tramix": {
     "total": 1,
-    "pronto": 1,
+    "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -765,29 +765,14 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "TUDO QUE VOCÊ PRECISA SABER SOBRE O BAZAR",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "03/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/TUDO-QUE-VOC-PRECISA-SABER-SOBRE-O-BAZAR-3ab33d8db9d280d69497e3d7a72e434d"
-    },
-    {
-      "title": "Como você definiria nosso trabalho em uma palavra?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Como-voc-definiria-nosso-trabalho-em-uma-palavra-3a333d8db9d280ef98d3dc9be3114612"
     },
     {
       "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa\n",
@@ -865,7 +850,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você que acompanha a Ser Ponte aqui nas redes sociais: como você definiria o nosso trabalho em uma palavra?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -878,7 +863,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "03/08",
+      "date": "06/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -889,7 +874,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Existe uma Fortaleza que não chega no fim do mês.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/08",
+      "date": "11/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -990,7 +975,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma peça passa por muitas mãos antes de chegar ao consumidor",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -1895,6 +1880,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Promovidos do mês de julho ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "05/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Promovidos-do-m-s-de-julho-3b333d8db9d280648924d8cb4e0999e9"
+    },
+    {
       "title": "Feliz Dia dos Pais (em letra menor: a gente consegue contabilizar e mensurar tudo, menos a infinitude do sentimento de quem amamos)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1944,7 +1943,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Transforme recibos em insights: automação contábil na prática",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -2061,7 +2060,7 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "Seu próximo cuidado com a sua saúde pode começar hoje. Conte com a ItalaP!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [],
@@ -2072,7 +2071,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O check-up não serve para encontrar doenças. Serve para cuidar da sua saúde antes delas aparecerem. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/08",
       "missing": [],
@@ -2083,7 +2082,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você conhece os sinais que seu corpo dá quando algo não está bem?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -2616,7 +2615,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "5 erros que mais geram processos trabalhistas nas empresas: - Contratação se documentação; - Jornada sem controle; - Desvio de função; - Comunicação fora do expediente; - Demitir sem planejamento",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "06/08",
       "missing": [],
@@ -2627,7 +2626,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A maior prova de uma ação trabalhista pode estar no WhatsApp da sua empresa.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "05/08",
       "missing": [],
@@ -3133,15 +3132,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Quando precisamos de seguro?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "05/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Quando-precisamos-de-seguro-3a033d8db9d28012aba0d99cf84519f9"
     },
@@ -3438,7 +3434,64 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Como-um-advogado-falaria-isso-no-tribunal-Dia-do-Advogado-3a633d8db9d280198d6dd117ed6347bf"
     }
   ],
-  "Conecta Assessoria": [],
+  "Conecta Assessoria": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "27/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280b3b7ecd4157a574870"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "20/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280aab601d407a5044b90"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280e88305e1295b08b650"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "06/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d28045a609ea54d6d182cc"
+    }
+  ],
   "Solar Coworking": []
 };
 
@@ -3447,10 +3500,23 @@ const LINHA_STORIES_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
+      "title": "Spoilers do bazar ",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "05/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Spoilers-do-bazar-3b333d8db9d280c99125f81fe5445a8c"
+    },
+    {
       "title": "Divulgação do bazar no formato stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "12/08",
+      "date": "05/08",
       "missing": [
         "Design"
       ],
@@ -3463,7 +3529,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Quando a renda não é suficiente",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "04/08",
+      "date": "06/08",
       "missing": [
         "Design"
       ],
@@ -3479,8 +3545,10 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "04/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-trabalho-da-confec-o-termina-quando-a-pe-a-sai-da-m-quina-Na-verdade-a-que-come-a-a-experi-n-39933d8db9d280f390c9d78c9809666e"
@@ -4116,7 +4184,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 10,
-    "total": 11
+    "total": 10
   },
   "Tramix": {
     "prontas": 9,
@@ -4155,12 +4223,12 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "Planos Seguros": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 19
   },
   "Plannea": {
     "prontas": 5,
-    "total": 6
+    "total": 7
   },
   "Ortobom": {
     "prontas": 12,
@@ -4192,7 +4260,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 14,
-    "total": 14
+    "total": 18
   },
   "Solar Coworking": {
     "prontas": 6,
@@ -4216,11 +4284,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 4,
+    "post": 3,
     "carrossel": 7,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 3
   },
   "Tramix": {
     "post": 9,
@@ -4294,7 +4362,7 @@ const FORMAT_COUNTS = {
   },
   "Plannea": {
     "post": 6,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 2
@@ -4352,7 +4420,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 2,
     "foto": 0,
-    "video": 0,
+    "video": 4,
     "story": 0
   },
   "Solar Coworking": {
