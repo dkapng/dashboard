@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 15:22:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 17:04:10 **/
 
-const LAST_UPDATE = '05/08/2026, 15:22:11';
+const LAST_UPDATE = '05/08/2026, 17:04:10';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -168,12 +168,12 @@ const FEED_DATA = {
     "a_agendar": 14
   },
   "Plannea": {
-    "total": 7,
-    "pronto": 5,
+    "total": 8,
+    "pronto": 6,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Ortobom": {
     "total": 7,
@@ -184,12 +184,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "ItalaP": {
-    "total": 3,
+    "total": 6,
     "pronto": 3,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 12,
@@ -224,12 +224,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Daniel Maia Advocacia": {
-    "total": 7,
+    "total": 9,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 7
   },
   "Conecta Assessoria": {
     "total": 14,
@@ -371,12 +371,12 @@ const VIDEO_DATA = {
     "a_agendar": 5
   },
   "ItalaP": {
-    "total": 5,
+    "total": 6,
     "pronto": 5,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -411,12 +411,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Daniel Maia Advocacia": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 4,
@@ -455,7 +455,7 @@ const STORIES_DATA = {
   },
   "Ser Ponte": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -558,12 +558,12 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "ItalaP": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -1880,7 +1880,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "Promovidos do mês de julho ",
+      "title": "Vaga para analista fiscal",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vaga-para-analista-fiscal-3b333d8db9d28016b584ec1fe7a8c73a"
+    },
+    {
+      "title": "Promovidos do mês de julho",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "05/08",
@@ -2058,6 +2071,45 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "ItalaP": [
+    {
+      "title": "Da gestação aos primeiros anos de vida, existe um cuidado que faz toda a diferença.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Da-gesta-o-aos-primeiros-anos-de-vida-existe-um-cuidado-que-faz-toda-a-diferen-a-3b333d8db9d28064a2e6d949d2476c22"
+    },
+    {
+      "title": "Amamentar é importante. Mas cuidar da saúde da mãe também faz parte dessa história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Amamentar-importante-Mas-cuidar-da-sa-de-da-m-e-tamb-m-faz-parte-dessa-hist-ria-3b333d8db9d2805ca7ced0cb3d03868f"
+    },
+    {
+      "title": "O primeiro alimento também é uma das primeiras formas de proteger uma vida.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-primeiro-alimento-tamb-m-uma-das-primeiras-formas-de-proteger-uma-vida-3b333d8db9d280b68873c35b6bf31716"
+    },
     {
       "title": "Seu próximo cuidado com a sua saúde pode começar hoje. Conte com a ItalaP!",
       "status": "agendado",
@@ -2544,6 +2596,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Daniel Maia Advocacia": [
     {
+      "title": "\"Quando você estiver contra a parede, derrube a parede.” — Harvey Specter (dia do advogado) ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-voc-estiver-contra-a-parede-derrube-a-parede-Harvey-Specter-dia-do-advogado-3b333d8db9d280ccad2ec01bbde83995"
+    },
+    {
       "title": "Qual contrato todo empresário deveria ter?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2634,6 +2699,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-maior-prova-de-uma-a-o-trabalhista-pode-estar-no-WhatsApp-da-sua-empresa-3a633d8db9d280f48006f401a987fbe2"
+    },
+    {
+      "title": "Antes da profissão, da sala de aula e dos tribunais, existe a maior missão da minha vida: ser pai.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Antes-da-profiss-o-da-sala-de-aula-e-dos-tribunais-existe-a-maior-miss-o-da-minha-vida-ser-pai-3a633d8db9d28014b038f4d9fde6ee7c"
     }
   ],
   "Conecta Assessoria": [
@@ -3246,6 +3324,20 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d2808d87dde7f68754d0cc"
+    },
+    {
       "title": "Confiança desde cedo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3288,7 +3380,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Check-up",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "10/08",
+      "date": "13/08",
       "missing": [
         "Legenda"
       ],
@@ -3418,22 +3510,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Uma-frase-que-eu-escuto-com-frequ-ncia-38f33d8db9d28074b5d6f5f14aae3ca8"
     }
   ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Como um advogado falaria isso no tribunal? - Dia do Advogado",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "11/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Como-um-advogado-falaria-isso-no-tribunal-Dia-do-Advogado-3a633d8db9d280198d6dd117ed6347bf"
-    }
-  ],
+  "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
       "title": "Vídeo",
@@ -3500,7 +3577,7 @@ const LINHA_STORIES_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
-      "title": "Spoilers do bazar ",
+      "title": "Spoilers do bazar",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "05/08",
@@ -3517,10 +3594,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Divulga-o-do-bazar-no-formato-stories-3b333d8db9d280309dfac5de9e608367"
@@ -3881,7 +3956,21 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Silvania-palmares-mall-2e333d8db9d28040a53fc31a48ab103f"
     }
   ],
-  "ItalaP": [],
+  "ItalaP": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "11/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3b333d8db9d28038ac7ecb9577e49635"
+    }
+  ],
   "Grupo Mulheres do Brasil": [],
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
@@ -4228,15 +4317,15 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 5,
-    "total": 7
+    "total": 8
   },
   "Ortobom": {
     "prontas": 12,
     "total": 13
   },
   "ItalaP": {
-    "prontas": 4,
-    "total": 8
+    "prontas": 7,
+    "total": 12
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 3,
@@ -4255,7 +4344,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Daniel Maia Advocacia": {
-    "prontas": 2,
+    "prontas": 4,
     "total": 11
   },
   "Conecta Assessoria": {
@@ -4361,7 +4450,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Plannea": {
-    "post": 6,
+    "post": 7,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -4375,11 +4464,11 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "ItalaP": {
-    "post": 3,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
-    "video": 5,
-    "story": 0
+    "video": 6,
+    "story": 1
   },
   "Grupo Mulheres do Brasil": {
     "post": 12,
@@ -4410,10 +4499,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Daniel Maia Advocacia": {
-    "post": 7,
+    "post": 9,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
+    "video": 0,
     "story": 0
   },
   "Conecta Assessoria": {
