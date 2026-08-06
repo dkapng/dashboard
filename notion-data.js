@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/08/2026, 22:52:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/08/2026, 02:09:55 **/
 
-const LAST_UPDATE = '05/08/2026, 22:52:54';
+const LAST_UPDATE = '06/08/2026, 02:09:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -97,7 +97,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 1,
+    "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -169,7 +169,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 8,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -193,7 +193,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 12,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1015,10 +1015,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-exemplo-n-o-a-melhor-forma-de-ensinar-a-nica-Albert-Schweitzer-3b233d8db9d280d6b55ac57c33ba56d5"
@@ -1109,10 +1107,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Empresas-de-segmentos-diferentes-Um-mesmo-objetivo-crescer-com-seguran-a-3b233d8db9d2804598dcce60818c1e2e"
@@ -1122,10 +1118,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-do-que-um-BPO-Financeiro-Somos-parceiros-estrat-gicos-para-empresas-que-querem-crescer-3b233d8db9d2800ca8bdd48d357bb89b"
@@ -1898,10 +1892,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "05/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Promovidos-do-m-s-de-julho-3b333d8db9d280648924d8cb4e0999e9"
@@ -1911,10 +1904,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-Pais-em-letra-menor-a-gente-consegue-contabilizar-e-mensurar-tudo-menos-a-infinitud-3b233d8db9d2808b9eddcd28a2b5712f"
@@ -2249,10 +2240,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-viol-ncia-patrimonial-Muitas-mulheres-ainda-n-o-conhecem-esse-tipo-de-viol-ncia-3b233d8db9d2805b8edee7a3eddac2c1"
