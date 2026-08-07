@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 18:31:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 19:27:11 **/
 
-const LAST_UPDATE = '07/08/2026, 18:31:30';
+const LAST_UPDATE = '07/08/2026, 19:27:11';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -105,7 +105,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 3,
@@ -233,7 +233,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 14,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -1274,10 +1274,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "07/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conhe-a-o-movimento-que-est-mudando-a-preven-o-no-Brasil-3ab33d8db9d280bf84efff64d80faa0e"
@@ -2802,10 +2800,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-maior-presente-a-presen-a-Feliz-dia-dos-Pais-3a433d8db9d280b49664f7529dc835cb"
@@ -4035,7 +4031,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
