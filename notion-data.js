@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 20:04:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 20:55:57 **/
 
-const LAST_UPDATE = '07/08/2026, 20:04:41';
+const LAST_UPDATE = '07/08/2026, 20:55:57';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -388,11 +388,11 @@ const VIDEO_DATA = {
   },
   "Finseg Leal": {
     "total": 5,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -3376,15 +3376,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Dia dos pais",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Dia-dos-pais-3ac33d8db9d280ddbfc6fdb22a615c2f"
     },
     {
