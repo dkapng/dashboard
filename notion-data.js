@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 16:46:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 17:32:27 **/
 
-const LAST_UPDATE = '07/08/2026, 16:46:13';
+const LAST_UPDATE = '07/08/2026, 17:32:27';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -454,12 +454,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 2,
-    "pronto": 2,
+    "total": 3,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Tramix": {
     "total": 1,
@@ -768,7 +768,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ser-ponte-na-m-dia-3b533d8db9d28024be4eefd71c60b1a5"
@@ -3539,6 +3539,17 @@ const LINHA_STORIES_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
+      "title": "Spoilers do bazar #02",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "07/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Spoilers-do-bazar-02-3b533d8db9d280b8a984cd48a6bccfdb"
+    },
+    {
       "title": "Spoilers do bazar",
       "status": "postado",
       "formato": "📱 Story",
@@ -4307,7 +4318,7 @@ const FORMAT_COUNTS = {
     "carrossel": 8,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 3
   },
   "Tramix": {
     "post": 9,
