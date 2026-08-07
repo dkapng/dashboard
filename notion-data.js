@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 19:27:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 20:04:41 **/
 
-const LAST_UPDATE = '07/08/2026, 19:27:11';
+const LAST_UPDATE = '07/08/2026, 20:04:41';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -65,7 +65,7 @@ const NICHES = {
 const FEED_DATA = {
   "AAFEC": {
     "total": 11,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -630,10 +630,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-dia-dos-pais-em-letra-menor-O-tempo-passa-voc-se-aposenta-mas-a-fam-lia-fica-3b233d8db9d2800da2decc996f816774"
