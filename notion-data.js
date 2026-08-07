@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 07:26:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 08:20:39 **/
 
-const LAST_UPDATE = '07/08/2026, 07:26:56';
+const LAST_UPDATE = '07/08/2026, 08:20:39';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1264,7 +1264,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conhe-a-o-movimento-que-est-mudando-a-preven-o-no-Brasil-3ab33d8db9d280bf84efff64d80faa0e"
