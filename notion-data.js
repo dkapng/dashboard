@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/08/2026, 09:52:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/08/2026, 21:36:38 **/
 
-const LAST_UPDATE = '06/08/2026, 09:52:19';
+const LAST_UPDATE = '06/08/2026, 21:36:38';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -65,11 +65,11 @@ const NICHES = {
 const FEED_DATA = {
   "AAFEC": {
     "total": 11,
-    "pronto": 4,
+    "pronto": 6,
     "postado": 1,
     "agendado": 0,
-    "agendado_coord": 2,
-    "a_agendar": 8
+    "agendado_coord": 0,
+    "a_agendar": 10
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -80,36 +80,36 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 10,
-    "pronto": 6,
+    "total": 11,
+    "pronto": 7,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Tramix": {
     "total": 10,
-    "pronto": 3,
-    "postado": 2,
+    "pronto": 5,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Stratto": {
     "total": 13,
     "pronto": 4,
-    "postado": 1,
-    "agendado": 0,
+    "postado": 2,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 10
   },
   "Juntos contra o HPV": {
     "total": 10,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
-    "agendado_coord": 5,
-    "a_agendar": 3
+    "agendado_coord": 3,
+    "a_agendar": 5
   },
   "Jota Diesel": {
     "total": 10,
@@ -170,10 +170,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 8,
     "pronto": 8,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Ortobom": {
     "total": 7,
@@ -193,7 +193,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 12,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -217,15 +217,15 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 11,
-    "pronto": 3,
-    "postado": 1,
+    "pronto": 4,
+    "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -252,11 +252,11 @@ const FEED_DATA = {
 const VIDEO_DATA = {
   "AAFEC": {
     "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -300,11 +300,11 @@ const VIDEO_DATA = {
   },
   "Jota Diesel": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -366,9 +366,9 @@ const VIDEO_DATA = {
     "total": 0,
     "pronto": 0,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 6,
@@ -420,11 +420,11 @@ const VIDEO_DATA = {
   },
   "Conecta Assessoria": {
     "total": 4,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 0,
@@ -463,7 +463,7 @@ const STORIES_DATA = {
   },
   "Tramix": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -478,11 +478,11 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "Juntos contra o HPV": {
-    "total": 3,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 3,
+    "agendado_coord": 2,
     "a_agendar": 0
   },
   "Jota Diesel": {
@@ -519,11 +519,11 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 2,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 0,
@@ -544,10 +544,10 @@ const STORIES_DATA = {
   "Plannea": {
     "total": 2,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 3,
@@ -692,26 +692,22 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O seu artista preferido na nossa Galeria da Fama",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-seu-artista-preferido-na-nossa-Galeria-da-Fama-39d33d8db9d2801ab5f9e69dacdf6e61"
     },
     {
       "title": "Boteco com os amigos é na AAFEC!",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Boteco-com-os-amigos-na-AAFEC-39d33d8db9d280cdab59de3863f85f5f"
@@ -763,6 +759,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Travessias Híbridas": [],
   "Ser Ponte": [
+    {
+      "title": "Travessia no Bazar",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Travessia-no-Bazar-3b433d8db9d2802fa962e7c25df27179"
+    },
     {
       "title": "TUDO QUE VOCÊ PRECISA SABER SOBRE O BAZAR",
       "status": "postado",
@@ -863,7 +872,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "06/08",
+      "date": "07/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -888,10 +897,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-Em-letra-menor-Os-melhores-fios-s-o-aqueles-que-unem-gera-es-3b233d8db9d280eab544e492d4a150fa"
@@ -997,12 +1004,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "#TBT",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📸 Foto(s)",
       "date": "06/08",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -1104,7 +1109,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Empresas de segmentos diferentes. Um mesmo objetivo: crescer com segurança.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/08",
       "missing": [],
@@ -1115,9 +1120,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mais do que um BPO Financeiro. Somos parceiros estratégicos para empresas que querem crescer.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "05/08",
+      "date": "07/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1240,27 +1245,27 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A ciência já sabe o caminho. Agora precisamos acelerar! ",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "10/08",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-ci-ncia-j-sabe-o-caminho-Agora-precisamos-acelerar-3ab33d8db9d28006b833e9935e7a2888"
     },
     {
       "title": "Conheça o movimento que está mudando a prevenção no Brasil",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "07/08",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conhe-a-o-movimento-que-est-mudando-a-preven-o-no-Brasil-3ab33d8db9d280bf84efff64d80faa0e"
     },
@@ -1875,12 +1880,10 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Vaga para analista fiscal",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1890,7 +1893,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Promovidos do mês de julho",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "05/08",
+      "date": "06/08",
       "missing": [
         "Legenda"
       ],
@@ -2277,10 +2280,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ser-pai-estar-presente-Feliz-Dia-dos-pais-3b233d8db9d28094b976e7a7c92f77bd"
@@ -2460,15 +2461,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tbt do Dialogo do Seguro III",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📸 Foto(s)",
       "date": "06/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tbt-do-Dialogo-do-Seguro-III-3b133d8db9d2807e9861e682fa0bc724"
     },
@@ -2586,7 +2584,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Daniel Maia Advocacia": [
     {
-      "title": "\"Quando você estiver contra a parede, derrube a parede.” — Harvey Specter (dia do advogado) ",
+      "title": "\"Quando você estiver contra a parede, derrube a parede.” — Harvey Specter (dia do advogado)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/08",
@@ -2695,10 +2693,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-da-profiss-o-da-sala-de-aula-e-dos-tribunais-existe-a-maior-miss-o-da-minha-vida-ser-pai-3a633d8db9d28014b038f4d9fde6ee7c"
@@ -3008,12 +3004,10 @@ const LINHA_VIDEO_ITEMS = {
   "AAFEC": [
     {
       "title": "#TBT",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "06/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
@@ -3152,15 +3146,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Seu lucro fica na Bomba?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "06/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Seu-lucro-fica-na-Bomba-3ac33d8db9d280de86eaf260bc34ca33"
     }
@@ -3300,12 +3291,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "O SEU PAI MERECE O MELHOR",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "05/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3546,16 +3535,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "06/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d28045a609ea54d6d182cc"
     }
   ],
@@ -3607,11 +3593,9 @@ const LINHA_STORIES_ITEMS = {
       "title": "O trabalho da confecção termina quando a peça sai da máquina? ",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "04/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "06/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-trabalho-da-confec-o-termina-quando-a-pe-a-sai-da-m-quina-Na-verdade-a-que-come-a-a-experi-n-39933d8db9d280f390c9d78c9809666e"
@@ -3684,19 +3668,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3ab33d8db9d280aba0d7c55786939a80"
-    },
-    {
-      "title": "Algo muito importante está sendo preparado…",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Algo-muito-importante-est-sendo-preparado-3ab33d8db9d280e8bed4c34a3acd08e0"
     }
   ],
   "Jota Diesel": [
@@ -3812,13 +3783,11 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Muitas pessoas possuem direitos que nem imaginam.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Muitas-pessoas-possuem-direitos-que-nem-imaginam-39033d8db9d2805a80e6dc4d6afc8539"
@@ -3893,7 +3862,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Treinamento é investimento: sua equipe está pronta?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "06/08",
       "missing": [],
@@ -4009,6 +3978,34 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "ItalaP": [
+    {
+      "title": "Cartão A5",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Cart-o-A5-3b433d8db9d280b69dc3ec27b8f158d0",
+      "gestora": "Equipe",
+      "date": "07T12:00:00.000/08"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Vídeo para tela - auto",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-para-tela-auto-3b433d8db9d280bda5a4e8d38309cd89",
+      "gestora": "Equipe",
+      "date": "17/08"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Ortobom": [
     {
       "title": "Campanha do dia dos pais em formato de stories",
@@ -4039,10 +4036,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Card para whatsapp",
+      "title": "Convite para a cerimônia de certificação do Projeto Vozes da Liberdade",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Card-para-whatsapp-3b133d8db9d28047a0f8ef54045c7e83",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Convite-para-a-cerim-nia-de-certifica-o-do-Projeto-Vozes-da-Liberdade-3b133d8db9d28047a0f8ef54045c7e83",
       "gestora": "Equipe",
       "date": "06/08"
     },
@@ -4201,16 +4198,6 @@ const DEMANDAS_EXTRAS = {
       "date": "12T12:00:00.000/06"
     }
   ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
   "Planos Seguros": [
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -4261,7 +4248,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 10,
-    "total": 10
+    "total": 11
   },
   "Tramix": {
     "prontas": 9,
@@ -4276,7 +4263,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Jota Diesel": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 13
   },
   "Ventana": {
@@ -4304,7 +4291,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Plannea": {
-    "prontas": 5,
+    "prontas": 6,
     "total": 8
   },
   "Ortobom": {
@@ -4328,7 +4315,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 16
   },
   "Daniel Maia Advocacia": {
@@ -4336,7 +4323,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Conecta Assessoria": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 18
   },
   "Solar Coworking": {
@@ -4361,7 +4348,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 3,
+    "post": 4,
     "carrossel": 7,
     "foto": 0,
     "video": 0,
@@ -4386,7 +4373,7 @@ const FORMAT_COUNTS = {
     "carrossel": 5,
     "foto": 0,
     "video": 5,
-    "story": 3
+    "story": 2
   },
   "Jota Diesel": {
     "post": 9,
@@ -4522,7 +4509,7 @@ const AGENDA_COUNTS = {
   },
   "Ser Ponte": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "Tramix": {
