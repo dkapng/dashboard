@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 17:32:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 18:31:30 **/
 
-const LAST_UPDATE = '07/08/2026, 17:32:27';
+const LAST_UPDATE = '07/08/2026, 18:31:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 12,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -172,8 +172,8 @@ const FEED_DATA = {
     "pronto": 8,
     "postado": 4,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 4
+    "agendado_coord": 1,
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 7,
@@ -765,10 +765,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "07/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ser-ponte-na-m-dia-3b533d8db9d28024be4eefd71c60b1a5"
@@ -1914,7 +1913,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Feliz Dia dos Pais (em letra menor: a gente consegue contabilizar e mensurar tudo, menos a infinitude do sentimento de quem amamos)",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [],
@@ -4036,7 +4035,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
@@ -4052,7 +4051,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Plaquinhas de tempo",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Plaquinhas-de-tempo-3a333d8db9d280658b21e84b4fc070fa",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4076,7 +4075,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Caneta",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Caneta-3a333d8db9d280eb8032ccfb20a48952",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4084,7 +4083,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Credencial e cordão personalizado",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Credencial-e-cord-o-personalizado-3a333d8db9d280b8a108cb2356b3d28f",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4092,7 +4091,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capas para Facebook e LinkedIn",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
       "gestora": "Equipe",
       "date": "24/07"
