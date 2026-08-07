@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 15:43:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 16:46:13 **/
 
-const LAST_UPDATE = '07/08/2026, 15:43:03';
+const LAST_UPDATE = '07/08/2026, 16:46:13';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -99,13 +99,13 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 4,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 3,
+    "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 3,
@@ -195,9 +195,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 4,
     "postado": 3,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Finseg Leal": {
     "total": 11,
@@ -225,10 +225,10 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
-    "agendado": 2,
-    "agendado_coord": 1,
+    "agendado": 3,
+    "agendado_coord": 0,
     "a_agendar": 6
   },
   "Conecta Assessoria": {
@@ -387,12 +387,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Finseg Leal": {
-    "total": 4,
+    "total": 5,
     "pronto": 4,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -1031,7 +1031,7 @@ const LINHA_FEED_ITEMS = {
   "Stratto": [
     {
       "title": "\"O exemplo não é a melhor forma de ensinar. É a única.\" — Albert Schweitzer",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [],
@@ -1275,8 +1275,10 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "07/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conhe-a-o-movimento-que-est-mudando-a-preven-o-no-Brasil-3ab33d8db9d280bf84efff64d80faa0e"
@@ -2281,7 +2283,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ser pai é estar presente. Feliz Dia dos pais!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [],
@@ -2377,7 +2379,7 @@ const LINHA_FEED_ITEMS = {
       "title": "5 perguntas que fazemos antes de indicar qualquer seguro.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/08",
+      "date": "13/08",
       "missing": [
         "Design",
         "Legenda"
@@ -2681,13 +2683,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Antes da profissão, da sala de aula e dos tribunais, existe a maior missão da minha vida: ser pai.",
-      "status": "agendado_coord",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-da-profiss-o-da-sala-de-aula-e-dos-tribunais-existe-a-maior-miss-o-da-minha-vida-ser-pai-3a633d8db9d28014b038f4d9fde6ee7c"
@@ -3380,6 +3380,19 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/100-da-FIP-3ae33d8db9d280059006d9e73db10c1e"
+    },
+    {
+      "title": "Dia dos pais",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/08",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Dia-dos-pais-3ac33d8db9d280ddbfc6fdb22a615c2f"
     },
     {
       "title": "O medico que você quiser",
@@ -4249,7 +4262,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Finseg Leal": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 17
   },
   "Di Gregório Buffet": {
@@ -4398,7 +4411,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 1,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 0
   },
   "Di Gregório Buffet": {
