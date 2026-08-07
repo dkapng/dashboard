@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 08:20:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 09:05:56 **/
 
-const LAST_UPDATE = '07/08/2026, 08:20:39';
+const LAST_UPDATE = '07/08/2026, 09:05:56';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -66,10 +66,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 11,
     "pronto": 6,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -90,10 +90,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 10,
     "pronto": 5,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Stratto": {
     "total": 13,
@@ -105,7 +105,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 3,
@@ -170,10 +170,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 8,
     "pronto": 8,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 7,
@@ -194,10 +194,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 12,
     "pronto": 4,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Finseg Leal": {
     "total": 11,
@@ -348,11 +348,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 5,
-    "pronto": 4,
-    "postado": 2,
+    "pronto": 5,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Plannea": {
     "total": 0,
@@ -736,7 +736,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "1 em cada 4 idosos no mundo pode estar em situação de isolamento social (em foto menor: Mas envelhecer não precisa significar viver sozinho.)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "07/08",
       "missing": [],
@@ -958,7 +958,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A experiência do cliente começa nos aviamentos",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [],
@@ -1261,10 +1261,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "07/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conhe-a-o-movimento-que-est-mudando-a-preven-o-no-Brasil-3ab33d8db9d280bf84efff64d80faa0e"
@@ -1939,7 +1937,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Equipe capacitada: seu maior diferencial competitivo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/08",
       "missing": [],
@@ -2239,12 +2237,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que é violência patrimonial? Muitas mulheres ainda não conhecem esse tipo de violência",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -3177,13 +3173,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Seguro de vida",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -3982,7 +3975,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartão A5",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Cart-o-A5-3b433d8db9d280b69dc3ec27b8f158d0",
       "gestora": "Equipe",
       "date": "07T12:00:00.000/08"
@@ -4287,7 +4280,7 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "Planos Seguros": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 19
   },
   "Plannea": {
@@ -4303,7 +4296,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 3,
+    "prontas": 4,
     "total": 14
   },
   "Finseg Leal": {
