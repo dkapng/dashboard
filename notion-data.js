@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 14:42:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 15:43:03 **/
 
-const LAST_UPDATE = '07/08/2026, 14:42:16';
+const LAST_UPDATE = '07/08/2026, 15:43:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 11,
+    "total": 12,
     "pronto": 7,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 10
   },
   "Tramix": {
     "total": 10,
@@ -113,11 +113,11 @@ const FEED_DATA = {
   },
   "Jota Diesel": {
     "total": 10,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Ventana": {
     "total": 0,
@@ -177,11 +177,11 @@ const FEED_DATA = {
   },
   "Ortobom": {
     "total": 7,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "ItalaP": {
     "total": 6,
@@ -216,20 +216,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 11,
+    "total": 10,
     "pronto": 4,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 3,
+    "pronto": 2,
     "postado": 0,
     "agendado": 2,
-    "agendado_coord": 0,
-    "a_agendar": 7
+    "agendado_coord": 1,
+    "a_agendar": 6
   },
   "Conecta Assessoria": {
     "total": 14,
@@ -240,12 +240,12 @@ const FEED_DATA = {
     "a_agendar": 10
   },
   "Solar Coworking": {
-    "total": 9,
+    "total": 8,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   }
 };
 
@@ -366,9 +366,9 @@ const VIDEO_DATA = {
     "total": 0,
     "pronto": 0,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 6,
@@ -454,12 +454,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Tramix": {
     "total": 1,
@@ -760,6 +760,20 @@ const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
+      "title": "Ser ponte na mídia",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "07/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ser-ponte-na-m-dia-3b533d8db9d28024be4eefd71c60b1a5"
+    },
+    {
       "title": "Travessia no Bazar",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -872,7 +886,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "07/08",
+      "date": "08/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1324,12 +1338,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "DIA DOS PAIS ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -1457,18 +1469,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-do-Psic-logo-3ae33d8db9d280b3b73ae05f90ac6f9b"
     },
     {
-      "title": "Dia dos pais ",
+      "title": "Quem sempre colocou a família em primeiro lugar também merece ser prioridade. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-dos-pais-3ae33d8db9d280cba359f9bf97631397"
+      "notionUrl": "https://app.notion.com/p/Quem-sempre-colocou-a-fam-lia-em-primeiro-lugar-tamb-m-merece-ser-prioridade-3ae33d8db9d280cba359f9bf97631397"
     },
     {
       "title": "A saúde é construída nas escolhas que você faz todos os dias.",
@@ -2010,12 +2021,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dia dos pais ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
@@ -2442,19 +2451,6 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
-      "title": "Feliz Dia dos pais! (Em letra menor: ter por perto quem a gente ama é o nosso verdadeiro seguro para uma vida feliz)",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-Em-letra-menor-ter-por-perto-quem-a-gente-ama-o-nosso-verdadeiro-seguro-para-3b233d8db9d280b181e0e56f631e0943"
-    },
-    {
       "title": "Tbt do Dialogo do Seguro III",
       "status": "postado",
       "formato": "📸 Foto(s)",
@@ -2685,11 +2681,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Antes da profissão, da sala de aula e dos tribunais, existe a maior missão da minha vida: ser pai.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-da-profiss-o-da-sala-de-aula-e-dos-tribunais-existe-a-maior-miss-o-da-minha-vida-ser-pai-3a633d8db9d28014b038f4d9fde6ee7c"
@@ -2887,20 +2885,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-do-Empreendedor-3a733d8db9d280d18b96f8378dfa84b3"
     },
     {
-      "title": "Dia mundial do Coworking ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-mundial-do-Coworking-3a733d8db9d28058bc7fef7bf1fe850b"
-    },
-    {
       "title": "A primeira impressão da sua reunião começa na recepção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2979,18 +2963,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Networking-n-o-acontece-s-em-eventos-Ele-acontece-na-rotina-3a733d8db9d280068915da0e43a442dd"
     },
     {
-      "title": "Dias dos pais ",
+      "title": "O maior legado não está no que se conquista, mas no que se ensina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dias-dos-pais-3a733d8db9d28020995ed3bf7bba79a9"
+      "notionUrl": "https://app.notion.com/p/O-maior-legado-n-o-est-no-que-se-conquista-mas-no-que-se-ensina-3a733d8db9d28020995ed3bf7bba79a9"
     }
   ]
 };
@@ -3257,12 +3240,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "UM PRESENTE DE DIA DOS PAIS",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3565,19 +3546,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Divulga-o-do-bazar-no-formato-stories-3b333d8db9d280309dfac5de9e608367"
-    },
-    {
-      "title": "Quando a renda não é suficiente",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-a-renda-n-o-suficiente-39733d8db9d28033aa72c8ca28100bc8"
     }
   ],
   "Tramix": [
@@ -3970,16 +3938,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "ItalaP": [
-    {
-      "title": "Cartão A5",
-      "priority": "ppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Cart-o-A5-3b433d8db9d280b69dc3ec27b8f158d0",
-      "gestora": "Equipe",
-      "date": "07T12:00:00.000/08"
-    }
-  ],
   "Finseg Leal": [
     {
       "title": "Vídeo para tela - auto",
@@ -4026,29 +3984,11 @@ const DEMANDAS_EXTRAS = {
       "date": "22/08"
     }
   ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Convite para a cerimônia de certificação do Projeto Vozes da Liberdade",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Convite-para-a-cerim-nia-de-certifica-o-do-Projeto-Vozes-da-Liberdade-3b133d8db9d28047a0f8ef54045c7e83",
-      "gestora": "Equipe",
-      "date": "06/08"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
-    }
-  ],
   "Juntos contra o HPV": [
     {
       "title": "I Simpósio | Capa para o site",
       "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
       "gestora": "Equipe",
       "date": "31/07"
@@ -4056,7 +3996,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para YouTube",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-YouTube-3ad33d8db9d2808fbf71e1c8f8b1e90b",
       "gestora": "Equipe",
       "date": "31/07"
@@ -4064,7 +4004,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Certificados",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4072,7 +4012,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
@@ -4080,7 +4020,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Camisa",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4088,7 +4028,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Plaquinhas de tempo",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Plaquinhas-de-tempo-3a333d8db9d280658b21e84b4fc070fa",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4096,7 +4036,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Ecobag",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4104,7 +4044,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Bloco de notas",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4112,7 +4052,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Caneta",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Caneta-3a333d8db9d280eb8032ccfb20a48952",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4120,7 +4060,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Credencial e cordão personalizado",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Credencial-e-cord-o-personalizado-3a333d8db9d280b8a108cb2356b3d28f",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4128,7 +4068,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capas para Facebook e LinkedIn",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
       "gestora": "Equipe",
       "date": "24/07"
@@ -4190,6 +4130,16 @@ const DEMANDAS_EXTRAS = {
       "date": "12T12:00:00.000/06"
     }
   ],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -4240,7 +4190,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 10,
-    "total": 11
+    "total": 12
   },
   "Tramix": {
     "prontas": 9,
@@ -4263,7 +4213,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Univendas": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 12
   },
   "Terrartesã": {
@@ -4307,8 +4257,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 15,
-    "total": 16
+    "prontas": 14,
+    "total": 15
   },
   "Daniel Maia Advocacia": {
     "prontas": 4,
@@ -4319,8 +4269,8 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Solar Coworking": {
-    "prontas": 6,
-    "total": 9
+    "prontas": 7,
+    "total": 8
   }
 };
 
@@ -4341,10 +4291,10 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 4,
-    "carrossel": 7,
+    "carrossel": 8,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   },
   "Tramix": {
     "post": 9,
@@ -4459,7 +4409,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 9,
+    "post": 8,
     "carrossel": 1,
     "foto": 1,
     "video": 4,
@@ -4480,7 +4430,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Solar Coworking": {
-    "post": 9,
+    "post": 8,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
