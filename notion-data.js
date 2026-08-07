@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 09:05:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 10:46:53 **/
 
-const LAST_UPDATE = '07/08/2026, 09:05:56';
+const LAST_UPDATE = '07/08/2026, 10:46:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -813,7 +813,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "07/08",
+      "date": "13/08",
       "missing": [
         "Design"
       ],
@@ -826,7 +826,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Todos os dias, mulheres realizam 12,5 bilhões de horas de trabalho de cuidado não remunerado no mundo.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "10/08",
+      "date": "11/08",
       "missing": [
         "Design"
       ],
@@ -883,7 +883,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Existe uma Fortaleza que não chega no fim do mês.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "11/08",
+      "date": "10/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
