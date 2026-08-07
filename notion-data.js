@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 13:44:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/08/2026, 14:42:16 **/
 
-const LAST_UPDATE = '07/08/2026, 13:44:12';
+const LAST_UPDATE = '07/08/2026, 14:42:16';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1328,11 +1328,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/DIA-DOS-PAIS-3a633d8db9d28023b81efc418b1126b5"
     },
@@ -4256,7 +4255,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Jota Diesel": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 13
   },
   "Ventana": {
