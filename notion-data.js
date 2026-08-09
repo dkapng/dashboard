@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 20:29:21 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 20:59:13 **/
 
-const LAST_UPDATE = '09/08/2026, 20:29:21';
+const LAST_UPDATE = '09/08/2026, 20:59:13';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -192,12 +192,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
-    "total": 12,
+    "total": 13,
     "pronto": 4,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Finseg Leal": {
     "total": 11,
@@ -2098,7 +2098,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-primeiro-alimento-tamb-m-uma-das-primeiras-formas-de-proteger-uma-vida-3b333d8db9d280b68873c35b6bf31716"
@@ -2233,8 +2233,22 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-tantas-mulheres-empreendem-por-necessidade-e-n-o-por-oportunidade-3b233d8db9d280199692c5eb4618b387"
+    },
+    {
+      "title": "Por que mulheres na ciência ainda são minoria?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Por-que-mulheres-na-ci-ncia-ainda-s-o-minoria-3b233d8db9d2807c8a39fb9d4913196a"
     },
     {
       "title": "O que é violência patrimonial? Muitas mulheres ainda não conhecem esse tipo de violência",
@@ -2258,7 +2272,7 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Economia-do-cuidado-o-trabalho-invis-vel-que-movimenta-o-pa-s-3b233d8db9d28085844addf494ec18c5"
     },
     {
@@ -3884,7 +3898,7 @@ const LINHA_STORIES_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "Story/stories",
+      "title": "Agosto dourado",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "11/08",
@@ -3894,7 +3908,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3b333d8db9d28038ac7ecb9577e49635"
+      "notionUrl": "https://app.notion.com/p/Agosto-dourado-3b333d8db9d28038ac7ecb9577e49635"
     }
   ],
   "Grupo Mulheres do Brasil": [],
@@ -4397,7 +4411,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Grupo Mulheres do Brasil": {
-    "post": 12,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
