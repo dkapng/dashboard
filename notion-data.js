@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/08/2026, 22:07:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 00:12:21 **/
 
-const LAST_UPDATE = '08/08/2026, 22:07:37';
+const LAST_UPDATE = '09/08/2026, 00:12:21';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -129,11 +129,11 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 12,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Terrartesã": {
     "total": 0,
@@ -161,11 +161,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 14,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Plannea": {
     "total": 8,
@@ -241,11 +241,11 @@ const FEED_DATA = {
   },
   "Solar Coworking": {
     "total": 8,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   }
 };
 
@@ -1467,13 +1467,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem sempre colocou a família em primeiro lugar também merece ser prioridade. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-sempre-colocou-a-fam-lia-em-primeiro-lugar-tamb-m-merece-ser-prioridade-3ae33d8db9d280cba359f9bf97631397"
@@ -1701,13 +1699,11 @@ const LINHA_FEED_ITEMS = {
   "Planos Seguros": [
     {
       "title": "Feliz Dia dos pais! (Em letra menor: ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-Em-letra-menor-O-primeiro-sentimento-de-seguran-a-de-muitos-filhos-tem-nome-p-3b233d8db9d280c1a691e1f84179b2cc"
@@ -2957,13 +2953,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O maior legado não está no que se conquista, mas no que se ensina.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-maior-legado-n-o-est-no-que-se-conquista-mas-no-que-se-ensina-3a733d8db9d28020995ed3bf7bba79a9"
