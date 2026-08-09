@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 07:24:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 08:00:36 **/
 
-const LAST_UPDATE = '09/08/2026, 07:24:46';
+const LAST_UPDATE = '09/08/2026, 08:00:36';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -66,10 +66,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 11,
     "pronto": 7,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -627,7 +627,7 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
       "title": "Feliz dia dos pais (em letra menor: O tempo passa, você se aposenta, mas a família fica)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [],
