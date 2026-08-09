@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/08/2026, 20:52:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/08/2026, 22:07:37 **/
 
-const LAST_UPDATE = '08/08/2026, 20:52:17';
+const LAST_UPDATE = '08/08/2026, 22:07:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4225,7 +4225,7 @@ const LEGENDAS_DATA = {
   },
   "Ventana": {
     "prontas": 0,
-    "total": 6
+    "total": 5
   },
   "Univendas": {
     "prontas": 10,
