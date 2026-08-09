@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 08:00:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 08:53:22 **/
 
-const LAST_UPDATE = '09/08/2026, 08:00:36';
+const LAST_UPDATE = '09/08/2026, 08:53:22';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -90,10 +90,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 10,
     "pronto": 5,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 13,
@@ -194,8 +194,8 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 12,
     "pronto": 4,
-    "postado": 3,
-    "agendado": 1,
+    "postado": 4,
+    "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 8
   },
@@ -905,7 +905,7 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "Feliz Dia dos pais! (Em letra menor: ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [],
@@ -2274,7 +2274,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ser pai é estar presente. Feliz Dia dos pais!",
-      "status": "agendado",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/08",
       "missing": [],
