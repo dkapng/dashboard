@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 09:09:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 10:51:49 **/
 
-const LAST_UPDATE = '10/08/2026, 09:09:02';
+const LAST_UPDATE = '10/08/2026, 10:51:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -168,12 +168,12 @@ const FEED_DATA = {
     "a_agendar": 13
   },
   "Plannea": {
-    "total": 8,
+    "total": 9,
     "pronto": 8,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 7,
@@ -1864,6 +1864,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Plannea": [
+    {
+      "title": "Vagas",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vagas-3b833d8db9d280b89eacfbd4756ce951"
+    },
     {
       "title": "Vaga para analista fiscal",
       "status": "postado",
@@ -4247,7 +4261,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 6,
-    "total": 8
+    "total": 9
   },
   "Ortobom": {
     "prontas": 12,
@@ -4380,7 +4394,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Plannea": {
-    "post": 7,
+    "post": 8,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
