@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 17:33:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 18:33:56 **/
 
-const LAST_UPDATE = '10/08/2026, 17:33:28';
+const LAST_UPDATE = '10/08/2026, 18:33:56';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4071,7 +4071,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Relatório inicial",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Relat-rio-inicial-3b833d8db9d28008b4fcecefd18ca56a",
       "gestora": "Equipe",
       "date": "10/08"
@@ -4079,7 +4079,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vídeo com aniversariantes de agosto",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/V-deo-com-aniversariantes-de-agosto-3b833d8db9d280d4b422dad949438d38",
       "gestora": "Equipe",
       "date": "10/08"
