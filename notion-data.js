@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 23:01:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 01:11:29 **/
 
-const LAST_UPDATE = '09/08/2026, 23:01:55';
+const LAST_UPDATE = '10/08/2026, 01:11:29';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 7,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -97,7 +97,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 7,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
@@ -145,7 +145,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 6,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -193,19 +193,19 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 7,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 9
   },
   "Finseg Leal": {
-    "total": 11,
+    "total": 12,
     "pronto": 4,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -851,8 +851,10 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "12/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-chefiada-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-lios-39733d8db9d2801b9ce7d623d765dfc8"
@@ -1091,10 +1093,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Acompanhar-empresas-de-diferentes-segmentos-mostrou-uma-verdade-que-se-repete-o-problema-raramente--3b233d8db9d2802fafa4c1e0d504aec1"
@@ -1104,10 +1105,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-uma-hist-ria-A-nossa-come-ou-com-um-prop-sito-3b233d8db9d28003b020e601ebf03ab2"
@@ -1166,10 +1165,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Grandes-resultados-come-am-muito-antes-da-primeira-an-lise-financeira-39133d8db9d28095b9adfe73085fb560"
@@ -1609,10 +1606,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-aten-o-aos-detalhes-pode-evitar-problemas-no-futuro-3aa33d8db9d28034a5d0ed5cf3f76e09"
@@ -1622,10 +1617,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-realmente-leu-tudo-antes-de-clicar-em-Aceito-os-termos-3aa33d8db9d2804e983beee8081c5e43"
@@ -1635,10 +1628,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tr-s-documentos-que-podem-fazer-a-diferen-a-na-seguran-a-jur-dica-da-sua-empresa-3aa33d8db9d280e7be05f63f1f8d288a"
@@ -2229,10 +2220,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-mulheres-na-ci-ncia-ainda-s-o-minoria-3b233d8db9d2807c8a39fb9d4913196a"
@@ -2254,10 +2244,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Economia-do-cuidado-o-trabalho-invis-vel-que-movimenta-o-pa-s-3b233d8db9d28085844addf494ec18c5"
@@ -2366,6 +2355,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/4-Situa-es-em-que-vale-revisar-seu-seguro-imediatamente-Mudou-de-endere-o-Comprou-outro-carro-3ae33d8db9d2805a8d6be41677427f99"
+    },
+    {
+      "title": "Por que dois clientes com o mesmo carro podem precisar de seguros diferentes?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Por-que-dois-clientes-com-o-mesmo-carro-podem-precisar-de-seguros-diferentes-38f33d8db9d28005af59d114e8a2143b"
     },
     {
       "title": "5 perguntas que fazemos antes de indicar qualquer seguro.",
@@ -3599,7 +3602,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3b233d8db9d2804b9addd217b6d581cc"
     },
     {
-      "title": "Story/stories",
+      "title": "Hoje queremos abrir as portas da Stratto para você.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/08",
@@ -3609,7 +3612,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3b233d8db9d280e483adc59d844300fc"
+      "notionUrl": "https://app.notion.com/p/Hoje-queremos-abrir-as-portas-da-Stratto-para-voc-3b233d8db9d280e483adc59d844300fc"
     }
   ],
   "Juntos contra o HPV": [
@@ -3627,7 +3630,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3ab33d8db9d28005911ef1966f3384f4"
     },
     {
-      "title": "Story/stories",
+      "title": "Você acredita que o câncer do colo do útero pode ser eliminado?",
       "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "14/08",
@@ -3637,7 +3640,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ab33d8db9d280aba0d7c55786939a80"
+      "notionUrl": "https://app.notion.com/p/Voc-acredita-que-o-c-ncer-do-colo-do-tero-pode-ser-eliminado-3ab33d8db9d280aba0d7c55786939a80"
     }
   ],
   "Jota Diesel": [
@@ -3739,7 +3742,7 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Story/stories",
+      "title": "Descontos no salário têm limites. Você sabe quais são?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/08",
@@ -3749,7 +3752,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3aa33d8db9d280b98f6be33ce9718452"
+      "notionUrl": "https://app.notion.com/p/Descontos-no-sal-rio-t-m-limites-Voc-sabe-quais-s-o-3aa33d8db9d280b98f6be33ce9718452"
     },
     {
       "title": "Muitas pessoas possuem direitos que nem imaginam.",
@@ -4405,7 +4408,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 10,
+    "post": 11,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
