@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 18:33:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 19:28:37 **/
 
-const LAST_UPDATE = '10/08/2026, 18:33:56';
+const LAST_UPDATE = '10/08/2026, 19:28:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4071,7 +4071,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Relatório inicial",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Relat-rio-inicial-3b833d8db9d28008b4fcecefd18ca56a",
       "gestora": "Equipe",
       "date": "10/08"
