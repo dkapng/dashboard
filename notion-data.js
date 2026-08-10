@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 12:52:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 13:44:48 **/
 
-const LAST_UPDATE = '10/08/2026, 12:52:49';
+const LAST_UPDATE = '10/08/2026, 13:44:48';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -3536,7 +3536,7 @@ const LINHA_VIDEO_ITEMS = {
 const LINHA_STORIES_ITEMS = {
   "AAFEC": [
     {
-      "title": "Sequência de stories sobre encontro mensal ",
+      "title": "Sequência de stories sobre encontro mensal",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "10/08",
