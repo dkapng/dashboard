@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 13:44:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 14:44:15 **/
 
-const LAST_UPDATE = '10/08/2026, 13:44:48';
+const LAST_UPDATE = '10/08/2026, 14:44:15';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -146,10 +146,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 6,
     "pronto": 6,
-    "postado": 0,
-    "agendado": 3,
+    "postado": 1,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 1,
@@ -439,7 +439,7 @@ const VIDEO_DATA = {
 const STORIES_DATA = {
   "AAFEC": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -551,11 +551,11 @@ const STORIES_DATA = {
   },
   "Ortobom": {
     "total": 3,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 1,
@@ -1253,7 +1253,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-ci-ncia-j-sabe-o-caminho-Agora-precisamos-acelerar-3ab33d8db9d28006b833e9935e7a2888"
@@ -1614,7 +1614,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você realmente leu tudo antes de clicar em 'Aceito os termos'?”",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/08",
       "missing": [],
@@ -1625,7 +1625,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Três documentos que podem fazer a diferença na segurança jurídica da sua empresa.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [],
@@ -3540,10 +3540,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "10/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sequ-ncia-de-stories-sobre-encontro-mensal-3b833d8db9d280abac99fe324048bdda"
@@ -3898,14 +3896,12 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário Silvania (palmares mall)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "10/08",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Silvania-palmares-mall-2e333d8db9d28040a53fc31a48ab103f"
     }
@@ -3975,6 +3971,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "AAFEC": [
+    {
+      "title": "Relatório inicial",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Relat-rio-inicial-3b833d8db9d28008b4fcecefd18ca56a",
+      "gestora": "Equipe",
+      "date": "10/08"
+    },
+    {
+      "title": "Vídeo com aniversariantes de agosto",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-com-aniversariantes-de-agosto-3b833d8db9d280d4b422dad949438d38",
+      "gestora": "Equipe",
+      "date": "10/08"
+    },
+    {
+      "title": "Agenda de setembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
+      "gestora": "Equipe",
+      "date": "22/08"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Vídeo para tela - auto",
@@ -4009,16 +4031,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
       "gestora": "Equipe",
       "date": "10/08"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Agenda de setembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
-      "gestora": "Equipe",
-      "date": "22/08"
     }
   ],
   "Juntos contra o HPV": [
