@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 20:59:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/08/2026, 23:01:55 **/
 
-const LAST_UPDATE = '09/08/2026, 20:59:13';
+const LAST_UPDATE = '09/08/2026, 23:01:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,7 +89,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 5,
+    "pronto": 8,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
@@ -185,7 +185,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 6,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -193,7 +193,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -933,10 +933,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-est-perto-consegue-entender-melhor-a-sua-produ-o-3aa33d8db9d280d29ca7fd8279629ae9"
@@ -946,10 +944,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-consumidor-dificilmente-esquece-uma-pe-a-que-deu-problema-3aa33d8db9d280b2b2cbfcd74ec125d5"
@@ -959,10 +955,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-fornecedor-tamb-m-faz-parte-da-sua-produ-o-3aa33d8db9d280f8bc43dc29b9a9a348"
@@ -2069,10 +2063,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Da-gesta-o-aos-primeiros-anos-de-vida-existe-um-cuidado-que-faz-toda-a-diferen-a-3b333d8db9d28064a2e6d949d2476c22"
@@ -2082,10 +2074,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Amamentar-importante-Mas-cuidar-da-sa-de-da-m-e-tamb-m-faz-parte-dessa-hist-ria-3b333d8db9d2805ca7ced0cb3d03868f"
@@ -2095,10 +2085,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-primeiro-alimento-tamb-m-uma-das-primeiras-formas-de-proteger-uma-vida-3b333d8db9d280b68873c35b6bf31716"
@@ -2228,10 +2216,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-tantas-mulheres-empreendem-por-necessidade-e-n-o-por-oportunidade-3b233d8db9d280199692c5eb4618b387"
@@ -2270,7 +2257,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Economia-do-cuidado-o-trabalho-invis-vel-que-movimenta-o-pa-s-3b233d8db9d28085844addf494ec18c5"
