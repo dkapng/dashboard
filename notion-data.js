@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 15:44:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 16:49:38 **/
 
-const LAST_UPDATE = '10/08/2026, 15:44:59';
+const LAST_UPDATE = '10/08/2026, 16:49:38';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -105,7 +105,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 9,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 3,
@@ -136,12 +136,12 @@ const FEED_DATA = {
     "a_agendar": 11
   },
   "Terrartesã": {
-    "total": 0,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 5
   },
   "RR Advocacia": {
     "total": 6,
@@ -152,12 +152,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Rede Pangeia": {
-    "total": 2,
+    "total": 3,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 14,
@@ -526,12 +526,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Rede Pangeia": {
-    "total": 0,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 4,
@@ -1233,10 +1233,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cinco-grandes-temas-que-v-o-transformar-nosso-Simp-sio-H2-Forma-o-de-redes-Experi-ncias-exi-3ab33d8db9d2800eabdcf2ace8c3bae0"
@@ -1580,7 +1578,73 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-escolha-do-plano-certo-faz-diferen-a-todos-os-dias-39633d8db9d280bea4d3d0b5138bf23a"
     }
   ],
-  "Terrartesã": [],
+  "Terrartesã": [
+    {
+      "title": "Cada peça pronta revela um processo que começou muito antes do primeiro ponto.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cada-pe-a-pronta-revela-um-processo-que-come-ou-muito-antes-do-primeiro-ponto-3b833d8db9d2807db2bee2027521a978"
+    },
+    {
+      "title": "Mais do que aprender uma técnica, criar com as próprias mãos pode ser o início de uma nova história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-do-que-aprender-uma-t-cnica-criar-com-as-pr-prias-m-os-pode-ser-o-in-cio-de-uma-nova-hist-ria-3b833d8db9d2803f9e5ec98a4cb89a1c"
+    },
+    {
+      "title": "Cada técnica preservada mantém viva uma parte da nossa história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cada-t-cnica-preservada-mant-m-viva-uma-parte-da-nossa-hist-ria-3b833d8db9d2806d9a5dfe8b4331808e"
+    },
+    {
+      "title": "O que atravessa gerações também ajuda a construir o futuro.O que atravessa gerações também ajuda a construir o futuro.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-atravessa-gera-es-tamb-m-ajuda-a-construir-o-futuro-O-que-atravessa-gera-es-tamb-m-ajuda-a-c-3b833d8db9d280af933ced06712eed09"
+    },
+    {
+      "title": "Entre o talento e a oportunidade, existem histórias que começam a mudar.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Entre-o-talento-e-a-oportunidade-existem-hist-rias-que-come-am-a-mudar-3b833d8db9d280ee8d84cc1cbcfeae09"
+    }
+  ],
   "RR Advocacia": [
     {
       "title": "A atenção aos detalhes pode evitar problemas no futuro.",
@@ -1651,7 +1715,21 @@ const LINHA_FEED_ITEMS = {
   ],
   "Rede Pangeia": [
     {
-      "title": "Dia do Voluntariado no Brasil",
+      "title": "Sua organização tem uma causa forte. Mas sua estrutura consegue sustenta-lá?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-organiza-o-tem-uma-causa-forte-Mas-sua-estrutura-consegue-sustenta-l-3b833d8db9d280efaceecc4e0e0c9d02"
+    },
+    {
+      "title": "Quando pessoas se mobilizam, causas ganham força. Quando essa mobilização se organiza, o impacto pode ir mais longe. Feliz Dia do Voluntariado no Brasil",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
@@ -1662,7 +1740,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Voluntariado-no-Brasil-3b833d8db9d280b7ac7fc8839431a491"
+      "notionUrl": "https://app.notion.com/p/Quando-pessoas-se-mobilizam-causas-ganham-for-a-Quando-essa-mobiliza-o-se-organiza-o-impacto-pod-3b833d8db9d280b7ac7fc8839431a491"
     },
     {
       "title": "A maioria das organizações sociais nasce de uma causa legítima. Mas o impacto não depende apenas do propósito.",
@@ -3756,7 +3834,47 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Muitas-pessoas-possuem-direitos-que-nem-imaginam-39033d8db9d2805a80e6dc4d6afc8539"
     }
   ],
-  "Rede Pangeia": [],
+  "Rede Pangeia": [
+    {
+      "title": "#dicadasemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "27/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/dicadasemana-3b833d8db9d280429ef0c86c2fa927bc"
+    },
+    {
+      "title": "#dicadasemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "20/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/dicadasemana-3b833d8db9d280869893ccee1bb95924"
+    },
+    {
+      "title": "#dicadasemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "13/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/dicadasemana-3b833d8db9d2802888bedb2f1c273a5a"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "O patrimônio da sua empresa mudou. A estratégia de cobertura também?",
@@ -3939,6 +4057,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Conecta Assessoria": [
+    {
+      "title": "convite para WhatsApp ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/convite-para-WhatsApp-3b833d8db9d2800b989afbc955cc4bd8",
+      "gestora": "Equipe",
+      "date": "12/08"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Relatório inicial",
@@ -3951,7 +4079,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vídeo com aniversariantes de agosto",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/V-deo-com-aniversariantes-de-agosto-3b833d8db9d280d4b422dad949438d38",
       "gestora": "Equipe",
       "date": "10/08"
@@ -4234,8 +4362,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Terrartesã": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 5,
+    "total": 5
   },
   "RR Advocacia": {
     "prontas": 6,
@@ -4243,7 +4371,7 @@ const LEGENDAS_DATA = {
   },
   "Rede Pangeia": {
     "prontas": 1,
-    "total": 3
+    "total": 7
   },
   "Planos Seguros": {
     "prontas": 19,
@@ -4356,7 +4484,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Terrartesã": {
-    "post": 0,
+    "post": 5,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4370,11 +4498,11 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Rede Pangeia": {
-    "post": 1,
+    "post": 2,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 3
   },
   "Planos Seguros": {
     "post": 13,
