@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 10:51:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 11:51:20 **/
 
-const LAST_UPDATE = '10/08/2026, 10:51:49';
+const LAST_UPDATE = '10/08/2026, 11:51:20';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -82,18 +82,18 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 12,
     "pronto": 7,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Tramix": {
     "total": 10,
     "pronto": 8,
-    "postado": 5,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Stratto": {
     "total": 13,
@@ -170,10 +170,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 9,
     "pronto": 8,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 7,
@@ -194,10 +194,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 13,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Finseg Leal": {
     "total": 12,
@@ -349,10 +349,10 @@ const VIDEO_DATA = {
   "Planos Seguros": {
     "total": 5,
     "pronto": 5,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Plannea": {
     "total": 0,
@@ -438,12 +438,12 @@ const VIDEO_DATA = {
 
 const STORIES_DATA = {
   "AAFEC": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -894,7 +894,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Existe uma Fortaleza que não chega no fim do mês.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [],
@@ -954,7 +954,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O fornecedor também faz parte da sua produção",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [],
@@ -1915,7 +1915,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Contabilidade não é apenas cumprir obrigações",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [],
@@ -2217,12 +2217,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que tantas mulheres empreendem por necessidade e não por oportunidade?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -3147,12 +3145,10 @@ const LINHA_VIDEO_ITEMS = {
   "Planos Seguros": [
     {
       "title": "Seguro é caro?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "10/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -3538,7 +3534,21 @@ const LINHA_VIDEO_ITEMS = {
 };
 
 const LINHA_STORIES_ITEMS = {
-  "AAFEC": [],
+  "AAFEC": [
+    {
+      "title": "Sequência de stories sobre encontro mensal ",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "10/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sequ-ncia-de-stories-sobre-encontro-mensal-3b833d8db9d280abac99fe324048bdda"
+    }
+  ],
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
@@ -4256,7 +4266,7 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "Planos Seguros": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 19
   },
   "Plannea": {
@@ -4272,7 +4282,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 14
   },
   "Finseg Leal": {
@@ -4307,7 +4317,7 @@ const FORMAT_COUNTS = {
     "carrossel": 4,
     "foto": 0,
     "video": 1,
-    "story": 0
+    "story": 1
   },
   "Travessias Híbridas": {
     "post": 0,
