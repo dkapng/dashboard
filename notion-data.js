@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 20:06:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 20:58:17 **/
 
-const LAST_UPDATE = '10/08/2026, 20:06:56';
+const LAST_UPDATE = '10/08/2026, 20:58:17';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -225,7 +225,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -2657,14 +2657,12 @@ const LINHA_FEED_ITEMS = {
   ],
   "Daniel Maia Advocacia": [
     {
-      "title": "\"Quando você estiver contra a parede, derrube a parede.” — Harvey Specter (dia do advogado)",
+      "title": "“Quando você estiver contra a parede, derrube a parede.” — Harvey Specter (dia do advogado)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-voc-estiver-contra-a-parede-derrube-a-parede-Harvey-Specter-dia-do-advogado-3b333d8db9d280ccad2ec01bbde83995"
@@ -2734,7 +2732,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Posso-demitir-um-funcion-rio-pelo-que-ele-posta-nas-redes-sociais-3a633d8db9d280679dfbc06635b4f0cb"
