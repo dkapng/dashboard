@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 11:51:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 12:52:49 **/
 
-const LAST_UPDATE = '10/08/2026, 11:51:20';
+const LAST_UPDATE = '10/08/2026, 12:52:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4219,7 +4219,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "AAFEC": {
     "prontas": 12,
-    "total": 13
+    "total": 14
   },
   "Travessias Híbridas": {
     "prontas": 0,
