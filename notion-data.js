@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 14:44:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 15:44:59 **/
 
-const LAST_UPDATE = '10/08/2026, 14:44:15';
+const LAST_UPDATE = '10/08/2026, 15:44:59';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -82,10 +82,10 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 12,
     "pronto": 7,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Tramix": {
     "total": 10,
@@ -98,18 +98,18 @@ const FEED_DATA = {
   "Stratto": {
     "total": 13,
     "pronto": 7,
-    "postado": 2,
-    "agendado": 2,
+    "postado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 6
   },
   "Juntos contra o HPV": {
-    "total": 10,
-    "pronto": 3,
-    "postado": 0,
+    "total": 9,
+    "pronto": 4,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 3,
-    "a_agendar": 5
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 10,
@@ -152,12 +152,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Rede Pangeia": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 14,
@@ -186,10 +186,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 6,
     "pronto": 6,
-    "postado": 1,
-    "agendado": 2,
+    "postado": 2,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 13,
@@ -232,12 +232,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Conecta Assessoria": {
-    "total": 14,
-    "pronto": 5,
+    "total": 13,
+    "pronto": 4,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Solar Coworking": {
     "total": 8,
@@ -276,11 +276,11 @@ const VIDEO_DATA = {
   },
   "Tramix": {
     "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 1,
@@ -292,11 +292,11 @@ const VIDEO_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 4,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 3,
@@ -372,11 +372,11 @@ const VIDEO_DATA = {
   },
   "ItalaP": {
     "total": 6,
-    "pronto": 5,
-    "postado": 0,
-    "agendado": 1,
+    "pronto": 6,
+    "postado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -404,11 +404,11 @@ const VIDEO_DATA = {
   },
   "APROSSEG": {
     "total": 4,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -420,11 +420,11 @@ const VIDEO_DATA = {
   },
   "Conecta Assessoria": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 0,
@@ -440,10 +440,10 @@ const STORIES_DATA = {
   "AAFEC": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -456,10 +456,10 @@ const STORIES_DATA = {
   "Ser Ponte": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Tramix": {
     "total": 1,
@@ -761,7 +761,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Ser ponte na mídia",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "07/08",
+      "date": "11/08",
       "missing": [
         "Legenda"
       ],
@@ -772,12 +772,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Travessia no Bazar",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -798,7 +796,7 @@ const LINHA_FEED_ITEMS = {
       "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa\n",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "17/08",
+      "date": "19/08",
       "missing": [
         "Design"
       ],
@@ -811,7 +809,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "14/08",
+      "date": "17/08",
       "missing": [
         "Design"
       ],
@@ -850,7 +848,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Mais da metade dos lares do Ceará é chefiada por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "12/08",
+      "date": "14/08",
       "missing": [
         "Design"
       ],
@@ -863,7 +861,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/08",
+      "date": "21/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -885,7 +883,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "08/08",
+      "date": "12/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1089,20 +1087,18 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Acompanhar empresas de diferentes segmentos mostrou uma verdade que se repete: o problema raramente está apenas nos números.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Acompanhar-empresas-de-diferentes-segmentos-mostrou-uma-verdade-que-se-repete-o-problema-raramente--3b233d8db9d2802fafa4c1e0d504aec1"
     },
     {
       "title": "Toda empresa tem uma história. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/08",
       "missing": [],
@@ -1162,7 +1158,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Grandes resultados começam muito antes da primeira análise financeira.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [],
@@ -1235,12 +1231,12 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Cinco grandes temas que vão transformar nosso Simpósio: H2 \n• Formação de redes; \n• Experiências exitosas; \n• Vacinação; \n• Inovação; ",
       "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "11/08",
+      "formato": "🎠 Carrossel",
+      "date": "12/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cinco-grandes-temas-que-v-o-transformar-nosso-Simp-sio-H2-Forma-o-de-redes-Experi-ncias-exi-3ab33d8db9d2800eabdcf2ace8c3bae0"
@@ -1249,20 +1245,18 @@ const LINHA_FEED_ITEMS = {
       "title": "A ciência já sabe o caminho. Agora precisamos acelerar! ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "10/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "date": "13/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-ci-ncia-j-sabe-o-caminho-Agora-precisamos-acelerar-3ab33d8db9d28006b833e9935e7a2888"
     },
     {
       "title": "Conheça o movimento que está mudando a prevenção no Brasil",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
-      "date": "07/08",
+      "date": "10/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1294,19 +1288,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-diferentes-setores-da-sociedade-civil-d-o-as-m-os-o-impacto-deixa-de-ser-local-e-vira-pol-ti-39833d8db9d2809fb09dda9a3fca59de"
-    },
-    {
-      "title": "Aproximadamente 20 mulheres morrem por dia no país devido a uma doença evitável.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "13/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aproximadamente-20-mulheres-morrem-por-dia-no-pa-s-devido-a-uma-doen-a-evit-vel-O-verdadeiro-impact-39833d8db9d2803e8c1cfc3c0f6231c1"
     }
   ],
   "Jota Diesel": [
@@ -1669,6 +1650,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Rede Pangeia": [
+    {
+      "title": "Dia do Voluntariado no Brasil",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-do-Voluntariado-no-Brasil-3b833d8db9d280b7ac7fc8839431a491"
+    },
     {
       "title": "A maioria das organizações sociais nasce de uma causa legítima. Mas o impacto não depende apenas do propósito.",
       "status": "agendado",
@@ -2065,7 +2060,7 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "Da gestação aos primeiros anos de vida, existe um cuidado que faz toda a diferença.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [],
@@ -2076,7 +2071,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Amamentar é importante. Mas cuidar da saúde da mãe também faz parte dessa história.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/08",
       "missing": [],
@@ -2087,7 +2082,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O primeiro alimento também é uma das primeiras formas de proteger uma vida.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [],
@@ -2806,17 +2801,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Plano-de-Sa-de-S-nior-caro-Vamos-quebrar-esse-mito-3a433d8db9d280789318c2cd4f99801a"
     },
     {
-      "title": "O maior presente é a presença - Feliz dia dos Pais!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "09/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-maior-presente-a-presen-a-Feliz-dia-dos-Pais-3a433d8db9d280b49664f7529dc835cb"
-    },
-    {
       "title": "Seu pai sempre protegeu todo mundo. Quem está protegendo a saúde dele hoje?",
       "status": "agendado",
       "formato": "🎠 Carrossel",
@@ -3000,13 +2984,10 @@ const LINHA_VIDEO_ITEMS = {
   "Tramix": [
     {
       "title": "Vídeo de dia dos pais",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -3083,16 +3064,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "O que é o I Simpósio do Movimento Juntos contra o HPV?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "12/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "date": "11/08",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/O-que-o-I-Simp-sio-do-Movimento-Juntos-contra-o-HPV-3ab33d8db9d28078974fd3ad9661fcc8"
     }
   ],
@@ -3278,16 +3256,13 @@ const LINHA_VIDEO_ITEMS = {
   "ItalaP": [
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 2. A editar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d2808d87dde7f68754d0cc"
     },
     {
@@ -3331,14 +3306,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Check-up",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "13/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Check-up-3b133d8db9d280bc8248cf89e20e2848"
     },
@@ -3435,15 +3408,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Dia dos Pais",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Dia-dos-Pais-3a033d8db9d2800088dee243ca0b0a0d"
     },
     {
@@ -3506,16 +3477,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "10/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280e88305e1295b08b650"
     },
     {
@@ -3537,7 +3505,7 @@ const LINHA_STORIES_ITEMS = {
   "AAFEC": [
     {
       "title": "Sequência de stories sobre encontro mensal",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "10/08",
       "missing": [],
@@ -3551,7 +3519,7 @@ const LINHA_STORIES_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Spoilers do bazar #02",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "07/08",
       "missing": [],
@@ -4061,7 +4029,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Régua",
       "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
       "gestora": "Equipe",
       "date": "28/07"
@@ -4231,27 +4199,27 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "AAFEC": {
     "prontas": 12,
-    "total": 14
+    "total": 13
   },
   "Travessias Híbridas": {
     "prontas": 0,
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 12
   },
   "Tramix": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 11
   },
   "Stratto": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 14
   },
   "Juntos contra o HPV": {
     "prontas": 14,
-    "total": 16
+    "total": 15
   },
   "Jota Diesel": {
     "prontas": 10,
@@ -4275,7 +4243,7 @@ const LEGENDAS_DATA = {
   },
   "Rede Pangeia": {
     "prontas": 1,
-    "total": 1
+    "total": 3
   },
   "Planos Seguros": {
     "prontas": 19,
@@ -4290,7 +4258,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "ItalaP": {
-    "prontas": 7,
+    "prontas": 9,
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
@@ -4315,7 +4283,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 15,
-    "total": 18
+    "total": 17
   },
   "Solar Coworking": {
     "prontas": 7,
@@ -4360,8 +4328,8 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Juntos contra o HPV": {
-    "post": 5,
-    "carrossel": 5,
+    "post": 3,
+    "carrossel": 6,
     "foto": 0,
     "video": 5,
     "story": 2
@@ -4402,7 +4370,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Rede Pangeia": {
-    "post": 0,
+    "post": 1,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -4472,7 +4440,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Conecta Assessoria": {
-    "post": 12,
+    "post": 11,
     "carrossel": 2,
     "foto": 0,
     "video": 4,
