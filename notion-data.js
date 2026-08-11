@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 10:50:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 11:51:19 **/
 
-const LAST_UPDATE = '11/08/2026, 10:50:44';
+const LAST_UPDATE = '11/08/2026, 11:51:19';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -107,9 +107,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 5,
     "postado": 1,
-    "agendado": 2,
-    "agendado_coord": 3,
-    "a_agendar": 3
+    "agendado": 4,
+    "agendado_coord": 2,
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 10,
@@ -203,9 +203,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 5,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -390,9 +390,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 5,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -561,9 +561,9 @@ const STORIES_DATA = {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -1230,18 +1230,18 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cinco grandes temas que vão transformar nosso Simpósio: H2 \n• Formação de redes; \n• Experiências exitosas; \n• Vacinação; \n• Inovação; ",
-      "status": "agendado_coord",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "12/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cinco-grandes-temas-que-v-o-transformar-nosso-Simp-sio-H2-Forma-o-de-redes-Experi-ncias-exi-3ab33d8db9d2800eabdcf2ace8c3bae0"
     },
     {
       "title": "A ciência já sabe o caminho. Agora precisamos acelerar! ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "13/08",
       "missing": [],
@@ -2443,14 +2443,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que dois clientes com o mesmo carro podem precisar de seguros diferentes?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "11/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-dois-clientes-com-o-mesmo-carro-podem-precisar-de-seguros-diferentes-38f33d8db9d28005af59d114e8a2143b"
     },
@@ -3414,14 +3412,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "100% da FIP",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "12/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/100-da-FIP-3ae33d8db9d280059006d9e73db10c1e"
     },
@@ -3985,7 +3981,7 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Agosto dourado",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "11/08",
       "missing": [],
@@ -4109,24 +4105,6 @@ const DEMANDAS_EXTRAS = {
       "date": "15/05"
     }
   ],
-  "Ortobom": [
-    {
-      "title": "Campanha do dia dos pais em formato de stories",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Campanha-do-dia-dos-pais-em-formato-de-stories-3b233d8db9d28051958acdadc86182cc",
-      "gestora": "Equipe",
-      "date": "05/08"
-    },
-    {
-      "title": "Configuração de mensagens automáticas no Instagram.",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
-      "gestora": "Equipe",
-      "date": "10/08"
-    }
-  ],
   "Juntos contra o HPV": [
     {
       "title": "I Simpósio | Capa para o site",
@@ -4225,6 +4203,16 @@ const DEMANDAS_EXTRAS = {
       "date": "30/07"
     }
   ],
+  "Ortobom": [
+    {
+      "title": "Configuração de mensagens automáticas no Instagram.",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
+      "gestora": "Equipe",
+      "date": "10/08"
+    }
+  ],
   "Ventana": [
     {
       "title": "Briefing e e-mail de boas vindas",
@@ -4312,6 +4300,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Stratto": "marcada",
   "AAFEC": "marcada",
   "Ser Ponte": "marcada",
   "Finseg Leal": "confirmada",
@@ -4393,7 +4382,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Finseg Leal": {
-    "prontas": 5,
+    "prontas": 7,
     "total": 17
   },
   "Di Gregório Buffet": {
@@ -4605,7 +4594,7 @@ const AGENDA_COUNTS = {
   },
   "Stratto": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Juntos contra o HPV": {
