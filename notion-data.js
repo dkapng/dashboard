@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 20:58:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/08/2026, 22:44:00 **/
 
-const LAST_UPDATE = '10/08/2026, 20:58:17';
+const LAST_UPDATE = '10/08/2026, 22:44:00';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -201,7 +201,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 12,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -225,7 +225,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -233,7 +233,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 6,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -527,7 +527,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -559,7 +559,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -793,7 +793,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/TUDO-QUE-VOC-PRECISA-SABER-SOBRE-O-BAZAR-3ab33d8db9d280d69497e3d7a72e434d"
     },
     {
-      "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa\n",
+      "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "19/08",
@@ -1715,7 +1715,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Rede Pangeia": [
     {
-      "title": "Sua organização tem uma causa forte. Mas sua estrutura consegue sustenta-lá?",
+      "title": "Sua organização tem uma causa forte. Mas sua estrutura consegue sustentá-la?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/08",
@@ -1726,7 +1726,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-organiza-o-tem-uma-causa-forte-Mas-sua-estrutura-consegue-sustenta-l-3b833d8db9d280efaceecc4e0e0c9d02"
+      "notionUrl": "https://app.notion.com/p/Sua-organiza-o-tem-uma-causa-forte-Mas-sua-estrutura-consegue-sustent-la-3b833d8db9d280efaceecc4e0e0c9d02"
     },
     {
       "title": "Quando pessoas se mobilizam, causas ganham força. Quando essa mobilização se organiza, o impacto pode ir mais longe. Feliz Dia do Voluntariado no Brasil",
@@ -2447,10 +2447,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-dois-clientes-com-o-mesmo-carro-podem-precisar-de-seguros-diferentes-38f33d8db9d28005af59d114e8a2143b"
@@ -2729,10 +2728,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Posso-demitir-um-funcion-rio-pelo-que-ele-posta-nas-redes-sociais-3a633d8db9d280679dfbc06635b4f0cb"
@@ -2868,10 +2866,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Plano-de-Sa-de-S-nior-caro-Vamos-quebrar-esse-mito-3a433d8db9d280789318c2cd4f99801a"
@@ -2892,10 +2888,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-matem-tica-do-susto-quanto-vale-a-sua-paz-m-dica-3a433d8db9d2804bac85ffbe116b66fc"
@@ -3864,10 +3858,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/dicadasemana-3b833d8db9d2802888bedb2f1c273a5a"
@@ -3996,10 +3988,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "11/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Agosto-dourado-3b333d8db9d28038ac7ecb9577e49635"
