@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 14:51:45 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 15:51:45 **/
 
-const LAST_UPDATE = '11/08/2026, 14:51:45';
+const LAST_UPDATE = '11/08/2026, 15:51:45';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 16,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
@@ -888,10 +888,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Todos-os-dias-mulheres-realizam-12-5-bilh-es-de-horas-de-trabalho-de-cuidado-n-o-remunerado-no-mund-39733d8db9d280a9a19ac3877e11ecab"
@@ -1786,7 +1784,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-organiza-o-tem-uma-causa-forte-Mas-sua-estrutura-consegue-sustent-la-3b833d8db9d280efaceecc4e0e0c9d02"
@@ -2669,7 +2667,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você não consegue prever o futuro. Mas pode decidir como enfrentá-lo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "11/08",
+      "date": "12/08",
       "missing": [
         "Design"
       ],
@@ -3534,7 +3532,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O que realmente importa ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "12/08",
+      "date": "13/08",
       "missing": [
         "Vídeo"
       ],
@@ -4088,25 +4086,15 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Ser Ponte": [
+  "Juntos contra o HPV": [
     {
-      "title": "Documento A4 sobre rede de brechós",
+      "title": "Post ",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Documento-A4-sobre-rede-de-brech-s-3b933d8db9d280439194f8da30e044d9",
+      "notionUrl": "https://app.notion.com/p/Post-3b933d8db9d28034a4f6f73424065188",
       "gestora": "Equipe",
-      "date": "12/08"
+      "date": "14/08"
     },
-    {
-      "title": "Apresentação para pitch",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
-      "gestora": "Equipe",
-      "date": "12T12:00:00.000/06"
-    }
-  ],
-  "Juntos contra o HPV": [
     {
       "title": "Placas para municípios",
       "priority": "p",
@@ -4118,7 +4106,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para o site",
       "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
       "gestora": "Equipe",
       "date": "31/07"
@@ -4126,7 +4114,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para YouTube",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-YouTube-3ad33d8db9d2808fbf71e1c8f8b1e90b",
       "gestora": "Equipe",
       "date": "31/07"
@@ -4134,7 +4122,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Certificados",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4150,7 +4138,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Camisa",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4166,7 +4154,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Ecobag",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4174,7 +4162,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Bloco de notas",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4210,6 +4198,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
       "gestora": "Equipe",
       "date": "30/07"
+    }
+  ],
+  "Ser Ponte": [
+    {
+      "title": "Documento A4 sobre rede de brechós",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Documento-A4-sobre-rede-de-brech-s-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
+    },
+    {
+      "title": "Apresentação para pitch",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
+      "gestora": "Equipe",
+      "date": "12T12:00:00.000/06"
     }
   ],
   "Univendas": [
