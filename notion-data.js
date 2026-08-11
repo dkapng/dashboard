@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 12:53:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 13:50:44 **/
 
-const LAST_UPDATE = '11/08/2026, 12:53:17';
+const LAST_UPDATE = '11/08/2026, 13:50:44';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 12,
+    "total": 16,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 11
   },
   "Tramix": {
     "total": 10,
@@ -144,12 +144,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "RR Advocacia": {
-    "total": 6,
+    "total": 7,
     "pronto": 6,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 3,
@@ -758,13 +758,67 @@ const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
-      "title": "Ser ponte na mídia",
+      "title": "Olá, nós somos a Ser Ponte",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/08",
+      "date": "20/08",
       "missing": [
+        "Design",
         "Legenda"
       ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ol-n-s-somos-a-Ser-Ponte-3b933d8db9d280eb83e3d8b48825232e"
+    },
+    {
+      "title": "Nossa loja on-line chegou ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "18/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Nossa-loja-on-line-chegou-3b933d8db9d280119a3ff19aed4fe7e4"
+    },
+    {
+      "title": "Quer apoiar a Ser Ponte, mas não sabe como?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "13/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quer-apoiar-a-Ser-Ponte-mas-n-o-sabe-como-3b933d8db9d2805ea0d2f61298b069af"
+    },
+    {
+      "title": "Diagramação ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Diagrama-o-3b933d8db9d2806db41af6d45ba1f2d7"
+    },
+    {
+      "title": "Ser ponte na mídia",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
+      "date": "11/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -796,7 +850,7 @@ const LINHA_FEED_ITEMS = {
       "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "19/08",
+      "date": "21/08",
       "missing": [
         "Design"
       ],
@@ -809,7 +863,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "17/08",
+      "date": "19/08",
       "missing": [
         "Design"
       ],
@@ -822,7 +876,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "13/08",
+      "date": "17/08",
       "missing": [
         "Design"
       ],
@@ -835,7 +889,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Todos os dias, mulheres realizam 12,5 bilhões de horas de trabalho de cuidado não remunerado no mundo.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/08",
+      "date": "12/08",
       "missing": [
         "Design"
       ],
@@ -861,7 +915,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/08",
+      "date": "24/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -883,7 +937,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "12/08",
+      "date": "14/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1646,6 +1700,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "RR Advocacia": [
+    {
+      "title": "11 de agosto | Dia da Advocacia Segurança jurídica começa com orientação.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/11-de-agosto-Dia-da-Advocacia-Seguran-a-jur-dica-come-a-com-orienta-o-3b933d8db9d280848edaca2d9f3adb93"
+    },
     {
       "title": "A atenção aos detalhes pode evitar problemas no futuro.",
       "status": "a_agendar",
@@ -4025,55 +4092,15 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Univendas": [
-    {
-      "title": "Fazer post ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fazer-post-3b933d8db9d2801fa3ded045c57996e3",
-      "gestora": "Equipe",
-      "date": "14/08"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Convite para happy hour",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Convite-para-happy-hour-3b833d8db9d2800b989afbc955cc4bd8",
-      "gestora": "Equipe",
-      "date": "12/08"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Vídeo para tela - auto",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/V-deo-para-tela-auto-3b433d8db9d280bda5a4e8d38309cd89",
-      "gestora": "Equipe",
-      "date": "17/08"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Agenda de setembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
-      "gestora": "Equipe",
-      "date": "22/08"
-    }
-  ],
   "Juntos contra o HPV": [
+    {
+      "title": "Placa para município",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Placa-para-munic-pio-3b933d8db9d280cab8ebe5d0d616b1a4",
+      "gestora": "Equipe",
+      "date": "13/08"
+    },
     {
       "title": "I Simpósio | Capa para o site",
       "priority": "ppp",
@@ -4169,6 +4196,54 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
       "gestora": "Equipe",
       "date": "30/07"
+    }
+  ],
+  "Univendas": [
+    {
+      "title": "Fazer post ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fazer-post-3b933d8db9d2801fa3ded045c57996e3",
+      "gestora": "Equipe",
+      "date": "14/08"
+    }
+  ],
+  "Conecta Assessoria": [
+    {
+      "title": "Convite para happy hour",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Convite-para-happy-hour-3b833d8db9d2800b989afbc955cc4bd8",
+      "gestora": "Equipe",
+      "date": "12/08"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Vídeo para tela - auto",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-para-tela-auto-3b433d8db9d280bda5a4e8d38309cd89",
+      "gestora": "Equipe",
+      "date": "17/08"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
+  "AAFEC": [
+    {
+      "title": "Agenda de setembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
+      "gestora": "Equipe",
+      "date": "22/08"
     }
   ],
   "Ortobom": [
@@ -4290,8 +4365,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 11,
-    "total": 12
+    "prontas": 12,
+    "total": 16
   },
   "Tramix": {
     "prontas": 10,
@@ -4322,8 +4397,8 @@ const LEGENDAS_DATA = {
     "total": 5
   },
   "RR Advocacia": {
-    "prontas": 6,
-    "total": 6
+    "prontas": 7,
+    "total": 7
   },
   "Rede Pangeia": {
     "prontas": 1,
@@ -4391,8 +4466,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 4,
-    "carrossel": 8,
+    "post": 5,
+    "carrossel": 11,
     "foto": 0,
     "video": 0,
     "story": 3
@@ -4447,7 +4522,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 6,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
