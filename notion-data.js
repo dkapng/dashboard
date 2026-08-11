@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 15:51:45 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 16:56:10 **/
 
-const LAST_UPDATE = '11/08/2026, 15:51:45';
+const LAST_UPDATE = '11/08/2026, 16:56:10';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -105,12 +105,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Juntos contra o HPV": {
-    "total": 9,
+    "total": 10,
     "pronto": 5,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 2,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 10,
@@ -154,7 +154,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -1231,6 +1231,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Prevenção também precisa chegar onde a vulnerabilidade é maior.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Preven-o-tamb-m-precisa-chegar-onde-a-vulnerabilidade-maior-3b933d8db9d280ec8f40ea4d3ca065be"
+    },
+    {
       "title": "Seu trabalho pode fazer parte do I Simpósio do Movimento Juntos contra o HPV - as submissões estão abertas!",
       "status": "agendado",
       "formato": "🎠 Carrossel",
@@ -1781,10 +1795,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-organiza-o-tem-uma-causa-forte-Mas-sua-estrutura-consegue-sustent-la-3b833d8db9d280efaceecc4e0e0c9d02"
@@ -4088,10 +4101,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Juntos contra o HPV": [
     {
-      "title": "Post ",
+      "title": "Design sobre Agosto Dourado e Lilás para enviar no WhatsApp",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Post-3b933d8db9d28034a4f6f73424065188",
+      "notionUrl": "https://app.notion.com/p/Design-sobre-Agosto-Dourado-e-Lil-s-para-enviar-no-WhatsApp-3b933d8db9d280dca2c5e9cd8aec54e9",
       "gestora": "Equipe",
       "date": "14/08"
     },
@@ -4220,10 +4233,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Univendas": [
     {
-      "title": "Fazer post ",
+      "title": "Post de reconhecimento Unimed Diamante + Ana Paula",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fazer-post-3b933d8db9d2801fa3ded045c57996e3",
+      "notionUrl": "https://app.notion.com/p/Post-de-reconhecimento-Unimed-Diamante-Ana-Paula-3b933d8db9d2801fa3ded045c57996e3",
       "gestora": "Equipe",
       "date": "14/08"
     }
@@ -4388,7 +4401,7 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 14,
-    "total": 15
+    "total": 16
   },
   "Jota Diesel": {
     "prontas": 10,
@@ -4497,7 +4510,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Juntos contra o HPV": {
-    "post": 3,
+    "post": 4,
     "carrossel": 6,
     "foto": 0,
     "video": 5,
