@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 19:33:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 20:32:06 **/
 
-const LAST_UPDATE = '11/08/2026, 19:33:49';
+const LAST_UPDATE = '11/08/2026, 20:32:06';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 16,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
@@ -792,10 +792,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "13/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-apoiar-a-Ser-Ponte-mas-n-o-sabe-como-3b933d8db9d2805ea0d2f61298b069af"
@@ -895,17 +894,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Todos-os-dias-mulheres-realizam-12-5-bilh-es-de-horas-de-trabalho-de-cuidado-n-o-remunerado-no-mund-39733d8db9d280a9a19ac3877e11ecab"
     },
     {
-      "title": "Mais da metade dos lares do Ceará é chefiada por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
+      "title": "Mais da metade dos lares do Ceará são chefiados por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "14/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-chefiada-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-lios-39733d8db9d2801b9ce7d623d765dfc8"
+      "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-s-o-chefiados-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-l-39733d8db9d2801b9ce7d623d765dfc8"
     },
     {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
