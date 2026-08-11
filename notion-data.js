@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 09:05:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 10:50:44 **/
 
-const LAST_UPDATE = '11/08/2026, 09:05:44';
+const LAST_UPDATE = '11/08/2026, 10:50:44';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -544,10 +544,10 @@ const STORIES_DATA = {
   "Plannea": {
     "total": 2,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 3,
@@ -3922,7 +3922,7 @@ const LINHA_STORIES_ITEMS = {
   "Plannea": [
     {
       "title": "Nem toda empresa que cresce está, de fato, estruturada.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "11/08",
       "missing": [],
@@ -4045,6 +4045,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Univendas": [
+    {
+      "title": "Fazer post ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fazer-post-3b933d8db9d2801fa3ded045c57996e3",
+      "gestora": "Equipe",
+      "date": "14/08"
+    }
+  ],
   "Conecta Assessoria": [
     {
       "title": "convite para WhatsApp ",
@@ -4302,6 +4312,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "AAFEC": "marcada",
   "Ser Ponte": "marcada",
   "Finseg Leal": "confirmada",
   "APROSSEG": "confirmada",
@@ -4574,8 +4585,8 @@ const FORMAT_COUNTS = {
 const AGENDA_COUNTS = {
   "AAFEC": {
     "reuniao": 0,
-    "producao": 0,
-    "evento": 0
+    "producao": 1,
+    "evento": 1
   },
   "Travessias Híbridas": {
     "reuniao": 0,
