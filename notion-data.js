@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 11:51:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 12:53:17 **/
 
-const LAST_UPDATE = '11/08/2026, 11:51:19';
+const LAST_UPDATE = '11/08/2026, 12:53:17';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -200,12 +200,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Finseg Leal": {
-    "total": 12,
+    "total": 11,
     "pronto": 5,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -226,10 +226,10 @@ const FEED_DATA = {
   "Daniel Maia Advocacia": {
     "total": 9,
     "pronto": 5,
-    "postado": 0,
-    "agendado": 3,
+    "postado": 1,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -839,7 +839,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Todos-os-dias-mulheres-realizam-12-5-bilh-es-de-horas-de-trabalho-de-cuidado-n-o-remunerado-no-mund-39733d8db9d280a9a19ac3877e11ecab"
@@ -2453,20 +2453,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Por-que-dois-clientes-com-o-mesmo-carro-podem-precisar-de-seguros-diferentes-38f33d8db9d28005af59d114e8a2143b"
     },
     {
-      "title": "5 perguntas que fazemos antes de indicar qualquer seguro.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "13/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/5-perguntas-que-fazemos-antes-de-indicar-qualquer-seguro-38f33d8db9d280ffbdb7cbb367fdff68"
-    },
-    {
       "title": "Franquia alta ou franquia baixa: qual faz mais sentido para você?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2620,7 +2606,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você não consegue prever o futuro. Mas pode decidir como enfrentá-lo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "10/08",
+      "date": "11/08",
       "missing": [
         "Design"
       ],
@@ -2655,7 +2641,7 @@ const LINHA_FEED_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "“Quando você estiver contra a parede, derrube a parede.” — Harvey Specter (dia do advogado)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "11/08",
       "missing": [],
@@ -2722,14 +2708,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Posso demitir um funcionário pelo que ele posta nas redes sociais?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Posso-demitir-um-funcion-rio-pelo-que-ele-posta-nas-redes-sociais-3a633d8db9d280679dfbc06635b4f0cb"
     },
@@ -2885,7 +2869,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A matemática do susto: quanto vale a sua paz médica?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "11/08",
+      "date": "12/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4053,38 +4037,12 @@ const DEMANDAS_EXTRAS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "convite para WhatsApp ",
+      "title": "Convite para happy hour",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/convite-para-WhatsApp-3b833d8db9d2800b989afbc955cc4bd8",
+      "notionUrl": "https://app.notion.com/p/Convite-para-happy-hour-3b833d8db9d2800b989afbc955cc4bd8",
       "gestora": "Equipe",
       "date": "12/08"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Relatório inicial",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Relat-rio-inicial-3b833d8db9d28008b4fcecefd18ca56a",
-      "gestora": "Equipe",
-      "date": "10/08"
-    },
-    {
-      "title": "Vídeo com aniversariantes de agosto",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-com-aniversariantes-de-agosto-3b833d8db9d280d4b422dad949438d38",
-      "gestora": "Equipe",
-      "date": "10/08"
-    },
-    {
-      "title": "Agenda de setembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
-      "gestora": "Equipe",
-      "date": "22/08"
     }
   ],
   "Finseg Leal": [
@@ -4105,11 +4063,21 @@ const DEMANDAS_EXTRAS = {
       "date": "15/05"
     }
   ],
+  "AAFEC": [
+    {
+      "title": "Agenda de setembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
+      "gestora": "Equipe",
+      "date": "22/08"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "I Simpósio | Capa para o site",
       "priority": "ppp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
       "gestora": "Equipe",
       "date": "31/07"
@@ -4117,7 +4085,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Capa para YouTube",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-YouTube-3ad33d8db9d2808fbf71e1c8f8b1e90b",
       "gestora": "Equipe",
       "date": "31/07"
@@ -4125,7 +4093,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Certificados",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4141,7 +4109,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Camisa",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4157,7 +4125,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Ecobag",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4165,7 +4133,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Bloco de notas",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
       "gestora": "Equipe",
       "date": "30/07"
@@ -4394,7 +4362,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Daniel Maia Advocacia": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 11
   },
   "Conecta Assessoria": {
@@ -4529,7 +4497,7 @@ const FORMAT_COUNTS = {
   },
   "Finseg Leal": {
     "post": 11,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
     "video": 5,
     "story": 0
