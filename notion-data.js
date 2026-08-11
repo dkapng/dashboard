@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 18:37:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 19:33:49 **/
 
-const LAST_UPDATE = '11/08/2026, 18:37:47';
+const LAST_UPDATE = '11/08/2026, 19:33:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -795,7 +795,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-apoiar-a-Ser-Ponte-mas-n-o-sabe-como-3b933d8db9d2805ea0d2f61298b069af"
