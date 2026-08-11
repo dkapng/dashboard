@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 13:50:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 14:51:45 **/
 
-const LAST_UPDATE = '11/08/2026, 13:50:44';
+const LAST_UPDATE = '11/08/2026, 14:51:45';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,11 +81,12 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 16,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10,
+    "st-paused": null
   },
   "Tramix": {
     "total": 10,
@@ -145,11 +146,11 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 7,
-    "pronto": 6,
-    "postado": 1,
+    "pronto": 7,
+    "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 3,
@@ -235,9 +236,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 6,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Solar Coworking": {
     "total": 8,
@@ -801,13 +802,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Diagramação ",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "11/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1702,13 +1700,11 @@ const LINHA_FEED_ITEMS = {
   "RR Advocacia": [
     {
       "title": "11 de agosto | Dia da Advocacia Segurança jurídica começa com orientação.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "11/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/11-de-agosto-Dia-da-Advocacia-Seguran-a-jur-dica-come-a-com-orienta-o-3b933d8db9d280848edaca2d9f3adb93"
@@ -2912,7 +2908,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Plano de Saúde Sênior é caro? Vamos quebrar esse mito.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "13/08",
       "missing": [],
@@ -2934,7 +2930,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A matemática do susto: quanto vale a sua paz médica?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/08",
       "missing": [],
@@ -4092,12 +4088,30 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Juntos contra o HPV": [
+  "Ser Ponte": [
     {
-      "title": "Placa para município",
+      "title": "Documento A4 sobre rede de brechós",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Placa-para-munic-pio-3b933d8db9d280cab8ebe5d0d616b1a4",
+      "notionUrl": "https://app.notion.com/p/Documento-A4-sobre-rede-de-brech-s-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
+    },
+    {
+      "title": "Apresentação para pitch",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
+      "gestora": "Equipe",
+      "date": "12T12:00:00.000/06"
+    }
+  ],
+  "Juntos contra o HPV": [
+    {
+      "title": "Placas para municípios",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-3b933d8db9d280cab8ebe5d0d616b1a4",
       "gestora": "Equipe",
       "date": "13/08"
     },
@@ -4294,16 +4308,6 @@ const DEMANDAS_EXTRAS = {
       "date": "21/07"
     }
   ],
-  "Ser Ponte": [
-    {
-      "title": "Apresentação para pitch",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
-      "gestora": "Equipe",
-      "date": "12T12:00:00.000/06"
-    }
-  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Mídia kit para a corrida de 2026",
@@ -4365,7 +4369,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 16
   },
   "Tramix": {
