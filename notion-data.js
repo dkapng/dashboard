@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 15:24:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 16:34:21 **/
 
-const LAST_UPDATE = '12/08/2026, 15:24:32';
+const LAST_UPDATE = '12/08/2026, 16:34:21';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4446,7 +4446,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convocatória para Brechós Comunitários",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
       "gestora": "Equipe",
       "date": "12/08"
@@ -4585,6 +4585,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Solar Coworking": "confirmada",
   "Planos Seguros": "marcada",
   "Stratto": "marcada",
   "AAFEC": "marcada",
@@ -4970,7 +4971,7 @@ const AGENDA_COUNTS = {
   },
   "Solar Coworking": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   }
 };
