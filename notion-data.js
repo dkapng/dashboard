@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 11:16:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 12:27:13 **/
 
-const LAST_UPDATE = '12/08/2026, 11:16:00';
+const LAST_UPDATE = '12/08/2026, 12:27:13';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 16,
+    "total": 17,
     "pronto": 7,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 14
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -153,12 +153,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Rede Pangeia": {
-    "total": 3,
+    "total": 4,
     "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 14,
@@ -440,7 +440,7 @@ const VIDEO_DATA = {
 const STORIES_DATA = {
   "AAFEC": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -472,7 +472,7 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -520,7 +520,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -626,6 +626,20 @@ const STORIES_DATA = {
 
 const LINHA_FEED_ITEMS = {
   "AAFEC": [
+    {
+      "title": "Entre Cantos e Contos Fortaleza ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Fortaleza-3ba33d8db9d28024a33ed1fdbc4a8ee4"
+    },
     {
       "title": "Quem participa das decisões sobre o FUNDAF?",
       "status": "a_agendar",
@@ -1854,6 +1868,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Rede Pangeia": [
+    {
+      "title": "Quem está sendo preparado para liderar sua organização daqui a 5 anos?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-est-sendo-preparado-para-liderar-sua-organiza-o-daqui-a-5-anos-3b833d8db9d28061a644e3a740810992"
+    },
     {
       "title": "Sua organização tem uma causa forte. Mas sua estrutura consegue sustentá-la?",
       "status": "a_agendar",
@@ -3693,11 +3721,9 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Stories-Boteco-3ba33d8db9d280cc9b18e229aecd311c"
     },
@@ -3794,10 +3820,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hoje-queremos-abrir-as-portas-da-Stratto-para-voc-3b233d8db9d280e483adc59d844300fc"
@@ -3932,10 +3956,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Descontos-no-sal-rio-t-m-limites-Voc-sabe-quais-s-o-3aa33d8db9d280b98f6be33ce9718452"
@@ -4461,7 +4483,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "AAFEC": {
     "prontas": 13,
-    "total": 17
+    "total": 18
   },
   "Travessias Híbridas": {
     "prontas": 0,
@@ -4555,7 +4577,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 12,
+    "post": 13,
     "carrossel": 4,
     "foto": 0,
     "video": 1,
@@ -4632,7 +4654,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Rede Pangeia": {
-    "post": 2,
+    "post": 3,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
