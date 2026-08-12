@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 09:51:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 11:16:00 **/
 
-const LAST_UPDATE = '12/08/2026, 09:51:34';
+const LAST_UPDATE = '12/08/2026, 11:16:00';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 11,
+    "total": 16,
     "pronto": 7,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 13
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -82,19 +82,19 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 16,
     "pronto": 11,
-    "postado": 5,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10,
+    "a_agendar": 9,
     "st-paused": null
   },
   "Tramix": {
     "total": 10,
     "pronto": 8,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 13,
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 2,
@@ -171,10 +171,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 9,
     "pronto": 8,
-    "postado": 5,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 7,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 13,
     "pronto": 7,
-    "postado": 5,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Finseg Leal": {
     "total": 11,
@@ -439,12 +439,12 @@ const VIDEO_DATA = {
 
 const STORIES_DATA = {
   "AAFEC": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -480,7 +480,7 @@ const STORIES_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
@@ -626,6 +626,75 @@ const STORIES_DATA = {
 
 const LINHA_FEED_ITEMS = {
   "AAFEC": [
+    {
+      "title": "Quem participa das decisões sobre o FUNDAF?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-participa-das-decis-es-sobre-o-FUNDAF-3ba33d8db9d2808591d5e43df48e4d5b"
+    },
+    {
+      "title": "Autonomia financeira exige governança",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Autonomia-financeira-exige-governan-a-3ba33d8db9d2809cb93af63e88e12924"
+    },
+    {
+      "title": "Do ICMS ao IBS: a administração fazendária também está mudando",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Do-ICMS-ao-IBS-a-administra-o-fazend-ria-tamb-m-est-mudando-3ba33d8db9d280b39bf7cb8c1ff31179"
+    },
+    {
+      "title": "FUNDAF: por que esse fundo interessa a categoria fazendária?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/FUNDAF-por-que-esse-fundo-interessa-a-categoria-fazend-ria-3ba33d8db9d280bab0eec1082688521c"
+    },
+    {
+      "title": "Entre Cantos e Contos Cariri 19/08",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Cariri-19-08-3b233d8db9d28070a2f1dfa31f8175ff"
+    },
     {
       "title": "Feliz dia dos pais (em letra menor: O tempo passa, você se aposenta, mas a família fica)",
       "status": "postado",
@@ -884,7 +953,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Todos os dias, mulheres realizam 12,5 bilhões de horas de trabalho de cuidado não remunerado no mundo.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "12/08",
       "missing": [],
@@ -988,7 +1057,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O consumidor dificilmente esquece uma peça que deu problema",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/08",
       "missing": [],
@@ -1233,10 +1302,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Preven-o-tamb-m-precisa-chegar-onde-a-vulnerabilidade-maior-3b933d8db9d280ec8f40ea4d3ca065be"
@@ -2070,12 +2138,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Como está a organização do seu estoque?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2396,12 +2462,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Economia do cuidado é o trabalho invisível que movimenta o país",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -3625,6 +3689,19 @@ const LINHA_VIDEO_ITEMS = {
 const LINHA_STORIES_ITEMS = {
   "AAFEC": [
     {
+      "title": "Stories Boteco",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "13/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-Boteco-3ba33d8db9d280cc9b18e229aecd311c"
+    },
+    {
       "title": "Sequência de stories sobre encontro mensal",
       "status": "postado",
       "formato": "📱 Story",
@@ -3745,10 +3822,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-acredita-que-o-c-ncer-do-colo-do-tero-pode-ser-eliminado-3ab33d8db9d280aba0d7c55786939a80"
@@ -3860,7 +3935,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Descontos-no-sal-rio-t-m-limites-Voc-sabe-quais-s-o-3aa33d8db9d280b98f6be33ce9718452"
@@ -4385,8 +4460,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 12,
-    "total": 13
+    "prontas": 13,
+    "total": 17
   },
   "Travessias Híbridas": {
     "prontas": 0,
@@ -4437,7 +4512,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Plannea": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 9
   },
   "Ortobom": {
@@ -4449,7 +4524,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 5,
+    "prontas": 6,
     "total": 14
   },
   "Finseg Leal": {
@@ -4480,11 +4555,11 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 7,
+    "post": 12,
     "carrossel": 4,
     "foto": 0,
     "video": 1,
-    "story": 1
+    "story": 2
   },
   "Travessias Híbridas": {
     "post": 0,
