@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 17:35:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 18:37:12 **/
 
-const LAST_UPDATE = '12/08/2026, 17:35:28';
+const LAST_UPDATE = '12/08/2026, 18:37:12';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4446,7 +4446,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convocatória para Brechós Comunitários",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
       "gestora": "Equipe",
       "date": "12/08"
