@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 16:34:21 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 17:35:28 **/
 
-const LAST_UPDATE = '12/08/2026, 16:34:21';
+const LAST_UPDATE = '12/08/2026, 17:35:28';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4314,7 +4314,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vídeo sobre os núcleos internacionais no Summit",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/V-deo-sobre-os-n-cleos-internacionais-no-Summit-3ba33d8db9d280209c03ed7119cdc00d",
       "gestora": "Equipe",
       "date": "12/08"
