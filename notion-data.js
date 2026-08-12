@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 08:40:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 09:51:34 **/
 
-const LAST_UPDATE = '12/08/2026, 08:40:48';
+const LAST_UPDATE = '12/08/2026, 09:51:34';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4096,6 +4096,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Vídeo sobre os núcleos internacionais no Summit",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-sobre-os-n-cleos-internacionais-no-Summit-3ba33d8db9d280209c03ed7119cdc00d",
+      "gestora": "Equipe",
+      "date": "12/08"
+    },
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Design sobre Agosto Dourado e Lilás para enviar no WhatsApp",
@@ -4322,16 +4340,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
       "gestora": "Equipe",
       "date": "21/07"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
     }
   ],
   "Planos Seguros": [
