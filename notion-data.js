@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 14:26:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 15:24:32 **/
 
-const LAST_UPDATE = '12/08/2026, 14:26:06';
+const LAST_UPDATE = '12/08/2026, 15:24:32';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 17,
+    "total": 15,
     "pronto": 8,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 12
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -145,16 +145,16 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "RR Advocacia": {
-    "total": 7,
+    "total": 14,
     "pronto": 7,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 8
   },
   "Rede Pangeia": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -252,12 +252,12 @@ const FEED_DATA = {
 
 const VIDEO_DATA = {
   "AAFEC": {
-    "total": 1,
-    "pronto": 1,
+    "total": 3,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -519,12 +519,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 2,
+    "total": 4,
     "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 3,
@@ -655,24 +655,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quem-participa-das-decis-es-sobre-o-FUNDAF-3ba33d8db9d2808591d5e43df48e4d5b"
     },
     {
-      "title": "Autonomia financeira exige governança",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Autonomia-financeira-exige-governan-a-3ba33d8db9d2809cb93af63e88e12924"
-    },
-    {
       "title": "Do ICMS ao IBS: a administração fazendária também está mudando",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/08",
+      "date": "25/08",
       "missing": [
         "Design",
         "Legenda"
@@ -730,19 +716,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-que-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
-    },
-    {
-      "title": "Atenção, associados: criminosos estão aplicando o golpe do corretor",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aten-o-associados-criminosos-est-o-aplicando-o-golpe-do-corretor-39d33d8db9d280c3a9e4c7fe4f8180fe"
     },
     {
       "title": "Nosso grupo é do Balacobaco\n",
@@ -1788,6 +1761,104 @@ const LINHA_FEED_ITEMS = {
   ],
   "RR Advocacia": [
     {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d280218c8ec8b7b10d194a"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d28050896bfe0fea2c19e5"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d28042a79eea2a71c7c30c"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d280bb87ffca38ec209b87"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d2807a95d2c697fbb04932"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d28075ac7ac8a1cea265e4"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d28083996ac24049efad0b"
+    },
+    {
       "title": "11 de agosto | Dia da Advocacia Segurança jurídica começa com orientação.",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -1872,10 +1943,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-est-sendo-preparado-para-liderar-sua-organiza-o-daqui-a-5-anos-3b833d8db9d28061a644e3a740810992"
@@ -3180,6 +3250,32 @@ const LINHA_FEED_ITEMS = {
 const LINHA_VIDEO_ITEMS = {
   "AAFEC": [
     {
+      "title": "Academia",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Academia-3ba33d8db9d280cf96f8d8bb8a19931e"
+    },
+    {
+      "title": "Antonio Idalmir",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "19/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Antonio-Idalmir-3ba33d8db9d2802eb009c62024e49a89"
+    },
+    {
       "title": "#TBT",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -3947,6 +4043,32 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "27/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ba33d8db9d2807e928fd8864d6d964f"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "20/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ba33d8db9d280b0b5d6f4c3f2bb921a"
+    },
+    {
       "title": "Descontos no salário têm limites. Você sabe quais são?",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4322,10 +4444,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Ser Ponte": [
     {
-      "title": "Documento A4 sobre rede de brechós",
+      "title": "Convocatória para Brechós Comunitários",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Documento-A4-sobre-rede-de-brech-s-3b933d8db9d280439194f8da30e044d9",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
       "gestora": "Equipe",
       "date": "12/08"
     },
@@ -4352,7 +4474,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convite para happy hour",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Convite-para-happy-hour-3b833d8db9d2800b989afbc955cc4bd8",
       "gestora": "Equipe",
       "date": "12/08"
@@ -4463,6 +4585,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Planos Seguros": "marcada",
   "Stratto": "marcada",
   "AAFEC": "marcada",
   "Ser Ponte": "marcada",
@@ -4477,7 +4600,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 13,
+    "prontas": 12,
     "total": 18
   },
   "Travessias Híbridas": {
@@ -4518,7 +4641,7 @@ const LEGENDAS_DATA = {
   },
   "RR Advocacia": {
     "prontas": 7,
-    "total": 7
+    "total": 14
   },
   "Rede Pangeia": {
     "prontas": 1,
@@ -4572,10 +4695,10 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 13,
-    "carrossel": 4,
+    "post": 12,
+    "carrossel": 3,
     "foto": 0,
-    "video": 1,
+    "video": 3,
     "story": 2
   },
   "Travessias Híbridas": {
@@ -4642,11 +4765,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 7,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 4
   },
   "Rede Pangeia": {
     "post": 3,
@@ -4797,7 +4920,7 @@ const AGENDA_COUNTS = {
   },
   "Planos Seguros": {
     "reuniao": 1,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Plannea": {
