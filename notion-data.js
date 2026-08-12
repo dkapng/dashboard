@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 19:32:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 20:32:37 **/
 
-const LAST_UPDATE = '12/08/2026, 19:32:11';
+const LAST_UPDATE = '12/08/2026, 20:32:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -162,11 +162,11 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 14,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Plannea": {
     "total": 9,
@@ -2107,13 +2107,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O patrimônio mudou. A estratégia de proteção também?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-patrim-nio-mudou-A-estrat-gia-de-prote-o-tamb-m-39633d8db9d280928790e06378d4a7a6"
@@ -4241,7 +4239,7 @@ const LINHA_STORIES_ITEMS = {
       "formato": "📱 Story",
       "date": "10/08",
       "missing": [],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Silvania-palmares-mall-2e333d8db9d28040a53fc31a48ab103f"
@@ -4630,7 +4628,7 @@ const LEGENDAS_DATA = {
   },
   "Ventana": {
     "prontas": 0,
-    "total": 5
+    "total": 4
   },
   "Univendas": {
     "prontas": 10,
