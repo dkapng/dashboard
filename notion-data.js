@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 12:27:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 13:24:53 **/
 
-const LAST_UPDATE = '12/08/2026, 12:27:13';
+const LAST_UPDATE = '12/08/2026, 13:24:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -65,7 +65,7 @@ const NICHES = {
 const FEED_DATA = {
   "AAFEC": {
     "total": 17,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -687,10 +687,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/FUNDAF-por-que-esse-fundo-interessa-a-categoria-fazend-ria-3ba33d8db9d280bab0eec1082688521c"
