@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 13:24:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 14:26:06 **/
 
-const LAST_UPDATE = '12/08/2026, 13:24:53';
+const LAST_UPDATE = '12/08/2026, 14:26:06';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -170,7 +170,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 9,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 1,
@@ -366,10 +366,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 0,
     "pronto": 0,
-    "postado": 1,
+    "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 6,
@@ -2108,10 +2108,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vagas-3b833d8db9d280b89eacfbd4756ce951"
@@ -3443,12 +3442,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "QUAL O MÓVEL MAIS IMPORTANTE DA SUA CASA?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "12/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
