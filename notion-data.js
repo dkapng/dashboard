@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 20:32:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/08/2026, 22:15:58 **/
 
-const LAST_UPDATE = '11/08/2026, 20:32:06';
+const LAST_UPDATE = '11/08/2026, 22:15:58';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 16,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
@@ -483,8 +483,8 @@ const STORIES_DATA = {
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 2,
-    "a_agendar": 0
+    "agendado_coord": 1,
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 4,
@@ -898,10 +898,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "14/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-s-o-chefiados-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-l-39733d8db9d2801b9ce7d623d765dfc8"
@@ -3744,14 +3742,14 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Você acredita que o câncer do colo do útero pode ser eliminado?",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "📱 Story",
       "date": "14/08",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-acredita-que-o-c-ncer-do-colo-do-tero-pode-ser-eliminado-3ab33d8db9d280aba0d7c55786939a80"
     }
