@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 22:17:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 02:28:12 **/
 
-const LAST_UPDATE = '12/08/2026, 22:17:46';
+const LAST_UPDATE = '13/08/2026, 02:28:12';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -241,12 +241,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Solar Coworking": {
-    "total": 8,
+    "total": 7,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   }
 };
 
@@ -1695,7 +1695,7 @@ const LINHA_FEED_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Post",
+      "title": "Sua empresa sabe quem tem acesso aos dados dos seus clientes?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/08",
@@ -1706,10 +1706,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d280218c8ec8b7b10d194a"
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-sabe-quem-tem-acesso-aos-dados-dos-seus-clientes-3ba33d8db9d280218c8ec8b7b10d194a"
     },
     {
-      "title": "Post",
+      "title": "Você sabe quais dívidas podem acompanhar um imóvel?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
@@ -1720,10 +1720,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d28050896bfe0fea2c19e5"
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-quais-d-vidas-podem-acompanhar-um-im-vel-3ba33d8db9d28050896bfe0fea2c19e5"
     },
     {
-      "title": "Post",
+      "title": "Uma política interna mal elaborada pode gerar problemas trabalhista",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/08",
@@ -1734,10 +1734,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d28042a79eea2a71c7c30c"
+      "notionUrl": "https://app.notion.com/p/Uma-pol-tica-interna-mal-elaborada-pode-gerar-problemas-trabalhista-3ba33d8db9d28042a79eea2a71c7c30c"
     },
     {
-      "title": "Post",
+      "title": "Faturamento maior também pode significar novas responsabilidades fiscais.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/08",
@@ -1748,10 +1748,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d280bb87ffca38ec209b87"
+      "notionUrl": "https://app.notion.com/p/Faturamento-maior-tamb-m-pode-significar-novas-responsabilidades-fiscais-3ba33d8db9d280bb87ffca38ec209b87"
     },
     {
-      "title": "Post",
+      "title": "Segurança jurídica também é saber o que fazer antes de precisar fazer.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
@@ -1762,10 +1762,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d2807a95d2c697fbb04932"
+      "notionUrl": "https://app.notion.com/p/Seguran-a-jur-dica-tamb-m-saber-o-que-fazer-antes-de-precisar-fazer-3ba33d8db9d2807a95d2c697fbb04932"
     },
     {
-      "title": "Post",
+      "title": "O que acontece quando um sócio decide sair da empresa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/08",
@@ -1776,10 +1776,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d28075ac7ac8a1cea265e4"
+      "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-um-s-cio-decide-sair-da-empresa-3ba33d8db9d28075ac7ac8a1cea265e4"
     },
     {
-      "title": "Post",
+      "title": "Separar patrimônio pessoal e empresarial é mais importante do que parece.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/08",
@@ -1790,7 +1790,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ba33d8db9d28083996ac24049efad0b"
+      "notionUrl": "https://app.notion.com/p/Separar-patrim-nio-pessoal-e-empresarial-mais-importante-do-que-parece-3ba33d8db9d28083996ac24049efad0b"
     },
     {
       "title": "11 de agosto | Dia da Advocacia Segurança jurídica começa com orientação.",
@@ -3088,20 +3088,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
-      "title": "Dia do Empreendedor ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "19/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Empreendedor-3a733d8db9d280d18b96f8378dfa84b3"
-    },
-    {
       "title": "A primeira impressão da sua reunião começa na recepção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3349,11 +3335,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "13/08",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Excel-ncia-no-servi-o-3ac33d8db9d280aba8d8d5a2b0dc50f4"
     },
@@ -4506,7 +4491,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Jota Diesel": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 13
   },
   "Ventana": {
@@ -4571,7 +4556,7 @@ const LEGENDAS_DATA = {
   },
   "Solar Coworking": {
     "prontas": 7,
-    "total": 8
+    "total": 7
   }
 };
 
@@ -4731,7 +4716,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Solar Coworking": {
-    "post": 8,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
