@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 11:17:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 12:28:50 **/
 
-const LAST_UPDATE = '13/08/2026, 11:17:59';
+const LAST_UPDATE = '13/08/2026, 12:28:50';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -66,10 +66,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 15,
     "pronto": 8,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -82,10 +82,10 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 16,
     "pronto": 11,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9,
+    "a_agendar": 8,
     "st-paused": null
   },
   "Tramix": {
@@ -254,7 +254,7 @@ const VIDEO_DATA = {
   "AAFEC": {
     "total": 3,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -441,10 +441,10 @@ const STORIES_DATA = {
   "AAFEC": {
     "total": 2,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -672,7 +672,7 @@ const LINHA_FEED_ITEMS = {
       "title": "FUNDAF: por que esse fundo interessa a categoria fazendária?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/08",
+      "date": "17/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -756,7 +756,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Boteco com os amigos é na AAFEC!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/08",
       "missing": [],
@@ -842,12 +842,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quer apoiar a Ser Ponte, mas não sabe como?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "13/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -3182,6 +3180,17 @@ const LINHA_FEED_ITEMS = {
 const LINHA_VIDEO_ITEMS = {
   "AAFEC": [
     {
+      "title": "#TBT grupo de dança",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "13/08",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/TBT-grupo-de-dan-a-3bb33d8db9d28032a0e8e12528e61f99"
+    },
+    {
       "title": "Academia",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3202,7 +3211,7 @@ const LINHA_VIDEO_ITEMS = {
       "missing": [
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Antonio-Idalmir-3ba33d8db9d2802eb009c62024e49a89"
@@ -3738,7 +3747,7 @@ const LINHA_STORIES_ITEMS = {
   "AAFEC": [
     {
       "title": "Stories Boteco",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "13/08",
       "missing": [],
@@ -4204,7 +4213,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Placas para municípios",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-3b933d8db9d280cab8ebe5d0d616b1a4",
       "gestora": "Equipe",
       "date": "13/08"
@@ -4465,15 +4474,15 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 12,
-    "total": 18
+    "prontas": 13,
+    "total": 19
   },
   "Travessias Híbridas": {
     "prontas": 0,
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 16
   },
   "Tramix": {
@@ -4563,7 +4572,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 3,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 2
   },
   "Travessias Híbridas": {
