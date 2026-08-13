@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 08:41:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 09:52:55 **/
 
-const LAST_UPDATE = '13/08/2026, 08:41:28';
+const LAST_UPDATE = '13/08/2026, 09:52:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -301,11 +301,11 @@ const VIDEO_DATA = {
   },
   "Jota Diesel": {
     "total": 3,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -521,10 +521,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 4,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 3,
@@ -3331,12 +3331,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Excelência no serviço",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "13/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
@@ -3975,7 +3973,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Descontos no salário têm limites. Você sabe quais são?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "13/08",
       "missing": [],
