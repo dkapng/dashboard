@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 15:25:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 16:33:09 **/
 
-const LAST_UPDATE = '13/08/2026, 15:25:10';
+const LAST_UPDATE = '13/08/2026, 16:33:09';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4282,7 +4282,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Reforma tributária para gestores de restaurantes",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Reforma-tribut-ria-para-gestores-de-restaurantes-3bb33d8db9d280ddad13e15b988e9fee",
       "gestora": "Equipe",
       "date": "13/08"
@@ -4326,7 +4326,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Placas para municípios",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-3b933d8db9d280cab8ebe5d0d616b1a4",
       "gestora": "Equipe",
       "date": "13/08"
@@ -4450,7 +4450,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Post de reconhecimento Unimed Diamante + Ana Paula",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Post-de-reconhecimento-Unimed-Diamante-Ana-Paula-3b933d8db9d2801fa3ded045c57996e3",
       "gestora": "Equipe",
       "date": "14/08"
