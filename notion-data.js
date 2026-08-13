@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 12:28:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 13:24:31 **/
 
-const LAST_UPDATE = '13/08/2026, 12:28:50';
+const LAST_UPDATE = '13/08/2026, 13:24:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -169,12 +169,12 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Plannea": {
-    "total": 9,
+    "total": 16,
     "pronto": 9,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 9
   },
   "Ortobom": {
     "total": 7,
@@ -2103,6 +2103,104 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Cuidado com a empresa que cresce sem saber quanto realmente sobra. Faturar mais, não significa necessariamente lucrar mais ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cuidado-com-a-empresa-que-cresce-sem-saber-quanto-realmente-sobra-Faturar-mais-n-o-significa-neces-3bb33d8db9d28027913ffbd9833d776a"
+    },
+    {
+      "title": "VOCÊ SABE QUANTO SEU PRODUTO VAI PRECISAR CUSTAR DEPOIS DA REFORMA? Não é apenas uma questão de imposto. É uma questão de margem.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/VOC-SABE-QUANTO-SEU-PRODUTO-VAI-PRECISAR-CUSTAR-DEPOIS-DA-REFORMA-N-o-apenas-uma-quest-o-de-impo-3bb33d8db9d2800aa014ea4127b86931"
+    },
+    {
+      "title": "A inteligência artificial vai acabar com a contabilidade?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-intelig-ncia-artificial-vai-acabar-com-a-contabilidade-3bb33d8db9d2805484c1f984c32f7f2a"
+    },
+    {
+      "title": "Seu cadastro empresarial está realmente atualizado? A Receita atualizou as regras para suspensão de inscrições.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-cadastro-empresarial-est-realmente-atualizado-A-Receita-atualizou-as-regras-para-suspens-o-de--3bb33d8db9d280b89baed90bd3ecae1e"
+    },
+    {
+      "title": "A REFORMA TRIBUTÁRIA TAMBÉM CHEGA À NOTA FISCAL. CBS + IBS exigem adaptação dos documentos fiscais eletrônicos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-REFORMA-TRIBUT-RIA-TAMB-M-CHEGA-NOTA-FISCAL-CBS-IBS-exigem-adapta-o-dos-documentos-fiscais-e-3bb33d8db9d28001af55e5def8fd14b2"
+    },
+    {
+      "title": "REFORMA TRIBUTÁRIA: 2026 É ANO DE TESTE. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/REFORMA-TRIBUT-RIA-2026-ANO-DE-TESTE-Mas-isso-n-o-significa-que-sua-empresa-possa-deixar-a-adapt-3bb33d8db9d28079a923fc45e3fa39c7"
+    },
+    {
+      "title": "O CNPJ mudou, mas sua empresa está preparada para essa mudança?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-CNPJ-mudou-mas-sua-empresa-est-preparada-para-essa-mudan-a-3bb33d8db9d28002945aca8eaf4309ba"
+    },
+    {
       "title": "Vagas",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2367,18 +2465,18 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Aniversário, Josie Picanço (GMDB)",
+      "title": "#TBT",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/08",
+      "date": "13/08",
       "missing": [
         "Design",
         "Legenda"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Anivers-rio-Josie-Pican-o-GMDB-3bb33d8db9d28000ad0be7cec0215f58"
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/TBT-3bb33d8db9d28006bfbfe365b66c6930"
     },
     {
       "title": "Quanto vale o trabalho que nunca aparece no contracheque?",
@@ -2875,7 +2973,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-um-problema-da-empresa-pode-virar-responsabilidade-criminal-do-empres-rio-3a633d8db9d28069812ed0272306e6c2"
@@ -4527,7 +4625,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 7,
-    "total": 9
+    "total": 16
   },
   "Ortobom": {
     "prontas": 12,
@@ -4660,7 +4758,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Plannea": {
-    "post": 8,
+    "post": 15,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
