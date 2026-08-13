@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 20:32:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/08/2026, 22:17:46 **/
 
-const LAST_UPDATE = '12/08/2026, 20:32:37';
+const LAST_UPDATE = '12/08/2026, 22:17:46';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -137,12 +137,12 @@ const FEED_DATA = {
     "a_agendar": 11
   },
   "Terrartesã": {
-    "total": 5,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 0
   },
   "RR Advocacia": {
     "total": 14,
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 13,
+    "total": 14,
     "pronto": 7,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Finseg Leal": {
     "total": 11,
@@ -487,12 +487,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Jota Diesel": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 0,
@@ -503,12 +503,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 3,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Terrartesã": {
     "total": 0,
@@ -535,12 +535,12 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "Planos Seguros": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Plannea": {
     "total": 2,
@@ -551,12 +551,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 3,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 1,
@@ -615,12 +615,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Solar Coworking": {
-    "total": 3,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   }
 };
 
@@ -1692,73 +1692,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-escolha-do-plano-certo-faz-diferen-a-todos-os-dias-39633d8db9d280bea4d3d0b5138bf23a"
     }
   ],
-  "Terrartesã": [
-    {
-      "title": "Cada peça pronta revela um processo que começou muito antes do primeiro ponto.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cada-pe-a-pronta-revela-um-processo-que-come-ou-muito-antes-do-primeiro-ponto-3b833d8db9d2807db2bee2027521a978"
-    },
-    {
-      "title": "Mais do que aprender uma técnica, criar com as próprias mãos pode ser o início de uma nova história.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mais-do-que-aprender-uma-t-cnica-criar-com-as-pr-prias-m-os-pode-ser-o-in-cio-de-uma-nova-hist-ria-3b833d8db9d2803f9e5ec98a4cb89a1c"
-    },
-    {
-      "title": "Cada técnica preservada mantém viva uma parte da nossa história.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cada-t-cnica-preservada-mant-m-viva-uma-parte-da-nossa-hist-ria-3b833d8db9d2806d9a5dfe8b4331808e"
-    },
-    {
-      "title": "O que atravessa gerações também ajuda a construir o futuro.O que atravessa gerações também ajuda a construir o futuro.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "13/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-atravessa-gera-es-tamb-m-ajuda-a-construir-o-futuro-O-que-atravessa-gera-es-tamb-m-ajuda-a-c-3b833d8db9d280af933ced06712eed09"
-    },
-    {
-      "title": "Entre o talento e a oportunidade, existem histórias que começam a mudar.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "11/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Entre-o-talento-e-a-oportunidade-existem-hist-rias-que-come-am-a-mudar-3b833d8db9d280ee8d84cc1cbcfeae09"
-    }
-  ],
+  "Terrartesã": [],
   "RR Advocacia": [
     {
       "title": "Post",
@@ -2434,6 +2368,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Aniversário, Josie Picanço (GMDB)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-Josie-Pican-o-GMDB-3bb33d8db9d28000ad0be7cec0215f58"
+    },
     {
       "title": "Quanto vale o trabalho que nunca aparece no contracheque?",
       "status": "a_agendar",
@@ -3973,19 +3921,6 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3a633d8db9d2805e9100d31f0372fbae"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
       "date": "12/08",
       "missing": [
         "Design"
@@ -4023,19 +3958,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3ae33d8db9d2804eb8c1f99cd9285df5"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ae33d8db9d280a4bbc2eda53fed13bc"
     }
   ],
   "Terrartesã": [],
@@ -4130,19 +4052,6 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Planos Seguros": [
     {
-      "title": "O patrimônio da sua empresa mudou. A estratégia de cobertura também?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "11/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-patrim-nio-da-sua-empresa-mudou-A-estrat-gia-de-cobertura-tamb-m-39633d8db9d280679a7be265e75856ba"
-    },
-    {
       "title": "Seu seguro acompanha a realidade atual da sua operação?",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4207,19 +4116,6 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Ortobom": [
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "11/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3a733d8db9d280548c66d9d0055bafd5"
-    },
     {
       "title": "Story/stories",
       "status": "a_agendar",
@@ -4290,19 +4186,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3a733d8db9d28034960ffe6ade8cc505"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "06/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3a733d8db9d2803996e0e4e548c7d4f6"
     }
   ]
 };
@@ -4628,15 +4511,15 @@ const LEGENDAS_DATA = {
   },
   "Ventana": {
     "prontas": 0,
-    "total": 4
+    "total": 2
   },
   "Univendas": {
     "prontas": 10,
     "total": 12
   },
   "Terrartesã": {
-    "prontas": 5,
-    "total": 5
+    "prontas": 0,
+    "total": 0
   },
   "RR Advocacia": {
     "prontas": 7,
@@ -4664,7 +4547,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 6,
-    "total": 14
+    "total": 15
   },
   "Finseg Leal": {
     "prontas": 7,
@@ -4740,7 +4623,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 3,
-    "story": 4
+    "story": 3
   },
   "Ventana": {
     "post": 0,
@@ -4754,10 +4637,10 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   },
   "Terrartesã": {
-    "post": 5,
+    "post": 0,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4782,7 +4665,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 5,
-    "story": 4
+    "story": 3
   },
   "Plannea": {
     "post": 8,
@@ -4796,7 +4679,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 6,
-    "story": 3
+    "story": 2
   },
   "ItalaP": {
     "post": 6,
@@ -4806,7 +4689,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Grupo Mulheres do Brasil": {
-    "post": 13,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4852,7 +4735,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   }
 };
 
