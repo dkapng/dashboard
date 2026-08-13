@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 13:24:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 14:26:30 **/
 
-const LAST_UPDATE = '13/08/2026, 13:24:31';
+const LAST_UPDATE = '13/08/2026, 14:26:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -202,7 +202,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 11,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -226,7 +226,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 5,
+    "pronto": 7,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -718,7 +718,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-que-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
     },
     {
-      "title": "Nosso grupo é do Balacobaco\n",
+      "title": "Nosso grupo é do Balacobaco",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/08",
@@ -2708,7 +2708,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/4-Situa-es-em-que-vale-revisar-seu-seguro-imediatamente-Mudou-de-endere-o-Comprou-outro-carro-3ae33d8db9d2805a8d6be41677427f99"
@@ -2730,10 +2730,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Franquia-alta-ou-franquia-baixa-qual-faz-mais-sentido-para-voc-38f33d8db9d280c4879ad8dea428992c"
@@ -2956,10 +2955,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-pode-gravar-uma-conversa-e-usar-como-prova-3a633d8db9d28002b554fd1caa9825ac"
@@ -2970,10 +2968,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-um-problema-da-empresa-pode-virar-responsabilidade-criminal-do-empres-rio-3a633d8db9d28069812ed0272306e6c2"
