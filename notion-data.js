@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 14:26:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 15:25:10 **/
 
-const LAST_UPDATE = '13/08/2026, 14:26:30';
+const LAST_UPDATE = '13/08/2026, 15:25:10';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4278,6 +4278,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Reforma tributária para gestores de restaurantes",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Reforma-tribut-ria-para-gestores-de-restaurantes-3bb33d8db9d280ddad13e15b988e9fee",
+      "gestora": "Equipe",
+      "date": "13/08"
+    },
+    {
+      "title": "Vídeo promoção Mayara",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
+      "gestora": "Equipe",
+      "date": "22/07"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Vídeo sobre os núcleos internacionais no Summit",
@@ -4502,16 +4520,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Vídeo promoção Mayara",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
-      "gestora": "Equipe",
-      "date": "22/07"
     }
   ],
   "Tramix": [
