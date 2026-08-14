@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 14:24:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 15:13:43 **/
 
-const LAST_UPDATE = '14/08/2026, 14:24:53';
+const LAST_UPDATE = '14/08/2026, 15:13:43';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 14,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2654,7 +2654,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-CEP-onde-uma-menina-nasce-ainda-influencia-o-futuro-que-ela-pode-construir-3b233d8db9d280d6bc5bd9426248a6ca"
@@ -2665,10 +2665,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-solid-o-na-velhice-tamb-m-tem-g-nero-3b233d8db9d2801a9df1e5a3ac2ea901"
