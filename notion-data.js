@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 17:53:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 18:17:58 **/
 
-const LAST_UPDATE = '14/08/2026, 17:53:58';
+const LAST_UPDATE = '14/08/2026, 18:17:58';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 11,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 2,
@@ -1266,13 +1266,12 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "14/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
@@ -4856,8 +4855,8 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Juntos contra o HPV": {
-    "post": 5,
-    "carrossel": 6,
+    "post": 4,
+    "carrossel": 7,
     "foto": 0,
     "video": 5,
     "story": 2
