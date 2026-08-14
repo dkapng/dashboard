@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 11:10:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 12:13:24 **/
 
-const LAST_UPDATE = '14/08/2026, 11:10:52';
+const LAST_UPDATE = '14/08/2026, 12:13:24';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -65,7 +65,7 @@ const NICHES = {
 const FEED_DATA = {
   "AAFEC": {
     "total": 16,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
@@ -632,10 +632,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entidades-fazend-rias-promovem-encontro-para-alinhar-estrat-gias-pela-conquista-do-FUNDAF-3bc33d8db9d2800988d1c9b790a6dd90"
@@ -702,7 +701,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Cariri-19-08-3b233d8db9d28070a2f1dfa31f8175ff"
@@ -736,10 +735,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nosso-grupo-do-Balacobaco-39d33d8db9d28057b586fa77d5844db7"
