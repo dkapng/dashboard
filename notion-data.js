@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 09:47:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 11:10:52 **/
 
-const LAST_UPDATE = '14/08/2026, 09:47:50';
+const LAST_UPDATE = '14/08/2026, 11:10:52';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,9 +64,9 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 15,
+    "total": 16,
     "pronto": 8,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 11
@@ -82,19 +82,19 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 16,
     "pronto": 11,
-    "postado": 7,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8,
+    "a_agendar": 7,
     "st-paused": null
   },
   "Tramix": {
     "total": 10,
     "pronto": 8,
-    "postado": 7,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 13,
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 14,
-    "pronto": 7,
+    "total": 15,
+    "pronto": 6,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Finseg Leal": {
     "total": 11,
@@ -350,10 +350,10 @@ const VIDEO_DATA = {
   "Planos Seguros": {
     "total": 5,
     "pronto": 5,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Plannea": {
     "total": 0,
@@ -627,6 +627,20 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
+      "title": "Entidades fazendárias promovem encontro para alinhar estratégias pela conquista do FUNDAF",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Entidades-fazend-rias-promovem-encontro-para-alinhar-estrat-gias-pela-conquista-do-FUNDAF-3bc33d8db9d2800988d1c9b790a6dd90"
+    },
+    {
       "title": "Entre Cantos e Contos Fortaleza ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -800,7 +814,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você não precisa viver a terceira idade sozinho",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "03/08",
       "missing": [],
@@ -830,7 +844,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nossa loja on-line chegou ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "18/08",
+      "date": "19/08",
       "missing": [
         "Design",
         "Legenda"
@@ -912,7 +926,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "19/08",
+      "date": "28/08",
       "missing": [
         "Design"
       ],
@@ -925,7 +939,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "17/08",
+      "date": "26/08",
       "missing": [
         "Design"
       ],
@@ -949,7 +963,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Mais da metade dos lares do Ceará são chefiados por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "14/08",
+      "date": "17/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -980,7 +994,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando a renda não é suficiente, não é sobre cortar gastos. É sobre escolher o que vai faltar.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "14/08",
       "missing": [],
@@ -1029,7 +1043,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem está perto consegue entender melhor a sua produção",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [],
@@ -2550,6 +2564,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
+    },
+    {
       "title": "#TBT",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2664,9 +2692,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-mulheres-na-ci-ncia-ainda-s-o-minoria-3b233d8db9d2807c8a39fb9d4913196a"
@@ -3593,7 +3622,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "App operadoras",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "14/08",
       "missing": [],
@@ -4663,7 +4692,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "AAFEC": {
     "prontas": 13,
-    "total": 19
+    "total": 20
   },
   "Travessias Híbridas": {
     "prontas": 0,
@@ -4727,7 +4756,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 6,
-    "total": 15
+    "total": 16
   },
   "Finseg Leal": {
     "prontas": 7,
@@ -4757,7 +4786,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 12,
+    "post": 13,
     "carrossel": 3,
     "foto": 0,
     "video": 4,
@@ -4869,7 +4898,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Grupo Mulheres do Brasil": {
-    "post": 14,
+    "post": 15,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
