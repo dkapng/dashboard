@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 15:13:43 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 16:26:05 **/
 
-const LAST_UPDATE = '14/08/2026, 15:13:43';
+const LAST_UPDATE = '14/08/2026, 16:26:05';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -147,10 +147,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 14,
     "pronto": 7,
-    "postado": 2,
+    "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Rede Pangeia": {
     "total": 4,
@@ -169,20 +169,20 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Plannea": {
-    "total": 18,
-    "pronto": 9,
+    "total": 17,
+    "pronto": 11,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Ortobom": {
-    "total": 7,
+    "total": 14,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 13
   },
   "ItalaP": {
     "total": 6,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 14,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1886,7 +1886,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A atenção aos detalhes pode evitar problemas no futuro.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [],
@@ -2186,32 +2186,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "Analista comercial ",
+      "title": "Vaga para analista comercial",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Analista-comercial-3bc33d8db9d280c281f5c8bf6ad0d49f"
-    },
-    {
-      "title": "Promoção ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Promo-o-3bc33d8db9d280f6865aedee316fb73a"
+      "notionUrl": "https://app.notion.com/p/Vaga-para-analista-comercial-3bc33d8db9d280c281f5c8bf6ad0d49f"
     },
     {
       "title": "Cuidado com a empresa que cresce sem saber quanto realmente sobra. Faturar mais, não significa necessariamente lucrar mais ",
@@ -2292,7 +2277,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/REFORMA-TRIBUT-RIA-2026-ANO-DE-TESTE-Mas-isso-n-o-significa-que-sua-empresa-possa-deixar-a-adapt-3bb33d8db9d28079a923fc45e3fa39c7"
@@ -2303,10 +2288,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-CNPJ-mudou-mas-sua-empresa-est-preparada-para-essa-mudan-a-3bb33d8db9d28002945aca8eaf4309ba"
@@ -2416,6 +2400,104 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ortobom": [
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280b48c70fdb8025add1c"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280ff850fe3d991af4c30"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280bd852ecc2fdadd6d34"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d2801ca774f7b04ee70f32"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d2804880d6fc07a517f95d"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280108abdc9cb1c80c090"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d28012b431d492dca49f09"
+    },
     {
       "title": "Seu quarto não precisa de uma reforma. Talvez ele precise da escolha certa.      (Liberty)",
       "status": "a_agendar",
@@ -2637,10 +2719,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-cuida-de-quem-cuida-3b233d8db9d2805bbcf8c43c14918b67"
@@ -2651,10 +2732,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-CEP-onde-uma-menina-nasce-ainda-influencia-o-futuro-que-ela-pode-construir-3b233d8db9d280d6bc5bd9426248a6ca"
@@ -4346,6 +4426,22 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Plannea": [
     {
+      "title": "Boa-vindas Marcelo",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Boa-vindas-Marcelo-3bc33d8db9d28037a9e9f37cc67b534b",
+      "gestora": "Equipe",
+      "date": "12/08"
+    },
+    {
+      "title": "Promoção por mérito do Kelrick de Estagiário Fiscal para o cargo de Auxiliar Fiscal",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Promo-o-por-m-rito-do-Kelrick-de-Estagi-rio-Fiscal-para-o-cargo-de-Auxiliar-Fiscal-3bc33d8db9d28074915fcac0077e35cc",
+      "gestora": "Equipe",
+      "date": "14/08"
+    },
+    {
       "title": "Reforma tributária para gestores de restaurantes",
       "priority": "p",
       "rawStatus": "2. A enviar para aprovação",
@@ -4686,11 +4782,11 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 7,
-    "total": 18
+    "total": 17
   },
   "Ortobom": {
     "prontas": 12,
-    "total": 13
+    "total": 20
   },
   "ItalaP": {
     "prontas": 9,
@@ -4819,14 +4915,14 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Plannea": {
-    "post": 17,
+    "post": 16,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 2
   },
   "Ortobom": {
-    "post": 7,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
     "video": 6,
