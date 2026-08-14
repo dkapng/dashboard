@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 00:34:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 02:26:07 **/
 
-const LAST_UPDATE = '14/08/2026, 00:34:50';
+const LAST_UPDATE = '14/08/2026, 02:26:07';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -121,12 +121,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Ventana": {
-    "total": 1,
+    "total": 6,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 6
   },
   "Univendas": {
     "total": 12,
@@ -1532,6 +1532,76 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ventana": [
+    {
+      "title": "Aparecer na imprensa também pode ajudar na prospecção de clientes",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Aparecer-na-imprensa-tamb-m-pode-ajudar-na-prospec-o-de-clientes-3bc33d8db9d280afaaebdaeebf157f34"
+    },
+    {
+      "title": "Aparecer na imprensa impulsiona as redes sociais e todo o ecossistema da sua empresa",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Aparecer-na-imprensa-impulsiona-as-redes-sociais-e-todo-o-ecossistema-da-sua-empresa-3bc33d8db9d280e5a951f1c245ed5e86"
+    },
+    {
+      "title": "A imprensa também fortalece o posicionamento do seu negócio Google",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "24/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-imprensa-tamb-m-fortalece-o-posicionamento-do-seu-neg-cio-Google-3bc33d8db9d280a6b017c9afe01f2129"
+    },
+    {
+      "title": "O que você tem a dizer é mais importante do que apenas o nome da sua empresa",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "21/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-voc-tem-a-dizer-mais-importante-do-que-apenas-o-nome-da-sua-empresa-3bc33d8db9d280028639d54b41f75e92"
+    },
+    {
+      "title": "Como é feito o seu posicionamento de imagem com uma assessoria de imprensa?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "19/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-feito-o-seu-posicionamento-de-imagem-com-uma-assessoria-de-imprensa-3bc33d8db9d280de8e3ac20a415c997a"
+    },
     {
       "title": "O que é a assessoria de imprensa e por que você precisa dela?",
       "status": "a_agendar",
@@ -4621,7 +4691,7 @@ const LEGENDAS_DATA = {
   },
   "Ventana": {
     "prontas": 0,
-    "total": 3
+    "total": 8
   },
   "Univendas": {
     "prontas": 10,
@@ -4737,7 +4807,7 @@ const FORMAT_COUNTS = {
   },
   "Ventana": {
     "post": 0,
-    "carrossel": 1,
+    "carrossel": 6,
     "foto": 0,
     "video": 0,
     "story": 0
