@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 12:13:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 13:12:37 **/
 
-const LAST_UPDATE = '14/08/2026, 12:13:24';
+const LAST_UPDATE = '14/08/2026, 13:12:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -65,11 +65,11 @@ const NICHES = {
 const FEED_DATA = {
   "AAFEC": {
     "total": 16,
-    "pronto": 10,
-    "postado": 5,
+    "pronto": 11,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -252,9 +252,9 @@ const FEED_DATA = {
 
 const VIDEO_DATA = {
   "AAFEC": {
-    "total": 3,
-    "pronto": 3,
-    "postado": 2,
+    "total": 4,
+    "pronto": 4,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -628,12 +628,10 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
       "title": "Entidades fazendárias promovem encontro para alinhar estratégias pela conquista do FUNDAF",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -698,10 +696,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Cariri-19-08-3b233d8db9d28070a2f1dfa31f8175ff"
@@ -742,14 +739,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Nosso-grupo-do-Balacobaco-39d33d8db9d28057b586fa77d5844db7"
     },
     {
-      "title": "Quer fazer parte do Coral AAFEC?\n",
+      "title": "Quer fazer parte do Coral AAFEC?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-fazer-parte-do-Coral-AAFEC-39d33d8db9d28089a556fcc99e263141"
@@ -3386,6 +3383,17 @@ const LINHA_FEED_ITEMS = {
 const LINHA_VIDEO_ITEMS = {
   "AAFEC": [
     {
+      "title": "Vídeo Boteco ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/08",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-Boteco-3bc33d8db9d28064abf9d0668ff3780a"
+    },
+    {
       "title": "#TBT grupo de dança",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -4557,16 +4565,6 @@ const DEMANDAS_EXTRAS = {
       "date": "12T12:00:00.000/06"
     }
   ],
-  "Univendas": [
-    {
-      "title": "Post de reconhecimento Unimed Diamante + Ana Paula",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Post-de-reconhecimento-Unimed-Diamante-Ana-Paula-3b933d8db9d2801fa3ded045c57996e3",
-      "gestora": "Equipe",
-      "date": "14/08"
-    }
-  ],
   "Conecta Assessoria": [
     {
       "title": "Convite para happy hour",
@@ -4688,8 +4686,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 13,
-    "total": 20
+    "prontas": 15,
+    "total": 21
   },
   "Travessias Híbridas": {
     "prontas": 0,
@@ -4786,7 +4784,7 @@ const FORMAT_COUNTS = {
     "post": 13,
     "carrossel": 3,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 2
   },
   "Travessias Híbridas": {
