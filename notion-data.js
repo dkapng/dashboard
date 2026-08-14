@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 17:02:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 17:53:58 **/
 
-const LAST_UPDATE = '14/08/2026, 17:02:00';
+const LAST_UPDATE = '14/08/2026, 17:53:58';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -170,7 +170,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 17,
-    "pronto": 11,
+    "pronto": 14,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 1,
@@ -1272,7 +1272,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
@@ -2246,10 +2246,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-cadastro-empresarial-est-realmente-atualizado-A-Receita-atualizou-as-regras-para-suspens-o-de--3bb33d8db9d280b89baed90bd3ecae1e"
@@ -2260,10 +2259,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-REFORMA-TRIBUT-RIA-TAMB-M-CHEGA-NOTA-FISCAL-CBS-IBS-exigem-adapta-o-dos-documentos-fiscais-e-3bb33d8db9d28001af55e5def8fd14b2"
@@ -2274,10 +2272,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/REFORMA-TRIBUT-RIA-2026-ANO-DE-TESTE-Mas-isso-n-o-significa-que-sua-empresa-possa-deixar-a-adapt-3bb33d8db9d28079a923fc45e3fa39c7"
