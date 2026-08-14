@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/08/2026, 22:17:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 00:34:50 **/
 
-const LAST_UPDATE = '13/08/2026, 22:17:15';
+const LAST_UPDATE = '14/08/2026, 00:34:50';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -121,12 +121,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Ventana": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Univendas": {
     "total": 12,
@@ -1531,7 +1531,22 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-inje-o-diesel-influencia-mais-do-que-voc-imagina-38e33d8db9d2801aa31dfa711528cfd0"
     }
   ],
-  "Ventana": [],
+  "Ventana": [
+    {
+      "title": "O que é a assessoria de imprensa e por que você precisa dela?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "17/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-a-assessoria-de-imprensa-e-por-que-voc-precisa-dela-3bc33d8db9d2803697ccd8920cd889aa"
+    }
+  ],
   "Univendas": [
     {
       "title": "Dia do Psicólogo",
@@ -4606,7 +4621,7 @@ const LEGENDAS_DATA = {
   },
   "Ventana": {
     "prontas": 0,
-    "total": 2
+    "total": 3
   },
   "Univendas": {
     "prontas": 10,
@@ -4722,7 +4737,7 @@ const FORMAT_COUNTS = {
   },
   "Ventana": {
     "post": 0,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
