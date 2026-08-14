@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 13:12:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 14:24:53 **/
 
-const LAST_UPDATE = '14/08/2026, 13:12:37';
+const LAST_UPDATE = '14/08/2026, 14:24:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 16,
-    "pronto": 11,
-    "postado": 6,
+    "total": 14,
+    "pronto": 10,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 7
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -105,12 +105,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Juntos contra o HPV": {
-    "total": 10,
+    "total": 11,
     "pronto": 6,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 2,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Jota Diesel": {
     "total": 10,
@@ -169,12 +169,12 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Plannea": {
-    "total": 16,
+    "total": 18,
     "pronto": 9,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 11
   },
   "Ortobom": {
     "total": 7,
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 15,
-    "pronto": 6,
-    "postado": 6,
+    "total": 14,
+    "pronto": 7,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Finseg Leal": {
     "total": 11,
@@ -217,12 +217,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 10,
+    "total": 8,
     "pronto": 4,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -404,12 +404,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 4,
+    "total": 3,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -527,12 +527,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Rede Pangeia": {
-    "total": 3,
+    "total": 2,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 3,
@@ -728,32 +728,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-que-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
     },
     {
-      "title": "Nosso grupo é do Balacobaco",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Nosso-grupo-do-Balacobaco-39d33d8db9d28057b586fa77d5844db7"
-    },
-    {
       "title": "Quer fazer parte do Coral AAFEC?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-fazer-parte-do-Coral-AAFEC-39d33d8db9d28089a556fcc99e263141"
     },
     {
       "title": "O seu artista preferido na nossa Galeria da Fama",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/08",
       "missing": [],
@@ -772,17 +759,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Boteco-com-os-amigos-na-AAFEC-39d33d8db9d280cdab59de3863f85f5f"
-    },
-    {
-      "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabia-que-a-AAFEC-oferece-academia-gratuita-aos-associados-39d33d8db9d2806a9fc5deab6b03d0de"
     },
     {
       "title": "Saiba tudo sobre seus direitos no encontro mensal dos associados",
@@ -1287,6 +1263,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
+    },
     {
       "title": "Prevenção também precisa chegar onde a vulnerabilidade é maior.",
       "status": "a_agendar",
@@ -1966,7 +1956,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem está sendo preparado para liderar sua organização daqui a 5 anos?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/08",
+      "date": "21/08",
       "missing": [
         "Legenda"
       ],
@@ -1979,7 +1969,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua organização tem uma causa forte. Mas sua estrutura consegue sustentá-la?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "11/08",
+      "date": "18/08",
       "missing": [
         "Legenda"
       ],
@@ -2195,6 +2185,34 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Plannea": [
+    {
+      "title": "Analista comercial ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Analista-comercial-3bc33d8db9d280c281f5c8bf6ad0d49f"
+    },
+    {
+      "title": "Promoção ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Promo-o-3bc33d8db9d280f6865aedee316fb73a"
+    },
     {
       "title": "Cuidado com a empresa que cresce sem saber quanto realmente sobra. Faturar mais, não significa necessariamente lucrar mais ",
       "status": "a_agendar",
@@ -2558,20 +2576,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
-    },
-    {
       "title": "#TBT",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2638,7 +2642,7 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-cuida-de-quem-cuida-3b233d8db9d2805bbcf8c43c14918b67"
     },
     {
@@ -2652,7 +2656,7 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-CEP-onde-uma-menina-nasce-ainda-influencia-o-futuro-que-ela-pode-construir-3b233d8db9d280d6bc5bd9426248a6ca"
     },
     {
@@ -2664,9 +2668,9 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-solid-o-na-velhice-tamb-m-tem-g-nero-3b233d8db9d2801a9df1e5a3ac2ea901"
     },
     {
@@ -2682,14 +2686,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que mulheres na ciência ainda são minoria?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-mulheres-na-ci-ncia-ainda-s-o-minoria-3b233d8db9d2807c8a39fb9d4913196a"
@@ -2917,36 +2918,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quem-paga-quando-um-cliente-sofre-um-acidente-dentro-da-sua-empresa-3a233d8db9d28090bd3dd797b9edad0c"
     },
     {
-      "title": "Não chegamos até aqui sozinhos. E isso é motivo para comemorar.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/N-o-chegamos-at-aqui-sozinhos-E-isso-motivo-para-comemorar-3a033d8db9d2802e9098c1954b3b7855"
-    },
-    {
-      "title": "A maioria das pessoas não deixa de contratar um seguro porque não acredita na proteção. Ela deixa porque acredita que ainda dá tempo.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-maioria-das-pessoas-n-o-deixa-de-contratar-um-seguro-porque-n-o-acredita-na-prote-o-Ela-deixa-po-3a033d8db9d28010aff3ed57ef833ac9"
-    },
-    {
       "title": "O verdadeiro valor de uma proteção não está no papel. Está no momento em que um imprevisto acontece e você percebe que tomou uma boa decisão lá atrás.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/08",
+      "date": "31/08",
       "missing": [
         "Design"
       ],
@@ -2959,7 +2934,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O patrimônio mais importante nem sempre é o que tem maior valor.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/08",
+      "date": "28/08",
       "missing": [
         "Design"
       ],
@@ -2972,7 +2947,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem planeja apenas os dias bons deixa o futuro nas mãos da sorte.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/08",
+      "date": "21/08",
       "missing": [
         "Design"
       ],
@@ -2985,7 +2960,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você não consegue prever o futuro. Mas pode decidir como enfrentá-lo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/08",
+      "date": "17/08",
       "missing": [
         "Design"
       ],
@@ -3877,7 +3852,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O que realmente importa ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "13/08",
+      "date": "19/08",
       "missing": [
         "Vídeo"
       ],
@@ -3885,20 +3860,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/O-que-realmente-importa-38f33d8db9d280e88998e063dc5114cf"
-    },
-    {
-      "title": "Uma frase que eu escuto com frequência ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "31/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Uma-frase-que-eu-escuto-com-frequ-ncia-38f33d8db9d28074b5d6f5f14aae3ca8"
     }
   ],
   "Daniel Maia Advocacia": [],
@@ -4222,20 +4183,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "#dicadasemana",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "27/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/dicadasemana-3b833d8db9d280429ef0c86c2fa927bc"
-    },
-    {
-      "title": "#dicadasemana",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "20/08",
+      "date": "25/08",
       "missing": [
         "Design"
       ],
@@ -4248,7 +4196,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "#dicadasemana",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "13/08",
+      "date": "20/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4686,8 +4634,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 15,
-    "total": 21
+    "prontas": 13,
+    "total": 19
   },
   "Travessias Híbridas": {
     "prontas": 0,
@@ -4707,7 +4655,7 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 14,
-    "total": 16
+    "total": 17
   },
   "Jota Diesel": {
     "prontas": 11,
@@ -4739,7 +4687,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 7,
-    "total": 16
+    "total": 18
   },
   "Ortobom": {
     "prontas": 12,
@@ -4750,8 +4698,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 6,
-    "total": 16
+    "prontas": 7,
+    "total": 15
   },
   "Finseg Leal": {
     "prontas": 7,
@@ -4762,8 +4710,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 14,
-    "total": 15
+    "prontas": 12,
+    "total": 12
   },
   "Daniel Maia Advocacia": {
     "prontas": 5,
@@ -4781,7 +4729,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 13,
+    "post": 11,
     "carrossel": 3,
     "foto": 0,
     "video": 5,
@@ -4816,7 +4764,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Juntos contra o HPV": {
-    "post": 4,
+    "post": 5,
     "carrossel": 6,
     "foto": 0,
     "video": 5,
@@ -4862,7 +4810,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 0,
-    "story": 3
+    "story": 2
   },
   "Planos Seguros": {
     "post": 13,
@@ -4872,7 +4820,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Plannea": {
-    "post": 15,
+    "post": 17,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -4893,7 +4841,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Grupo Mulheres do Brasil": {
-    "post": 15,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4914,10 +4862,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 8,
+    "post": 6,
     "carrossel": 1,
     "foto": 1,
-    "video": 4,
+    "video": 3,
     "story": 0
   },
   "Daniel Maia Advocacia": {
@@ -5061,7 +5009,13 @@ const AGENDA_COUNTS = {
   }
 };
 
-const DATA_ALERTS = [];
+const DATA_ALERTS = [
+  {
+    "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
+    "error": "Post atribuído a múltiplos clientes (Juntos contra o HPV, Grupo Mulheres do Brasil)",
+    "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
+  }
+];
 
 const SEASONAL_DATES = [
 ];
