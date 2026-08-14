@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 16:26:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/08/2026, 17:02:00 **/
 
-const LAST_UPDATE = '14/08/2026, 16:26:05';
+const LAST_UPDATE = '14/08/2026, 17:02:00';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4428,7 +4428,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Boa-vindas Marcelo",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Boa-vindas-Marcelo-3bc33d8db9d28037a9e9f37cc67b534b",
       "gestora": "Equipe",
       "date": "12/08"
