@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 19:44:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 20:12:30 **/
 
-const LAST_UPDATE = '16/08/2026, 19:44:04';
+const LAST_UPDATE = '16/08/2026, 20:12:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1867,7 +1867,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Separar-patrim-nio-pessoal-e-empresarial-mais-importante-do-que-parece-3ba33d8db9d28083996ac24049efad0b"
