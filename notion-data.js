@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 15:17:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 15:53:21 **/
 
-const LAST_UPDATE = '16/08/2026, 15:17:27';
+const LAST_UPDATE = '16/08/2026, 15:53:21';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -234,7 +234,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 6,
+    "pronto": 9,
     "postado": 1,
     "agendado": 5,
     "agendado_coord": 0,
@@ -3234,10 +3234,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabia-que-ter-um-CNPJ-ativo-mesmo-que-seja-MEI-te-d-acesso-a-tabelas-de-planos-de-sa-de-que--3a433d8db9d2806e8cb6ec858b35505a"
@@ -3247,10 +3245,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-cansa-o-da-sua-equipe-n-o-falta-de-foco-Pode-ser-o-in-cio-de-um-Burnout-3a433d8db9d280548aa2de6cb16b7952"
@@ -3260,10 +3256,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Pensando-em-aumentar-a-fam-lia-O-prazo-come-ou-a-correr-3a433d8db9d28024a63df0059ddcccbb"
