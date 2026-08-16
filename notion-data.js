@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 14:41:45 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 15:17:27 **/
 
-const LAST_UPDATE = '16/08/2026, 14:41:45';
+const LAST_UPDATE = '16/08/2026, 15:17:27';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -202,7 +202,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 11,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -2875,10 +2875,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vale-a-pena-aumentar-a-franquia-3ae33d8db9d28031b1dcdc9fac3d6951"
@@ -3264,7 +3263,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Pensando-em-aumentar-a-fam-lia-O-prazo-come-ou-a-correr-3a433d8db9d28024a63df0059ddcccbb"
