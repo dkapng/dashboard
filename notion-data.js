@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 10:59:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 11:30:10 **/
 
-const LAST_UPDATE = '17/08/2026, 10:59:06';
+const LAST_UPDATE = '17/08/2026, 11:30:10';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -201,12 +201,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Finseg Leal": {
-    "total": 11,
+    "total": 12,
     "pronto": 8,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -228,9 +228,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 7,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -421,7 +421,7 @@ const VIDEO_DATA = {
   },
   "Conecta Assessoria": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
@@ -813,12 +813,11 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "31/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Renda-n-o-resolve-tudo-Mas-a-falta-dela-limita-muita-coisa-3bf33d8db9d280b683b4fb2df5f0d222"
     },
     {
@@ -844,7 +843,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nossa-loja-on-line-chegou-3b933d8db9d280119a3ff19aed4fe7e4"
@@ -2676,9 +2675,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/08",
       "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/TBT-3bb33d8db9d28006bfbfe365b66c6930"
     },
     {
@@ -2850,6 +2849,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Finseg Leal": [
+    {
+      "title": "Vai adesivar seu carro para uma campanha? Seu seguro pode ser afetado.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "18/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vai-adesivar-seu-carro-para-uma-campanha-Seu-seguro-pode-ser-afetado-3bf33d8db9d280f1bbf9e1b2200ccee5"
+    },
     {
       "title": "Proteção de verdade não termina na assinatura da apólice. Fale com a finseg e tenha nosso acompanhamento e as melhores soluções para cada momento da sua vida! (85) 99601-1000",
       "status": "a_agendar",
@@ -3056,7 +3068,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você não consegue prever o futuro. Mas pode decidir como enfrentá-lo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/08",
+      "date": "18/08",
       "missing": [
         "Design"
       ],
@@ -3106,11 +3118,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Qual-contrato-todo-empres-rio-deveria-ter-3a633d8db9d280228dd7f39da40e13af"
     },
@@ -3120,37 +3131,32 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "25/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Acordo-verbal-vale-na-Justi-a-3a633d8db9d280b4b244cefa0165ccb1"
     },
     {
       "title": "Você pode gravar uma conversa e usar como prova?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-pode-gravar-uma-conversa-e-usar-como-prova-3a633d8db9d28002b554fd1caa9825ac"
     },
     {
       "title": "Quando um problema da empresa pode virar responsabilidade criminal do empresário?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-um-problema-da-empresa-pode-virar-responsabilidade-criminal-do-empres-rio-3a633d8db9d28069812ed0272306e6c2"
     },
@@ -3974,12 +3980,11 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "20/08",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280aab601d407a5044b90"
     },
     {
@@ -4748,7 +4753,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 17
   },
   "Tramix": {
@@ -4808,7 +4813,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Finseg Leal": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 17
   },
   "Di Gregório Buffet": {
@@ -4820,7 +4825,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Daniel Maia Advocacia": {
-    "prontas": 5,
+    "prontas": 9,
     "total": 11
   },
   "Conecta Assessoria": {
@@ -4955,7 +4960,7 @@ const FORMAT_COUNTS = {
   },
   "Finseg Leal": {
     "post": 11,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 5,
     "story": 0
@@ -5066,7 +5071,7 @@ const AGENDA_COUNTS = {
   "Plannea": {
     "reuniao": 0,
     "producao": 1,
-    "evento": 0
+    "evento": 1
   },
   "Ortobom": {
     "reuniao": 0,
