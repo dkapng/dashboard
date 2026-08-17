@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 11:30:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 11:55:05 **/
 
-const LAST_UPDATE = '17/08/2026, 11:30:10';
+const LAST_UPDATE = '17/08/2026, 11:55:05';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,12 +89,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Tramix": {
-    "total": 10,
+    "total": 12,
     "pronto": 10,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 13,
@@ -105,12 +105,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Juntos contra o HPV": {
-    "total": 11,
-    "pronto": 7,
-    "postado": 2,
-    "agendado": 4,
-    "agendado_coord": 2,
-    "a_agendar": 3
+    "total": 9,
+    "pronto": 6,
+    "postado": 1,
+    "agendado": 5,
+    "agendado_coord": 1,
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 10,
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 16,
-    "pronto": 13,
-    "postado": 11,
+    "total": 17,
+    "pronto": 14,
+    "postado": 12,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 5
@@ -292,11 +292,11 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 5,
+    "total": 4,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 4,
+    "agendado_coord": 3,
     "a_agendar": 0
   },
   "Jota Diesel": {
@@ -1011,6 +1011,34 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [
     {
+      "title": "Os zíperes Tramix são produzidos em nylon sintético de alta resistência",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Os-z-peres-Tramix-s-o-produzidos-em-nylon-sint-tico-de-alta-resist-ncia-3bf33d8db9d280a4abade4493e47ea2f"
+    },
+    {
+      "title": "A melhor linha, muitas vezes, é aquela que desaparece no resultado final ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-melhor-linha-muitas-vezes-aquela-que-desaparece-no-resultado-final-3bf33d8db9d2807c95c3e5f94493f54b"
+    },
+    {
       "title": "Feliz Dia dos pais! (Em letra menor: ",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -1278,21 +1306,10 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "17/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
-    },
-    {
       "title": "Prevenção também precisa chegar onde a vulnerabilidade é maior.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "18/08",
+      "date": "17/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1333,19 +1350,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontecer-no-I-Simp-sio-do-movimento-do-juntos-contra-o-HPV-Muito-mais-do-que-palestras-Um--3ab33d8db9d280559a78df158e2350d5"
-    },
-    {
-      "title": "O I Simpósio não será construído por uma única voz! Conheça os participantes…",
-      "status": "agendado_coord",
-      "formato": "🎠 Carrossel",
-      "date": "18/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-I-Simp-sio-n-o-ser-constru-do-por-uma-nica-voz-Conhe-a-os-participantes-3ab33d8db9d280b795dde78bde104a78"
     },
     {
       "title": "Cinco grandes temas que vão transformar nosso Simpósio: H2 \n• Formação de redes; \n• Experiências exitosas; \n• Vacinação; \n• Inovação; ",
@@ -2670,6 +2674,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Summit-3bf33d8db9d2801da00dc10eec80cf43"
     },
     {
+      "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
+      "date": "17/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
+    },
+    {
       "title": "#TBT",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -3571,19 +3586,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Reels-com-a-Aline-embaixadora-3ab33d8db9d280bebba7cbfbe7bcf05d"
     },
     {
-      "title": "Vídeo - Luiza",
-      "status": "agendado_coord",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/08",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-Luiza-3ab33d8db9d280d1a651d15b46c5da85"
-    },
-    {
       "title": "Por que esse Simpósio é diferente? ",
       "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
@@ -4105,7 +4107,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "19/08",
+      "date": "26/08",
       "missing": [
         "Design"
       ],
@@ -4118,7 +4120,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Hoje queremos abrir as portas da Stratto para você.",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "13/08",
+      "date": "19/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4144,7 +4146,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Você acredita que o câncer do colo do útero pode ser eliminado?",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "14/08",
+      "date": "20/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4496,7 +4498,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Design sobre Agosto Dourado e Lilás para enviar no WhatsApp",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Design-sobre-Agosto-Dourado-e-Lil-s-para-enviar-no-WhatsApp-3b933d8db9d280dca2c5e9cd8aec54e9",
       "gestora": "Equipe",
       "date": "14/08"
@@ -4758,15 +4760,15 @@ const LEGENDAS_DATA = {
   },
   "Tramix": {
     "prontas": 11,
-    "total": 11
+    "total": 16
   },
   "Stratto": {
     "prontas": 11,
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 16,
-    "total": 17
+    "prontas": 13,
+    "total": 15
   },
   "Jota Diesel": {
     "prontas": 11,
@@ -4809,8 +4811,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 11,
-    "total": 17
+    "prontas": 12,
+    "total": 18
   },
   "Finseg Leal": {
     "prontas": 8,
@@ -4861,7 +4863,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Tramix": {
-    "post": 9,
+    "post": 11,
     "carrossel": 0,
     "foto": 1,
     "video": 1,
@@ -4876,9 +4878,9 @@ const FORMAT_COUNTS = {
   },
   "Juntos contra o HPV": {
     "post": 4,
-    "carrossel": 7,
+    "carrossel": 5,
     "foto": 0,
-    "video": 5,
+    "video": 4,
     "story": 2
   },
   "Jota Diesel": {
@@ -4953,7 +4955,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 16,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -5120,13 +5122,7 @@ const AGENDA_COUNTS = {
   }
 };
 
-const DATA_ALERTS = [
-  {
-    "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
-    "error": "Post atribuído a múltiplos clientes (Juntos contra o HPV, Grupo Mulheres do Brasil)",
-    "notionUrl": "https://app.notion.com/p/Eliminar-o-c-ncer-do-colo-do-tero-poss-vel-O-desafio-fazer-a-preven-o-chegar-a-todas-3bc33d8db9d2801d8a05fd2d8ca48dbb"
-  }
-];
+const DATA_ALERTS = [];
 
 const SEASONAL_DATES = [
 ];
