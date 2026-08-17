@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 14:19:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 14:52:36 **/
 
-const LAST_UPDATE = '17/08/2026, 14:19:31';
+const LAST_UPDATE = '17/08/2026, 14:52:36';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 17,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
@@ -235,10 +235,10 @@ const FEED_DATA = {
   "Conecta Assessoria": {
     "total": 13,
     "pronto": 9,
-    "postado": 1,
-    "agendado": 5,
+    "postado": 3,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 7,
@@ -423,9 +423,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 0,
@@ -829,7 +829,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ol-n-s-somos-a-Ser-Ponte-3b933d8db9d280eb83e3d8b48825232e"
@@ -840,10 +840,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "17/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nossa-loja-on-line-chegou-3b933d8db9d280119a3ff19aed4fe7e4"
@@ -3275,7 +3274,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabia que ter um CNPJ ativo (mesmo que seja MEI) te dá acesso a tabelas de planos de saúde que são até 40% mais baratas do que os planos para pessoa física comum?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [],
@@ -3286,7 +3285,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O cansaço da sua equipe não é falta de foco. Pode ser o início de um Burnout.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/08",
       "missing": [],
@@ -3297,7 +3296,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Pensando em aumentar a família? O prazo começou a correr!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/08",
       "missing": [],
@@ -3978,14 +3977,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "20/08",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "19/08",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280aab601d407a5044b90"
     },
@@ -4494,15 +4491,25 @@ const DEMANDAS_EXTRAS = {
       "date": "17/06"
     }
   ],
-  "Juntos contra o HPV": [
+  "Ser Ponte": [
     {
-      "title": "Design sobre Agosto Dourado e Lilás para enviar no WhatsApp",
+      "title": "Convocatória para Brechós Comunitários",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Design-sobre-Agosto-Dourado-e-Lil-s-para-enviar-no-WhatsApp-3b933d8db9d280dca2c5e9cd8aec54e9",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
       "gestora": "Equipe",
-      "date": "14/08"
+      "date": "12/08"
     },
+    {
+      "title": "Apresentação para pitch",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
+      "gestora": "Equipe",
+      "date": "12T12:00:00.000/06"
+    }
+  ],
+  "Juntos contra o HPV": [
     {
       "title": "Placas para municípios",
       "priority": "p",
@@ -4606,24 +4613,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
       "gestora": "Equipe",
       "date": "30/07"
-    }
-  ],
-  "Ser Ponte": [
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
-    },
-    {
-      "title": "Apresentação para pitch",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
-      "gestora": "Equipe",
-      "date": "12T12:00:00.000/06"
     }
   ],
   "Conecta Assessoria": [
@@ -4831,7 +4820,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Conecta Assessoria": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 17
   },
   "Solar Coworking": {
@@ -5113,7 +5102,7 @@ const AGENDA_COUNTS = {
   "Conecta Assessoria": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
+    "evento": 1
   },
   "Solar Coworking": {
     "reuniao": 0,
