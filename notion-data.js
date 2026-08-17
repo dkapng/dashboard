@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 11:55:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 12:18:12 **/
 
-const LAST_UPDATE = '17/08/2026, 11:55:05';
+const LAST_UPDATE = '17/08/2026, 12:18:12';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -105,12 +105,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Juntos contra o HPV": {
-    "total": 9,
+    "total": 10,
     "pronto": 6,
     "postado": 1,
     "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 10,
@@ -1305,6 +1305,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3bf33d8db9d280d58c13ed70c5dd4f13"
+    },
     {
       "title": "Prevenção também precisa chegar onde a vulnerabilidade é maior.",
       "status": "agendado",
@@ -2668,8 +2682,8 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/08",
       "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Summit-3bf33d8db9d2801da00dc10eec80cf43"
     },
@@ -4498,7 +4512,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Design sobre Agosto Dourado e Lilás para enviar no WhatsApp",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Design-sobre-Agosto-Dourado-e-Lil-s-para-enviar-no-WhatsApp-3b933d8db9d280dca2c5e9cd8aec54e9",
       "gestora": "Equipe",
       "date": "14/08"
@@ -4877,7 +4891,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Juntos contra o HPV": {
-    "post": 4,
+    "post": 5,
     "carrossel": 5,
     "foto": 0,
     "video": 4,
