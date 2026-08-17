@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 18:18:21 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 18:47:48 **/
 
-const LAST_UPDATE = '17/08/2026, 18:18:21';
+const LAST_UPDATE = '17/08/2026, 18:47:48';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 17,
-    "pronto": 13,
+    "pronto": 15,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
@@ -902,10 +902,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-diz-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
@@ -928,10 +926,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
