@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 16:07:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 16:49:16 **/
 
-const LAST_UPDATE = '17/08/2026, 16:07:05';
+const LAST_UPDATE = '17/08/2026, 16:49:16';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -3565,7 +3565,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Reels-com-a-Aline-embaixadora-3ab33d8db9d280bebba7cbfbe7bcf05d"
     },
     {
-      "title": "Por que esse Simpósio é diferente? ",
+      "title": "Video da Aline ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "19/08",
@@ -3576,7 +3576,7 @@ const LINHA_VIDEO_ITEMS = {
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 2. Escrevendo",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Por-que-esse-Simp-sio-diferente-3ab33d8db9d280529ed0e6b65e75e56a"
+      "notionUrl": "https://app.notion.com/p/Video-da-Aline-3ab33d8db9d280529ed0e6b65e75e56a"
     },
     {
       "title": "O que é o I Simpósio do Movimento Juntos contra o HPV?",
