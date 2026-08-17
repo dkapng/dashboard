@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 20:41:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 21:50:07 **/
 
-const LAST_UPDATE = '16/08/2026, 20:41:18';
+const LAST_UPDATE = '16/08/2026, 21:50:07';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -90,7 +90,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
@@ -146,7 +146,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 14,
-    "pronto": 7,
+    "pronto": 10,
     "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
@@ -1003,10 +1003,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/H-20-anos-crescemos-juntos-com-a-ind-stria-cearense-3aa33d8db9d28080bc33ed731096434b"
@@ -1063,7 +1062,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entrega-r-pida-tamb-m-impacta-na-produ-o-3aa33d8db9d280e6a151fabc10d1be47"
@@ -1836,10 +1835,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seguran-a-jur-dica-tamb-m-saber-o-que-fazer-antes-de-precisar-fazer-3ba33d8db9d2807a95d2c697fbb04932"
@@ -1850,10 +1848,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-um-s-cio-decide-sair-da-empresa-3ba33d8db9d28075ac7ac8a1cea265e4"
@@ -1864,10 +1861,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Separar-patrim-nio-pessoal-e-empresarial-mais-importante-do-que-parece-3ba33d8db9d28083996ac24049efad0b"
