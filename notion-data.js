@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 10:20:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 10:59:06 **/
 
-const LAST_UPDATE = '17/08/2026, 10:20:41';
+const LAST_UPDATE = '17/08/2026, 10:59:06';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,21 +80,21 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 16,
+    "total": 17,
     "pronto": 11,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7,
+    "a_agendar": 8,
     "st-paused": null
   },
   "Tramix": {
     "total": 10,
     "pronto": 10,
-    "postado": 8,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 13,
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 15,
-    "pronto": 12,
-    "postado": 10,
+    "total": 16,
+    "pronto": 13,
+    "postado": 11,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 5
@@ -808,10 +808,24 @@ const LINHA_FEED_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [
     {
+      "title": "Renda não resolve tudo. Mas a falta dela limita muita coisa",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Renda-n-o-resolve-tudo-Mas-a-falta-dela-limita-muita-coisa-3bf33d8db9d280b683b4fb2df5f0d222"
+    },
+    {
       "title": "Olá, nós somos a Ser Ponte",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "20/08",
+      "date": "18/08",
       "missing": [
         "Design",
         "Legenda"
@@ -825,7 +839,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nossa loja on-line chegou ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "19/08",
+      "date": "17/08",
       "missing": [
         "Design",
         "Legenda"
@@ -894,7 +908,7 @@ const LINHA_FEED_ITEMS = {
       "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "21/08",
+      "date": "19/08",
       "missing": [
         "Design"
       ],
@@ -920,7 +934,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "26/08",
+      "date": "21/08",
       "missing": [
         "Design"
       ],
@@ -944,7 +958,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Mais da metade dos lares do Ceará são chefiados por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "17/08",
+      "date": "24/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -955,7 +969,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/08",
+      "date": "26/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1010,12 +1024,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Há 20 anos crescemos juntos com a indústria cearense",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1281,12 +1293,10 @@ const LINHA_FEED_ITEMS = {
       "title": "Prevenção também precisa chegar onde a vulnerabilidade é maior.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/08",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "18/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Preven-o-tamb-m-precisa-chegar-onde-a-vulnerabilidade-maior-3b933d8db9d280ec8f40ea4d3ca065be"
     },
@@ -2815,6 +2825,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ser-pai-estar-presente-Feliz-Dia-dos-pais-3b233d8db9d28094b976e7a7c92f77bd"
+    },
+    {
+      "title": "Aniversário da Sandra Lira (Juntos Contra o HPV)",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Sandra-Lira-Juntos-Contra-o-HPV-39633d8db9d280eb9f82d2e9a97f3598"
     },
     {
       "title": "Quando foi a última vez que você fez algo pela primeira vez?",
@@ -4728,10 +4749,10 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 14,
-    "total": 16
+    "total": 17
   },
   "Tramix": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 11
   },
   "Stratto": {
@@ -4739,7 +4760,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 17
   },
   "Jota Diesel": {
@@ -4783,8 +4804,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 10,
-    "total": 16
+    "prontas": 11,
+    "total": 17
   },
   "Finseg Leal": {
     "prontas": 7,
@@ -4828,7 +4849,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 5,
+    "post": 6,
     "carrossel": 11,
     "foto": 0,
     "video": 0,
@@ -4926,7 +4947,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Grupo Mulheres do Brasil": {
-    "post": 15,
+    "post": 16,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -5003,7 +5024,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Juntos contra o HPV": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
