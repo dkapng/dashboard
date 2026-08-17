@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 15:26:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 16:07:05 **/
 
-const LAST_UPDATE = '17/08/2026, 15:26:57';
+const LAST_UPDATE = '17/08/2026, 16:07:05';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 17,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
@@ -147,10 +147,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 14,
     "pronto": 10,
-    "postado": 3,
+    "postado": 4,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Rede Pangeia": {
     "total": 4,
@@ -204,9 +204,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 8,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 5
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -296,8 +296,8 @@ const VIDEO_DATA = {
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 3,
-    "a_agendar": 0
+    "agendado_coord": 2,
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 3,
@@ -374,10 +374,10 @@ const VIDEO_DATA = {
   "ItalaP": {
     "total": 6,
     "pronto": 6,
-    "postado": 1,
+    "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -391,9 +391,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 5,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -826,10 +826,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "18/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ol-n-s-somos-a-Ser-Ponte-3b933d8db9d280eb83e3d8b48825232e"
@@ -1271,7 +1270,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Toda decisão importante dentro de uma empresa passa, de alguma forma, pelo financeiro.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/08",
+      "date": "18/08",
       "missing": [
         "Legenda"
       ],
@@ -1305,18 +1304,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Post",
+      "title": "O prazo para submeter seu trabalho a I Simpósio do Movimento juntos contra o HPV foi prorrogado até 28 de agosto! ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3bf33d8db9d280d58c13ed70c5dd4f13"
+      "notionUrl": "https://app.notion.com/p/O-prazo-para-submeter-seu-trabalho-a-I-Simp-sio-do-Movimento-juntos-contra-o-HPV-foi-prorrogado-at--3bf33d8db9d280d58c13ed70c5dd4f13"
     },
     {
       "title": "Prevenção também precisa chegar onde a vulnerabilidade é maior.",
@@ -1862,11 +1860,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seguran-a-jur-dica-tamb-m-saber-o-que-fazer-antes-de-precisar-fazer-3ba33d8db9d2807a95d2c697fbb04932"
     },
@@ -1875,24 +1871,20 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-um-s-cio-decide-sair-da-empresa-3ba33d8db9d28075ac7ac8a1cea265e4"
     },
     {
       "title": "Separar patrimônio pessoal e empresarial é mais importante do que parece.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Separar-patrim-nio-pessoal-e-empresarial-mais-importante-do-que-parece-3ba33d8db9d28083996ac24049efad0b"
     },
@@ -2419,88 +2411,82 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
-      "title": "Post",
+      "title": "Talvez você não precise dormir mais. Precise dormir melhor.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280b48c70fdb8025add1c"
+      "notionUrl": "https://app.notion.com/p/Talvez-voc-n-o-precise-dormir-mais-Precise-dormir-melhor-3bc33d8db9d280b48c70fdb8025add1c"
     },
     {
-      "title": "Post",
+      "title": "Descansar não é parar. É preparar o corpo para continuar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280ff850fe3d991af4c30"
+      "notionUrl": "https://app.notion.com/p/Descansar-n-o-parar-preparar-o-corpo-para-continuar-3bc33d8db9d280ff850fe3d991af4c30"
     },
     {
-      "title": "Post",
+      "title": "O corpo descansa, mas será que está recebendo o suporte que precisa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280bd852ecc2fdadd6d34"
+      "notionUrl": "https://app.notion.com/p/O-corpo-descansa-mas-ser-que-est-recebendo-o-suporte-que-precisa-3bc33d8db9d280bd852ecc2fdadd6d34"
     },
     {
-      "title": "Post",
+      "title": "Você revisa suas metas. Quando foi a última vez que revisou seu descanso?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d2801ca774f7b04ee70f32"
+      "notionUrl": "https://app.notion.com/p/Voc-revisa-suas-metas-Quando-foi-a-ltima-vez-que-revisou-seu-descanso-3bc33d8db9d2801ca774f7b04ee70f32"
     },
     {
-      "title": "Post",
+      "title": "O conforto da sua noite começa onde sua cabeça descansa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d2804880d6fc07a517f95d"
+      "notionUrl": "https://app.notion.com/p/O-conforto-da-sua-noite-come-a-onde-sua-cabe-a-descansa-3bc33d8db9d2804880d6fc07a517f95d"
     },
     {
-      "title": "Post",
+      "title": "Seu colchão está ajudando o seu descanso ou apenas fazendo parte do quarto?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280108abdc9cb1c80c090"
+      "notionUrl": "https://app.notion.com/p/Seu-colch-o-est-ajudando-o-seu-descanso-ou-apenas-fazendo-parte-do-quarto-3bc33d8db9d280108abdc9cb1c80c090"
     },
     {
       "title": "Seu quarto não precisa de uma reforma. Talvez ele precise da escolha certa.      (Liberty)",
@@ -2920,27 +2906,23 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Vale a pena aumentar a franquia?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vale-a-pena-aumentar-a-franquia-3ae33d8db9d28031b1dcdc9fac3d6951"
     },
     {
       "title": "4 Situações em que vale revisar seu seguro imediatamente: - Mudou de endereço; - Comprou outro carro; - Casou; - Empresa cresceu ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/4-Situa-es-em-que-vale-revisar-seu-seguro-imediatamente-Mudou-de-endere-o-Comprou-outro-carro-3ae33d8db9d2805a8d6be41677427f99"
     },
@@ -2957,14 +2939,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Franquia alta ou franquia baixa: qual faz mais sentido para você?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Franquia-alta-ou-franquia-baixa-qual-faz-mais-sentido-para-voc-38f33d8db9d280c4879ad8dea428992c"
     },
@@ -3586,14 +3566,15 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Por que esse Simpósio é diferente? ",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "19/08",
       "missing": [
-        "Vídeo"
+        "Vídeo",
+        "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 2. Escrevendo",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Por-que-esse-Simp-sio-diferente-3ab33d8db9d280529ed0e6b65e75e56a"
     },
@@ -3823,14 +3804,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "O caminho da coleta",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "17/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/O-caminho-da-coleta-3b133d8db9d28037a1fcd47f5dd4e407"
     },
@@ -3896,14 +3875,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "O medico que você quiser",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "19/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/O-medico-que-voc-quiser-38f33d8db9d2803ebb73db5abc78c1c4"
     },
@@ -4439,77 +4416,15 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Plannea": [
-    {
-      "title": "Boa-vindas Marcelo",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Boa-vindas-Marcelo-3bc33d8db9d28037a9e9f37cc67b534b",
-      "gestora": "Equipe",
-      "date": "12/08"
-    },
-    {
-      "title": "Promoção por mérito do Kelrick de Estagiário Fiscal para o cargo de Auxiliar Fiscal",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Promo-o-por-m-rito-do-Kelrick-de-Estagi-rio-Fiscal-para-o-cargo-de-Auxiliar-Fiscal-3bc33d8db9d28074915fcac0077e35cc",
-      "gestora": "Equipe",
-      "date": "14/08"
-    },
-    {
-      "title": "Reforma tributária para gestores de restaurantes",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Reforma-tribut-ria-para-gestores-de-restaurantes-3bb33d8db9d280ddad13e15b988e9fee",
-      "gestora": "Equipe",
-      "date": "13/08"
-    },
-    {
-      "title": "Vídeo promoção Mayara",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
-      "gestora": "Equipe",
-      "date": "22/07"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Vídeo sobre os núcleos internacionais no Summit",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-sobre-os-n-cleos-internacionais-no-Summit-3ba33d8db9d280209c03ed7119cdc00d",
-      "gestora": "Equipe",
-      "date": "12/08"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
-    }
-  ],
-  "Ser Ponte": [
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
-    },
-    {
-      "title": "Apresentação para pitch",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
-      "gestora": "Equipe",
-      "date": "12T12:00:00.000/06"
-    }
-  ],
   "Juntos contra o HPV": [
+    {
+      "title": "Convite para enviar por e-mail",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Convite-para-enviar-por-e-mail-3bf33d8db9d2809897addefaff75d09b",
+      "gestora": "Equipe",
+      "date": "18/08"
+    },
     {
       "title": "Placas para municípios",
       "priority": "p",
@@ -4613,6 +4528,86 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
       "gestora": "Equipe",
       "date": "30/07"
+    }
+  ],
+  "Univendas": [
+    {
+      "title": "Campanha do mês",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Campanha-do-m-s-3bf33d8db9d2805d8001f44e848c4e32",
+      "gestora": "Equipe",
+      "date": "19/08"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Boa-vindas Marcelo",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Boa-vindas-Marcelo-3bc33d8db9d28037a9e9f37cc67b534b",
+      "gestora": "Equipe",
+      "date": "12/08"
+    },
+    {
+      "title": "Promoção por mérito do Kelrick de Estagiário Fiscal para o cargo de Auxiliar Fiscal",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Promo-o-por-m-rito-do-Kelrick-de-Estagi-rio-Fiscal-para-o-cargo-de-Auxiliar-Fiscal-3bc33d8db9d28074915fcac0077e35cc",
+      "gestora": "Equipe",
+      "date": "14/08"
+    },
+    {
+      "title": "Reforma tributária para gestores de restaurantes",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Reforma-tribut-ria-para-gestores-de-restaurantes-3bb33d8db9d280ddad13e15b988e9fee",
+      "gestora": "Equipe",
+      "date": "13/08"
+    },
+    {
+      "title": "Vídeo promoção Mayara",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
+      "gestora": "Equipe",
+      "date": "22/07"
+    }
+  ],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Vídeo sobre os núcleos internacionais no Summit",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-sobre-os-n-cleos-internacionais-no-Summit-3ba33d8db9d280209c03ed7119cdc00d",
+      "gestora": "Equipe",
+      "date": "12/08"
+    },
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
+  "Ser Ponte": [
+    {
+      "title": "Convocatória para Brechós Comunitários",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
+    },
+    {
+      "title": "Apresentação para pitch",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
+      "gestora": "Equipe",
+      "date": "12T12:00:00.000/06"
     }
   ],
   "Conecta Assessoria": [
@@ -4776,7 +4771,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 7,
+    "prontas": 10,
     "total": 14
   },
   "Rede Pangeia": {
@@ -4792,11 +4787,11 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Ortobom": {
-    "prontas": 12,
+    "prontas": 18,
     "total": 19
   },
   "ItalaP": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
@@ -4804,7 +4799,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Finseg Leal": {
-    "prontas": 8,
+    "prontas": 12,
     "total": 17
   },
   "Di Gregório Buffet": {
