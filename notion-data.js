@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 21:50:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/08/2026, 23:15:29 **/
 
-const LAST_UPDATE = '16/08/2026, 21:50:07';
+const LAST_UPDATE = '16/08/2026, 23:15:29';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -90,7 +90,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 10,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
@@ -98,7 +98,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 7,
+    "pronto": 10,
     "postado": 3,
     "agendado": 4,
     "agendado_coord": 0,
@@ -1059,10 +1059,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entrega-r-pida-tamb-m-impacta-na-produ-o-3aa33d8db9d280e6a151fabc10d1be47"
@@ -1146,10 +1144,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-reuni-o-precisa-terminar-com-uma-decis-o-melhor-do-que-come-ou-3b233d8db9d2803bbab4ef79aabf6371"
@@ -1159,10 +1155,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "20/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-empresa-possui-uma-opera-o-diferente-Por-isso-acreditamos-que-uma-boa-gest-o-come-a-conhecen-3b233d8db9d280fcb793d30da81006f4"
@@ -1230,10 +1224,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-decis-o-importante-dentro-de-uma-empresa-passa-de-alguma-forma-pelo-financeiro-39133d8db9d28016b867cd8707f241ed"
