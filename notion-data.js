@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 17:17:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 17:50:59 **/
 
-const LAST_UPDATE = '17/08/2026, 17:17:23';
+const LAST_UPDATE = '17/08/2026, 17:50:59';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -905,7 +905,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-revela-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
@@ -1300,7 +1300,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "O prazo para submeter seu trabalho a I Simpósio do Movimento juntos contra o HPV foi prorrogado até 28 de agosto! ",
+      "title": "O prazo para submeter seu trabalho a I Simpósio do Movimento juntos contra o HPV foi prorrogado até 28 de agosto!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/08",
@@ -1405,7 +1405,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-estamos-construindo-hoje-definir-a-sa-de-das-pr-ximas-gera-es-39833d8db9d2801788baec3c850bf841"
     },
     {
-      "title": "Quando diferentes setores da sociedade civil dão as mãos, o impacto deixa de ser local e vira política pública. A força institucional por trás do movimento Juntos Contra o HPV. ",
+      "title": "Quando diferentes setores da sociedade civil dão as mãos, o impacto deixa de ser local e vira política pública. A força institucional por trás do movimento Juntos Contra o HPV.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
@@ -4416,7 +4416,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convite para enviar por e-mail",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Convite-para-enviar-por-e-mail-3bf33d8db9d2809897addefaff75d09b",
       "gestora": "Equipe",
       "date": "18/08"
