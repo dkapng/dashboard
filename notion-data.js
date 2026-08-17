@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 16:49:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 17:17:23 **/
 
-const LAST_UPDATE = '17/08/2026, 16:49:16';
+const LAST_UPDATE = '17/08/2026, 17:17:23';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -82,10 +82,10 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 17,
     "pronto": 13,
-    "postado": 8,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8,
+    "a_agendar": 7,
     "st-paused": null
   },
   "Tramix": {
@@ -823,26 +823,22 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Olá, nós somos a Ser Ponte",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
+      "formato": "🖼️ Post",
       "date": "18/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ol-n-s-somos-a-Ser-Ponte-3b933d8db9d280eb83e3d8b48825232e"
     },
     {
       "title": "Nossa loja on-line chegou ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "17/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nossa-loja-on-line-chegou-3b933d8db9d280119a3ff19aed4fe7e4"
     },
@@ -4715,6 +4711,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Univendas": "marcada",
   "Planos Seguros": "marcada",
   "Solar Coworking": "confirmada",
   "Stratto": "marcada",
@@ -4722,7 +4719,6 @@ const CAPTACAO_DATA = {
   "Ser Ponte": "marcada",
   "Finseg Leal": "confirmada",
   "APROSSEG": "confirmada",
-  "Univendas": "marcada",
   "Plannea": "marcada",
   "Rede Pangeia": "marcada"
 };
@@ -4739,7 +4735,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 15,
+    "prontas": 17,
     "total": 17
   },
   "Tramix": {
@@ -4840,8 +4836,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 6,
-    "carrossel": 11,
+    "post": 7,
+    "carrossel": 10,
     "foto": 0,
     "video": 0,
     "story": 3
@@ -5031,7 +5027,7 @@ const AGENDA_COUNTS = {
   },
   "Univendas": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 1
   },
   "Terrartesã": {
