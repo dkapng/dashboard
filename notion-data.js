@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 09:27:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 10:20:41 **/
 
-const LAST_UPDATE = '17/08/2026, 09:27:44';
+const LAST_UPDATE = '17/08/2026, 10:20:41';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 14,
-    "pronto": 10,
+    "total": 15,
+    "pronto": 11,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -107,10 +107,10 @@ const FEED_DATA = {
   "Juntos contra o HPV": {
     "total": 11,
     "pronto": 7,
-    "postado": 1,
+    "postado": 2,
     "agendado": 4,
     "agendado_coord": 2,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 10,
@@ -171,10 +171,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 17,
     "pronto": 14,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Ortobom": {
     "total": 14,
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 14,
-    "pronto": 10,
-    "postado": 7,
+    "total": 15,
+    "pronto": 12,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "Finseg Leal": {
     "total": 11,
@@ -683,7 +683,7 @@ const LINHA_FEED_ITEMS = {
       "title": "FUNDAF: por que esse fundo interessa a categoria fazendária?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/08",
+      "date": "19/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -694,7 +694,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Entre Cantos e Contos Cariri 19/08",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/08",
+      "date": "17/08",
       "missing": [
         "Legenda"
       ],
@@ -726,6 +726,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-que-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
+    },
+    {
+      "title": "Nosso grupo é do Balacobaco",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Nosso-grupo-do-Balacobaco-39d33d8db9d28057b586fa77d5844db7"
     },
     {
       "title": "Quer fazer parte do Coral AAFEC?",
@@ -1257,12 +1268,10 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Eliminar o câncer do colo do útero é possível. O desafio é fazer a prevenção chegar a todas",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
-      "date": "14/08",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "17/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2256,12 +2265,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "REFORMA TRIBUTÁRIA: 2026 É ANO DE TESTE. ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2643,14 +2650,22 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Summit",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "17/08",
+      "missing": [],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Summit-3bf33d8db9d2801da00dc10eec80cf43"
+    },
+    {
       "title": "#TBT",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "13/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -2726,12 +2741,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A solidão na velhice também tem gênero",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -4706,8 +4719,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 13,
-    "total": 19
+    "prontas": 14,
+    "total": 20
   },
   "Travessias Híbridas": {
     "prontas": 0,
@@ -4726,7 +4739,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 17
   },
   "Jota Diesel": {
@@ -4758,7 +4771,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Plannea": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 17
   },
   "Ortobom": {
@@ -4770,8 +4783,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 7,
-    "total": 15
+    "prontas": 10,
+    "total": 16
   },
   "Finseg Leal": {
     "prontas": 7,
@@ -4801,7 +4814,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "AAFEC": {
-    "post": 11,
+    "post": 12,
     "carrossel": 3,
     "foto": 0,
     "video": 5,
@@ -4913,7 +4926,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Grupo Mulheres do Brasil": {
-    "post": 14,
+    "post": 15,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
