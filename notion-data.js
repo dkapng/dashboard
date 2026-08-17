@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 17:50:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 18:18:21 **/
 
-const LAST_UPDATE = '17/08/2026, 17:50:59';
+const LAST_UPDATE = '17/08/2026, 18:18:21';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -898,7 +898,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/TUDO-QUE-VOC-PRECISA-SABER-SOBRE-O-BAZAR-3ab33d8db9d280d69497e3d7a72e434d"
     },
     {
-      "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, revela pesquisa",
+      "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, diz pesquisa.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "19/08",
@@ -908,7 +908,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-revela-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
+      "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-diz-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
     },
     {
       "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
