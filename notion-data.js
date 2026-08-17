@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 13:53:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/08/2026, 14:19:31 **/
 
-const LAST_UPDATE = '17/08/2026, 13:53:22';
+const LAST_UPDATE = '17/08/2026, 14:19:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -177,12 +177,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Ortobom": {
-    "total": 14,
+    "total": 13,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "ItalaP": {
     "total": 6,
@@ -2504,20 +2504,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d280108abdc9cb1c80c090"
     },
     {
-      "title": "Post",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3bc33d8db9d28012b431d492dca49f09"
-    },
-    {
       "title": "Seu quarto não precisa de uma reforma. Talvez ele precise da escolha certa.      (Liberty)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -4818,7 +4804,7 @@ const LEGENDAS_DATA = {
   },
   "Ortobom": {
     "prontas": 12,
-    "total": 20
+    "total": 19
   },
   "ItalaP": {
     "prontas": 9,
@@ -4954,7 +4940,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Ortobom": {
-    "post": 14,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 6,
