@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 10:24:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 11:04:02 **/
 
-const LAST_UPDATE = '18/08/2026, 10:24:39';
+const LAST_UPDATE = '18/08/2026, 11:04:02';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4408,6 +4408,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "ItalaP": [
+    {
+      "title": "Comunicado",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Comunicado-3c033d8db9d280edb731d76c7963571c",
+      "gestora": "Equipe",
+      "date": "18/08"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Convite para enviar por e-mail",
