@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 11:59:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 12:34:57 **/
 
-const LAST_UPDATE = '18/08/2026, 11:59:31';
+const LAST_UPDATE = '18/08/2026, 12:34:57';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -100,9 +100,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 10,
     "postado": 3,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 10,
@@ -148,9 +148,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 10,
     "postado": 4,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Rede Pangeia": {
     "total": 4,
@@ -463,12 +463,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Tramix": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 3,
@@ -560,7 +560,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -1181,7 +1181,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Toda reunião precisa terminar com uma decisão melhor do que começou.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [],
@@ -1192,7 +1192,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Toda empresa possui uma operação diferente. Por isso, acreditamos que uma boa gestão começa conhecendo pessoas, processos e objetivos.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "20/08",
       "missing": [],
@@ -1849,7 +1849,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Segurança jurídica também é saber o que fazer antes de precisar fazer.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [],
@@ -1860,7 +1860,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que acontece quando um sócio decide sair da empresa?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [],
@@ -2656,7 +2656,7 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "Conteúdo Summit",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "20/08",
       "missing": [
         "Design",
@@ -2877,7 +2877,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vai-adesivar-seu-carro-para-uma-campanha-Seu-seguro-pode-ser-afetado-3bf33d8db9d280f1bbf9e1b2200ccee5"
@@ -4072,6 +4072,19 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Tramix": [
     {
+      "title": "Stories Gleice Braz",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "18/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-Gleice-Braz-3c033d8db9d2803191cad62591f804e0"
+    },
+    {
       "title": "O trabalho da confecção termina quando a peça sai da máquina? ",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4229,7 +4242,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3ba33d8db9d2807e928fd8864d6d964f"
     },
@@ -4242,7 +4255,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3ba33d8db9d280b0b5d6f4c3f2bb921a"
     },
@@ -4392,11 +4405,9 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "18/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comunicado-3c033d8db9d280818f1be145b4967461"
     },
@@ -4884,7 +4895,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 1,
     "video": 1,
-    "story": 1
+    "story": 2
   },
   "Stratto": {
     "post": 11,
@@ -4971,8 +4982,8 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Grupo Mulheres do Brasil": {
-    "post": 17,
-    "carrossel": 1,
+    "post": 16,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 0
