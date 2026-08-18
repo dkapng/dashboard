@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 14:51:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 15:25:54 **/
 
-const LAST_UPDATE = '18/08/2026, 14:51:16';
+const LAST_UPDATE = '18/08/2026, 15:25:54';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -202,7 +202,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -2874,10 +2874,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "18/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vai-adesivar-seu-carro-para-uma-campanha-Seu-seguro-pode-ser-afetado-3bf33d8db9d280f1bbf9e1b2200ccee5"
@@ -4115,8 +4113,8 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Stories-Gleice-Braz-3c033d8db9d2803191cad62591f804e0"
     },
