@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 16:05:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 16:46:55 **/
 
-const LAST_UPDATE = '18/08/2026, 16:05:59';
+const LAST_UPDATE = '18/08/2026, 16:46:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -108,9 +108,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 7,
     "postado": 1,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 10,
@@ -204,9 +204,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 9,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -1297,7 +1297,7 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "O prazo para submeter seu trabalho a I Simpósio do Movimento juntos contra o HPV foi prorrogado até 28 de agosto!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/08",
       "missing": [],
@@ -2869,7 +2869,7 @@ const LINHA_FEED_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Vai adesivar seu carro para uma campanha? Seu seguro pode ser afetado.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "18/08",
       "missing": [],
