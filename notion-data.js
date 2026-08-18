@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 11:04:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 11:59:31 **/
 
-const LAST_UPDATE = '18/08/2026, 11:04:02';
+const LAST_UPDATE = '18/08/2026, 11:59:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -169,12 +169,12 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Plannea": {
-    "total": 17,
+    "total": 18,
     "pronto": 14,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 10
   },
   "Ortobom": {
     "total": 13,
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 17,
+    "total": 18,
     "pronto": 14,
     "postado": 12,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Finseg Leal": {
     "total": 12,
@@ -559,12 +559,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "ItalaP": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -2193,6 +2193,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Casas Bahia pede recuperação judicial. O que a contabilidade de uma empresa pode ensinar com uma crise de R$ 17,3 bilhões?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "20/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Casas-Bahia-pede-recupera-o-judicial-O-que-a-contabilidade-de-uma-empresa-pode-ensinar-com-uma-cri-3c033d8db9d280dfbe53fea5c3b9910c"
+    },
+    {
       "title": "Vaga para analista comercial",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2639,6 +2653,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Conteúdo Summit",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Conte-do-Summit-3c033d8db9d28007a1cedd841ab45dc6"
+    },
     {
       "title": "Summit",
       "status": "postado",
@@ -4360,6 +4388,19 @@ const LINHA_STORIES_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Comunicado",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "18/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Comunicado-3c033d8db9d280818f1be145b4967461"
+    },
+    {
       "title": "Agosto dourado",
       "status": "agendado",
       "formato": "📱 Story",
@@ -4408,16 +4449,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "ItalaP": [
-    {
-      "title": "Comunicado",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Comunicado-3c033d8db9d280edb731d76c7963571c",
-      "gestora": "Equipe",
-      "date": "18/08"
-    }
-  ],
   "Juntos contra o HPV": [
     {
       "title": "Convite para enviar por e-mail",
@@ -4786,7 +4817,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 8,
-    "total": 17
+    "total": 18
   },
   "Ortobom": {
     "prontas": 18,
@@ -4798,7 +4829,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 12,
-    "total": 18
+    "total": 19
   },
   "Finseg Leal": {
     "prontas": 12,
@@ -4920,7 +4951,7 @@ const FORMAT_COUNTS = {
   },
   "Plannea": {
     "post": 16,
-    "carrossel": 1,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 2
@@ -4937,10 +4968,10 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 6,
-    "story": 1
+    "story": 2
   },
   "Grupo Mulheres do Brasil": {
-    "post": 16,
+    "post": 17,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -5027,7 +5058,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ventana": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
