@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 13:56:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 14:22:06 **/
 
-const LAST_UPDATE = '18/08/2026, 13:56:26';
+const LAST_UPDATE = '18/08/2026, 14:22:06';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4518,7 +4518,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Convite para enviar por e-mail",
       "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Convite-para-enviar-por-e-mail-3bf33d8db9d2809897addefaff75d09b",
       "gestora": "Equipe",
       "date": "18/08"
@@ -5125,7 +5125,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Rede Pangeia": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
