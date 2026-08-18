@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 17:14:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 17:46:21 **/
 
-const LAST_UPDATE = '18/08/2026, 17:14:29';
+const LAST_UPDATE = '18/08/2026, 17:46:21';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4634,7 +4634,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Campanha do mês",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Campanha-do-m-s-3bf33d8db9d2805d8001f44e848c4e32",
       "gestora": "Equipe",
       "date": "19/08"
