@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 12:34:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 13:21:52 **/
 
-const LAST_UPDATE = '18/08/2026, 12:34:57';
+const LAST_UPDATE = '18/08/2026, 13:21:52';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -241,12 +241,12 @@ const FEED_DATA = {
     "a_agendar": 4
   },
   "Solar Coworking": {
-    "total": 7,
+    "total": 10,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 9
   }
 };
 
@@ -301,7 +301,7 @@ const VIDEO_DATA = {
   },
   "Jota Diesel": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
@@ -487,12 +487,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Jota Diesel": {
-    "total": 3,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -615,12 +615,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Solar Coworking": {
-    "total": 2,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   }
 };
 
@@ -3374,6 +3374,84 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "Networking não acontece só em eventos. Ele acontece na rotina.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "31/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Networking-n-o-acontece-s-em-eventos-Ele-acontece-na-rotina-3c033d8db9d280fa8221e25cfb0e1c58"
+    },
+    {
+      "title": "Empresas que querem crescer investem primeiro na base.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Empresas-que-querem-crescer-investem-primeiro-na-base-3c033d8db9d280809290ff8b1b038653"
+    },
+    {
+      "title": "Uma boa reunião começa muito antes da conversa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uma-boa-reuni-o-come-a-muito-antes-da-conversa-3c033d8db9d280b5bdd2ef132a03ff66"
+    },
+    {
+      "title": "Psicólogo explica: o ambiente também faz parte da experiência do cliente",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Psic-logo-explica-o-ambiente-tamb-m-faz-parte-da-experi-ncia-do-cliente-3c033d8db9d28077a183ee17f5c1132a"
+    },
+    {
+      "title": "Networking de verdade acontece quando você menos espera.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-3c033d8db9d280ca8525fe0f4b0ae5b6"
+    },
+    {
+      "title": "Sua estrutura acompanha o crescimento do seu negócio?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-estrutura-acompanha-o-crescimento-do-seu-neg-cio-3c033d8db9d280d3bd2fd6240cf37918"
+    },
+    {
       "title": "A primeira impressão da sua reunião começa na recepção.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3411,45 +3489,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Grandes-resultados-come-am-em-ambientes-preparados-3a733d8db9d280fda9a9f5c2241b7da5"
-    },
-    {
-      "title": "Empresas que querem crescer investem primeiro na base.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "07/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Empresas-que-querem-crescer-investem-primeiro-na-base-3a733d8db9d2802aa37ed1b7b44db26d"
-    },
-    {
-      "title": "Uma boa reunião começa muito antes da conversa.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "05/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-boa-reuni-o-come-a-muito-antes-da-conversa-3a733d8db9d280d38912dd3bb753fcf0"
-    },
-    {
-      "title": "Networking não acontece só em eventos. Ele acontece na rotina.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "03/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Networking-n-o-acontece-s-em-eventos-Ele-acontece-na-rotina-3a733d8db9d280068915da0e43a442dd"
     },
     {
       "title": "O maior legado não está no que se conquista, mas no que se ensina.",
@@ -3616,13 +3655,10 @@ const LINHA_VIDEO_ITEMS = {
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "20/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Conte-com-a-Jota-3ac33d8db9d28025b6fdc9836d0797d3"
     },
     {
@@ -4179,19 +4215,6 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3a633d8db9d280e1bd14f4c0ed16030a"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
       "date": "12/08",
       "missing": [
         "Design"
@@ -4434,6 +4457,19 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
+      "date": "27/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3c033d8db9d2804da938c5017d93db99"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
       "date": "20/08",
       "missing": [
         "Design"
@@ -4460,6 +4496,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ser Ponte": [
+    {
+      "title": "Material para apresentar a possíveis doadores",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
+      "gestora": "Equipe",
+      "date": "21/08"
+    },
+    {
+      "title": "Convocatória para Brechós Comunitários",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Convite para enviar por e-mail",
@@ -4636,24 +4690,6 @@ const DEMANDAS_EXTRAS = {
       "date": "17/06"
     }
   ],
-  "Ser Ponte": [
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
-    },
-    {
-      "title": "Apresentação para pitch",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-para-pitch-37b33d8db9d280bfa8e4e09aa817e168",
-      "gestora": "Equipe",
-      "date": "12T12:00:00.000/06"
-    }
-  ],
   "Conecta Assessoria": [
     {
       "title": "Convite para happy hour",
@@ -4799,7 +4835,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Jota Diesel": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 13
   },
   "Ventana": {
@@ -4863,8 +4899,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 7,
-    "total": 7
+    "prontas": 10,
+    "total": 10
   }
 };
 
@@ -4916,7 +4952,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 3,
-    "story": 3
+    "story": 2
   },
   "Ventana": {
     "post": 0,
@@ -5024,11 +5060,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Solar Coworking": {
-    "post": 7,
+    "post": 10,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 3
   }
 };
 
