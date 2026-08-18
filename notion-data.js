@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 18:15:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 18:45:17 **/
 
-const LAST_UPDATE = '18/08/2026, 18:15:50';
+const LAST_UPDATE = '18/08/2026, 18:45:17';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,12 +89,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Tramix": {
-    "total": 12,
+    "total": 13,
     "pronto": 10,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Stratto": {
     "total": 13,
@@ -465,10 +465,10 @@ const STORIES_DATA = {
   "Tramix": {
     "total": 2,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 3,
@@ -1027,6 +1027,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-melhor-linha-muitas-vezes-aquela-que-desaparece-no-resultado-final-3bf33d8db9d2807c95c3e5f94493f54b"
+    },
+    {
+      "title": "Mais de 50 cores de fios e linhas para acompanhar cada criação",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-de-50-cores-de-fios-e-linhas-para-acompanhar-cada-cria-o-3bf33d8db9d2803da514e415392f3e2e"
     },
     {
       "title": "Feliz Dia dos pais! (Em letra menor: ",
@@ -4113,7 +4127,7 @@ const LINHA_STORIES_ITEMS = {
   "Tramix": [
     {
       "title": "Stories Gleice Braz",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "18/08",
       "missing": [],
@@ -4632,10 +4646,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Univendas": [
     {
-      "title": "Campanha do mês",
+      "title": "Campanha de agosto de 2026",
       "priority": "pp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Campanha-do-m-s-3bf33d8db9d2805d8001f44e848c4e32",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Campanha-de-agosto-de-2026-3bf33d8db9d2805d8001f44e848c4e32",
       "gestora": "Equipe",
       "date": "19/08"
     }
@@ -4929,7 +4943,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Tramix": {
-    "post": 11,
+    "post": 12,
     "carrossel": 0,
     "foto": 1,
     "video": 1,
