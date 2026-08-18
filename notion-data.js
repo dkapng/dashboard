@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 15:25:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 16:05:59 **/
 
-const LAST_UPDATE = '18/08/2026, 15:25:54';
+const LAST_UPDATE = '18/08/2026, 16:05:59';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 1,
     "agendado": 5,
     "agendado_coord": 1,
@@ -464,7 +464,7 @@ const STORIES_DATA = {
   },
   "Tramix": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1300,10 +1300,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-prazo-para-submeter-seu-trabalho-a-I-Simp-sio-do-Movimento-juntos-contra-o-HPV-foi-prorrogado-at--3bf33d8db9d280d58c13ed70c5dd4f13"
@@ -4110,10 +4108,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "18/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Stories-Gleice-Braz-3c033d8db9d2803191cad62591f804e0"
