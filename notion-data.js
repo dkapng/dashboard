@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 16:46:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 17:14:29 **/
 
-const LAST_UPDATE = '18/08/2026, 16:46:55';
+const LAST_UPDATE = '18/08/2026, 17:14:29';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -217,12 +217,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 8,
+    "total": 9,
     "pronto": 4,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -293,11 +293,11 @@ const VIDEO_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 4,
     "postado": 0,
-    "agendado": 1,
-    "agendado_coord": 2,
-    "a_agendar": 1
+    "agendado": 2,
+    "agendado_coord": 1,
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 3,
@@ -404,12 +404,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 3,
+    "total": 2,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -3014,6 +3014,19 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Vai adesivar seu carro nessa eleição? Antes de colocar o adesivo, fale com seu corretor!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vai-adesivar-seu-carro-nessa-elei-o-Antes-de-colocar-o-adesivo-fale-com-seu-corretor-3c033d8db9d28080ae95f15c2ff7ac26"
+    },
+    {
       "title": "Tbt do Dialogo do Seguro III",
       "status": "postado",
       "formato": "📸 Foto(s)",
@@ -3078,7 +3091,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você não consegue prever o futuro. Mas pode decidir como enfrentá-lo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/08",
+      "date": "20/08",
       "missing": [
         "Design"
       ],
@@ -3594,44 +3607,52 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Você já parou pra pensar por que ainda falamos sobre hpv em pleno 2026?",
-      "status": "agendado_coord",
-      "formato": "🎥 Vídeo vertical",
-      "date": "24/08",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Voc-j-parou-pra-pensar-por-que-ainda-falamos-sobre-hpv-em-pleno-2026-3ab33d8db9d28062877edc61c8010caa"
-    },
-    {
-      "title": "Reels com a Aline (embaixadora)",
-      "status": "agendado_coord",
-      "formato": "🎥 Vídeo vertical",
-      "date": "26/08",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Reels-com-a-Aline-embaixadora-3ab33d8db9d280bebba7cbfbe7bcf05d"
-    },
-    {
-      "title": "Video da Aline ",
+      "title": "Porque é diferente?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "19/08",
+      "date": "31/08",
       "missing": [
-        "Vídeo",
         "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 2. Escrevendo",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Video-da-Aline-3ab33d8db9d280529ed0e6b65e75e56a"
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Porque-diferente-3c033d8db9d280fdb601f2e5a5f3005f"
+    },
+    {
+      "title": "Dados",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "24/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Dados-3c033d8db9d280aeb36dfc44a2ccd8ad"
+    },
+    {
+      "title": "Video 02 - Aline",
+      "status": "agendado_coord",
+      "formato": "🎥 Vídeo vertical",
+      "date": "26/08",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Video-02-Aline-3ab33d8db9d280bebba7cbfbe7bcf05d"
+    },
+    {
+      "title": "Video da Aline (ela vai postar ",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "19/08",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Video-da-Aline-ela-vai-postar-3ab33d8db9d280529ed0e6b65e75e56a"
     },
     {
       "title": "O que é o I Simpósio do Movimento Juntos contra o HPV?",
@@ -3973,19 +3994,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Dia-dos-Pais-3a033d8db9d2800088dee243ca0b0a0d"
-    },
-    {
-      "title": "O que realmente importa ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "19/08",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-que-realmente-importa-38f33d8db9d280e88998e063dc5114cf"
     }
   ],
   "Daniel Maia Advocacia": [],
@@ -4825,8 +4833,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 13,
-    "total": 15
+    "prontas": 12,
+    "total": 14
   },
   "Jota Diesel": {
     "prontas": 12,
@@ -4938,7 +4946,7 @@ const FORMAT_COUNTS = {
     "post": 5,
     "carrossel": 5,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 2
   },
   "Jota Diesel": {
@@ -5033,10 +5041,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 6,
+    "post": 7,
     "carrossel": 1,
     "foto": 1,
-    "video": 3,
+    "video": 2,
     "story": 0
   },
   "Daniel Maia Advocacia": {
