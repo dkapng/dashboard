@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 15:22:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 16:00:49 **/
 
-const LAST_UPDATE = '19/08/2026, 15:22:31';
+const LAST_UPDATE = '19/08/2026, 16:00:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -846,7 +846,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "13/08",
       "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-apoiar-a-Ser-Ponte-mas-n-o-sabe-como-3b933d8db9d2805ea0d2f61298b069af"
@@ -4077,6 +4077,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Solar Coworking": [
+    {
+      "title": "Aniversario Carla",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Aniversario-Carla-3c133d8db9d28059b32bd0d0acba5cf9",
+      "gestora": "Equipe",
+      "date": "20/08"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Material para apresentar a possíveis doadores",
