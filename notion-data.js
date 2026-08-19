@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 00:23:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 01:05:18 **/
 
-const LAST_UPDATE = '19/08/2026, 00:23:30';
+const LAST_UPDATE = '19/08/2026, 01:05:18';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -114,7 +114,7 @@ const FEED_DATA = {
   },
   "Jota Diesel": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -130,7 +130,7 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 4,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -162,7 +162,7 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 9,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -241,12 +241,12 @@ const FEED_DATA = {
     "a_agendar": 4
   },
   "Solar Coworking": {
-    "total": 7,
-    "pronto": 1,
+    "total": 8,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 7
   }
 };
 
@@ -1482,10 +1482,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Na-Jota-Diesel-voc-encontra-manuten-o-completa-para-todos-os-tipos-de-injetores-Confira-alguns-ex-26933d8db9d280589e46cfdb46eab3cd"
@@ -1607,10 +1605,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Oferecer-sa-de-investir-no-bem-estar-e-no-desempenho-da-sua-equipe-3ae33d8db9d2806c9aafd42b1ece7604"
@@ -1880,7 +1876,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Subseguro: um problema que muitas empresas descobrem tarde demais.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/08",
+      "date": "20/08",
       "missing": [
         "Design"
       ],
@@ -1894,10 +1890,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-carros-el-tricos-est-o-mudando-o-mercado-de-seguros-E-n-o-apenas-por-serem-el-tricos-3ae33d8db9d280ce8551c974d5bc2134"
@@ -3075,6 +3069,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "Conheceu um cliente no evento? Seu endereço pode ser a próxima informação que ele vai procurar.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Conheceu-um-cliente-no-evento-Seu-endere-o-pode-ser-a-pr-xima-informa-o-que-ele-vai-procurar-3c133d8db9d280ec8153d84fb2546bf6"
+    },
+    {
       "title": "Networking não acontece só em eventos. Ele acontece na rotina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -3143,7 +3148,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua estrutura acompanha o crescimento do seu negócio?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/08",
+      "date": "20/08",
       "missing": [
         "Design"
       ],
@@ -4489,8 +4494,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 7,
-    "total": 7
+    "prontas": 8,
+    "total": 8
   }
 };
 
@@ -4650,7 +4655,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Solar Coworking": {
-    "post": 7,
+    "post": 8,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
