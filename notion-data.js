@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 14:19:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 14:47:55 **/
 
-const LAST_UPDATE = '19/08/2026, 14:19:58';
+const LAST_UPDATE = '19/08/2026, 14:47:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -131,10 +131,10 @@ const FEED_DATA = {
   "Univendas": {
     "total": 4,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Terrartesã": {
     "total": 0,
@@ -220,9 +220,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 8,
     "postado": 3,
-    "agendado": 2,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -243,10 +243,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 8,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   }
 };
 
@@ -1598,7 +1598,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Oferecer saúde é investir no bem-estar e no desempenho da sua equipe.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [],
@@ -2683,7 +2683,7 @@ const LINHA_FEED_ITEMS = {
   "APROSSEG": [
     {
       "title": "Você escolheu seu carro em detalhes. Por que escolheria o seguro olhando só para o preço?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [],
@@ -2694,7 +2694,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Vai adesivar seu carro nessa eleição? Antes de colocar o adesivo, fale com seu corretor!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/08",
       "missing": [],
@@ -2751,7 +2751,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você não consegue prever o futuro. Mas pode decidir como enfrentá-lo.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "20/08",
       "missing": [],
@@ -3058,7 +3058,7 @@ const LINHA_FEED_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Conheceu um cliente no evento? Seu endereço pode ser a próxima informação que ele vai procurar.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [],
