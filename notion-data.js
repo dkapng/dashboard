@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 16:47:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 17:18:06 **/
 
-const LAST_UPDATE = '19/08/2026, 16:47:04';
+const LAST_UPDATE = '19/08/2026, 17:18:06';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -3890,17 +3890,17 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3ba33d8db9d2807e928fd8864d6d964f"
     },
     {
-      "title": "Story/stories",
+      "title": "Nem sempre a confiança entre os sócios é suficiente.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "20/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ba33d8db9d280b0b5d6f4c3f2bb921a"
+      "notionUrl": "https://app.notion.com/p/Nem-sempre-a-confian-a-entre-os-s-cios-suficiente-3ba33d8db9d280b0b5d6f4c3f2bb921a"
     },
     {
       "title": "Descontos no salário têm limites. Você sabe quais são?",
