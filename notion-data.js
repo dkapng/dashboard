@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 17:18:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 17:51:49 **/
 
-const LAST_UPDATE = '19/08/2026, 17:18:06';
+const LAST_UPDATE = '19/08/2026, 17:51:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -520,7 +520,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -3894,10 +3894,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "20/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-sempre-a-confian-a-entre-os-s-cios-suficiente-3ba33d8db9d280b0b5d6f4c3f2bb921a"
