@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 13:54:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 14:19:58 **/
 
-const LAST_UPDATE = '19/08/2026, 13:54:06';
+const LAST_UPDATE = '19/08/2026, 14:19:58';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -100,9 +100,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 10,
     "postado": 3,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 10,
@@ -115,10 +115,10 @@ const FEED_DATA = {
   "Jota Diesel": {
     "total": 5,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 5,
@@ -156,9 +156,9 @@ const FEED_DATA = {
     "total": 4,
     "pronto": 3,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 9,
@@ -219,10 +219,10 @@ const FEED_DATA = {
   "APROSSEG": {
     "total": 10,
     "pronto": 8,
-    "postado": 2,
+    "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -366,10 +366,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 0,
     "pronto": 0,
-    "postado": 2,
+    "postado": 3,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 6,
@@ -473,10 +473,10 @@ const STORIES_DATA = {
   "Stratto": {
     "total": 3,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
     "total": 2,
@@ -561,10 +561,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 2,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -1272,14 +1272,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Toda decisão importante dentro de uma empresa passa, de alguma forma, pelo financeiro.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "18/08",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "22/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-decis-o-importante-dentro-de-uma-empresa-passa-de-alguma-forma-pelo-financeiro-39133d8db9d28016b867cd8707f241ed"
     },
@@ -1476,8 +1474,8 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Desempenho-resultado-de-conhecimento-tecnologia-e-manuten-o-3a633d8db9d28098a640cd3c2ce850ee"
     },
     {
-      "title": "Na Jota Diesel você encontra manutenção completa para todos os tipos de injetores. Confira alguns exemplos:",
-      "status": "a_agendar",
+      "title": "Na Jota Diesel você encontra manutenção completa para todos os tipos de injetores. Confira alguns exemplos: mn",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "19/08",
       "missing": [],
@@ -1782,27 +1780,23 @@ const LINHA_FEED_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "Quem está sendo preparado para liderar sua organização daqui a 5 anos?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-est-sendo-preparado-para-liderar-sua-organiza-o-daqui-a-5-anos-3b833d8db9d28061a644e3a740810992"
     },
     {
       "title": "Sua organização tem uma causa forte. Mas sua estrutura consegue sustentá-la?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "18/08",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "19/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-organiza-o-tem-uma-causa-forte-Mas-sua-estrutura-consegue-sustent-la-3b833d8db9d280efaceecc4e0e0c9d02"
     },
@@ -2733,7 +2727,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se um imprevisto acontecesse hoje, você agradeceria pelas escolhas que fez ontem?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [],
@@ -3444,12 +3438,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "O PROBLEMA NÃO É A SEGUNDA FEIRA",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "19/08",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3815,7 +3807,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Hoje queremos abrir as portas da Stratto para você.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "19/08",
       "missing": [],
@@ -4027,7 +4019,7 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Comunicado",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "19/08",
       "missing": [],
@@ -4416,7 +4408,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Stratto": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 14
   },
   "Juntos contra o HPV": {
@@ -4444,7 +4436,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Rede Pangeia": {
-    "prontas": 1,
+    "prontas": 3,
     "total": 7
   },
   "Planos Seguros": {
