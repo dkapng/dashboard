@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 18:18:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 18:48:11 **/
 
-const LAST_UPDATE = '19/08/2026, 18:18:12';
+const LAST_UPDATE = '19/08/2026, 18:48:11';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -146,7 +146,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 14,
-    "pronto": 11,
+    "pronto": 13,
     "postado": 4,
     "agendado": 6,
     "agendado_coord": 0,
@@ -1630,10 +1630,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quais-d-vidas-podem-acompanhar-um-im-vel-3ba33d8db9d28050896bfe0fea2c19e5"
@@ -1644,10 +1643,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-pol-tica-interna-mal-elaborada-pode-gerar-problemas-trabalhistas-3ba33d8db9d28042a79eea2a71c7c30c"
@@ -1948,7 +1946,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Casas-Bahia-pede-recupera-o-judicial-O-que-a-contabilidade-de-uma-empresa-pode-ensinar-com-uma-cri-3c033d8db9d280dfbe53fea5c3b9910c"
@@ -1981,7 +1979,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Cuidado-com-a-empresa-que-cresce-sem-saber-quanto-realmente-sobra-Faturar-mais-n-o-significa-neces-3bb33d8db9d28027913ffbd9833d776a"
     },
     {
-      "title": "VOCÊ SABE QUANTO SEU PRODUTO VAI PRECISAR CUSTAR DEPOIS DA REFORMA? Não é apenas uma questão de imposto. É uma questão de margem.",
+      "title": "Você sabe quanto seu produto vai precisar custar depois da reforma? Não é apenas uma questão de imposto. É uma questão de margem.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/08",
@@ -1992,7 +1990,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/VOC-SABE-QUANTO-SEU-PRODUTO-VAI-PRECISAR-CUSTAR-DEPOIS-DA-REFORMA-N-o-apenas-uma-quest-o-de-impo-3bb33d8db9d2800aa014ea4127b86931"
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-quanto-seu-produto-vai-precisar-custar-depois-da-reforma-N-o-apenas-uma-quest-o-de-impo-3bb33d8db9d2800aa014ea4127b86931"
     },
     {
       "title": "A inteligência artificial vai acabar com a contabilidade?",
