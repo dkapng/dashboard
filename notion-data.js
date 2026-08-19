@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 06:02:40 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 06:56:32 **/
 
-const LAST_UPDATE = '19/08/2026, 06:02:40';
+const LAST_UPDATE = '19/08/2026, 06:56:32';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4665,7 +4665,7 @@ const FORMAT_COUNTS = {
 
 const AGENDA_COUNTS = {
   "AAFEC": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 1
   },
