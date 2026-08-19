@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 13:21:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 13:54:06 **/
 
-const LAST_UPDATE = '19/08/2026, 13:21:50';
+const LAST_UPDATE = '19/08/2026, 13:54:06';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -822,9 +822,9 @@ const LINHA_FEED_ITEMS = {
       "title": "Olá, nós somos a Ser Ponte",
       "status": "postado",
       "formato": "🖼️ Post",
-      "date": "18/08",
+      "date": "19/08",
       "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ol-n-s-somos-a-Ser-Ponte-3b933d8db9d280eb83e3d8b48825232e"
@@ -4029,7 +4029,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Comunicado",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "18/08",
+      "date": "19/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
