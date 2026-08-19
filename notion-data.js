@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 09:30:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 11:04:49 **/
 
-const LAST_UPDATE = '19/08/2026, 09:30:13';
+const LAST_UPDATE = '19/08/2026, 11:04:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -66,10 +66,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 15,
     "pronto": 11,
-    "postado": 7,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 6
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -82,19 +82,19 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 17,
     "pronto": 15,
-    "postado": 9,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7,
+    "a_agendar": 6,
     "st-paused": null
   },
   "Tramix": {
     "total": 13,
     "pronto": 10,
-    "postado": 9,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 13,
@@ -163,18 +163,18 @@ const FEED_DATA = {
   "Planos Seguros": {
     "total": 9,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Plannea": {
     "total": 18,
     "pronto": 14,
-    "postado": 7,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Ortobom": {
     "total": 7,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 18,
     "pronto": 14,
-    "postado": 12,
+    "postado": 13,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Finseg Leal": {
     "total": 12,
@@ -692,12 +692,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Entre Cantos e Contos Cariri 19/08",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -740,7 +738,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quer fazer parte do Coral AAFEC?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [],
@@ -822,7 +820,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Olá, nós somos a Ser Ponte",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/08",
       "missing": [],
@@ -1110,7 +1108,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Entrega rápida também impacta na produção",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [],
@@ -1887,7 +1885,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Os carros elétricos estão mudando o mercado de seguros. E não é apenas por serem elétricos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [],
@@ -2032,12 +2030,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A REFORMA TRIBUTÁRIA TAMBÉM CHEGA À NOTA FISCAL. CBS + IBS exigem adaptação dos documentos fiscais eletrônicos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2435,12 +2431,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O CEP onde uma menina nasce ainda influencia o futuro que ela pode construir",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "19/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -4406,7 +4400,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 20
   },
   "Travessias Híbridas": {
@@ -4458,7 +4452,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Plannea": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 18
   },
   "Ortobom": {
@@ -4470,7 +4464,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 19
   },
   "Finseg Leal": {
