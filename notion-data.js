@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/08/2026, 23:14:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 00:23:30 **/
 
-const LAST_UPDATE = '18/08/2026, 23:14:15';
+const LAST_UPDATE = '19/08/2026, 00:23:30';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -113,12 +113,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Jota Diesel": {
-    "total": 4,
+    "total": 5,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 5,
@@ -218,7 +218,7 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 10,
-    "pronto": 5,
+    "pronto": 8,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
@@ -1476,6 +1476,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Desempenho-resultado-de-conhecimento-tecnologia-e-manuten-o-3a633d8db9d28098a640cd3c2ce850ee"
+    },
+    {
+      "title": "Na Jota Diesel você encontra manutenção completa para todos os tipos de injetores. Confira alguns exemplos:",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "19/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Na-Jota-Diesel-voc-encontra-manuten-o-completa-para-todos-os-tipos-de-injetores-Confira-alguns-ex-26933d8db9d280589e46cfdb46eab3cd"
     }
   ],
   "Ventana": [
@@ -2687,14 +2700,23 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Você escolheu seu carro em detalhes. Por que escolheria o seguro olhando só para o preço?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-escolheu-seu-carro-em-detalhes-Por-que-escolheria-o-seguro-olhando-s-para-o-pre-o-3c133d8db9d280c1bee5e49c2ef0b58f"
+    },
+    {
       "title": "Vai adesivar seu carro nessa eleição? Antes de colocar o adesivo, fale com seu corretor!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vai-adesivar-seu-carro-nessa-elei-o-Antes-de-colocar-o-adesivo-fale-com-seu-corretor-3c033d8db9d28080ae95f15c2ff7ac26"
@@ -2746,27 +2768,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-patrim-nio-mais-importante-nem-sempre-o-que-tem-maior-valor-3a033d8db9d280bdbdcafdc722617dcf"
     },
     {
-      "title": "Quem planeja apenas os dias bons deixa o futuro nas mãos da sorte.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-planeja-apenas-os-dias-bons-deixa-o-futuro-nas-m-os-da-sorte-3a033d8db9d280078514d00d7e42b6e0"
-    },
-    {
       "title": "Você não consegue prever o futuro. Mas pode decidir como enfrentá-lo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "20/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-n-o-consegue-prever-o-futuro-Mas-pode-decidir-como-enfrent-lo-3a033d8db9d280cfa8c7c4ea013150db"
@@ -4418,8 +4425,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Jota Diesel": {
-    "prontas": 7,
-    "total": 7
+    "prontas": 8,
+    "total": 8
   },
   "Ventana": {
     "prontas": 0,
@@ -4532,7 +4539,7 @@ const FORMAT_COUNTS = {
   },
   "Jota Diesel": {
     "post": 4,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 3,
     "story": 1
