@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 17:51:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 18:18:12 **/
 
-const LAST_UPDATE = '19/08/2026, 17:51:49';
+const LAST_UPDATE = '19/08/2026, 18:18:12';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -146,7 +146,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 14,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 4,
     "agendado": 6,
     "agendado_coord": 0,
@@ -520,7 +520,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1639,7 +1639,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quais-d-vidas-podem-acompanhar-um-im-vel-3ba33d8db9d28050896bfe0fea2c19e5"
     },
     {
-      "title": "Uma política interna mal elaborada pode gerar problemas trabalhista",
+      "title": "Uma política interna mal elaborada pode gerar problemas trabalhistas.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/08",
@@ -1647,10 +1647,10 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-pol-tica-interna-mal-elaborada-pode-gerar-problemas-trabalhista-3ba33d8db9d28042a79eea2a71c7c30c"
+      "notionUrl": "https://app.notion.com/p/Uma-pol-tica-interna-mal-elaborada-pode-gerar-problemas-trabalhistas-3ba33d8db9d28042a79eea2a71c7c30c"
     },
     {
       "title": "Faturamento maior também pode significar novas responsabilidades fiscais.",
@@ -1658,10 +1658,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Faturamento-maior-tamb-m-pode-significar-novas-responsabilidades-fiscais-3ba33d8db9d280bb87ffca38ec209b87"
@@ -3877,17 +3876,15 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Story/stories",
+      "title": "Muitos problemas jurídicos começam em decisões tomadas sem uma análise prévia.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "27/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ba33d8db9d2807e928fd8864d6d964f"
+      "notionUrl": "https://app.notion.com/p/Muitos-problemas-jur-dicos-come-am-em-decis-es-tomadas-sem-uma-an-lise-pr-via-3ba33d8db9d2807e928fd8864d6d964f"
     },
     {
       "title": "Nem sempre a confiança entre os sócios é suficiente.",
