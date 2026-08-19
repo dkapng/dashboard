@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 16:00:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 16:47:04 **/
 
-const LAST_UPDATE = '19/08/2026, 16:00:49';
+const LAST_UPDATE = '19/08/2026, 16:47:04';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -824,7 +824,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ol-n-s-somos-a-Ser-Ponte-3b933d8db9d280eb83e3d8b48825232e"
@@ -846,7 +846,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "13/08",
       "missing": [],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-apoiar-a-Ser-Ponte-mas-n-o-sabe-como-3b933d8db9d2805ea0d2f61298b069af"
