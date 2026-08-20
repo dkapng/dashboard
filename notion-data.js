@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 12:04:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 12:57:03 **/
 
-const LAST_UPDATE = '20/08/2026, 12:04:23';
+const LAST_UPDATE = '20/08/2026, 12:57:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -169,9 +169,9 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Plannea": {
-    "total": 18,
+    "total": 19,
     "pronto": 17,
-    "postado": 8,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 1,
     "a_agendar": 9
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 19,
+    "total": 20,
     "pronto": 18,
-    "postado": 13,
+    "postado": 14,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 6
@@ -607,12 +607,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 2,
@@ -713,17 +713,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Feliz-dia-dos-pais-em-letra-menor-O-tempo-passa-voc-se-aposenta-mas-a-fam-lia-fica-3b233d8db9d2800da2decc996f816774"
     },
     {
-      "title": "Servidores fazendários aposentados antes de 1998 que possuem direito à revisão dos valores recebidos",
+      "title": "Servidores fazendários aposentados antes de 1998 possuem direito à revisão dos valores recebidos.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-que-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
+      "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
     },
     {
       "title": "Nosso grupo é do Balacobaco",
@@ -1938,13 +1938,25 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "Casas Bahia pede recuperação judicial. O que a contabilidade de uma empresa pode ensinar com uma crise de R$ 17,3 bilhões?",
+      "title": "Vaga para estagiário fiscal",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
+      "formato": "🖼️ Post",
       "date": "20/08",
       "missing": [
+        "Design",
         "Legenda"
       ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vaga-para-estagi-rio-fiscal-3c233d8db9d28047aeeed53b6a1f5a42"
+    },
+    {
+      "title": "Casas Bahia pede recuperação judicial. O que a contabilidade de uma empresa pode ensinar com uma crise de R$ 17,3 bilhões?",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
+      "date": "20/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2316,13 +2328,25 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Conteúdo Summit",
+      "title": "Horário de funcionamento",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
+      "formato": "🖼️ Post",
       "date": "20/08",
       "missing": [
+        "Design",
         "Legenda"
       ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Hor-rio-de-funcionamento-3c233d8db9d2808d852ffdb99e651ae5"
+    },
+    {
+      "title": "Conteúdo Summit",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
+      "date": "20/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -4058,7 +4082,21 @@ const LINHA_STORIES_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [],
   "Daniel Maia Advocacia": [],
-  "Conecta Assessoria": [],
+  "Conecta Assessoria": [
+    {
+      "title": "Aniversário da Soraya",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "20/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Soraya-3c233d8db9d280c5a30ff90e72adea48"
+    }
+  ],
   "Solar Coworking": [
     {
       "title": "Story/stories",
@@ -4361,8 +4399,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Plannea": {
-    "prontas": 9,
-    "total": 18
+    "prontas": 10,
+    "total": 19
   },
   "Ortobom": {
     "prontas": 12,
@@ -4373,8 +4411,8 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 13,
-    "total": 19
+    "prontas": 14,
+    "total": 20
   },
   "Finseg Leal": {
     "prontas": 12,
@@ -4495,7 +4533,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Plannea": {
-    "post": 16,
+    "post": 17,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
@@ -4516,7 +4554,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Grupo Mulheres do Brasil": {
-    "post": 17,
+    "post": 18,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
@@ -4555,7 +4593,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 4,
-    "story": 0
+    "story": 1
   },
   "Solar Coworking": {
     "post": 8,
