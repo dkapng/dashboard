@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 09:31:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 10:39:46 **/
 
-const LAST_UPDATE = '20/08/2026, 09:31:50';
+const LAST_UPDATE = '20/08/2026, 10:39:46';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -479,10 +479,10 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Juntos contra o HPV": {
-    "total": 2,
+    "total": 3,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 1,
     "a_agendar": 1
   },
@@ -530,9 +530,9 @@ const STORIES_DATA = {
     "total": 2,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 2,
@@ -3823,6 +3823,19 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Fórum Brasileiro de Filantropos e Investidores Sociais 2026",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "20/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/F-rum-Brasileiro-de-Filantropos-e-Investidores-Sociais-2026-3c233d8db9d280a9a37aec01ca66589c"
+    },
+    {
       "title": "Story/stories",
       "status": "agendado_coord",
       "formato": "📱 Story",
@@ -3837,7 +3850,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Você acredita que o câncer do colo do útero pode ser eliminado?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "20/08",
       "missing": [],
@@ -3941,7 +3954,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#dicadasemana",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "20/08",
       "missing": [],
@@ -4105,120 +4118,6 @@ const DEMANDAS_EXTRAS = {
       "date": "12/08"
     }
   ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Convite para enviar por e-mail",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convite-para-enviar-por-e-mail-3bf33d8db9d2809897addefaff75d09b",
-      "gestora": "Equipe",
-      "date": "18/08"
-    },
-    {
-      "title": "Placas para municípios",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-3b933d8db9d280cab8ebe5d0d616b1a4",
-      "gestora": "Equipe",
-      "date": "13/08"
-    },
-    {
-      "title": "I Simpósio | Capa para o site",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-o-site-3ad33d8db9d280c08397f1aa2972082d",
-      "gestora": "Equipe",
-      "date": "31/07"
-    },
-    {
-      "title": "I Simpósio | Capa para YouTube",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capa-para-YouTube-3ad33d8db9d2808fbf71e1c8f8b1e90b",
-      "gestora": "Equipe",
-      "date": "31/07"
-    },
-    {
-      "title": "I Simpósio | Certificados",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Certificados-3ad33d8db9d2803b9950f4769a73abbd",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Régua",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
-      "gestora": "Equipe",
-      "date": "28/07"
-    },
-    {
-      "title": "I Simpósio | Camisa",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Camisa-3a333d8db9d28041a567ea055d33f720",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Plaquinhas de tempo",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Plaquinhas-de-tempo-3a333d8db9d280658b21e84b4fc070fa",
-      "gestora": "Equipe",
-      "date": "24/07"
-    },
-    {
-      "title": "I Simpósio | Ecobag",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Ecobag-3a333d8db9d280389493f3a91d65f0b7",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Bloco de notas",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Bloco-de-notas-3a333d8db9d280bd99cbc76e073433f6",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Caneta",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Caneta-3a333d8db9d280eb8032ccfb20a48952",
-      "gestora": "Equipe",
-      "date": "24/07"
-    },
-    {
-      "title": "I Simpósio | Credencial e cordão personalizado",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Credencial-e-cord-o-personalizado-3a333d8db9d280b8a108cb2356b3d28f",
-      "gestora": "Equipe",
-      "date": "30/07"
-    },
-    {
-      "title": "I Simpósio | Capas para Facebook e LinkedIn",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Capas-para-Facebook-e-LinkedIn-3a333d8db9d2803fb364eab781f6f021",
-      "gestora": "Equipe",
-      "date": "24/07"
-    },
-    {
-      "title": "I Simpósio | Backdrops",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
-      "gestora": "Equipe",
-      "date": "30/07"
-    }
-  ],
   "Univendas": [
     {
       "title": "Campanha de agosto de 2026",
@@ -4281,16 +4180,6 @@ const DEMANDAS_EXTRAS = {
       "date": "17/06"
     }
   ],
-  "Conecta Assessoria": [
-    {
-      "title": "Convite para happy hour",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Convite-para-happy-hour-3b833d8db9d2800b989afbc955cc4bd8",
-      "gestora": "Equipe",
-      "date": "12/08"
-    }
-  ],
   "Finseg Leal": [
     {
       "title": "Vídeo para tela - auto",
@@ -4317,6 +4206,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
       "gestora": "Equipe",
       "date": "22/08"
+    }
+  ],
+  "Juntos contra o HPV": [
+    {
+      "title": "I Simpósio | Régua",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
+      "gestora": "Equipe",
+      "date": "28/07"
+    },
+    {
+      "title": "I Simpósio | Backdrops",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
+      "gestora": "Equipe",
+      "date": "30/07"
     }
   ],
   "Ortobom": [
@@ -4536,7 +4443,7 @@ const FORMAT_COUNTS = {
     "carrossel": 5,
     "foto": 0,
     "video": 5,
-    "story": 2
+    "story": 3
   },
   "Jota Diesel": {
     "post": 4,
