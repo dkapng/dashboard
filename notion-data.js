@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 15:27:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 16:09:42 **/
 
-const LAST_UPDATE = '20/08/2026, 15:27:05';
+const LAST_UPDATE = '20/08/2026, 16:09:42';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -153,12 +153,12 @@ const FEED_DATA = {
     "a_agendar": 4
   },
   "Rede Pangeia": {
-    "total": 4,
+    "total": 6,
     "pronto": 3,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 9,
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
-    "pronto": 18,
+    "pronto": 19,
     "postado": 14,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1346,7 +1346,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/SAVE-THE-DATE-Vem-a-o-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-3b133d8db9d2800f8407d82ac8f73d38"
     },
     {
-      "title": "O que acontecerá no I Simpósio do movimento do juntos contra o HPV? Muito mais do que palestras. Um encontro para compartilhar conhecimento e construir soluções. ",
+      "title": "O que acontecerá no I Simpósio do movimento do juntos contra o HPV? Muito mais do que palestras. Um encontro para compartilhar conhecimento e construir soluções.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "25/08",
@@ -1771,6 +1771,34 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Rede Pangeia": [
+    {
+      "title": "Se todas as decisões passam por você… se as informações estão concentradas em você… se a equipe precisa esperar sua aprovação… talvez exista uma dependência maior do que deveria!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-todas-as-decis-es-passam-por-voc-se-as-informa-es-est-o-concentradas-em-voc-se-a-equipe-prec-3b833d8db9d280098eefd34d81e3ac46"
+    },
+    {
+      "title": "Como desenvolver novas lideranças dentro de uma organização social?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-desenvolver-novas-lideran-as-dentro-de-uma-organiza-o-social-3b833d8db9d2803fadffe4a1a4046095"
+    },
     {
       "title": "Quem está sendo preparado para liderar sua organização daqui a 5 anos?",
       "status": "agendado",
@@ -2326,10 +2354,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hor-rio-de-funcionamento-3c233d8db9d2808d852ffdb99e651ae5"
@@ -3853,7 +3880,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/F-rum-Brasileiro-de-Filantropos-e-Investidores-Sociais-2026-3c233d8db9d280a9a37aec01ca66589c"
     },
     {
-      "title": "Story/stories",
+      "title": "Falta menos de um mês! Você já garantiu sua inscrição? ",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/08",
@@ -3863,7 +3890,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ab33d8db9d28005911ef1966f3384f4"
+      "notionUrl": "https://app.notion.com/p/Falta-menos-de-um-m-s-Voc-j-garantiu-sua-inscri-o-3ab33d8db9d28005911ef1966f3384f4"
     },
     {
       "title": "Você acredita que o câncer do colo do útero pode ser eliminado?",
@@ -4518,7 +4545,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "Rede Pangeia": {
-    "post": 3,
+    "post": 5,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
