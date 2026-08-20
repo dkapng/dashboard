@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 16:09:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 16:53:20 **/
 
-const LAST_UPDATE = '20/08/2026, 16:09:42';
+const LAST_UPDATE = '20/08/2026, 16:53:20';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -154,7 +154,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 6,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -528,7 +528,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -820,7 +820,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/08",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ol-n-s-somos-a-Ser-Ponte-3b933d8db9d280eb83e3d8b48825232e"
@@ -1160,7 +1160,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-exemplo-n-o-a-melhor-forma-de-ensinar-a-nica-Albert-Schweitzer-3b233d8db9d280d6b55ac57c33ba56d5"
     },
     {
-      "title": "\nQuer conhecer a metodologia da Stratto? Fale com nossa equipe pelo WhatsApp: ",
+      "title": "Quer conhecer a metodologia da Stratto? Fale com nossa equipe pelo WhatsApp: ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
@@ -1777,10 +1777,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-todas-as-decis-es-passam-por-voc-se-as-informa-es-est-o-concentradas-em-voc-se-a-equipe-prec-3b833d8db9d280098eefd34d81e3ac46"
@@ -1791,10 +1790,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-desenvolver-novas-lideran-as-dentro-de-uma-organiza-o-social-3b833d8db9d2803fadffe4a1a4046095"
@@ -1827,10 +1825,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-pessoas-se-mobilizam-causas-ganham-for-a-Quando-essa-mobiliza-o-se-organiza-o-impacto-pod-3b833d8db9d280b7ac7fc8839431a491"
@@ -3988,11 +3985,9 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "25/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/dicadasemana-3b833d8db9d280869893ccee1bb95924"
     },
@@ -4150,7 +4145,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Apresentação para patrocinadores",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Apresenta-o-para-patrocinadores-3c233d8db9d280869352d8c535ffeb35",
       "gestora": "Equipe",
       "date": "21T11:30:00.000/08"
@@ -4712,7 +4707,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Grupo Mulheres do Brasil": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 1
   },
