@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 10:39:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 11:27:22 **/
 
-const LAST_UPDATE = '20/08/2026, 10:39:46';
+const LAST_UPDATE = '20/08/2026, 11:27:22';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4130,10 +4130,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Plannea": [
     {
-      "title": "Boa-vindas Marcelo",
+      "title": "Boas-vindas Marcelo",
       "priority": "p",
       "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Boa-vindas-Marcelo-3bc33d8db9d28037a9e9f37cc67b534b",
+      "notionUrl": "https://app.notion.com/p/Boas-vindas-Marcelo-3bc33d8db9d28037a9e9f37cc67b534b",
       "gestora": "Equipe",
       "date": "12/08"
     },
