@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 16:53:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 17:19:37 **/
 
-const LAST_UPDATE = '20/08/2026, 16:53:20';
+const LAST_UPDATE = '20/08/2026, 17:19:37';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -185,12 +185,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "ItalaP": {
-    "total": 6,
+    "total": 7,
     "pronto": 6,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
@@ -2277,6 +2277,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "ItalaP": [
+    {
+      "title": "Você voltou a rotina. Mas seu corpo conseguiu acompanhar esse ritmo?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-voltou-a-rotina-Mas-seu-corpo-conseguiu-acompanhar-esse-ritmo-3c233d8db9d280f59233d49c81c64f36"
+    },
     {
       "title": "Da gestação aos primeiros anos de vida, existe um cuidado que faz toda a diferença.",
       "status": "agendado",
@@ -4428,8 +4441,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "ItalaP": {
-    "prontas": 10,
-    "total": 12
+    "prontas": 11,
+    "total": 13
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 14,
@@ -4568,7 +4581,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "ItalaP": {
-    "post": 6,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 6,
