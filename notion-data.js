@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 20:44:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 21:48:02 **/
 
-const LAST_UPDATE = '19/08/2026, 20:44:05';
+const LAST_UPDATE = '19/08/2026, 21:48:02';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -170,7 +170,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 18,
-    "pronto": 14,
+    "pronto": 17,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 1,
@@ -193,12 +193,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 18,
-    "pronto": 14,
+    "total": 19,
+    "pronto": 15,
     "postado": 13,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Finseg Leal": {
     "total": 12,
@@ -1943,10 +1943,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "20/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Casas-Bahia-pede-recupera-o-judicial-O-que-a-contabilidade-de-uma-empresa-pode-ensinar-com-uma-cri-3c033d8db9d280dfbe53fea5c3b9910c"
@@ -1984,10 +1983,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quanto-seu-produto-vai-precisar-custar-depois-da-reforma-N-o-apenas-uma-quest-o-de-impo-3bb33d8db9d2800aa014ea4127b86931"
@@ -1998,10 +1996,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-intelig-ncia-artificial-vai-acabar-com-a-contabilidade-3bb33d8db9d2805484c1f984c32f7f2a"
@@ -2390,8 +2387,22 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/As-meninas-estudam-mais-Mas-isso-ainda-n-o-significa-igualdade-3b233d8db9d280a0bf2ef15faec08dbd"
+    },
+    {
+      "title": "Quando abdicar da própria em vida em prol do outro não é escolha, você vira refém",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-abdicar-da-pr-pria-em-vida-em-prol-do-outro-n-o-escolha-voc-vira-ref-m-3b233d8db9d280c4abeaeff6f47e7e25"
     },
     {
       "title": "Quanto custa viver sem tempo?",
@@ -2399,12 +2410,11 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-custa-viver-sem-tempo-3b233d8db9d2801696defab865684d38"
     },
     {
@@ -4602,7 +4612,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Grupo Mulheres do Brasil": {
-    "post": 16,
+    "post": 17,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
