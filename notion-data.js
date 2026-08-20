@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 12:57:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 13:31:07 **/
 
-const LAST_UPDATE = '20/08/2026, 12:57:03';
+const LAST_UPDATE = '20/08/2026, 13:31:07';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -65,7 +65,7 @@ const NICHES = {
 const FEED_DATA = {
   "AAFEC": {
     "total": 15,
-    "pronto": 11,
+    "pronto": 14,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
@@ -643,10 +643,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Fortaleza-3ba33d8db9d28024a33ed1fdbc4a8ee4"
@@ -671,10 +670,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "25/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Do-ICMS-ao-IBS-a-administra-o-fazend-ria-tamb-m-est-mudando-3ba33d8db9d280b39bf7cb8c1ff31179"
@@ -717,10 +715,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
@@ -4091,7 +4087,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Soraya-3c233d8db9d280c5a30ff90e72adea48"
