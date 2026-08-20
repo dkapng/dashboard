@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 21:48:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/08/2026, 23:12:55 **/
 
-const LAST_UPDATE = '19/08/2026, 21:48:02';
+const LAST_UPDATE = '19/08/2026, 23:12:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -194,7 +194,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 15,
+    "pronto": 18,
     "postado": 13,
     "agendado": 0,
     "agendado_coord": 0,
@@ -2321,10 +2321,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "20/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conte-do-Summit-3c033d8db9d28007a1cedd841ab45dc6"
@@ -2382,10 +2381,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/As-meninas-estudam-mais-Mas-isso-ainda-n-o-significa-igualdade-3b233d8db9d280a0bf2ef15faec08dbd"
@@ -2396,10 +2394,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-abdicar-da-pr-pria-em-vida-em-prol-do-outro-n-o-escolha-voc-vira-ref-m-3b233d8db9d280c4abeaeff6f47e7e25"
