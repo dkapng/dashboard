@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 11:27:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 12:04:23 **/
 
-const LAST_UPDATE = '20/08/2026, 11:27:22';
+const LAST_UPDATE = '20/08/2026, 12:04:23';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -109,8 +109,8 @@ const FEED_DATA = {
     "pronto": 7,
     "postado": 1,
     "agendado": 6,
-    "agendado_coord": 1,
-    "a_agendar": 2
+    "agendado_coord": 0,
+    "a_agendar": 3
   },
   "Jota Diesel": {
     "total": 5,
@@ -483,8 +483,8 @@ const STORIES_DATA = {
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 1,
-    "a_agendar": 1
+    "agendado_coord": 0,
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 1,
@@ -1351,14 +1351,14 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que acontecerá no I Simpósio do movimento do juntos contra o HPV? Muito mais do que palestras. Um encontro para compartilhar conhecimento e construir soluções. ",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "25/08",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontecer-no-I-Simp-sio-do-movimento-do-juntos-contra-o-HPV-Muito-mais-do-que-palestras-Um--3ab33d8db9d280559a78df158e2350d5"
     },
@@ -3837,14 +3837,14 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story/stories",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/08",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3ab33d8db9d28005911ef1966f3384f4"
     },
