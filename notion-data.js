@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 13:31:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 14:21:23 **/
 
-const LAST_UPDATE = '20/08/2026, 13:31:07';
+const LAST_UPDATE = '20/08/2026, 14:21:23';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -170,11 +170,11 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 19,
-    "pronto": 17,
-    "postado": 9,
+    "pronto": 18,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Ortobom": {
     "total": 7,
@@ -302,10 +302,10 @@ const VIDEO_DATA = {
   "Jota Diesel": {
     "total": 3,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -521,10 +521,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 4,
     "pronto": 4,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 2,
@@ -608,7 +608,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1935,14 +1935,11 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Vaga para estagiário fiscal",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vaga-para-estagi-rio-fiscal-3c233d8db9d28047aeeed53b6a1f5a42"
@@ -3339,7 +3336,7 @@ const LINHA_VIDEO_ITEMS = {
   "Jota Diesel": [
     {
       "title": "Conte com a Jota",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "20/08",
       "missing": [],
@@ -3926,7 +3923,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Nem sempre a confiança entre os sócios é suficiente.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "20/08",
       "missing": [],
@@ -4084,10 +4081,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "20/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-da-Soraya-3c233d8db9d280c5a30ff90e72adea48"
@@ -4124,6 +4119,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "I Simpósio | Apresentação para patrocinadores",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Apresenta-o-para-patrocinadores-3c233d8db9d280869352d8c535ffeb35",
+      "gestora": "Equipe",
+      "date": "21T11:30:00.000/08"
+    },
+    {
+      "title": "I Simpósio | Régua",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
+      "gestora": "Equipe",
+      "date": "28/07"
+    },
+    {
+      "title": "I Simpósio | Backdrops",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
+      "gestora": "Equipe",
+      "date": "30/07"
+    }
+  ],
   "Solar Coworking": [
     {
       "title": "Aniversario Carla",
@@ -4240,24 +4261,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
       "gestora": "Equipe",
       "date": "22/08"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "I Simpósio | Régua",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
-      "gestora": "Equipe",
-      "date": "28/07"
-    },
-    {
-      "title": "I Simpósio | Backdrops",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
-      "gestora": "Equipe",
-      "date": "30/07"
     }
   ],
   "Ortobom": [
@@ -4395,7 +4398,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Plannea": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 19
   },
   "Ortobom": {
