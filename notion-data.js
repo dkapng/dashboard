@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 12:02:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 12:56:23 **/
 
-const LAST_UPDATE = '21/08/2026, 12:02:01';
+const LAST_UPDATE = '21/08/2026, 12:56:23';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -90,7 +90,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 15,
-    "pronto": 11,
+    "pronto": 14,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1009,15 +1009,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Os-z-peres-Tramix-s-o-produzidos-em-nylon-sint-tico-de-alta-resist-ncia-3bf33d8db9d280a4abade4493e47ea2f"
     },
     {
-      "title": "A melhor linha, muitas vezes, é aquela que desaparece no resultado final ",
+      "title": "A melhor linha, muitas vezes, é aquela que desaparece no resultado final",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-melhor-linha-muitas-vezes-aquela-que-desaparece-no-resultado-final-3bf33d8db9d2807c95c3e5f94493f54b"
@@ -1028,10 +1027,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Linha-reta-overloque-ou-pesponto-Cada-uma-tem-seu-papel-3bf33d8db9d2806c8983c09f4b7abfa3"
@@ -1042,10 +1040,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-20-anos-ensinam-sobre-qualidade-3bf33d8db9d280c2a9cbd2fb16de2818"
@@ -1432,14 +1429,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-estamos-construindo-hoje-definir-a-sa-de-das-pr-ximas-gera-es-39833d8db9d2801788baec3c850bf841"
     },
     {
-      "title": "Quando diferentes setores da sociedade civil dão as mãos, o impacto deixa de ser local e vira política pública. A força institucional por trás do movimento Juntos Contra o HPV.",
+      "title": "Quando diferentes setores da sociedade civil dão as mãos, o impacto deixa de ser local e vira política pública. A força institucional por trás do Movimento Juntos Contra o HPV.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-diferentes-setores-da-sociedade-civil-d-o-as-m-os-o-impacto-deixa-de-ser-local-e-vira-pol-ti-39833d8db9d2809fb09dda9a3fca59de"
@@ -3911,7 +3908,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/F-rum-Brasileiro-de-Filantropos-e-Investidores-Sociais-2026-3c233d8db9d280a9a37aec01ca66589c"
     },
     {
-      "title": "Falta menos de um mês! Você já garantiu sua inscrição? ",
+      "title": "Falta menos de um mês! Você já garantiu sua inscrição?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/08",
