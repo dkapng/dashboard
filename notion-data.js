@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 18:16:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 18:46:22 **/
 
-const LAST_UPDATE = '21/08/2026, 18:16:08';
+const LAST_UPDATE = '21/08/2026, 18:46:22';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -798,7 +798,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conselho-Gestor-da-ZEIS-Cais-do-Porto-3c333d8db9d280318381c390079860b9"
@@ -844,7 +844,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "13/08",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-apoiar-a-Ser-Ponte-mas-n-o-sabe-como-3b933d8db9d2805ea0d2f61298b069af"
@@ -914,7 +914,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ser-mulher-representa-em-m-dia-10-horas-semanais-a-mais-de-trabalho-dom-stico-e-de-cuidado-39733d8db9d2802c9dc5e3ce7162d868"
