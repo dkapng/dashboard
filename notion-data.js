@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 08:18:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 08:49:46 **/
 
-const LAST_UPDATE = '21/08/2026, 08:18:17';
+const LAST_UPDATE = '21/08/2026, 08:49:46';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -171,10 +171,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 19,
     "pronto": 18,
-    "postado": 10,
+    "postado": 11,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Ortobom": {
     "total": 7,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 20,
     "pronto": 19,
-    "postado": 14,
+    "postado": 16,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Finseg Leal": {
     "total": 12,
@@ -2035,12 +2035,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu cadastro empresarial está realmente atualizado? A Receita atualizou as regras para suspensão de inscrições.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2360,12 +2358,10 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Horário de funcionamento",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "20/08",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "21/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2470,12 +2466,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem cuida de quem cuida?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -4433,7 +4427,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Plannea": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 19
   },
   "Ortobom": {
@@ -4445,7 +4439,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 14,
+    "prontas": 16,
     "total": 20
   },
   "Finseg Leal": {
