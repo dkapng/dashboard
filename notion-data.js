@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 20/08/2026, 23:19:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 00:28:03 **/
 
-const LAST_UPDATE = '20/08/2026, 23:19:42';
+const LAST_UPDATE = '21/08/2026, 00:28:03';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4158,7 +4158,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Apresentação para patrocinadores",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Apresenta-o-para-patrocinadores-3c233d8db9d280869352d8c535ffeb35",
       "gestora": "Equipe",
       "date": "21T11:30:00.000/08"
