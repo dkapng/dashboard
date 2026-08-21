@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 18:46:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 19:15:28 **/
 
-const LAST_UPDATE = '21/08/2026, 18:46:22';
+const LAST_UPDATE = '21/08/2026, 19:15:28';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 18,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
@@ -795,10 +795,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conselho-Gestor-da-ZEIS-Cais-do-Porto-3c333d8db9d280318381c390079860b9"
@@ -844,7 +842,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "13/08",
       "missing": [],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-apoiar-a-Ser-Ponte-mas-n-o-sabe-como-3b933d8db9d2805ea0d2f61298b069af"
@@ -3333,7 +3331,7 @@ const LINHA_VIDEO_ITEMS = {
   "Ser Ponte": [],
   "Tramix": [
     {
-      "title": "POV: você sabe onde encontrar a linha perfeita ",
+      "title": "POV: você sabe onde encontrar a linha perfeita",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "21/08",
@@ -4258,7 +4256,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
       "gestora": "Equipe",
-      "date": "21/08"
+      "date": "24/08"
     },
     {
       "title": "Convocatória para Brechós Comunitários",
