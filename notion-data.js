@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 20:16:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 20:45:45 **/
 
-const LAST_UPDATE = '21/08/2026, 20:16:24';
+const LAST_UPDATE = '21/08/2026, 20:45:45';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -1380,10 +1380,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "25/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontecer-no-I-Simp-sio-do-movimento-do-juntos-contra-o-HPV-Muito-mais-do-que-palestras-Um--3ab33d8db9d280559a78df158e2350d5"
@@ -1426,10 +1424,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-estamos-construindo-hoje-definir-a-sa-de-das-pr-ximas-gera-es-39833d8db9d2801788baec3c850bf841"
