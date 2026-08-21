@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 12:56:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 13:27:00 **/
 
-const LAST_UPDATE = '21/08/2026, 12:56:23';
+const LAST_UPDATE = '21/08/2026, 13:27:00';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -609,10 +609,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 2,
@@ -3898,7 +3898,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Fórum Brasileiro de Filantropos e Investidores Sociais 2026",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "20/08",
+      "date": "21/08",
       "missing": [
         "Design"
       ],
@@ -4131,7 +4131,7 @@ const LINHA_STORIES_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Aniversário da Soraya",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "20/08",
       "missing": [],
@@ -4176,7 +4176,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Apresentação para patrocinadores",
       "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Apresenta-o-para-patrocinadores-3c233d8db9d280869352d8c535ffeb35",
       "gestora": "Equipe",
       "date": "21T11:30:00.000/08"
@@ -4460,7 +4460,7 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 11,
-    "total": 13
+    "total": 14
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 16,
