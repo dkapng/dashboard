@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 13:27:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 14:00:16 **/
 
-const LAST_UPDATE = '21/08/2026, 13:27:00';
+const LAST_UPDATE = '21/08/2026, 14:00:16';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -185,12 +185,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "ItalaP": {
-    "total": 7,
+    "total": 9,
     "pronto": 6,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
@@ -2299,6 +2299,34 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "ItalaP": [
+    {
+      "title": "Homograma normal significa que você está saudável? ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Homograma-normal-significa-que-voc-est-saud-vel-3c333d8db9d280ba9843e5a3983b9b8b"
+    },
+    {
+      "title": "Você só faz exame quando sente alguma coisa? Esse hábito pode estar fazendo você chegar tarde demais! ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-s-faz-exame-quando-sente-alguma-coisa-Esse-h-bito-pode-estar-fazendo-voc-chegar-tarde-demais-3c333d8db9d280d79118d3d1e61f9908"
+    },
     {
       "title": "Você voltou a rotina. Mas seu corpo conseguiu acompanhar esse ritmo?",
       "status": "a_agendar",
@@ -4460,7 +4488,7 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 11,
-    "total": 14
+    "total": 16
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 16,
@@ -4599,7 +4627,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "ItalaP": {
-    "post": 7,
+    "post": 9,
     "carrossel": 0,
     "foto": 0,
     "video": 6,
