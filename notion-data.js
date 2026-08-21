@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 19:15:28 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 19:47:57 **/
 
-const LAST_UPDATE = '21/08/2026, 19:15:28';
+const LAST_UPDATE = '21/08/2026, 19:47:57';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -84,8 +84,8 @@ const FEED_DATA = {
     "pronto": 13,
     "postado": 10,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 7,
+    "agendado_coord": 1,
+    "a_agendar": 6,
     "st-paused": null
   },
   "Tramix": {
@@ -943,13 +943,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mais da metade dos lares do Ceará são chefiados por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "24/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-s-o-chefiados-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-l-39733d8db9d2801b9ce7d623d765dfc8"
@@ -1383,7 +1383,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontecer-no-I-Simp-sio-do-movimento-do-juntos-contra-o-HPV-Muito-mais-do-que-palestras-Um--3ab33d8db9d280559a78df158e2350d5"
@@ -3336,9 +3336,9 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "21/08",
       "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/POV-voc-sabe-onde-encontrar-a-linha-perfeita-3c333d8db9d280a8ba01d46a53e92151"
     },
     {
