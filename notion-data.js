@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 14:34:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 15:25:35 **/
 
-const LAST_UPDATE = '21/08/2026, 14:34:27';
+const LAST_UPDATE = '21/08/2026, 15:25:35';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 17,
+    "total": 18,
     "pronto": 15,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6,
+    "a_agendar": 7,
     "st-paused": null
   },
   "Tramix": {
@@ -186,7 +186,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 9,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -801,6 +801,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Travessias Híbridas": [],
   "Ser Ponte": [
+    {
+      "title": "Conselho Gestor da ZEIS Cais do Porto",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "21/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Conselho-Gestor-da-ZEIS-Cais-do-Porto-3c333d8db9d280318381c390079860b9"
+    },
     {
       "title": "Renda não resolve tudo. Mas a falta dela limita muita coisa",
       "status": "a_agendar",
@@ -2330,10 +2343,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-voltou-a-rotina-Mas-seu-corpo-conseguiu-acompanhar-esse-ritmo-3c233d8db9d280f59233d49c81c64f36"
@@ -4433,8 +4444,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 18,
+    "total": 18
   },
   "Tramix": {
     "prontas": 11,
@@ -4535,7 +4546,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 7,
-    "carrossel": 10,
+    "carrossel": 11,
     "foto": 0,
     "video": 0,
     "story": 3
