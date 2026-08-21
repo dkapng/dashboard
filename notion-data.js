@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 11:26:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 12:02:01 **/
 
-const LAST_UPDATE = '21/08/2026, 11:26:15';
+const LAST_UPDATE = '21/08/2026, 12:02:01';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -90,7 +90,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 15,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1045,7 +1045,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-20-anos-ensinam-sobre-qualidade-3bf33d8db9d280c2a9cbd2fb16de2818"
@@ -1056,10 +1056,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-de-50-cores-de-fios-e-linhas-para-acompanhar-cada-cria-o-3bf33d8db9d2803da514e415392f3e2e"
