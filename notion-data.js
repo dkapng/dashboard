@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 10:38:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 11:26:15 **/
 
-const LAST_UPDATE = '21/08/2026, 10:38:50';
+const LAST_UPDATE = '21/08/2026, 11:26:15';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,12 +89,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Tramix": {
-    "total": 13,
+    "total": 15,
     "pronto": 10,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 13,
@@ -1023,6 +1023,34 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-melhor-linha-muitas-vezes-aquela-que-desaparece-no-resultado-final-3bf33d8db9d2807c95c3e5f94493f54b"
     },
     {
+      "title": "Linha reta, overloque ou pesponto? Cada uma tem seu papel",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Linha-reta-overloque-ou-pesponto-Cada-uma-tem-seu-papel-3bf33d8db9d2806c8983c09f4b7abfa3"
+    },
+    {
+      "title": "O que 20 anos ensinam sobre qualidade?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-20-anos-ensinam-sobre-qualidade-3bf33d8db9d280c2a9cbd2fb16de2818"
+    },
+    {
       "title": "Mais de 50 cores de fios e linhas para acompanhar cada criação",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1031,7 +1059,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-de-50-cores-de-fios-e-linhas-para-acompanhar-cada-cria-o-3bf33d8db9d2803da514e415392f3e2e"
@@ -4491,7 +4519,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Tramix": {
-    "post": 12,
+    "post": 14,
     "carrossel": 0,
     "foto": 1,
     "video": 1,
