@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 15:25:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 16:05:16 **/
 
-const LAST_UPDATE = '21/08/2026, 15:25:35';
+const LAST_UPDATE = '21/08/2026, 16:05:16';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -64,12 +64,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "AAFEC": {
-    "total": 15,
-    "pronto": 14,
+    "total": 14,
+    "pronto": 13,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Travessias Híbridas": {
     "total": 0,
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 18,
-    "pronto": 15,
+    "pronto": 13,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
@@ -276,9 +276,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Tramix": {
-    "total": 1,
-    "pronto": 1,
-    "postado": 1,
+    "total": 2,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -465,10 +465,10 @@ const STORIES_DATA = {
   "Tramix": {
     "total": 2,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 3,
@@ -668,7 +668,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Do ICMS ao IBS: a administração fazendária também está mudando",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/08",
+      "date": "28/08",
       "missing": [
         "Legenda"
       ],
@@ -681,7 +681,7 @@ const LINHA_FEED_ITEMS = {
       "title": "FUNDAF: por que esse fundo interessa a categoria fazendária?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/08",
+      "date": "25/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -711,21 +711,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Feliz-dia-dos-pais-em-letra-menor-O-tempo-passa-voc-se-aposenta-mas-a-fam-lia-fica-3b233d8db9d2800da2decc996f816774"
     },
     {
-      "title": "Servidores fazendários aposentados antes de 1998 possuem direito à revisão dos valores recebidos.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "24/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
-    },
-    {
       "title": "Nosso grupo é do Balacobaco",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/08",
+      "date": "24/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -909,8 +898,10 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "19/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-diz-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
@@ -923,7 +914,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ser-mulher-representa-em-m-dia-10-horas-semanais-a-mais-de-trabalho-dom-stico-e-de-cuidado-39733d8db9d2802c9dc5e3ce7162d868"
@@ -955,8 +946,10 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-s-o-chefiados-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-l-39733d8db9d2801b9ce7d623d765dfc8"
@@ -1064,7 +1057,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Mais de 50 cores de fios e linhas para acompanhar cada criação",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/08",
+      "date": "24/08",
       "missing": [
         "Legenda"
       ],
@@ -3300,7 +3293,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Academia",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "28/08",
+      "date": "20/08",
       "missing": [
         "Legenda"
       ],
@@ -3313,7 +3306,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Antonio Idalmir",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "19/08",
+      "date": "27/08",
       "missing": [
         "Legenda"
       ],
@@ -3337,6 +3330,17 @@ const LINHA_VIDEO_ITEMS = {
   "Travessias Híbridas": [],
   "Ser Ponte": [],
   "Tramix": [
+    {
+      "title": "POV: você sabe onde encontrar a linha perfeita ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "21/08",
+      "missing": [],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/POV-voc-sabe-onde-encontrar-a-linha-perfeita-3c333d8db9d280a8ba01d46a53e92151"
+    },
     {
       "title": "Vídeo de dia dos pais",
       "status": "postado",
@@ -3881,9 +3885,9 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "O trabalho da confecção termina quando a peça sai da máquina? ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "06/08",
+      "date": "21/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4420,6 +4424,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Ortobom": "confirmada",
   "Univendas": "marcada",
   "Planos Seguros": "marcada",
   "Solar Coworking": "confirmada",
@@ -4436,8 +4441,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "AAFEC": {
-    "prontas": 15,
-    "total": 20
+    "prontas": 14,
+    "total": 19
   },
   "Travessias Híbridas": {
     "prontas": 0,
@@ -4448,8 +4453,8 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Tramix": {
-    "prontas": 11,
-    "total": 16
+    "prontas": 12,
+    "total": 17
   },
   "Stratto": {
     "prontas": 12,
@@ -4532,7 +4537,7 @@ const LEGENDAS_DATA = {
 const FORMAT_COUNTS = {
   "AAFEC": {
     "post": 12,
-    "carrossel": 3,
+    "carrossel": 2,
     "foto": 0,
     "video": 5,
     "story": 2
@@ -4555,7 +4560,7 @@ const FORMAT_COUNTS = {
     "post": 14,
     "carrossel": 0,
     "foto": 1,
-    "video": 1,
+    "video": 2,
     "story": 2
   },
   "Stratto": {
@@ -4766,7 +4771,7 @@ const AGENDA_COUNTS = {
   },
   "Ortobom": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "ItalaP": {
