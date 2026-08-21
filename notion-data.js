@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 17:46:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 18:16:08 **/
 
-const LAST_UPDATE = '21/08/2026, 17:46:58';
+const LAST_UPDATE = '21/08/2026, 18:16:08';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,7 +81,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 18,
-    "pronto": 13,
+    "pronto": 12,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
@@ -923,9 +923,11 @@ const LINHA_FEED_ITEMS = {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "21/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "date": "24/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
