@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 14:00:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/08/2026, 14:34:27 **/
 
-const LAST_UPDATE = '21/08/2026, 14:00:16';
+const LAST_UPDATE = '21/08/2026, 14:34:27';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -106,7 +106,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -1433,10 +1433,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-diferentes-setores-da-sociedade-civil-d-o-as-m-os-o-impacto-deixa-de-ser-local-e-vira-pol-ti-39833d8db9d2809fb09dda9a3fca59de"
@@ -2335,7 +2333,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-voltou-a-rotina-Mas-seu-corpo-conseguiu-acompanhar-esse-ritmo-3c233d8db9d280f59233d49c81c64f36"
@@ -4766,9 +4764,9 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Grupo Mulheres do Brasil": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 0,
-    "evento": 1
+    "evento": 2
   },
   "Finseg Leal": {
     "reuniao": 0,
