@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 12:44:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 13:15:57 **/
 
-const LAST_UPDATE = '23/08/2026, 12:44:12';
+const LAST_UPDATE = '23/08/2026, 13:15:57';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -186,7 +186,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 10,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -2333,10 +2333,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-s-faz-exame-quando-sente-alguma-coisa-Esse-h-bito-pode-estar-fazendo-voc-chegar-tarde-demais-3c333d8db9d280d79118d3d1e61f9908"
