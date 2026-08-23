@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 15:17:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 15:54:58 **/
 
-const LAST_UPDATE = '23/08/2026, 15:17:56';
+const LAST_UPDATE = '23/08/2026, 15:54:58';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -98,7 +98,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
@@ -1195,10 +1195,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-conhecer-a-metodologia-da-Stratto-Fale-com-nossa-equipe-pelo-WhatsApp-85-99420-2057-3b233d8db9d280d68481f6d1685fd9f4"
@@ -2939,7 +2938,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Acordo-verbal-vale-na-Justi-a-3a633d8db9d280b4b244cefa0165ccb1"
