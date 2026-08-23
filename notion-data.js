@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 19:13:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 19:45:20 **/
 
-const LAST_UPDATE = '23/08/2026, 19:13:35';
+const LAST_UPDATE = '23/08/2026, 19:45:20';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -4266,6 +4266,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Aniversario-Carla-3c133d8db9d28059b32bd0d0acba5cf9",
       "gestora": "Equipe",
       "date": "20/08"
+    }
+  ],
+  "Rede Pangeia": [
+    {
+      "title": "Site",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Site-3c033d8db9d2809489b8c7ed035a9314",
+      "gestora": "Equipe",
+      "date": "26/08"
     }
   ],
   "Ser Ponte": [
