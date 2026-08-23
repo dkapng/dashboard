@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 14:14:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 14:42:48 **/
 
-const LAST_UPDATE = '23/08/2026, 14:14:00';
+const LAST_UPDATE = '23/08/2026, 14:42:48';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -202,7 +202,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 12,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
@@ -2682,7 +2682,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-dois-carros-iguais-pagam-seguros-diferentes-3ae33d8db9d2807c9161f9e600b8f960"
@@ -2693,10 +2693,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "24/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-dirige-seu-carro-tamb-m-est-protegido-3ae33d8db9d28023bb95cc09de20b7ae"
