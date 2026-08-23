@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 14:42:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 15:17:56 **/
 
-const LAST_UPDATE = '23/08/2026, 14:42:48';
+const LAST_UPDATE = '23/08/2026, 15:17:56';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -98,7 +98,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 12,
     "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
@@ -1198,7 +1198,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-conhecer-a-metodologia-da-Stratto-Fale-com-nossa-equipe-pelo-WhatsApp-85-99420-2057-3b233d8db9d280d68481f6d1685fd9f4"
@@ -1209,10 +1209,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-comemorar-o-pr-ximo-recorde-de-vendas-vale-fazer-uma-pergunta-sua-empresa-est-crescendo--3b233d8db9d28000bf45fa2e651f9b95"
@@ -1288,10 +1287,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-empresas-de-segmentos-t-o-diferentes-encontram-na-Stratto-39133d8db9d280848806f86b3a9f1a1b"
@@ -2682,7 +2679,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-dois-carros-iguais-pagam-seguros-diferentes-3ae33d8db9d2807c9161f9e600b8f960"
