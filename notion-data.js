@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 17:13:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 17:45:49 **/
 
-const LAST_UPDATE = '23/08/2026, 17:13:24';
+const LAST_UPDATE = '23/08/2026, 17:45:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -226,7 +226,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 7,
+    "pronto": 9,
     "postado": 1,
     "agendado": 6,
     "agendado_coord": 0,
@@ -599,12 +599,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
-    "total": 0,
-    "pronto": 0,
+    "total": 2,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Conecta Assessoria": {
     "total": 1,
@@ -2922,10 +2922,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Qual-contrato-todo-empres-rio-deveria-ter-3a633d8db9d280228dd7f39da40e13af"
@@ -2935,10 +2933,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Acordo-verbal-vale-na-Justi-a-3a633d8db9d280b4b244cefa0165ccb1"
@@ -4170,7 +4166,32 @@ const LINHA_STORIES_ITEMS = {
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [],
-  "Daniel Maia Advocacia": [],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Feliz aniversário, Rikelme",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Rikelme-3a533d8db9d2801a9c53da12def6fd9b"
+    },
+    {
+      "title": "Feliz aniversário, Beatriz",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/08",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Beatriz-3a533d8db9d28052a4aef84b70ceed77"
+    }
+  ],
   "Conecta Assessoria": [
     {
       "title": "Aniversário da Soraya",
@@ -4524,7 +4545,7 @@ const LEGENDAS_DATA = {
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
-    "total": 11
+    "total": 9
   },
   "Conecta Assessoria": {
     "prontas": 16,
@@ -4682,7 +4703,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 2
   },
   "Conecta Assessoria": {
     "post": 11,
