@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 13:15:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 13:49:02 **/
 
-const LAST_UPDATE = '23/08/2026, 13:15:57';
+const LAST_UPDATE = '23/08/2026, 13:49:02';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -186,7 +186,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 10,
-    "pronto": 8,
+    "pronto": 10,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
@@ -2305,24 +2305,22 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-passou-por-uma-consulta-sem-estar-esperando-seu-corpo-pedir-socorro-3c333d8db9d2806caa0ac7b3740fb04d"
     },
     {
-      "title": "Homograma normal significa que você está saudável? ",
+      "title": "Homograma normal significa que você está saudável?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Homograma-normal-significa-que-voc-est-saud-vel-3c333d8db9d280ba9843e5a3983b9b8b"
@@ -2698,7 +2696,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-dirige-seu-carro-tamb-m-est-protegido-3ae33d8db9d28023bb95cc09de20b7ae"
@@ -3906,7 +3904,7 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "Story/stories",
+      "title": "Hoje é dia de acompanhar de perto mais uma empresa.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "27/08",
@@ -3916,10 +3914,10 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3b233d8db9d2808da8e9c1498059c8d7"
+      "notionUrl": "https://app.notion.com/p/Hoje-dia-de-acompanhar-de-perto-mais-uma-empresa-3b233d8db9d2808da8e9c1498059c8d7"
     },
     {
-      "title": "Story/stories",
+      "title": "Quem está por trás da Stratto?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "26/08",
@@ -3929,7 +3927,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 2. Escrevendo",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3b233d8db9d2804b9addd217b6d581cc"
+      "notionUrl": "https://app.notion.com/p/Quem-est-por-tr-s-da-Stratto-3b233d8db9d2804b9addd217b6d581cc"
     },
     {
       "title": "Hoje queremos abrir as portas da Stratto para você.",
