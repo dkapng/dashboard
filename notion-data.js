@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/08/2026, 21:52:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/08/2026, 23:20:17 **/
 
-const LAST_UPDATE = '22/08/2026, 21:52:52';
+const LAST_UPDATE = '22/08/2026, 23:20:17';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -108,9 +108,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 10,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Jota Diesel": {
     "total": 5,
@@ -1432,7 +1432,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando diferentes setores da sociedade civil dão as mãos, o impacto deixa de ser local e vira política pública. A força institucional por trás do Movimento Juntos Contra o HPV.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [],
@@ -3935,7 +3935,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Fórum Brasileiro de Filantropos e Investidores Sociais 2026",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "21/08",
+      "date": "24/08",
       "missing": [
         "Design"
       ],
