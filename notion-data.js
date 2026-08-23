@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 17:45:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 18:13:53 **/
 
-const LAST_UPDATE = '23/08/2026, 17:45:49';
+const LAST_UPDATE = '23/08/2026, 18:13:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -480,7 +480,7 @@ const STORIES_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -600,7 +600,7 @@ const STORIES_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -3951,10 +3951,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "28/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Falta-menos-de-um-m-s-Voc-j-garantiu-sua-inscri-o-3ab33d8db9d28005911ef1966f3384f4"
@@ -4183,10 +4181,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "30/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Beatriz-3a533d8db9d28052a4aef84b70ceed77"
