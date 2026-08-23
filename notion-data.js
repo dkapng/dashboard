@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 11:15:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/08/2026, 11:46:50 **/
 
-const LAST_UPDATE = '23/08/2026, 11:15:53';
+const LAST_UPDATE = '23/08/2026, 11:46:50';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -185,12 +185,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "ItalaP": {
-    "total": 9,
+    "total": 10,
     "pronto": 7,
     "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
@@ -2299,6 +2299,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "ItalaP": [
+    {
+      "title": "Quando foi a última vez que você passou por uma consulta sem estar esperando seu corpo pedir socorro?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-passou-por-uma-consulta-sem-estar-esperando-seu-corpo-pedir-socorro-3c333d8db9d2806caa0ac7b3740fb04d"
+    },
     {
       "title": "Homograma normal significa que você está saudável? ",
       "status": "a_agendar",
@@ -4637,7 +4651,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "ItalaP": {
-    "post": 9,
+    "post": 10,
     "carrossel": 0,
     "foto": 0,
     "video": 6,
