@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 08:51:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 09:33:05 **/
 
-const LAST_UPDATE = '24/08/2026, 08:51:02';
+const LAST_UPDATE = '24/08/2026, 09:33:05';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -80,12 +80,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 18,
+    "total": 16,
     "pronto": 13,
     "postado": 10,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 6,
+    "agendado_coord": 0,
+    "a_agendar": 5,
     "st-paused": null
   },
   "Tramix": {
@@ -794,25 +794,14 @@ const LINHA_FEED_ITEMS = {
       "title": "Conselho Gestor da ZEIS Cais do Porto",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "21/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Conselho-Gestor-da-ZEIS-Cais-do-Porto-3c333d8db9d280318381c390079860b9"
-    },
-    {
-      "title": "Renda não resolve tudo. Mas a falta dela limita muita coisa",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "31/08",
+      "date": "24/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Renda-n-o-resolve-tudo-Mas-a-falta-dela-limita-muita-coisa-3bf33d8db9d280b683b4fb2df5f0d222"
+      "notionUrl": "https://app.notion.com/p/Conselho-Gestor-da-ZEIS-Cais-do-Porto-3c333d8db9d280318381c390079860b9"
     },
     {
       "title": "Olá, nós somos a Ser Ponte",
@@ -921,11 +910,9 @@ const LINHA_FEED_ITEMS = {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "24/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "date": "31/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
@@ -940,19 +927,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Todos-os-dias-mulheres-realizam-12-5-bilh-es-de-horas-de-trabalho-de-cuidado-n-o-remunerado-no-mund-39733d8db9d280a9a19ac3877e11ecab"
-    },
-    {
-      "title": "Mais da metade dos lares do Ceará são chefiados por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
-      "status": "agendado_coord",
-      "formato": "🎠 Carrossel",
-      "date": "24/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-s-o-chefiados-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-l-39733d8db9d2801b9ce7d623d765dfc8"
     },
     {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
@@ -4258,16 +4232,6 @@ const DEMANDAS_EXTRAS = {
       "date": "30/07"
     }
   ],
-  "Solar Coworking": [
-    {
-      "title": "Aniversario Carla",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Aniversario-Carla-3c133d8db9d28059b32bd0d0acba5cf9",
-      "gestora": "Equipe",
-      "date": "20/08"
-    }
-  ],
   "Rede Pangeia": [
     {
       "title": "Site",
@@ -4478,8 +4442,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Ser Ponte": {
-    "prontas": 18,
-    "total": 18
+    "prontas": 16,
+    "total": 16
   },
   "Tramix": {
     "prontas": 12,
@@ -4579,8 +4543,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 7,
-    "carrossel": 11,
+    "post": 6,
+    "carrossel": 10,
     "foto": 0,
     "video": 0,
     "story": 3
