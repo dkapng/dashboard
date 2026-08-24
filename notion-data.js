@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 11:33:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 12:31:22 **/
 
-const LAST_UPDATE = '24/08/2026, 11:33:47';
+const LAST_UPDATE = '24/08/2026, 12:31:22';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -84,8 +84,8 @@ const FEED_DATA = {
     "pronto": 13,
     "postado": 10,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 5,
+    "agendado_coord": 1,
+    "a_agendar": 4,
     "st-paused": null
   },
   "Tramix": {
@@ -792,13 +792,13 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Conselho Gestor da ZEIS Cais do Porto",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "24/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conselho-Gestor-da-ZEIS-Cais-do-Porto-3c333d8db9d280318381c390079860b9"
