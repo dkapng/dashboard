@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 15:29:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 16:10:06 **/
 
-const LAST_UPDATE = '24/08/2026, 15:29:42';
+const LAST_UPDATE = '24/08/2026, 16:10:06';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -147,10 +147,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 14,
     "pronto": 13,
-    "postado": 4,
+    "postado": 5,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 6,
@@ -294,10 +294,10 @@ const VIDEO_DATA = {
   "Juntos contra o HPV": {
     "total": 4,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 3,
@@ -480,10 +480,10 @@ const STORIES_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 3,
-    "pronto": 2,
-    "postado": 0,
+    "pronto": 3,
+    "postado": 1,
     "agendado": 1,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 1
   },
   "Jota Diesel": {
@@ -1624,14 +1624,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Faturamento maior também pode significar novas responsabilidades fiscais.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Faturamento-maior-tamb-m-pode-significar-novas-responsabilidades-fiscais-3ba33d8db9d280bb87ffca38ec209b87"
     },
@@ -2214,7 +2212,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você voltou a rotina. Mas seu corpo conseguiu acompanhar esse ritmo?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/08",
+      "date": "24/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3242,14 +3240,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Dados",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "24/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Dados-3c033d8db9d280aeb36dfc44a2ccd8ad"
     },
@@ -3538,7 +3534,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Novidade Unimed",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "24/08",
+      "date": "25/08",
       "missing": [
         "Legenda"
       ],
@@ -3861,14 +3857,12 @@ const LINHA_STORIES_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Fórum Brasileiro de Filantropos e Investidores Sociais 2026",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "24/08",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/F-rum-Brasileiro-de-Filantropos-e-Investidores-Sociais-2026-3c233d8db9d280a9a37aec01ca66589c"
     },
@@ -4379,7 +4373,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 14
   },
   "Jota Diesel": {
@@ -4399,7 +4393,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 14
   },
   "Rede Pangeia": {
