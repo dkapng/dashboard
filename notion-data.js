@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 10:43:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 11:33:47 **/
 
-const LAST_UPDATE = '24/08/2026, 10:43:23';
+const LAST_UPDATE = '24/08/2026, 11:33:47';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -161,12 +161,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Planos Seguros": {
-    "total": 4,
+    "total": 3,
     "pronto": 3,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Plannea": {
     "total": 19,
@@ -348,12 +348,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 6,
+    "total": 9,
     "pronto": 6,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Plannea": {
     "total": 0,
@@ -1844,19 +1844,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-carros-el-tricos-est-o-mudando-o-mercado-de-seguros-E-n-o-apenas-por-serem-el-tricos-3ae33d8db9d280ce8551c974d5bc2134"
-    },
-    {
-      "title": "Quando foi a última vez que você olhou para o seu prédio além do valor do imóvel?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "31/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 2. A editar",
-      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-olhou-para-o-seu-pr-dio-al-m-do-valor-do-im-vel-39633d8db9d280cbb479e06dab22988b"
     },
     {
       "title": "O patrimônio mudou. A estratégia de proteção também?",
@@ -3358,6 +3345,48 @@ const LINHA_VIDEO_ITEMS = {
   "Rede Pangeia": [],
   "Planos Seguros": [
     {
+      "title": "Majoração de membros",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "31/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Majora-o-de-membros-3c633d8db9d280c6bec0f4c9840beb0e"
+    },
+    {
+      "title": "Doenças graves ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Doen-as-graves-3c633d8db9d2807abec1f8da4ed049ea"
+    },
+    {
+      "title": "Análise de plano de saúde ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "26/08",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/An-lise-de-plano-de-sa-de-3c633d8db9d2806ab15dd1744b0ed34e"
+    },
+    {
       "title": "DIT",
       "status": "postado",
       "formato": "🎥 Vídeo horizontal",
@@ -4381,8 +4410,8 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Planos Seguros": {
-    "prontas": 10,
-    "total": 10
+    "prontas": 9,
+    "total": 12
   },
   "Plannea": {
     "prontas": 13,
@@ -4512,10 +4541,10 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Planos Seguros": {
-    "post": 4,
+    "post": 3,
     "carrossel": 0,
     "foto": 0,
-    "video": 6,
+    "video": 9,
     "story": 0
   },
   "Plannea": {
