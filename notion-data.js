@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 12:31:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 13:26:29 **/
 
-const LAST_UPDATE = '24/08/2026, 12:31:22';
+const LAST_UPDATE = '24/08/2026, 13:26:29';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -81,10 +81,10 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 16,
-    "pronto": 13,
-    "postado": 10,
+    "pronto": 14,
+    "postado": 11,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 4,
     "st-paused": null
   },
@@ -792,12 +792,10 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Conselho Gestor da ZEIS Cais do Porto",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "24/08",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
