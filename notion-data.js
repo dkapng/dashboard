@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 09:33:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 10:43:23 **/
 
-const LAST_UPDATE = '24/08/2026, 09:33:05';
+const LAST_UPDATE = '24/08/2026, 10:43:23';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -89,12 +89,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Tramix": {
-    "total": 15,
+    "total": 14,
     "pronto": 14,
-    "postado": 10,
+    "postado": 11,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 13,
@@ -161,20 +161,20 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Planos Seguros": {
-    "total": 9,
+    "total": 4,
     "pronto": 3,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 1
   },
   "Plannea": {
     "total": 19,
     "pronto": 18,
-    "postado": 11,
+    "postado": 12,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Ortobom": {
     "total": 7,
@@ -195,10 +195,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 20,
     "pronto": 19,
-    "postado": 16,
+    "postado": 17,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Finseg Leal": {
     "total": 12,
@@ -219,8 +219,8 @@ const FEED_DATA = {
   "APROSSEG": {
     "total": 10,
     "pronto": 8,
-    "postado": 3,
-    "agendado": 5,
+    "postado": 6,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 2
   },
@@ -348,9 +348,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 5,
-    "pronto": 5,
-    "postado": 5,
+    "total": 6,
+    "pronto": 6,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -535,12 +535,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Planos Seguros": {
-    "total": 2,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 1
+    "agendado_coord": 0,
+    "a_agendar": 0
   },
   "Plannea": {
     "total": 2,
@@ -975,20 +975,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [
     {
-      "title": "Os zíperes Tramix são produzidos em nylon sintético de alta resistência",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "31/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Os-z-peres-Tramix-s-o-produzidos-em-nylon-sint-tico-de-alta-resist-ncia-3bf33d8db9d280a4abade4493e47ea2f"
-    },
-    {
       "title": "A melhor linha, muitas vezes, é aquela que desaparece no resultado final",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1018,7 +1004,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O que 20 anos ensinam sobre qualidade?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/08",
+      "date": "31/08",
       "missing": [
         "Legenda"
       ],
@@ -1029,12 +1015,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mais de 50 cores de fios e linhas para acompanhar cada criação",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1851,45 +1835,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Feliz-Dia-dos-pais-Em-letra-menor-O-primeiro-sentimento-de-seguran-a-de-muitos-filhos-tem-nome-p-3b233d8db9d280c1a691e1f84179b2cc"
     },
     {
-      "title": "Você conhece todos os benefícios do seu seguro residencial?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-conhece-todos-os-benef-cios-do-seu-seguro-residencial-3ae33d8db9d280ffbf09e70854a9f524"
-    },
-    {
-      "title": "Seguro garantia: por que ele deixou de ser um produto exclusivo das grandes obras?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seguro-garantia-por-que-ele-deixou-de-ser-um-produto-exclusivo-das-grandes-obras-3ae33d8db9d2808ab811ca7f77a42bc8"
-    },
-    {
-      "title": "Subseguro: um problema que muitas empresas descobrem tarde demais.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "20/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Subseguro-um-problema-que-muitas-empresas-descobrem-tarde-demais-3ae33d8db9d280d19cd8ef77de9256c8"
-    },
-    {
       "title": "Os carros elétricos estão mudando o mercado de seguros. E não é apenas por serem elétricos.",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -1923,32 +1868,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-patrim-nio-mudou-A-estrat-gia-de-prote-o-tamb-m-39633d8db9d280928790e06378d4a7a6"
-    },
-    {
-      "title": "Deixar pra depois pode ser a pior decisão\n",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Deixar-pra-depois-pode-ser-a-pior-decis-o-39633d8db9d280b8a92ce66d530ed44a"
-    },
-    {
-      "title": "A má gestão dos seguros pode estar limitando o crescimento da sua empresa\n",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-m-gest-o-dos-seguros-pode-estar-limitando-o-crescimento-da-sua-empresa-39633d8db9d280c498baccb6a526f1d9"
     }
   ],
   "Plannea": [
@@ -2016,12 +1935,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A inteligência artificial vai acabar com a contabilidade?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2484,12 +2401,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quanto custa viver sem tempo?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2765,7 +2680,7 @@ const LINHA_FEED_ITEMS = {
   "APROSSEG": [
     {
       "title": "Você escolheu seu carro em detalhes. Por que escolheria o seguro olhando só para o preço?",
-      "status": "agendado",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/08",
       "missing": [],
@@ -2776,7 +2691,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Vai adesivar seu carro nessa eleição? Antes de colocar o adesivo, fale com seu corretor!",
-      "status": "agendado",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/08",
       "missing": [],
@@ -2833,7 +2748,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você não consegue prever o futuro. Mas pode decidir como enfrentá-lo.",
-      "status": "agendado",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "20/08",
       "missing": [],
@@ -3443,6 +3358,17 @@ const LINHA_VIDEO_ITEMS = {
   "Rede Pangeia": [],
   "Planos Seguros": [
     {
+      "title": "DIT",
+      "status": "postado",
+      "formato": "🎥 Vídeo horizontal",
+      "date": "24/08",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/DIT-3c633d8db9d2807bbd45c6bce42a868e"
+    },
+    {
       "title": "Seguro é caro?",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -4045,34 +3971,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/dicadasemana-3b833d8db9d2802888bedb2f1c273a5a"
     }
   ],
-  "Planos Seguros": [
-    {
-      "title": "Seu seguro acompanha a realidade atual da sua operação?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-seguro-acompanha-a-realidade-atual-da-sua-opera-o-36733d8db9d28015a941e771638e52b4"
-    },
-    {
-      "title": "Seq. Stories",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "27/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seq-Stories-30f33d8db9d2803b8644fddc3075e757"
-    }
-  ],
+  "Planos Seguros": [],
   "Plannea": [
     {
       "title": "Nem toda empresa que cresce está, de fato, estruturada.",
@@ -4446,8 +4345,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Tramix": {
-    "prontas": 12,
-    "total": 17
+    "prontas": 13,
+    "total": 16
   },
   "Stratto": {
     "prontas": 12,
@@ -4482,11 +4381,11 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Planos Seguros": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 10,
+    "total": 10
   },
   "Plannea": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 19
   },
   "Ortobom": {
@@ -4498,7 +4397,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 20
   },
   "Finseg Leal": {
@@ -4550,7 +4449,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Tramix": {
-    "post": 14,
+    "post": 13,
     "carrossel": 0,
     "foto": 1,
     "video": 2,
@@ -4613,11 +4512,11 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Planos Seguros": {
-    "post": 9,
+    "post": 4,
     "carrossel": 0,
     "foto": 0,
-    "video": 5,
-    "story": 2
+    "video": 6,
+    "story": 0
   },
   "Plannea": {
     "post": 17,
