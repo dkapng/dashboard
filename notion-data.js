@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 16:52:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 17:20:59 **/
 
-const LAST_UPDATE = '24/08/2026, 16:52:16';
+const LAST_UPDATE = '24/08/2026, 17:20:59';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -99,18 +99,18 @@ const FEED_DATA = {
   "Stratto": {
     "total": 13,
     "pronto": 13,
-    "postado": 3,
+    "postado": 4,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
     "total": 10,
     "pronto": 10,
     "postado": 1,
-    "agendado": 7,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Jota Diesel": {
     "total": 5,
@@ -156,9 +156,9 @@ const FEED_DATA = {
     "total": 6,
     "pronto": 6,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 3,
@@ -529,10 +529,10 @@ const STORIES_DATA = {
   "Rede Pangeia": {
     "total": 2,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 0,
@@ -1239,7 +1239,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que empresas de segmentos tão diferentes encontram na Stratto?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "24/08",
       "missing": [],
@@ -1329,7 +1329,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que acontecerá no I Simpósio do movimento do juntos contra o HPV? Muito mais do que palestras. Um encontro para compartilhar conhecimento e construir soluções.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "25/08",
       "missing": [],
@@ -1373,7 +1373,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que estamos construindo hoje definirá a saúde das próximas gerações.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [],
@@ -1747,27 +1747,23 @@ const LINHA_FEED_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "Se todas as decisões passam por você… se as informações estão concentradas em você… se a equipe precisa esperar sua aprovação… talvez exista uma dependência maior do que deveria!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-todas-as-decis-es-passam-por-voc-se-as-informa-es-est-o-concentradas-em-voc-se-a-equipe-prec-3b833d8db9d280098eefd34d81e3ac46"
     },
     {
       "title": "Como desenvolver novas lideranças dentro de uma organização social?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "24/08",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "26/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-desenvolver-novas-lideran-as-dentro-de-uma-organiza-o-social-3b833d8db9d2803fadffe4a1a4046095"
     },
@@ -1795,14 +1791,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando pessoas se mobilizam, causas ganham força. Quando essa mobilização se organiza, o impacto pode ir mais longe. Feliz Dia do Voluntariado no Brasil",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-pessoas-se-mobilizam-causas-ganham-for-a-Quando-essa-mobiliza-o-se-organiza-o-impacto-pod-3b833d8db9d280b7ac7fc8839431a491"
     },
@@ -3941,9 +3935,9 @@ const LINHA_STORIES_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "#dicadasemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
-      "date": "25/08",
+      "date": "24/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4380,7 +4374,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Rede Pangeia": {
-    "prontas": 3,
+    "prontas": 6,
     "total": 7
   },
   "Planos Seguros": {
