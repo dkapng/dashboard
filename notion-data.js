@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 16:10:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 16:52:16 **/
 
-const LAST_UPDATE = '24/08/2026, 16:10:06';
+const LAST_UPDATE = '24/08/2026, 16:52:16';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -187,10 +187,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 10,
     "pronto": 10,
-    "postado": 2,
-    "agendado": 4,
+    "postado": 3,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
@@ -201,12 +201,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Finseg Leal": {
-    "total": 11,
-    "pronto": 10,
+    "total": 10,
+    "pronto": 9,
     "postado": 1,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -228,9 +228,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 9,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -375,9 +375,9 @@ const VIDEO_DATA = {
     "total": 6,
     "pronto": 6,
     "postado": 2,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -391,9 +391,9 @@ const VIDEO_DATA = {
     "total": 6,
     "pronto": 6,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -421,11 +421,11 @@ const VIDEO_DATA = {
   },
   "Conecta Assessoria": {
     "total": 4,
-    "pronto": 3,
-    "postado": 1,
+    "pronto": 4,
+    "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 0,
@@ -575,12 +575,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Finseg Leal": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -2171,46 +2171,40 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "Quando foi a última vez que você passou por uma consulta sem estar esperando seu corpo pedir socorro?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-passou-por-uma-consulta-sem-estar-esperando-seu-corpo-pedir-socorro-3c333d8db9d2806caa0ac7b3740fb04d"
     },
     {
-      "title": "Homograma normal significa que você está saudável?",
-      "status": "a_agendar",
+      "title": "Hemograma normal significa que você está saudável?",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Homograma-normal-significa-que-voc-est-saud-vel-3c333d8db9d280ba9843e5a3983b9b8b"
+      "notionUrl": "https://app.notion.com/p/Hemograma-normal-significa-que-voc-est-saud-vel-3c333d8db9d280ba9843e5a3983b9b8b"
     },
     {
       "title": "Você só faz exame quando sente alguma coisa? Esse hábito pode estar fazendo você chegar tarde demais! ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "26/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-s-faz-exame-quando-sente-alguma-coisa-Esse-h-bito-pode-estar-fazendo-voc-chegar-tarde-demais-3c333d8db9d280d79118d3d1e61f9908"
     },
     {
       "title": "Você voltou a rotina. Mas seu corpo conseguiu acompanhar esse ritmo?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/08",
       "missing": [],
@@ -2533,24 +2527,21 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Prote-o-de-verdade-n-o-termina-na-assinatura-da-ap-lice-Fale-com-a-finseg-e-tenha-nosso-acompanham-3ae33d8db9d28026a0fbec59c8b02154"
     },
     {
       "title": "Quem dirige seu carro também está protegido?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-dirige-seu-carro-tamb-m-est-protegido-3ae33d8db9d28023bb95cc09de20b7ae"
     },
@@ -2630,19 +2621,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-contratar-um-novo-seguro-converse-com-quem-pode-analisar-sua-realidade-primeiro-38f33d8db9d28040b5f0d6ed92d60570"
-    },
-    {
-      "title": "Feliz Aniversário, Renato",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "25/08",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feliz-Anivers-rio-Renato-18933d8db9d28062b94deed3c4039836"
     }
   ],
   "Di Gregório Buffet": [],
@@ -2777,7 +2755,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Qual contrato todo empresário deveria ter?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [],
@@ -2788,7 +2766,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Acordo verbal vale na Justiça?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/08",
       "missing": [],
@@ -3532,14 +3510,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Novidade Unimed",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "25/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Novidade-Unimed-3b133d8db9d280208812edf523363ab9"
     },
@@ -3594,14 +3570,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Sinistro negado",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Sinistro-negado-3ae33d8db9d280d185a3e99c670a8e8b"
     },
@@ -3681,16 +3655,13 @@ const LINHA_VIDEO_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "24/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280b3b7ecd4157a574870"
     },
     {
@@ -4054,7 +4025,19 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [],
-  "Finseg Leal": [],
+  "Finseg Leal": [
+    {
+      "title": "Feliz Aniversário, Renato",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "25/08",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-Anivers-rio-Renato-18933d8db9d28062b94deed3c4039836"
+    }
+  ],
   "Di Gregório Buffet": [],
   "APROSSEG": [],
   "Daniel Maia Advocacia": [
@@ -4413,7 +4396,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "ItalaP": {
-    "prontas": 11,
+    "prontas": 15,
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
@@ -4421,8 +4404,8 @@ const LEGENDAS_DATA = {
     "total": 20
   },
   "Finseg Leal": {
-    "prontas": 12,
-    "total": 17
+    "prontas": 15,
+    "total": 16
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -4437,7 +4420,7 @@ const LEGENDAS_DATA = {
     "total": 9
   },
   "Conecta Assessoria": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 17
   },
   "Solar Coworking": {
@@ -4567,11 +4550,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 10,
+    "post": 9,
     "carrossel": 1,
     "foto": 0,
     "video": 6,
-    "story": 0
+    "story": 1
   },
   "Di Gregório Buffet": {
     "post": 0,
