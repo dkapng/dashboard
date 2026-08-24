@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 14:55:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/08/2026, 15:29:42 **/
 
-const LAST_UPDATE = '24/08/2026, 14:55:39';
+const LAST_UPDATE = '24/08/2026, 15:29:42';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -201,12 +201,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Finseg Leal": {
-    "total": 12,
+    "total": 11,
     "pronto": 10,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -388,12 +388,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Finseg Leal": {
-    "total": 5,
-    "pronto": 5,
+    "total": 6,
+    "pronto": 6,
     "postado": 0,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -483,8 +483,8 @@ const STORIES_DATA = {
     "pronto": 2,
     "postado": 0,
     "agendado": 1,
-    "agendado_coord": 0,
-    "a_agendar": 2
+    "agendado_coord": 1,
+    "a_agendar": 1
   },
   "Jota Diesel": {
     "total": 1,
@@ -2533,20 +2533,6 @@ const LINHA_FEED_ITEMS = {
       "title": "Proteção de verdade não termina na assinatura da apólice. Fale com a finseg e tenha nosso acompanhamento e as melhores soluções para cada momento da sua vida! (85) 99601-1000",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "31/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Prote-o-de-verdade-n-o-termina-na-assinatura-da-ap-lice-Fale-com-a-finseg-e-tenha-nosso-acompanham-3ae33d8db9d28026a0fbec59c8b02154"
-    },
-    {
-      "title": "Por que dois carros iguais pagam seguros diferentes?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [
         "Design",
@@ -2555,7 +2541,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Por-que-dois-carros-iguais-pagam-seguros-diferentes-3ae33d8db9d2807c9161f9e600b8f960"
+      "notionUrl": "https://app.notion.com/p/Prote-o-de-verdade-n-o-termina-na-assinatura-da-ap-lice-Fale-com-a-finseg-e-tenha-nosso-acompanham-3ae33d8db9d28026a0fbec59c8b02154"
     },
     {
       "title": "Quem dirige seu carro também está protegido?",
@@ -2911,7 +2897,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Chega de perder tempo preenchendo formulários infinitos na internet para receber robôs te ligando o dia inteiro!Nosso time analisa o seu perfil, compara as maiores operadoras do mercado e envia a melhor opção para a sua realidade. Fale com a gente!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/08",
+      "date": "27/08",
       "missing": [
         "Design"
       ],
@@ -2924,7 +2910,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Atrair e reter talentos exige os benefícios certos. A Conecta formata a proposta ideal para o tamanho da sua empresa. Consulte-nos pelo link da bio.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/08",
+      "date": "26/08",
       "missing": [
         "Design"
       ],
@@ -3598,6 +3584,19 @@ const LINHA_VIDEO_ITEMS = {
   "Grupo Mulheres do Brasil": [],
   "Finseg Leal": [
     {
+      "title": "Emprestei meu carro",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "31/08",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Emprestei-meu-carro-3ae33d8db9d28065877bf5e393ce70cd"
+    },
+    {
       "title": "Sinistro negado",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3688,7 +3687,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "27/08",
+      "date": "24/08",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3862,14 +3861,14 @@ const LINHA_STORIES_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Fórum Brasileiro de Filantropos e Investidores Sociais 2026",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "📱 Story",
       "date": "24/08",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. N/A",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/F-rum-Brasileiro-de-Filantropos-e-Investidores-Sociais-2026-3c233d8db9d280a9a37aec01ca66589c"
     },
@@ -4574,10 +4573,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 11,
+    "post": 10,
     "carrossel": 1,
     "foto": 0,
-    "video": 5,
+    "video": 6,
     "story": 0
   },
   "Di Gregório Buffet": {
