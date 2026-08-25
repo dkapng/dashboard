@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 19:18:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 19:52:40 **/
 
-const LAST_UPDATE = '25/08/2026, 19:18:08';
+const LAST_UPDATE = '25/08/2026, 19:52:40';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -224,7 +224,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 0,
@@ -2811,10 +2811,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Atrair-e-reter-talentos-exige-os-benef-cios-certos-A-Conecta-formata-a-proposta-ideal-para-o-tamanh-3a433d8db9d28086b9fbcfd3646a6a67"
