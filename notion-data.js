@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 19:52:40 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 20:18:35 **/
 
-const LAST_UPDATE = '25/08/2026, 19:52:40';
+const LAST_UPDATE = '25/08/2026, 20:18:35';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -224,7 +224,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 0,
@@ -2788,20 +2788,18 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Insatisfeito-com-seu-plano-atual-Descubra-como-mudar-sem-perder-a-car-ncia-3a433d8db9d2804c9820fd40792ec0da"
     },
     {
-      "title": "Chega de perder tempo preenchendo formulários infinitos na internet para receber robôs te ligando o dia inteiro!Nosso time analisa o seu perfil, compara as maiores operadoras do mercado e envia a melhor opção para a sua realidade. Fale com a gente!",
+      "title": "Chega de perder tempo preenchendo formulários infinitos na internet para receber robôs te ligando o dia inteiro! Nosso time analisa o seu perfil, compara as maiores operadoras do mercado e envia a melhor opção para a sua realidade. Fale com a gente!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Chega-de-perder-tempo-preenchendo-formul-rios-infinitos-na-internet-para-receber-rob-s-te-ligando-o--3a433d8db9d28099b41ddfa7134881be"
