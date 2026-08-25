@@ -1,8 +1,13 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 11:36:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 12:34:51 **/
 
-const LAST_UPDATE = '25/08/2026, 11:36:35';
+const LAST_UPDATE = '25/08/2026, 12:34:51';
 
 const GESTORAS = {
+  "Mayla Valere": [
+    "Hélio Rôla 90 Anos",
+    "Ventana",
+    "Di Gregório Buffet"
+  ],
   "Lucas de Paula": [
     "AAFEC",
     "Ser Ponte",
@@ -10,11 +15,6 @@ const GESTORAS = {
     "Planos Seguros",
     "Plannea",
     "Grupo Mulheres do Brasil"
-  ],
-  "Mayla Valere": [
-    "Travessias Híbridas",
-    "Ventana",
-    "Di Gregório Buffet"
   ],
   "Alice Sousa": [
     "Stratto",
@@ -36,8 +36,8 @@ const GESTORAS = {
 };
 
 const NICHES = {
+  "Hélio Rôla 90 Anos": "Geral",
   "AAFEC": "Geral",
-  "Travessias Híbridas": "Geral",
   "Ser Ponte": "Geral",
   "Tramix": "Geral",
   "Stratto": "Geral",
@@ -61,6 +61,14 @@ const NICHES = {
 };
 
 const FEED_DATA = {
+  "Hélio Rôla 90 Anos": {
+    "total": 2,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 2
+  },
   "AAFEC": {
     "total": 14,
     "pronto": 13,
@@ -68,14 +76,6 @@ const FEED_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 5
-  },
-  "Travessias Híbridas": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 0
   },
   "Ser Ponte": {
     "total": 16,
@@ -241,6 +241,14 @@ const FEED_DATA = {
 };
 
 const VIDEO_DATA = {
+  "Hélio Rôla 90 Anos": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
   "AAFEC": {
     "total": 4,
     "pronto": 4,
@@ -248,14 +256,6 @@ const VIDEO_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
-  },
-  "Travessias Híbridas": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 0
   },
   "Ser Ponte": {
     "total": 0,
@@ -420,18 +420,18 @@ const VIDEO_DATA = {
 };
 
 const STORIES_DATA = {
-  "AAFEC": {
-    "total": 2,
-    "pronto": 2,
-    "postado": 2,
+  "Hélio Rôla 90 Anos": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Travessias Híbridas": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
+  "AAFEC": {
+    "total": 2,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -599,6 +599,36 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
+  "Hélio Rôla 90 Anos": [
+    {
+      "title": "Como visitar uma vida que nunca foi uma linha reta?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-visitar-uma-vida-que-nunca-foi-uma-linha-reta-3c733d8db9d28022b6cfeec188c4011c"
+    },
+    {
+      "title": "Quem é Hélio Rôla? 90 anos de uma vida entre arte, ciência, cidade e experimentação.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "25/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-H-lio-R-la-90-anos-de-uma-vida-entre-arte-ci-ncia-cidade-e-experimenta-o-3c733d8db9d280238fe2ef82a4ea7fe0"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Entidades fazendárias promovem encontro para alinhar estratégias pela conquista do FUNDAF",
@@ -762,7 +792,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-n-o-precisa-viver-a-terceira-idade-sozinho-39d33d8db9d2800aa04fd21d6ece735f"
     }
   ],
-  "Travessias Híbridas": [],
   "Ser Ponte": [
     {
       "title": "Conselho Gestor da ZEIS Cais do Porto",
@@ -770,7 +799,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "24/08",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conselho-Gestor-da-ZEIS-Cais-do-Porto-3c333d8db9d280318381c390079860b9"
@@ -3001,6 +3030,7 @@ const LINHA_FEED_ITEMS = {
 };
 
 const LINHA_VIDEO_ITEMS = {
+  "Hélio Rôla 90 Anos": [],
   "AAFEC": [
     {
       "title": "Vídeo Boteco ",
@@ -3062,7 +3092,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/TBT-39f33d8db9d28094b8c7c4a4ba021cea"
     }
   ],
-  "Travessias Híbridas": [],
   "Ser Ponte": [],
   "Tramix": [
     {
@@ -3568,6 +3597,7 @@ const LINHA_VIDEO_ITEMS = {
 };
 
 const LINHA_STORIES_ITEMS = {
+  "Hélio Rôla 90 Anos": [],
   "AAFEC": [
     {
       "title": "Stories Boteco",
@@ -3592,7 +3622,6 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Sequ-ncia-de-stories-sobre-encontro-mensal-3b833d8db9d280abac99fe324048bdda"
     }
   ],
-  "Travessias Híbridas": [],
   "Ser Ponte": [
     {
       "title": "Spoilers do bazar #02",
@@ -4148,13 +4177,13 @@ const CAPTACAO_DATA = {
 const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
+  "Hélio Rôla 90 Anos": {
+    "prontas": 0,
+    "total": 2
+  },
   "AAFEC": {
     "prontas": 14,
     "total": 19
-  },
-  "Travessias Híbridas": {
-    "prontas": 0,
-    "total": 0
   },
   "Ser Ponte": {
     "prontas": 16,
@@ -4239,19 +4268,19 @@ const LEGENDAS_DATA = {
 };
 
 const FORMAT_COUNTS = {
+  "Hélio Rôla 90 Anos": {
+    "post": 1,
+    "carrossel": 1,
+    "foto": 0,
+    "video": 0,
+    "story": 0
+  },
   "AAFEC": {
     "post": 12,
     "carrossel": 2,
     "foto": 0,
     "video": 5,
     "story": 2
-  },
-  "Travessias Híbridas": {
-    "post": 0,
-    "carrossel": 0,
-    "foto": 0,
-    "video": 0,
-    "story": 0
   },
   "Ser Ponte": {
     "post": 6,
@@ -4396,15 +4425,15 @@ const FORMAT_COUNTS = {
 };
 
 const AGENDA_COUNTS = {
+  "Hélio Rôla 90 Anos": {
+    "reuniao": 0,
+    "producao": 0,
+    "evento": 0
+  },
   "AAFEC": {
     "reuniao": 1,
     "producao": 1,
     "evento": 2
-  },
-  "Travessias Híbridas": {
-    "reuniao": 0,
-    "producao": 0,
-    "evento": 0
   },
   "Ser Ponte": {
     "reuniao": 0,
