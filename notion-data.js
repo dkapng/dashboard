@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 20:18:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 20:46:37 **/
 
-const LAST_UPDATE = '25/08/2026, 20:18:35';
+const LAST_UPDATE = '25/08/2026, 20:46:37';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -224,7 +224,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 13,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 0,
@@ -661,7 +661,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-participa-das-decis-es-sobre-o-FUNDAF-3ba33d8db9d2808591d5e43df48e4d5b"
@@ -2772,10 +2772,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Alerta-de-Fim-de-M-s-As-tabelas-vigentes-de-agosto-v-o-expirar-3a433d8db9d2805bbe1af44e328ee44d"
@@ -2785,10 +2783,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "28/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Insatisfeito-com-seu-plano-atual-Descubra-como-mudar-sem-perder-a-car-ncia-3a433d8db9d2804c9820fd40792ec0da"
