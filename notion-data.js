@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 13:27:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 14:04:36 **/
 
-const LAST_UPDATE = '25/08/2026, 13:27:17';
+const LAST_UPDATE = '25/08/2026, 14:04:36';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4002,16 +4002,6 @@ const DEMANDAS_EXTRAS = {
       "date": "12/08"
     }
   ],
-  "Univendas": [
-    {
-      "title": "Campanha de agosto de 2026",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Campanha-de-agosto-de-2026-3bf33d8db9d2805d8001f44e848c4e32",
-      "gestora": "Equipe",
-      "date": "19/08"
-    }
-  ],
   "Plannea": [
     {
       "title": "Boas-vindas Marcelo",
@@ -4028,14 +4018,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Promo-o-por-m-rito-do-Kelrick-de-Estagi-rio-Fiscal-para-o-cargo-de-Auxiliar-Fiscal-3bc33d8db9d28074915fcac0077e35cc",
       "gestora": "Equipe",
       "date": "14/08"
-    },
-    {
-      "title": "Reforma tributária para gestores de restaurantes",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Reforma-tribut-ria-para-gestores-de-restaurantes-3bb33d8db9d280ddad13e15b988e9fee",
-      "gestora": "Equipe",
-      "date": "13/08"
     },
     {
       "title": "Vídeo promoção Mayara",
