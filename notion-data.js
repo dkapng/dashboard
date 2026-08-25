@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 15:28:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 16:08:19 **/
 
-const LAST_UPDATE = '25/08/2026, 15:28:07';
+const LAST_UPDATE = '25/08/2026, 16:08:19';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -98,9 +98,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 13,
     "postado": 4,
-    "agendado": 7,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 10,
@@ -1148,7 +1148,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quer conhecer a metodologia da Stratto? Fale com nossa equipe pelo WhatsApp: ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [],
@@ -1159,7 +1159,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Antes de comemorar o próximo recorde de vendas, vale fazer uma pergunta: sua empresa está crescendo de forma saudável ou apenas aumentando os custos?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [],
@@ -1535,11 +1535,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quais-d-vidas-podem-acompanhar-um-im-vel-3ba33d8db9d28050896bfe0fea2c19e5"
     },
@@ -1548,11 +1546,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-pol-tica-interna-mal-elaborada-pode-gerar-problemas-trabalhistas-3ba33d8db9d28042a79eea2a71c7c30c"
     },
@@ -3950,9 +3946,17 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Juntos contra o HPV": [
     {
+      "title": "Vídeo para certificação de caucaia",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-para-certifica-o-de-caucaia-3c733d8db9d2801daf46f2d409e750c1",
+      "gestora": "Equipe",
+      "date": "27T10:00:00.000/08"
+    },
+    {
       "title": "I Simpósio | Apresentação para patrocinadores",
       "priority": "pppp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Apresenta-o-para-patrocinadores-3c233d8db9d280869352d8c535ffeb35",
       "gestora": "Equipe",
       "date": "21T11:30:00.000/08"
@@ -3988,7 +3992,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Material para apresentar a possíveis doadores",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
       "gestora": "Equipe",
       "date": "24/08"
@@ -4000,32 +4004,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
       "gestora": "Equipe",
       "date": "12/08"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Boas-vindas Marcelo",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Boas-vindas-Marcelo-3bc33d8db9d28037a9e9f37cc67b534b",
-      "gestora": "Equipe",
-      "date": "12/08"
-    },
-    {
-      "title": "Promoção por mérito do Kelrick de Estagiário Fiscal para o cargo de Auxiliar Fiscal",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Promo-o-por-m-rito-do-Kelrick-de-Estagi-rio-Fiscal-para-o-cargo-de-Auxiliar-Fiscal-3bc33d8db9d28074915fcac0077e35cc",
-      "gestora": "Equipe",
-      "date": "14/08"
-    },
-    {
-      "title": "Vídeo promoção Mayara",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
-      "gestora": "Equipe",
-      "date": "22/07"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4100,6 +4078,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Vídeo promoção Mayara",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
+      "gestora": "Equipe",
+      "date": "22/07"
     }
   ],
   "Tramix": [
@@ -4195,7 +4183,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 11,
+    "prontas": 13,
     "total": 14
   },
   "Rede Pangeia": {
