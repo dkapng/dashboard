@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 10:42:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 11:36:35 **/
 
-const LAST_UPDATE = '25/08/2026, 10:42:09';
+const LAST_UPDATE = '25/08/2026, 11:36:35';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -27,7 +27,6 @@ const GESTORAS = {
     "Conecta Assessoria"
   ],
   "Anna Ventana": [
-    "Jota Diesel",
     "Univendas",
     "Terrartesã",
     "RR Advocacia",
@@ -43,7 +42,6 @@ const NICHES = {
   "Tramix": "Geral",
   "Stratto": "Geral",
   "Juntos contra o HPV": "Geral",
-  "Jota Diesel": "Geral",
   "Ventana": "Geral",
   "Univendas": "Geral",
   "Terrartesã": "Geral",
@@ -111,14 +109,6 @@ const FEED_DATA = {
     "agendado": 9,
     "agendado_coord": 0,
     "a_agendar": 0
-  },
-  "Jota Diesel": {
-    "total": 5,
-    "pronto": 2,
-    "postado": 1,
-    "agendado": 1,
-    "agendado_coord": 0,
-    "a_agendar": 3
   },
   "Ventana": {
     "total": 5,
@@ -299,14 +289,6 @@ const VIDEO_DATA = {
     "agendado_coord": 1,
     "a_agendar": 1
   },
-  "Jota Diesel": {
-    "total": 3,
-    "pronto": 3,
-    "postado": 2,
-    "agendado": 1,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
   "Ventana": {
     "total": 0,
     "pronto": 0,
@@ -471,26 +453,18 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 3,
+    "total": 1,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 3,
     "pronto": 3,
     "postado": 1,
     "agendado": 1,
-    "agendado_coord": 0,
-    "a_agendar": 1
-  },
-  "Jota Diesel": {
-    "total": 1,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -575,12 +549,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Finseg Leal": {
-    "total": 1,
-    "pronto": 1,
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -1150,11 +1124,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quer-conhecer-a-metodologia-da-Stratto-Fale-com-nossa-equipe-pelo-WhatsApp-85-99420-2057-3b233d8db9d280d68481f6d1685fd9f4"
     },
@@ -1163,11 +1135,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-comemorar-o-pr-ximo-recorde-de-vendas-vale-fazer-uma-pergunta-sua-empresa-est-crescendo--3b233d8db9d28000bf45fa2e651f9b95"
     },
@@ -1392,69 +1362,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-diferentes-setores-da-sociedade-civil-d-o-as-m-os-o-impacto-deixa-de-ser-local-e-vira-pol-ti-39833d8db9d2809fb09dda9a3fca59de"
-    }
-  ],
-  "Jota Diesel": [
-    {
-      "title": "DIA DOS PAIS ",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "09/08",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/DIA-DOS-PAIS-3a633d8db9d28023b81efc418b1126b5"
-    },
-    {
-      "title": "Você sabe o que acontece antes de um motor apresentar falhas?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabe-o-que-acontece-antes-de-um-motor-apresentar-falhas-3a633d8db9d2806c90c2cdf9a071d2a5"
-    },
-    {
-      "title": "Cada veículo tem uma história. Nosso compromisso é mantê-la em movimento.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cada-ve-culo-tem-uma-hist-ria-Nosso-compromisso-mant-la-em-movimento-3a633d8db9d280fa8c79e23e06728ca1"
-    },
-    {
-      "title": "Desempenho é resultado de conhecimento, tecnologia e manutenção.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "21/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Desempenho-resultado-de-conhecimento-tecnologia-e-manuten-o-3a633d8db9d28098a640cd3c2ce850ee"
-    },
-    {
-      "title": "Na Jota Diesel você encontra manutenção completa para todos os tipos de injetores. Confira alguns exemplos: mn",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "19/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Na-Jota-Diesel-voc-encontra-manuten-o-completa-para-todos-os-tipos-de-injetores-Confira-alguns-ex-26933d8db9d280589e46cfdb46eab3cd"
     }
   ],
   "Ventana": [
@@ -3255,41 +3162,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-o-I-Simp-sio-do-Movimento-Juntos-contra-o-HPV-3ab33d8db9d28078974fd3ad9661fcc8"
     }
   ],
-  "Jota Diesel": [
-    {
-      "title": "Conte com a Jota",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "20/08",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Conte-com-a-Jota-3ac33d8db9d28025b6fdc9836d0797d3"
-    },
-    {
-      "title": "Excelência no serviço",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "13/08",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Excel-ncia-no-servi-o-3ac33d8db9d280aba8d8d5a2b0dc50f4"
-    },
-    {
-      "title": "Seu lucro fica na Bomba?",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "06/08",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Seu-lucro-fica-na-Bomba-3ac33d8db9d280de86eaf260bc34ca33"
-    }
-  ],
   "Ventana": [],
   "Univendas": [],
   "Terrartesã": [],
@@ -3782,32 +3654,6 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "Hoje é dia de acompanhar de perto mais uma empresa.",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "27/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Hoje-dia-de-acompanhar-de-perto-mais-uma-empresa-3b233d8db9d2808da8e9c1498059c8d7"
-    },
-    {
-      "title": "Quem está por trás da Stratto?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "26/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Escrevendo",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-est-por-tr-s-da-Stratto-3b233d8db9d2804b9addd217b6d581cc"
-    },
-    {
       "title": "Hoje queremos abrir as portas da Stratto para você.",
       "status": "postado",
       "formato": "📱 Story",
@@ -3852,21 +3698,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-acredita-que-o-c-ncer-do-colo-do-tero-pode-ser-eliminado-3ab33d8db9d280aba0d7c55786939a80"
-    }
-  ],
-  "Jota Diesel": [
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "26/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3a633d8db9d280ee8e0bd3fd7e29a0f5"
     }
   ],
   "Ventana": [],
@@ -4019,19 +3850,7 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [],
-  "Finseg Leal": [
-    {
-      "title": "Feliz Aniversário, Renato",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "25/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feliz-Anivers-rio-Renato-18933d8db9d28062b94deed3c4039836"
-    }
-  ],
+  "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [],
   "Daniel Maia Advocacia": [
@@ -4346,16 +4165,12 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Stratto": {
-    "prontas": 12,
+    "prontas": 14,
     "total": 14
   },
   "Juntos contra o HPV": {
     "prontas": 13,
     "total": 14
-  },
-  "Jota Diesel": {
-    "prontas": 8,
-    "total": 8
   },
   "Ventana": {
     "prontas": 0,
@@ -4457,7 +4272,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 1,
-    "story": 3
+    "story": 1
   },
   "Juntos contra o HPV": {
     "post": 5,
@@ -4465,13 +4280,6 @@ const FORMAT_COUNTS = {
     "foto": 0,
     "video": 5,
     "story": 3
-  },
-  "Jota Diesel": {
-    "post": 4,
-    "carrossel": 1,
-    "foto": 0,
-    "video": 3,
-    "story": 1
   },
   "Ventana": {
     "post": 0,
@@ -4548,7 +4356,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 6,
-    "story": 1
+    "story": 0
   },
   "Di Gregório Buffet": {
     "post": 0,
@@ -4615,11 +4423,6 @@ const AGENDA_COUNTS = {
   },
   "Juntos contra o HPV": {
     "reuniao": 1,
-    "producao": 0,
-    "evento": 0
-  },
-  "Jota Diesel": {
-    "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
