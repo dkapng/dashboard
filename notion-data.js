@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 17:53:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 18:20:00 **/
 
-const LAST_UPDATE = '25/08/2026, 17:53:18';
+const LAST_UPDATE = '25/08/2026, 18:20:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3992,7 +3992,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Material para apresentar a possíveis doadores",
       "priority": "pp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
       "gestora": "Equipe",
       "date": "24/08"
