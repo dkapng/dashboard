@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 12:34:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 13:27:17 **/
 
-const LAST_UPDATE = '25/08/2026, 12:34:51';
+const LAST_UPDATE = '25/08/2026, 13:27:17';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,10 +72,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 14,
     "pronto": 13,
-    "postado": 9,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ser Ponte": {
     "total": 16,
@@ -643,12 +643,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Entre Cantos e Contos Fortaleza ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "26/08",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "24/08",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -718,7 +716,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nosso grupo é do Balacobaco",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "24/08",
+      "date": "26/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3158,7 +3156,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dados-3c033d8db9d280aeb36dfc44a2ccd8ad"
     },
     {
-      "title": "Video 02 - Aline",
+      "title": "Video 02 - Aline - Prevenção",
       "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
       "date": "26/08",
@@ -3166,7 +3164,7 @@ const LINHA_VIDEO_ITEMS = {
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Video-02-Aline-3ab33d8db9d280bebba7cbfbe7bcf05d"
+      "notionUrl": "https://app.notion.com/p/Video-02-Aline-Preven-o-3ab33d8db9d280bebba7cbfbe7bcf05d"
     },
     {
       "title": "Video da Aline (ela vai postar ",
@@ -3954,7 +3952,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "I Simpósio | Apresentação para patrocinadores",
       "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/I-Simp-sio-Apresenta-o-para-patrocinadores-3c233d8db9d280869352d8c535ffeb35",
       "gestora": "Equipe",
       "date": "21T11:30:00.000/08"
@@ -4162,6 +4160,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Ortobom": "confirmada",
+  "RR Advocacia": "marcada",
   "Univendas": "marcada",
   "Planos Seguros": "marcada",
   "Solar Coworking": "confirmada",
@@ -4182,7 +4181,7 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "AAFEC": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 19
   },
   "Ser Ponte": {
@@ -4219,7 +4218,7 @@ const LEGENDAS_DATA = {
   },
   "Rede Pangeia": {
     "prontas": 6,
-    "total": 7
+    "total": 6
   },
   "Planos Seguros": {
     "prontas": 9,
@@ -4471,8 +4470,8 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "RR Advocacia": {
-    "reuniao": 0,
-    "producao": 0,
+    "reuniao": 1,
+    "producao": 1,
     "evento": 0
   },
   "Rede Pangeia": {
@@ -4492,7 +4491,7 @@ const AGENDA_COUNTS = {
   },
   "Ortobom": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "ItalaP": {
