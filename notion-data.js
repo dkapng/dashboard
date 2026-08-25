@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 14:04:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 14:53:03 **/
 
-const LAST_UPDATE = '25/08/2026, 14:04:36';
+const LAST_UPDATE = '25/08/2026, 14:53:03';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4040,7 +4040,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Mídia kit para a corrida de 2026",
       "priority": "pp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
       "gestora": "Equipe",
       "date": "17/06"
