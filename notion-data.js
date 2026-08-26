@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 11:36:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 13:11:36 **/
 
-const LAST_UPDATE = '26/08/2026, 11:36:42';
+const LAST_UPDATE = '26/08/2026, 13:11:36';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -194,9 +194,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 10,
     "postado": 1,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -225,10 +225,10 @@ const FEED_DATA = {
   "Conecta Assessoria": {
     "total": 13,
     "pronto": 13,
-    "postado": 3,
-    "agendado": 6,
+    "postado": 4,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 8,
@@ -386,12 +386,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 2,
+    "total": 1,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -2440,7 +2440,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Proteção de verdade não termina na assinatura da apólice. Fale com a Finseg e tenha nosso acompanhamento e as melhores soluções para cada momento da sua vida! (85) 99601-1000",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [],
@@ -2771,7 +2771,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Insatisfeito com seu plano atual? Descubra como mudar sem perder a carência.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "28/08",
       "missing": [],
@@ -2782,7 +2782,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Chega de perder tempo preenchendo formulários infinitos na internet para receber robôs te ligando o dia inteiro! Nosso time analisa o seu perfil, compara as maiores operadoras do mercado e envia a melhor opção para a sua realidade. Fale com a gente!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [],
@@ -2793,7 +2793,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Atrair e reter talentos exige os benefícios certos. A Conecta formata a proposta ideal para o tamanho da sua empresa. Consulte-nos pelo link da bio.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [],
@@ -3499,19 +3499,6 @@ const LINHA_VIDEO_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
-      "title": "Dia do Psicólogo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "26/08",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Psic-logo-3a033d8db9d2808aac35cf0903d3c87f"
-    },
-    {
       "title": "Dia dos Pais",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -4202,8 +4189,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 12,
-    "total": 13
+    "prontas": 11,
+    "total": 12
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
@@ -4350,7 +4337,7 @@ const FORMAT_COUNTS = {
     "post": 7,
     "carrossel": 2,
     "foto": 1,
-    "video": 2,
+    "video": 1,
     "story": 0
   },
   "Daniel Maia Advocacia": {
