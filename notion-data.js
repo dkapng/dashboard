@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 20:46:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/08/2026, 21:51:45 **/
 
-const LAST_UPDATE = '25/08/2026, 20:46:37';
+const LAST_UPDATE = '25/08/2026, 21:51:45';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 14,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
@@ -192,7 +192,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 10,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
@@ -658,10 +658,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "31/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-participa-das-decis-es-sobre-o-FUNDAF-3ba33d8db9d2808591d5e43df48e4d5b"
@@ -1814,7 +1813,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Vaga-para-analista-comercial-3bc33d8db9d280c281f5c8bf6ad0d49f"
     },
     {
-      "title": "Cuidado com a empresa que cresce sem saber quanto realmente sobra. Faturar mais, não significa necessariamente lucrar mais ",
+      "title": "Cuidado com a empresa que cresce sem saber quanto realmente sobra. Faturar mais não significa necessariamente lucrar mais.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
@@ -1825,7 +1824,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cuidado-com-a-empresa-que-cresce-sem-saber-quanto-realmente-sobra-Faturar-mais-n-o-significa-neces-3bb33d8db9d28027913ffbd9833d776a"
+      "notionUrl": "https://app.notion.com/p/Cuidado-com-a-empresa-que-cresce-sem-saber-quanto-realmente-sobra-Faturar-mais-n-o-significa-necess-3bb33d8db9d28027913ffbd9833d776a"
     },
     {
       "title": "Você sabe quanto seu produto vai precisar custar depois da reforma? Não é apenas uma questão de imposto. É uma questão de margem.",
@@ -2446,17 +2445,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Vai-adesivar-seu-carro-para-uma-campanha-Seu-seguro-pode-ser-afetado-3bf33d8db9d280f1bbf9e1b2200ccee5"
     },
     {
-      "title": "Proteção de verdade não termina na assinatura da apólice. Fale com a finseg e tenha nosso acompanhamento e as melhores soluções para cada momento da sua vida! (85) 99601-1000",
+      "title": "Proteção de verdade não termina na assinatura da apólice. Fale com a Finseg e tenha nosso acompanhamento e as melhores soluções para cada momento da sua vida! (85) 99601-1000",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Prote-o-de-verdade-n-o-termina-na-assinatura-da-ap-lice-Fale-com-a-finseg-e-tenha-nosso-acompanham-3ae33d8db9d28026a0fbec59c8b02154"
+      "notionUrl": "https://app.notion.com/p/Prote-o-de-verdade-n-o-termina-na-assinatura-da-ap-lice-Fale-com-a-Finseg-e-tenha-nosso-acompanham-3ae33d8db9d28026a0fbec59c8b02154"
     },
     {
       "title": "Quem dirige seu carro também está protegido?",
