@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 13:11:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 15:12:06 **/
 
-const LAST_UPDATE = '26/08/2026, 13:11:36';
+const LAST_UPDATE = '26/08/2026, 15:12:06';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,11 +79,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 16,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 11,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 4,
+    "agendado_coord": 1,
+    "a_agendar": 3,
     "st-paused": null
   },
   "Tramix": {
@@ -137,10 +137,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 14,
     "pronto": 13,
-    "postado": 5,
-    "agendado": 6,
+    "postado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 6,
@@ -183,12 +183,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 20,
+    "total": 21,
     "pronto": 19,
     "postado": 18,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Finseg Leal": {
     "total": 10,
@@ -284,9 +284,9 @@ const VIDEO_DATA = {
   "Juntos contra o HPV": {
     "total": 4,
     "pronto": 4,
-    "postado": 1,
+    "postado": 2,
     "agendado": 2,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 1
   },
   "Ventana": {
@@ -348,10 +348,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 0,
     "pronto": 0,
-    "postado": 3,
+    "postado": 4,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "ItalaP": {
     "total": 6,
@@ -879,19 +879,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/TUDO-QUE-VOC-PRECISA-SABER-SOBRE-O-BAZAR-3ab33d8db9d280d69497e3d7a72e434d"
     },
     {
-      "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, diz pesquisa.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "19/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-diz-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
-    },
-    {
       "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
@@ -927,10 +914,21 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Todos-os-dias-mulheres-realizam-12-5-bilh-es-de-horas-de-trabalho-de-cuidado-n-o-remunerado-no-mund-39733d8db9d280a9a19ac3877e11ecab"
     },
     {
+      "title": "Mais da metade dos lares do Ceará são chefiados por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "26/08",
+      "missing": [],
+      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-s-o-chefiados-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-l-39733d8db9d2801b9ce7d623d765dfc8"
+    },
+    {
       "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/08",
+      "date": "28/08",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1529,7 +1527,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe quais dívidas podem acompanhar um imóvel?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "28/08",
       "missing": [],
@@ -1540,7 +1538,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma política interna mal elaborada pode gerar problemas trabalhistas.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [],
@@ -2200,6 +2198,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "TBT da primeira reunião",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/TBT-da-primeira-reuni-o-3c833d8db9d2808180c7c2dfebcfcb58"
+    },
     {
       "title": "Horário de funcionamento",
       "status": "postado",
@@ -3136,12 +3148,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Video 02 - Aline - Prevenção",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/08",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Video-02-Aline-Preven-o-3ab33d8db9d280bebba7cbfbe7bcf05d"
     },
@@ -3287,15 +3299,12 @@ const LINHA_VIDEO_ITEMS = {
   "Ortobom": [
     {
       "title": "8H EM UMA CADEIRA?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/8H-EM-UMA-CADEIRA-3ac33d8db9d2804e9ffce1114fe6eca3"
     },
@@ -3914,6 +3923,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Selo do Grupo ",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Selo-do-Grupo-3c833d8db9d280828fd4d0cb89ac25cb",
+      "gestora": "Equipe",
+      "date": "28/08"
+    },
+    {
+      "title": "Vídeo sobre os núcleos internacionais no Summit",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-sobre-os-n-cleos-internacionais-no-Summit-3ba33d8db9d280209c03ed7119cdc00d",
+      "gestora": "Equipe",
+      "date": "12/08"
+    },
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Vídeo para certificação de caucaia",
@@ -3974,24 +4009,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
       "gestora": "Equipe",
       "date": "12/08"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Vídeo sobre os núcleos internacionais no Summit",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-sobre-os-n-cleos-internacionais-no-Summit-3ba33d8db9d280209c03ed7119cdc00d",
-      "gestora": "Equipe",
-      "date": "12/08"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
     }
   ],
   "Finseg Leal": [
@@ -4169,7 +4186,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Ortobom": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 13
   },
   "ItalaP": {
@@ -4178,7 +4195,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 18,
-    "total": 20
+    "total": 21
   },
   "Finseg Leal": {
     "prontas": 15,
@@ -4313,7 +4330,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Grupo Mulheres do Brasil": {
-    "post": 18,
+    "post": 19,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
