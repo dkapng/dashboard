@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 09:36:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 10:47:48 **/
 
-const LAST_UPDATE = '26/08/2026, 09:36:11';
+const LAST_UPDATE = '26/08/2026, 10:47:48';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -89,10 +89,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 14,
     "pronto": 14,
-    "postado": 11,
+    "postado": 12,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 13,
@@ -161,10 +161,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 19,
     "pronto": 18,
-    "postado": 12,
+    "postado": 13,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Ortobom": {
     "total": 7,
@@ -185,10 +185,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 20,
     "pronto": 19,
-    "postado": 17,
+    "postado": 18,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Finseg Leal": {
     "total": 10,
@@ -987,12 +987,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Linha reta, overloque ou pesponto? Cada uma tem seu papel",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "26/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1828,12 +1826,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe quanto seu produto vai precisar custar depois da reforma? Não é apenas uma questão de imposto. É uma questão de margem.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "26/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2288,12 +2284,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando abdicar da própria em vida em prol do outro não é escolha, você vira refém",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "26/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -4148,7 +4142,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Tramix": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 16
   },
   "Stratto": {
@@ -4184,7 +4178,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Plannea": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 19
   },
   "Ortobom": {
@@ -4196,7 +4190,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 20
   },
   "Finseg Leal": {
