@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 17:25:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 20:54:44 **/
 
-const LAST_UPDATE = '26/08/2026, 17:25:42';
+const LAST_UPDATE = '26/08/2026, 20:54:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -919,7 +919,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "26/08",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-s-o-chefiados-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-l-39733d8db9d2801b9ce7d623d765dfc8"
@@ -3923,11 +3923,37 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "Card para WhatsApp ",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Card-para-WhatsApp-3c833d8db9d2805e9d84cc90cdd663ef",
+      "gestora": "Equipe",
+      "date": "27/08"
+    },
+    {
+      "title": "Vídeo para tela - auto",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-para-tela-auto-3b433d8db9d280bda5a4e8d38309cd89",
+      "gestora": "Equipe",
+      "date": "17/08"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Plannea": [
     {
       "title": "Pasta de conferência",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
       "gestora": "Equipe",
       "date": "26/08"
@@ -4027,24 +4053,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
       "gestora": "Equipe",
       "date": "12/08"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Vídeo para tela - auto",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/V-deo-para-tela-auto-3b433d8db9d280bda5a4e8d38309cd89",
-      "gestora": "Equipe",
-      "date": "17/08"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "AAFEC": [
