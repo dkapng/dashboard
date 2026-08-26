@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 15:12:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/08/2026, 17:25:42 **/
 
-const LAST_UPDATE = '26/08/2026, 15:12:06';
+const LAST_UPDATE = '26/08/2026, 17:25:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3923,6 +3923,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Pasta de conferência",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
+      "gestora": "Equipe",
+      "date": "26/08"
+    },
+    {
+      "title": "Vídeo promoção Mayara",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
+      "gestora": "Equipe",
+      "date": "22/07"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Selo do Grupo ",
@@ -4065,16 +4083,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Vídeo promoção Mayara",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
-      "gestora": "Equipe",
-      "date": "22/07"
     }
   ],
   "Tramix": [
