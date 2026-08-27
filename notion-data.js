@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/08/2026, 03:29:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/08/2026, 14:51:35 **/
 
-const LAST_UPDATE = '27/08/2026, 03:29:51';
+const LAST_UPDATE = '27/08/2026, 14:51:35';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,10 +72,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 14,
     "pronto": 14,
-    "postado": 10,
+    "postado": 12,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Ser Ponte": {
     "total": 16,
@@ -159,12 +159,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Plannea": {
-    "total": 19,
+    "total": 21,
     "pronto": 18,
     "postado": 13,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 7
   },
   "Ortobom": {
     "total": 7,
@@ -184,11 +184,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 21,
-    "pronto": 19,
-    "postado": 18,
+    "pronto": 20,
+    "postado": 19,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Finseg Leal": {
     "total": 10,
@@ -252,10 +252,10 @@ const VIDEO_DATA = {
   "AAFEC": {
     "total": 4,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ser Ponte": {
     "total": 0,
@@ -495,10 +495,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 4,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Rede Pangeia": {
     "total": 2,
@@ -623,7 +623,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-H-lio-R-la-90-anos-de-uma-vida-entre-arte-ci-ncia-cidade-e-experimenta-o-3c733d8db9d280238fe2ef82a4ea7fe0"
@@ -680,7 +680,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "FUNDAF: por que esse fundo interessa a categoria fazendária?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "25/08",
       "missing": [],
@@ -713,7 +713,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nosso grupo é do Balacobaco",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [],
@@ -1774,6 +1774,34 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Assistente fiscal ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Assistente-fiscal-3c933d8db9d280b2b34fcca35d4cff11"
+    },
+    {
+      "title": "Analista contábil ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/08",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Analista-cont-bil-3c933d8db9d28020bba6db548c98de1b"
+    },
+    {
       "title": "Vaga para estagiário fiscal",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -2200,13 +2228,10 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "TBT da primeira reunião",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "27/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -3058,12 +3083,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Antonio Idalmir",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "27/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -3722,7 +3745,7 @@ const LINHA_STORIES_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Muitos problemas jurídicos começam em decisões tomadas sem uma análise prévia.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "27/08",
       "missing": [],
@@ -3953,7 +3976,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Pasta de conferência",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
       "gestora": "Equipe",
       "date": "26/08"
@@ -3997,7 +4020,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vídeo para certificação de caucaia",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/V-deo-para-certifica-o-de-caucaia-3c733d8db9d2801daf46f2d409e750c1",
       "gestora": "Equipe",
       "date": "27T10:00:00.000/08"
@@ -4031,7 +4054,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Site",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Site-3c033d8db9d2809489b8c7ed035a9314",
       "gestora": "Equipe",
       "date": "26/08"
@@ -4059,10 +4082,10 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Agenda de setembro de 2026",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
       "gestora": "Equipe",
-      "date": "22/08"
+      "date": "29/08"
     }
   ],
   "Ortobom": [
@@ -4132,6 +4155,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Juntos contra o HPV": "marcada",
   "Ortobom": "confirmada",
   "RR Advocacia": "marcada",
   "Univendas": "marcada",
@@ -4151,10 +4175,10 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
     "prontas": 0,
-    "total": 2
+    "total": 3
   },
   "AAFEC": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 19
   },
   "Ser Ponte": {
@@ -4199,7 +4223,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 14,
-    "total": 19
+    "total": 21
   },
   "Ortobom": {
     "prontas": 13,
@@ -4210,7 +4234,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 21
   },
   "Finseg Leal": {
@@ -4325,7 +4349,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Plannea": {
-    "post": 17,
+    "post": 19,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
@@ -4424,8 +4448,8 @@ const AGENDA_COUNTS = {
   },
   "Juntos contra o HPV": {
     "reuniao": 1,
-    "producao": 0,
-    "evento": 0
+    "producao": 1,
+    "evento": 1
   },
   "Ventana": {
     "reuniao": 1,
