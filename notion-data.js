@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/08/2026, 14:51:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/08/2026, 22:58:32 **/
 
-const LAST_UPDATE = '27/08/2026, 14:51:35';
+const LAST_UPDATE = '27/08/2026, 22:58:32';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,11 +63,11 @@ const NICHES = {
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 2
+    "agendado_coord": 1,
+    "a_agendar": 1
   },
   "AAFEC": {
     "total": 14,
@@ -160,7 +160,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 21,
-    "pronto": 18,
+    "pronto": 20,
     "postado": 13,
     "agendado": 0,
     "agendado_coord": 1,
@@ -354,10 +354,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "ItalaP": {
-    "total": 6,
-    "pronto": 6,
+    "total": 7,
+    "pronto": 7,
     "postado": 2,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -606,24 +606,23 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-visitar-uma-vida-que-nunca-foi-uma-linha-reta-3c733d8db9d28022b6cfeec188c4011c"
     },
     {
       "title": "Quem é Hélio Rôla? 90 anos de uma vida entre arte, ciência, cidade e experimentação.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "25/08",
       "missing": [
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-H-lio-R-la-90-anos-de-uma-vida-entre-arte-ci-ncia-cidade-e-experimenta-o-3c733d8db9d280238fe2ef82a4ea7fe0"
@@ -1774,29 +1773,27 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "Assistente fiscal ",
+      "title": "Assistente fiscal",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Assistente-fiscal-3c933d8db9d280b2b34fcca35d4cff11"
     },
     {
-      "title": "Analista contábil ",
+      "title": "Analista contábil",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Analista-cont-bil-3c933d8db9d28020bba6db548c98de1b"
@@ -3389,6 +3386,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Video de aniversario",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/08",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Video-de-aniversario-3c933d8db9d2803e9994f1d5b6585757"
+    },
+    {
       "title": "Vídeo",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -3950,18 +3958,10 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Card para WhatsApp ",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Card-para-WhatsApp-3c833d8db9d2805e9d84cc90cdd663ef",
       "gestora": "Equipe",
       "date": "27/08"
-    },
-    {
-      "title": "Vídeo para tela - auto",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/V-deo-para-tela-auto-3b433d8db9d280bda5a4e8d38309cd89",
-      "gestora": "Equipe",
-      "date": "17/08"
     },
     {
       "title": "Diagnóstico de proteções - Versão de Apresentação",
@@ -4230,8 +4230,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "ItalaP": {
-    "prontas": 15,
-    "total": 16
+    "prontas": 16,
+    "total": 17
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 19,
@@ -4366,7 +4366,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 0,
     "foto": 0,
-    "video": 6,
+    "video": 7,
     "story": 2
   },
   "Grupo Mulheres do Brasil": {
