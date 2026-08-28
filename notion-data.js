@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/08/2026, 10:54:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/08/2026, 20:21:04 **/
 
-const LAST_UPDATE = '28/08/2026, 10:54:07';
+const LAST_UPDATE = '28/08/2026, 20:21:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -82,8 +82,8 @@ const FEED_DATA = {
     "pronto": 15,
     "postado": 11,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 3,
+    "agendado_coord": 2,
+    "a_agendar": 2,
     "st-paused": null
   },
   "Tramix": {
@@ -119,12 +119,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Univendas": {
-    "total": 4,
+    "total": 3,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Terrartesã": {
     "total": 0,
@@ -879,13 +879,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "28/08",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ser-mulher-representa-em-m-dia-10-horas-semanais-a-mais-de-trabalho-dom-stico-e-de-cuidado-39733d8db9d2802c9dc5e3ce7162d868"
@@ -1458,20 +1458,6 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Univendas": [
-    {
-      "title": "Dia do Psicólogo",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "27/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Psic-logo-3ae33d8db9d280b3b73ae05f90ac6f9b"
-    },
     {
       "title": "Quem sempre colocou a família em primeiro lugar também merece ser prioridade. ",
       "status": "agendado",
@@ -3907,6 +3893,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Stratto": [
+    {
+      "title": "Folder sobre tranquilidade financeira",
+      "priority": "pppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Folder-sobre-tranquilidade-financeira-3ca33d8db9d2807a8b25e99cc8cdb03b",
+      "gestora": "Equipe",
+      "date": "28T17:00:00.000/08"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Card para WhatsApp ",
@@ -4132,7 +4128,7 @@ const LEGENDAS_DATA = {
   },
   "Univendas": {
     "prontas": 3,
-    "total": 4
+    "total": 3
   },
   "Terrartesã": {
     "prontas": 0,
@@ -4243,7 +4239,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 4,
+    "post": 3,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
