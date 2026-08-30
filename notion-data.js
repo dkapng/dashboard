@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/08/2026, 11:11:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/08/2026, 15:07:26 **/
 
-const LAST_UPDATE = '30/08/2026, 11:11:25';
+const LAST_UPDATE = '30/08/2026, 15:07:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3989,7 +3989,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Agenda de setembro de 2026",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
       "gestora": "Equipe",
       "date": "29/08"
