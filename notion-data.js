@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/08/2026, 15:07:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/08/2026, 18:18:56 **/
 
-const LAST_UPDATE = '30/08/2026, 15:07:26';
+const LAST_UPDATE = '30/08/2026, 18:18:56';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3897,7 +3897,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Folder sobre tranquilidade financeira",
       "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Folder-sobre-tranquilidade-financeira-3ca33d8db9d2807a8b25e99cc8cdb03b",
       "gestora": "Equipe",
       "date": "28T17:00:00.000/08"
@@ -3971,7 +3971,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Material para apresentar a possíveis doadores",
       "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
       "gestora": "Equipe",
       "date": "24/08"
@@ -3989,7 +3989,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Agenda de setembro de 2026",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
       "gestora": "Equipe",
       "date": "29/08"
@@ -4045,7 +4045,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualizar destaques dos stories",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
       "gestora": "Equipe",
       "date": "21/07"
