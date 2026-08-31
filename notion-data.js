@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 31/08/2026, 06:09:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 31/08/2026, 14:09:19 **/
 
-const LAST_UPDATE = '31/08/2026, 06:09:35';
+const LAST_UPDATE = '31/08/2026, 14:09:19';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,10 +72,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 14,
     "pronto": 14,
-    "postado": 12,
+    "postado": 13,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ser Ponte": {
     "total": 16,
@@ -89,10 +89,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 14,
     "pronto": 14,
-    "postado": 13,
+    "postado": 14,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 13,
@@ -160,7 +160,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 21,
-    "pronto": 20,
+    "pronto": 21,
     "postado": 15,
     "agendado": 0,
     "agendado_coord": 1,
@@ -176,11 +176,11 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 11,
-    "pronto": 10,
-    "postado": 3,
+    "pronto": 11,
+    "postado": 4,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 21,
@@ -274,12 +274,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 4,
@@ -331,11 +331,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 9,
-    "pronto": 7,
-    "postado": 7,
+    "pronto": 8,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Plannea": {
     "total": 0,
@@ -578,7 +578,8 @@ const STORIES_DATA = {
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0,
+    "st-paused": null
   },
   "Conecta Assessoria": {
     "total": 1,
@@ -656,22 +657,18 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-participa-das-decis-es-sobre-o-FUNDAF-3ba33d8db9d2808591d5e43df48e4d5b"
     },
     {
       "title": "Do ICMS ao IBS: a administração fazendária também está mudando",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -993,7 +990,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que 20 anos ensinam sobre qualidade?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "31/08",
       "missing": [],
@@ -1815,12 +1812,11 @@ const LINHA_FEED_ITEMS = {
       "title": "Cuidado com a empresa que cresce sem saber quanto realmente sobra. Faturar mais não significa necessariamente lucrar mais.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/08",
+      "date": "31/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cuidado-com-a-empresa-que-cresce-sem-saber-quanto-realmente-sobra-Faturar-mais-n-o-significa-necess-3bb33d8db9d28027913ffbd9833d776a"
@@ -2091,13 +2087,11 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "Itapipoca faz parte dos nossos dias, das nossas conquistas e da nossa história. Feliz aniversário!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "31/08",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Itapipoca-faz-parte-dos-nossos-dias-das-nossas-conquistas-e-da-nossa-hist-ria-Feliz-anivers-rio-3ca33d8db9d280398746f5506a7dae34"
@@ -2289,9 +2283,9 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-vale-o-trabalho-que-nunca-aparece-no-contracheque-3b233d8db9d2804cb3a2cb8098c3c1bb"
     },
     {
@@ -3088,21 +3082,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-de-dia-dos-pais-3b233d8db9d280638ebaeee78df55638"
     }
   ],
-  "Stratto": [
-    {
-      "title": "Antes de assumir o financeiro de uma empresa, fazemos uma coisa que quase ninguém faz.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "31/08",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Antes-de-assumir-o-financeiro-de-uma-empresa-fazemos-uma-coisa-que-quase-ningu-m-faz-39133d8db9d280189008dbb541a3fb8b"
-    }
-  ],
+  "Stratto": [],
   "Juntos contra o HPV": [
     {
       "title": "Porque é diferente?",
@@ -3170,15 +3150,12 @@ const LINHA_VIDEO_ITEMS = {
   "Planos Seguros": [
     {
       "title": "Majoração de membros",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "31/08",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Majora-o-de-membros-3c633d8db9d280c6bec0f4c9840beb0e"
     },
@@ -3824,7 +3801,7 @@ const LINHA_STORIES_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Feliz aniversário, Rikelme",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "📱 Story",
       "date": "30/08",
       "missing": [],
@@ -3835,7 +3812,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Feliz aniversário, Beatriz",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "📱 Story",
       "date": "30/08",
       "missing": [],
@@ -3889,24 +3866,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Stratto": [
+  "AAFEC": [
     {
-      "title": "Folder sobre tranquilidade financeira",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Folder-sobre-tranquilidade-financeira-3ca33d8db9d2807a8b25e99cc8cdb03b",
+      "title": "Criar layout para aniversários ",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Criar-layout-para-anivers-rios-3cd33d8db9d2805086fff74a934aec96",
       "gestora": "Equipe",
-      "date": "28T17:00:00.000/08"
+      "date": "31T18:00:00.000/08"
+    },
+    {
+      "title": "Agenda de setembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
+      "gestora": "Equipe",
+      "date": "29/08"
     }
   ],
   "Finseg Leal": [
     {
-      "title": "Card para WhatsApp ",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Card-para-WhatsApp-3c833d8db9d2805e9d84cc90cdd663ef",
+      "title": "Card para whatsapp",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Card-para-whatsapp-3cd33d8db9d280858f48ea689c532676",
       "gestora": "Equipe",
-      "date": "27/08"
+      "date": "31/08"
     },
     {
       "title": "Diagnóstico de proteções - Versão de Apresentação",
@@ -3981,16 +3966,6 @@ const DEMANDAS_EXTRAS = {
       "date": "12/08"
     }
   ],
-  "AAFEC": [
-    {
-      "title": "Agenda de setembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
-      "gestora": "Equipe",
-      "date": "29/08"
-    }
-  ],
   "Juntos contra o HPV": [
     {
       "title": "I Simpósio | Régua",
@@ -4041,7 +4016,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualizar destaques dos stories",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
       "gestora": "Equipe",
       "date": "21/07"
@@ -4096,10 +4071,10 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
     "prontas": 0,
-    "total": 3
+    "total": 2
   },
   "AAFEC": {
-    "prontas": 16,
+    "prontas": 18,
     "total": 19
   },
   "Ser Ponte": {
@@ -4111,8 +4086,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Stratto": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 13,
+    "total": 13
   },
   "Juntos contra o HPV": {
     "prontas": 13,
@@ -4139,7 +4114,7 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Planos Seguros": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 12
   },
   "Plannea": {
@@ -4217,7 +4192,7 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 2,
     "foto": 0,
-    "video": 1,
+    "video": 0,
     "story": 1
   },
   "Juntos contra o HPV": {
