@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/08/2026, 23:44:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 31/08/2026, 06:09:35 **/
 
-const LAST_UPDATE = '30/08/2026, 23:44:37';
+const LAST_UPDATE = '31/08/2026, 06:09:35';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -89,10 +89,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 14,
     "pronto": 14,
-    "postado": 12,
+    "postado": 13,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 13,
@@ -971,12 +971,10 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "A melhor linha, muitas vezes, é aquela que desaparece no resultado final",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -998,11 +996,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "31/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-20-anos-ensinam-sobre-qualidade-3bf33d8db9d280c2a9cbd2fb16de2818"
     },
@@ -4111,7 +4107,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Tramix": {
-    "prontas": 14,
+    "prontas": 16,
     "total": 16
   },
   "Stratto": {
