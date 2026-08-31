@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 31/08/2026, 14:09:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 31/08/2026, 18:57:59 **/
 
-const LAST_UPDATE = '31/08/2026, 14:09:19';
+const LAST_UPDATE = '31/08/2026, 18:57:59';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -78,12 +78,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Ser Ponte": {
-    "total": 16,
-    "pronto": 15,
-    "postado": 11,
+    "total": 15,
+    "pronto": 14,
+    "postado": 12,
     "agendado": 0,
-    "agendado_coord": 2,
-    "a_agendar": 2,
+    "agendado_coord": 1,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Tramix": {
@@ -136,7 +136,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 14,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 6,
     "agendado": 7,
     "agendado_coord": 0,
@@ -161,10 +161,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 21,
     "pronto": 21,
-    "postado": 15,
+    "postado": 16,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 7,
@@ -184,11 +184,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 21,
-    "pronto": 20,
-    "postado": 20,
+    "pronto": 21,
+    "postado": 21,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Finseg Leal": {
     "total": 10,
@@ -225,10 +225,10 @@ const FEED_DATA = {
   "Conecta Assessoria": {
     "total": 13,
     "pronto": 13,
-    "postado": 4,
+    "postado": 5,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 8,
@@ -285,9 +285,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 2,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -372,10 +372,10 @@ const VIDEO_DATA = {
   "Finseg Leal": {
     "total": 6,
     "pronto": 6,
-    "postado": 0,
+    "postado": 1,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -911,7 +911,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mais da metade dos lares do Ceará são chefiados por mulheres. 56% dos mais de 3,2 milhões de domicílios do estado têm uma mulher como responsável.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "26/08",
       "missing": [],
@@ -919,17 +919,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mais-da-metade-dos-lares-do-Cear-s-o-chefiados-por-mulheres-56-dos-mais-de-3-2-milh-es-de-domic-l-39733d8db9d2801b9ce7d623d765dfc8"
-    },
-    {
-      "title": "Você está sendo convidado(a) para o \"30 minutos para Ser Ponte\" online",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/08",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-est-sendo-convidado-a-para-o-30-minutos-para-Ser-Ponte-online-39733d8db9d280e0a052c4c90cd9e0e8"
     },
     {
       "title": "Você que acompanha a Ser Ponte aqui nas redes sociais: como você definiria o nosso trabalho em uma palavra?",
@@ -1495,10 +1484,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "31/08",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-sabe-quem-tem-acesso-aos-dados-dos-seus-clientes-3ba33d8db9d280218c8ec8b7b10d194a"
@@ -1810,12 +1798,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cuidado com a empresa que cresce sem saber quanto realmente sobra. Faturar mais não significa necessariamente lucrar mais.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "31/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2276,15 +2262,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quanto vale o trabalho que nunca aparece no contracheque?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "31/08",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-vale-o-trabalho-que-nunca-aparece-no-contracheque-3b233d8db9d2804cb3a2cb8098c3c1bb"
     },
@@ -2750,7 +2733,7 @@ const LINHA_FEED_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Alerta de Fim de Mês: As tabelas vigentes de agosto vão expirar.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "31/08",
       "missing": [],
@@ -3086,14 +3069,12 @@ const LINHA_VIDEO_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Porque é diferente?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "31/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Porque-diferente-3c033d8db9d280fdb601f2e5a5f3005f"
     },
@@ -3392,14 +3373,12 @@ const LINHA_VIDEO_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Emprestei meu carro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "31/08",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Emprestei-meu-carro-3ae33d8db9d28065877bf5e393ce70cd"
     },
@@ -3866,6 +3845,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ser Ponte": [
+    {
+      "title": "Alterações no pitch",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Altera-es-no-pitch-3cd33d8db9d280ea8247f09520b56be9",
+      "gestora": "Equipe",
+      "date": "31/08"
+    },
+    {
+      "title": "Material para apresentar a possíveis doadores",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
+      "gestora": "Equipe",
+      "date": "24/08"
+    },
+    {
+      "title": "Convocatória para Brechós Comunitários",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Criar layout para aniversários ",
@@ -3882,24 +3887,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
       "gestora": "Equipe",
       "date": "29/08"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Card para whatsapp",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Card-para-whatsapp-3cd33d8db9d280858f48ea689c532676",
-      "gestora": "Equipe",
-      "date": "31/08"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Plannea": [
@@ -3946,24 +3933,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Site-3c033d8db9d2809489b8c7ed035a9314",
       "gestora": "Equipe",
       "date": "26/08"
-    }
-  ],
-  "Ser Ponte": [
-    {
-      "title": "Material para apresentar a possíveis doadores",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
-      "gestora": "Equipe",
-      "date": "24/08"
-    },
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
     }
   ],
   "Juntos contra o HPV": [
@@ -4022,6 +3991,16 @@ const DEMANDAS_EXTRAS = {
       "date": "21/07"
     }
   ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
@@ -4078,8 +4057,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Ser Ponte": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 15,
+    "total": 15
   },
   "Tramix": {
     "prontas": 16,
@@ -4090,7 +4069,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Juntos contra o HPV": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 14
   },
   "Ventana": {
@@ -4118,7 +4097,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Plannea": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 21
   },
   "Ortobom": {
@@ -4130,11 +4109,11 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 20,
+    "prontas": 21,
     "total": 21
   },
   "Finseg Leal": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 16
   },
   "Di Gregório Buffet": {
@@ -4175,7 +4154,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Ser Ponte": {
-    "post": 6,
+    "post": 5,
     "carrossel": 10,
     "foto": 0,
     "video": 0,
