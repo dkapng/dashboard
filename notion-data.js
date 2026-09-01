@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 18:52:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 20:42:41 **/
 
-const LAST_UPDATE = '01/09/2026, 18:52:49';
+const LAST_UPDATE = '01/09/2026, 20:42:41';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3085,6 +3085,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Tramix": [
+    {
+      "title": "Alterar avatar nas redes sociais",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Alterar-avatar-nas-redes-sociais-3ce33d8db9d2801ab4a2f9b03a6a4661",
+      "gestora": "Equipe",
+      "date": "02/09"
+    },
+    {
+      "title": "Atualizar destaques dos stories",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
+      "gestora": "Equipe",
+      "date": "21/07"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Agenda de outubro de 2026",
@@ -3229,7 +3247,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Selo do Grupo",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Selo-do-Grupo-3c833d8db9d280828fd4d0cb89ac25cb",
       "gestora": "Equipe",
       "date": "28/08"
@@ -3357,16 +3375,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
-    }
-  ],
-  "Tramix": [
-    {
-      "title": "Atualizar destaques dos stories",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
-      "gestora": "Equipe",
-      "date": "21/07"
     }
   ]
 };
