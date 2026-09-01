@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 12:51:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 16:05:16 **/
 
-const LAST_UPDATE = '01/09/2026, 12:51:34';
+const LAST_UPDATE = '01/09/2026, 16:05:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Plannea": {
-    "total": 1,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 5
   },
   "Ortobom": {
     "total": 0,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 1,
+    "total": 8,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 8
   },
   "Finseg Leal": {
     "total": 0,
@@ -316,9 +316,9 @@ const VIDEO_DATA = {
     "total": 3,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 0,
@@ -345,12 +345,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 0,
-    "pronto": 0,
+    "total": 4,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 7
   },
   "ItalaP": {
     "total": 5,
@@ -1166,7 +1166,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
@@ -1683,6 +1683,62 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "A Receita Federal já está cruzando informações antes mesmo de a empresa preencher obrigações",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-Receita-Federal-j-est-cruzando-informa-es-antes-mesmo-de-a-empresa-preencher-obriga-es-3ce33d8db9d280a3bbe3cb1de2e8426b"
+    },
+    {
+      "title": "Ter um sistema de gestão não significa ter informação confiável.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ter-um-sistema-de-gest-o-n-o-significa-ter-informa-o-confi-vel-3ce33d8db9d280d0814cd149c9ea5382"
+    },
+    {
+      "title": "Durante a adaptação às novas obrigações da Reforma Tributária, o contador pode receber alertas diretamente da Receita",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Durante-a-adapta-o-s-novas-obriga-es-da-Reforma-Tribut-ria-o-contador-pode-receber-alertas-diret-3ce33d8db9d280d3b9c0eb0d19fa1179"
+    },
+    {
+      "title": "O Simples Nacional também está mudando",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-Simples-Nacional-tamb-m-est-mudando-3ce33d8db9d280fea4fce2f8d272d691"
+    },
+    {
       "title": "7 de Setembro: Dia da Independência - Independência também é poder tomar boas decisões",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1733,6 +1789,103 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Falar de mulheres sem falar de raça também pode esconder desigualdades",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Falar-de-mulheres-sem-falar-de-ra-a-tamb-m-pode-esconder-desigualdades-3ce33d8db9d2809a974cdad9872a5110"
+    },
+    {
+      "title": "Em 2026, mais de 1 milhão de atendimentos chegaram ao Ligue 180 em apenas sete meses.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Em-2026-mais-de-1-milh-o-de-atendimentos-chegaram-ao-Ligue-180-em-apenas-sete-meses-3ce33d8db9d2803ba243d6e49756233a"
+    },
+    {
+      "title": "Se não medimos a desigualdade, como podemos combatê-la?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-n-o-medimos-a-desigualdade-como-podemos-combat-la-3ce33d8db9d28098a94fdaa169f80aa7"
+    },
+    {
+      "title": "Menstruar ainda pode significar faltar à escola",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Menstruar-ainda-pode-significar-faltar-escola-3ce33d8db9d2809991aecbaab649d0a4"
+    },
+    {
+      "title": "Mulheres nas eleições: participar não é o mesmo que ter espaço",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mulheres-nas-elei-es-participar-n-o-o-mesmo-que-ter-espa-o-3ce33d8db9d280a7bbd2f3867e3fa71a"
+    },
+    {
+      "title": "A crise climática também é uma questão de gênero",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-crise-clim-tica-tamb-m-uma-quest-o-de-g-nero-3ce33d8db9d2802682ecda63a96c0e8f"
+    },
+    {
+      "title": "Quando a tecnologia também pode ser usada para violentar mulheres",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-a-tecnologia-tamb-m-pode-ser-usada-para-violentar-mulheres-3ce33d8db9d2805a8c8eeb6ca2194407"
+    },
     {
       "title": "7 de Setembro: Dia da Independência - Um país independente também precisa de cidadãs com autonomia para transformar a realidade",
       "status": "a_agendar",
@@ -2202,7 +2355,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "01/09",
       "missing": [],
@@ -2365,7 +2518,93 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Plannea": [],
-  "Ortobom": [],
+  "Ortobom": [
+    {
+      "title": "Visita que você estava adiando",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/09",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Visita-que-voc-estava-adiando-3ce33d8db9d2804288e3c5fb0a836ed9"
+    },
+    {
+      "title": "Processo do colchão ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Processo-do-colch-o-3ce33d8db9d280c7845cd19f21f984f4"
+    },
+    {
+      "title": "Orion",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Orion-3ce33d8db9d2809f8a2fd9529e0be5f0"
+    },
+    {
+      "title": "Dia do cliente ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "15/09",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-3ce33d8db9d280909a32d78553132f25"
+    },
+    {
+      "title": "Processo ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Processo-3ce33d8db9d28016af01dec96cda117d"
+    },
+    {
+      "title": "Considerações",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/09",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Considera-es-3ce33d8db9d2808e9124e5fe0d578263"
+    },
+    {
+      "title": "Olhar com mais atenção",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "02/09",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Olhar-com-mais-aten-o-3ce33d8db9d2804cb45cf2eaf75149da"
+    }
+  ],
   "ItalaP": [
     {
       "title": "Vamos até você",
@@ -2822,6 +3061,42 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Stratto": [
+    {
+      "title": "Edição de videos",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Edi-o-de-videos-3ce33d8db9d280f5ab9ecd7a85ebb94b",
+      "gestora": "Equipe",
+      "date": "04/09"
+    },
+    {
+      "title": "Fundo para reuniões online",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fundo-para-reuni-es-online-3ca33d8db9d2806688ebd65e8351d05f",
+      "gestora": "Equipe",
+      "date": "02/09"
+    }
+  ],
+  "Conecta Assessoria": [
+    {
+      "title": "Criar assinatura de e-mail",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-assinatura-de-e-mail-3ce33d8db9d2803eacc2e4961352b32d",
+      "gestora": "Equipe",
+      "date": "02/09"
+    },
+    {
+      "title": "Trocar foto da assinatura de email da Chrys",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Trocar-foto-da-assinatura-de-email-da-Chrys-3ce33d8db9d28039810fe48f28bb63a7",
+      "gestora": "Equipe",
+      "date": "02/09"
+    }
+  ],
   "Daniel Maia Advocacia": [
     {
       "title": "Assinatura de e-mail para Fernanda Bitu",
@@ -2930,7 +3205,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Vídeos para o trafego - Unimed",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/V-deos-para-o-trafego-Unimed-3cd33d8db9d28055a471ea6d95e82d75",
       "gestora": "Equipe",
       "date": "03/09"
@@ -2976,16 +3251,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
       "gestora": "Equipe",
       "date": "29/05"
-    }
-  ],
-  "Stratto": [
-    {
-      "title": "Fundo para reuniões online",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fundo-para-reuni-es-online-3ca33d8db9d2806688ebd65e8351d05f",
-      "gestora": "Equipe",
-      "date": "02/09"
     }
   ],
   "Plannea": [
@@ -3129,19 +3394,19 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 1,
-    "total": 1
+    "total": 7
   },
   "Ortobom": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 7,
+    "total": 7
   },
   "ItalaP": {
     "prontas": 5,
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 1,
-    "total": 1
+    "prontas": 2,
+    "total": 8
   },
   "Finseg Leal": {
     "prontas": 0,
@@ -3255,7 +3520,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Plannea": {
-    "post": 1,
+    "post": 5,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -3265,7 +3530,7 @@ const FORMAT_COUNTS = {
     "post": 0,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 7,
     "story": 0
   },
   "ItalaP": {
@@ -3276,7 +3541,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Grupo Mulheres do Brasil": {
-    "post": 1,
+    "post": 8,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
