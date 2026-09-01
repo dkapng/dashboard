@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 16:05:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 18:52:49 **/
 
-const LAST_UPDATE = '01/09/2026, 16:05:16';
+const LAST_UPDATE = '01/09/2026, 18:52:49';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,18 +72,18 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 14,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Ser Ponte": {
-    "total": 10,
+    "total": 12,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 3,
-    "a_agendar": 7
+    "a_agendar": 9
   },
   "Tramix": {
     "total": 5,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
@@ -714,7 +714,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Agenda de setembro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "01/09",
       "missing": [],
@@ -803,7 +803,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Por que aumentar a renda de uma família pode movimentar todo um território? ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "07/09",
+      "date": "10/09",
       "missing": [
         "Design"
       ],
@@ -868,24 +868,24 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando falta dinheiro, qualquer imprevisto vira uma crise.",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "04/09",
+      "date": "07/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 2. Aprovação (interno)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-falta-dinheiro-qualquer-imprevisto-vira-uma-crise-3bf33d8db9d280ebbf14e814d7458809"
     },
     {
       "title": "Renda básica significa apenas dinheiro? À primeira vista pode parecer que sim, mas o impacto de uma renda vai muito além do valor recebido.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "02/09",
+      "date": "15/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Renda-b-sica-significa-apenas-dinheiro-primeira-vista-pode-parecer-que-sim-mas-o-impacto-de-uma--3bf33d8db9d2801889dfd4a03884a11a"
@@ -894,11 +894,11 @@ const LINHA_FEED_ITEMS = {
       "title": "Renda não resolve tudo. Mas a falta dela limita muita coisa.",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "01/09",
+      "date": "04/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 2. Aprovação (interno)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Renda-n-o-resolve-tudo-Mas-a-falta-dela-limita-muita-coisa-3bf33d8db9d280b683b4fb2df5f0d222"
@@ -907,12 +907,38 @@ const LINHA_FEED_ITEMS = {
       "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, diz pesquisa.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "02/09",
+      "date": "12/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-diz-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
+    },
+    {
+      "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "02/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Aprovação (interno)",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ser-mulher-representa-em-m-dia-10-horas-semanais-a-mais-de-trabalho-dom-stico-e-de-cuidado-39733d8db9d2802c9dc5e3ce7162d868"
+    },
+    {
+      "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "08/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
     }
   ],
   "Tramix": [
@@ -1163,10 +1189,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "01/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
@@ -3061,6 +3085,68 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "AAFEC": [
+    {
+      "title": "Agenda de outubro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
+      "gestora": "Equipe",
+      "date": "25/09"
+    }
+  ],
+  "Ser Ponte": [
+    {
+      "title": "Ajustes no pitch",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
+      "gestora": "Equipe",
+      "date": "03/09"
+    },
+    {
+      "title": "Material para apresentar a possíveis doadores",
+      "priority": "pp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
+      "gestora": "Equipe",
+      "date": "24/08"
+    },
+    {
+      "title": "Convocatória para Brechós Comunitários",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Atualização de design de evento",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Atualiza-o-de-design-de-evento-3ce33d8db9d280be87d8d143f586ee9b",
+      "gestora": "Equipe",
+      "date": "01/09"
+    },
+    {
+      "title": "Pasta de conferência",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
+      "gestora": "Equipe",
+      "date": "26/08"
+    },
+    {
+      "title": "Vídeo promoção Mayara",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
+      "gestora": "Equipe",
+      "date": "22/07"
+    }
+  ],
   "Stratto": [
     {
       "title": "Edição de videos",
@@ -3073,18 +3159,26 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fundo para reuniões online",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Fundo-para-reuni-es-online-3ca33d8db9d2806688ebd65e8351d05f",
       "gestora": "Equipe",
       "date": "02/09"
+    },
+    {
+      "title": "Folder sobre tranquilidade financeira",
+      "priority": "pppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Folder-sobre-tranquilidade-financeira-3ca33d8db9d2807a8b25e99cc8cdb03b",
+      "gestora": "Equipe",
+      "date": "28T17:00:00.000/08"
     }
   ],
   "Conecta Assessoria": [
     {
-      "title": "Criar assinatura de e-mail",
+      "title": "Assinatura de e-mail para envio de boletos",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-assinatura-de-e-mail-3ce33d8db9d2803eacc2e4961352b32d",
+      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-envio-de-boletos-3ce33d8db9d2803eacc2e4961352b32d",
       "gestora": "Equipe",
       "date": "02/09"
     },
@@ -3113,32 +3207,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
       "gestora": "Equipe",
       "date": "04/09"
-    }
-  ],
-  "Ser Ponte": [
-    {
-      "title": "Alterações no pitch",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Altera-es-no-pitch-3cd33d8db9d280ea8247f09520b56be9",
-      "gestora": "Equipe",
-      "date": "31/08"
-    },
-    {
-      "title": "Material para apresentar a possíveis doadores",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
-      "gestora": "Equipe",
-      "date": "24/08"
-    },
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -3173,24 +3241,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
       "gestora": "Equipe",
       "date": "17/06"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Criar layout para aniversários ",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Criar-layout-para-anivers-rios-3cd33d8db9d2805086fff74a934aec96",
-      "gestora": "Equipe",
-      "date": "31T18:00:00.000/08"
-    },
-    {
-      "title": "Agenda de setembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
-      "gestora": "Equipe",
-      "date": "29/08"
     }
   ],
   "Finseg Leal": [
@@ -3253,24 +3303,6 @@ const DEMANDAS_EXTRAS = {
       "date": "29/05"
     }
   ],
-  "Plannea": [
-    {
-      "title": "Pasta de conferência",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
-      "gestora": "Equipe",
-      "date": "26/08"
-    },
-    {
-      "title": "Vídeo promoção Mayara",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
-      "gestora": "Equipe",
-      "date": "22/07"
-    }
-  ],
   "Rede Pangeia": [
     {
       "title": "Site",
@@ -3331,7 +3363,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Atualizar destaques dos stories",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
       "gestora": "Equipe",
       "date": "21/07"
@@ -3353,8 +3385,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Ser Ponte": {
-    "prontas": 9,
-    "total": 10
+    "prontas": 11,
+    "total": 12
   },
   "Tramix": {
     "prontas": 6,
@@ -3451,7 +3483,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 6,
-    "carrossel": 4,
+    "carrossel": 6,
     "foto": 0,
     "video": 0,
     "story": 0
