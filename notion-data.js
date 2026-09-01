@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 08:52:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 12:51:34 **/
 
-const LAST_UPDATE = '01/09/2026, 08:52:22';
+const LAST_UPDATE = '01/09/2026, 12:51:34';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -86,28 +86,28 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Tramix": {
-    "total": 4,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 13,
     "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 10
   },
   "Juntos contra o HPV": {
-    "total": 9,
+    "total": 10,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Ventana": {
     "total": 0,
@@ -134,12 +134,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 0,
+    "total": 7,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 7
   },
   "Rede Pangeia": {
     "total": 0,
@@ -150,20 +150,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 8,
+    "total": 9,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Plannea": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 0,
@@ -177,17 +177,17 @@ const FEED_DATA = {
     "total": 3,
     "pronto": 3,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Finseg Leal": {
     "total": 0,
@@ -217,9 +217,9 @@ const FEED_DATA = {
     "total": 2,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 12,
@@ -313,12 +313,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 0,
-    "pronto": 0,
+    "total": 3,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 0,
@@ -356,9 +356,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 5,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -462,10 +462,10 @@ const STORIES_DATA = {
   "Juntos contra o HPV": {
     "total": 2,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -492,12 +492,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 1,
@@ -917,6 +917,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [
     {
+      "title": "7 de Setembro: Dia da Independência - Um país que cria também constrói sua própria história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Um-pa-s-que-cria-tamb-m-constr-i-sua-pr-pria-hist-ria-3ce33d8db9d28029b5ebe905fa126348"
+    },
+    {
       "title": "Linha 120: quando a costura pede desempenho",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -986,14 +999,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Não existe solução financeira eficiente sem entender onde o problema começa. Agende uma conversa com a Stratto.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "04/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/N-o-existe-solu-o-financeira-eficiente-sem-entender-onde-o-problema-come-a-Agende-uma-conversa-com-3cd33d8db9d2805fa3c2d71cbde49269"
     },
@@ -1125,32 +1136,41 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Liderar não é ser a pessoa que resolve tudo. É construir uma empresa que não dependa de você para tudo.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "02/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Liderar-n-o-ser-a-pessoa-que-resolve-tudo-construir-uma-empresa-que-n-o-dependa-de-voc-para-tu-39133d8db9d280e6be78dec50a9b5b04"
     },
     {
       "title": "Você construiu uma empresa para crescer ou um trabalho que depende de você?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "01/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-construiu-uma-empresa-para-crescer-ou-um-trabalho-que-depende-de-voc-39133d8db9d2808696e4dd13b045423b"
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "Divulgação da Dra. Marcella",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "01/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
+    },
     {
       "title": "É amanhã!  Antes de vir… Faça sua inscrição; Confira o horário; Organize sua chegada; Traga 1kg de alimento",
       "status": "a_agendar",
@@ -1446,9 +1466,116 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Terrartesã": [],
-  "RR Advocacia": [],
+  "RR Advocacia": [
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ce33d8db9d280739112e89207875d93"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ce33d8db9d280cbbc80e70cc9c7201f"
+    },
+    {
+      "title": "Ser cliente também significa ter direitos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ser-cliente-tamb-m-significa-ter-direitos-3ce33d8db9d280219bd9cb51efe8f4c2"
+    },
+    {
+      "title": "Quando os sócios discordam, quem decide?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-os-s-cios-discordam-quem-decide-3ce33d8db9d2804981dff880929afece"
+    },
+    {
+      "title": "Comprou pela internet e se arrependeu? Você pode ter um prazo para desistir.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Comprou-pela-internet-e-se-arrependeu-Voc-pode-ter-um-prazo-para-desistir-3ce33d8db9d2804e9506c925e729d274"
+    },
+    {
+      "title": "Sua empresa cresceu. A estrutura jurídica acompanhou esse crescimento?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-cresceu-A-estrutura-jur-dica-acompanhou-esse-crescimento-3ce33d8db9d280d0978feec51fb8ddbf"
+    },
+    {
+      "title": "Um ambiente de trabalho saudável também envolve responsabilidade jurídica.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Um-ambiente-de-trabalho-saud-vel-tamb-m-envolve-responsabilidade-jur-dica-3ce33d8db9d28082b71cf1612b9516c5"
+    }
+  ],
   "Rede Pangeia": [],
   "Planos Seguros": [
+    {
+      "title": "7 de Setembro: Dia da Independência - Independência também é ter tranquilidade para seguir o próprio caminho",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Independ-ncia-tamb-m-ter-tranquilidade-para-seguir-o-pr-prio-3ce33d8db9d280368f95eca695c45509"
+    },
     {
       "title": "Você conhece todos os benefícios do seu seguro residencial?",
       "status": "a_agendar",
@@ -1554,32 +1681,42 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Nem-todo-destino-est-preparado-para-os-seus-imprevistos-38033d8db9d280849a5effed0ac9baa0"
     }
   ],
-  "Plannea": [],
+  "Plannea": [
+    {
+      "title": "7 de Setembro: Dia da Independência - Independência também é poder tomar boas decisões",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Independ-ncia-tamb-m-poder-tomar-boas-decis-es-3ce33d8db9d280aa93aedec0084ecfac"
+    }
+  ],
   "Ortobom": [],
   "ItalaP": [
     {
       "title": "Por que algumas doenças são descobertas por acaso em exames de rotina?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "03/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-algumas-doen-as-s-o-descobertas-por-acaso-em-exames-de-rotina-3c333d8db9d280478c1edb4193e1c813"
     },
     {
       "title": "Por que dois exames podem avaliar o mesmo órgão de formas diferentes?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "04/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-dois-exames-podem-avaliar-o-mesmo-rg-o-de-formas-diferentes-3c333d8db9d28084aac1f7bc315a40a3"
     },
@@ -1595,7 +1732,21 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Nem-sempre-voc-pode-resolver-a-dor-de-algu-m-Mas-pode-escolher-estar-presente-Cuide-Escute-Aco-5ce7246ab5bf4f22ae6fb2832bbd77f7"
     }
   ],
-  "Grupo Mulheres do Brasil": [],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "7 de Setembro: Dia da Independência - Um país independente também precisa de cidadãs com autonomia para transformar a realidade",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Um-pa-s-independente-tamb-m-precisa-de-cidad-s-com-autonomia-p-3ce33d8db9d280cfaa4ecb1529b3dc11"
+    }
+  ],
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [
@@ -1642,7 +1793,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-do-Cliente-3c933d8db9d2803785f8cc0acd92653f"
     },
     {
-      "title": "Independência do Brasil",
+      "title": "Independência do Brasil - Independência é também ter segurança",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/09",
@@ -1653,13 +1804,13 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Independ-ncia-do-Brasil-3c933d8db9d280a0aa7cc051fb6e6289"
+      "notionUrl": "https://app.notion.com/p/Independ-ncia-do-Brasil-Independ-ncia-tamb-m-ter-seguran-a-3c933d8db9d280a0aa7cc051fb6e6289"
     },
     {
       "title": "Não chegamos até aqui sozinhos. E isso é motivo para comemorar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "02/09",
+      "date": "03/09",
       "missing": [
         "Design"
       ],
@@ -1685,7 +1836,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O patrimônio mais importante nem sempre é o que tem maior valor.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "01/09",
+      "date": "02/09",
       "missing": [
         "Design"
       ],
@@ -1724,7 +1875,7 @@ const LINHA_FEED_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "7 situações em que procurar um advogado antes faz toda a diferença - Evitar problemas quase sempre custa menos do que resolvê-los.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "03/09",
       "missing": [],
@@ -1735,7 +1886,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A polícia pode entrar na empresa a qualquer momento?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "01/09",
       "missing": [],
@@ -2020,7 +2171,47 @@ const LINHA_VIDEO_ITEMS = {
   "Ventana": [],
   "Univendas": [],
   "Terrartesã": [],
-  "RR Advocacia": [],
+  "RR Advocacia": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "15/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3ce33d8db9d280518972f480a85879b8"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "08/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3ce33d8db9d2808ba884fcdc42389e0d"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "01/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-3ce33d8db9d28090951ad5114ada2c58"
+    }
+  ],
   "Rede Pangeia": [],
   "Planos Seguros": [
     {
@@ -2081,7 +2272,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Qual a diferença de um plano para o outro?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "07/09",
+      "date": "08/09",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -2219,25 +2410,21 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Italap perto de você",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "07/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "08/09",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Italap-perto-de-voc-3b133d8db9d2806bb342c292c2b768da"
     },
     {
       "title": "Confiança desde cedo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "02/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Confian-a-desde-cedo-3b133d8db9d280438240ea3108044ecb"
     }
@@ -2408,7 +2595,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Falta menos de um mês! Você já garantiu sua inscrição?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "01/09",
       "missing": [],
@@ -2474,7 +2661,34 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Terrartesã": [],
-  "RR Advocacia": [],
+  "RR Advocacia": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "10/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ce33d8db9d280a6b182e4a2af93edd3"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "03/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ce33d8db9d280d28764fb0d7fcad111"
+    }
+  ],
   "Rede Pangeia": [
     {
       "title": "#dicadasemana",
@@ -2608,6 +2822,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Assinatura de e-mail para Fernanda Bitu",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-Fernanda-Bitu-3ce33d8db9d280fc8e1cee5f39cd4be2",
+      "gestora": "Equipe",
+      "date": "01/09"
+    },
+    {
+      "title": "Configurações de e-mail",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
+      "gestora": "Equipe",
+      "date": "04/09"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Alterações no pitch",
@@ -2684,16 +2916,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-de-2026-3b233d8db9d280cc916cf66b3cee6862",
       "gestora": "Equipe",
       "date": "29/08"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Configurações de e-mail",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
-      "gestora": "Equipe",
-      "date": "04/09"
     }
   ],
   "Finseg Leal": [
@@ -2870,16 +3092,16 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Tramix": {
-    "prontas": 5,
-    "total": 6
+    "prontas": 6,
+    "total": 7
   },
   "Stratto": {
-    "prontas": 0,
+    "prontas": 3,
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 3,
-    "total": 14
+    "prontas": 4,
+    "total": 15
   },
   "Ventana": {
     "prontas": 0,
@@ -2894,32 +3116,32 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 6,
+    "total": 10
   },
   "Rede Pangeia": {
     "prontas": 0,
     "total": 0
   },
   "Planos Seguros": {
-    "prontas": 8,
-    "total": 19
+    "prontas": 9,
+    "total": 20
   },
   "Plannea": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 1,
+    "total": 1
   },
   "Ortobom": {
     "prontas": 0,
     "total": 0
   },
   "ItalaP": {
-    "prontas": 1,
+    "prontas": 5,
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 1,
+    "total": 1
   },
   "Finseg Leal": {
     "prontas": 0,
@@ -2930,8 +3152,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 5,
-    "total": 10
+    "prontas": 6,
+    "total": 11
   },
   "Daniel Maia Advocacia": {
     "prontas": 2,
@@ -2970,7 +3192,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Tramix": {
-    "post": 4,
+    "post": 5,
     "carrossel": 0,
     "foto": 0,
     "video": 1,
@@ -2985,7 +3207,7 @@ const FORMAT_COUNTS = {
   },
   "Juntos contra o HPV": {
     "post": 7,
-    "carrossel": 2,
+    "carrossel": 3,
     "foto": 0,
     "video": 4,
     "story": 2
@@ -3012,11 +3234,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 0,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
-    "story": 0
+    "video": 3,
+    "story": 2
   },
   "Rede Pangeia": {
     "post": 0,
@@ -3026,14 +3248,14 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Planos Seguros": {
-    "post": 8,
+    "post": 9,
     "carrossel": 0,
     "foto": 0,
     "video": 11,
     "story": 2
   },
   "Plannea": {
-    "post": 0,
+    "post": 1,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -3054,7 +3276,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Grupo Mulheres do Brasil": {
-    "post": 0,
+    "post": 1,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
