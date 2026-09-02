@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 13:44:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 16:34:53 **/
 
-const LAST_UPDATE = '02/09/2026, 13:44:23';
+const LAST_UPDATE = '02/09/2026, 16:34:53';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -347,10 +347,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 4,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "ItalaP": {
     "total": 5,
@@ -462,10 +462,10 @@ const STORIES_DATA = {
   "Juntos contra o HPV": {
     "total": 3,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -974,7 +974,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cor-n-o-apenas-est-tica-quando-falamos-de-aviamentos-3bf33d8db9d28084bc81fed16799ca86"
@@ -997,10 +997,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "02/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-z-peres-Tramix-s-o-produzidos-em-nylon-sint-tico-de-alta-resist-ncia-3bf33d8db9d280a4abade4493e47ea2f"
@@ -2611,12 +2609,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Olhar com mais atenção",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "02/09",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -2839,7 +2835,7 @@ const LINHA_STORIES_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Os trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV já estão disponíveis. Quer conferir os trabalhos selecionados?\nAcesse o link e veja a lista completa.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "02/09",
       "missing": [],
@@ -3174,7 +3170,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Edição de videos",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Edi-o-de-videos-3ce33d8db9d280f5ab9ecd7a85ebb94b",
       "gestora": "Equipe",
       "date": "04/09"
@@ -3376,7 +3372,9 @@ const DEMANDAS_EXTRAS = {
   ]
 };
 
-const CAPTACAO_DATA = {};
+const CAPTACAO_DATA = {
+  "Solar Coworking": "marcada"
+};
 
 const APRESENTACAO_DATA = {};
 
@@ -3447,7 +3445,7 @@ const LEGENDAS_DATA = {
   },
   "Finseg Leal": {
     "prontas": 0,
-    "total": 4
+    "total": 5
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -3736,7 +3734,7 @@ const AGENDA_COUNTS = {
   },
   "Solar Coworking": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   }
 };
