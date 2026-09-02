@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 04:13:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 09:11:33 **/
 
-const LAST_UPDATE = '02/09/2026, 04:13:00';
+const LAST_UPDATE = '02/09/2026, 09:11:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,17 +72,17 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 14,
     "pronto": 4,
-    "postado": 1,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 11
   },
   "Ser Ponte": {
     "total": 12,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 0,
-    "agendado_coord": 3,
+    "agendado_coord": 2,
     "a_agendar": 9
   },
   "Tramix": {
@@ -160,10 +160,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 5,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 0,
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 8,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Finseg Leal": {
     "total": 0,
@@ -330,11 +330,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 11,
-    "pronto": 3,
-    "postado": 1,
+    "pronto": 4,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Plannea": {
     "total": 0,
@@ -725,7 +725,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Aposentadoria não significa afastamento da categoria.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "02/09",
       "missing": [],
@@ -750,7 +750,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Servidores fazendários aposentados antes de 1998 possuem direito à revisão dos valores recebidos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "01/09",
       "missing": [],
@@ -916,12 +916,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "02/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 2. Aprovação (interno)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -1750,14 +1748,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O Simples Nacional também está mudando.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "02/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Simples-Nacional-tamb-m-est-mudando-3ce33d8db9d280fea4fce2f8d272d691"
     },
@@ -1896,12 +1892,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando a tecnologia também pode ser usada para violentar mulheres",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "02/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2458,15 +2452,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Notebook ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "02/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Notebook-3c633d8db9d2805e9455d087ed27bdbe"
     },
@@ -3426,11 +3417,11 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Planos Seguros": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 20
   },
   "Plannea": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 7
   },
   "Ortobom": {
@@ -3442,7 +3433,7 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 8
   },
   "Finseg Leal": {
