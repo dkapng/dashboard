@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 20:42:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 23:16:12 **/
 
-const LAST_UPDATE = '01/09/2026, 20:42:41';
+const LAST_UPDATE = '01/09/2026, 23:16:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 8,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1878,7 +1878,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mulheres-nas-elei-es-participar-n-o-o-mesmo-que-ter-espa-o-3ce33d8db9d280a7bbd2f3867e3fa71a"
@@ -1902,10 +1902,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "02/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-a-tecnologia-tamb-m-pode-ser-usada-para-violentar-mulheres-3ce33d8db9d2805a8c8eeb6ca2194407"
@@ -3141,10 +3140,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Plannea": [
     {
-      "title": "Atualização de design de evento",
+      "title": "Plannea Summit 09/09 | Atualização de design",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Atualiza-o-de-design-de-evento-3ce33d8db9d280be87d8d143f586ee9b",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Plannea-Summit-09-09-Atualiza-o-de-design-3ce33d8db9d280be87d8d143f586ee9b",
       "gestora": "Equipe",
       "date": "01/09"
     },
@@ -3245,10 +3244,10 @@ const DEMANDAS_EXTRAS = {
       "date": "30/09"
     },
     {
-      "title": "Selo do Grupo",
+      "title": "Selo de 10 anos do Núcleo Fortaleza",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Selo-do-Grupo-3c833d8db9d280828fd4d0cb89ac25cb",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Selo-de-10-anos-do-N-cleo-Fortaleza-3c833d8db9d280828fd4d0cb89ac25cb",
       "gestora": "Equipe",
       "date": "28/08"
     },
