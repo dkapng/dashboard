@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 09:11:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 13:44:23 **/
 
-const LAST_UPDATE = '02/09/2026, 09:11:33';
+const LAST_UPDATE = '02/09/2026, 13:44:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -102,12 +102,12 @@ const FEED_DATA = {
     "a_agendar": 10
   },
   "Juntos contra o HPV": {
-    "total": 10,
-    "pronto": 2,
+    "total": 11,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 10
   },
   "Ventana": {
     "total": 0,
@@ -266,11 +266,11 @@ const VIDEO_DATA = {
   },
   "Tramix": {
     "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 0,
@@ -283,10 +283,10 @@ const VIDEO_DATA = {
   "Juntos contra o HPV": {
     "total": 4,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 0,
@@ -460,12 +460,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 2,
-    "pronto": 1,
+    "total": 3,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -1183,10 +1183,21 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Confira a lista dos trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV. O link com a divulgação dos trabalhos está disponível na bio.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Confira-a-lista-dos-trabalhos-selecionados-para-o-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-O-lin-3cf33d8db9d280c9bb21cf0c8a58eeb0"
+    },
+    {
       "title": "Divulgação da Dra. Marcella",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "01/09",
+      "date": "03/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1294,7 +1305,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O I Simpósio não será construído por uma única voz! Conheça os participantes…",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "03/09",
+      "date": "04/09",
       "missing": [
         "Design"
       ],
@@ -2268,13 +2279,10 @@ const LINHA_VIDEO_ITEMS = {
   "Tramix": [
     {
       "title": "Vídeo sonhos ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "02/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -2311,14 +2319,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Video 03 - Aline - mulher o que é esse negócio de hpv ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "02/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Video-03-Aline-mulher-o-que-esse-neg-cio-de-hpv-3c033d8db9d28063a7abd4861073d3c8"
     },
@@ -2832,10 +2838,21 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Os trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV já estão disponíveis. Quer conferir os trabalhos selecionados?\nAcesse o link e veja a lista completa.",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "02/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Os-trabalhos-selecionados-para-o-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-j-est-o-dispon-veis-Q-3cf33d8db9d280d1aaf4de75f4ebe146"
+    },
+    {
       "title": "Eu vou!",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "04/09",
+      "date": "07/09",
       "missing": [
         "Design"
       ],
@@ -3251,14 +3268,6 @@ const DEMANDAS_EXTRAS = {
   ],
   "Finseg Leal": [
     {
-      "title": "Vídeos para o trafego - Best senior",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/V-deos-para-o-trafego-Best-senior-3cd33d8db9d280b2be1dd5916c441f57",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
       "title": "Vídeos para o trafego - Unimed",
       "priority": "pp",
       "rawStatus": "2. A enviar para aprovação",
@@ -3385,7 +3394,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Tramix": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 7
   },
   "Stratto": {
@@ -3393,8 +3402,8 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 4,
-    "total": 15
+    "prontas": 6,
+    "total": 16
   },
   "Ventana": {
     "prontas": 0,
@@ -3499,11 +3508,11 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Juntos contra o HPV": {
-    "post": 7,
+    "post": 8,
     "carrossel": 3,
     "foto": 0,
     "video": 4,
-    "story": 2
+    "story": 3
   },
   "Ventana": {
     "post": 0,
