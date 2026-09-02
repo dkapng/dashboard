@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 16:34:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 19:13:52 **/
 
-const LAST_UPDATE = '02/09/2026, 16:34:53';
+const LAST_UPDATE = '02/09/2026, 19:13:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -104,10 +104,10 @@ const FEED_DATA = {
   "Juntos contra o HPV": {
     "total": 11,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Ventana": {
     "total": 0,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 7,
-    "pronto": 0,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -206,12 +206,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 9,
+    "total": 10,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 10
   },
   "Daniel Maia Advocacia": {
     "total": 2,
@@ -500,12 +500,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Rede Pangeia": {
-    "total": 1,
+    "total": 0,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 2,
@@ -582,10 +582,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 6,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Solar Coworking": {
     "total": 0,
@@ -971,10 +971,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cor-n-o-apenas-est-tica-quando-falamos-de-aviamentos-3bf33d8db9d28084bc81fed16799ca86"
@@ -1182,7 +1180,7 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Confira a lista dos trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV. O link com a divulgação dos trabalhos está disponível na bio.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "02/09",
       "missing": [],
@@ -1307,7 +1305,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-I-Simp-sio-n-o-ser-constru-do-por-uma-nica-voz-Conhe-a-os-participantes-3ab33d8db9d280b795dde78bde104a78"
@@ -1570,10 +1568,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-cresceu-A-estrutura-jur-dica-acompanhou-esse-crescimento-3ce33d8db9d280d0978feec51fb8ddbf"
@@ -1583,10 +1579,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "02/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Um-ambiente-de-trabalho-saud-vel-tamb-m-envolve-responsabilidade-jur-dica-3ce33d8db9d28082b71cf1612b9516c5"
@@ -1747,12 +1741,11 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "04/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Durante-a-adapta-o-s-novas-obriga-es-da-Reforma-Tribut-ria-o-contador-pode-receber-alertas-diret-3ce33d8db9d280d3b9c0eb0d19fa1179"
     },
     {
@@ -1928,6 +1921,19 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Hoje o dia é dele! ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Hoje-o-dia-dele-Thiago-que-sua-nova-volta-ao-sol-seja-t-o-especial-quanto-voc-importante-para-3cf33d8db9d2800b8906c92501703ac8"
+    },
+    {
       "title": "Dia Mundial de Prevenção ao Suicídio",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1987,7 +1993,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Não chegamos até aqui sozinhos. E isso é motivo para comemorar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "03/09",
+      "date": "14/09",
       "missing": [
         "Design"
       ],
@@ -2000,7 +2006,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A maioria das pessoas não deixa de contratar um seguro porque não acredita na proteção. Ela deixa porque acredita que ainda dá tempo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "09/09",
+      "date": "11/09",
       "missing": [
         "Design"
       ],
@@ -2013,7 +2019,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O patrimônio mais importante nem sempre é o que tem maior valor.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "02/09",
+      "date": "04/09",
       "missing": [
         "Design"
       ],
@@ -2026,7 +2032,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem planeja apenas os dias bons deixa o futuro nas mãos da sorte.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/09",
+      "date": "09/09",
       "missing": [
         "Design"
       ],
@@ -2039,7 +2045,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando acontece uma batida, a primeira reação é olhar para o próprio veículo. Mas nem sempre ele é a sua maior preocupação.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/09",
+      "date": "17/09",
       "missing": [
         "Design"
       ],
@@ -2953,21 +2959,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3ce33d8db9d280d28764fb0d7fcad111"
     }
   ],
-  "Rede Pangeia": [
-    {
-      "title": "#dicadasemana",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "03/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/dicadasemana-3b833d8db9d280429ef0c86c2fa927bc"
-    }
-  ],
+  "Rede Pangeia": [],
   "Planos Seguros": [
     {
       "title": "Seu seguro acompanha a realidade atual da sua operação?",
@@ -3072,7 +3064,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversario - Gabriel Meneghetti",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "02/09",
       "missing": [],
@@ -3086,24 +3078,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Tramix": [
-    {
-      "title": "Alterar avatar nas redes sociais",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Alterar-avatar-nas-redes-sociais-3ce33d8db9d2801ab4a2f9b03a6a4661",
-      "gestora": "Equipe",
-      "date": "02/09"
-    },
-    {
-      "title": "Atualizar destaques dos stories",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Atualizar-destaques-dos-stories-3a033d8db9d280e4ab8bec04b43ec410",
-      "gestora": "Equipe",
-      "date": "21/07"
-    }
-  ],
   "AAFEC": [
     {
       "title": "Agenda de outubro de 2026",
@@ -3156,40 +3130,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
       "gestora": "Equipe",
       "date": "26/08"
-    },
-    {
-      "title": "Vídeo promoção Mayara",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-promo-o-Mayara-3a433d8db9d280b5b033e31cc112b8eb",
-      "gestora": "Equipe",
-      "date": "22/07"
-    }
-  ],
-  "Stratto": [
-    {
-      "title": "Edição de videos",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Edi-o-de-videos-3ce33d8db9d280f5ab9ecd7a85ebb94b",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Fundo para reuniões online",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Fundo-para-reuni-es-online-3ca33d8db9d2806688ebd65e8351d05f",
-      "gestora": "Equipe",
-      "date": "02/09"
-    },
-    {
-      "title": "Folder sobre tranquilidade financeira",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Folder-sobre-tranquilidade-financeira-3ca33d8db9d2807a8b25e99cc8cdb03b",
-      "gestora": "Equipe",
-      "date": "28T17:00:00.000/08"
     }
   ],
   "Conecta Assessoria": [
@@ -3246,38 +3186,12 @@ const DEMANDAS_EXTRAS = {
       "date": "30/09"
     },
     {
-      "title": "Selo de 10 anos do Núcleo Fortaleza",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Selo-de-10-anos-do-N-cleo-Fortaleza-3c833d8db9d280828fd4d0cb89ac25cb",
-      "gestora": "Equipe",
-      "date": "28/08"
-    },
-    {
       "title": "Mídia kit para a corrida de 2026",
       "priority": "pp",
       "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
       "gestora": "Equipe",
       "date": "17/06"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Vídeos para o trafego - Unimed",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deos-para-o-trafego-Unimed-3cd33d8db9d28055a471ea6d95e82d75",
-      "gestora": "Equipe",
-      "date": "03/09"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Planos Seguros": [
@@ -3324,24 +3238,6 @@ const DEMANDAS_EXTRAS = {
       "date": "26/08"
     }
   ],
-  "Juntos contra o HPV": [
-    {
-      "title": "I Simpósio | Régua",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-R-gua-3aa33d8db9d280bb92cff0b6ccdb5220",
-      "gestora": "Equipe",
-      "date": "28/07"
-    },
-    {
-      "title": "I Simpósio | Backdrops",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
-      "gestora": "Equipe",
-      "date": "30/07"
-    }
-  ],
   "Ortobom": [
     {
       "title": "Configuração de mensagens automáticas no Instagram.",
@@ -3369,10 +3265,31 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "08/05"
     }
+  ],
+  "Juntos contra o HPV": [
+    {
+      "title": "I Simpósio | Backdrops",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
+      "gestora": "Equipe",
+      "date": "30/07"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
   ]
 };
 
 const CAPTACAO_DATA = {
+  "Plannea": "confirmada",
   "Solar Coworking": "marcada"
 };
 
@@ -3452,8 +3369,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 6,
-    "total": 11
+    "prontas": 7,
+    "total": 12
   },
   "Daniel Maia Advocacia": {
     "prontas": 2,
@@ -3545,7 +3462,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 1
+    "story": 0
   },
   "Planos Seguros": {
     "post": 9,
@@ -3597,7 +3514,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 8,
+    "post": 9,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -3689,7 +3606,7 @@ const AGENDA_COUNTS = {
   },
   "Plannea": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 2,
     "evento": 1
   },
   "Ortobom": {
