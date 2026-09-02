@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/09/2026, 23:16:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 04:13:00 **/
 
-const LAST_UPDATE = '01/09/2026, 23:16:12';
+const LAST_UPDATE = '02/09/2026, 04:13:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 8,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1749,15 +1749,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Durante-a-adapta-o-s-novas-obriga-es-da-Reforma-Tribut-ria-o-contador-pode-receber-alertas-diret-3ce33d8db9d280d3b9c0eb0d19fa1179"
     },
     {
-      "title": "O Simples Nacional também está mudando",
+      "title": "O Simples Nacional também está mudando.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "02/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Simples-Nacional-tamb-m-est-mudando-3ce33d8db9d280fea4fce2f8d272d691"
@@ -1875,10 +1874,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "04/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mulheres-nas-elei-es-participar-n-o-o-mesmo-que-ter-espa-o-3ce33d8db9d280a7bbd2f3867e3fa71a"
