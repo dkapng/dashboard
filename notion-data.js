@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 14:25:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 16:59:42 **/
 
-const LAST_UPDATE = '03/09/2026, 14:25:01';
+const LAST_UPDATE = '03/09/2026, 16:59:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -102,12 +102,12 @@ const FEED_DATA = {
     "a_agendar": 10
   },
   "Juntos contra o HPV": {
-    "total": 11,
+    "total": 10,
     "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Ventana": {
     "total": 0,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 10,
+    "total": 16,
     "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 15
   },
   "Finseg Leal": {
     "total": 9,
@@ -273,20 +273,20 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 0,
-    "pronto": 0,
+    "total": 2,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
-    "total": 4,
+    "total": 5,
     "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 0,
@@ -1178,6 +1178,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "SUA EXPERIÊNCIA COM A VACINA CONTRA O HPV IMPORTA. A Conitec quer ouvir você.\nChamada Pública | Perspectiva do Paciente\nInscrições até 11/09/2026\nLink na bio!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/SUA-EXPERI-NCIA-COM-A-VACINA-CONTRA-O-HPV-IMPORTA-A-Conitec-quer-ouvir-voc-Chamada-P-blica-Pers-3d033d8db9d280c3b75df81ebf7834b8"
+    },
+    {
       "title": "Confira a lista dos trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV. O link com a divulgação dos trabalhos está disponível na bio.",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -1247,7 +1261,7 @@ const LINHA_FEED_ITEMS = {
       "title": "18 de setembro - Um dia para aprender. Compartilhar. Conectar. E fortalecer uma causa que salva vidas!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "10/09",
+      "date": "11/09",
       "missing": [
         "Design",
         "Legenda"
@@ -1258,24 +1272,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/18-de-setembro-Um-dia-para-aprender-Compartilhar-Conectar-E-fortalecer-uma-causa-que-salva-vida-3ab33d8db9d2801d947ad522b3c1dc08"
     },
     {
-      "title": "Daqui a poucos dias, as conversas mais importantes sobre o HPV estarão reunidas em um só lugar.  18 de setembro | I Simpósio do Movimento Juntos contra o HPV ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Daqui-a-poucos-dias-as-conversas-mais-importantes-sobre-o-HPV-estar-o-reunidas-em-um-s-lugar-18--3ab33d8db9d28086ac9dd87cfdde0317"
-    },
-    {
       "title": "Falta pouco para um encontro que reúne quem está construindo o futuro da prevenção. Mais do que um Simpósio: Um encontro entre ciência, inovação, gestão e mobilização social!",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "05/09",
+      "date": "08/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1283,24 +1283,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Falta-pouco-para-um-encontro-que-re-ne-quem-est-construindo-o-futuro-da-preven-o-Mais-do-que-um-S-3ab33d8db9d280398e42f5345927326a"
     },
     {
-      "title": "Lembrete: \n• Inscrição gratuita \n• Evento híbrido \n• Contribuição solidária de 1kg de alimento não perecível para participantes presenciais.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Lembrete-Inscri-o-gratuita-Evento-h-brido-Contribui-o-solid-ria-de-1kg-de-alimento-n-o-p-3ab33d8db9d280cc83e0c59f13c9536a"
-    },
-    {
       "title": "O I Simpósio não será construído por uma única voz! Conheça os participantes…",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "04/09",
+      "date": "05/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
@@ -1808,6 +1794,137 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "E NO SENADO? QUANTAS MULHERES REPRESENTAM O CEARÁ?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "29/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/E-NO-SENADO-QUANTAS-MULHERES-REPRESENTAM-O-CEAR-3d033d8db9d28005b2bfc9ca263a7477"
+    },
+    {
+      "title": "50% de mulheres na política parece muito? 50% NÃO É EXAGERO. É PARIDADE.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "18/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/50-de-mulheres-na-pol-tica-parece-muito-50-N-O-EXAGERO-PARIDADE-3d033d8db9d280b6ae28fcd27ab14278"
+    },
+    {
+      "title": "Uma mulher conseguiu chegar ao Legislativo. Ela consegue permanecer?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "25/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uma-mulher-conseguiu-chegar-ao-Legislativo-Ela-consegue-permanecer-3d033d8db9d2803eac6ff8baa8f8ed43"
+    },
+    {
+      "title": "Afinal, o que uma deputada realmente faz?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "28/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Afinal-o-que-uma-deputada-realmente-faz-3d033d8db9d2802aa28bd1bdc82f41dc"
+    },
+    {
+      "title": "Você sabe como uma deputada consegue uma cadeira?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "30/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-como-uma-deputada-consegue-uma-cadeira-3d033d8db9d2802691f5ffa0a3b611ff"
+    },
+    {
+      "title": "Das 22 cadeiras do Ceará na Câmara Federal, quantas são ocupadas por mulheres?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "23/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Das-22-cadeiras-do-Cear-na-C-mara-Federal-quantas-s-o-ocupadas-por-mulheres-3d033d8db9d280308407fff4e6adc132"
+    },
+    {
+      "title": "O CEARÁ JÁ TEM SUA MAIOR BANCADA FEMININA NA ALECE. E AGORA?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "15/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-CEAR-J-TEM-SUA-MAIOR-BANCADA-FEMININA-NA-ALECE-E-AGORA-3d033d8db9d280ccb086c08abbf2628f"
+    },
+    {
+      "title": "QUEM RECEBE O DINHEIRO DA CAMPANHA? Dinheiro também decide quem consegue disputar uma eleição.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "11/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/QUEM-RECEBE-O-DINHEIRO-DA-CAMPANHA-Dinheiro-tamb-m-decide-quem-consegue-disputar-uma-elei-o-3d033d8db9d28023a90ffb0093615df0"
+    },
+    {
+      "title": "COTA DE GÊNERO: TER MULHER NA CHAPA É SUFICIENTE. ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "09/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/COTA-DE-G-NERO-TER-MULHER-NA-CHAPA-SUFICIENTE-30-de-mulheres-nas-candidaturas-n-o-significa-30--3d033d8db9d28086af2edcb81af55d1d"
+    },
+    {
+      "title": "Mulheres são maioria do eleitorado. Por que ainda são minoria no poder?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "04/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mulheres-s-o-maioria-do-eleitorado-Por-que-ainda-s-o-minoria-no-poder-3d033d8db9d28092ad0add20838bb32b"
+    },
+    {
       "title": "Transformar a sociedade é responsabilidade de todas nós (Em letra menor: 21 DE SETEMBRO | DIA DA RESPONSABILIDADE SOCIAL)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1834,20 +1951,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Camila-Gomes-3d033d8db9d28008a0c1f2816893ba01"
     },
     {
-      "title": "Falar de mulheres sem falar de raça também pode esconder desigualdades",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Falar-de-mulheres-sem-falar-de-ra-a-tamb-m-pode-esconder-desigualdades-3ce33d8db9d2809a974cdad9872a5110"
-    },
-    {
       "title": "Em 2026, mais de 1 milhão de atendimentos chegaram ao Ligue 180 em apenas sete meses.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1862,38 +1965,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Em-2026-mais-de-1-milh-o-de-atendimentos-chegaram-ao-Ligue-180-em-apenas-sete-meses-3ce33d8db9d2803ba243d6e49756233a"
     },
     {
-      "title": "Se não medimos a desigualdade, como podemos combatê-la?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Se-n-o-medimos-a-desigualdade-como-podemos-combat-la-3ce33d8db9d28098a94fdaa169f80aa7"
-    },
-    {
-      "title": "Menstruar ainda pode significar faltar à escola",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Menstruar-ainda-pode-significar-faltar-escola-3ce33d8db9d2809991aecbaab649d0a4"
-    },
-    {
       "title": "Mulheres nas eleições: participar não é o mesmo que ter espaço",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/09",
+      "date": "14/09",
       "missing": [
         "Legenda"
       ],
@@ -1901,19 +1976,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mulheres-nas-elei-es-participar-n-o-o-mesmo-que-ter-espa-o-3ce33d8db9d280a7bbd2f3867e3fa71a"
-    },
-    {
-      "title": "A crise climática também é uma questão de gênero",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-crise-clim-tica-tamb-m-uma-quest-o-de-g-nero-3ce33d8db9d2802682ecda63a96c0e8f"
     },
     {
       "title": "Quando a tecnologia também pode ser usada para violentar mulheres",
@@ -2449,8 +2511,49 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-sonhos-3cd33d8db9d2803f9a9bdb98eb9c0958"
     }
   ],
-  "Stratto": [],
+  "Stratto": [
+    {
+      "title": "Gestão financeira estruturada",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Gest-o-financeira-estruturada-3d033d8db9d28099bd95d0d99b5dc726"
+    },
+    {
+      "title": "O que a stratto faz? ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "03/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/O-que-a-stratto-faz-3d033d8db9d280eba3f4e1ffb9962c11"
+    }
+  ],
   "Juntos contra o HPV": [
+    {
+      "title": "Vídeo dra Ailma",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-dra-Ailma-3d033d8db9d2807aa375fdeafd6184e6"
+    },
     {
       "title": "aline - transvaginal",
       "status": "a_agendar",
@@ -3010,7 +3113,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Eu vou!",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "07/09",
+      "date": "10/09",
       "missing": [
         "Design"
       ],
@@ -3238,7 +3341,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Corrida 2026 | Ajustes na apresentação para patrocinadores",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Corrida-2026-Ajustes-na-apresenta-o-para-patrocinadores-3d033d8db9d280ddb53cd2bb2637f9cd",
       "gestora": "Equipe",
       "date": "04T10:00:00.000/09"
@@ -3326,7 +3429,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Assinatura de e-mail para envio de boletos",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-envio-de-boletos-3ce33d8db9d2803eacc2e4961352b32d",
       "gestora": "Equipe",
       "date": "02/09"
@@ -3334,7 +3437,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Trocar foto da assinatura de email da Chrys",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Trocar-foto-da-assinatura-de-email-da-Chrys-3ce33d8db9d28039810fe48f28bb63a7",
       "gestora": "Equipe",
       "date": "02/09"
@@ -3480,11 +3583,11 @@ const LEGENDAS_DATA = {
   },
   "Stratto": {
     "prontas": 3,
-    "total": 14
+    "total": 16
   },
   "Juntos contra o HPV": {
     "prontas": 6,
-    "total": 16
+    "total": 15
   },
   "Ventana": {
     "prontas": 0,
@@ -3523,8 +3626,8 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 4,
-    "total": 10
+    "prontas": 12,
+    "total": 16
   },
   "Finseg Leal": {
     "prontas": 7,
@@ -3585,14 +3688,14 @@ const FORMAT_COUNTS = {
     "post": 13,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 2,
     "story": 1
   },
   "Juntos contra o HPV": {
-    "post": 8,
+    "post": 7,
     "carrossel": 3,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 3
   },
   "Ventana": {
@@ -3659,8 +3762,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Grupo Mulheres do Brasil": {
-    "post": 10,
-    "carrossel": 0,
+    "post": 6,
+    "carrossel": 10,
     "foto": 0,
     "video": 0,
     "story": 0
