@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 10:42:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 14:25:01 **/
 
-const LAST_UPDATE = '03/09/2026, 10:42:29';
+const LAST_UPDATE = '03/09/2026, 14:25:01';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 14,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 11,
-    "pronto": 5,
+    "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 7,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Rede Pangeia": {
     "total": 0,
@@ -671,18 +671,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Boteco-AAFEC-Setembro-3cd33d8db9d2801486d1d6c1d054732f"
     },
     {
-      "title": "Reunião mensal",
+      "title": "Reunião mensal de setembro",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Reuni-o-mensal-3cd33d8db9d280038f0ef137bec3276b"
+      "notionUrl": "https://app.notion.com/p/Reuni-o-mensal-de-setembro-3cd33d8db9d280038f0ef137bec3276b"
     },
     {
       "title": "O Ceará avança pelas mãos do fazendário (em letra menor: 28 de setembro | Dia do Fazendário)",
@@ -1194,8 +1193,10 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "03/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
@@ -1572,7 +1573,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Um ambiente de trabalho saudável também envolve responsabilidade jurídica.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "02/09",
       "missing": [],
@@ -3233,97 +3234,15 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "AAFEC": [
-    {
-      "title": "Agenda de outubro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
-      "gestora": "Equipe",
-      "date": "25/09"
-    }
-  ],
-  "Ser Ponte": [
-    {
-      "title": "Ajustes no pitch",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
-      "gestora": "Equipe",
-      "date": "03/09"
-    },
-    {
-      "title": "Material para apresentar a possíveis doadores",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
-      "gestora": "Equipe",
-      "date": "24/08"
-    },
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Plannea Summit 09/09 | Atualização de design",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Plannea-Summit-09-09-Atualiza-o-de-design-3ce33d8db9d280be87d8d143f586ee9b",
-      "gestora": "Equipe",
-      "date": "01/09"
-    },
-    {
-      "title": "Pasta de conferência",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
-      "gestora": "Equipe",
-      "date": "26/08"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Assinatura de e-mail para envio de boletos",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-envio-de-boletos-3ce33d8db9d2803eacc2e4961352b32d",
-      "gestora": "Equipe",
-      "date": "02/09"
-    },
-    {
-      "title": "Trocar foto da assinatura de email da Chrys",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Trocar-foto-da-assinatura-de-email-da-Chrys-3ce33d8db9d28039810fe48f28bb63a7",
-      "gestora": "Equipe",
-      "date": "02/09"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Assinatura de e-mail para Fernanda Bitu",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-Fernanda-Bitu-3ce33d8db9d280fc8e1cee5f39cd4be2",
-      "gestora": "Equipe",
-      "date": "01/09"
-    },
-    {
-      "title": "Configurações de e-mail",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
-      "gestora": "Equipe",
-      "date": "04/09"
-    }
-  ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Corrida 2026 | Ajustes na apresentação para patrocinadores",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Corrida-2026-Ajustes-na-apresenta-o-para-patrocinadores-3d033d8db9d280ddb53cd2bb2637f9cd",
+      "gestora": "Equipe",
+      "date": "04T10:00:00.000/09"
+    },
     {
       "title": "Adicionar logo do Sebrae em apresentações",
       "priority": "p",
@@ -3347,6 +3266,96 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
       "gestora": "Equipe",
       "date": "17/06"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Plannea Summit | Convites para 10/09, 17/09 e 28/10",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Plannea-Summit-Convites-para-10-09-17-09-e-28-10-3d033d8db9d280578efecf3fae07b6cc",
+      "gestora": "Equipe",
+      "date": "03/09"
+    },
+    {
+      "title": "Pasta de conferência",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
+      "gestora": "Equipe",
+      "date": "26/08"
+    }
+  ],
+  "AAFEC": [
+    {
+      "title": "Agenda de outubro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
+      "gestora": "Equipe",
+      "date": "25/09"
+    }
+  ],
+  "Ser Ponte": [
+    {
+      "title": "Ajustes no pitch",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
+      "gestora": "Equipe",
+      "date": "04/09"
+    },
+    {
+      "title": "Material para apresentar a possíveis doadores",
+      "priority": "pp",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
+      "gestora": "Equipe",
+      "date": "04/09"
+    },
+    {
+      "title": "Convocatória para Brechós Comunitários",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
+    }
+  ],
+  "Conecta Assessoria": [
+    {
+      "title": "Assinatura de e-mail para envio de boletos",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-envio-de-boletos-3ce33d8db9d2803eacc2e4961352b32d",
+      "gestora": "Equipe",
+      "date": "02/09"
+    },
+    {
+      "title": "Trocar foto da assinatura de email da Chrys",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Trocar-foto-da-assinatura-de-email-da-Chrys-3ce33d8db9d28039810fe48f28bb63a7",
+      "gestora": "Equipe",
+      "date": "02/09"
+    }
+  ],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Assinatura de e-mail para Fernanda Bitu",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-Fernanda-Bitu-3ce33d8db9d280fc8e1cee5f39cd4be2",
+      "gestora": "Equipe",
+      "date": "01/09"
+    },
+    {
+      "title": "Configurações de e-mail",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
+      "gestora": "Equipe",
+      "date": "04/09"
     }
   ],
   "Planos Seguros": [
