@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/09/2026, 21:25:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 01:49:41 **/
 
-const LAST_UPDATE = '02/09/2026, 21:25:56';
+const LAST_UPDATE = '03/09/2026, 01:49:41';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -190,12 +190,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Finseg Leal": {
-    "total": 0,
+    "total": 9,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 9
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -1912,7 +1912,127 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Um-pa-s-independente-tamb-m-precisa-de-cidad-s-com-autonomia-p-3ce33d8db9d280cfaa4ecb1529b3dc11"
     }
   ],
-  "Finseg Leal": [],
+  "Finseg Leal": [
+    {
+      "title": "Você saberia o que fazer nos primeiros minutos depois de um acidente?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-saberia-o-que-fazer-nos-primeiros-minutos-depois-de-um-acidente-3d033d8db9d28030a96df4fa49de690e"
+    },
+    {
+      "title": "Seu carro vai entrar na campanha. E o seu seguro?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-carro-vai-entrar-na-campanha-E-o-seu-seguro-3d033d8db9d2806aa7cace8857d30066"
+    },
+    {
+      "title": "Seu filho ainda nem pensa no futuro. Você já pode começar a pensar por ele.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-filho-ainda-nem-pensa-no-futuro-Voc-j-pode-come-ar-a-pensar-por-ele-3d033d8db9d28085a4c6eb3e8eb7d8aa"
+    },
+    {
+      "title": "Você pediu uma cotação. Mas sabe o que acontece antes dela chegar?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "18/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-pediu-uma-cota-o-Mas-sabe-o-que-acontece-antes-dela-chegar-3d033d8db9d280a587dbc22dc320cabc"
+    },
+    {
+      "title": "Tem coisa que a gente só valoriza quando precisa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-coisa-que-a-gente-s-valoriza-quando-precisa-3d033d8db9d28002a362f22658574c0e"
+    },
+    {
+      "title": "Você saberia responder o que seu plano e seu seguro realmente cobrem?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-saberia-responder-o-que-seu-plano-e-seu-seguro-realmente-cobrem-3d033d8db9d2808d8903dc465129d30b"
+    },
+    {
+      "title": "Seu funcionário pode estar precisando de ajuda — e o RH nem sempre vai perceber.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-funcion-rio-pode-estar-precisando-de-ajuda-e-o-RH-nem-sempre-vai-perceber-3d033d8db9d280b68c6ec51e34a236e7"
+    },
+    {
+      "title": "E se o seguro de vida não fosse sobre o fim, mas sobre continuar?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "04/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/E-se-o-seguro-de-vida-n-o-fosse-sobre-o-fim-mas-sobre-continuar-3d033d8db9d28033bfb2fc173e5cab35"
+    },
+    {
+      "title": "Seu plano de saúde cuida da sua cabeça também?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "03/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-plano-de-sa-de-cuida-da-sua-cabe-a-tamb-m-3d033d8db9d280f8b1d8cc12d4740f54"
+    }
+  ],
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
@@ -3369,8 +3489,8 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Finseg Leal": {
-    "prontas": 0,
-    "total": 5
+    "prontas": 7,
+    "total": 16
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -3508,8 +3628,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 0,
-    "carrossel": 0,
+    "post": 8,
+    "carrossel": 1,
     "foto": 0,
     "video": 4,
     "story": 0
