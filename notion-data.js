@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 16:59:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 19:30:25 **/
 
-const LAST_UPDATE = '03/09/2026, 16:59:42';
+const LAST_UPDATE = '03/09/2026, 19:30:25';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 9,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -207,11 +207,11 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 11,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Daniel Maia Advocacia": {
     "total": 2,
@@ -1207,10 +1207,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "03/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
@@ -2114,10 +2112,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "03/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-plano-de-sa-de-cuida-da-sua-cabe-a-tamb-m-3d033d8db9d280f8b1d8cc12d4740f54"
@@ -2209,13 +2205,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cada apólice representa uma história que escolheu confiar na Aprosseg.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "03/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cada-ap-lice-representa-uma-hist-ria-que-escolheu-confiar-na-Aprosseg-3a033d8db9d28039a4e5d22fdd051df2"
@@ -3341,7 +3335,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Corrida 2026 | Ajustes na apresentação para patrocinadores",
       "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Corrida-2026-Ajustes-na-apresenta-o-para-patrocinadores-3d033d8db9d280ddb53cd2bb2637f9cd",
       "gestora": "Equipe",
       "date": "04T10:00:00.000/09"
@@ -3429,7 +3423,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Assinatura de e-mail para envio de boletos",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-envio-de-boletos-3ce33d8db9d2803eacc2e4961352b32d",
       "gestora": "Equipe",
       "date": "02/09"
@@ -3437,7 +3431,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Trocar foto da assinatura de email da Chrys",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Trocar-foto-da-assinatura-de-email-da-Chrys-3ce33d8db9d28039810fe48f28bb63a7",
       "gestora": "Equipe",
       "date": "02/09"
