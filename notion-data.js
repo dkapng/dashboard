@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 06:21:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/09/2026, 10:42:29 **/
 
-const LAST_UPDATE = '03/09/2026, 06:21:12';
+const LAST_UPDATE = '03/09/2026, 10:42:29';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 14,
-    "pronto": 5,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 8,
-    "pronto": 2,
+    "total": 10,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 9
   },
   "Finseg Leal": {
     "total": 9,
@@ -676,9 +676,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "04/09",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Reuni-o-mensal-3cd33d8db9d280038f0ef137bec3276b"
@@ -1805,6 +1806,32 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Transformar a sociedade é responsabilidade de todas nós (Em letra menor: 21 DE SETEMBRO | DIA DA RESPONSABILIDADE SOCIAL)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Transformar-a-sociedade-responsabilidade-de-todas-n-s-Em-letra-menor-21-DE-SETEMBRO-DIA-DA-RES-3d033d8db9d28035833ac74ebfca8c4a"
+    },
+    {
+      "title": "Aniversário Camila Gomes",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "03/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-Camila-Gomes-3d033d8db9d28008a0c1f2816893ba01"
+    },
     {
       "title": "Falar de mulheres sem falar de raça também pode esconder desigualdades",
       "status": "a_agendar",
@@ -3418,7 +3445,9 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Plannea": "confirmada",
-  "Solar Coworking": "marcada"
+  "Solar Coworking": "marcada",
+  "AAFEC": "confirmada",
+  "Tramix": "confirmada"
 };
 
 const APRESENTACAO_DATA = {};
@@ -3485,8 +3514,8 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 3,
-    "total": 8
+    "prontas": 4,
+    "total": 10
   },
   "Finseg Leal": {
     "prontas": 7,
@@ -3621,7 +3650,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Grupo Mulheres do Brasil": {
-    "post": 8,
+    "post": 10,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -3679,7 +3708,7 @@ const AGENDA_COUNTS = {
   },
   "AAFEC": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 4,
     "evento": 0
   },
   "Ser Ponte": {
@@ -3689,7 +3718,7 @@ const AGENDA_COUNTS = {
   },
   "Tramix": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Stratto": {
@@ -3734,7 +3763,7 @@ const AGENDA_COUNTS = {
   },
   "Plannea": {
     "reuniao": 0,
-    "producao": 2,
+    "producao": 3,
     "evento": 1
   },
   "Ortobom": {
