@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 18:59:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 20:49:07 **/
 
-const LAST_UPDATE = '04/09/2026, 18:59:24';
+const LAST_UPDATE = '04/09/2026, 20:49:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 7,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -453,7 +453,7 @@ const STORIES_DATA = {
   },
   "Stratto": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1532,10 +1532,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comprou-pela-internet-e-se-arrependeu-Voc-pode-ter-um-prazo-para-desistir-3ce33d8db9d2804e9506c925e729d274"
@@ -2606,7 +2604,7 @@ const LINHA_VIDEO_ITEMS = {
       "missing": [
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/O-que-a-Stratto-faz-3d033d8db9d280eba3f4e1ffb9962c11"
@@ -3182,10 +3180,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "07/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Independ-ncia-do-Brasil-3cd33d8db9d28087bd8be1deef17dfc1"
@@ -3560,7 +3556,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Promoção interna do colaborador Matheus de França de Auxiliar Fiscal para Assistente Fiscal",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Promo-o-interna-do-colaborador-Matheus-de-Fran-a-de-Auxiliar-Fiscal-para-Assistente-Fiscal-3d133d8db9d280f9ba1cd67484000968",
       "gestora": "Equipe",
       "date": "04/09"
