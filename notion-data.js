@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 14:18:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 16:44:46 **/
 
-const LAST_UPDATE = '04/09/2026, 14:18:31';
+const LAST_UPDATE = '04/09/2026, 16:44:46';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -183,11 +183,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
-    "pronto": 3,
-    "postado": 2,
+    "pronto": 4,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Finseg Leal": {
     "total": 9,
@@ -532,12 +532,12 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "ItalaP": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -2008,13 +2008,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mulheres são maioria do eleitorado. Por que ainda são minoria no poder?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "04/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mulheres-s-o-maioria-do-eleitorado-Por-que-ainda-s-o-minoria-no-poder-3d033d8db9d28092ad0add20838bb32b"
@@ -3409,7 +3407,21 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3d133d8db9d2807a9a3ffd464fedc3fe"
     }
   ],
-  "ItalaP": [],
+  "ItalaP": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "04/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d133d8db9d280d2869fd74ad43f2743"
+    }
+  ],
   "Grupo Mulheres do Brasil": [],
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
@@ -3497,6 +3509,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ortobom": [
+    {
+      "title": "Comunicado",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Comunicado-3d133d8db9d280f8a7c3f33ab52dfded",
+      "gestora": "Equipe",
+      "date": "04/09"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
@@ -3949,7 +3971,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 5,
-    "story": 0
+    "story": 1
   },
   "Grupo Mulheres do Brasil": {
     "post": 6,
