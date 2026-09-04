@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 16:44:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 18:59:24 **/
 
-const LAST_UPDATE = '04/09/2026, 16:44:46';
+const LAST_UPDATE = '04/09/2026, 18:59:24';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 14,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 5,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -103,11 +103,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 0,
-    "agendado_coord": 2,
-    "a_agendar": 7
+    "agendado_coord": 1,
+    "a_agendar": 8
   },
   "Ventana": {
     "total": 0,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 5,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 9,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -533,7 +533,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -703,10 +703,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-celebrar-o-Brasil-construir-o-futuro-em-letra-menor-Feriado-n-o-abrimos-hoje-3c933d8db9d28046aee3fc5db845bbe4"
@@ -942,10 +941,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Um-pa-s-que-cria-tamb-m-constr-i-sua-pr-pria-hist-ria-3ce33d8db9d28029b5ebe905fa126348"
@@ -1199,13 +1196,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Divulgação da Dra. Marcella",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "04/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
@@ -1744,10 +1739,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Independ-ncia-tamb-m-poder-tomar-boas-decis-es-3ce33d8db9d280aa93aedec0084ecfac"
@@ -2084,10 +2077,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Um-pa-s-independente-tamb-m-precisa-de-cidad-s-com-autonomia-p-3ce33d8db9d280cfaa4ecb1529b3dc11"
@@ -2192,10 +2183,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/E-se-o-seguro-de-vida-n-o-fosse-sobre-o-fim-mas-sobre-continuar-3d033d8db9d28033bfb2fc173e5cab35"
@@ -2610,7 +2599,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Gest-o-financeira-estruturada-3d033d8db9d28099bd95d0d99b5dc726"
     },
     {
-      "title": "O que a stratto faz? ",
+      "title": "O que a Stratto faz?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "05/09",
@@ -2620,7 +2609,7 @@ const LINHA_VIDEO_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/O-que-a-stratto-faz-3d033d8db9d280eba3f4e1ffb9962c11"
+      "notionUrl": "https://app.notion.com/p/O-que-a-Stratto-faz-3d033d8db9d280eba3f4e1ffb9962c11"
     }
   ],
   "Juntos contra o HPV": [
@@ -3189,17 +3178,17 @@ const LINHA_STORIES_ITEMS = {
   "Tramix": [],
   "Stratto": [
     {
-      "title": "Story/stories",
+      "title": "Independência do Brasil",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "07/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3cd33d8db9d28087bd8be1deef17dfc1"
+      "notionUrl": "https://app.notion.com/p/Independ-ncia-do-Brasil-3cd33d8db9d28087bd8be1deef17dfc1"
     }
   ],
   "Juntos contra o HPV": [
@@ -3409,17 +3398,15 @@ const LINHA_STORIES_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "Story/stories",
+      "title": "Comunicado",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "04/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3d133d8db9d280d2869fd74ad43f2743"
+      "notionUrl": "https://app.notion.com/p/Comunicado-3d133d8db9d280d2869fd74ad43f2743"
     }
   ],
   "Grupo Mulheres do Brasil": [],
