@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 06:21:13 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 10:39:00 **/
 
-const LAST_UPDATE = '04/09/2026, 06:21:13';
+const LAST_UPDATE = '04/09/2026, 10:39:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,10 +79,10 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 12,
-    "pronto": 2,
-    "postado": 1,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 0,
-    "agendado_coord": 2,
+    "agendado_coord": 1,
     "a_agendar": 9
   },
   "Tramix": {
@@ -160,10 +160,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 5,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 0,
@@ -330,11 +330,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 11,
-    "pronto": 4,
-    "postado": 2,
+    "pronto": 5,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Plannea": {
     "total": 0,
@@ -891,12 +891,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Renda não resolve tudo. Mas a falta dela limita muita coisa.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "04/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 2. Aprovação (interno)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -969,7 +967,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Cor não é apenas estética quando falamos de aviamentos.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/09",
+      "date": "14/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -993,7 +991,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Os zíperes Tramix são produzidos em nylon sintético de alta resistência",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "02/09",
+      "date": "04/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1718,14 +1716,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Durante a adaptação às novas obrigações da Reforma Tributária, o contador pode receber alertas diretamente da Receita",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "04/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Durante-a-adapta-o-s-novas-obriga-es-da-Reforma-Tribut-ria-o-contador-pode-receber-alertas-diret-3ce33d8db9d280d3b9c0eb0d19fa1179"
     },
@@ -2779,15 +2775,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Proteção financeira",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "04/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Prote-o-financeira-3c633d8db9d2801aa378e30d317c3a6d"
     }
@@ -3331,6 +3324,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "AAFEC": [
+    {
+      "title": "Vídeo Aniversariantes do mês ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-Aniversariantes-do-m-s-3d133d8db9d280289c28d453ed43d55e",
+      "gestora": "Equipe",
+      "date": "07/09"
+    },
+    {
+      "title": "Agenda de outubro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
+      "gestora": "Equipe",
+      "date": "25/09"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Corrida 2026 | Ajustes na apresentação para patrocinadores",
@@ -3369,7 +3380,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Plannea Summit | Convites para 10/09, 17/09 e 28/10",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Plannea-Summit-Convites-para-10-09-17-09-e-28-10-3d033d8db9d280578efecf3fae07b6cc",
       "gestora": "Equipe",
       "date": "03/09"
@@ -3381,16 +3392,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
       "gestora": "Equipe",
       "date": "26/08"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Agenda de outubro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
-      "gestora": "Equipe",
-      "date": "25/09"
     }
   ],
   "Ser Ponte": [
@@ -3604,11 +3605,11 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "Planos Seguros": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 20
   },
   "Plannea": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 7
   },
   "Ortobom": {
