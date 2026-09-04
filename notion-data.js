@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 10:39:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 14:18:31 **/
 
-const LAST_UPDATE = '04/09/2026, 10:39:00';
+const LAST_UPDATE = '04/09/2026, 14:18:31';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -103,11 +103,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 10,
-    "pronto": 5,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 8
+    "agendado_coord": 2,
+    "a_agendar": 7
   },
   "Ventana": {
     "total": 0,
@@ -166,12 +166,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Ortobom": {
-    "total": 0,
+    "total": 7,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 7
   },
   "ItalaP": {
     "total": 3,
@@ -184,18 +184,18 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 16,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 15
+    "a_agendar": 14
   },
   "Finseg Leal": {
     "total": 9,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -223,7 +223,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 12,
-    "pronto": 0,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -346,11 +346,11 @@ const VIDEO_DATA = {
   },
   "Ortobom": {
     "total": 4,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 8
   },
   "ItalaP": {
     "total": 5,
@@ -524,12 +524,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 0,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 0,
@@ -895,7 +895,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "04/09",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (interno)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Renda-n-o-resolve-tudo-Mas-a-falta-dela-limita-muita-coisa-3bf33d8db9d280b683b4fb2df5f0d222"
@@ -1176,18 +1176,15 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "SUA EXPERIÊNCIA COM A VACINA CONTRA O HPV IMPORTA. A Conitec quer ouvir você.\nChamada Pública | Perspectiva do Paciente\nInscrições até 11/09/2026\nLink na bio!",
+      "title": "Sua experiência com a vacina contra o HPV importa. A Conitec quer ouvir você.\nChamada Pública | Perspectiva do Paciente\nInscrições até 11/09/2026\nLink na bio!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/SUA-EXPERI-NCIA-COM-A-VACINA-CONTRA-O-HPV-IMPORTA-A-Conitec-quer-ouvir-voc-Chamada-P-blica-Pers-3d033d8db9d280c3b75df81ebf7834b8"
+      "notionUrl": "https://app.notion.com/p/Sua-experi-ncia-com-a-vacina-contra-o-HPV-importa-A-Conitec-quer-ouvir-voc-Chamada-P-blica-Pers-3d033d8db9d280c3b75df81ebf7834b8"
     },
     {
       "title": "Confira a lista dos trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV. O link com a divulgação dos trabalhos está disponível na bio.",
@@ -1202,11 +1199,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Divulgação da Dra. Marcella",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "03/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "date": "04/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
@@ -1272,8 +1271,10 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "08/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Falta-pouco-para-um-encontro-que-re-ne-quem-est-construindo-o-futuro-da-preven-o-Mais-do-que-um-S-3ab33d8db9d280398e42f5345927326a"
@@ -1283,8 +1284,10 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "05/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 2. Aprovação (cliente)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-I-Simp-sio-n-o-ser-constru-do-por-uma-nica-voz-Conhe-a-os-participantes-3ab33d8db9d280b795dde78bde104a78"
@@ -1750,7 +1753,105 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Independ-ncia-tamb-m-poder-tomar-boas-decis-es-3ce33d8db9d280aa93aedec0084ecfac"
     }
   ],
-  "Ortobom": [],
+  "Ortobom": [
+    {
+      "title": "Seu descanso começa na escolha certa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-descanso-come-a-na-escolha-certa-3d133d8db9d280eeb070ecdd142586ef"
+    },
+    {
+      "title": "Carrossel",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "24/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Carrossel-3d133d8db9d2807e9b45f5cc7ee4a52e"
+    },
+    {
+      "title": "Seu corpo se movimenta durante a noite. O Hybrid acompanha.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-corpo-se-movimenta-durante-a-noite-O-Hybrid-acompanha-3d133d8db9d280e1b039d031ab0931cc"
+    },
+    {
+      "title": "Descansar não é parar. É preparar o corpo para continuar.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Descansar-n-o-parar-preparar-o-corpo-para-continuar-3d133d8db9d2806bbcfff55888cfe1b0"
+    },
+    {
+      "title": "O conforto da sua noite começa onde sua cabeça descansa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-conforto-da-sua-noite-come-a-onde-sua-cabe-a-descansa-3d133d8db9d280c0b325ca61fa8946d1"
+    },
+    {
+      "title": "Talvez você não precise dormir mais. Precise dormir melhor.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Talvez-voc-n-o-precise-dormir-mais-Precise-dormir-melhor-3d133d8db9d2801c844fc46e0390a94d"
+    },
+    {
+      "title": "Você revisa suas metas. Quando foi a última vez que revisou seu descanso?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-revisa-suas-metas-Quando-foi-a-ltima-vez-que-revisou-seu-descanso-3d133d8db9d2807593c8f66cd62d5e34"
+    }
+  ],
   "ItalaP": [
     {
       "title": "Por que algumas doenças são descobertas por acaso em exames de rotina?",
@@ -1933,14 +2034,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Aniversário Camila Gomes",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "03/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Camila-Gomes-3d033d8db9d28008a0c1f2816893ba01"
     },
@@ -2094,7 +2193,7 @@ const LINHA_FEED_ITEMS = {
       "title": "E se o seguro de vida não fosse sobre o fim, mas sobre continuar?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/09",
+      "date": "05/09",
       "missing": [
         "Design"
       ],
@@ -2105,9 +2204,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu plano de saúde cuida da sua cabeça também?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "03/09",
+      "date": "04/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2385,10 +2484,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "04/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-seu-plano-de-sa-de-ou-s-conhece-o-valor-da-mensalidade-3cd33d8db9d2809b8a5bcff2d79d0fc2"
@@ -2399,10 +2496,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Brasil-de-amor-eterno-seja-s-mbolo-O-l-baro-que-ostentas-estrelado-E-diga-o-verde-louro-dessa-fl-m-3cd33d8db9d280f880f7fc125c990356"
@@ -2519,11 +2615,11 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O que a stratto faz? ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "03/09",
+      "date": "05/09",
       "missing": [
         "Legenda"
       ],
-      "rawDesign": "🎨 3. N/A",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/O-que-a-stratto-faz-3d033d8db9d280eba3f4e1ffb9962c11"
@@ -2788,6 +2884,30 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [],
   "Ortobom": [
     {
+      "title": "Condições dia do cliente ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "25/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Condi-es-dia-do-cliente-3d133d8db9d2801698dbece4387bf202"
+    },
+    {
+      "title": "Setembro começou ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "04/09",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Setembro-come-ou-3d133d8db9d280119a6eed534a4d11ef"
+    },
+    {
       "title": "Visita que você estava adiando",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -2832,7 +2952,7 @@ const LINHA_VIDEO_ITEMS = {
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-do-cliente-3ce33d8db9d280909a32d78553132f25"
     },
     {
@@ -3235,7 +3355,60 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Plannea": [],
-  "Ortobom": [],
+  "Ortobom": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "29/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d133d8db9d280b689daf30092b68a06"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "22/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d133d8db9d28097b947de204d71086f"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d133d8db9d280d0b057c51692ce0c61"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "10/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d133d8db9d2807a9a3ffd464fedc3fe"
+    }
+  ],
   "ItalaP": [],
   "Grupo Mulheres do Brasil": [],
   "Finseg Leal": [],
@@ -3324,29 +3497,19 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "AAFEC": [
-    {
-      "title": "Vídeo Aniversariantes do mês ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/V-deo-Aniversariantes-do-m-s-3d133d8db9d280289c28d453ed43d55e",
-      "gestora": "Equipe",
-      "date": "07/09"
-    },
-    {
-      "title": "Agenda de outubro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
-      "gestora": "Equipe",
-      "date": "25/09"
-    }
-  ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
+      "gestora": "Equipe",
+      "date": "11/09"
+    },
     {
       "title": "Corrida 2026 | Ajustes na apresentação para patrocinadores",
       "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Corrida-2026-Ajustes-na-apresenta-o-para-patrocinadores-3d033d8db9d280ddb53cd2bb2637f9cd",
       "gestora": "Equipe",
       "date": "04T10:00:00.000/09"
@@ -3378,12 +3541,28 @@ const DEMANDAS_EXTRAS = {
   ],
   "Plannea": [
     {
-      "title": "Plannea Summit | Convites para 10/09, 17/09 e 28/10",
-      "priority": "pp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Plannea-Summit-Convites-para-10-09-17-09-e-28-10-3d033d8db9d280578efecf3fae07b6cc",
+      "title": "Promoção interna do colaborador André Fernandes de Auxiliar Contábil para Assistente Contábil",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Promo-o-interna-do-colaborador-Andr-Fernandes-de-Auxiliar-Cont-bil-para-Assistente-Cont-bil-3d133d8db9d2801881f8ffb81dc338d4",
       "gestora": "Equipe",
-      "date": "03/09"
+      "date": "08/09"
+    },
+    {
+      "title": "Promoção interna do colaborador Matheus de França de Auxiliar Fiscal para Assistente Fiscal",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Promo-o-interna-do-colaborador-Matheus-de-Fran-a-de-Auxiliar-Fiscal-para-Assistente-Fiscal-3d133d8db9d280f9ba1cd67484000968",
+      "gestora": "Equipe",
+      "date": "04/09"
+    },
+    {
+      "title": "Boas-vindas do Júlio Santana para a vaga de Estagiário Fiscal. Hobby: Treinar.  Graduando em Ciências Contábeis.",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Boas-vindas-do-J-lio-Santana-para-a-vaga-de-Estagi-rio-Fiscal-Hobby-Treinar-Graduando-em-Ci-ncia-3d133d8db9d280faa52deef6f92a10d2",
+      "gestora": "Equipe",
+      "date": "04/09"
     },
     {
       "title": "Pasta de conferência",
@@ -3392,6 +3571,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
       "gestora": "Equipe",
       "date": "26/08"
+    }
+  ],
+  "AAFEC": [
+    {
+      "title": "Vídeo de aniversariantes do mês de setembro",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/V-deo-de-aniversariantes-do-m-s-de-setembro-3d133d8db9d280289c28d453ed43d55e",
+      "gestora": "Equipe",
+      "date": "07/09"
+    },
+    {
+      "title": "Agenda de outubro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
+      "gestora": "Equipe",
+      "date": "25/09"
     }
   ],
   "Ser Ponte": [
@@ -3500,14 +3697,22 @@ const DEMANDAS_EXTRAS = {
       "date": "26/08"
     }
   ],
-  "Ortobom": [
+  "Juntos contra o HPV": [
     {
-      "title": "Configuração de mensagens automáticas no Instagram.",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Configura-o-de-mensagens-autom-ticas-no-Instagram-3a733d8db9d28010a553e686b40263ef",
+      "title": "Placas para municípios",
+      "priority": "ppp",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-3b933d8db9d280cab8ebe5d0d616b1a4",
       "gestora": "Equipe",
-      "date": "10/08"
+      "date": "09T10:00:00.000/09"
+    },
+    {
+      "title": "I Simpósio | Backdrops",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
+      "gestora": "Equipe",
+      "date": "30/07"
     }
   ],
   "Ventana": [
@@ -3526,16 +3731,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
       "gestora": "Equipe",
       "date": "08/05"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "I Simpósio | Backdrops",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
-      "gestora": "Equipe",
-      "date": "30/07"
     }
   ],
   "Finseg Leal": [
@@ -3581,7 +3776,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 15
   },
   "Ventana": {
@@ -3613,15 +3808,15 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Ortobom": {
-    "prontas": 7,
-    "total": 7
+    "prontas": 10,
+    "total": 16
   },
   "ItalaP": {
     "prontas": 5,
     "total": 8
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 16
   },
   "Finseg Leal": {
@@ -3743,11 +3938,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ortobom": {
-    "post": 0,
-    "carrossel": 0,
+    "post": 6,
+    "carrossel": 1,
     "foto": 0,
-    "video": 7,
-    "story": 0
+    "video": 9,
+    "story": 4
   },
   "ItalaP": {
     "post": 3,
@@ -3899,7 +4094,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "APROSSEG": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
