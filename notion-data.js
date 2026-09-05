@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 20:49:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/09/2026, 23:19:06 **/
 
-const LAST_UPDATE = '04/09/2026, 20:49:07';
+const LAST_UPDATE = '04/09/2026, 23:19:06';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3548,7 +3548,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Promoção interna do colaborador André Fernandes de Auxiliar Contábil para Assistente Contábil",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Promo-o-interna-do-colaborador-Andr-Fernandes-de-Auxiliar-Cont-bil-para-Assistente-Cont-bil-3d133d8db9d2801881f8ffb81dc338d4",
       "gestora": "Equipe",
       "date": "08/09"
@@ -3564,7 +3564,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Boas-vindas do Júlio Santana para a vaga de Estagiário Fiscal. Hobby: Treinar.  Graduando em Ciências Contábeis.",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Boas-vindas-do-J-lio-Santana-para-a-vaga-de-Estagi-rio-Fiscal-Hobby-Treinar-Graduando-em-Ci-ncia-3d133d8db9d280faa52deef6f92a10d2",
       "gestora": "Equipe",
       "date": "04/09"
