@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/09/2026, 21:27:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/09/2026, 01:56:34 **/
 
-const LAST_UPDATE = '05/09/2026, 21:27:06';
+const LAST_UPDATE = '06/09/2026, 01:56:34';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 14,
-    "pronto": 6,
+    "pronto": 9,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 9,
-    "pronto": 2,
+    "pronto": 5,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -223,7 +223,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 12,
-    "pronto": 2,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -581,7 +581,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 6,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -662,10 +662,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Boteco-AAFEC-Setembro-3cd33d8db9d2801486d1d6c1d054732f"
@@ -738,10 +737,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Autonomia-financeira-exige-governan-a-3ba33d8db9d2809cb93af63e88e12924"
@@ -762,10 +760,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "09/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aten-o-associados-criminosos-est-o-aplicando-o-golpe-do-corretor-39d33d8db9d280c3a9e4c7fe4f8180fe"
@@ -2142,10 +2138,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tem-coisa-que-a-gente-s-valoriza-quando-precisa-3d033d8db9d28002a362f22658574c0e"
@@ -2155,10 +2150,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-saberia-responder-o-que-seu-plano-e-seu-seguro-realmente-cobrem-3d033d8db9d2808d8903dc465129d30b"
@@ -2168,10 +2161,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-funcion-rio-pode-estar-precisando-de-ajuda-e-o-RH-nem-sempre-vai-perceber-3d033d8db9d280b68c6ec51e34a236e7"
@@ -2456,10 +2447,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Casou-teve-filhos-mudou-de-emprego-abriu-uma-empresa-Tem-uma-coisa-que-precisa-ser-revisada-junt-3cd33d8db9d2805fa660d09c096969da"
@@ -2519,10 +2508,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-toda-dor-faz-barulho-10-de-setembro-Dia-Mundial-de-Preven-o-do-Suic-dio-3cd33d8db9d2800d8bb9c5941e996bb8"
@@ -3468,11 +3455,9 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "12/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aniversario-Daniel-Brito-3cd33d8db9d280ad80eff090142c0088"
     },
