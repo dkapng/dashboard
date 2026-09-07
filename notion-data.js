@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/09/2026, 17:18:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/09/2026, 19:55:40 **/
 
-const LAST_UPDATE = '07/09/2026, 17:18:55';
+const LAST_UPDATE = '07/09/2026, 19:55:40';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -230,12 +230,12 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Solar Coworking": {
-    "total": 0,
+    "total": 12,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 12
   }
 };
 
@@ -409,12 +409,12 @@ const VIDEO_DATA = {
     "a_agendar": 4
   },
   "Solar Coworking": {
-    "total": 0,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   }
 };
 
@@ -588,12 +588,12 @@ const STORIES_DATA = {
     "a_agendar": 5
   },
   "Solar Coworking": {
-    "total": 0,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   }
 };
 
@@ -2511,7 +2511,176 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Nem-toda-dor-faz-barulho-10-de-setembro-Dia-Mundial-de-Preven-o-do-Suic-dio-3cd33d8db9d2800d8bb9c5941e996bb8"
     }
   ],
-  "Solar Coworking": []
+  "Solar Coworking": [
+    {
+      "title": "Dia da Secretária",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-da-Secret-ria-3d433d8db9d280a48ddbfbb2d2db45be"
+    },
+    {
+      "title": "Dia do Contador",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-do-Contador-3d433d8db9d28096bb3bf3d78990259c"
+    },
+    {
+      "title": "Dia do Administrador",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-do-Administrador-3d433d8db9d28060aabee4afe4d9ba32"
+    },
+    {
+      "title": "Dia do Cliente",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-do-Cliente-3d433d8db9d280b4b4f5cab23d017be2"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d280eda142c40e5a71c3bd"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d2803b8064df5976e62ef8"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d280dea3ede0e0926af792"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d280599c01e0ca964b45d4"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d28071a3b7f84b3d86b8cf"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d28013857ee2bac393b278"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d280cd91dffae45270aae7"
+    },
+    {
+      "title": "Sem título",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3d433d8db9d280699fd2f4c0e365f25c"
+    }
+  ]
 };
 
 const LINHA_VIDEO_ITEMS = {
@@ -3149,7 +3318,50 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d28043af49eda8238d2e26"
     }
   ],
-  "Solar Coworking": []
+  "Solar Coworking": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3d433d8db9d280f18077fddb3f1b68da"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3d433d8db9d2809885b0fc718e58e873"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "08/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3d433d8db9d2808cbc4acf9732387f4f"
+    }
+  ]
 };
 
 const LINHA_STORIES_ITEMS = {
@@ -3469,7 +3681,47 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Aniversario-Gabriel-Meneghetti-3cd33d8db9d280b39ff3df7a92beeb49"
     }
   ],
-  "Solar Coworking": []
+  "Solar Coworking": [
+    {
+      "title": "Setembro Amarelo",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "10/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Setembro-Amarelo-3d433d8db9d280119739dc658da7258b"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "24/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d433d8db9d2800fb698c21e8ed3ccc3"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d433d8db9d280338f86e3902c31f3a9"
+    }
+  ]
 };
 
 const DEMANDAS_EXTRAS = {
@@ -3827,7 +4079,7 @@ const LEGENDAS_DATA = {
   },
   "Solar Coworking": {
     "prontas": 0,
-    "total": 0
+    "total": 15
   }
 };
 
@@ -3980,11 +4232,11 @@ const FORMAT_COUNTS = {
     "story": 6
   },
   "Solar Coworking": {
-    "post": 0,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
-    "story": 0
+    "video": 3,
+    "story": 3
   }
 };
 
