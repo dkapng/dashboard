@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/09/2026, 08:13:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/09/2026, 13:34:26 **/
 
-const LAST_UPDATE = '07/09/2026, 08:13:15';
+const LAST_UPDATE = '07/09/2026, 13:34:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,10 +72,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 14,
     "pronto": 9,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Ser Ponte": {
     "total": 12,
@@ -88,10 +88,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 5,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Stratto": {
     "total": 13,
@@ -151,19 +151,19 @@ const FEED_DATA = {
   },
   "Planos Seguros": {
     "total": 9,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Plannea": {
     "total": 5,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 7,
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 16,
     "pronto": 5,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Finseg Leal": {
     "total": 9,
@@ -698,12 +698,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "7 de Setembro: celebrar o Brasil, construir o futuro (em letra menor: Feriado, não abrimos hoje)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -934,7 +932,7 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "7 de Setembro: Dia da Independência - Um país que cria também constrói sua própria história.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/09",
       "missing": [],
@@ -1561,13 +1559,11 @@ const LINHA_FEED_ITEMS = {
   "Planos Seguros": [
     {
       "title": "7 de Setembro: Dia da Independência - Independência também é ter tranquilidade para seguir o próprio caminho",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Independ-ncia-tamb-m-ter-tranquilidade-para-seguir-o-pr-prio-3ce33d8db9d280368f95eca695c45509"
@@ -1730,7 +1726,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "7 de Setembro: Dia da Independência - Independência também é poder tomar boas decisões",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/09",
       "missing": [],
@@ -2068,7 +2064,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "7 de Setembro: Dia da Independência - Um país independente também precisa de cidadãs com autonomia para transformar a realidade",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/09",
       "missing": [],
@@ -3750,7 +3746,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "AAFEC": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 17
   },
   "Ser Ponte": {
