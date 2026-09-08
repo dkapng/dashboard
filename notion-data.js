@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 07:00:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 11:40:19 **/
 
-const LAST_UPDATE = '08/09/2026, 07:00:49';
+const LAST_UPDATE = '08/09/2026, 11:40:19';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -102,12 +102,12 @@ const FEED_DATA = {
     "a_agendar": 10
   },
   "Juntos contra o HPV": {
-    "total": 10,
+    "total": 9,
     "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Ventana": {
     "total": 0,
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 5,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 5
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -206,12 +206,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 11,
-    "pronto": 1,
-    "postado": 1,
+    "total": 10,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 8
   },
   "Daniel Maia Advocacia": {
     "total": 2,
@@ -222,12 +222,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 12,
-    "pronto": 4,
+    "total": 11,
+    "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 8
   },
   "Solar Coworking": {
     "total": 12,
@@ -249,9 +249,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "AAFEC": {
-    "total": 3,
-    "pronto": 3,
-    "postado": 1,
+    "total": 2,
+    "pronto": 1,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -372,9 +372,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -402,11 +402,11 @@ const VIDEO_DATA = {
   },
   "Conecta Assessoria": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 3,
@@ -452,20 +452,20 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 1,
-    "pronto": 1,
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -532,9 +532,9 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "ItalaP": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
@@ -757,7 +757,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Atenção, associados: criminosos estão aplicando o golpe do corretor",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "09/09",
+      "date": "21/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1242,24 +1242,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-torna-esse-encontro-diferente-Ci-ncia-Gest-o-Sociedade-civil-inova-o-Todas-essa-3ab33d8db9d28015b9c5fabd497f3524"
     },
     {
-      "title": "18 de setembro - Um dia para aprender. Compartilhar. Conectar. E fortalecer uma causa que salva vidas!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/18-de-setembro-Um-dia-para-aprender-Compartilhar-Conectar-E-fortalecer-uma-causa-que-salva-vida-3ab33d8db9d2801d947ad522b3c1dc08"
-    },
-    {
       "title": "Falta pouco para um encontro que reúne quem está construindo o futuro da prevenção. Mais do que um Simpósio: Um encontro entre ciência, inovação, gestão e mobilização social!",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "08/09",
+      "date": "11/09",
       "missing": [
         "Design"
       ],
@@ -1272,7 +1258,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O I Simpósio não será construído por uma única voz! Conheça os participantes…",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "05/09",
+      "date": "08/09",
       "missing": [
         "Design"
       ],
@@ -2132,7 +2118,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Tem coisa que a gente só valoriza quando precisa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "11/09",
+      "date": "14/09",
       "missing": [
         "Legenda"
       ],
@@ -2143,7 +2129,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você saberia responder o que seu plano e seu seguro realmente cobrem?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/09",
       "missing": [],
@@ -2154,7 +2140,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu funcionário pode estar precisando de ajuda — e o RH nem sempre vai perceber.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/09",
       "missing": [],
@@ -2165,9 +2151,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "E se o seguro de vida não fosse sobre o fim, mas sobre continuar?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "05/09",
+      "date": "11/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2190,30 +2176,27 @@ const LINHA_FEED_ITEMS = {
   "APROSSEG": [
     {
       "title": "Hoje o dia é dele! ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Hoje-o-dia-dele-Thiago-que-sua-nova-volta-ao-sol-seja-t-o-especial-quanto-voc-importante-para-3cf33d8db9d2800b8906c92501703ac8"
+    },
+    {
+      "title": "\nFalar sobre saúde mental é uma forma de cuidado. Ouvir sem julgamentos também. \nSe você não está bem, peça ajuda.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/09",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Hoje-o-dia-dele-Thiago-que-sua-nova-volta-ao-sol-seja-t-o-especial-quanto-voc-importante-para-3cf33d8db9d2800b8906c92501703ac8"
-    },
-    {
-      "title": "Dia Mundial de Prevenção ao Suicídio",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-Mundial-de-Preven-o-ao-Suic-dio-3c933d8db9d280738c30d9186cc11844"
+      "notionUrl": "https://app.notion.com/p/Falar-sobre-sa-de-mental-uma-forma-de-cuidado-Ouvir-sem-julgamentos-tamb-m-Se-voc-n-o-est-bem-3c933d8db9d280738c30d9186cc11844"
     },
     {
       "title": "Dia Nacional do Trânsito",
@@ -2242,20 +2225,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-do-Cliente-3c933d8db9d2803785f8cc0acd92653f"
-    },
-    {
-      "title": "Independência do Brasil - Independência é também ter segurança",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "07/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Independ-ncia-do-Brasil-Independ-ncia-tamb-m-ter-seguran-a-3c933d8db9d280a0aa7cc051fb6e6289"
     },
     {
       "title": "Não chegamos até aqui sozinhos. E isso é motivo para comemorar.",
@@ -2298,7 +2267,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O patrimônio mais importante nem sempre é o que tem maior valor.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "04/09",
+      "date": "09/09",
       "missing": [
         "Design"
       ],
@@ -2311,7 +2280,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem planeja apenas os dias bons deixa o futuro nas mãos da sorte.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "09/09",
+      "date": "12/09",
       "missing": [
         "Design"
       ],
@@ -2440,7 +2409,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Casou, teve filhos, mudou de emprego, abriu uma empresa? Tem uma coisa que precisa ser revisada junto.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [],
@@ -2451,27 +2420,14 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você conhece seu plano de saúde ou só conhece o valor da mensalidade?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "04/09",
+      "date": "08/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-seu-plano-de-sa-de-ou-s-conhece-o-valor-da-mensalidade-3cd33d8db9d2809b8a5bcff2d79d0fc2"
-    },
-    {
-      "title": "“Brasil, de amor eterno seja símbolo\nO lábaro que ostentas estrelado,\nE diga o verde-louro dessa flâmula ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "07/09",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Brasil-de-amor-eterno-seja-s-mbolo-O-l-baro-que-ostentas-estrelado-E-diga-o-verde-louro-dessa-fl-m-3cd33d8db9d280f880f7fc125c990356"
     },
     {
       "title": "POV: você mora em Fortaleza, mas resolveu turistar como se fosse turista. Dia Mundial do Turismo ",
@@ -2501,7 +2457,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nem toda dor faz barulho. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/09",
       "missing": [],
@@ -2687,6 +2643,19 @@ const LINHA_VIDEO_ITEMS = {
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [
     {
+      "title": "#TBT palestra sobre quedas ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "10/09",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/TBT-palestra-sobre-quedas-3d533d8db9d280ab8323cc956ae42f43"
+    },
+    {
       "title": "TBT Sara Torelli ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -2696,28 +2665,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/TBT-Sara-Torelli-3cd33d8db9d28018ae22c3dc3839c5ea"
-    },
-    {
-      "title": "Vídeo Memória e Movimento: PDia mundial em alusão ao Alzhaimer",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-Mem-ria-e-Movimento-PDia-mundial-em-alus-o-ao-Alzhaimer-3c133d8db9d280e0be0ae413516dddc4"
-    },
-    {
-      "title": "Cafaz",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Cafaz-3ba33d8db9d2804791bcff865b300922"
     }
   ],
   "Ser Ponte": [],
@@ -2739,7 +2686,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Gestão financeira estruturada",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "10/09",
+      "date": "17/09",
       "missing": [
         "Legenda"
       ],
@@ -2752,7 +2699,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "O que a Stratto faz?",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "05/09",
+      "date": "10/09",
       "missing": [
         "Legenda"
       ],
@@ -2818,7 +2765,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Eu vou porque ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "07/09",
+      "date": "10/09",
       "missing": [
         "Legenda"
       ],
@@ -3234,14 +3181,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Carro roubado",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Carro-roubado-3ae33d8db9d280dcb542f00ae2c31f87"
     }
@@ -3294,16 +3239,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "08/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "date": "09/09",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280dd9559d7f258e0fb03"
     },
     {
@@ -3369,19 +3311,7 @@ const LINHA_STORIES_ITEMS = {
   "AAFEC": [],
   "Ser Ponte": [],
   "Tramix": [],
-  "Stratto": [
-    {
-      "title": "Independência do Brasil",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "07/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Independ-ncia-do-Brasil-3cd33d8db9d28087bd8be1deef17dfc1"
-    }
-  ],
+  "Stratto": [],
   "Juntos contra o HPV": [
     {
       "title": "Os trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV já estão disponíveis. Quer conferir os trabalhos selecionados?\nAcesse o link e veja a lista completa.",
@@ -3393,19 +3323,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Os-trabalhos-selecionados-para-o-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-j-est-o-dispon-veis-Q-3cf33d8db9d280d1aaf4de75f4ebe146"
-    },
-    {
-      "title": "Eu vou!",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Eu-vou-3ab33d8db9d2804a94c0f911dadeaa4f"
     },
     {
       "title": "Falta menos de um mês! Você já garantiu sua inscrição?",
@@ -3591,6 +3508,19 @@ const LINHA_STORIES_ITEMS = {
     {
       "title": "Comunicado",
       "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "09/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Comunicado-3d533d8db9d2803b920dd09699f03e78"
+    },
+    {
+      "title": "Comunicado",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "04/09",
       "missing": [],
@@ -3998,8 +3928,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "AAFEC": {
-    "prontas": 9,
-    "total": 17
+    "prontas": 8,
+    "total": 16
   },
   "Ser Ponte": {
     "prontas": 11,
@@ -4015,7 +3945,7 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 7,
-    "total": 15
+    "total": 14
   },
   "Ventana": {
     "prontas": 0,
@@ -4058,7 +3988,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Finseg Leal": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 16
   },
   "Di Gregório Buffet": {
@@ -4066,16 +3996,16 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 7,
-    "total": 12
+    "prontas": 8,
+    "total": 11
   },
   "Daniel Maia Advocacia": {
     "prontas": 2,
     "total": 3
   },
   "Conecta Assessoria": {
-    "prontas": 11,
-    "total": 17
+    "prontas": 12,
+    "total": 16
   },
   "Solar Coworking": {
     "prontas": 0,
@@ -4095,7 +4025,7 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 3,
     "foto": 0,
-    "video": 3,
+    "video": 2,
     "story": 0
   },
   "Ser Ponte": {
@@ -4117,14 +4047,14 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 2,
-    "story": 1
+    "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 7,
+    "post": 6,
     "carrossel": 3,
     "foto": 0,
     "video": 5,
-    "story": 3
+    "story": 2
   },
   "Ventana": {
     "post": 0,
@@ -4187,7 +4117,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 5,
-    "story": 1
+    "story": 2
   },
   "Grupo Mulheres do Brasil": {
     "post": 6,
@@ -4211,7 +4141,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 10,
+    "post": 9,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -4225,7 +4155,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Conecta Assessoria": {
-    "post": 11,
+    "post": 10,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
@@ -4247,7 +4177,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "AAFEC": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 4,
     "evento": 0
   },
@@ -4322,7 +4252,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Finseg Leal": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
@@ -4342,7 +4272,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Conecta Assessoria": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
