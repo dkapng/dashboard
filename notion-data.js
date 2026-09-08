@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 11:40:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 15:13:18 **/
 
-const LAST_UPDATE = '08/09/2026, 11:40:19';
+const LAST_UPDATE = '08/09/2026, 15:13:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,11 +79,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 12,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 9
+    "agendado_coord": 4,
+    "a_agendar": 6
   },
   "Tramix": {
     "total": 5,
@@ -103,10 +103,10 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 9,
-    "pronto": 4,
-    "postado": 1,
+    "pronto": 5,
+    "postado": 2,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 7
   },
   "Ventana": {
@@ -230,12 +230,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Solar Coworking": {
-    "total": 12,
+    "total": 11,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   }
 };
 
@@ -284,9 +284,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 4,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 0,
@@ -356,9 +356,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 5,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -409,12 +409,12 @@ const VIDEO_DATA = {
     "a_agendar": 3
   },
   "Solar Coworking": {
-    "total": 3,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   }
 };
 
@@ -793,13 +793,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que aumentar a renda de uma família pode movimentar todo um território? ",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "10/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-aumentar-a-renda-de-uma-fam-lia-pode-movimentar-todo-um-territ-rio-O-dinheiro-recebido-por--3bf33d8db9d28061a2bac383fd7a1d93"
@@ -832,39 +832,37 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que muda quando uma comunidade começa a construir soluções dentro do próprio território?",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "11/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-muda-quando-uma-comunidade-come-a-a-construir-solu-es-dentro-do-pr-prio-territ-rio-3bf33d8db9d2803d970fe420a3a08a33"
     },
     {
       "title": "O bairro onde você mora pode definir as oportunidades que você encontra.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "09/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-bairro-onde-voc-mora-pode-definir-as-oportunidades-que-voc-encontra-3bf33d8db9d280dfa555deeb32f19b00"
     },
     {
       "title": "Quando falta dinheiro, qualquer imprevisto vira uma crise.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (interno)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-falta-dinheiro-qualquer-imprevisto-vira-uma-crise-3bf33d8db9d280ebbf14e814d7458809"
@@ -917,13 +915,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "08/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
@@ -1078,11 +1076,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Administrar-n-o-apenas-manter-a-empresa-funcionando-criar-condi-es-para-ela-evoluir-DIA-DO--3cd33d8db9d280a481d1f552d80af8c4"
     },
@@ -1106,11 +1103,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quais-n-meros-realmente-dizem-se-sua-empresa-est-crescendo-de-forma-saud-vel-3cd33d8db9d280539809fab224dccacc"
     },
@@ -1120,11 +1116,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "08/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Para-crescer-voc-precisa-confiar-Para-confiar-precisa-ter-processos-3cd33d8db9d28065a9eaeded6d717393"
     },
@@ -1168,9 +1163,9 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Sua experiência com a vacina contra o HPV importa. A Conitec quer ouvir você.\nChamada Pública | Perspectiva do Paciente\nInscrições até 11/09/2026\nLink na bio!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "04/09",
+      "date": "08/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1245,7 +1240,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Falta pouco para um encontro que reúne quem está construindo o futuro da prevenção. Mais do que um Simpósio: Um encontro entre ciência, inovação, gestão e mobilização social!",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "11/09",
+      "date": "10/09",
       "missing": [
         "Design"
       ],
@@ -1256,14 +1251,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O I Simpósio não será construído por uma única voz! Conheça os participantes…",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "08/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "date": "11/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-I-Simp-sio-n-o-ser-constru-do-por-uma-nica-voz-Conhe-a-os-participantes-3ab33d8db9d280b795dde78bde104a78"
     },
@@ -2332,7 +2325,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Seu próximo plano de saúde pode ser Amil. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/09",
+      "date": "22/09",
       "missing": [
         "Design"
       ],
@@ -2372,7 +2365,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Entre tantas opções de planos, ter alguém para filtrar faz diferença. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "23/09",
+      "date": "21/09",
       "missing": [
         "Design"
       ],
@@ -2385,7 +2378,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua equipe merece um benefício que faça sentido para ela — e para o caixa da empresa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/09",
+      "date": "14/09",
       "missing": [
         "Design"
       ],
@@ -2553,21 +2546,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d2803b8064df5976e62ef8"
     },
     {
-      "title": "Post",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d280dea3ede0e0926af792"
-    },
-    {
-      "title": "Post",
+      "title": "Networking não acontece só em eventos. Ele acontece na rotina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/09",
@@ -2578,10 +2557,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d280599c01e0ca964b45d4"
+      "notionUrl": "https://app.notion.com/p/Networking-n-o-acontece-s-em-eventos-Ele-acontece-na-rotina-3d433d8db9d280599c01e0ca964b45d4"
     },
     {
-      "title": "Post",
+      "title": "Cada detalhe pensado para a sua rotina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
@@ -2592,10 +2571,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d28071a3b7f84b3d86b8cf"
+      "notionUrl": "https://app.notion.com/p/Cada-detalhe-pensado-para-a-sua-rotina-3d433d8db9d28071a3b7f84b3d86b8cf"
     },
     {
-      "title": "Post",
+      "title": "Mais praticidade para o que faz parte da sua rotina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/09",
@@ -2606,10 +2585,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d28013857ee2bac393b278"
+      "notionUrl": "https://app.notion.com/p/Mais-praticidade-para-o-que-faz-parte-da-sua-rotina-3d433d8db9d28013857ee2bac393b278"
     },
     {
-      "title": "Post",
+      "title": "Duas localizações. Diferentes possibilidades.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/09",
@@ -2620,10 +2599,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d433d8db9d280cd91dffae45270aae7"
+      "notionUrl": "https://app.notion.com/p/Duas-localiza-es-Diferentes-possibilidades-3d433d8db9d280cd91dffae45270aae7"
     },
     {
-      "title": "Sem título",
+      "title": "Sua empresa começa na porta de entrada.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/09",
@@ -2634,7 +2613,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/3d433d8db9d280699fd2f4c0e365f25c"
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-come-a-na-porta-de-entrada-3d433d8db9d280699fd2f4c0e365f25c"
     }
   ]
 };
@@ -2739,12 +2718,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": " mitos - aline posta",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -2765,7 +2742,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Eu vou porque ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "10/09",
+      "date": "12/09",
       "missing": [
         "Legenda"
       ],
@@ -3117,7 +3094,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Italap perto de você",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "08/09",
       "missing": [],
@@ -3199,7 +3176,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "24/09",
+      "date": "28/09",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3261,6 +3238,20 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Solar Coworking": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3d533d8db9d280af9fabcee3f55a9b48"
+    },
     {
       "title": "Vídeo",
       "status": "a_agendar",
@@ -3655,6 +3646,40 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "Alteração em ",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Altera-o-em-3d533d8db9d2801088b4d3eb95dd8632",
+      "gestora": "Equipe",
+      "date": "08/09"
+    },
+    {
+      "title": "Legendar vídeo",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
+      "gestora": "Equipe",
+      "date": "10/09"
+    },
+    {
+      "title": "Placas para municípios",
+      "priority": "ppp",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-3b933d8db9d280cab8ebe5d0d616b1a4",
+      "gestora": "Equipe",
+      "date": "09T10:00:00.000/09"
+    },
+    {
+      "title": "I Simpósio | Backdrops",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
+      "gestora": "Equipe",
+      "date": "30/07"
+    }
+  ],
   "Ortobom": [
     {
       "title": "Comunicado",
@@ -3743,14 +3768,6 @@ const DEMANDAS_EXTRAS = {
   ],
   "AAFEC": [
     {
-      "title": "Vídeo de aniversariantes do mês de setembro",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/V-deo-de-aniversariantes-do-m-s-de-setembro-3d133d8db9d280289c28d453ed43d55e",
-      "gestora": "Equipe",
-      "date": "07/09"
-    },
-    {
       "title": "Agenda de outubro de 2026",
       "priority": "p",
       "rawStatus": "2. Falta informação",
@@ -3783,24 +3800,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
       "gestora": "Equipe",
       "date": "12/08"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Assinatura de e-mail para envio de boletos",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-envio-de-boletos-3ce33d8db9d2803eacc2e4961352b32d",
-      "gestora": "Equipe",
-      "date": "02/09"
-    },
-    {
-      "title": "Trocar foto da assinatura de email da Chrys",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Trocar-foto-da-assinatura-de-email-da-Chrys-3ce33d8db9d28039810fe48f28bb63a7",
-      "gestora": "Equipe",
-      "date": "02/09"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -3865,24 +3864,6 @@ const DEMANDAS_EXTRAS = {
       "date": "26/08"
     }
   ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Placas para municípios",
-      "priority": "ppp",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-3b933d8db9d280cab8ebe5d0d616b1a4",
-      "gestora": "Equipe",
-      "date": "09T10:00:00.000/09"
-    },
-    {
-      "title": "I Simpósio | Backdrops",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/I-Simp-sio-Backdrops-3a333d8db9d2803b9238cd388f21539d",
-      "gestora": "Equipe",
-      "date": "30/07"
-    }
-  ],
   "Ventana": [
     {
       "title": "Briefing e e-mail de boas vindas",
@@ -3914,6 +3895,8 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Conecta Assessoria": "marcada",
+  "Finseg Leal": "marcada",
   "Plannea": "confirmada",
   "Solar Coworking": "marcada",
   "AAFEC": "confirmada",
@@ -3940,11 +3923,11 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Stratto": {
-    "prontas": 3,
+    "prontas": 6,
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 14
   },
   "Ventana": {
@@ -4162,10 +4145,10 @@ const FORMAT_COUNTS = {
     "story": 6
   },
   "Solar Coworking": {
-    "post": 12,
+    "post": 11,
     "carrossel": 0,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 3
   }
 };
@@ -4253,7 +4236,7 @@ const AGENDA_COUNTS = {
   },
   "Finseg Leal": {
     "reuniao": 1,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Di Gregório Buffet": {
@@ -4273,7 +4256,7 @@ const AGENDA_COUNTS = {
   },
   "Conecta Assessoria": {
     "reuniao": 1,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Solar Coworking": {
