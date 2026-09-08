@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 15:13:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 18:17:20 **/
 
-const LAST_UPDATE = '08/09/2026, 15:13:18';
+const LAST_UPDATE = '08/09/2026, 18:17:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -86,12 +86,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Tramix": {
-    "total": 5,
-    "pronto": 3,
+    "total": 6,
+    "pronto": 6,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 13,
@@ -136,18 +136,18 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 7,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Rede Pangeia": {
-    "total": 0,
+    "total": 8,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 8
   },
   "Planos Seguros": {
     "total": 9,
@@ -500,12 +500,12 @@ const STORIES_DATA = {
     "a_agendar": 2
   },
   "Rede Pangeia": {
-    "total": 0,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 4
   },
   "Planos Seguros": {
     "total": 2,
@@ -940,14 +940,23 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Um-pa-s-que-cria-tamb-m-constr-i-sua-pr-pria-hist-ria-3ce33d8db9d28029b5ebe905fa126348"
     },
     {
+      "title": "Mais de 100 cores de zíperes para sua produção.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-de-100-cores-de-z-peres-para-sua-produ-o-3bf33d8db9d280039cf5e1104e595426"
+    },
+    {
       "title": "Linha 120: quando a costura pede desempenho",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Linha-120-quando-a-costura-pede-desempenho-3bf33d8db9d280f5af0ac244a4fc66d1"
@@ -968,10 +977,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-um-come-o-A-Tramix-come-ou-com-cinco-pessoas-3bf33d8db9d2804292b1d865a5409737"
@@ -1118,7 +1125,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Para-crescer-voc-precisa-confiar-Para-confiar-precisa-ter-processos-3cd33d8db9d28065a9eaeded6d717393"
@@ -1502,7 +1509,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Comprou pela internet e se arrependeu? Você pode ter um prazo para desistir.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/09",
       "missing": [],
@@ -1534,7 +1541,119 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Um-ambiente-de-trabalho-saud-vel-tamb-m-envolve-responsabilidade-jur-dica-3ce33d8db9d28082b71cf1612b9516c5"
     }
   ],
-  "Rede Pangeia": [],
+  "Rede Pangeia": [
+    {
+      "title": "O futuro da sua organização não deveria depender da urgência.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-futuro-da-sua-organiza-o-n-o-deveria-depender-da-urg-ncia-Planejar-criar-espa-o-para-escolher--3d533d8db9d280e3ac09f8e94dd8df6a"
+    },
+    {
+      "title": "3 perguntas antes de aceitar qualquer parceria",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "24/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3-perguntas-antes-de-aceitar-qualquer-parceria-3d533d8db9d280c09e19f06bca5d30bf"
+    },
+    {
+      "title": "Sua equipe sabe por que está fazendo o que faz?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-equipe-sabe-por-que-est-fazendo-o-que-faz-Executar-tarefas-diferente-de-compreender-o-impact-3d533d8db9d280c8b22ce08744147601"
+    },
+    {
+      "title": "Nem todo problema de uma ONG é falta de recursos. Às vezes, o recurso existe. O que falta é estrutura para acessá-lo, organizá-lo ou transformá-lo em resultado.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Nem-todo-problema-de-uma-ONG-falta-de-recursos-s-vezes-o-recurso-existe-O-que-falta-estrutur-3d533d8db9d28019b852e64c36472160"
+    },
+    {
+      "title": "Quanto mais diversificada é a receita da sua organização, maior tende a ser sua capacidade de atravessar mudanças.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quanto-mais-diversificada-a-receita-da-sua-organiza-o-maior-tende-a-ser-sua-capacidade-de-atrave-3d533d8db9d28083aa20ceb63f07a133"
+    },
+    {
+      "title": "5 sinais de que sua organização precisa fortalecer a gestão",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "11/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/5-sinais-de-que-sua-organiza-o-precisa-fortalecer-a-gest-o-3d533d8db9d28081a936d037f45ef55e"
+    },
+    {
+      "title": "Toda transformação começa com uma relação de confiança - Dia do cliente",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-transforma-o-come-a-com-uma-rela-o-de-confian-a-Dia-do-cliente-3d533d8db9d28060b368e89dc54d9f72"
+    },
+    {
+      "title": "Toda causa precisa de quem cuide da sua gestão. Dia do Administrador",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-causa-precisa-de-quem-cuide-da-sua-gest-o-Dia-do-Administrador-3d533d8db9d280c2a595c41ee88a04ef"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "7 de Setembro: Dia da Independência - Independência também é ter tranquilidade para seguir o próprio caminho",
@@ -2622,14 +2741,14 @@ const LINHA_VIDEO_ITEMS = {
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [
     {
-      "title": "#TBT palestra sobre quedas ",
+      "title": "#TBT palestra sobre quedas",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "10/09",
       "missing": [
         "Vídeo"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/TBT-palestra-sobre-quedas-3d533d8db9d280ab8323cc956ae42f43"
@@ -3411,7 +3530,60 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3ce33d8db9d280d28764fb0d7fcad111"
     }
   ],
-  "Rede Pangeia": [],
+  "Rede Pangeia": [
+    {
+      "title": "#dicadasemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "23/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d28013b7a9cf7d1ee72c5e"
+    },
+    {
+      "title": "#dicadasemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d280e68407db49b6b92ce0"
+    },
+    {
+      "title": "#dicadasemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "16/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d28032bb72d7d4531e16d9"
+    },
+    {
+      "title": "Dia Mundial de Prevenção ao Suicídio",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "10/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-Mundial-de-Preven-o-ao-Suic-dio-3d533d8db9d280bd8bbcd96b4cf09ca7"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Seu seguro acompanha a realidade atual da sua operação?",
@@ -3650,7 +3822,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Alteração em ",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Altera-o-em-3d533d8db9d2801088b4d3eb95dd8632",
       "gestora": "Equipe",
       "date": "08/09"
@@ -3698,14 +3870,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
       "gestora": "Equipe",
       "date": "11/09"
-    },
-    {
-      "title": "Corrida 2026 | Ajustes na apresentação para patrocinadores",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Corrida-2026-Ajustes-na-apresenta-o-para-patrocinadores-3d033d8db9d280ddb53cd2bb2637f9cd",
-      "gestora": "Equipe",
-      "date": "04T10:00:00.000/09"
     },
     {
       "title": "Adicionar logo do Sebrae em apresentações",
@@ -3947,8 +4111,8 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Rede Pangeia": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 1,
+    "total": 8
   },
   "Planos Seguros": {
     "prontas": 11,
@@ -4019,7 +4183,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Tramix": {
-    "post": 5,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
     "video": 1,
@@ -4068,11 +4232,11 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Rede Pangeia": {
-    "post": 0,
-    "carrossel": 0,
+    "post": 6,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 4
   },
   "Planos Seguros": {
     "post": 9,
