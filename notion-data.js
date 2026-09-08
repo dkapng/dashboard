@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 18:17:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 20:29:26 **/
 
-const LAST_UPDATE = '08/09/2026, 18:17:20';
+const LAST_UPDATE = '08/09/2026, 20:29:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 5,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 7,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 8,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 5,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -533,7 +533,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 2,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -572,12 +572,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
     "total": 6,
@@ -1082,10 +1082,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Administrar-n-o-apenas-manter-a-empresa-funcionando-criar-condi-es-para-ela-evoluir-DIA-DO--3cd33d8db9d280a481d1f552d80af8c4"
@@ -1122,10 +1120,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Para-crescer-voc-precisa-confiar-Para-confiar-precisa-ter-processos-3cd33d8db9d28065a9eaeded6d717393"
@@ -1499,10 +1495,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-os-s-cios-discordam-quem-decide-3ce33d8db9d2804981dff880929afece"
@@ -1645,10 +1639,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-causa-precisa-de-quem-cuide-da-sua-gest-o-Dia-do-Administrador-3d533d8db9d280c2a595c41ee88a04ef"
@@ -1792,10 +1785,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ter-um-sistema-de-gest-o-n-o-significa-ter-informa-o-confi-vel-3ce33d8db9d280d0814cd149c9ea5382"
@@ -2075,7 +2067,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/QUEM-RECEBE-O-DINHEIRO-DA-CAMPANHA-Dinheiro-tamb-m-decide-quem-consegue-disputar-uma-elei-o-3d033d8db9d28023a90ffb0093615df0"
     },
     {
-      "title": "COTA DE GÊNERO: TER MULHER NA CHAPA É SUFICIENTE. ",
+      "title": "Cota de gênero: ter mulher na chapa é suficiente. ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "09/09",
@@ -2085,7 +2077,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/COTA-DE-G-NERO-TER-MULHER-NA-CHAPA-SUFICIENTE-30-de-mulheres-nas-candidaturas-n-o-significa-30--3d033d8db9d28086af2edcb81af55d1d"
+      "notionUrl": "https://app.notion.com/p/Cota-de-g-nero-ter-mulher-na-chapa-suficiente-30-de-mulheres-nas-candidaturas-n-o-significa-30--3d033d8db9d28086af2edcb81af55d1d"
     },
     {
       "title": "Mulheres são maioria do eleitorado. Por que ainda são minoria no poder?",
@@ -3673,10 +3665,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "09/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comunicado-3d533d8db9d2803b920dd09699f03e78"
@@ -3697,7 +3687,21 @@ const LINHA_STORIES_ITEMS = {
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [],
-  "Daniel Maia Advocacia": [],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Feliz aniversário, Heloisa",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "11/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Heloisa-3a533d8db9d280698e2cf0eae62be2f5"
+    }
+  ],
   "Conecta Assessoria": [
     {
       "title": "Aniversario - Diego Sarquis",
@@ -4148,7 +4152,7 @@ const LEGENDAS_DATA = {
   },
   "Daniel Maia Advocacia": {
     "prontas": 2,
-    "total": 3
+    "total": 2
   },
   "Conecta Assessoria": {
     "prontas": 12,
@@ -4299,7 +4303,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 1
   },
   "Conecta Assessoria": {
     "post": 10,
