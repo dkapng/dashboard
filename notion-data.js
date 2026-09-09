@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 15:58:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 18:31:20 **/
 
-const LAST_UPDATE = '09/09/2026, 15:58:18';
+const LAST_UPDATE = '09/09/2026, 18:31:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,12 +62,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "AAFEC": {
     "total": 14,
@@ -174,12 +174,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "ItalaP": {
-    "total": 4,
+    "total": 12,
     "pronto": 3,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 9
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
@@ -598,7 +598,22 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
-  "Hélio Rôla 90 Anos": [],
+  "Hélio Rôla 90 Anos": [
+    {
+      "title": "Convite para visita guiada",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Convite-para-visita-guiada-3d633d8db9d280e0a75cd2c5f538922b"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Entre Cantos e Contos Fortaleza",
@@ -1918,18 +1933,121 @@ const LINHA_FEED_ITEMS = {
   ],
   "ItalaP": [
     {
-      "title": "Dia Mundial da Segurança do Paciente",
+      "title": "O que seus exames de sangue podem revelar sobre a sua saúde?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-seus-exames-de-sangue-podem-revelar-sobre-a-sua-sa-de-3d633d8db9d280b0a0dfc84ccc564e3c"
+    },
+    {
+      "title": "Qual médico procurar quando você não sabe por onde começar?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Qual-m-dico-procurar-quando-voc-n-o-sabe-por-onde-come-ar-3d633d8db9d280ff8154cfb26ecb3071"
+    },
+    {
+      "title": "Você sabe tudo o que pode encontrar na ItalaP?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-tudo-o-que-pode-encontrar-na-ItalaP-3d633d8db9d28059a0c8fcc33d0c128d"
+    },
+    {
+      "title": "Seu exame deu alterado. E agora?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-exame-deu-alterado-E-agora-3d633d8db9d28099b1b4cd93ed7158b6"
+    },
+    {
+      "title": "Você sabe quando realmente precisa fazer um exame?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-quando-realmente-precisa-fazer-um-exame-3d633d8db9d280e3ad68f2031eb01a9c"
+    },
+    {
+      "title": "Seu coração pode estar pedindo cuidado antes de você perceber - Dia Mundial do Coração",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-cora-o-pode-estar-pedindo-cuidado-antes-de-voc-perceber-Dia-Mundial-do-Cora-o-3d633d8db9d2802b9c84e5b7c524fed5"
+    },
+    {
+      "title": "Um resultado confiável começa muito antes do resultado - Dia Mundial da Segurança do Paciente",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "17/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-Mundial-da-Seguran-a-do-Paciente-3d633d8db9d280e2be17eeacee9fa96a"
+      "notionUrl": "https://app.notion.com/p/Um-resultado-confi-vel-come-a-muito-antes-do-resultado-Dia-Mundial-da-Seguran-a-do-Paciente-3d633d8db9d280e2be17eeacee9fa96a"
+    },
+    {
+      "title": "Trombose não acontece só com quem fica muito tempo parado - Dia Nacional de Combate e Prevenção à Trombose",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Trombose-n-o-acontece-s-com-quem-fica-muito-tempo-parado-Dia-Nacional-de-Combate-e-Preven-o-Tr-3d633d8db9d280c79fd4c8c98b24efcd"
+    },
+    {
+      "title": "Às vezes, ajudar começa simplesmente por saber ouvir - ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/s-vezes-ajudar-come-a-simplesmente-por-saber-ouvir-Dia-Mundial-de-Preven-o-ao-Suic-dio-3d633d8db9d2804a9600d96cc359e6db"
     },
     {
       "title": "Por que algumas doenças são descobertas por acaso em exames de rotina?",
@@ -2079,7 +2197,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cota-de-g-nero-ter-mulher-na-chapa-suficiente-30-de-mulheres-nas-candidaturas-n-o-significa-30--3d033d8db9d28086af2edcb81af55d1d"
@@ -3421,7 +3539,7 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Story/stories",
+      "title": "[Falta conteúdo] Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "10/09",
@@ -3431,7 +3549,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ce33d8db9d280a6b182e4a2af93edd3"
+      "notionUrl": "https://app.notion.com/p/Falta-conte-do-Story-stories-3ce33d8db9d280a6b182e4a2af93edd3"
     },
     {
       "title": "Story/stories",
@@ -3806,22 +3924,12 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     },
     {
-      "title": "Placas para municípios",
+      "title": "Placas para municípios e cartas de agradecimento",
       "priority": "ppp",
       "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-3b933d8db9d280cab8ebe5d0d616b1a4",
+      "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-e-cartas-de-agradecimento-3b933d8db9d280cab8ebe5d0d616b1a4",
       "gestora": "Equipe",
       "date": "09T10:00:00.000/09"
-    }
-  ],
-  "Ortobom": [
-    {
-      "title": "Comunicado",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Comunicado-3d133d8db9d280f8a7c3f33ab52dfded",
-      "gestora": "Equipe",
-      "date": "04/09"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -3858,40 +3966,6 @@ const DEMANDAS_EXTRAS = {
       "date": "17/06"
     }
   ],
-  "Plannea": [
-    {
-      "title": "Promoção interna do colaborador André Fernandes de Auxiliar Contábil para Assistente Contábil",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Promo-o-interna-do-colaborador-Andr-Fernandes-de-Auxiliar-Cont-bil-para-Assistente-Cont-bil-3d133d8db9d2801881f8ffb81dc338d4",
-      "gestora": "Equipe",
-      "date": "08/09"
-    },
-    {
-      "title": "Promoção interna do colaborador Matheus de França de Auxiliar Fiscal para Assistente Fiscal",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Promo-o-interna-do-colaborador-Matheus-de-Fran-a-de-Auxiliar-Fiscal-para-Assistente-Fiscal-3d133d8db9d280f9ba1cd67484000968",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Boas-vindas do Júlio Santana para a vaga de Estagiário Fiscal. Hobby: Treinar.  Graduando em Ciências Contábeis.",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Boas-vindas-do-J-lio-Santana-para-a-vaga-de-Estagi-rio-Fiscal-Hobby-Treinar-Graduando-em-Ci-ncia-3d133d8db9d280faa52deef6f92a10d2",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Pasta de conferência",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
-      "gestora": "Equipe",
-      "date": "26/08"
-    }
-  ],
   "AAFEC": [
     {
       "title": "Agenda de outubro de 2026",
@@ -3906,7 +3980,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Ajustes no pitch",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
       "gestora": "Equipe",
       "date": "04/09"
@@ -3929,14 +4003,6 @@ const DEMANDAS_EXTRAS = {
     }
   ],
   "Daniel Maia Advocacia": [
-    {
-      "title": "Assinatura de e-mail para Fernanda Bitu",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-para-Fernanda-Bitu-3ce33d8db9d280fc8e1cee5f39cd4be2",
-      "gestora": "Equipe",
-      "date": "01/09"
-    },
     {
       "title": "Configurações de e-mail",
       "priority": "p",
@@ -3978,6 +4044,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
       "gestora": "Equipe",
       "date": "29/05"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Pasta de conferência",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
+      "gestora": "Equipe",
+      "date": "26/08"
     }
   ],
   "Rede Pangeia": [
@@ -4034,7 +4110,7 @@ const APRESENTACAO_DATA = {};
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
     "prontas": 0,
-    "total": 0
+    "total": 1
   },
   "AAFEC": {
     "prontas": 8,
@@ -4089,8 +4165,8 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "ItalaP": {
-    "prontas": 5,
-    "total": 12
+    "prontas": 14,
+    "total": 17
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 13,
@@ -4124,7 +4200,7 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Hélio Rôla 90 Anos": {
-    "post": 0,
+    "post": 1,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4222,7 +4298,7 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "ItalaP": {
-    "post": 3,
+    "post": 11,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
