@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 22:24:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 03:14:41 **/
 
-const LAST_UPDATE = '08/09/2026, 22:24:24';
+const LAST_UPDATE = '09/09/2026, 03:14:41';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -230,12 +230,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Solar Coworking": {
-    "total": 12,
-    "pronto": 0,
+    "total": 13,
+    "pronto": 8,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 12
+    "agendado_coord": 4,
+    "a_agendar": 9
   }
 };
 
@@ -588,12 +588,12 @@ const STORIES_DATA = {
     "a_agendar": 5
   },
   "Solar Coworking": {
-    "total": 3,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   }
 };
 
@@ -2558,6 +2558,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Solar Coworking": [
     {
+      "title": "Fortaleza hoje. Eusébio amanhã. Seu escritório pode acompanhar sua agenda.",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Fortaleza-hoje-Eus-bio-amanh-Seu-escrit-rio-pode-acompanhar-sua-agenda-3d633d8db9d280f1934dd9480c85c558"
+    },
+    {
       "title": "Dia da Secretária",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2587,31 +2598,25 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dia do Administrador",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "09/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-do-Administrador-3d433d8db9d28060aabee4afe4d9ba32"
     },
     {
-      "title": "Dia do Cliente",
-      "status": "a_agendar",
+      "title": "A Solar tem endereço. Mas são os nossos clientes que fazem dela um lugar de negócios. 15 de setembro - Dia do Cliente",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Cliente-3d433d8db9d280b4b4f5cab23d017be2"
+      "notionUrl": "https://app.notion.com/p/A-Solar-tem-endere-o-Mas-s-o-os-nossos-clientes-que-fazem-dela-um-lugar-de-neg-cios-15-de-setembro-3d433d8db9d280b4b4f5cab23d017be2"
     },
     {
       "title": "Post",
@@ -2656,72 +2661,63 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Networking-n-o-acontece-s-em-eventos-Ele-acontece-na-rotina-3d433d8db9d280599c01e0ca964b45d4"
     },
     {
-      "title": "Cada detalhe pensado para a sua rotina.",
+      "title": "O café é só uma desculpa para a gente se encontrar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cada-detalhe-pensado-para-a-sua-rotina-3d433d8db9d28071a3b7f84b3d86b8cf"
+      "notionUrl": "https://app.notion.com/p/O-caf-s-uma-desculpa-para-a-gente-se-encontrar-3d433d8db9d28071a3b7f84b3d86b8cf"
     },
     {
-      "title": "Mais praticidade para o que faz parte da sua rotina.",
+      "title": "Você saiu para vender. A encomenda resolveu chegar justamente nessa hora.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mais-praticidade-para-o-que-faz-parte-da-sua-rotina-3d433d8db9d28013857ee2bac393b278"
+      "notionUrl": "https://app.notion.com/p/Voc-saiu-para-vender-A-encomenda-resolveu-chegar-justamente-nessa-hora-3d433d8db9d28013857ee2bac393b278"
     },
     {
-      "title": "Duas localizações. Diferentes possibilidades.",
-      "status": "a_agendar",
+      "title": "Há tempestades que ninguém vê. Acolher também é estar atento a elas. #Setembro amarelo",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "date": "10/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Duas-localiza-es-Diferentes-possibilidades-3d433d8db9d280cd91dffae45270aae7"
+      "notionUrl": "https://app.notion.com/p/H-tempestades-que-ningu-m-v-Acolher-tamb-m-estar-atento-a-elas-Setembro-amarelo-3d433d8db9d280cd91dffae45270aae7"
     },
     {
       "title": "Networking de verdade acontece quando você menos espera.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-3c033d8db9d280ca8525fe0f4b0ae5b6"
     },
     {
-      "title": "Sua estrutura acompanha o crescimento do seu negócio?",
+      "title": "Quanto custaria ter recepcionista, sala de reunião, estacionamento e endereço em duas cidades?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-estrutura-acompanha-o-crescimento-do-seu-neg-cio-3c033d8db9d280d3bd2fd6240cf37918"
+      "notionUrl": "https://app.notion.com/p/Quanto-custaria-ter-recepcionista-sala-de-reuni-o-estacionamento-e-endere-o-em-duas-cidades-3c033d8db9d280d3bd2fd6240cf37918"
     }
   ]
 };
@@ -3777,19 +3773,6 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Solar Coworking": [
     {
-      "title": "Setembro Amarelo",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Setembro-Amarelo-3d433d8db9d280119739dc658da7258b"
-    },
-    {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4156,8 +4139,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Solar Coworking": {
-    "prontas": 2,
-    "total": 16
+    "prontas": 6,
+    "total": 17
   }
 };
 
@@ -4310,11 +4293,11 @@ const FORMAT_COUNTS = {
     "story": 6
   },
   "Solar Coworking": {
-    "post": 12,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 4,
-    "story": 3
+    "story": 2
   }
 };
 
