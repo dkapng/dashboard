@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 20:29:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/09/2026, 22:24:24 **/
 
-const LAST_UPDATE = '08/09/2026, 20:29:26';
+const LAST_UPDATE = '08/09/2026, 22:24:24';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -207,11 +207,11 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 10,
-    "pronto": 2,
+    "pronto": 9,
     "postado": 2,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 8
+    "agendado_coord": 1,
+    "a_agendar": 7
   },
   "Daniel Maia Advocacia": {
     "total": 2,
@@ -230,12 +230,12 @@ const FEED_DATA = {
     "a_agendar": 8
   },
   "Solar Coworking": {
-    "total": 11,
+    "total": 12,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 12
   }
 };
 
@@ -2294,10 +2294,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Falar-sobre-sa-de-mental-uma-forma-de-cuidado-Ouvir-sem-julgamentos-tamb-m-Se-voc-n-o-est-bem-3c933d8db9d280738c30d9186cc11844"
@@ -2317,28 +2315,23 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-Nacional-do-Tr-nsito-3c933d8db9d2801990fdc39da91e4398"
     },
     {
-      "title": "Dia do Cliente",
-      "status": "a_agendar",
+      "title": "Algumas relações começam com uma apólice. As melhores continuam pela confiança. 15 de setembro: Dia do Cliente",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Cliente-3c933d8db9d2803785f8cc0acd92653f"
+      "notionUrl": "https://app.notion.com/p/Algumas-rela-es-come-am-com-uma-ap-lice-As-melhores-continuam-pela-confian-a-15-de-setembro-Dia--3c933d8db9d2803785f8cc0acd92653f"
     },
     {
       "title": "Não chegamos até aqui sozinhos. E isso é motivo para comemorar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/N-o-chegamos-at-aqui-sozinhos-E-isso-motivo-para-comemorar-3a033d8db9d2802e9098c1954b3b7855"
@@ -2355,27 +2348,23 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Cada-ap-lice-representa-uma-hist-ria-que-escolheu-confiar-na-Aprosseg-3a033d8db9d28039a4e5d22fdd051df2"
     },
     {
-      "title": "A maioria das pessoas não deixa de contratar um seguro porque não acredita na proteção. Ela deixa porque acredita que ainda dá tempo.",
+      "title": "A maioria das pessoas não deixa de contratar um seguro porque não acredita na proteção. Deixa porque acredita que ainda dá tempo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-maioria-das-pessoas-n-o-deixa-de-contratar-um-seguro-porque-n-o-acredita-na-prote-o-Ela-deixa-po-3a033d8db9d28010aff3ed57ef833ac9"
+      "notionUrl": "https://app.notion.com/p/A-maioria-das-pessoas-n-o-deixa-de-contratar-um-seguro-porque-n-o-acredita-na-prote-o-Deixa-porque-3a033d8db9d28010aff3ed57ef833ac9"
     },
     {
       "title": "O patrimônio mais importante nem sempre é o que tem maior valor.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-patrim-nio-mais-importante-nem-sempre-o-que-tem-maior-valor-3a033d8db9d280bdbdcafdc722617dcf"
@@ -2385,10 +2374,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-planeja-apenas-os-dias-bons-deixa-o-futuro-nas-m-os-da-sorte-3a033d8db9d280078514d00d7e42b6e0"
@@ -2398,10 +2385,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-acontece-uma-batida-a-primeira-rea-o-olhar-para-o-pr-prio-ve-culo-Mas-nem-sempre-ele-a-38f33d8db9d2807e9387fc8e6e2cbe52"
@@ -2713,18 +2698,30 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Duas-localiza-es-Diferentes-possibilidades-3d433d8db9d280cd91dffae45270aae7"
     },
     {
-      "title": "Sua empresa começa na porta de entrada.",
+      "title": "Networking de verdade acontece quando você menos espera.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/09",
+      "date": "10/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-empresa-come-a-na-porta-de-entrada-3d433d8db9d280699fd2f4c0e365f25c"
+      "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-3c033d8db9d280ca8525fe0f4b0ae5b6"
+    },
+    {
+      "title": "Sua estrutura acompanha o crescimento do seu negócio?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-estrutura-acompanha-o-crescimento-do-seu-neg-cio-3c033d8db9d280d3bd2fd6240cf37918"
     }
   ]
 };
@@ -4147,7 +4144,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 11
   },
   "Daniel Maia Advocacia": {
@@ -4159,8 +4156,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Solar Coworking": {
-    "prontas": 0,
-    "total": 15
+    "prontas": 2,
+    "total": 16
   }
 };
 
@@ -4313,7 +4310,7 @@ const FORMAT_COUNTS = {
     "story": 6
   },
   "Solar Coworking": {
-    "post": 11,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 4,
