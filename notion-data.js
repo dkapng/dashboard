@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 18:31:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 20:43:31 **/
 
-const LAST_UPDATE = '09/09/2026, 18:31:20';
+const LAST_UPDATE = '09/09/2026, 20:43:31';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -604,12 +604,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Convite-para-visita-guiada-3d633d8db9d280e0a75cd2c5f538922b"
     }
@@ -2190,7 +2187,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/QUEM-RECEBE-O-DINHEIRO-DA-CAMPANHA-Dinheiro-tamb-m-decide-quem-consegue-disputar-uma-elei-o-3d033d8db9d28023a90ffb0093615df0"
     },
     {
-      "title": "Cota de gênero: ter mulher na chapa é suficiente. ",
+      "title": "Cota de gênero: ter mulher na chapa não é suficiente. ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "09/09",
@@ -2200,7 +2197,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cota-de-g-nero-ter-mulher-na-chapa-suficiente-30-de-mulheres-nas-candidaturas-n-o-significa-30--3d033d8db9d28086af2edcb81af55d1d"
+      "notionUrl": "https://app.notion.com/p/Cota-de-g-nero-ter-mulher-na-chapa-n-o-suficiente-30-de-mulheres-nas-candidaturas-n-o-significa-3d033d8db9d28086af2edcb81af55d1d"
     },
     {
       "title": "Mulheres são maioria do eleitorado. Por que ainda são minoria no poder?",
@@ -3926,7 +3923,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Placas para municípios e cartas de agradecimento",
       "priority": "ppp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-e-cartas-de-agradecimento-3b933d8db9d280cab8ebe5d0d616b1a4",
       "gestora": "Equipe",
       "date": "09T10:00:00.000/09"
@@ -3980,7 +3977,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Ajustes no pitch",
       "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
       "gestora": "Equipe",
       "date": "04/09"
@@ -4046,16 +4043,6 @@ const DEMANDAS_EXTRAS = {
       "date": "29/05"
     }
   ],
-  "Plannea": [
-    {
-      "title": "Pasta de conferência",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Pasta-de-confer-ncia-3c833d8db9d28008a17bebc51cf13a04",
-      "gestora": "Equipe",
-      "date": "26/08"
-    }
-  ],
   "Rede Pangeia": [
     {
       "title": "Site",
@@ -4109,7 +4096,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
-    "prontas": 0,
+    "prontas": 1,
     "total": 1
   },
   "AAFEC": {
