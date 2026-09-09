@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 12:41:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 15:58:18 **/
 
-const LAST_UPDATE = '09/09/2026, 12:41:29';
+const LAST_UPDATE = '09/09/2026, 15:58:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -119,11 +119,11 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 15,
-    "pronto": 7,
-    "postado": 0,
-    "agendado": 0,
+    "pronto": 8,
+    "postado": 1,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 15
+    "a_agendar": 8
   },
   "Terrartesã": {
     "total": 0,
@@ -166,20 +166,20 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Ortobom": {
-    "total": 5,
+    "total": 6,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "ItalaP": {
-    "total": 3,
+    "total": 4,
     "pronto": 3,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
@@ -476,12 +476,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 1,
-    "pronto": 0,
+    "total": 2,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Terrartesã": {
     "total": 0,
@@ -534,10 +534,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 2,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -588,12 +588,12 @@ const STORIES_DATA = {
     "a_agendar": 5
   },
   "Solar Coworking": {
-    "total": 2,
-    "pronto": 0,
+    "total": 4,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 4
   }
 };
 
@@ -1306,14 +1306,12 @@ const LINHA_FEED_ITEMS = {
   "Univendas": [
     {
       "title": "Seu plano precisa funcionar quando você realmente precisa.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-plano-precisa-funcionar-quando-voc-realmente-precisa-3d633d8db9d280f1a33fd99845b508fe"
     },
@@ -1346,7 +1344,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cuidar da saúde antes que ela vire uma preocupação faz toda a diferença.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/09",
       "missing": [],
@@ -1370,7 +1368,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você no centro. Como sempre deve ser.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/09",
       "missing": [],
@@ -1445,21 +1443,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-qualidade-de-um-plano-tamb-m-est-na-estrutura-que-estar-ao-seu-lado-quando-voc-precisar-3cd33d8db9d280558f2cc4d81421a43d"
     },
     {
-      "title": "Cuidar da saúde da equipe é investir em pessoas que fazem o negócio acontecer.",
-      "status": "a_agendar",
+      "title": "A NR-1 reforça o que boas empresas já sabem: pessoas precisam estar no centro.",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cuidar-da-sa-de-da-equipe-investir-em-pessoas-que-fazem-o-neg-cio-acontecer-3cd33d8db9d2809dbb15dd63b64abe41"
+      "notionUrl": "https://app.notion.com/p/A-NR-1-refor-a-o-que-boas-empresas-j-sabem-pessoas-precisam-estar-no-centro-3cd33d8db9d2809dbb15dd63b64abe41"
     },
     {
       "title": "O que é silencioso também merece atenção.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [],
@@ -1470,7 +1466,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nos momentos que mais importam, conte com quem está preparado.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [],
@@ -1481,7 +1477,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Falar pode ser o primeiro passo para transformar silêncio em cuidado.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/09",
       "missing": [],
@@ -1905,9 +1901,36 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Talvez-voc-n-o-precise-dormir-mais-Precise-dormir-melhor-3d133d8db9d2801c844fc46e0390a94d"
+    },
+    {
+      "title": "Seu colchão está ajudando o seu descanso ou apenas fazendo parte do quarto?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-colch-o-est-ajudando-o-seu-descanso-ou-apenas-fazendo-parte-do-quarto-3bc33d8db9d280108abdc9cb1c80c090"
     }
   ],
   "ItalaP": [
+    {
+      "title": "Dia Mundial da Segurança do Paciente",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "17/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-Mundial-da-Seguran-a-do-Paciente-3d633d8db9d280e2be17eeacee9fa96a"
+    },
     {
       "title": "Por que algumas doenças são descobertas por acaso em exames de rotina?",
       "status": "agendado",
@@ -3373,17 +3396,26 @@ const LINHA_STORIES_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
-      "title": "Story/stories",
+      "title": "Story repost ",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "17/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-repost-3d633d8db9d2801fbb90e9cc9cac3419"
+    },
+    {
+      "title": "Story repost",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "24/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3cd33d8db9d280a9bd6be51dcdad3019"
+      "notionUrl": "https://app.notion.com/p/Story-repost-3cd33d8db9d280a9bd6be51dcdad3019"
     }
   ],
   "Terrartesã": [],
@@ -3549,7 +3581,7 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Comunicado",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "09/09",
       "missing": [],
@@ -3670,32 +3702,92 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "24/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "date": "28/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3d433d8db9d2800fb698c21e8ed3ccc3"
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d633d8db9d28017ab5fd1cc5b17b72d"
     },
     {
-      "title": "Story/stories",
+      "title": "Story repost",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "11/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-repost-3d633d8db9d2807b8e7edb6d57bed82b"
+    },
+    {
+      "title": "Story repost ",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "24/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-repost-3d433d8db9d2800fb698c21e8ed3ccc3"
+    },
+    {
+      "title": "Story repost ",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3d433d8db9d280338f86e3902c31f3a9"
+      "notionUrl": "https://app.notion.com/p/Story-repost-3d433d8db9d280338f86e3902c31f3a9"
     }
   ]
 };
 
 const DEMANDAS_EXTRAS = {
+  "ItalaP": [
+    {
+      "title": "Adicionar/atualizar as localizações no Google",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Iniciar a campanha de aquecimento para a abertura do posto de São Gonçalo",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Iniciar-a-campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Videos com imagens e narração",
@@ -3969,7 +4061,7 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "Univendas": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 15
   },
   "Terrartesã": {
@@ -3993,12 +4085,12 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Ortobom": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 15,
+    "total": 15
   },
   "ItalaP": {
     "prontas": 5,
-    "total": 8
+    "total": 12
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 13,
@@ -4085,7 +4177,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 1,
     "video": 0,
-    "story": 1
+    "story": 2
   },
   "Terrartesã": {
     "post": 0,
@@ -4123,7 +4215,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ortobom": {
-    "post": 5,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
     "video": 9,
@@ -4131,7 +4223,7 @@ const FORMAT_COUNTS = {
   },
   "ItalaP": {
     "post": 3,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 5,
     "story": 2
@@ -4183,7 +4275,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 3,
-    "story": 2
+    "story": 4
   }
 };
 
