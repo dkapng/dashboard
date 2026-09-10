@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 23:26:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 04:26:08 **/
 
-const LAST_UPDATE = '09/09/2026, 23:26:39';
+const LAST_UPDATE = '10/09/2026, 04:26:08';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 11,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 1,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1283,10 +1283,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Falta-pouco-para-um-encontro-que-re-ne-quem-est-construindo-o-futuro-da-preven-o-Mais-do-que-um-S-3ab33d8db9d280398e42f5345927326a"
@@ -2174,10 +2172,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-recebe-o-dinheiro-da-campanha-Dinheiro-tamb-m-decide-quem-consegue-disputar-uma-elei-o-3d033d8db9d28023a90ffb0093615df0"
