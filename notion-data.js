@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 16:23:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 18:43:30 **/
 
-const LAST_UPDATE = '10/09/2026, 16:23:54';
+const LAST_UPDATE = '10/09/2026, 18:43:30';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -158,9 +158,9 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Plannea": {
-    "total": 6,
-    "pronto": 5,
-    "postado": 4,
+    "total": 7,
+    "pronto": 6,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -493,7 +493,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -573,7 +573,7 @@ const STORIES_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1345,7 +1345,7 @@ const LINHA_FEED_ITEMS = {
       "date": "10/09",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tbt-de-fotos-3d633d8db9d28053a6e5eac4333e5b57"
     },
@@ -1868,15 +1868,27 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "Promovidos de agosto",
+      "title": "Evento - Reforma Tributária no Cariri (texto nos comentários)",
       "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "10/09",
+      "formato": "🖼️ Post",
+      "date": "11/09",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Evento-Reforma-Tribut-ria-no-Cariri-texto-nos-coment-rios-3d733d8db9d280c79f19ed76398a0562"
+    },
+    {
+      "title": "Promovidos de agosto",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
+      "date": "10/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Promovidos-de-agosto-3d733d8db9d2800b884be5b6b1ec1811"
     },
@@ -1886,10 +1898,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-Receita-Federal-j-est-cruzando-informa-es-antes-mesmo-de-a-empresa-preencher-obriga-es-3ce33d8db9d280a3bbe3cb1de2e8426b"
@@ -3670,14 +3681,12 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3d733d8db9d28014b024cef9121639d1"
     },
     {
-      "title": "Setembro amarelo ",
+      "title": "Setembro amarelo",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Setembro-amarelo-3ce33d8db9d280a6b182e4a2af93edd3"
@@ -3835,11 +3844,9 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Heloisa-3a533d8db9d280698e2cf0eae62be2f5"
     }
@@ -3971,10 +3978,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Finseg Leal": [
     {
-      "title": "Demanda extra",
+      "title": "3 vídeos tráfego - Finseg",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Demanda-extra-3d733d8db9d280089a04d9b374fe2c1c",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/3-v-deos-tr-fego-Finseg-3d733d8db9d280089a04d9b374fe2c1c",
       "gestora": "Equipe",
       "date": "14/09"
     },
@@ -4001,7 +4008,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Bloco de texto para vídeo sobre legado",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A implementar",
       "notionUrl": "https://app.notion.com/p/Bloco-de-texto-para-v-deo-sobre-legado-3d733d8db9d280ce8ca6c83bde921411",
       "gestora": "Equipe",
       "date": "10/09"
@@ -4009,10 +4016,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Plannea": [
     {
-      "title": "Transformar arte de vaga formato stories em formato feed",
+      "title": "Transformar designs de vagas de formato stories em formato feed",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Transformar-arte-de-vaga-formato-stories-em-formato-feed-3d733d8db9d2803aaed0f9c7be8ea565",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Transformar-designs-de-vagas-de-formato-stories-em-formato-feed-3d733d8db9d2803aaed0f9c7be8ea565",
       "gestora": "Equipe",
       "date": "10/09"
     },
@@ -4306,8 +4313,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Plannea": {
-    "prontas": 4,
-    "total": 8
+    "prontas": 5,
+    "total": 9
   },
   "Ortobom": {
     "prontas": 15,
@@ -4433,7 +4440,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Plannea": {
-    "post": 5,
+    "post": 6,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
