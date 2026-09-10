@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 13:34:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 16:23:54 **/
 
-const LAST_UPDATE = '10/09/2026, 13:34:23';
+const LAST_UPDATE = '10/09/2026, 16:23:54';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -119,11 +119,11 @@ const FEED_DATA = {
   },
   "Univendas": {
     "total": 15,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 1,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Terrartesã": {
     "total": 0,
@@ -134,12 +134,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 11,
+    "total": 13,
     "pronto": 4,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 10
   },
   "Rede Pangeia": {
     "total": 8,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Plannea": {
-    "total": 5,
-    "pronto": 4,
+    "total": 6,
+    "pronto": 5,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 6,
@@ -313,12 +313,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 4,
+    "total": 5,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Rede Pangeia": {
     "total": 0,
@@ -526,10 +526,10 @@ const STORIES_DATA = {
   "Ortobom": {
     "total": 4,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 2,
@@ -1340,13 +1340,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tbt de fotos",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📸 Foto(s)",
       "date": "10/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1500,35 +1497,7 @@ const LINHA_FEED_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Post",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d733d8db9d280e0b799d43e2fb05bc3"
-    },
-    {
-      "title": "Post",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d733d8db9d280428fc3ffb3102508c8"
-    },
-    {
-      "title": "Post",
+      "title": "Uma cláusula pode mudar o rumo de um contrato.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/09",
@@ -1539,10 +1508,66 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d733d8db9d2805aa055f213ed288369"
+      "notionUrl": "https://app.notion.com/p/Uma-cl-usula-pode-mudar-o-rumo-de-um-contrato-3d733d8db9d28064bdb4cf81ba62abbe"
     },
     {
-      "title": "Post",
+      "title": "Uma conversa no WhatsApp pode virar prova?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uma-conversa-no-WhatsApp-pode-virar-prova-3d733d8db9d280148b28cdefe5236c20"
+    },
+    {
+      "title": "O que acontece quando uma empresa quebra um contrato?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-uma-empresa-quebra-um-contrato-3d733d8db9d280be8d8edbce2b3aa638"
+    },
+    {
+      "title": "Bateu o carro. E agora: quem paga a conta? ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "25/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Bateu-o-carro-E-agora-quem-paga-a-conta-3d733d8db9d280e0b799d43e2fb05bc3"
+    },
+    {
+      "title": "A relação de consumo envolve direitos e responsabilidades para os dois lados.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-rela-o-de-consumo-envolve-direitos-e-responsabilidades-para-os-dois-lados-3d733d8db9d280428fc3ffb3102508c8"
+    },
+    {
+      "title": "O que a sua empresa faz quando percebe que um funcionário não está bem?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
@@ -1553,10 +1578,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3d733d8db9d280399982f0c85a2373b7"
+      "notionUrl": "https://app.notion.com/p/O-que-a-sua-empresa-faz-quando-percebe-que-um-funcion-rio-n-o-est-bem-3d733d8db9d280399982f0c85a2373b7"
     },
     {
-      "title": "Post",
+      "title": "“Era só uma brincadeira.” Pode não ser.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "16/09",
@@ -1567,21 +1592,20 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ce33d8db9d280739112e89207875d93"
+      "notionUrl": "https://app.notion.com/p/Era-s-uma-brincadeira-Pode-n-o-ser-3ce33d8db9d280739112e89207875d93"
     },
     {
-      "title": "Post",
+      "title": "Acesso aos dados também precisa de controle.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ce33d8db9d280cbbc80e70cc9c7201f"
+      "notionUrl": "https://app.notion.com/p/Acesso-aos-dados-tamb-m-precisa-de-controle-3ce33d8db9d280cbbc80e70cc9c7201f"
     },
     {
       "title": "Ser cliente também significa ter direitos.",
@@ -1843,6 +1867,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Plannea": [
+    {
+      "title": "Promovidos de agosto",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "10/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Promovidos-de-agosto-3d733d8db9d2800b884be5b6b1ec1811"
+    },
     {
       "title": "A Receita Federal já está cruzando informações antes mesmo de a empresa preencher obrigações",
       "status": "a_agendar",
@@ -3023,6 +3060,20 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
+      "date": "29/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3d733d8db9d28051af98e0a12ba8223a"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
       "date": "22/09",
       "missing": [
         "Vídeo",
@@ -3601,7 +3652,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3d733d8db9d28072aad0c46e0bc71224"
     },
@@ -3614,12 +3665,12 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3d733d8db9d28014b024cef9121639d1"
     },
     {
-      "title": "[Falta conteúdo] Story/stories",
+      "title": "Setembro amarelo ",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "10/09",
@@ -3627,9 +3678,9 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Falta-conte-do-Story-stories-3ce33d8db9d280a6b182e4a2af93edd3"
+      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-3ce33d8db9d280a6b182e4a2af93edd3"
     }
   ],
   "Rede Pangeia": [
@@ -3705,7 +3756,7 @@ const LINHA_STORIES_ITEMS = {
   "Ortobom": [
     {
       "title": "Setembro amarelo ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "10/09",
       "missing": [],
@@ -3918,20 +3969,50 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Plannea": [
+  "Finseg Leal": [
     {
-      "title": "Arte promovidos de julho ",
+      "title": "Demanda extra",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Arte-promovidos-de-julho-3d733d8db9d28086afcedaf6c5f5a29e",
+      "notionUrl": "https://app.notion.com/p/Demanda-extra-3d733d8db9d280089a04d9b374fe2c1c",
       "gestora": "Equipe",
-      "date": "10/09"
+      "date": "14/09"
     },
     {
-      "title": "Promoção interna do André de Auxiliar para Assistente",
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
+  "Di Gregório Buffet": [
+    {
+      "title": "Narração para vídeo sobre casamentos",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Promo-o-interna-do-Andr-de-Auxiliar-para-Assistente-3d733d8db9d280729acadbe79e298aa9",
+      "notionUrl": "https://app.notion.com/p/Narra-o-para-v-deo-sobre-casamentos-3d733d8db9d280a0b1efc9e91100c9f7",
+      "gestora": "Equipe",
+      "date": "10/09"
+    }
+  ],
+  "Tramix": [
+    {
+      "title": "Bloco de texto para vídeo sobre legado",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Bloco-de-texto-para-v-deo-sobre-legado-3d733d8db9d280ce8ca6c83bde921411",
+      "gestora": "Equipe",
+      "date": "10/09"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Transformar arte de vaga formato stories em formato feed",
+      "priority": "ppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Transformar-arte-de-vaga-formato-stories-em-formato-feed-3d733d8db9d2803aaed0f9c7be8ea565",
       "gestora": "Equipe",
       "date": "10/09"
     },
@@ -4161,16 +4242,6 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "08/05"
     }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
   ]
 };
 
@@ -4215,7 +4286,7 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "Univendas": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 15
   },
   "Terrartesã": {
@@ -4223,8 +4294,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 6,
-    "total": 15
+    "prontas": 7,
+    "total": 18
   },
   "Rede Pangeia": {
     "prontas": 2,
@@ -4236,7 +4307,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 4,
-    "total": 7
+    "total": 8
   },
   "Ortobom": {
     "prontas": 15,
@@ -4341,10 +4412,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 11,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 3
   },
   "Rede Pangeia": {
@@ -4363,7 +4434,7 @@ const FORMAT_COUNTS = {
   },
   "Plannea": {
     "post": 5,
-    "carrossel": 0,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4445,7 +4516,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ser Ponte": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
