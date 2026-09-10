@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 09:18:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 13:34:23 **/
 
-const LAST_UPDATE = '10/09/2026, 09:18:39';
+const LAST_UPDATE = '10/09/2026, 13:34:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -80,10 +80,10 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 12,
     "pronto": 4,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 4,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Tramix": {
     "total": 6,
@@ -105,9 +105,9 @@ const FEED_DATA = {
     "total": 11,
     "pronto": 6,
     "postado": 2,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Ventana": {
     "total": 0,
@@ -134,12 +134,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 7,
+    "total": 11,
     "pronto": 4,
     "postado": 2,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 8
   },
   "Rede Pangeia": {
     "total": 8,
@@ -176,10 +176,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 12,
     "pronto": 5,
-    "postado": 0,
-    "agendado": 3,
+    "postado": 1,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 7
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
@@ -282,11 +282,11 @@ const VIDEO_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 7,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 0,
@@ -313,12 +313,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 3,
+    "total": 4,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 0,
@@ -492,20 +492,20 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 2,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Rede Pangeia": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 2,
@@ -870,9 +870,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando falta dinheiro, qualquer imprevisto vira uma crise.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "07/09",
+      "date": "10/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1280,7 +1280,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Falta pouco para um encontro que reúne quem está construindo o futuro da prevenção. Mais do que um Simpósio: Um encontro entre ciência, inovação, gestão e mobilização social!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "10/09",
       "missing": [],
@@ -1503,6 +1503,62 @@ const LINHA_FEED_ITEMS = {
       "title": "Post",
       "status": "a_agendar",
       "formato": "🖼️ Post",
+      "date": "25/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d733d8db9d280e0b799d43e2fb05bc3"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d733d8db9d280428fc3ffb3102508c8"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d733d8db9d2805aa055f213ed288369"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3d733d8db9d280399982f0c85a2373b7"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [
         "Design",
@@ -1542,7 +1598,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando os sócios discordam, quem decide?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/09",
       "missing": [],
@@ -1981,7 +2037,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe quando realmente precisa fazer um exame?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [],
@@ -2031,7 +2087,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Às vezes, ajudar começa simplesmente por saber ouvir - ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "10/09",
       "missing": [],
@@ -2901,16 +2957,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo dra Ailma",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "11/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-dra-Ailma-3d033d8db9d2807aa375fdeafd6184e6"
     },
     {
@@ -2966,6 +3019,20 @@ const LINHA_VIDEO_ITEMS = {
   "Univendas": [],
   "Terrartesã": [],
   "RR Advocacia": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3d733d8db9d28003b9d9d4ab0ec6f515"
+    },
     {
       "title": "Vídeo",
       "status": "a_agendar",
@@ -3526,6 +3593,32 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "24/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d733d8db9d28072aad0c46e0bc71224"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3d733d8db9d28014b024cef9121639d1"
+    },
+    {
       "title": "[Falta conteúdo] Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -3537,19 +3630,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Falta-conte-do-Story-stories-3ce33d8db9d280a6b182e4a2af93edd3"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "03/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ce33d8db9d280d28764fb0d7fcad111"
     }
   ],
   "Rede Pangeia": [
@@ -3591,19 +3671,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d28032bb72d7d4531e16d9"
-    },
-    {
-      "title": "Dia Mundial de Prevenção ao Suicídio",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-Mundial-de-Preven-o-ao-Suic-dio-3d533d8db9d280bd8bbcd96b4cf09ca7"
     }
   ],
   "Planos Seguros": [
@@ -3851,6 +3918,40 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Arte promovidos de julho ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Arte-promovidos-de-julho-3d733d8db9d28086afcedaf6c5f5a29e",
+      "gestora": "Equipe",
+      "date": "10/09"
+    },
+    {
+      "title": "Promoção interna do André de Auxiliar para Assistente",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Promo-o-interna-do-Andr-de-Auxiliar-para-Assistente-3d733d8db9d280729acadbe79e298aa9",
+      "gestora": "Equipe",
+      "date": "10/09"
+    },
+    {
+      "title": "Boas-vindas da Ticiane Santos para a vaga de Assistente Fiscal. Hobby: Ler, aproveitar a família, ir à praia e aprender coisas novas. Graduanda em Administração.",
+      "priority": "pppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Boas-vindas-da-Ticiane-Santos-para-a-vaga-de-Assistente-Fiscal-Hobby-Ler-aproveitar-a-fam-lia-ir-3d733d8db9d280ba8612c06adc9f6f6a",
+      "gestora": "Equipe",
+      "date": "10/09"
+    },
+    {
+      "title": "Boas-vindas da Rebeca Pontes para a vaga de Analista de DP Externo. Hobby: Jogar Vôlei. Graduada em Processos Gerenciais.",
+      "priority": "pp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Boas-vindas-da-Rebeca-Pontes-para-a-vaga-de-Analista-de-DP-Externo-Hobby-Jogar-V-lei-Graduada-em--3d733d8db9d280cbb7c1cc6b99898bd8",
+      "gestora": "Equipe",
+      "date": "11/09"
+    }
+  ],
   "ItalaP": [
     {
       "title": "Adicionar/atualizar as localizações no Google",
@@ -3967,7 +4068,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Ajustes no pitch",
       "priority": "ppp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
       "gestora": "Equipe",
       "date": "04/09"
@@ -3975,7 +4076,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Material para apresentar a possíveis doadores",
       "priority": "pp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
       "gestora": "Equipe",
       "date": "04/09"
@@ -4106,7 +4207,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 18
   },
   "Ventana": {
@@ -4123,7 +4224,7 @@ const LEGENDAS_DATA = {
   },
   "RR Advocacia": {
     "prontas": 6,
-    "total": 10
+    "total": 15
   },
   "Rede Pangeia": {
     "prontas": 2,
@@ -4240,18 +4341,18 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 7,
+    "post": 11,
     "carrossel": 0,
     "foto": 0,
-    "video": 3,
-    "story": 2
+    "video": 4,
+    "story": 3
   },
   "Rede Pangeia": {
     "post": 6,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 4
+    "story": 3
   },
   "Planos Seguros": {
     "post": 7,
