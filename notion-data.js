@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 20:43:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/09/2026, 23:26:39 **/
 
-const LAST_UPDATE = '09/09/2026, 20:43:31';
+const LAST_UPDATE = '09/09/2026, 23:26:39';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 12,
-    "pronto": 3,
+    "pronto": 5,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 16,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1986,10 +1986,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-quando-realmente-precisa-fazer-um-exame-3d633d8db9d280e3ad68f2031eb01a9c"
@@ -2038,10 +2036,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/s-vezes-ajudar-come-a-simplesmente-por-saber-ouvir-Dia-Mundial-de-Preven-o-ao-Suic-dio-3d633d8db9d2804a9600d96cc359e6db"
@@ -2174,7 +2170,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-CEAR-J-TEM-SUA-MAIOR-BANCADA-FEMININA-NA-ALECE-E-AGORA-3d033d8db9d280ccb086c08abbf2628f"
     },
     {
-      "title": "QUEM RECEBE O DINHEIRO DA CAMPANHA? Dinheiro também decide quem consegue disputar uma eleição.",
+      "title": "Quem recebe o dinheiro da campanha? Dinheiro também decide quem consegue disputar uma eleição.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "11/09",
@@ -2184,17 +2180,15 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/QUEM-RECEBE-O-DINHEIRO-DA-CAMPANHA-Dinheiro-tamb-m-decide-quem-consegue-disputar-uma-elei-o-3d033d8db9d28023a90ffb0093615df0"
+      "notionUrl": "https://app.notion.com/p/Quem-recebe-o-dinheiro-da-campanha-Dinheiro-tamb-m-decide-quem-consegue-disputar-uma-elei-o-3d033d8db9d28023a90ffb0093615df0"
     },
     {
       "title": "Cota de gênero: ter mulher na chapa não é suficiente. ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "09/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cota-de-g-nero-ter-mulher-na-chapa-n-o-suficiente-30-de-mulheres-nas-candidaturas-n-o-significa-3d033d8db9d28086af2edcb81af55d1d"
@@ -3923,7 +3917,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Placas para municípios e cartas de agradecimento",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-e-cartas-de-agradecimento-3b933d8db9d280cab8ebe5d0d616b1a4",
       "gestora": "Equipe",
       "date": "09T10:00:00.000/09"
