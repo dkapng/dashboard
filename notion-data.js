@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 04:26:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/09/2026, 09:18:39 **/
 
-const LAST_UPDATE = '10/09/2026, 04:26:08';
+const LAST_UPDATE = '10/09/2026, 09:18:39';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 16,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Finseg Leal": {
     "total": 9,
@@ -2180,7 +2180,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cota de gênero: ter mulher na chapa não é suficiente. ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "09/09",
       "missing": [],
