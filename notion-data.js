@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 16:22:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 18:48:44 **/
 
-const LAST_UPDATE = '11/09/2026, 16:22:27';
+const LAST_UPDATE = '11/09/2026, 18:48:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
@@ -869,7 +869,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "11/09",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-muda-quando-uma-comunidade-come-a-a-construir-solu-es-dentro-do-pr-prio-territ-rio-3bf33d8db9d2803d970fe420a3a08a33"
@@ -1629,10 +1629,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ser-cliente-tamb-m-significa-ter-direitos-3ce33d8db9d280219bd9cb51efe8f4c2"
@@ -4384,9 +4382,9 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Plannea": "confirmada",
   "Conecta Assessoria": "marcada",
   "Finseg Leal": "marcada",
-  "Plannea": "confirmada",
   "Solar Coworking": "marcada",
   "AAFEC": "confirmada",
   "Tramix": "confirmada"
@@ -4705,7 +4703,7 @@ const AGENDA_COUNTS = {
   },
   "Plannea": {
     "reuniao": 0,
-    "producao": 3,
+    "producao": 4,
     "evento": 1
   },
   "Ortobom": {
