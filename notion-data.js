@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 13:39:06 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 16:22:27 **/
 
-const LAST_UPDATE = '11/09/2026, 13:39:06';
+const LAST_UPDATE = '11/09/2026, 16:22:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 15,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
@@ -79,11 +79,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 13,
-    "pronto": 4,
-    "postado": 3,
+    "pronto": 5,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 3,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Tramix": {
     "total": 6,
@@ -121,9 +121,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 9,
     "postado": 1,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Terrartesã": {
     "total": 0,
@@ -337,12 +337,12 @@ const VIDEO_DATA = {
     "a_agendar": 5
   },
   "Plannea": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 4,
@@ -494,10 +494,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 3,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 3,
@@ -590,10 +590,10 @@ const STORIES_DATA = {
   "Solar Coworking": {
     "total": 4,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   }
 };
 
@@ -617,10 +617,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Setembro-amarelo-Cuidar-da-sa-de-mental-tamb-m-cuidar-dos-v-nculos-3d833d8db9d28073ac96e5f2c9318048"
@@ -867,13 +865,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que muda quando uma comunidade começa a construir soluções dentro do próprio território?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-muda-quando-uma-comunidade-come-a-a-construir-solu-es-dentro-do-pr-prio-territ-rio-3bf33d8db9d2803d970fe420a3a08a33"
@@ -1350,14 +1346,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando a saúde chama, é bom saber que você pode contar.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-a-sa-de-chama-bom-saber-que-voc-pode-contar-3d633d8db9d2809295eaeac94fd02fb3"
     },
@@ -1768,7 +1762,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-sinais-de-que-sua-organiza-o-precisa-fortalecer-a-gest-o-3d533d8db9d28081a936d037f45ef55e"
@@ -3386,7 +3380,22 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Prote-o-financeira-3c633d8db9d2801aa378e30d317c3a6d"
     }
   ],
-  "Plannea": [],
+  "Plannea": [
+    {
+      "title": "Dia do Contador",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Dia-do-Contador-3d833d8db9d280999c54ed0ae6185ded"
+    }
+  ],
   "Ortobom": [
     {
       "title": "processo",
@@ -3804,7 +3813,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Setembro amarelo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "10/09",
       "missing": [],
@@ -4063,7 +4072,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story repost",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "11/09",
       "missing": [],
@@ -4415,7 +4424,7 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "Univendas": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 15
   },
   "Terrartesã": {
@@ -4436,7 +4445,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 6,
-    "total": 9
+    "total": 10
   },
   "Ortobom": {
     "prontas": 15,
@@ -4565,7 +4574,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 1,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "Ortobom": {
