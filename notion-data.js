@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 09:16:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 13:39:06 **/
 
-const LAST_UPDATE = '11/09/2026, 09:16:36';
+const LAST_UPDATE = '11/09/2026, 13:39:06';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -70,20 +70,20 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "AAFEC": {
-    "total": 14,
+    "total": 15,
     "pronto": 9,
-    "postado": 4,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 8
   },
   "Ser Ponte": {
     "total": 13,
     "pronto": 4,
     "postado": 3,
     "agendado": 0,
-    "agendado_coord": 4,
-    "a_agendar": 6
+    "agendado_coord": 3,
+    "a_agendar": 7
   },
   "Tramix": {
     "total": 6,
@@ -160,10 +160,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 7,
     "pronto": 6,
-    "postado": 5,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 6,
@@ -250,11 +250,11 @@ const VIDEO_DATA = {
   },
   "AAFEC": {
     "total": 3,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ser Ponte": {
     "total": 0,
@@ -330,11 +330,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 10,
-    "pronto": 6,
-    "postado": 4,
+    "pronto": 7,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Plannea": {
     "total": 0,
@@ -613,6 +613,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "AAFEC": [
     {
+      "title": "Setembro amarelo: Cuidar da saúde mental também é cuidar dos vínculos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "11/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-Cuidar-da-sa-de-mental-tamb-m-cuidar-dos-v-nculos-3d833d8db9d28073ac96e5f2c9318048"
+    },
+    {
       "title": "Entre Cantos e Contos Fortaleza",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -670,14 +683,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Boteco AAFEC Setembro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Boteco-AAFEC-Setembro-3cd33d8db9d2801486d1d6c1d054732f"
     },
@@ -743,12 +754,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Autonomia financeira exige governança",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "08/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -778,7 +787,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [],
@@ -804,7 +813,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/SETEMBRO-AMARELO-Sa-de-mental-tamb-m-passa-por-seguran-a-renda-e-condi-es-dignats-para-viver-3d833d8db9d280b28273d5c4d7316648"
     },
     {
-      "title": "Conteúdo Larissa pessoa acessível ",
+      "title": "Conteúdo Larissa pessoa acessível",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
@@ -858,13 +867,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que muda quando uma comunidade começa a construir soluções dentro do próprio território?",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "11/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-muda-quando-uma-comunidade-come-a-a-construir-solu-es-dentro-do-pr-prio-territ-rio-3bf33d8db9d2803d970fe420a3a08a33"
@@ -1908,12 +1917,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A Receita Federal já está cruzando informações antes mesmo de a empresa preencher obrigações",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "11/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2955,12 +2962,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "#TBT palestra sobre quedas",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "10/09",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
@@ -3299,15 +3304,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Residencial ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "11/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Residencial-3c633d8db9d28042bc22efb7322887f9"
     },
@@ -4118,7 +4120,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Narração para vídeo sobre casamentos",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A implementar",
       "notionUrl": "https://app.notion.com/p/Narra-o-para-v-deo-sobre-casamentos-3d733d8db9d280a0b1efc9e91100c9f7",
       "gestora": "Equipe",
       "date": "10/09"
@@ -4389,8 +4391,8 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "AAFEC": {
-    "prontas": 8,
-    "total": 17
+    "prontas": 11,
+    "total": 18
   },
   "Ser Ponte": {
     "prontas": 11,
@@ -4429,11 +4431,11 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Planos Seguros": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 17
   },
   "Plannea": {
-    "prontas": 5,
+    "prontas": 6,
     "total": 9
   },
   "Ortobom": {
@@ -4483,7 +4485,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "AAFEC": {
-    "post": 11,
+    "post": 12,
     "carrossel": 3,
     "foto": 0,
     "video": 3,
