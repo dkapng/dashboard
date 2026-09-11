@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 18:48:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 20:45:08 **/
 
-const LAST_UPDATE = '11/09/2026, 18:48:44';
+const LAST_UPDATE = '11/09/2026, 20:45:08';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 15,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 8,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 7,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
@@ -671,10 +671,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Cariri-Setembro-3cd33d8db9d2805da64fc5ce91eb8a0a"
@@ -1138,10 +1137,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quais-n-meros-realmente-dizem-se-sua-empresa-est-crescendo-de-forma-saud-vel-3cd33d8db9d280539809fab224dccacc"
@@ -1757,10 +1754,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "11/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-sinais-de-que-sua-organiza-o-precisa-fortalecer-a-gest-o-3d533d8db9d28081a936d037f45ef55e"
@@ -1888,10 +1884,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Evento-Reforma-Tribut-ria-no-Cariri-texto-nos-coment-rios-3d733d8db9d280c79f19ed76398a0562"
