@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 04:23:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/09/2026, 09:16:36 **/
 
-const LAST_UPDATE = '11/09/2026, 04:23:11';
+const LAST_UPDATE = '11/09/2026, 09:16:36';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -78,20 +78,20 @@ const FEED_DATA = {
     "a_agendar": 10
   },
   "Ser Ponte": {
-    "total": 12,
+    "total": 13,
     "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 4,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Tramix": {
     "total": 6,
     "pronto": 6,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 13,
@@ -182,9 +182,9 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Grupo Mulheres do Brasil": {
-    "total": 16,
+    "total": 17,
     "pronto": 7,
-    "postado": 5,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 11
@@ -249,12 +249,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "AAFEC": {
-    "total": 2,
+    "total": 3,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Ser Ponte": {
     "total": 0,
@@ -265,12 +265,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Tramix": {
-    "total": 1,
-    "pronto": 1,
+    "total": 7,
+    "pronto": 7,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 6
   },
   "Stratto": {
     "total": 2,
@@ -575,9 +575,9 @@ const STORIES_DATA = {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 6,
@@ -790,6 +790,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ser Ponte": [
     {
+      "title": "SETEMBRO AMARELO Saúde mental também passa por segurança, renda e condições dignats para viver.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/SETEMBRO-AMARELO-Sa-de-mental-tamb-m-passa-por-seguran-a-renda-e-condi-es-dignats-para-viver-3d833d8db9d280b28273d5c4d7316648"
+    },
+    {
       "title": "Conteúdo Larissa pessoa acessível ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -859,7 +873,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O bairro onde você mora pode definir as oportunidades que você encontra.",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "09/09",
+      "date": "19/09",
       "missing": [
         "Design"
       ],
@@ -929,7 +943,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "08/09",
+      "date": "17/09",
       "missing": [
         "Design"
       ],
@@ -986,7 +1000,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Toda empresa tem um começo. A Tramix começou com cinco pessoas.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [],
@@ -2180,6 +2194,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Setembro amarelo (copy completa nos comentários)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-copy-completa-nos-coment-rios-3d833d8db9d2806e8d0ddd9e6d1477b5"
+    },
+    {
       "title": "E NO SENADO? QUANTAS MULHERES REPRESENTAM O CEARÁ?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
@@ -2273,7 +2301,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem recebe o dinheiro da campanha? Dinheiro também decide quem consegue disputar uma eleição.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "11/09",
       "missing": [],
@@ -2912,6 +2940,20 @@ const LINHA_VIDEO_ITEMS = {
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [
     {
+      "title": "Vídeo balacobaco ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "15/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-balacobaco-3d833d8db9d280a9bb03fd078340bcdc"
+    },
+    {
       "title": "#TBT palestra sobre quedas",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -2938,6 +2980,84 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Ser Ponte": [],
   "Tramix": [
+    {
+      "title": "Legado ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Legado-3d833d8db9d2807b8d0fd1c0fa74146f"
+    },
+    {
+      "title": "Funcionários ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "25/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Funcion-rios-3d833d8db9d28065b577c3a5cd0333e2"
+    },
+    {
+      "title": "Relato",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Relato-3d833d8db9d280e8a439e2ef77e2b310"
+    },
+    {
+      "title": "Zíper",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "21/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Z-per-3d833d8db9d280caa113f9758aada658"
+    },
+    {
+      "title": "Perguntas sobre os primeiros anos ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "18/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Perguntas-sobre-os-primeiros-anos-3d833d8db9d28006adfac552861d5cf1"
+    },
+    {
+      "title": "Perguntas sobre 20 anos ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Perguntas-sobre-20-anos-3d833d8db9d280e9bebeeab7fa1a46ec"
+    },
     {
       "title": "Vídeo sonhos ",
       "status": "postado",
@@ -3841,7 +3961,7 @@ const LINHA_STORIES_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Feliz aniversário, Heloisa",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "11/09",
       "missing": [],
@@ -4270,15 +4390,15 @@ const LEGENDAS_DATA = {
   },
   "AAFEC": {
     "prontas": 8,
-    "total": 16
+    "total": 17
   },
   "Ser Ponte": {
     "prontas": 11,
-    "total": 12
+    "total": 13
   },
   "Tramix": {
     "prontas": 7,
-    "total": 7
+    "total": 13
   },
   "Stratto": {
     "prontas": 7,
@@ -4326,7 +4446,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 13,
-    "total": 16
+    "total": 17
   },
   "Finseg Leal": {
     "prontas": 8,
@@ -4366,11 +4486,11 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 3,
     "foto": 0,
-    "video": 2,
+    "video": 3,
     "story": 0
   },
   "Ser Ponte": {
-    "post": 6,
+    "post": 7,
     "carrossel": 6,
     "foto": 0,
     "video": 0,
@@ -4380,7 +4500,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
+    "video": 7,
     "story": 0
   },
   "Stratto": {
@@ -4461,7 +4581,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Grupo Mulheres do Brasil": {
-    "post": 6,
+    "post": 7,
     "carrossel": 10,
     "foto": 0,
     "video": 0,
