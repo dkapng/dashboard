@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/09/2026, 08:40:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/09/2026, 11:45:22 **/
 
-const LAST_UPDATE = '12/09/2026, 08:40:51';
+const LAST_UPDATE = '12/09/2026, 11:45:22';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -583,9 +583,9 @@ const STORIES_DATA = {
     "total": 6,
     "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 4,
@@ -4030,7 +4030,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversario - Daniel Brito",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "12/09",
       "missing": [],
