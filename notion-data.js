@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/09/2026, 12:08:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/09/2026, 16:53:54 **/
 
-const LAST_UPDATE = '14/09/2026, 12:08:18';
+const LAST_UPDATE = '14/09/2026, 16:53:54';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,19 +71,19 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 15,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 8
   },
   "Ser Ponte": {
-    "total": 13,
+    "total": 12,
     "pronto": 5,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
-    "agendado_coord": 3,
-    "a_agendar": 6
+    "agendado_coord": 2,
+    "a_agendar": 5
   },
   "Tramix": {
     "total": 6,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Plannea": {
-    "total": 7,
+    "total": 9,
     "pronto": 7,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 6,
@@ -206,12 +206,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 10,
+    "total": 14,
     "pronto": 9,
     "postado": 3,
     "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 2,
@@ -223,7 +223,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 11,
-    "pronto": 3,
+    "pronto": 6,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -385,12 +385,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 0,
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -581,7 +581,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 6,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
@@ -638,18 +638,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Fortaleza-3cd33d8db9d280418a2ee555f35af372"
     },
     {
-      "title": "Palestra Dia Mundial da Alzheimer",
+      "title": "Palestra Dia Mundial do Alzheimer",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Palestra-Dia-Mundial-da-Alzheimer-3cd33d8db9d2807b8cc4d0d77ce03cc6"
+      "notionUrl": "https://app.notion.com/p/Palestra-Dia-Mundial-do-Alzheimer-3cd33d8db9d2807b8cc4d0d77ce03cc6"
     },
     {
       "title": "Palestra sobre educação financeira",
@@ -798,7 +797,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Setembro amarelo: Saúde mental também passa por segurança, renda e condições dignas para viver.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/09",
+      "date": "15/09",
       "missing": [
         "Design",
         "Legenda"
@@ -812,7 +811,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Conteúdo Larissa pessoa acessível",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
+      "date": "28/09",
       "missing": [
         "Design",
         "Legenda"
@@ -839,7 +838,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O que significa viver no limite?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/09",
+      "date": "25/09",
       "missing": [
         "Design"
       ],
@@ -852,7 +851,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quanto custa para trabalhar?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/09",
+      "date": "23/09",
       "missing": [
         "Design"
       ],
@@ -876,7 +875,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O bairro onde você mora pode definir as oportunidades que você encontra.",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "19/09",
+      "date": "17/09",
       "missing": [
         "Design"
       ],
@@ -900,7 +899,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Renda básica significa apenas dinheiro? À primeira vista pode parecer que sim, mas o impacto de uma renda vai muito além do valor recebido.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "15/09",
+      "date": "21/09",
       "missing": [
         "Design"
       ],
@@ -921,17 +920,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Renda-n-o-resolve-tudo-Mas-a-falta-dela-limita-muita-coisa-3bf33d8db9d280b683b4fb2df5f0d222"
     },
     {
-      "title": "94,88% das pessoas cuidadoras em bairro vulnerável de Fortaleza são mulheres, diz pesquisa.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "12/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/94-88-das-pessoas-cuidadoras-em-bairro-vulner-vel-de-Fortaleza-s-o-mulheres-diz-pesquisa-39733d8db9d280f8a5e1d40d45b3cecf"
-    },
-    {
       "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
       "status": "postado",
       "formato": "🎠 Carrossel",
@@ -944,13 +932,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "date": "14/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
@@ -1902,6 +1888,34 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Promovidos-de-agosto-3d733d8db9d2800b884be5b6b1ec1811"
     },
     {
+      "title": "O caixa da empresa também precisa de previsibilidade",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-caixa-da-empresa-tamb-m-precisa-de-previsibilidade-3ce33d8db9d280a18040f38ca0023e4d"
+    },
+    {
+      "title": "O regime de caixa do Simples está mudando",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-regime-de-caixa-do-Simples-est-mudando-3ce33d8db9d280cd9abcd9b35475eae3"
+    },
+    {
       "title": "A Receita Federal já está cruzando informações antes mesmo de a empresa preencher obrigações",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -2526,6 +2540,45 @@ const LINHA_FEED_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Proteção é ter assistência. É ter orientação. É ter suporte. É ter com quem contar.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Prote-o-ter-assist-ncia-ter-orienta-o-ter-suporte-ter-com-quem-contar-3db33d8db9d2803a9241e4143b9b9df0"
+    },
+    {
+      "title": "O que um corretor faz por você depois que a apólice está assinada?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "24/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-um-corretor-faz-por-voc-depois-que-a-ap-lice-est-assinada-3db33d8db9d280a88335ca789a93135e"
+    },
+    {
+      "title": "Pane no meio do caminho? Respira. Você pode ter assistência para isso.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Pane-no-meio-do-caminho-Respira-Voc-pode-ter-assist-ncia-para-isso-3db33d8db9d2806a8db9cb1873ad8288"
+    },
+    {
       "title": "Hoje o dia é dele! ",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -2548,18 +2601,30 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Falar-sobre-sa-de-mental-uma-forma-de-cuidado-Ouvir-sem-julgamentos-tamb-m-Se-voc-n-o-est-bem-3c933d8db9d280738c30d9186cc11844"
     },
     {
-      "title": "Dia Nacional do Trânsito",
+      "title": "No trânsito, prevenção, atenção e responsabilidade caminham juntas - Dia Nacional do Trânsito",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-Nacional-do-Tr-nsito-3c933d8db9d2801990fdc39da91e4398"
+      "notionUrl": "https://app.notion.com/p/No-tr-nsito-preven-o-aten-o-e-responsabilidade-caminham-juntas-Dia-Nacional-do-Tr-nsito-3c933d8db9d2801990fdc39da91e4398"
+    },
+    {
+      "title": "Na Semana Nacional do Trânsito, fica o lembrete: \nDirigir com responsabilidade é prevenção. Ter a proteção certa também. Fale com a Aprosseg e tire suas dúvidas.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Na-Semana-Nacional-do-Tr-nsito-fica-o-lembrete-Dirigir-com-responsabilidade-preven-o-Ter-a-pr-3c933d8db9d280b1826dd9552884bfc1"
     },
     {
       "title": "Algumas relações começam com uma apólice. As melhores continuam pela confiança. 15 de setembro: Dia do Cliente",
@@ -2722,10 +2787,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-equipe-merece-um-benef-cio-que-fa-a-sentido-para-ela-e-para-o-caixa-da-empresa-3cd33d8db9d28089aa65cff4aff7dcd5"
@@ -2735,10 +2798,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-precisa-revisar-os-benef-cios-Fale-com-a-nossa-equipe-85-98151-2399-3cd33d8db9d2809fa1f8d70ffe5db94a"
@@ -2783,10 +2844,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Obrigada-por-deixar-a-Conecta-fazer-parte-das-suas-escolhas-Feliz-Dia-do-Cliente-3cd33d8db9d28008ba70ee1a3d0758c6"
@@ -3614,7 +3673,36 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Di Gregório Buffet": [],
-  "APROSSEG": [],
+  "APROSSEG": [
+    {
+      "title": "Você já viu uma corretora visitar um cliente só para perguntar: como está sendo nossa parceria?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Voc-j-viu-uma-corretora-visitar-um-cliente-s-para-perguntar-como-est-sendo-nossa-parceria-3db33d8db9d280929eabc26cd1b452f8"
+    },
+    {
+      "title": "Se acontecer um imprevisto com seu carro hoje, você sabe para quem ligar?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Se-acontecer-um-imprevisto-com-seu-carro-hoje-voc-sabe-para-quem-ligar-3db33d8db9d280dfb9e3d9dc1c5ed46d"
+    }
+  ],
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
@@ -4027,10 +4115,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "16/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aniversario-Maciel-3cd33d8db9d28004b3cceff45ecefacb"
@@ -4107,6 +4193,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Solicito arte de boas vindas da Iara Santos para a vaga de Auxiliar  Contábil. Hobby: Montar lego e ler ouvindo Matuê. Graduanda em Ciências Contábeis.",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Iara-Santos-para-a-vaga-de-Auxiliar-Cont-bil-Hobby-Montar-lego-e--3db33d8db9d280b58b0dcda4f94b113f",
+      "gestora": "Equipe",
+      "date": "16/09"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "3 vídeos tráfego - Finseg",
@@ -4163,10 +4259,10 @@ const DEMANDAS_EXTRAS = {
       "date": "18/09"
     },
     {
-      "title": "Iniciar a campanha de aquecimento para a abertura do posto de São Gonçalo",
+      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Iniciar-a-campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
       "gestora": "Equipe",
       "date": "18/09"
     },
@@ -4211,14 +4307,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
       "gestora": "Equipe",
       "date": "10/09"
-    },
-    {
-      "title": "Placas para municípios e cartas de agradecimento",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Placas-para-munic-pios-e-cartas-de-agradecimento-3b933d8db9d280cab8ebe5d0d616b1a4",
-      "gestora": "Equipe",
-      "date": "09T10:00:00.000/09"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4366,6 +4454,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "APROSSEG": "marcada",
   "Ventana": "marcada",
   "Plannea": "confirmada",
   "Conecta Assessoria": "marcada",
@@ -4388,8 +4477,8 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Ser Ponte": {
-    "prontas": 11,
-    "total": 13
+    "prontas": 10,
+    "total": 12
   },
   "Tramix": {
     "prontas": 7,
@@ -4452,8 +4541,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 9,
-    "total": 11
+    "prontas": 14,
+    "total": 16
   },
   "Daniel Maia Advocacia": {
     "prontas": 2,
@@ -4486,7 +4575,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 7,
-    "carrossel": 6,
+    "carrossel": 5,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4555,7 +4644,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Plannea": {
-    "post": 6,
+    "post": 8,
     "carrossel": 1,
     "foto": 0,
     "video": 1,
@@ -4597,10 +4686,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 9,
+    "post": 13,
     "carrossel": 1,
     "foto": 0,
-    "video": 0,
+    "video": 2,
     "story": 0
   },
   "Daniel Maia Advocacia": {
@@ -4719,7 +4808,7 @@ const AGENDA_COUNTS = {
   },
   "APROSSEG": {
     "reuniao": 1,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Daniel Maia Advocacia": {
