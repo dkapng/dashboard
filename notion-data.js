@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/09/2026, 20:49:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/09/2026, 23:44:30 **/
 
-const LAST_UPDATE = '13/09/2026, 20:49:47';
+const LAST_UPDATE = '13/09/2026, 23:44:30';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4377,6 +4377,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Ventana": "marcada",
   "Plannea": "confirmada",
   "Conecta Assessoria": "marcada",
   "Finseg Leal": "marcada",
@@ -4668,7 +4669,7 @@ const AGENDA_COUNTS = {
   },
   "Ventana": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Univendas": {
