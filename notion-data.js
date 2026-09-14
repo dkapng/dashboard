@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/09/2026, 05:24:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/09/2026, 12:08:18 **/
 
-const LAST_UPDATE = '14/09/2026, 05:24:34';
+const LAST_UPDATE = '14/09/2026, 12:08:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 15,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
@@ -88,10 +88,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 6,
     "pronto": 6,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 13,
@@ -184,18 +184,18 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 17,
     "pronto": 7,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Finseg Leal": {
-    "total": 9,
+    "total": 10,
     "pronto": 5,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -330,11 +330,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 10,
-    "pronto": 7,
-    "postado": 5,
+    "pronto": 8,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Plannea": {
     "total": 1,
@@ -646,7 +646,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Palestra-Dia-Mundial-da-Alzheimer-3cd33d8db9d2807b8cc4d0d77ce03cc6"
@@ -657,10 +657,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Palestra-sobre-educa-o-financeira-3cd33d8db9d2803389e0cb50dc707d7b"
@@ -669,7 +668,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Entre Cantos e Contos Cariri Setembro",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/09",
+      "date": "21/09",
       "missing": [
         "Legenda"
       ],
@@ -796,7 +795,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ser Ponte": [
     {
-      "title": "SETEMBRO AMARELO Saúde mental também passa por segurança, renda e condições dignats para viver.",
+      "title": "Setembro amarelo: Saúde mental também passa por segurança, renda e condições dignas para viver.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/09",
@@ -807,7 +806,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/SETEMBRO-AMARELO-Sa-de-mental-tamb-m-passa-por-seguran-a-renda-e-condi-es-dignats-para-viver-3d833d8db9d280b28273d5c4d7316648"
+      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-Sa-de-mental-tamb-m-passa-por-seguran-a-renda-e-condi-es-dignas-para-viver-3d833d8db9d280b28273d5c4d7316648"
     },
     {
       "title": "Conteúdo Larissa pessoa acessível",
@@ -993,7 +992,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cor não é apenas estética quando falamos de aviamentos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/09",
       "missing": [],
@@ -2366,12 +2365,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Mulheres nas eleições: participar não é o mesmo que ter espaço",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2453,6 +2450,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-pediu-uma-cota-o-Mas-sabe-o-que-acontece-antes-dela-chegar-3d033d8db9d280a587dbc22dc320cabc"
+    },
+    {
+      "title": "Dia do cliente",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-3d033d8db9d2809caea8dfd9e0ffc678"
     },
     {
       "title": "Tem coisa que a gente só valoriza quando precisa.",
@@ -2714,7 +2725,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-equipe-merece-um-benef-cio-que-fa-a-sentido-para-ela-e-para-o-caixa-da-empresa-3cd33d8db9d28089aa65cff4aff7dcd5"
@@ -2939,11 +2950,10 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "15/09",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/V-deo-balacobaco-3d833d8db9d280a9bb03fd078340bcdc"
     },
@@ -3338,15 +3348,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Responsabilidade civil ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "14/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Responsabilidade-civil-3c633d8db9d28035930ad5aa117d8c53"
     },
@@ -4136,32 +4143,14 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Bloco-de-texto-para-v-deo-sobre-legado-3d733d8db9d280ce8ca6c83bde921411",
       "gestora": "Equipe",
       "date": "10/09"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Transformar designs de vagas de formato stories em formato feed",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Transformar-designs-de-vagas-de-formato-stories-em-formato-feed-3d733d8db9d2803aaed0f9c7be8ea565",
-      "gestora": "Equipe",
-      "date": "10/09"
     },
     {
-      "title": "Boas-vindas da Ticiane Santos para a vaga de Assistente Fiscal. Hobby: Ler, aproveitar a família, ir à praia e aprender coisas novas. Graduanda em Administração.",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Boas-vindas-da-Ticiane-Santos-para-a-vaga-de-Assistente-Fiscal-Hobby-Ler-aproveitar-a-fam-lia-ir-3d733d8db9d280ba8612c06adc9f6f6a",
-      "gestora": "Equipe",
-      "date": "10/09"
-    },
-    {
-      "title": "Boas-vindas da Rebeca Pontes para a vaga de Analista de DP Externo. Hobby: Jogar Vôlei. Graduada em Processos Gerenciais.",
+      "title": "Crachá de funcionários",
       "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Boas-vindas-da-Rebeca-Pontes-para-a-vaga-de-Analista-de-DP-Externo-Hobby-Jogar-V-lei-Graduada-em--3d733d8db9d280cbb7c1cc6b99898bd8",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Crach-de-funcion-rios-3b233d8db9d280bc9181fe0100e80365",
       "gestora": "Equipe",
-      "date": "11/09"
+      "date": "18/09"
     }
   ],
   "ItalaP": [
@@ -4383,7 +4372,8 @@ const CAPTACAO_DATA = {
   "Finseg Leal": "marcada",
   "Solar Coworking": "marcada",
   "AAFEC": "confirmada",
-  "Tramix": "confirmada"
+  "Tramix": "confirmada",
+  "Juntos contra o HPV": "marcada"
 };
 
 const APRESENTACAO_DATA = {};
@@ -4394,7 +4384,7 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "AAFEC": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 18
   },
   "Ser Ponte": {
@@ -4434,7 +4424,7 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Planos Seguros": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 17
   },
   "Plannea": {
@@ -4450,7 +4440,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 17
   },
   "Finseg Leal": {
@@ -4593,7 +4583,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 8,
+    "post": 9,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
@@ -4664,7 +4654,7 @@ const AGENDA_COUNTS = {
   },
   "Juntos contra o HPV": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 1
   },
   "Ventana": {
