@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 13:15:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 16:45:44 **/
 
-const LAST_UPDATE = '15/09/2026, 13:15:59';
+const LAST_UPDATE = '15/09/2026, 16:45:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 15,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
@@ -97,17 +97,17 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 7,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Juntos contra o HPV": {
     "total": 11,
     "pronto": 6,
-    "postado": 2,
+    "postado": 3,
     "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Ventana": {
     "total": 0,
@@ -134,28 +134,28 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 14,
+    "total": 13,
     "pronto": 6,
     "postado": 4,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Rede Pangeia": {
     "total": 8,
     "pronto": 3,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Planos Seguros": {
     "total": 6,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Plannea": {
     "total": 9,
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 6,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -225,9 +225,9 @@ const FEED_DATA = {
     "total": 11,
     "pronto": 6,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "Solar Coworking": {
     "total": 11,
@@ -284,9 +284,9 @@ const VIDEO_DATA = {
     "total": 7,
     "pronto": 5,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 0,
@@ -356,9 +356,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 5,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -372,9 +372,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -656,10 +656,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Palestra-sobre-educa-o-financeira-3cd33d8db9d2803389e0cb50dc707d7b"
@@ -1052,7 +1051,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando o financeiro começa a participar da estratégia, o empresário deixa de decidir no escuro. Quer levar mais inteligência para a gestão da sua empresa? Fale com a Stratto.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
+      "date": "21/09",
       "missing": [
         "Design",
         "Legenda"
@@ -1092,14 +1091,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por trás de cada empresa, existe uma história. Obrigado por nos deixar fazer parte dela - Dia do cliente!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-tr-s-de-cada-empresa-existe-uma-hist-ria-Obrigado-por-nos-deixar-fazer-parte-dela-Dia-do-cli-3cd33d8db9d280e59fb7fd236f6c2a4c"
     },
@@ -1118,7 +1115,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O empresário que precisa aprovar tudo acaba se tornando o limite da própria empresa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/09",
+      "date": "18/09",
       "missing": [
         "Design",
         "Legenda"
@@ -1132,7 +1129,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quais números realmente dizem se sua empresa está crescendo de forma saudável?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/09",
+      "date": "16/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1266,7 +1263,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Divulgação da Dra. Marcella",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "04/09",
       "missing": [],
@@ -1505,19 +1502,6 @@ const LINHA_FEED_ITEMS = {
   ],
   "Terrartesã": [],
   "RR Advocacia": [
-    {
-      "title": "DIA DO CLIENTE   Informação também é uma forma de proteção.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/DIA-DO-CLIENTE-Informa-o-tamb-m-uma-forma-de-prote-o-3dc33d8db9d280318545e5a0d3b869d2"
-    },
     {
       "title": "Uma cláusula pode mudar o rumo de um contrato.",
       "status": "a_agendar",
@@ -1769,7 +1753,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Toda transformação começa com uma relação de confiança - Dia do cliente",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/09",
       "missing": [],
@@ -1793,15 +1777,12 @@ const LINHA_FEED_ITEMS = {
   "Planos Seguros": [
     {
       "title": "Dia do cliente: Cuidar do que importa para você também é fazer boas escolhas. Obrigado por confiar na Plano Seguros",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-do-cliente-Cuidar-do-que-importa-para-voc-tamb-m-fazer-boas-escolhas-Obrigado-por-confiar-n-3dc33d8db9d280f39a83e0aae44fd9b4"
     },
@@ -2321,7 +2302,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Das-22-cadeiras-do-Cear-na-C-mara-Federal-quantas-s-o-ocupadas-por-mulheres-3d033d8db9d280308407fff4e6adc132"
     },
     {
-      "title": "O CEARÁ JÁ TEM SUA MAIOR BANCADA FEMININA NA ALECE. E AGORA?",
+      "title": "O Ceará já tem sua maior bancada feminina na Alece. E agora?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "15/09",
@@ -2331,7 +2312,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-CEAR-J-TEM-SUA-MAIOR-BANCADA-FEMININA-NA-ALECE-E-AGORA-3d033d8db9d280ccb086c08abbf2628f"
+      "notionUrl": "https://app.notion.com/p/O-Cear-j-tem-sua-maior-bancada-feminina-na-Alece-E-agora-3d033d8db9d280ccb086c08abbf2628f"
     },
     {
       "title": "Quem recebe o dinheiro da campanha? Dinheiro também decide quem consegue disputar uma eleição.",
@@ -2456,7 +2437,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Seu carro vai entrar na campanha. E o seu seguro?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/09",
+      "date": "18/09",
       "missing": [
         "Design"
       ],
@@ -2482,7 +2463,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você pediu uma cotação. Mas sabe o que acontece antes dela chegar?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "18/09",
+      "date": "22/09",
       "missing": [
         "Design",
         "Legenda"
@@ -2505,14 +2486,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tem coisa que a gente só valoriza quando precisa.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "17/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tem-coisa-que-a-gente-s-valoriza-quando-precisa-3d033d8db9d28002a362f22658574c0e"
     },
@@ -2808,7 +2787,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua equipe merece um benefício que faça sentido para ela — e para o caixa da empresa.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "17/09",
       "missing": [],
@@ -2819,7 +2798,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua empresa precisa revisar os benefícios? Fale com a nossa equipe: (85) 98151-2399",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [],
@@ -3254,14 +3233,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Eu vou porque ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "15/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Eu-vou-porque-3ab33d8db9d2803f81cac2c5a340d9f9"
     }
@@ -3579,14 +3556,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Você veio na italap",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "14/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "15/09",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Voc-veio-na-italap-3b133d8db9d2807dbd8ad76abeacd9f1"
     },
@@ -3643,14 +3618,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Franquia",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "16/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Franquia-3ae33d8db9d280fabb69f6e2d249bac0"
     },
@@ -4153,30 +4126,14 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Juntos contra o HPV": [
+  "Univendas": [
     {
-      "title": "Saiote",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Saiote-3dc33d8db9d280afac6eecde1a55ea97",
-      "gestora": "Equipe",
-      "date": "15/09"
-    },
-    {
-      "title": "Videos com imagens e narração",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
-      "gestora": "Equipe",
-      "date": "21/09"
-    },
-    {
-      "title": "Legendar vídeo",
+      "title": "Demanda extra",
       "priority": "pp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
+      "notionUrl": "https://app.notion.com/p/Demanda-extra-3dc33d8db9d28016acebed8a145a623f",
       "gestora": "Equipe",
-      "date": "10/09"
+      "date": "18/09"
     }
   ],
   "Ortobom": [
@@ -4191,9 +4148,9 @@ const DEMANDAS_EXTRAS = {
   ],
   "Plannea": [
     {
-      "title": "Solicito arte de boas vindas da Alynne de Jesus para a vaga de Analista de DP Externo. Hobby:  Tocar violão e cantar. Graduada em Admnistração.",
+      "title": "Solicito arte de boas vindas da Alynne de Jesus para a vaga de Analista de DP Externo. Hobby:  Tocar violão e cantar. Graduada em Administração.",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Alynne-de-Jesus-para-a-vaga-de-Analista-de-DP-Externo-Hobby-Tocar-3db33d8db9d28026ba6cc3bf56f61dfb",
       "gestora": "Equipe",
       "date": "16/09"
@@ -4201,7 +4158,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Solicito arte de promoção interna do colaborador Nathanael Sales de Assistente Contábil para o cargo de Analista Contábil.",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Solicito-arte-de-promo-o-interna-do-colaborador-Nathanael-Sales-de-Assistente-Cont-bil-para-o-cargo-3db33d8db9d280a2a3adfd056f5af374",
       "gestora": "Equipe",
       "date": "16/09"
@@ -4213,24 +4170,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Iara-Santos-para-a-vaga-de-Auxiliar-Cont-bil-Hobby-Montar-lego-e--3db33d8db9d280b58b0dcda4f94b113f",
       "gestora": "Equipe",
       "date": "16/09"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "6 vídeos tráfego - Finseg",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/6-v-deos-tr-fego-Finseg-3d733d8db9d280089a04d9b374fe2c1c",
-      "gestora": "Equipe",
-      "date": "14/09"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Di Gregório Buffet": [
@@ -4301,6 +4240,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
       "gestora": "Equipe",
       "date": "09/09"
+    }
+  ],
+  "Juntos contra o HPV": [
+    {
+      "title": "Videos com imagens e narração",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
+      "gestora": "Equipe",
+      "date": "21/09"
+    },
+    {
+      "title": "Legendar vídeo",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
+      "gestora": "Equipe",
+      "date": "10/09"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4444,6 +4401,16 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "08/05"
     }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
   ]
 };
 
@@ -4478,11 +4445,11 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Stratto": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 18
   },
   "Ventana": {
@@ -4498,15 +4465,15 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 8,
-    "total": 17
+    "prontas": 7,
+    "total": 16
   },
   "Rede Pangeia": {
     "prontas": 2,
     "total": 8
   },
   "Planos Seguros": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 16
   },
   "Plannea": {
@@ -4518,7 +4485,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "ItalaP": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 18
   },
   "Grupo Mulheres do Brasil": {
@@ -4526,7 +4493,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Finseg Leal": {
-    "prontas": 9,
+    "prontas": 11,
     "total": 16
   },
   "Di Gregório Buffet": {
@@ -4616,7 +4583,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 14,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 3,
