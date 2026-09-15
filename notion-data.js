@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/09/2026, 16:53:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/09/2026, 22:06:26 **/
 
-const LAST_UPDATE = '14/09/2026, 16:53:54';
+const LAST_UPDATE = '14/09/2026, 22:06:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 9,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
@@ -174,24 +174,24 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "ItalaP": {
-    "total": 12,
+    "total": 13,
     "pronto": 5,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 8
   },
   "Grupo Mulheres do Brasil": {
-    "total": 17,
-    "pronto": 7,
+    "total": 18,
+    "pronto": 9,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 11
   },
   "Finseg Leal": {
     "total": 10,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -401,12 +401,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 5,
+    "total": 4,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 3,
@@ -1079,7 +1079,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Se-todo-problema-precisa-chegar-at-voc-talvez-o-problema-n-o-seja-a-equipe-a-estrutura-3cd33d8db9d2803d94aace477348b57a"
     },
     {
-      "title": "Dia do cliente!",
+      "title": "Por trás de cada empresa, existe uma história. Obrigado por nos deixar fazer parte dela - Dia do cliente!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/09",
@@ -1090,7 +1090,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-3cd33d8db9d280e59fb7fd236f6c2a4c"
+      "notionUrl": "https://app.notion.com/p/Por-tr-s-de-cada-empresa-existe-uma-hist-ria-Obrigado-por-nos-deixar-fazer-parte-dela-Dia-do-cli-3cd33d8db9d280e59fb7fd236f6c2a4c"
     },
     {
       "title": "Administrar não é apenas manter a empresa funcionando. É criar condições para ela evoluir. - DIA DO ADMINISTRADOR",
@@ -1598,10 +1598,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Acesso-aos-dados-tamb-m-precisa-de-controle-3ce33d8db9d280cbbc80e70cc9c7201f"
@@ -1907,10 +1905,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-regime-de-caixa-do-Simples-est-mudando-3ce33d8db9d280cd9abcd9b35475eae3"
@@ -2052,6 +2049,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "ItalaP": [
+    {
+      "title": "Quem confia no nosso cuidado faz parte da nossa história - Feliz dia do Cliente!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-confia-no-nosso-cuidado-faz-parte-da-nossa-hist-ria-Feliz-dia-do-Cliente-3db33d8db9d280309bbde77756209525"
+    },
     {
       "title": "O que seus exames de sangue podem revelar sobre a sua saúde?",
       "status": "a_agendar",
@@ -2201,15 +2212,27 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Aniversário Regilene",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-Regilene-3db33d8db9d28087984fcd041fc0d789"
+    },
+    {
       "title": "Setembro amarelo (copy completa nos comentários)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Setembro-amarelo-copy-completa-nos-coment-rios-3d833d8db9d2806e8d0ddd9e6d1477b5"
@@ -2466,18 +2489,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-pediu-uma-cota-o-Mas-sabe-o-que-acontece-antes-dela-chegar-3d033d8db9d280a587dbc22dc320cabc"
     },
     {
-      "title": "Dia do cliente",
+      "title": "Hoje, quem merece ser celebrado é você - Dia do cliente",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-3d033d8db9d2809caea8dfd9e0ffc678"
+      "notionUrl": "https://app.notion.com/p/Hoje-quem-merece-ser-celebrado-voc-Dia-do-cliente-3d033d8db9d2809caea8dfd9e0ffc678"
     },
     {
       "title": "Tem coisa que a gente só valoriza quando precisa.",
@@ -2786,7 +2808,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua equipe merece um benefício que faça sentido para ela — e para o caixa da empresa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/09",
+      "date": "17/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -3735,20 +3757,6 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3cd33d8db9d28068b1b3fe78f5526299"
-    },
-    {
-      "title": "Vídeo",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/09",
@@ -3887,7 +3895,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3d733d8db9d28072aad0c46e0bc71224"
     },
     {
-      "title": "Story/stories",
+      "title": "Você conhece os seus direitos como consumidor?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "17/09",
@@ -3897,7 +3905,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3d733d8db9d28014b024cef9121639d1"
+      "notionUrl": "https://app.notion.com/p/Voc-conhece-os-seus-direitos-como-consumidor-3d733d8db9d28014b024cef9121639d1"
     },
     {
       "title": "Setembro amarelo",
@@ -4195,6 +4203,22 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Plannea": [
     {
+      "title": "Solicito arte de boas vindas da Alynne de Jesus para a vaga de Analista de DP Externo. Hobby:  Tocar violão e cantar. Graduada em Admnistração.",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Alynne-de-Jesus-para-a-vaga-de-Analista-de-DP-Externo-Hobby-Tocar-3db33d8db9d28026ba6cc3bf56f61dfb",
+      "gestora": "Equipe",
+      "date": "16/09"
+    },
+    {
+      "title": "Solicito arte de promoção interna do colaborador Nathanael Sales de Assistente Contábil para o cargo de Analista Contábil.",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-promo-o-interna-do-colaborador-Nathanael-Sales-de-Assistente-Cont-bil-para-o-cargo-3db33d8db9d280a2a3adfd056f5af374",
+      "gestora": "Equipe",
+      "date": "16/09"
+    },
+    {
       "title": "Solicito arte de boas vindas da Iara Santos para a vaga de Auxiliar  Contábil. Hobby: Montar lego e ler ouvindo Matuê. Graduanda em Ciências Contábeis.",
       "priority": "ppp",
       "rawStatus": "2. A enviar para aprovação",
@@ -4455,7 +4479,6 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "APROSSEG": "marcada",
-  "Ventana": "marcada",
   "Plannea": "confirmada",
   "Conecta Assessoria": "marcada",
   "Finseg Leal": "marcada",
@@ -4526,11 +4549,11 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 14,
-    "total": 17
+    "total": 18
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 14,
-    "total": 17
+    "total": 18
   },
   "Finseg Leal": {
     "prontas": 8,
@@ -4550,7 +4573,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 12,
-    "total": 16
+    "total": 15
   },
   "Solar Coworking": {
     "prontas": 6,
@@ -4658,14 +4681,14 @@ const FORMAT_COUNTS = {
     "story": 4
   },
   "ItalaP": {
-    "post": 11,
+    "post": 12,
     "carrossel": 1,
     "foto": 0,
     "video": 5,
     "story": 2
   },
   "Grupo Mulheres do Brasil": {
-    "post": 7,
+    "post": 8,
     "carrossel": 10,
     "foto": 0,
     "video": 0,
@@ -4703,7 +4726,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 1,
     "foto": 0,
-    "video": 5,
+    "video": 4,
     "story": 6
   },
   "Solar Coworking": {
@@ -4748,7 +4771,7 @@ const AGENDA_COUNTS = {
   },
   "Ventana": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 0,
     "evento": 0
   },
   "Univendas": {
