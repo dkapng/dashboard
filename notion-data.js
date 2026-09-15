@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 08:57:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 13:15:59 **/
 
-const LAST_UPDATE = '15/09/2026, 08:57:26';
+const LAST_UPDATE = '15/09/2026, 13:15:59';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 15,
-    "pronto": 13,
+    "pronto": 12,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
@@ -87,15 +87,15 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 7,
-    "pronto": 6,
-    "postado": 4,
+    "pronto": 7,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 13,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -134,16 +134,16 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 13,
+    "total": 14,
     "pronto": 6,
-    "postado": 2,
-    "agendado": 1,
+    "postado": 4,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 8
   },
   "Rede Pangeia": {
     "total": 8,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -175,27 +175,27 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
     "pronto": 9,
     "postado": 7,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 11
+    "agendado_coord": 1,
+    "a_agendar": 10
   },
   "Finseg Leal": {
     "total": 10,
     "pronto": 6,
     "postado": 1,
     "agendado": 3,
-    "agendado_coord": 0,
-    "a_agendar": 6
+    "agendado_coord": 1,
+    "a_agendar": 5
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -224,18 +224,18 @@ const FEED_DATA = {
   "Conecta Assessoria": {
     "total": 11,
     "pronto": 6,
-    "postado": 0,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Solar Coworking": {
     "total": 11,
     "pronto": 8,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 3,
-    "a_agendar": 5
+    "a_agendar": 4
   }
 };
 
@@ -313,12 +313,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 5,
+    "total": 3,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 0,
@@ -409,12 +409,12 @@ const VIDEO_DATA = {
     "a_agendar": 2
   },
   "Solar Coworking": {
-    "total": 3,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   }
 };
 
@@ -656,9 +656,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Palestra-sobre-educa-o-financeira-3cd33d8db9d2803389e0cb50dc707d7b"
@@ -945,14 +946,11 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "Dia do cliente: Para quem transforma ideias em criação, obrigado por escolher a Tramix para fazer parte desse processo.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-do-cliente-Para-quem-transforma-ideias-em-cria-o-obrigado-por-escolher-a-Tramix-para-fazer-pa-3dc33d8db9d2807681b4f7468f24ca18"
@@ -1098,10 +1096,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-tr-s-de-cada-empresa-existe-uma-hist-ria-Obrigado-por-nos-deixar-fazer-parte-dela-Dia-do-cli-3cd33d8db9d280e59fb7fd236f6c2a4c"
@@ -1192,6 +1189,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Juntos, ampliamos o impacto da prevenção.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Juntos-ampliamos-o-impacto-da-preven-o-3dc33d8db9d28013ae55c50c84fe1a83"
+    },
+    {
       "title": "Seu corpo mudou? Não ignore uma alteração que persiste. Nem todo sintoma significa câncer. Mas mudanças persistentes merecem validação. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1266,20 +1276,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
     },
     {
-      "title": "É amanhã!  Antes de vir… Faça sua inscrição; Confira o horário; Organize sua chegada; Traga 1kg de alimento",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/amanh-Antes-de-vir-Fa-a-sua-inscri-o-Confira-o-hor-rio-Organize-sua-chegada-Traga-1kg-de-ali-3ab33d8db9d28064a53ed39fcee1f2a5"
-    },
-    {
       "title": "Juntos, fazemos este movimento acontecer. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1308,7 +1304,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O I Simpósio não será construído por uma única voz! Conheça os participantes…",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "15/09",
+      "date": "17/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1510,6 +1506,19 @@ const LINHA_FEED_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
+      "title": "DIA DO CLIENTE   Informação também é uma forma de proteção.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/DIA-DO-CLIENTE-Informa-o-tamb-m-uma-forma-de-prote-o-3dc33d8db9d280318545e5a0d3b869d2"
+    },
+    {
       "title": "Uma cláusula pode mudar o rumo de um contrato.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1609,7 +1618,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Acesso aos dados também precisa de controle.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/09",
       "missing": [],
@@ -1620,7 +1629,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ser cliente também significa ter direitos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "11/09",
       "missing": [],
@@ -1653,7 +1662,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua empresa cresceu. A estrutura jurídica acompanhou esse crescimento?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "04/09",
       "missing": [],
@@ -1763,10 +1772,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-transforma-o-come-a-com-uma-rela-o-de-confian-a-Dia-do-cliente-3d533d8db9d28060b368e89dc54d9f72"
@@ -1793,7 +1800,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-do-cliente-Cuidar-do-que-importa-para-voc-tamb-m-fazer-boas-escolhas-Obrigado-por-confiar-n-3dc33d8db9d280f39a83e0aae44fd9b4"
@@ -2053,15 +2060,12 @@ const LINHA_FEED_ITEMS = {
   "ItalaP": [
     {
       "title": "Quem confia no nosso cuidado faz parte da nossa história - Feliz dia do Cliente!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-confia-no-nosso-cuidado-faz-parte-da-nossa-hist-ria-Feliz-dia-do-Cliente-3db33d8db9d280309bbde77756209525"
     },
@@ -2215,14 +2219,12 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Aniversário Regilene",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Regilene-3db33d8db9d28087984fcd041fc0d789"
     },
@@ -2492,14 +2494,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Hoje, quem merece ser celebrado é você - Dia do cliente",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "15/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hoje-quem-merece-ser-celebrado-voc-Dia-do-cliente-3d033d8db9d2809caea8dfd9e0ffc678"
     },
@@ -2865,7 +2865,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Obrigada por deixar a Conecta fazer parte das suas escolhas. Feliz Dia do Cliente!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/09",
       "missing": [],
@@ -2977,14 +2977,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você saiu para vender. A encomenda resolveu chegar justamente nessa hora.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "14/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-saiu-para-vender-A-encomenda-resolveu-chegar-justamente-nessa-hora-3d433d8db9d28013857ee2bac393b278"
     },
@@ -3258,7 +3256,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Eu vou porque ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "14/09",
+      "date": "15/09",
       "missing": [
         "Legenda"
       ],
@@ -3299,34 +3297,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/V-deo-3d733d8db9d28003b9d9d4ab0ec6f515"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "15/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3ce33d8db9d280518972f480a85879b8"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "08/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3ce33d8db9d2808ba884fcdc42389e0d"
     },
     {
       "title": "Vídeo",
@@ -3787,40 +3757,33 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "23/09",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/V-deo-3d533d8db9d280af9fabcee3f55a9b48"
     },
     {
-      "title": "Vídeo",
-      "status": "a_agendar",
+      "title": "Video ",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "16/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3d433d8db9d280f18077fddb3f1b68da"
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Video-3d433d8db9d280f18077fddb3f1b68da"
     },
     {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "29/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-3d433d8db9d2809885b0fc718e58e873"
     }
   ]
@@ -4190,6 +4153,42 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "Saiote",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Saiote-3dc33d8db9d280afac6eecde1a55ea97",
+      "gestora": "Equipe",
+      "date": "15/09"
+    },
+    {
+      "title": "Videos com imagens e narração",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
+      "gestora": "Equipe",
+      "date": "21/09"
+    },
+    {
+      "title": "Legendar vídeo",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
+      "gestora": "Equipe",
+      "date": "10/09"
+    }
+  ],
+  "Ortobom": [
+    {
+      "title": "Vídeos extras - Ortobom",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/V-deos-extras-Ortobom-3dc33d8db9d28019bf79db9dff19d973",
+      "gestora": "Equipe",
+      "date": "16/09"
+    }
+  ],
   "Plannea": [
     {
       "title": "Solicito arte de boas vindas da Alynne de Jesus para a vaga de Analista de DP Externo. Hobby:  Tocar violão e cantar. Graduada em Admnistração.",
@@ -4218,10 +4217,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Finseg Leal": [
     {
-      "title": "3 vídeos tráfego - Finseg",
+      "title": "6 vídeos tráfego - Finseg",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/3-v-deos-tr-fego-Finseg-3d733d8db9d280089a04d9b374fe2c1c",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/6-v-deos-tr-fego-Finseg-3d733d8db9d280089a04d9b374fe2c1c",
       "gestora": "Equipe",
       "date": "14/09"
     },
@@ -4304,29 +4303,11 @@ const DEMANDAS_EXTRAS = {
       "date": "09/09"
     }
   ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Videos com imagens e narração",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
-      "gestora": "Equipe",
-      "date": "21/09"
-    },
-    {
-      "title": "Legendar vídeo",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
-      "gestora": "Equipe",
-      "date": "10/09"
-    }
-  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
       "gestora": "Equipe",
       "date": "11/09"
@@ -4493,7 +4474,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "Tramix": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 14
   },
   "Stratto": {
@@ -4501,7 +4482,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 18
   },
   "Ventana": {
@@ -4517,8 +4498,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 7,
-    "total": 18
+    "prontas": 8,
+    "total": 17
   },
   "Rede Pangeia": {
     "prontas": 2,
@@ -4537,15 +4518,15 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "ItalaP": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 18
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 18
   },
   "Finseg Leal": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 16
   },
   "Di Gregório Buffet": {
@@ -4565,7 +4546,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Solar Coworking": {
-    "prontas": 6,
+    "prontas": 10,
     "total": 14
   }
 };
@@ -4635,10 +4616,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 13,
+    "post": 14,
     "carrossel": 0,
     "foto": 0,
-    "video": 5,
+    "video": 3,
     "story": 3
   },
   "Rede Pangeia": {
