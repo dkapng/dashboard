@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 03:21:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 08:57:26 **/
 
-const LAST_UPDATE = '15/09/2026, 03:21:04';
+const LAST_UPDATE = '15/09/2026, 08:57:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -86,12 +86,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Tramix": {
-    "total": 6,
+    "total": 7,
     "pronto": 6,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 13,
@@ -150,12 +150,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Planos Seguros": {
-    "total": 7,
+    "total": 6,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Plannea": {
     "total": 9,
@@ -508,11 +508,11 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "Planos Seguros": {
-    "total": 2,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 1
   },
   "Plannea": {
@@ -943,6 +943,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Tramix": [
+    {
+      "title": "Dia do cliente: Para quem transforma ideias em criação, obrigado por escolher a Tramix para fazer parte desse processo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-Para-quem-transforma-ideias-em-cria-o-obrigado-por-escolher-a-Tramix-para-fazer-pa-3dc33d8db9d2807681b4f7468f24ca18"
+    },
     {
       "title": "7 de Setembro: Dia da Independência - Um país que cria também constrói sua própria história.",
       "status": "postado",
@@ -1771,6 +1785,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "Dia do cliente: Cuidar do que importa para você também é fazer boas escolhas. Obrigado por confiar na Plano Seguros",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-Cuidar-do-que-importa-para-voc-tamb-m-fazer-boas-escolhas-Obrigado-por-confiar-n-3dc33d8db9d280f39a83e0aae44fd9b4"
+    },
+    {
       "title": "7 de Setembro: Dia da Independência - Independência também é ter tranquilidade para seguir o próprio caminho",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -1793,19 +1821,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-todos-os-benef-cios-do-seu-seguro-residencial-3ae33d8db9d280ffbf09e70854a9f524"
-    },
-    {
-      "title": "Seguro garantia: por que ele deixou de ser um produto exclusivo das grandes obras?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seguro-garantia-por-que-ele-deixou-de-ser-um-produto-exclusivo-das-grandes-obras-3ae33d8db9d2808ab811ca7f77a42bc8"
     },
     {
       "title": "Subseguro: um problema que muitas empresas descobrem tarde demais.",
@@ -1832,19 +1847,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 2. A editar",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-olhou-para-o-seu-pr-dio-al-m-do-valor-do-im-vel-39633d8db9d280cbb479e06dab22988b"
-    },
-    {
-      "title": "Deixar pra depois pode ser a pior decisão\n",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Deixar-pra-depois-pode-ser-a-pior-decis-o-39633d8db9d280b8a92ce66d530ed44a"
     },
     {
       "title": "A má gestão dos seguros pode estar limitando o crescimento da sua empresa\n",
@@ -3973,19 +3975,6 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-seguro-acompanha-a-realidade-atual-da-sua-opera-o-36733d8db9d28015a941e771638e52b4"
-    },
-    {
-      "title": "Seq. Stories",
-      "status": "agendado_coord",
-      "formato": "📱 Story",
-      "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seq-Stories-30f33d8db9d2803b8644fddc3075e757"
     }
   ],
   "Plannea": [],
@@ -4505,7 +4494,7 @@ const LEGENDAS_DATA = {
   },
   "Tramix": {
     "prontas": 7,
-    "total": 13
+    "total": 14
   },
   "Stratto": {
     "prontas": 7,
@@ -4536,8 +4525,8 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Planos Seguros": {
-    "prontas": 13,
-    "total": 17
+    "prontas": 11,
+    "total": 16
   },
   "Plannea": {
     "prontas": 6,
@@ -4604,7 +4593,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Tramix": {
-    "post": 6,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 7,
@@ -4660,11 +4649,11 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Planos Seguros": {
-    "post": 7,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
     "video": 10,
-    "story": 2
+    "story": 1
   },
   "Plannea": {
     "post": 8,
