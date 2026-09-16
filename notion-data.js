@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 19:35:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 21:56:00 **/
 
-const LAST_UPDATE = '15/09/2026, 19:35:38';
+const LAST_UPDATE = '15/09/2026, 21:56:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 9,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 13,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 1,
     "agendado": 5,
     "agendado_coord": 0,
@@ -215,7 +215,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 7,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -501,7 +501,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1919,10 +1919,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-caixa-da-empresa-tamb-m-precisa-de-previsibilidade-3ce33d8db9d280a18040f38ca0023e4d"
@@ -2182,10 +2181,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "16/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Trombose-n-o-acontece-s-com-quem-fica-muito-tempo-parado-Dia-Nacional-de-Combate-e-Preven-o-Tr-3d633d8db9d280c79fd4c8c98b24efcd"
@@ -2800,15 +2797,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seu-s-cio-pode-tomar-decis-es-pela-empresa-sozinho-Antes-de-responder-sim-ou-n-o-confira-O-3dc33d8db9d280a2bb10ed7c0e8f0ba1"
     },
     {
-      "title": "3 mensagens que você deveria pensar duas vezes antes de enviar para um funcionário",
+      "title": "3 mensagens que você deveria pensar duas vezes antes de enviar para um funcionário.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "16/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/3-mensagens-que-voc-deveria-pensar-duas-vezes-antes-de-enviar-para-um-funcion-rio-3dc33d8db9d280a7b216c280d2a8b0ef"
@@ -4003,10 +3999,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "16/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d28032bb72d7d4531e16d9"
