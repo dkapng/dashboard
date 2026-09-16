@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/09/2026, 15:59:17 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/09/2026, 18:57:35 **/
 
-const LAST_UPDATE = '16/09/2026, 15:59:17';
+const LAST_UPDATE = '16/09/2026, 18:57:35';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -104,10 +104,10 @@ const FEED_DATA = {
   "Juntos contra o HPV": {
     "total": 17,
     "pronto": 7,
-    "postado": 3,
+    "postado": 4,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Ventana": {
     "total": 0,
@@ -281,12 +281,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 9,
-    "pronto": 7,
-    "postado": 2,
-    "agendado": 3,
+    "total": 10,
+    "pronto": 8,
+    "postado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 0,
@@ -401,12 +401,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 4,
+    "total": 5,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 1,
@@ -1279,7 +1279,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Conheça quem mais estará com a gente no I Simpósio do movimento juntos contra o HPV | Parte 2",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "16/09",
+      "date": "17/09",
       "missing": [
         "Design"
       ],
@@ -1304,7 +1304,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Juntos, ampliamos o impacto da prevenção.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "16/09",
       "missing": [],
@@ -1693,11 +1693,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-a-sua-empresa-faz-quando-percebe-que-um-funcion-rio-n-o-est-bem-3d733d8db9d280399982f0c85a2373b7"
     },
@@ -3036,18 +3035,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-da-Secret-ria-3d433d8db9d280a48ddbfbb2d2db45be"
     },
     {
-      "title": "Dia do Contador",
+      "title": "Transformar números em decisões também é fazer negócios acontecerem.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Contador-3d433d8db9d28096bb3bf3d78990259c"
+      "notionUrl": "https://app.notion.com/p/Transformar-n-meros-em-decis-es-tamb-m-fazer-neg-cios-acontecerem-3d433d8db9d28096bb3bf3d78990259c"
     },
     {
       "title": "Dia do Administrador",
@@ -3077,11 +3075,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Networking-n-o-acontece-s-em-eventos-Ele-acontece-na-rotina-3d433d8db9d280599c01e0ca964b45d4"
     },
@@ -3090,11 +3087,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-caf-s-uma-desculpa-para-a-gente-se-encontrar-3d433d8db9d28071a3b7f84b3d86b8cf"
     },
@@ -3300,15 +3295,24 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Video da flavia ",
-      "status": "a_agendar",
+      "title": "Video unimed ",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "16/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Video-unimed-3dd33d8db9d280b1acc6d3c13003c082"
+    },
+    {
+      "title": "Video da flavia ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Video-da-flavia-3dd33d8db9d280cc9c4be5e5843b82af"
     },
@@ -3845,6 +3849,20 @@ const LINHA_VIDEO_ITEMS = {
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
+      "title": "TBT ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "17/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://app.notion.com/p/TBT-3dd33d8db9d280548c49e9f42ddb24e5"
+    },
+    {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -4334,6 +4352,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "Videos para o trafego",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Videos-para-o-trafego-3dd33d8db9d28068b021cefe23f19ac3",
+      "gestora": "Equipe",
+      "date": "23/09"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Univendas": [
     {
       "title": "Demanda extra",
@@ -4583,16 +4619,6 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "08/05"
     }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
   ]
 };
 
@@ -4631,8 +4657,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 20,
-    "total": 26
+    "prontas": 22,
+    "total": 27
   },
   "Ventana": {
     "prontas": 0,
@@ -4647,7 +4673,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 16
   },
   "Rede Pangeia": {
@@ -4692,10 +4718,10 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 12,
-    "total": 15
+    "total": 16
   },
   "Solar Coworking": {
-    "prontas": 10,
+    "prontas": 13,
     "total": 14
   }
 };
@@ -4740,7 +4766,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 7,
     "foto": 0,
-    "video": 9,
+    "video": 10,
     "story": 3
   },
   "Ventana": {
@@ -4845,7 +4871,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 1,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 6
   },
   "Solar Coworking": {
