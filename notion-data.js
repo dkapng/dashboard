@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/09/2026, 07:35:36 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/09/2026, 12:14:20 **/
 
-const LAST_UPDATE = '16/09/2026, 07:35:36';
+const LAST_UPDATE = '16/09/2026, 12:14:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,10 +72,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 15,
     "pronto": 13,
-    "postado": 8,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "Ser Ponte": {
     "total": 15,
@@ -105,9 +105,9 @@ const FEED_DATA = {
     "total": 11,
     "pronto": 7,
     "postado": 3,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Ventana": {
     "total": 0,
@@ -160,10 +160,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 9,
     "pronto": 9,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 6,
@@ -176,15 +176,15 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 13,
     "pronto": 7,
-    "postado": 1,
+    "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
-    "total": 18,
+    "total": 19,
     "pronto": 11,
-    "postado": 7,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 1,
     "a_agendar": 10
@@ -251,8 +251,8 @@ const VIDEO_DATA = {
   "AAFEC": {
     "total": 3,
     "pronto": 3,
-    "postado": 3,
-    "agendado": 0,
+    "postado": 2,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -267,10 +267,10 @@ const VIDEO_DATA = {
   "Tramix": {
     "total": 7,
     "pronto": 7,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 2,
@@ -281,9 +281,9 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 7,
-    "pronto": 5,
-    "postado": 1,
+    "total": 8,
+    "pronto": 6,
+    "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 3
@@ -330,11 +330,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 10,
-    "pronto": 8,
-    "postado": 6,
+    "pronto": 9,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Plannea": {
     "total": 2,
@@ -516,12 +516,12 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Plannea": {
-    "total": 0,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 4,
@@ -533,7 +533,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 3,
-    "pronto": 3,
+    "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -582,10 +582,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 6,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 4,
@@ -614,9 +614,9 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
       "title": "Setembro amarelo: Cuidar da saúde mental também é cuidar dos vínculos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "17/09",
+      "date": "16/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -652,12 +652,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Palestra sobre educação financeira",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "16/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "15/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1229,7 +1227,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Juntos, ampliamos o impacto da prevenção.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "15/09",
+      "date": "16/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1337,9 +1335,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O I Simpósio não será construído por uma única voz! Conheça os participantes…",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "17/09",
+      "date": "16/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1914,12 +1912,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O caixa da empresa também precisa de previsibilidade",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "16/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2177,7 +2173,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Trombose não acontece só com quem fica muito tempo parado - Dia Nacional de Combate e Prevenção à Trombose",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [],
@@ -2232,6 +2228,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Evento ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "24/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Evento-3dd33d8db9d280f0b2a7caf75fa73d51"
+    },
     {
       "title": "Aniversário Regilene",
       "status": "agendado_coord",
@@ -2337,7 +2346,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O Ceará já tem sua maior bancada feminina na Alece. E agora?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "15/09",
       "missing": [],
@@ -3106,9 +3115,9 @@ const LINHA_VIDEO_ITEMS = {
   "AAFEC": [
     {
       "title": "Vídeo balacobaco ",
-      "status": "postado",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "15/09",
+      "date": "17/09",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
@@ -3207,14 +3216,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Perguntas sobre 20 anos ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "16/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Perguntas-sobre-20-anos-3d833d8db9d280e9bebeeab7fa1a46ec"
     },
@@ -3258,6 +3265,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Dra ailma",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Dra-ailma-3dd33d8db9d280008564f32c7e33f412"
+    },
+    {
       "title": "Vídeo com imagens e narração",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3298,7 +3316,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "aline - transvaginal",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "16/09",
+      "date": "19/09",
       "missing": [
         "Legenda"
       ],
@@ -3415,16 +3433,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Saúde bucal ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "16/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Sa-de-bucal-3c633d8db9d280d5ae0de9532ffcaecc"
     },
     {
@@ -4020,7 +4035,21 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seu-seguro-acompanha-a-realidade-atual-da-sua-opera-o-36733d8db9d28015a941e771638e52b4"
     }
   ],
-  "Plannea": [],
+  "Plannea": [
+    {
+      "title": "Stories evento Cariri ",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "16/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-evento-Cariri-3dd33d8db9d280bfa833c1a766081974"
+    }
+  ],
   "Ortobom": [
     {
       "title": "Setembro amarelo ",
@@ -4075,9 +4104,11 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
+      "rawLegenda": "🪶 2. Alterações a fazer",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comunicado-3dc33d8db9d280c09b60cc710671d1ea"
     },
@@ -4163,12 +4194,12 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversario - Maciel",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aniversario-Maciel-3cd33d8db9d28004b3cceff45ecefacb"
     },
@@ -4525,7 +4556,7 @@ const LEGENDAS_DATA = {
     "total": 1
   },
   "AAFEC": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 18
   },
   "Ser Ponte": {
@@ -4533,7 +4564,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Tramix": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 14
   },
   "Stratto": {
@@ -4541,8 +4572,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 14,
-    "total": 18
+    "prontas": 15,
+    "total": 19
   },
   "Ventana": {
     "prontas": 0,
@@ -4565,11 +4596,11 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Planos Seguros": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 16
   },
   "Plannea": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 11
   },
   "Ortobom": {
@@ -4581,8 +4612,8 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 15,
-    "total": 18
+    "prontas": 16,
+    "total": 19
   },
   "Finseg Leal": {
     "prontas": 11,
@@ -4650,7 +4681,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 5,
     "foto": 0,
-    "video": 7,
+    "video": 8,
     "story": 2
   },
   "Ventana": {
@@ -4700,7 +4731,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 2,
-    "story": 0
+    "story": 1
   },
   "Ortobom": {
     "post": 6,
@@ -4718,7 +4749,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 8,
-    "carrossel": 10,
+    "carrossel": 11,
     "foto": 0,
     "video": 0,
     "story": 0
