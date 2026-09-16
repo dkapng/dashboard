@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/09/2026, 12:14:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/09/2026, 15:59:17 **/
 
-const LAST_UPDATE = '16/09/2026, 12:14:20';
+const LAST_UPDATE = '16/09/2026, 15:59:17';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -96,18 +96,18 @@ const FEED_DATA = {
   "Stratto": {
     "total": 13,
     "pronto": 7,
-    "postado": 1,
+    "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Juntos contra o HPV": {
-    "total": 11,
+    "total": 17,
     "pronto": 7,
     "postado": 3,
     "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 11
   },
   "Ventana": {
     "total": 0,
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Rede Pangeia": {
     "total": 8,
@@ -166,12 +166,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Ortobom": {
-    "total": 6,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 13,
@@ -217,9 +217,9 @@ const FEED_DATA = {
     "total": 7,
     "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Conecta Assessoria": {
     "total": 11,
@@ -281,12 +281,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 8,
-    "pronto": 6,
+    "total": 9,
+    "pronto": 7,
     "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 0,
@@ -460,12 +460,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Juntos contra o HPV": {
-    "total": 2,
+    "total": 3,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -502,10 +502,10 @@ const STORIES_DATA = {
   "Rede Pangeia": {
     "total": 3,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 1,
@@ -517,19 +517,19 @@ const STORIES_DATA = {
   },
   "Plannea": {
     "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 4,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 3,
@@ -1165,7 +1165,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quais números realmente dizem se sua empresa está crescendo de forma saudável?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [],
@@ -1223,6 +1223,85 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "MESA REDONDA III - Redes de atenção à saúde e inovação tecnológica para ampliar a cobertura da vacina HPV e o rastreamento do câncer do colo do útero\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/MESA-REDONDA-III-Redes-de-aten-o-sa-de-e-inova-o-tecnol-gica-para-ampliar-a-cobertura-da-vacin-3dd33d8db9d280cd8cd0fcf520a3b1ba"
+    },
+    {
+      "title": "MESA REDONDA II - Vacinação contra o HPV: desafios e perspectivas para a eliminação do câncer do colo do útero no Brasil e o alcance dos Objetivos de Desenvolvimento Sustentável (ODS)",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/MESA-REDONDA-II-Vacina-o-contra-o-HPV-desafios-e-perspectivas-para-a-elimina-o-do-c-ncer-do-col-3dd33d8db9d2805ca2fdc1f0524af416"
+    },
+    {
+      "title": "Mesa redonda I - Experiências exitosas do Movimento Juntos Contra o HPV nos estados do Ceará, Pernambuco, São Paulo e Distrito Federal ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mesa-redonda-I-Experi-ncias-exitosas-do-Movimento-Juntos-Contra-o-HPV-nos-estados-do-Cear-Pernam-3dd33d8db9d2805f97dcecff0b871e75"
+    },
+    {
+      "title": "CONFERÊNCIA MAGNA - I SIMPÓSIO DO MOVIMENTO JUNTOS CONTRA O HPV\nFormação de redes para eliminar o câncer do colo do útero no Brasil\nSUS • Sociedade civil • Universidades • Comunidade Profª Dra. Ana Karina Bezerra Pinheiro — UFC  18 de setembro - 9h50",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/CONFER-NCIA-MAGNA-I-SIMP-SIO-DO-MOVIMENTO-JUNTOS-CONTRA-O-HPV-Forma-o-de-redes-para-eliminar-o-c--3dd33d8db9d2803b894cd18984195e83"
+    },
+    {
+      "title": "Conheça quem mais estará com a gente no I Simpósio do movimento juntos contra o HPV | Parte 2",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "16/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Conhe-a-quem-mais-estar-com-a-gente-no-I-Simp-sio-do-movimento-juntos-contra-o-HPV-Parte-2-3dd33d8db9d2809a84bde8b9d10acd5a"
+    },
+    {
+      "title": "Vai estar com a gente sexta-feira?\nSalva este post. Tudo o que você precisa saber para o I Simpósio do Movimento Juntos contra o HPV.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "17/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vai-estar-com-a-gente-sexta-feira-Salva-este-post-Tudo-o-que-voc-precisa-saber-para-o-I-Simp-sio--3dd33d8db9d28058bd8dee2891c44102"
+    },
     {
       "title": "Juntos, ampliamos o impacto da prevenção.",
       "status": "a_agendar",
@@ -1624,14 +1703,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "“Era só uma brincadeira.” Pode não ser.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "16/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Era-s-uma-brincadeira-Pode-n-o-ser-3ce33d8db9d280739112e89207875d93"
     },
@@ -1749,7 +1826,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nem todo problema de uma ONG é falta de recursos. Às vezes, o recurso existe. O que falta é estrutura para acessá-lo, organizá-lo ou transformá-lo em resultado.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
+      "date": "22/09",
       "missing": [
         "Design",
         "Legenda"
@@ -2029,45 +2106,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Descansar-n-o-parar-preparar-o-corpo-para-continuar-3d133d8db9d2806bbcfff55888cfe1b0"
-    },
-    {
-      "title": "O conforto da sua noite começa onde sua cabeça descansa.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-conforto-da-sua-noite-come-a-onde-sua-cabe-a-descansa-3d133d8db9d280c0b325ca61fa8946d1"
-    },
-    {
-      "title": "Talvez você não precise dormir mais. Precise dormir melhor.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Talvez-voc-n-o-precise-dormir-mais-Precise-dormir-melhor-3d133d8db9d2801c844fc46e0390a94d"
-    },
-    {
-      "title": "Seu colchão está ajudando o seu descanso ou apenas fazendo parte do quarto?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-colch-o-est-ajudando-o-seu-descanso-ou-apenas-fazendo-parte-do-quarto-3bc33d8db9d280108abdc9cb1c80c090"
     }
   ],
   "ItalaP": [
@@ -2796,24 +2834,21 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-s-cio-pode-tomar-decis-es-pela-empresa-sozinho-Antes-de-responder-sim-ou-n-o-confira-O-3dc33d8db9d280a2bb10ed7c0e8f0ba1"
     },
     {
       "title": "3 mensagens que você deveria pensar duas vezes antes de enviar para um funcionário.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "16/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/3-mensagens-que-voc-deveria-pensar-duas-vezes-antes-de-enviar-para-um-funcion-rio-3dc33d8db9d280a7b216c280d2a8b0ef"
     },
@@ -3264,6 +3299,19 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "Video da flavia ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Video-da-flavia-3dd33d8db9d280cc9c4be5e5843b82af"
+    },
     {
       "title": "Dra ailma",
       "status": "postado",
@@ -3894,6 +3942,19 @@ const LINHA_STORIES_ITEMS = {
   "Stratto": [],
   "Juntos contra o HPV": [
     {
+      "title": "É AMANHÃ. Um encontro para transformar conhecimento em prevenção — e prevenção em vidas protegidas.  18 de setembro Presencial + on-line - Inscrições gratuitas",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/AMANH-Um-encontro-para-transformar-conhecimento-em-preven-o-e-preven-o-em-vidas-protegidas-1-3dd33d8db9d280fdba8cda46f0411c5d"
+    },
+    {
       "title": "Os trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV já estão disponíveis. Quer conferir os trabalhos selecionados?\nAcesse o link e veja a lista completa.",
       "status": "postado",
       "formato": "📱 Story",
@@ -4010,7 +4071,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#dicadasemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/09",
       "missing": [],
@@ -4038,13 +4099,11 @@ const LINHA_STORIES_ITEMS = {
   "Plannea": [
     {
       "title": "Stories evento Cariri ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Stories-evento-Cariri-3dd33d8db9d280bfa833c1a766081974"
@@ -4064,7 +4123,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Repost storys",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "16/09",
       "missing": [],
@@ -4108,7 +4167,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 2. Alterações a fazer",
-      "rawLegenda": "🪶 2. Alterações a fazer",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comunicado-3dc33d8db9d280c09b60cc710671d1ea"
     },
@@ -4572,8 +4631,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 15,
-    "total": 19
+    "prontas": 20,
+    "total": 26
   },
   "Ventana": {
     "prontas": 0,
@@ -4588,7 +4647,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 16
   },
   "Rede Pangeia": {
@@ -4604,8 +4663,8 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ortobom": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 12,
+    "total": 12
   },
   "ItalaP": {
     "prontas": 16,
@@ -4628,7 +4687,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Daniel Maia Advocacia": {
-    "prontas": 2,
+    "prontas": 4,
     "total": 7
   },
   "Conecta Assessoria": {
@@ -4678,11 +4737,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 6,
-    "carrossel": 5,
+    "post": 10,
+    "carrossel": 7,
     "foto": 0,
-    "video": 8,
-    "story": 2
+    "video": 9,
+    "story": 3
   },
   "Ventana": {
     "post": 0,
@@ -4734,7 +4793,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Ortobom": {
-    "post": 6,
+    "post": 3,
     "carrossel": 0,
     "foto": 0,
     "video": 9,
@@ -4875,7 +4934,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Grupo Mulheres do Brasil": {
-    "reuniao": 1,
+    "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
