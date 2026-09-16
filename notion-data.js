@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/09/2026, 21:56:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/09/2026, 02:34:10 **/
 
-const LAST_UPDATE = '15/09/2026, 21:56:00';
+const LAST_UPDATE = '16/09/2026, 02:34:10';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 4,
     "agendado": 2,
     "agendado_coord": 0,
@@ -1630,10 +1630,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "16/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Era-s-uma-brincadeira-Pode-n-o-ser-3ce33d8db9d280739112e89207875d93"
