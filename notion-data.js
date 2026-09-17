@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/09/2026, 12:07:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/09/2026, 16:08:24 **/
 
-const LAST_UPDATE = '17/09/2026, 12:07:48';
+const LAST_UPDATE = '17/09/2026, 16:08:24';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -20,7 +20,6 @@ const GESTORAS = {
     "Stratto",
     "Juntos contra o HPV",
     "Rede Pangeia",
-    "ItalaP",
     "Finseg Leal",
     "APROSSEG",
     "Daniel Maia Advocacia",
@@ -31,6 +30,7 @@ const GESTORAS = {
     "Terrartesã",
     "RR Advocacia",
     "Ortobom",
+    "ItalaP",
     "Solar Coworking"
   ]
 };
@@ -79,11 +79,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 16,
-    "pronto": 5,
-    "postado": 5,
+    "pronto": 6,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Tramix": {
     "total": 7,
@@ -103,11 +103,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 17,
-    "pronto": 7,
-    "postado": 4,
-    "agendado": 2,
+    "pronto": 9,
+    "postado": 5,
+    "agendado": 3,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 8
   },
   "Ventana": {
     "total": 0,
@@ -183,11 +183,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
-    "pronto": 11,
-    "postado": 8,
+    "pronto": 12,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Finseg Leal": {
     "total": 10,
@@ -281,10 +281,10 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 10,
-    "pronto": 8,
+    "total": 12,
+    "pronto": 10,
     "postado": 3,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
     "a_agendar": 3
   },
@@ -337,12 +337,12 @@ const VIDEO_DATA = {
     "a_agendar": 3
   },
   "Plannea": {
-    "total": 2,
-    "pronto": 1,
-    "postado": 1,
+    "total": 4,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 4,
@@ -461,11 +461,11 @@ const STORIES_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 3,
-    "pronto": 2,
-    "postado": 2,
+    "pronto": 3,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -478,10 +478,10 @@ const STORIES_DATA = {
   "Univendas": {
     "total": 2,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Terrartesã": {
     "total": 0,
@@ -533,7 +533,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -590,10 +590,10 @@ const STORIES_DATA = {
   "Solar Coworking": {
     "total": 4,
     "pronto": 4,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   }
 };
 
@@ -856,14 +856,14 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A Travessia vai estar na Auê Feira! 🌿",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "16/09",
+      "date": "17/09",
       "missing": [
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-Travessia-vai-estar-na-Au-Feira-3dc33d8db9d280b998fbcf44a87299ad"
@@ -948,12 +948,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O bairro onde você mora pode definir as oportunidades que você encontra.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -1261,7 +1259,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "MESA REDONDA III - Redes de atenção à saúde e inovação tecnológica para ampliar a cobertura da vacina HPV e o rastreamento do câncer do colo do útero\n",
+      "title": "Mesa redonda III - Redes de atenção à saúde e inovação tecnológica para ampliar a cobertura da vacina HPV e o rastreamento do câncer do colo do útero",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/09",
@@ -1271,10 +1269,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/MESA-REDONDA-III-Redes-de-aten-o-sa-de-e-inova-o-tecnol-gica-para-ampliar-a-cobertura-da-vacin-3dd33d8db9d280cd8cd0fcf520a3b1ba"
+      "notionUrl": "https://app.notion.com/p/Mesa-redonda-III-Redes-de-aten-o-sa-de-e-inova-o-tecnol-gica-para-ampliar-a-cobertura-da-vacin-3dd33d8db9d280cd8cd0fcf520a3b1ba"
     },
     {
-      "title": "MESA REDONDA II - Vacinação contra o HPV: desafios e perspectivas para a eliminação do câncer do colo do útero no Brasil e o alcance dos Objetivos de Desenvolvimento Sustentável (ODS)",
+      "title": "Mesa redonda II - Vacinação contra o HPV: desafios e perspectivas para a eliminação do câncer do colo do útero no Brasil e o alcance dos Objetivos de Desenvolvimento Sustentável (ODS)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "17/09",
@@ -1284,36 +1282,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/MESA-REDONDA-II-Vacina-o-contra-o-HPV-desafios-e-perspectivas-para-a-elimina-o-do-c-ncer-do-col-3dd33d8db9d2805ca2fdc1f0524af416"
+      "notionUrl": "https://app.notion.com/p/Mesa-redonda-II-Vacina-o-contra-o-HPV-desafios-e-perspectivas-para-a-elimina-o-do-c-ncer-do-col-3dd33d8db9d2805ca2fdc1f0524af416"
     },
     {
-      "title": "Mesa redonda I - Experiências exitosas do Movimento Juntos Contra o HPV nos estados do Ceará, Pernambuco, São Paulo e Distrito Federal ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mesa-redonda-I-Experi-ncias-exitosas-do-Movimento-Juntos-Contra-o-HPV-nos-estados-do-Cear-Pernam-3dd33d8db9d2805f97dcecff0b871e75"
-    },
-    {
-      "title": "CONFERÊNCIA MAGNA - I SIMPÓSIO DO MOVIMENTO JUNTOS CONTRA O HPV\nFormação de redes para eliminar o câncer do colo do útero no Brasil\nSUS • Sociedade civil • Universidades • Comunidade Profª Dra. Ana Karina Bezerra Pinheiro — UFC  18 de setembro - 9h50",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/CONFER-NCIA-MAGNA-I-SIMP-SIO-DO-MOVIMENTO-JUNTOS-CONTRA-O-HPV-Forma-o-de-redes-para-eliminar-o-c--3dd33d8db9d2803b894cd18984195e83"
-    },
-    {
-      "title": "Conheça quem mais estará com a gente no I Simpósio do movimento juntos contra o HPV | Parte 2",
+      "title": "Mesa redonda I - Experiências exitosas do Movimento Juntos Contra o HPV nos estados do Ceará, Pernambuco, São Paulo e Distrito Federal",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "17/09",
@@ -1323,19 +1295,40 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mesa-redonda-I-Experi-ncias-exitosas-do-Movimento-Juntos-Contra-o-HPV-nos-estados-do-Cear-Pernam-3dd33d8db9d2805f97dcecff0b871e75"
+    },
+    {
+      "title": "Conferência magna - I Simpósio do Movimento Juntos Contra o HPV\nFormação de redes para eliminar o câncer do colo do útero no Brasil\nSUS • Sociedade civil • Universidades • Comunidade Profª Dra. Ana Karina Bezerra Pinheiro — UFC  18 de setembro - 9h50",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Confer-ncia-magna-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-Forma-o-de-redes-para-eliminar-o-c--3dd33d8db9d2803b894cd18984195e83"
+    },
+    {
+      "title": "Conheça quem mais estará com a gente no I Simpósio do movimento juntos contra o HPV | Parte 2",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
+      "date": "17/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conhe-a-quem-mais-estar-com-a-gente-no-I-Simp-sio-do-movimento-juntos-contra-o-HPV-Parte-2-3dd33d8db9d2809a84bde8b9d10acd5a"
     },
     {
       "title": "Vai estar com a gente sexta-feira?\nSalva este post. Tudo o que você precisa saber para o I Simpósio do Movimento Juntos contra o HPV.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "17/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Vai-estar-com-a-gente-sexta-feira-Salva-este-post-Tudo-o-que-voc-precisa-saber-para-o-I-Simp-sio--3dd33d8db9d28058bd8dee2891c44102"
     },
@@ -2303,15 +2296,12 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
-      "title": "TBT Liberta na FIEC em 2022",
-      "status": "a_agendar",
+      "title": "#TBT Liberta na FIEC em 2022",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/TBT-Liberta-na-FIEC-em-2022-3de33d8db9d28098bad3f21daf7fbf9b"
@@ -3346,6 +3336,28 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "video da sandra",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "17/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/video-da-sandra-3de33d8db9d280f4bca6dfa8f925346f"
+    },
+    {
+      "title": "Video da fabi",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "17/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Video-da-fabi-3de33d8db9d280f784b1f431e75deee4"
+    },
+    {
       "title": "Video unimed ",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3627,6 +3639,30 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Plannea": [
+    {
+      "title": "Perguntas para contadores ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "18/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Perguntas-para-contadores-3de33d8db9d280e289b2e6cf01de28e6"
+    },
+    {
+      "title": "Mimos para contadores ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "17/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Mimos-para-contadores-3de33d8db9d2804fac39fbe97170147c"
+    },
     {
       "title": "Vídeo Dia do Cliente",
       "status": "postado",
@@ -4012,13 +4048,11 @@ const LINHA_STORIES_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "É AMANHÃ. Um encontro para transformar conhecimento em prevenção — e prevenção em vidas protegidas.  18 de setembro Presencial + on-line - Inscrições gratuitas",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/AMANH-Um-encontro-para-transformar-conhecimento-em-preven-o-e-preven-o-em-vidas-protegidas-1-3dd33d8db9d280fdba8cda46f0411c5d"
@@ -4050,7 +4084,7 @@ const LINHA_STORIES_ITEMS = {
   "Univendas": [
     {
       "title": "Story repost ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "17/09",
       "missing": [],
@@ -4232,10 +4266,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Comunicado-3dc33d8db9d280c09b60cc710671d1ea"
@@ -4401,7 +4433,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story repost ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "17/09",
       "missing": [],
@@ -4415,6 +4447,14 @@ const LINHA_STORIES_ITEMS = {
 
 const DEMANDAS_EXTRAS = {
   "Juntos contra o HPV": [
+    {
+      "title": "Logos para o telão",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Logos-para-o-tel-o-3de33d8db9d28074b579f9aa9dcc58cc",
+      "gestora": "Equipe",
+      "date": "17/09"
+    },
     {
       "title": "Tela para painel de LED",
       "priority": "pppp",
@@ -4430,14 +4470,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
       "gestora": "Equipe",
       "date": "21/09"
-    },
-    {
-      "title": "Legendar vídeo",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
-      "gestora": "Equipe",
-      "date": "10/09"
     }
   ],
   "Finseg Leal": [
@@ -4727,8 +4759,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 22,
-    "total": 27
+    "prontas": 25,
+    "total": 29
   },
   "Ventana": {
     "prontas": 0,
@@ -4755,8 +4787,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Plannea": {
-    "prontas": 8,
-    "total": 11
+    "prontas": 9,
+    "total": 13
   },
   "Ortobom": {
     "prontas": 12,
@@ -4767,7 +4799,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 20
   },
   "Finseg Leal": {
@@ -4833,10 +4865,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 10,
-    "carrossel": 7,
+    "post": 9,
+    "carrossel": 8,
     "foto": 0,
-    "video": 10,
+    "video": 12,
     "story": 3
   },
   "Ventana": {
@@ -4885,7 +4917,7 @@ const FORMAT_COUNTS = {
     "post": 8,
     "carrossel": 1,
     "foto": 0,
-    "video": 2,
+    "video": 4,
     "story": 1
   },
   "Ortobom": {
