@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/09/2026, 16:08:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/09/2026, 19:18:57 **/
 
-const LAST_UPDATE = '17/09/2026, 16:08:24';
+const LAST_UPDATE = '17/09/2026, 19:18:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,10 +79,10 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 16,
-    "pronto": 6,
-    "postado": 6,
+    "pronto": 7,
+    "postado": 7,
     "agendado": 0,
-    "agendado_coord": 2,
+    "agendado_coord": 1,
     "a_agendar": 8
   },
   "Tramix": {
@@ -103,11 +103,11 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 17,
-    "pronto": 9,
-    "postado": 5,
-    "agendado": 3,
+    "pronto": 13,
+    "postado": 6,
+    "agendado": 6,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 0,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 4
   },
   "Plannea": {
-    "total": 9,
+    "total": 10,
     "pronto": 9,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 3,
@@ -174,12 +174,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "ItalaP": {
-    "total": 13,
+    "total": 12,
     "pronto": 7,
     "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Grupo Mulheres do Brasil": {
     "total": 20,
@@ -337,9 +337,9 @@ const VIDEO_DATA = {
     "a_agendar": 3
   },
   "Plannea": {
-    "total": 4,
-    "pronto": 3,
-    "postado": 2,
+    "total": 5,
+    "pronto": 4,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -844,7 +844,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Um pouco do que vai com a gente para a Auê 👀",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/09",
+      "date": "18/09",
       "missing": [
         "Design",
         "Legenda"
@@ -856,15 +856,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A Travessia vai estar na Auê Feira! 🌿",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "17/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-Travessia-vai-estar-na-Au-Feira-3dc33d8db9d280b998fbcf44a87299ad"
     },
@@ -952,7 +949,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "17/09",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-bairro-onde-voc-mora-pode-definir-as-oportunidades-que-voc-encontra-3bf33d8db9d280dfa555deeb32f19b00"
@@ -1260,52 +1257,44 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Mesa redonda III - Redes de atenção à saúde e inovação tecnológica para ampliar a cobertura da vacina HPV e o rastreamento do câncer do colo do útero",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mesa-redonda-III-Redes-de-aten-o-sa-de-e-inova-o-tecnol-gica-para-ampliar-a-cobertura-da-vacin-3dd33d8db9d280cd8cd0fcf520a3b1ba"
     },
     {
       "title": "Mesa redonda II - Vacinação contra o HPV: desafios e perspectivas para a eliminação do câncer do colo do útero no Brasil e o alcance dos Objetivos de Desenvolvimento Sustentável (ODS)",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mesa-redonda-II-Vacina-o-contra-o-HPV-desafios-e-perspectivas-para-a-elimina-o-do-c-ncer-do-col-3dd33d8db9d2805ca2fdc1f0524af416"
     },
     {
       "title": "Mesa redonda I - Experiências exitosas do Movimento Juntos Contra o HPV nos estados do Ceará, Pernambuco, São Paulo e Distrito Federal",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Mesa-redonda-I-Experi-ncias-exitosas-do-Movimento-Juntos-Contra-o-HPV-nos-estados-do-Cear-Pernam-3dd33d8db9d2805f97dcecff0b871e75"
     },
     {
-      "title": "Conferência magna - I Simpósio do Movimento Juntos Contra o HPV\nFormação de redes para eliminar o câncer do colo do útero no Brasil\nSUS • Sociedade civil • Universidades • Comunidade Profª Dra. Ana Karina Bezerra Pinheiro — UFC  18 de setembro - 9h50",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "title": "Conferência magna - I Simpósio do Movimento Juntos Contra o HPV\nFormação de redes para eliminar o câncer do colo do útero no Brasil\nSUS • Sociedade civil • Universidades • Comunidade Profa. Dra. Ana Karina Bezerra Pinheiro — UFC  18 de setembro - 9h50",
+      "status": "postado",
+      "formato": "🎠 Carrossel",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Confer-ncia-magna-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-Forma-o-de-redes-para-eliminar-o-c--3dd33d8db9d2803b894cd18984195e83"
@@ -1869,7 +1858,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quanto mais diversificada é a receita da sua organização, maior tende a ser sua capacidade de atravessar mudanças.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "17/09",
+      "date": "28/09",
       "missing": [
         "Design",
         "Legenda"
@@ -1992,6 +1981,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Plannea": [
+    {
+      "title": "Luz, câmera… Contabilidade em Ação! ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "18/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Luz-c-mera-Contabilidade-em-A-o-Nossa-campanha-chegou-ao-fim-e-j-temos-os-vencedores-3de33d8db9d2807d88bee965a4cb1164"
+    },
     {
       "title": "Evento - Reforma Tributária no Cariri (texto nos comentários)",
       "status": "a_agendar",
@@ -2224,19 +2227,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-cora-o-pode-estar-pedindo-cuidado-antes-de-voc-perceber-Dia-Mundial-do-Cora-o-3d633d8db9d2802b9c84e5b7c524fed5"
-    },
-    {
-      "title": "Um resultado confiável começa muito antes do resultado - Dia Mundial da Segurança do Paciente",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Um-resultado-confi-vel-come-a-muito-antes-do-resultado-Dia-Mundial-da-Seguran-a-do-Paciente-3d633d8db9d280e2be17eeacee9fa96a"
     },
     {
       "title": "Trombose não acontece só com quem fica muito tempo parado - Dia Nacional de Combate e Prevenção à Trombose",
@@ -3313,7 +3303,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Gestão financeira estruturada",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
+      "date": "18/09",
       "missing": [
         "Legenda"
       ],
@@ -3640,10 +3630,21 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Vídeo encontro Reforma Tributária ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "17/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-encontro-Reforma-Tribut-ria-3de33d8db9d280eb9a51c3127ba209c9"
+    },
+    {
       "title": "Perguntas para contadores ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "18/09",
+      "date": "22/09",
       "missing": [
         "Legenda"
       ],
@@ -4448,10 +4449,18 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Juntos contra o HPV": [
     {
-      "title": "Logos para o telão",
+      "title": "Designs para real time",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Logos-para-o-tel-o-3de33d8db9d28074b579f9aa9dcc58cc",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Designs-para-real-time-3de33d8db9d28098a342fbc9096e72af",
+      "gestora": "Equipe",
+      "date": "17/09"
+    },
+    {
+      "title": "Loop com logos para o telão",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Loop-com-logos-para-o-tel-o-3de33d8db9d28074b579f9aa9dcc58cc",
       "gestora": "Equipe",
       "date": "17/09"
     },
@@ -4468,6 +4477,16 @@ const DEMANDAS_EXTRAS = {
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
+      "gestora": "Equipe",
+      "date": "21/09"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Solicito arte de boas vindas da Estefhane Barbosa para a vaga de Analista Fiscal. Hobby:  Séries Investigativas e Ler. Graduada em Ciências Contábeis.",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Estefhane-Barbosa-para-a-vaga-de-Analista-Fiscal-Hobby-S-ries-Inv-3de33d8db9d2804289abdfadc94119f8",
       "gestora": "Equipe",
       "date": "21/09"
     }
@@ -4747,7 +4766,7 @@ const LEGENDAS_DATA = {
     "total": 18
   },
   "Ser Ponte": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 16
   },
   "Tramix": {
@@ -4787,16 +4806,16 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Plannea": {
-    "prontas": 9,
-    "total": 13
+    "prontas": 10,
+    "total": 15
   },
   "Ortobom": {
     "prontas": 12,
     "total": 12
   },
   "ItalaP": {
-    "prontas": 16,
-    "total": 18
+    "prontas": 15,
+    "total": 17
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 17,
@@ -4865,8 +4884,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 9,
-    "carrossel": 8,
+    "post": 6,
+    "carrossel": 11,
     "foto": 0,
     "video": 12,
     "story": 3
@@ -4915,9 +4934,9 @@ const FORMAT_COUNTS = {
   },
   "Plannea": {
     "post": 8,
-    "carrossel": 1,
+    "carrossel": 2,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 1
   },
   "Ortobom": {
@@ -4929,7 +4948,7 @@ const FORMAT_COUNTS = {
   },
   "ItalaP": {
     "post": 12,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
     "video": 5,
     "story": 3
