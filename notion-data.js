@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/09/2026, 07:11:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/09/2026, 12:07:48 **/
 
-const LAST_UPDATE = '17/09/2026, 07:11:52';
+const LAST_UPDATE = '17/09/2026, 12:07:48';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,10 +62,10 @@ const NICHES = {
 
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
-    "total": 1,
-    "pronto": 1,
+    "total": 3,
+    "pronto": 3,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -78,12 +78,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Ser Ponte": {
-    "total": 15,
+    "total": 16,
     "pronto": 5,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 8
+    "a_agendar": 9
   },
   "Tramix": {
     "total": 7,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Grupo Mulheres do Brasil": {
-    "total": 19,
+    "total": 20,
     "pronto": 11,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 11
   },
   "Finseg Leal": {
     "total": 10,
@@ -580,9 +580,9 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 6,
-    "pronto": 3,
-    "postado": 2,
+    "total": 7,
+    "pronto": 4,
+    "postado": 3,
     "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 3
@@ -601,7 +601,7 @@ const LINHA_FEED_ITEMS = {
   "Hélio Rôla 90 Anos": [
     {
       "title": "Convite para visita guiada",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/09",
       "missing": [],
@@ -609,6 +609,30 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Convite-para-visita-guiada-3d633d8db9d280e0a75cd2c5f538922b"
+    },
+    {
+      "title": "Como visitar uma vida que nunca foi uma linha reta?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-visitar-uma-vida-que-nunca-foi-uma-linha-reta-3c733d8db9d28022b6cfeec188c4011c"
+    },
+    {
+      "title": "Quem é Hélio Rôla? 90 anos de uma vida entre arte, ciência, cidade e experimentação.",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
+      "date": "17/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-H-lio-R-la-90-anos-de-uma-vida-entre-arte-ci-ncia-cidade-e-experimenta-o-3c733d8db9d280238fe2ef82a4ea7fe0"
     }
   ],
   "AAFEC": [
@@ -789,6 +813,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Ser Ponte": [
+    {
+      "title": "Chamam as mães solos de ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "22/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Chamam-as-m-es-solos-de-m-es-guerreiras-mas-onde-est-o-as-pol-ticas-para-que-elas-n-o-precisem-en-3de33d8db9d280bcbb79c9c68120a8c8"
+    },
     {
       "title": "E se essa peça for a sua escolha na Auê? 👀",
       "status": "a_agendar",
@@ -1283,7 +1320,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conhe-a-quem-mais-estar-com-a-gente-no-I-Simp-sio-do-movimento-juntos-contra-o-HPV-Parte-2-3dd33d8db9d2809a84bde8b9d10acd5a"
@@ -2265,6 +2302,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "TBT Liberta na FIEC em 2022",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "17/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/TBT-Liberta-na-FIEC-em-2022-3de33d8db9d28098bad3f21daf7fbf9b"
+    },
     {
       "title": "Evento ",
       "status": "a_agendar",
@@ -4121,7 +4172,7 @@ const LINHA_STORIES_ITEMS = {
       "formato": "📱 Story",
       "date": "16/09",
       "missing": [],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Stories-evento-Cariri-3dd33d8db9d280bfa833c1a766081974"
@@ -4180,7 +4231,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Comunicado",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "16/09",
+      "date": "17/09",
       "missing": [
         "Design"
       ],
@@ -4230,6 +4281,17 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "Aniversário - Joana Darc",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "17/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-Joana-Darc-3de33d8db9d280979dfae81f8d91f8f5"
+    },
     {
       "title": "Aniversario - Diego Sarquis",
       "status": "a_agendar",
@@ -4352,6 +4414,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "Tela para painel de LED",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Tela-para-painel-de-LED-3de33d8db9d280289787c46f21bca3b3",
+      "gestora": "Equipe",
+      "date": "17/09"
+    },
+    {
+      "title": "Videos com imagens e narração",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
+      "gestora": "Equipe",
+      "date": "21/09"
+    },
+    {
+      "title": "Legendar vídeo",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
+      "gestora": "Equipe",
+      "date": "10/09"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Videos para o trafego",
@@ -4458,24 +4546,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
       "gestora": "Equipe",
       "date": "09/09"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Videos com imagens e narração",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
-      "gestora": "Equipe",
-      "date": "21/09"
-    },
-    {
-      "title": "Legendar vídeo",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Legendar-v-deo-3d533d8db9d280fb8f1fea2a4a334ad9",
-      "gestora": "Equipe",
-      "date": "10/09"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4637,16 +4707,16 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
-    "prontas": 1,
-    "total": 1
+    "prontas": 2,
+    "total": 3
   },
   "AAFEC": {
     "prontas": 14,
     "total": 18
   },
   "Ser Ponte": {
-    "prontas": 10,
-    "total": 15
+    "prontas": 11,
+    "total": 16
   },
   "Tramix": {
     "prontas": 9,
@@ -4698,7 +4768,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 16,
-    "total": 19
+    "total": 20
   },
   "Finseg Leal": {
     "prontas": 11,
@@ -4728,8 +4798,8 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Hélio Rôla 90 Anos": {
-    "post": 1,
-    "carrossel": 0,
+    "post": 2,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4743,7 +4813,7 @@ const FORMAT_COUNTS = {
   },
   "Ser Ponte": {
     "post": 10,
-    "carrossel": 5,
+    "carrossel": 6,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4833,7 +4903,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 8,
+    "post": 9,
     "carrossel": 11,
     "foto": 0,
     "video": 0,
@@ -4872,7 +4942,7 @@ const FORMAT_COUNTS = {
     "carrossel": 1,
     "foto": 0,
     "video": 5,
-    "story": 6
+    "story": 7
   },
   "Solar Coworking": {
     "post": 11,
