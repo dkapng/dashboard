@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/09/2026, 14:45:09 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/09/2026, 17:14:08 **/
 
-const LAST_UPDATE = '18/09/2026, 14:45:09';
+const LAST_UPDATE = '18/09/2026, 17:14:08';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 17,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 6,
     "agendado": 6,
     "agendado_coord": 1,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 5,
     "agendado": 2,
     "agendado_coord": 0,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Grupo Mulheres do Brasil": {
-    "total": 20,
+    "total": 19,
     "pronto": 12,
-    "postado": 9,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 8
   },
   "Finseg Leal": {
     "total": 10,
@@ -493,7 +493,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -1396,10 +1396,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Juntos-fazemos-este-movimento-acontecer-3ab33d8db9d2803bb022eae7096319f9"
@@ -1695,10 +1694,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-a-sua-empresa-faz-quando-percebe-que-um-funcion-rio-n-o-est-bem-3d733d8db9d280399982f0c85a2373b7"
@@ -1984,11 +1981,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "18/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Luz-c-mera-Contabilidade-em-A-o-Nossa-campanha-chegou-ao-fim-e-j-temos-os-vencedores-3de33d8db9d2807d88bee965a4cb1164"
     },
@@ -2321,7 +2317,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Setembro amarelo (copy completa nos comentários)",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/09",
+      "date": "21/09",
       "missing": [
         "Legenda"
       ],
@@ -2345,13 +2341,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "50% de mulheres na política parece muito? 50% NÃO É EXAGERO. É PARIDADE.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/50-de-mulheres-na-pol-tica-parece-muito-50-N-O-EXAGERO-PARIDADE-3d033d8db9d280b6ae28fcd27ab14278"
@@ -2476,19 +2470,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Camila-Gomes-3d033d8db9d28008a0c1f2816893ba01"
-    },
-    {
-      "title": "Em 2026, mais de 1 milhão de atendimentos chegaram ao Ligue 180 em apenas sete meses.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "16/09",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Em-2026-mais-de-1-milh-o-de-atendimentos-chegaram-ao-Ligue-180-em-apenas-sete-meses-3ce33d8db9d2803ba243d6e49756233a"
     },
     {
       "title": "Mulheres nas eleições: participar não é o mesmo que ter espaço",
@@ -4130,10 +4111,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "17/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-os-seus-direitos-como-consumidor-3d733d8db9d28014b024cef9121639d1"
@@ -4451,16 +4430,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Ortobom": [
-    {
-      "title": "Comunicado fechamento",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Comunicado-fechamento-3df33d8db9d280e986c5dd9feb17ab08",
-      "gestora": "Equipe",
-      "date": "18/09"
-    }
-  ],
   "Juntos contra o HPV": [
     {
       "title": "Designs para real time",
@@ -4810,7 +4779,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Plannea": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 15
   },
   "Ortobom": {
@@ -4823,7 +4792,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 17,
-    "total": 20
+    "total": 19
   },
   "Finseg Leal": {
     "prontas": 11,
@@ -4958,7 +4927,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 9,
+    "post": 8,
     "carrossel": 11,
     "foto": 0,
     "video": 0,
