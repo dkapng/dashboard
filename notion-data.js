@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/09/2026, 11:06:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/09/2026, 14:45:09 **/
 
-const LAST_UPDATE = '18/09/2026, 11:06:01';
+const LAST_UPDATE = '18/09/2026, 14:45:09';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -78,12 +78,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Ser Ponte": {
-    "total": 16,
-    "pronto": 7,
+    "total": 15,
+    "pronto": 8,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Tramix": {
     "total": 7,
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
@@ -150,12 +150,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Planos Seguros": {
-    "total": 6,
+    "total": 7,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Plannea": {
     "total": 10,
@@ -215,7 +215,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 7,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -232,10 +232,10 @@ const FEED_DATA = {
   "Solar Coworking": {
     "total": 11,
     "pronto": 8,
-    "postado": 1,
+    "postado": 2,
     "agendado": 3,
     "agendado_coord": 3,
-    "a_agendar": 4
+    "a_agendar": 3
   }
 };
 
@@ -436,12 +436,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Tramix": {
     "total": 0,
@@ -832,27 +832,12 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/E-se-essa-pe-a-for-a-sua-escolha-na-Au-3dc33d8db9d280ebabbff3482f719b9e"
-    },
-    {
-      "title": "Um pouco do que vai com a gente para a Auê 👀",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Um-pouco-do-que-vai-com-a-gente-para-a-Au-3dc33d8db9d280f3b67ed28752131c24"
     },
     {
       "title": "A Travessia vai estar na Auê Feira! 🌿",
@@ -1187,10 +1172,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-empres-rio-que-precisa-aprovar-tudo-acaba-se-tornando-o-limite-da-pr-pria-empresa-3cd33d8db9d28048ab59cecca7397616"
@@ -1905,6 +1889,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Planos Seguros": [
+    {
+      "title": "Palestra Setembro Amarelo ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Palestra-Setembro-Amarelo-3df33d8db9d2808ab9fac903520f965f"
+    },
     {
       "title": "Dia do cliente: Cuidar do que importa para você também é fazer boas escolhas. Obrigado por confiar na Plano Seguros",
       "status": "postado",
@@ -2863,10 +2860,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-s-cio-pode-tomar-decis-es-pela-empresa-sozinho-Antes-de-responder-sim-ou-n-o-confira-O-3dc33d8db9d280a2bb10ed7c0e8f0ba1"
@@ -3115,7 +3110,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O café é só uma desculpa para a gente se encontrar.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [],
@@ -3307,7 +3302,7 @@ const LINHA_VIDEO_ITEMS = {
       "missing": [
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Gest-o-financeira-estruturada-3d033d8db9d28099bd95d0d99b5dc726"
@@ -4040,7 +4035,19 @@ const LINHA_VIDEO_ITEMS = {
 const LINHA_STORIES_ITEMS = {
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [],
-  "Ser Ponte": [],
+  "Ser Ponte": [
+    {
+      "title": "Um pouco do que vai com a gente para a Auê 👀",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "18/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Um-pouco-do-que-vai-com-a-gente-para-a-Au-3dc33d8db9d280f3b67ed28752131c24"
+    }
+  ],
   "Tramix": [],
   "Stratto": [],
   "Juntos contra o HPV": [
@@ -4444,6 +4451,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ortobom": [
+    {
+      "title": "Comunicado fechamento",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Comunicado-fechamento-3df33d8db9d280e986c5dd9feb17ab08",
+      "gestora": "Equipe",
+      "date": "18/09"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Designs para real time",
@@ -4514,16 +4531,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Demanda-extra-3dc33d8db9d28016acebed8a145a623f",
       "gestora": "Equipe",
       "date": "18/09"
-    }
-  ],
-  "Ortobom": [
-    {
-      "title": "Vídeos extras - Ortobom",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/V-deos-extras-Ortobom-3dc33d8db9d28019bf79db9dff19d973",
-      "gestora": "Equipe",
-      "date": "16/09"
     }
   ],
   "Di Gregório Buffet": [
@@ -4764,7 +4771,7 @@ const LEGENDAS_DATA = {
   },
   "Ser Ponte": {
     "prontas": 12,
-    "total": 16
+    "total": 15
   },
   "Tramix": {
     "prontas": 9,
@@ -4799,8 +4806,8 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Planos Seguros": {
-    "prontas": 14,
-    "total": 16
+    "prontas": 15,
+    "total": 17
   },
   "Plannea": {
     "prontas": 10,
@@ -4860,11 +4867,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 10,
+    "post": 9,
     "carrossel": 6,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 1
   },
   "Tramix": {
     "post": 7,
@@ -4923,7 +4930,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Planos Seguros": {
-    "post": 6,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 10,
