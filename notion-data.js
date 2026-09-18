@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/09/2026, 06:57:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/09/2026, 11:06:01 **/
 
-const LAST_UPDATE = '18/09/2026, 06:57:26';
+const LAST_UPDATE = '18/09/2026, 11:06:01';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -330,11 +330,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 10,
-    "pronto": 9,
-    "postado": 7,
+    "pronto": 10,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Plannea": {
     "total": 5,
@@ -835,7 +835,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/E-se-essa-pe-a-for-a-sua-escolha-na-Au-3dc33d8db9d280ebabbff3482f719b9e"
@@ -3582,13 +3582,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Seguro de proteção em vida",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "18/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -4802,7 +4799,7 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Planos Seguros": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 16
   },
   "Plannea": {
