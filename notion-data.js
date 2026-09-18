@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/09/2026, 17:14:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/09/2026, 19:42:42 **/
 
-const LAST_UPDATE = '18/09/2026, 17:14:08';
+const LAST_UPDATE = '18/09/2026, 19:42:42';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -159,11 +159,11 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 10,
-    "pronto": 9,
-    "postado": 7,
+    "pronto": 10,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 3,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 12,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 10,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 1,
@@ -337,12 +337,12 @@ const VIDEO_DATA = {
     "a_agendar": 2
   },
   "Plannea": {
-    "total": 5,
+    "total": 7,
     "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 4,
@@ -1977,13 +1977,11 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Luz, câmera… Contabilidade em Ação! ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Luz-c-mera-Contabilidade-em-A-o-Nossa-campanha-chegou-ao-fim-e-j-temos-os-vencedores-3de33d8db9d2807d88bee965a4cb1164"
@@ -2189,10 +2187,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-exame-deu-alterado-E-agora-3d633d8db9d28099b1b4cd93ed7158b6"
@@ -2524,10 +2520,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-carro-vai-entrar-na-campanha-E-o-seu-seguro-3d033d8db9d2806aa7cace8857d30066"
@@ -3603,6 +3597,34 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Summit Cariri 2",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Summit-Cariri-2-3df33d8db9d280acad17f8e70ae8367d"
+    },
+    {
+      "title": "Summit Cariri",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "21/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Summit-Cariri-3df33d8db9d280088765daf82c6326fc"
+    },
+    {
       "title": "Vídeo encontro Reforma Tributária ",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -4430,6 +4452,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Reajuste nos 2 vídeos Summit Cariri ",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Reajuste-nos-2-v-deos-Summit-Cariri-3df33d8db9d28026959bfe2863d5b320",
+      "gestora": "Equipe",
+      "date": "21/09"
+    },
+    {
+      "title": "Solicito arte de boas vindas da Estefhane Barbosa para a vaga de Analista Fiscal. Hobby:  Séries Investigativas e Ler. Graduada em Ciências Contábeis.",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Estefhane-Barbosa-para-a-vaga-de-Analista-Fiscal-Hobby-S-ries-Inv-3de33d8db9d2804289abdfadc94119f8",
+      "gestora": "Equipe",
+      "date": "21/09"
+    }
+  ],
   "Juntos contra o HPV": [
     {
       "title": "Designs para real time",
@@ -4460,16 +4500,6 @@ const DEMANDAS_EXTRAS = {
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
-      "gestora": "Equipe",
-      "date": "21/09"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Solicito arte de boas vindas da Estefhane Barbosa para a vaga de Analista Fiscal. Hobby:  Séries Investigativas e Ler. Graduada em Ciências Contábeis.",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Estefhane-Barbosa-para-a-vaga-de-Analista-Fiscal-Hobby-S-ries-Inv-3de33d8db9d2804289abdfadc94119f8",
       "gestora": "Equipe",
       "date": "21/09"
     }
@@ -4780,7 +4810,7 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 11,
-    "total": 15
+    "total": 17
   },
   "Ortobom": {
     "prontas": 12,
@@ -4909,7 +4939,7 @@ const FORMAT_COUNTS = {
     "post": 8,
     "carrossel": 2,
     "foto": 0,
-    "video": 5,
+    "video": 7,
     "story": 1
   },
   "Ortobom": {
