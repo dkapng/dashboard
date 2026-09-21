@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/09/2026, 12:14:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/09/2026, 17:04:23 **/
 
-const LAST_UPDATE = '21/09/2026, 12:14:12';
+const LAST_UPDATE = '21/09/2026, 17:04:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -105,9 +105,9 @@ const FEED_DATA = {
     "total": 17,
     "pronto": 14,
     "postado": 6,
-    "agendado": 6,
+    "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -142,12 +142,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Rede Pangeia": {
-    "total": 8,
-    "pronto": 4,
-    "postado": 1,
+    "total": 6,
+    "pronto": 5,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 7,
@@ -176,26 +176,26 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 12,
     "pronto": 8,
-    "postado": 2,
+    "postado": 3,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
     "pronto": 13,
-    "postado": 11,
+    "postado": 12,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Finseg Leal": {
-    "total": 10,
-    "pronto": 7,
+    "total": 9,
+    "pronto": 9,
     "postado": 1,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -217,17 +217,17 @@ const FEED_DATA = {
     "total": 7,
     "pronto": 4,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Conecta Assessoria": {
     "total": 11,
     "pronto": 8,
     "postado": 1,
-    "agendado": 5,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 11,
@@ -276,17 +276,17 @@ const VIDEO_DATA = {
     "total": 2,
     "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 11,
     "pronto": 10,
     "postado": 3,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -355,10 +355,10 @@ const VIDEO_DATA = {
   "ItalaP": {
     "total": 5,
     "pronto": 5,
-    "postado": 0,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -534,10 +534,10 @@ const STORIES_DATA = {
   "ItalaP": {
     "total": 3,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -1078,18 +1078,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "Quanto tempo sua equipe perde fazendo manualmente o que poderia estar organizado e automatizado?Fale com a Stratto e descubra onde sua operação pode ganhar eficiência.",
+      "title": "Quanto tempo sua equipe perde fazendo manualmente o que poderia estar organizado e automatizado? Fale com a Stratto e descubra onde sua operação pode ganhar eficiência.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-tempo-sua-equipe-perde-fazendo-manualmente-o-que-poderia-estar-organizado-e-automatizado-Fale-3cd33d8db9d280cca44cef65f5defe3f"
+      "notionUrl": "https://app.notion.com/p/Quanto-tempo-sua-equipe-perde-fazendo-manualmente-o-que-poderia-estar-organizado-e-automatizado-Fal-3cd33d8db9d280cca44cef65f5defe3f"
     },
     {
       "title": "Não existe solução financeira eficiente sem entender onde o problema começa. Agende uma conversa com a Stratto.",
@@ -1106,13 +1105,12 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando o financeiro começa a participar da estratégia, o empresário deixa de decidir no escuro. Quer levar mais inteligência para a gestão da sua empresa? Fale com a Stratto.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/09",
+      "date": "25/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-o-financeiro-come-a-a-participar-da-estrat-gia-o-empres-rio-deixa-de-decidir-no-escuro-Quer-3cd33d8db9d280fe9752e94195503615"
     },
@@ -1120,29 +1118,27 @@ const LINHA_FEED_ITEMS = {
       "title": "Você cuida do crescimento da empresa. A Stratto cuida da gestão financeira. Conheça nosso BPO Financeiro. Chame a equipe no WhatsApp.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "23/09",
+      "date": "28/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-cuida-do-crescimento-da-empresa-A-Stratto-cuida-da-gest-o-financeira-Conhe-a-nosso-BPO-Financ-3cd33d8db9d280d29dc8cc74fbc7a77a"
     },
     {
-      "title": "Se todo problema precisa chegar até você, talvez o problema não seja a equipe. É a estrutura.",
+      "title": "Entre números, regras e decisões, existe um profissional essencial: o contador. DIA DO CONTADOR",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/09",
+      "date": "22/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Se-todo-problema-precisa-chegar-at-voc-talvez-o-problema-n-o-seja-a-equipe-a-estrutura-3cd33d8db9d2803d94aace477348b57a"
+      "notionUrl": "https://app.notion.com/p/Entre-n-meros-regras-e-decis-es-existe-um-profissional-essencial-o-contador-DIA-DO-CONTADOR-3cd33d8db9d2803580ffd2940d407322"
     },
     {
       "title": "Por trás de cada empresa, existe uma história. Obrigado por nos deixar fazer parte dela - Dia do cliente!",
@@ -1170,12 +1166,10 @@ const LINHA_FEED_ITEMS = {
       "title": "O empresário que precisa aprovar tudo acaba se tornando o limite da própria empresa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "23/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-empres-rio-que-precisa-aprovar-tudo-acaba-se-tornando-o-limite-da-pr-pria-empresa-3cd33d8db9d28048ab59cecca7397616"
     },
@@ -1207,11 +1201,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-custa-para-sua-empresa-cada-hora-que-voc-passa-fazendo-o-trabalho-de-outra-pessoa-3cd33d8db9d280b69b26fe2afcf13de5"
     },
@@ -1239,6 +1232,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Juntos contra o HPV": [
+    {
+      "title": "SAIU NA MÍDIA - O I Simpósio do Movimento Juntos Contra o HPV ganhou espaço na imprensa. E a conversa sobre prevenção ao HPV foi ainda mais longe.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "22/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/SAIU-NA-M-DIA-O-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-ganhou-espa-o-na-imprensa-E-a-convers-3e233d8db9d28039ab67f1054f87ffbe"
+    },
     {
       "title": "Mesa redonda III - Redes de atenção à saúde e inovação tecnológica para ampliar a cobertura da vacina HPV e o rastreamento do câncer do colo do útero",
       "status": "agendado",
@@ -1331,24 +1337,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seu-corpo-mudou-N-o-ignore-uma-altera-o-que-persiste-Nem-todo-sintoma-significa-c-ncer-Mas-mudan-3d633d8db9d28038a355c5cd65a42ad8"
     },
     {
-      "title": "Falar sobre HPV é falar sobre prevenção!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Falar-sobre-HPV-falar-sobre-preven-o-3d633d8db9d28007902eeb4a675bc450"
-    },
-    {
       "title": "Setembro também é mês de falar sobre tumores ginecológicos.",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "21/09",
+      "date": "23/09",
       "missing": [
         "Design"
       ],
@@ -1392,14 +1384,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Juntos, fazemos este movimento acontecer.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "21/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Juntos-fazemos-este-movimento-acontecer-3ab33d8db9d2803bb022eae7096319f9"
     },
@@ -1427,9 +1417,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Juh, a vacina contra o HPV é segura? H2: Sim! A vacina é segura, eficaz e recomendada por autoridades de saúde do Brasil e do mundo. H3: Ela protege contra os tipos de HPV que mais causam câncer e outras doenças relacionadas ao vírus.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "23/09",
+      "date": "25/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1625,11 +1615,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawDesign": "🎨 2. Fazendo",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-cl-usula-pode-mudar-o-rumo-de-um-contrato-3d733d8db9d28064bdb4cf81ba62abbe"
     },
@@ -1667,11 +1656,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "25/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Bateu-o-carro-E-agora-quem-paga-a-conta-3d733d8db9d280e0b799d43e2fb05bc3"
     },
@@ -1681,11 +1669,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "23/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-rela-o-de-consumo-envolve-direitos-e-responsabilidades-para-os-dois-lados-3d733d8db9d280428fc3ffb3102508c8"
     },
@@ -1783,40 +1770,23 @@ const LINHA_FEED_ITEMS = {
       "title": "O futuro da sua organização não deveria depender da urgência.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/09",
+      "date": "28/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-futuro-da-sua-organiza-o-n-o-deveria-depender-da-urg-ncia-Planejar-criar-espa-o-para-escolher--3d533d8db9d280e3ac09f8e94dd8df6a"
-    },
-    {
-      "title": "3 perguntas antes de aceitar qualquer parceria",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "24/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/3-perguntas-antes-de-aceitar-qualquer-parceria-3d533d8db9d280c09e19f06bca5d30bf"
     },
     {
       "title": "Sua equipe sabe por que está fazendo o que faz?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "22/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-equipe-sabe-por-que-est-fazendo-o-que-faz-Executar-tarefas-diferente-de-compreender-o-impact-3d533d8db9d280c8b22ce08744147601"
     },
@@ -1824,40 +1794,21 @@ const LINHA_FEED_ITEMS = {
       "title": "Nem todo problema de uma ONG é falta de recursos. Às vezes, o recurso existe. O que falta é estrutura para acessá-lo, organizá-lo ou transformá-lo em resultado.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
+      "date": "25/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-todo-problema-de-uma-ONG-falta-de-recursos-s-vezes-o-recurso-existe-O-que-falta-estrutur-3d533d8db9d28019b852e64c36472160"
     },
     {
-      "title": "Quanto mais diversificada é a receita da sua organização, maior tende a ser sua capacidade de atravessar mudanças.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-mais-diversificada-a-receita-da-sua-organiza-o-maior-tende-a-ser-sua-capacidade-de-atrave-3d533d8db9d28083aa20ceb63f07a133"
-    },
-    {
       "title": "5 sinais de que sua organização precisa fortalecer a gestão",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
-      "date": "18/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "21/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-sinais-de-que-sua-organiza-o-precisa-fortalecer-a-gest-o-3d533d8db9d28081a936d037f45ef55e"
     },
@@ -2194,7 +2145,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu exame deu alterado. E agora?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [],
@@ -2453,7 +2404,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Transformar a sociedade é responsabilidade de todas nós (Em letra menor: 21 DE SETEMBRO | DIA DA RESPONSABILIDADE SOCIAL)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/09",
       "missing": [],
@@ -2509,23 +2460,10 @@ const LINHA_FEED_ITEMS = {
   ],
   "Finseg Leal": [
     {
-      "title": "Você saberia o que fazer nos primeiros minutos depois de um acidente?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-saberia-o-que-fazer-nos-primeiros-minutos-depois-de-um-acidente-3d033d8db9d28030a96df4fa49de690e"
-    },
-    {
       "title": "Seu carro vai entrar na campanha. E o seu seguro?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
+      "date": "22/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2534,13 +2472,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu filho ainda nem pensa no futuro. Você já pode começar a pensar por ele.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-filho-ainda-nem-pensa-no-futuro-Voc-j-pode-come-ar-a-pensar-por-ele-3d033d8db9d28085a4c6eb3e8eb7d8aa"
@@ -2549,12 +2485,11 @@ const LINHA_FEED_ITEMS = {
       "title": "Você pediu uma cotação. Mas sabe o que acontece antes dela chegar?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "22/09",
+      "date": "24/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-pediu-uma-cota-o-Mas-sabe-o-que-acontece-antes-dela-chegar-3d033d8db9d280a587dbc22dc320cabc"
@@ -2838,7 +2773,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu sócio pode tomar decisões pela empresa sozinho? ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/09",
       "missing": [],
@@ -2884,7 +2819,7 @@ const LINHA_FEED_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Seu próximo plano de saúde pode ser Amil. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "22/09",
       "missing": [],
@@ -2922,7 +2857,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Entre tantas opções de planos, ter alguém para filtrar faz diferença. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "21/09",
       "missing": [],
@@ -3271,14 +3206,12 @@ const LINHA_VIDEO_ITEMS = {
   "Stratto": [
     {
       "title": "Gestão financeira estruturada",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "18/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "21/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Gest-o-financeira-estruturada-3d033d8db9d28099bd95d0d99b5dc726"
     },
@@ -3376,14 +3309,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "aline - transvaginal",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "19/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "21/09",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/aline-transvaginal-3c733d8db9d28056bccdef84d856c369"
     },
@@ -3770,14 +3701,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Precisa fazer um exame",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "21/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Precisa-fazer-um-exame-3b133d8db9d2807a8b21f81f502920ce"
     },
@@ -4115,7 +4044,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d28013b7a9cf7d1ee72c5e"
     },
@@ -4128,7 +4057,7 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d280e68407db49b6b92ce0"
     },
@@ -4223,7 +4152,7 @@ const LINHA_STORIES_ITEMS = {
   "ItalaP": [
     {
       "title": "Comunicado",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "17/09",
       "missing": [],
@@ -4402,6 +4331,84 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Juntos contra o HPV": [
+    {
+      "title": "Narrações para vídeos com IA",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Narra-es-para-v-deos-com-IA-3e233d8db9d280eaa761dd8b03015c08",
+      "gestora": "Equipe",
+      "date": "21/09"
+    },
+    {
+      "title": "Videos com imagens e narração",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
+      "gestora": "Equipe",
+      "date": "21/09"
+    }
+  ],
+  "Univendas": [
+    {
+      "title": "Video da campanha interna ",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Video-da-campanha-interna-3e233d8db9d2800fb038c7a4a9947e51",
+      "gestora": "Equipe",
+      "date": "23/09"
+    },
+    {
+      "title": "Demanda extra",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Demanda-extra-3dc33d8db9d28016acebed8a145a623f",
+      "gestora": "Equipe",
+      "date": "18/09"
+    }
+  ],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "9ª Ação | Capa para o Sympla",
+      "priority": "pppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/9-A-o-Capa-para-o-Sympla-3e233d8db9d2809a9ec7e5adc20d644a",
+      "gestora": "Equipe",
+      "date": "21/09"
+    },
+    {
+      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
+      "gestora": "Equipe",
+      "date": "11/09"
+    },
+    {
+      "title": "Adicionar logo do Sebrae em apresentações",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-logo-do-Sebrae-em-apresenta-es-3cd33d8db9d2808e8106cccac66aec98",
+      "gestora": "Equipe",
+      "date": "01/09"
+    },
+    {
+      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
+      "gestora": "Equipe",
+      "date": "30/09"
+    },
+    {
+      "title": "Mídia kit para a corrida de 2026",
+      "priority": "pp",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
+      "gestora": "Equipe",
+      "date": "17/06"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Ajuste apresentação ",
@@ -4440,7 +4447,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Reajuste nos 2 vídeos Summit Cariri ",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Reajuste-nos-2-v-deos-Summit-Cariri-3df33d8db9d28026959bfe2863d5b320",
       "gestora": "Equipe",
       "date": "21/09"
@@ -4448,34 +4455,8 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Solicito arte de boas vindas da Estefhane Barbosa para a vaga de Analista Fiscal. Hobby:  Séries Investigativas e Ler. Graduada em Ciências Contábeis.",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Estefhane-Barbosa-para-a-vaga-de-Analista-Fiscal-Hobby-S-ries-Inv-3de33d8db9d2804289abdfadc94119f8",
-      "gestora": "Equipe",
-      "date": "21/09"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Loop com logos para o telão",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Loop-com-logos-para-o-tel-o-3de33d8db9d28074b579f9aa9dcc58cc",
-      "gestora": "Equipe",
-      "date": "17/09"
-    },
-    {
-      "title": "Tela para painel de LED",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Tela-para-painel-de-LED-3de33d8db9d280289787c46f21bca3b3",
-      "gestora": "Equipe",
-      "date": "17/09"
-    },
-    {
-      "title": "Videos com imagens e narração",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
       "gestora": "Equipe",
       "date": "21/09"
     }
@@ -4496,16 +4477,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
       "gestora": "Equipe",
       "date": "15/05"
-    }
-  ],
-  "Univendas": [
-    {
-      "title": "Demanda extra",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Demanda-extra-3dc33d8db9d28016acebed8a145a623f",
-      "gestora": "Equipe",
-      "date": "18/09"
     }
   ],
   "Di Gregório Buffet": [
@@ -4576,40 +4547,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
       "gestora": "Equipe",
       "date": "09/09"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
-      "gestora": "Equipe",
-      "date": "11/09"
-    },
-    {
-      "title": "Adicionar logo do Sebrae em apresentações",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-logo-do-Sebrae-em-apresenta-es-3cd33d8db9d2808e8106cccac66aec98",
-      "gestora": "Equipe",
-      "date": "01/09"
-    },
-    {
-      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
-      "gestora": "Equipe",
-      "date": "30/09"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
     }
   ],
   "AAFEC": [
@@ -4727,11 +4664,11 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Stratto": {
-    "prontas": 8,
-    "total": 16
+    "prontas": 15,
+    "total": 15
   },
   "Juntos contra o HPV": {
-    "prontas": 24,
+    "prontas": 27,
     "total": 29
   },
   "Ventana": {
@@ -4747,12 +4684,12 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 9,
+    "prontas": 12,
     "total": 16
   },
   "Rede Pangeia": {
-    "prontas": 2,
-    "total": 8
+    "prontas": 6,
+    "total": 6
   },
   "Planos Seguros": {
     "prontas": 16,
@@ -4767,7 +4704,7 @@ const LEGENDAS_DATA = {
     "total": 12
   },
   "ItalaP": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
@@ -4775,8 +4712,8 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Finseg Leal": {
-    "prontas": 11,
-    "total": 16
+    "prontas": 10,
+    "total": 15
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -4837,8 +4774,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 6,
-    "carrossel": 11,
+    "post": 5,
+    "carrossel": 12,
     "foto": 0,
     "video": 11,
     "story": 3
@@ -4872,8 +4809,8 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Rede Pangeia": {
-    "post": 6,
-    "carrossel": 2,
+    "post": 5,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 3
@@ -4914,7 +4851,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 9,
+    "post": 8,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
