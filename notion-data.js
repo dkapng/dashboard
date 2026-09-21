@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/09/2026, 05:26:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/09/2026, 12:14:12 **/
 
-const LAST_UPDATE = '21/09/2026, 05:26:12';
+const LAST_UPDATE = '21/09/2026, 12:14:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 8,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Plannea": {
-    "total": 10,
-    "pronto": 10,
-    "postado": 8,
+    "total": 11,
+    "pronto": 11,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 3,
@@ -183,11 +183,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 12,
-    "postado": 10,
+    "pronto": 13,
+    "postado": 11,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Finseg Leal": {
     "total": 10,
@@ -223,7 +223,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 11,
-    "pronto": 6,
+    "pronto": 8,
     "postado": 1,
     "agendado": 5,
     "agendado_coord": 0,
@@ -267,10 +267,10 @@ const VIDEO_DATA = {
   "Tramix": {
     "total": 7,
     "pronto": 7,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Stratto": {
     "total": 2,
@@ -281,12 +281,12 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Juntos contra o HPV": {
-    "total": 12,
+    "total": 11,
     "pronto": 10,
     "postado": 3,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -331,18 +331,18 @@ const VIDEO_DATA = {
   "Planos Seguros": {
     "total": 10,
     "pronto": 10,
-    "postado": 8,
+    "postado": 9,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 1
+  },
+  "Plannea": {
+    "total": 6,
+    "pronto": 5,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
-  },
-  "Plannea": {
-    "total": 7,
-    "pronto": 4,
-    "postado": 3,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 4
   },
   "Ortobom": {
     "total": 4,
@@ -401,12 +401,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 5,
+    "total": 4,
     "pronto": 2,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 1,
@@ -581,11 +581,11 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 7,
-    "pronto": 4,
-    "postado": 3,
+    "pronto": 6,
+    "postado": 4,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 4,
@@ -793,7 +793,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Atenção, associados: criminosos estão aplicando o golpe do corretor",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "21/09",
+      "date": "25/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1813,10 +1813,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "21/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-equipe-sabe-por-que-est-fazendo-o-que-faz-Executar-tarefas-diferente-de-compreender-o-impact-3d533d8db9d280c8b22ce08744147601"
@@ -1830,7 +1829,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-todo-problema-de-uma-ONG-falta-de-recursos-s-vezes-o-recurso-existe-O-que-falta-estrutur-3d533d8db9d28019b852e64c36472160"
@@ -1977,14 +1976,25 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Luz, câmera… Contabilidade em Ação! ",
-      "status": "postado",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "18/09",
+      "date": "21/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Luz-c-mera-Contabilidade-em-A-o-Nossa-campanha-chegou-ao-fim-e-j-temos-os-vencedores-3de33d8db9d2807d88bee965a4cb1164"
+    },
+    {
+      "title": "22 de setembro. Dia do Contador.  Contador não é quem faz os cálculos da sua empresa, é quem traz soluções.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/22-de-setembro-Dia-do-Contador-Contador-n-o-quem-faz-os-c-lculos-da-sua-empresa-quem-traz-so-3d833d8db9d280999c54ed0ae6185ded"
     },
     {
       "title": "Evento - Reforma Tributária no Cariri (texto nos comentários)",
@@ -2105,7 +2115,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seu-descanso-come-a-na-escolha-certa-3d133d8db9d280eeb070ecdd142586ef"
     },
     {
-      "title": "Seu corpo se movimenta durante a noite. O Hybrid acompanha.",
+      "title": "Feliz Dia do Comerciário! Hoje celebramos quem faz o comércio acontecer todos os dias.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/09",
@@ -2115,7 +2125,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-corpo-se-movimenta-durante-a-noite-O-Hybrid-acompanha-3d133d8db9d280e1b039d031ab0931cc"
+      "notionUrl": "https://app.notion.com/p/Feliz-Dia-do-Comerci-rio-Hoje-celebramos-quem-faz-o-com-rcio-acontecer-todos-os-dias-3d133d8db9d280e1b039d031ab0931cc"
     },
     {
       "title": "Descansar não é parar. É preparar o corpo para continuar.",
@@ -2311,12 +2321,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Setembro amarelo (copy completa nos comentários)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2448,10 +2456,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Transformar-a-sociedade-responsabilidade-de-todas-n-s-Em-letra-menor-21-DE-SETEMBRO-DIA-DA-RES-3d033d8db9d28035833ac74ebfca8c4a"
@@ -2652,7 +2658,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Pane no meio do caminho? Respira. Você pode ter assistência para isso.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/09",
+      "date": "23/09",
       "missing": [
         "Design"
       ],
@@ -2700,7 +2706,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Na Semana Nacional do Trânsito, fica o lembrete: \nDirigir com responsabilidade é prevenção. Ter a proteção certa também. Fale com a Aprosseg e tire suas dúvidas.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
+      "date": "21/09",
       "missing": [
         "Design"
       ],
@@ -2834,7 +2840,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Seu sócio pode tomar decisões pela empresa sozinho? ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
+      "date": "21/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2881,10 +2887,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-pr-ximo-plano-de-sa-de-pode-ser-Amil-Conte-com-a-Conecta-para-encontrar-a-op-o-certa-para-voc-3cd33d8db9d28040854bc6c90e665f76"
@@ -2921,10 +2925,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-tantas-op-es-de-planos-ter-algu-m-para-filtrar-faz-diferen-a-Fale-com-a-Conecta-85-9815-3cd33d8db9d280c39663eb695908ac23"
@@ -3221,12 +3223,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Zíper",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "21/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -3364,19 +3364,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-com-imagens-e-narra-o-3d633d8db9d2805497b1f6f05c5f15bc"
     },
     {
-      "title": "Vídeo com imagens e narração",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "24/09",
-      "missing": [
-        "Vídeo"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 2. A editar",
-      "notionUrl": "https://app.notion.com/p/V-deo-com-imagens-e-narra-o-3d633d8db9d280d095edfe3a37325aac"
-    },
-    {
       "title": "Vídeo dra Ailma",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3495,12 +3482,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Seguro de vida/automóvel ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo horizontal",
       "date": "21/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -3612,13 +3597,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Summit Cariri",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "21/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -3669,20 +3651,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-Dia-do-Cliente-3dc33d8db9d280a1b42cd1ea5ba1ae6a"
-    },
-    {
-      "title": "Dia do Contador",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "22/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Contador-3d833d8db9d280999c54ed0ae6185ded"
     }
   ],
   "Ortobom": [
@@ -3935,7 +3903,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "TBT ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
+      "date": "24/09",
       "missing": [
         "Vídeo",
         "Legenda"
@@ -3958,20 +3926,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/V-deo-3cd33d8db9d280e1835cfd017a1b261b"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "24/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3cd33d8db9d28090820dec98615f135d"
     },
     {
       "title": "Vídeo",
@@ -4335,10 +4289,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "23/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aniversario-Diego-Sarquis-3cd33d8db9d28038b828cf1964675ecc"
@@ -4358,14 +4310,12 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversario - Hilda Onofres",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "21/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aniversario-Hilda-Onofres-3cd33d8db9d2807db0cbd7bbbfa4b2f1"
     },
@@ -4452,6 +4402,40 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ser Ponte": [
+    {
+      "title": "Ajuste apresentação ",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Ajuste-apresenta-o-3e233d8db9d2804ea7eac2c9a3f7da35",
+      "gestora": "Equipe",
+      "date": "22/09"
+    },
+    {
+      "title": "Ajustes no pitch",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
+      "gestora": "Equipe",
+      "date": "04/09"
+    },
+    {
+      "title": "Material para apresentar a possíveis doadores",
+      "priority": "pp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
+      "gestora": "Equipe",
+      "date": "04/09"
+    },
+    {
+      "title": "Convocatória para Brechós Comunitários",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
+    }
+  ],
   "Plannea": [
     {
       "title": "Reajuste nos 2 vídeos Summit Cariri ",
@@ -4471,14 +4455,6 @@ const DEMANDAS_EXTRAS = {
     }
   ],
   "Juntos contra o HPV": [
-    {
-      "title": "Designs para real time",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Designs-para-real-time-3de33d8db9d28098a342fbc9096e72af",
-      "gestora": "Equipe",
-      "date": "17/09"
-    },
     {
       "title": "Loop com logos para o telão",
       "priority": "p",
@@ -4646,32 +4622,6 @@ const DEMANDAS_EXTRAS = {
       "date": "25/09"
     }
   ],
-  "Ser Ponte": [
-    {
-      "title": "Ajustes no pitch",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Material para apresentar a possíveis doadores",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
-    }
-  ],
   "Daniel Maia Advocacia": [
     {
       "title": "Configurações de e-mail",
@@ -4773,7 +4723,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Tramix": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 14
   },
   "Stratto": {
@@ -4781,7 +4731,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Juntos contra o HPV": {
-    "prontas": 25,
+    "prontas": 24,
     "total": 29
   },
   "Ventana": {
@@ -4805,11 +4755,11 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "Planos Seguros": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 17
   },
   "Plannea": {
-    "prontas": 11,
+    "prontas": 13,
     "total": 17
   },
   "Ortobom": {
@@ -4821,7 +4771,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 19
   },
   "Finseg Leal": {
@@ -4842,7 +4792,7 @@ const LEGENDAS_DATA = {
   },
   "Conecta Assessoria": {
     "prontas": 12,
-    "total": 16
+    "total": 15
   },
   "Solar Coworking": {
     "prontas": 13,
@@ -4890,7 +4840,7 @@ const FORMAT_COUNTS = {
     "post": 6,
     "carrossel": 11,
     "foto": 0,
-    "video": 12,
+    "video": 11,
     "story": 3
   },
   "Ventana": {
@@ -4936,10 +4886,10 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Plannea": {
-    "post": 8,
+    "post": 9,
     "carrossel": 2,
     "foto": 0,
-    "video": 7,
+    "video": 6,
     "story": 1
   },
   "Ortobom": {
@@ -4995,7 +4945,7 @@ const FORMAT_COUNTS = {
     "post": 10,
     "carrossel": 1,
     "foto": 0,
-    "video": 5,
+    "video": 4,
     "story": 7
   },
   "Solar Coworking": {
