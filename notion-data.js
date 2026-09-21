@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/09/2026, 17:04:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/09/2026, 20:26:44 **/
 
-const LAST_UPDATE = '21/09/2026, 17:04:23';
+const LAST_UPDATE = '21/09/2026, 20:26:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 2,
     "agendado": 5,
     "agendado_coord": 0,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 5,
     "agendado": 2,
     "agendado_coord": 0,
@@ -1132,10 +1132,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-n-meros-regras-e-decis-es-existe-um-profissional-essencial-o-contador-DIA-DO-CONTADOR-3cd33d8db9d2803580ffd2940d407322"
@@ -1614,10 +1612,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-cl-usula-pode-mudar-o-rumo-de-um-contrato-3d733d8db9d28064bdb4cf81ba62abbe"
