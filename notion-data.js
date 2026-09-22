@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/09/2026, 17:22:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/09/2026, 20:06:38 **/
 
-const LAST_UPDATE = '22/09/2026, 17:22:27';
+const LAST_UPDATE = '22/09/2026, 20:06:38';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -82,8 +82,8 @@ const FEED_DATA = {
     "pronto": 9,
     "postado": 9,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 5
+    "agendado_coord": 3,
+    "a_agendar": 3
   },
   "Tramix": {
     "total": 7,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 6,
     "agendado": 2,
     "agendado_coord": 0,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 12,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 3,
     "agendado": 5,
     "agendado_coord": 0,
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 10,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 1,
     "agendado": 5,
     "agendado_coord": 1,
@@ -501,7 +501,7 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -839,13 +839,13 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Chamam as mães solos de ",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "24/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Chamam-as-m-es-solos-de-m-es-guerreiras-mas-onde-est-o-as-pol-ticas-para-que-elas-n-o-precisem-en-3de33d8db9d280bcbb79c9c68120a8c8"
@@ -913,13 +913,13 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que significa viver no limite?",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "25/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-significa-viver-no-limite-3bf33d8db9d280209394dd387d4684e0"
@@ -1682,10 +1682,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "23/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-rela-o-de-consumo-envolve-direitos-e-responsabilidades-para-os-dois-lados-3d733d8db9d280428fc3ffb3102508c8"
@@ -2136,10 +2134,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "23/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-tudo-o-que-pode-encontrar-na-ItalaP-3d633d8db9d28059a0c8fcc33d0c128d"
@@ -2465,10 +2461,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "23/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-vida-David-Hoje-a-celebra-o-por-voc-3e333d8db9d280d6982fd3f3513535c5"
@@ -4023,10 +4017,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "23/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d28013b7a9cf7d1ee72c5e"
@@ -4325,10 +4317,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Ajuste no mídia kit ",
+      "title": "9ª Ação | Ajuste no mídia kit",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Ajuste-no-m-dia-kit-3e333d8db9d280a18988c624869d344c",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/9-A-o-Ajuste-no-m-dia-kit-3e333d8db9d280a18988c624869d344c",
       "gestora": "Equipe",
       "date": "23/09"
     },
