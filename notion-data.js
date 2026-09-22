@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/09/2026, 14:28:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/09/2026, 17:22:27 **/
 
-const LAST_UPDATE = '22/09/2026, 14:28:12';
+const LAST_UPDATE = '22/09/2026, 17:22:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,18 +72,18 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 17,
     "pronto": 14,
-    "postado": 10,
+    "postado": 12,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 5
   },
   "Ser Ponte": {
     "total": 15,
     "pronto": 9,
-    "postado": 8,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Tramix": {
     "total": 7,
@@ -150,20 +150,20 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Planos Seguros": {
-    "total": 7,
+    "total": 6,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Plannea": {
     "total": 11,
     "pronto": 11,
-    "postado": 7,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 3,
@@ -339,10 +339,10 @@ const VIDEO_DATA = {
   "Plannea": {
     "total": 6,
     "pronto": 5,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 4,
@@ -438,10 +438,10 @@ const STORIES_DATA = {
   "Ser Ponte": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Tramix": {
     "total": 0,
@@ -516,9 +516,9 @@ const STORIES_DATA = {
     "a_agendar": 1
   },
   "Plannea": {
-    "total": 1,
-    "pronto": 1,
-    "postado": 1,
+    "total": 2,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -678,12 +678,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Entre Cantos e Contos Fortaleza",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "22/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -715,12 +713,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Entre Cantos e Contos Cariri Setembro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "21/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -856,12 +852,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "E se essa peça for a sua escolha na Auê? 👀",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -912,7 +906,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🎠 Carrossel",
       "date": "22/09",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-aumentar-a-renda-de-uma-fam-lia-pode-movimentar-todo-um-territ-rio-O-dinheiro-recebido-por--3bf33d8db9d28061a2bac383fd7a1d93"
@@ -1892,19 +1886,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Independ-ncia-tamb-m-ter-tranquilidade-para-seguir-o-pr-prio-3ce33d8db9d280368f95eca695c45509"
     },
     {
-      "title": "Você conhece todos os benefícios do seu seguro residencial?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "22/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-conhece-todos-os-benef-cios-do-seu-seguro-residencial-3ae33d8db9d280ffbf09e70854a9f524"
-    },
-    {
       "title": "Subseguro: um problema que muitas empresas descobrem tarde demais.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1958,7 +1939,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "22 de setembro. Dia do Contador.  Contador não é quem faz os cálculos da sua empresa, é quem traz soluções.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "22/09",
       "missing": [],
@@ -3568,12 +3549,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Perguntas para contadores ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "22/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -3928,7 +3907,7 @@ const LINHA_STORIES_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Um pouco do que vai com a gente para a Auê 👀",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "18/09",
       "missing": [],
@@ -4093,6 +4072,17 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Plannea": [
+    {
+      "title": "Luz, câmera… Contabilidade em Ação! ",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "22/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Luz-c-mera-Contabilidade-em-A-o-Nossa-campanha-chegou-ao-fim-e-esses-v-deos-que-voc-assistiu-fo-32c33d8db9d28212941f0136700175b5"
+    },
     {
       "title": "Stories evento Cariri ",
       "status": "postado",
@@ -4395,7 +4385,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Videos com imagens e narração",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
       "gestora": "Equipe",
       "date": "21/09"
@@ -4405,7 +4395,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Video da campanha interna ",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Video-da-campanha-interna-3e233d8db9d2800fb038c7a4a9947e51",
       "gestora": "Equipe",
       "date": "23/09"
@@ -4636,6 +4626,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Univendas": "marcada",
   "APROSSEG": "marcada",
   "Plannea": "confirmada",
   "Conecta Assessoria": "marcada",
@@ -4654,11 +4645,11 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "AAFEC": {
-    "prontas": 14,
+    "prontas": 16,
     "total": 20
   },
   "Ser Ponte": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 15
   },
   "Tramix": {
@@ -4694,11 +4685,11 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Planos Seguros": {
-    "prontas": 16,
-    "total": 17
+    "prontas": 15,
+    "total": 16
   },
   "Plannea": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 17
   },
   "Ortobom": {
@@ -4818,7 +4809,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Planos Seguros": {
-    "post": 7,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
     "video": 10,
@@ -4829,7 +4820,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 6,
-    "story": 1
+    "story": 2
   },
   "Ortobom": {
     "post": 3,
@@ -4934,7 +4925,7 @@ const AGENDA_COUNTS = {
   },
   "Univendas": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Terrartesã": {
