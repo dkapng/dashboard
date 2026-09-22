@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/09/2026, 04:07:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/09/2026, 09:44:02 **/
 
-const LAST_UPDATE = '22/09/2026, 04:07:38';
+const LAST_UPDATE = '22/09/2026, 09:44:02';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4339,7 +4339,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Videos com imagens e narração",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
       "gestora": "Equipe",
       "date": "21/09"
@@ -4440,14 +4440,6 @@ const DEMANDAS_EXTRAS = {
     }
   ],
   "Plannea": [
-    {
-      "title": "Reajuste nos 2 vídeos Summit Cariri ",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Reajuste-nos-2-v-deos-Summit-Cariri-3df33d8db9d28026959bfe2863d5b320",
-      "gestora": "Equipe",
-      "date": "21/09"
-    },
     {
       "title": "Solicito arte de boas vindas da Estefhane Barbosa para a vaga de Analista Fiscal. Hobby:  Séries Investigativas e Ler. Graduada em Ciências Contábeis.",
       "priority": "pp",
