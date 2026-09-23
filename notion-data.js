@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/09/2026, 09:50:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/09/2026, 14:37:26 **/
 
-const LAST_UPDATE = '23/09/2026, 09:50:31';
+const LAST_UPDATE = '23/09/2026, 14:37:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,10 +79,10 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 15,
-    "pronto": 9,
-    "postado": 9,
+    "pronto": 10,
+    "postado": 10,
     "agendado": 0,
-    "agendado_coord": 3,
+    "agendado_coord": 2,
     "a_agendar": 3
   },
   "Tramix": {
@@ -104,10 +104,10 @@ const FEED_DATA = {
   "Juntos contra o HPV": {
     "total": 17,
     "pronto": 15,
-    "postado": 6,
+    "postado": 7,
     "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ventana": {
     "total": 0,
@@ -184,18 +184,18 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 19,
     "pronto": 14,
-    "postado": 12,
+    "postado": 13,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Finseg Leal": {
     "total": 10,
     "pronto": 10,
-    "postado": 1,
+    "postado": 2,
     "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -217,25 +217,25 @@ const FEED_DATA = {
     "total": 7,
     "pronto": 6,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 11,
+    "total": 12,
     "pronto": 8,
     "postado": 1,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Solar Coworking": {
-    "total": 11,
+    "total": 9,
     "pronto": 8,
     "postado": 2,
     "agendado": 3,
     "agendado_coord": 3,
-    "a_agendar": 3
+    "a_agendar": 1
   }
 };
 
@@ -267,10 +267,10 @@ const VIDEO_DATA = {
   "Tramix": {
     "total": 7,
     "pronto": 7,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Stratto": {
     "total": 2,
@@ -313,7 +313,7 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 3,
+    "total": 2,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
@@ -338,11 +338,11 @@ const VIDEO_DATA = {
   },
   "Plannea": {
     "total": 6,
-    "pronto": 5,
-    "postado": 5,
+    "pronto": 6,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 4,
@@ -401,20 +401,20 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 4,
+    "total": 3,
     "pronto": 2,
+    "postado": 0,
+    "agendado": 2,
+    "agendado_coord": 1,
+    "a_agendar": 0
+  },
+  "Solar Coworking": {
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 2
-  },
-  "Solar Coworking": {
-    "total": 1,
-    "pronto": 1,
-    "postado": 0,
-    "agendado": 2,
-    "agendado_coord": 0,
-    "a_agendar": 1
   }
 };
 
@@ -582,10 +582,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 7,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Solar Coworking": {
@@ -972,13 +972,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Renda básica significa apenas dinheiro? À primeira vista pode parecer que sim, mas o impacto de uma renda vai muito além do valor recebido.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "23/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Renda-b-sica-significa-apenas-dinheiro-primeira-vista-pode-parecer-que-sim-mas-o-impacto-de-uma--3bf33d8db9d2801889dfd4a03884a11a"
@@ -1252,7 +1250,7 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "SAIU NA MÍDIA - O I Simpósio do Movimento Juntos Contra o HPV ganhou espaço na imprensa. E a conversa sobre prevenção ao HPV foi ainda mais longe.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "22/09",
       "missing": [],
@@ -2344,7 +2342,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Das 22 cadeiras do Ceará na Câmara Federal, quantas são ocupadas por mulheres?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "23/09",
       "missing": [],
@@ -2456,7 +2454,7 @@ const LINHA_FEED_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Feliz vida, David! Hoje a celebração é por você.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "23/09",
       "missing": [],
@@ -2469,7 +2467,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Seu carro vai entrar na campanha. E o seu seguro?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/09",
+      "date": "24/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2491,7 +2489,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você pediu uma cotação. Mas sabe o que acontece antes dela chegar?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "24/09",
+      "date": "25/09",
       "missing": [
         "Legenda"
       ],
@@ -2738,27 +2736,23 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Recebeu uma intimação? Não ignore.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "25/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Recebeu-uma-intima-o-N-o-ignore-3dc33d8db9d2807eb0f2cd64e289c776"
     },
     {
       "title": "Seu funcionário cometeu um erro. Isso é suficiente para uma demissão por justa causa?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "22/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "23/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-funcion-rio-cometeu-um-erro-Isso-suficiente-para-uma-demiss-o-por-justa-causa-3dc33d8db9d2802794efd0c8151c222d"
     },
@@ -2809,6 +2803,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Conecta Assessoria": [
     {
+      "title": "Você pode estar pagando por uma proteção que não acompanha mais a sua vida.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-pode-estar-pagando-por-uma-prote-o-que-n-o-acompanha-mais-a-sua-vida-3e433d8db9d28018802dcd2dfd0b2f3b"
+    },
+    {
       "title": "Seu próximo plano de saúde pode ser Amil. ",
       "status": "agendado",
       "formato": "🖼️ Post",
@@ -2823,7 +2830,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Plano de saúde, seguro ou benefício empresarial: encontre a opção certa para o seu momento. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/09",
+      "date": "30/09",
       "missing": [
         "Design"
       ],
@@ -2838,11 +2845,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "25/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Est-pensando-em-contratar-um-plano-N-o-feche-antes-de-falar-com-a-Conecta-3cd33d8db9d28034962ce0426e14c226"
     },
@@ -2964,19 +2970,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-da-Secret-ria-3d433d8db9d280a48ddbfbb2d2db45be"
     },
     {
-      "title": "Transformar números em decisões também é fazer negócios acontecerem.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "22/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Transformar-n-meros-em-decis-es-tamb-m-fazer-neg-cios-acontecerem-3d433d8db9d28096bb3bf3d78990259c"
-    },
-    {
       "title": "Dia do Administrador",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -2997,19 +2990,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-Solar-tem-endere-o-Mas-s-o-os-nossos-clientes-que-fazem-dela-um-lugar-de-neg-cios-15-de-setembro-3d433d8db9d280b4b4f5cab23d017be2"
-    },
-    {
-      "title": "Networking não acontece só em eventos. Ele acontece na rotina.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Networking-n-o-acontece-s-em-eventos-Ele-acontece-na-rotina-3d433d8db9d280599c01e0ca964b45d4"
     },
     {
       "title": "O café é só uma desculpa para a gente se encontrar.",
@@ -3136,12 +3116,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Relato",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "23/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -3372,7 +3350,7 @@ const LINHA_VIDEO_ITEMS = {
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/V-deo-3d733d8db9d28003b9d9d4ab0ec6f515"
     },
     {
@@ -3505,13 +3483,10 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [
     {
       "title": "Summit Cariri 2",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "23/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -3752,7 +3727,7 @@ const LINHA_VIDEO_ITEMS = {
       "title": "Seu seguro aguenta",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "23/09",
+      "date": "26/09",
       "missing": [
         "Legenda"
       ],
@@ -3805,31 +3780,16 @@ const LINHA_VIDEO_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "TBT ",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
       "date": "24/09",
       "missing": [
-        "Vídeo",
-        "Legenda"
+        "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 2. A editar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 2. Aprovação (cliente)",
       "notionUrl": "https://app.notion.com/p/TBT-3dd33d8db9d280548c49e9f42ddb24e5"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3cd33d8db9d280e1835cfd017a1b261b"
     },
     {
       "title": "Vídeo",
@@ -3857,6 +3817,32 @@ const LINHA_VIDEO_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/09",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/V-deo-3e433d8db9d2801db0d6e2d3ddd0a4a8"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "25/09",
+      "missing": [
+        "Vídeo"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/V-deo-3e433d8db9d28020859fd8b6c5c67bee"
+    },
+    {
+      "title": "Vídeo",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "23/09",
@@ -3876,17 +3862,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Video-3d433d8db9d280f18077fddb3f1b68da"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-3d433d8db9d2809885b0fc718e58e873"
     }
   ]
 };
@@ -4197,12 +4172,12 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversario - Diego Sarquis",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "23/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Aniversario-Diego-Sarquis-3cd33d8db9d28038b828cf1964675ecc"
     },
@@ -4311,6 +4286,56 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "ItalaP": [
+    {
+      "title": "Comunicado ",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Comunicado-3e433d8db9d280229840e30b48617e0c",
+      "gestora": "Equipe",
+      "date": "23/09"
+    },
+    {
+      "title": "Adicionar/atualizar as localizações no Google",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "9ª Ação | Ajuste no mídia kit",
@@ -4487,48 +4512,6 @@ const DEMANDAS_EXTRAS = {
       "date": "18/09"
     }
   ],
-  "ItalaP": [
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
-      "gestora": "Equipe",
-      "date": "14/09"
-    },
-    {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
-      "gestora": "Equipe",
-      "date": "09/09"
-    },
-    {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
-      "gestora": "Equipe",
-      "date": "09/09"
-    }
-  ],
   "AAFEC": [
     {
       "title": "Agenda de outubro de 2026",
@@ -4614,7 +4597,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
-  "Univendas": "marcada",
+  "Univendas": "confirmada",
   "APROSSEG": "marcada",
   "Plannea": "confirmada",
   "Conecta Assessoria": "marcada",
@@ -4641,7 +4624,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Tramix": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 14
   },
   "Stratto": {
@@ -4677,7 +4660,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Plannea": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 17
   },
   "Ortobom": {
@@ -4694,7 +4677,7 @@ const LEGENDAS_DATA = {
   },
   "Finseg Leal": {
     "prontas": 11,
-    "total": 16
+    "total": 15
   },
   "Di Gregório Buffet": {
     "prontas": 0,
@@ -4705,16 +4688,16 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Daniel Maia Advocacia": {
-    "prontas": 4,
+    "prontas": 6,
     "total": 7
   },
   "Conecta Assessoria": {
-    "prontas": 12,
+    "prontas": 15,
     "total": 15
   },
   "Solar Coworking": {
-    "prontas": 13,
-    "total": 14
+    "prontas": 12,
+    "total": 13
   }
 };
 
@@ -4860,17 +4843,17 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Conecta Assessoria": {
-    "post": 10,
+    "post": 11,
     "carrossel": 1,
     "foto": 0,
-    "video": 4,
+    "video": 3,
     "story": 7
   },
   "Solar Coworking": {
-    "post": 11,
+    "post": 9,
     "carrossel": 0,
     "foto": 0,
-    "video": 3,
+    "video": 4,
     "story": 4
   }
 };
@@ -4982,7 +4965,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Solar Coworking": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   }
