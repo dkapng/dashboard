@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/09/2026, 04:05:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/09/2026, 09:50:31 **/
 
-const LAST_UPDATE = '23/09/2026, 04:05:44';
+const LAST_UPDATE = '23/09/2026, 09:50:31';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -412,9 +412,9 @@ const VIDEO_DATA = {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   }
 };
 
@@ -3857,12 +3857,10 @@ const LINHA_VIDEO_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "23/09",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
