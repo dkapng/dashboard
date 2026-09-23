@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 22/09/2026, 20:06:38 **/
+/** AUTO-GENERATED DATA FROM NOTION - 22/09/2026, 22:36:22 **/
 
-const LAST_UPDATE = '22/09/2026, 20:06:38';
+const LAST_UPDATE = '22/09/2026, 22:36:22';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 12,
     "agendado": 0,
     "agendado_coord": 1,
@@ -2347,10 +2347,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "23/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Das-22-cadeiras-do-Cear-na-C-mara-Federal-quantas-s-o-ocupadas-por-mulheres-3d033d8db9d280308407fff4e6adc132"
