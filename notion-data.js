@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/09/2026, 14:37:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/09/2026, 17:55:17 **/
 
-const LAST_UPDATE = '23/09/2026, 14:37:26';
+const LAST_UPDATE = '23/09/2026, 17:55:17';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 10,
-    "postado": 6,
-    "agendado": 2,
+    "postado": 7,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 6,
@@ -176,10 +176,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 12,
     "pronto": 9,
-    "postado": 3,
+    "postado": 4,
     "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
@@ -318,7 +318,7 @@ const VIDEO_DATA = {
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 0,
@@ -492,12 +492,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 3,
+    "total": 2,
     "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 3,
@@ -525,11 +525,11 @@ const STORIES_DATA = {
   },
   "Ortobom": {
     "total": 4,
-    "pronto": 3,
-    "postado": 2,
+    "pronto": 4,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 3,
@@ -1677,7 +1677,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A relação de consumo envolve direitos e responsabilidades para os dois lados.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "23/09",
       "missing": [],
@@ -1688,7 +1688,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que a sua empresa faz quando percebe que um funcionário não está bem?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "18/09",
       "missing": [],
@@ -2129,7 +2129,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe tudo o que pode encontrar na ItalaP?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "23/09",
       "missing": [],
@@ -3341,20 +3341,6 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "22/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/V-deo-3d733d8db9d28003b9d9d4ab0ec6f515"
-    },
-    {
-      "title": "Vídeo",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "01/09",
@@ -3779,17 +3765,18 @@ const LINHA_VIDEO_ITEMS = {
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
-      "title": "TBT ",
+      "title": "Conecta",
       "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
       "date": "24/09",
       "missing": [
-        "Vídeo"
+        "Vídeo",
+        "Legenda"
       ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
+      "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 2. Aprovação (cliente)",
-      "notionUrl": "https://app.notion.com/p/TBT-3dd33d8db9d280548c49e9f42ddb24e5"
+      "notionUrl": "https://app.notion.com/p/Conecta-3e433d8db9d2808ab6a1cac6c69e02dc"
     },
     {
       "title": "Vídeo",
@@ -3947,19 +3934,6 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "24/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3d733d8db9d28072aad0c46e0bc71224"
-    },
-    {
       "title": "Você conhece os seus direitos como consumidor?",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4094,12 +4068,10 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Repost storys ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "22/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -4649,7 +4621,7 @@ const LEGENDAS_DATA = {
   },
   "RR Advocacia": {
     "prontas": 12,
-    "total": 16
+    "total": 15
   },
   "Rede Pangeia": {
     "prontas": 6,
@@ -4692,7 +4664,7 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Conecta Assessoria": {
-    "prontas": 15,
+    "prontas": 14,
     "total": 15
   },
   "Solar Coworking": {
@@ -4769,8 +4741,8 @@ const FORMAT_COUNTS = {
     "post": 13,
     "carrossel": 0,
     "foto": 0,
-    "video": 3,
-    "story": 3
+    "video": 2,
+    "story": 2
   },
   "Rede Pangeia": {
     "post": 5,
