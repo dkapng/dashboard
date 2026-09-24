@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 17:59:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 20:48:08 **/
 
-const LAST_UPDATE = '24/09/2026, 17:59:30';
+const LAST_UPDATE = '24/09/2026, 20:48:08';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -283,7 +283,7 @@ const VIDEO_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 11,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
@@ -616,12 +616,10 @@ const LINHA_FEED_ITEMS = {
       "title": "Como visitar uma vida que nunca foi uma linha reta?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "24/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-visitar-uma-vida-que-nunca-foi-uma-linha-reta-3c733d8db9d28022b6cfeec188c4011c"
     },
@@ -2194,7 +2192,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/TBT-Liberta-na-FIEC-em-2022-3de33d8db9d28098bad3f21daf7fbf9b"
     },
     {
-      "title": "Evento ",
+      "title": "Evento",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "24/09",
@@ -3216,12 +3214,10 @@ const LINHA_VIDEO_ITEMS = {
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "30/09",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 2. A editar",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-com-imagens-e-narra-o-3d633d8db9d2805497b1f6f05c5f15bc"
     },
     {
@@ -4213,7 +4209,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Solicito arte de boas vindas da Kayke Dantas para a vaga de Assistente de DP. Hobby: Treinar e ler. Graduando em Ciências Contábeis.",
       "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Kayke-Dantas-para-a-vaga-de-Assistente-de-DP-Hobby-Treinar-e-ler--3e533d8db9d2807d8e0aeb5ed66214e4",
       "gestora": "Equipe",
       "date": "24/09"
@@ -4327,14 +4323,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Narra-es-para-v-deos-com-IA-3e233d8db9d280eaa761dd8b03015c08",
       "gestora": "Equipe",
       "date": "21/09"
-    },
-    {
-      "title": "Videos com imagens e narração",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Videos-com-imagens-e-narra-o-3d633d8db9d280678004e99da9f8d13b",
-      "gestora": "Equipe",
-      "date": "21/09"
     }
   ],
   "Univendas": [
@@ -4353,24 +4341,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Demanda-extra-3dc33d8db9d28016acebed8a145a623f",
       "gestora": "Equipe",
       "date": "18/09"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Videos para o trafego",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Videos-para-o-trafego-3dd33d8db9d28068b021cefe23f19ac3",
-      "gestora": "Equipe",
-      "date": "23/09"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Di Gregório Buffet": [
@@ -4413,7 +4383,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
       "gestora": "Equipe",
       "date": "18/09"
@@ -4524,6 +4494,16 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "08/05"
     }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
   ]
 };
 
@@ -4544,7 +4524,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 3
   },
   "AAFEC": {
