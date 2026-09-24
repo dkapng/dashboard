@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 04:00:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 09:48:00 **/
 
-const LAST_UPDATE = '24/09/2026, 04:00:52';
+const LAST_UPDATE = '24/09/2026, 09:48:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4258,54 +4258,46 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "ItalaP": [
+  "Ser Ponte": [
     {
-      "title": "Comunicado ",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Comunicado-3e433d8db9d280229840e30b48617e0c",
-      "gestora": "Equipe",
-      "date": "23/09"
-    },
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
-      "priority": "p",
+      "title": "Ajustes no flyer informativo",
+      "priority": "pppp",
       "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
+      "notionUrl": "https://app.notion.com/p/Ajustes-no-flyer-informativo-3e533d8db9d280c689dac3b1ff2055ec",
       "gestora": "Equipe",
-      "date": "18/09"
+      "date": "22/09"
     },
     {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "title": "Ajustes no pitch",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3e233d8db9d2804ea7eac2c9a3f7da35",
       "gestora": "Equipe",
-      "date": "14/09"
+      "date": "22/09"
     },
     {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "title": "Ajustes no pitch",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
       "gestora": "Equipe",
-      "date": "09/09"
+      "date": "04/09"
     },
     {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "title": "Material para apresentar a possíveis doadores",
+      "priority": "pp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
       "gestora": "Equipe",
-      "date": "09/09"
+      "date": "04/09"
+    },
+    {
+      "title": "Convocatória para Brechós Comunitários",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
+      "gestora": "Equipe",
+      "date": "12/08"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4394,40 +4386,6 @@ const DEMANDAS_EXTRAS = {
       "date": "18/09"
     }
   ],
-  "Ser Ponte": [
-    {
-      "title": "Ajuste apresentação ",
-      "priority": "pppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Ajuste-apresenta-o-3e233d8db9d2804ea7eac2c9a3f7da35",
-      "gestora": "Equipe",
-      "date": "22/09"
-    },
-    {
-      "title": "Ajustes no pitch",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Material para apresentar a possíveis doadores",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
-    }
-  ],
   "Plannea": [
     {
       "title": "Solicito arte de boas vindas da Estefhane Barbosa para a vaga de Analista Fiscal. Hobby:  Séries Investigativas e Ler. Graduada em Ciências Contábeis.",
@@ -4482,6 +4440,48 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Crach-de-funcion-rios-3b233d8db9d280bc9181fe0100e80365",
       "gestora": "Equipe",
       "date": "18/09"
+    }
+  ],
+  "ItalaP": [
+    {
+      "title": "Adicionar/atualizar as localizações no Google",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
     }
   ],
   "AAFEC": [
