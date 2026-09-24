@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 14:40:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 17:59:30 **/
 
-const LAST_UPDATE = '24/09/2026, 14:40:23';
+const LAST_UPDATE = '24/09/2026, 17:59:30';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -102,12 +102,12 @@ const FEED_DATA = {
     "a_agendar": 4
   },
   "Juntos contra o HPV": {
-    "total": 17,
-    "pronto": 15,
-    "postado": 7,
+    "total": 18,
+    "pronto": 16,
+    "postado": 8,
     "agendado": 8,
-    "agendado_coord": 1,
-    "a_agendar": 1
+    "agendado_coord": 0,
+    "a_agendar": 2
   },
   "Ventana": {
     "total": 0,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 7,
     "agendado": 3,
     "agendado_coord": 0,
@@ -166,20 +166,20 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Ortobom": {
-    "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "total": 2,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
   },
   "ItalaP": {
     "total": 12,
-    "pronto": 10,
-    "postado": 4,
-    "agendado": 5,
+    "pronto": 11,
+    "postado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
@@ -190,9 +190,9 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Finseg Leal": {
-    "total": 10,
-    "pronto": 10,
-    "postado": 2,
+    "total": 11,
+    "pronto": 11,
+    "postado": 3,
     "agendado": 7,
     "agendado_coord": 1,
     "a_agendar": 0
@@ -403,10 +403,10 @@ const VIDEO_DATA = {
   },
   "Conecta Assessoria": {
     "total": 3,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
-    "agendado": 2,
-    "agendado_coord": 1,
+    "agendado": 3,
+    "agendado_coord": 0,
     "a_agendar": 0
   },
   "Solar Coworking": {
@@ -479,10 +479,10 @@ const STORIES_DATA = {
   "Univendas": {
     "total": 2,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Terrartesã": {
     "total": 0,
@@ -495,10 +495,10 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 2,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Rede Pangeia": {
     "total": 3,
@@ -592,10 +592,10 @@ const STORIES_DATA = {
   "Solar Coworking": {
     "total": 4,
     "pronto": 4,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   }
 };
 
@@ -1261,6 +1261,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/SAIU-NA-M-DIA-O-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-ganhou-espa-o-na-imprensa-E-a-convers-3e233d8db9d28039ab67f1054f87ffbe"
     },
     {
+      "title": "#Tbt do Simpósio",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "24/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tbt-do-Simp-sio-3e233d8db9d2802c86a6d67ed3dce234"
+    },
+    {
       "title": "Mesa redonda III - Redes de atenção à saúde e inovação tecnológica para ampliar a cobertura da vacina HPV e o rastreamento do câncer do colo do útero",
       "status": "agendado",
       "formato": "🎠 Carrossel",
@@ -1353,14 +1364,14 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Setembro também é mês de falar sobre tumores ginecológicos.",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "24/09",
+      "date": "26/09",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Setembro-tamb-m-m-s-de-falar-sobre-tumores-ginecol-gicos-3d633d8db9d28093b5d0eb5449adc953"
     },
@@ -1638,14 +1649,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-uma-empresa-quebra-um-contrato-3d733d8db9d280be8d8edbce2b3aa638"
     },
     {
-      "title": "Bateu o carro. E agora: quem paga a conta? ",
+      "title": "Bateu o carro. E agora: quem paga a conta?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "25/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Bateu-o-carro-E-agora-quem-paga-a-conta-3d733d8db9d280e0b799d43e2fb05bc3"
@@ -2012,6 +2021,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
+      "title": "A roleta é sua!",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "24/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-roleta-sua-3e533d8db9d2805bbc79e131d092f29a"
+    },
+    {
       "title": "Seu descanso começa na escolha certa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2039,20 +2059,18 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que seus exames de sangue podem revelar sobre a sua saúde?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-seus-exames-de-sangue-podem-revelar-sobre-a-sua-sa-de-3d633d8db9d280b0a0dfc84ccc564e3c"
     },
     {
       "title": "Qual médico procurar quando você não sabe por onde começar?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "24/09",
       "missing": [],
@@ -2386,6 +2404,17 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Finseg Leal": [
+    {
+      "title": "Design para o tráfego",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "24/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Design-para-o-tr-fego-3e533d8db9d280eb80e7d58bc13a47c1"
+    },
     {
       "title": "Feliz vida, David! Hoje a celebração é por você.",
       "status": "postado",
@@ -3691,16 +3720,13 @@ const LINHA_VIDEO_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Conecta",
-      "status": "agendado_coord",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "24/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Conecta-3e433d8db9d2808ab6a1cac6c69e02dc"
     },
     {
@@ -3846,7 +3872,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story repost",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "24/09",
       "missing": [],
@@ -3860,7 +3886,7 @@ const LINHA_STORIES_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Você conhece os seus direitos como consumidor?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "17/09",
       "missing": [],
@@ -4159,7 +4185,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Story repost ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "24/09",
       "missing": [],
@@ -4183,16 +4209,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Ortobom": [
-    {
-      "title": "Post roleta ",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Post-roleta-3e533d8db9d28057bc23d3c4cb45f998",
-      "gestora": "Equipe",
-      "date": "24/09"
-    }
-  ],
   "Plannea": [
     {
       "title": "Solicito arte de boas vindas da Kayke Dantas para a vaga de Assistente de DP. Hobby: Treinar e ler. Graduando em Ciências Contábeis.",
@@ -4548,8 +4564,8 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Juntos contra o HPV": {
-    "prontas": 27,
-    "total": 28
+    "prontas": 28,
+    "total": 29
   },
   "Ventana": {
     "prontas": 0,
@@ -4580,8 +4596,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Ortobom": {
-    "prontas": 10,
-    "total": 10
+    "prontas": 11,
+    "total": 11
   },
   "ItalaP": {
     "prontas": 16,
@@ -4592,7 +4608,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Finseg Leal": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 16
   },
   "Di Gregório Buffet": {
@@ -4608,7 +4624,7 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Conecta Assessoria": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 15
   },
   "Solar Coworking": {
@@ -4654,7 +4670,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 5,
+    "post": 6,
     "carrossel": 12,
     "foto": 0,
     "video": 11,
@@ -4710,7 +4726,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Ortobom": {
-    "post": 1,
+    "post": 2,
     "carrossel": 0,
     "foto": 0,
     "video": 9,
@@ -4731,7 +4747,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 9,
+    "post": 10,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
