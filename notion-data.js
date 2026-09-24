@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 09:48:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 14:40:23 **/
 
-const LAST_UPDATE = '24/09/2026, 09:48:00';
+const LAST_UPDATE = '24/09/2026, 14:40:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -97,9 +97,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 9,
     "postado": 3,
-    "agendado": 5,
+    "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 17,
@@ -118,12 +118,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 15,
+    "total": 13,
     "pronto": 9,
     "postado": 1,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Terrartesã": {
     "total": 0,
@@ -142,12 +142,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Rede Pangeia": {
-    "total": 6,
+    "total": 5,
     "pronto": 5,
-    "postado": 2,
+    "postado": 3,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 6,
@@ -166,16 +166,16 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Ortobom": {
-    "total": 3,
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "ItalaP": {
     "total": 12,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 4,
     "agendado": 5,
     "agendado_coord": 0,
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "total": 10,
     "pronto": 10,
     "postado": 2,
-    "agendado": 5,
+    "agendado": 7,
     "agendado_coord": 1,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -207,11 +207,12 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 13,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 3,
     "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 3,
+    "st-paused": null
   },
   "Daniel Maia Advocacia": {
     "total": 7,
@@ -372,9 +373,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -386,11 +387,11 @@ const VIDEO_DATA = {
   },
   "APROSSEG": {
     "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -1180,9 +1181,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O empresário que precisa aprovar tudo acaba se tornando o limite da própria empresa.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "23/09",
+      "date": "24/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1354,7 +1355,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Setembro também é mês de falar sobre tumores ginecológicos.",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "23/09",
+      "date": "24/09",
       "missing": [
         "Design"
       ],
@@ -1549,32 +1550,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Investir-em-sa-de-pode-transformar-a-experi-ncia-de-quem-trabalha-na-sua-empresa-3cd33d8db9d280c585c3f8deb7904920"
-    },
-    {
-      "title": "O melhor momento para escolher seu plano de saúde é antes de precisar dele.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-melhor-momento-para-escolher-seu-plano-de-sa-de-antes-de-precisar-dele-3cd33d8db9d2800e8417c4bf427d7c25"
-    },
-    {
-      "title": "A qualidade de um plano também está na estrutura que estará ao seu lado quando você precisar.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-qualidade-de-um-plano-tamb-m-est-na-estrutura-que-estar-ao-seu-lado-quando-voc-precisar-3cd33d8db9d280558f2cc4d81421a43d"
     },
     {
       "title": "A NR-1 reforça o que boas empresas já sabem: pessoas precisam estar no centro.",
@@ -1777,23 +1752,10 @@ const LINHA_FEED_ITEMS = {
   ],
   "Rede Pangeia": [
     {
-      "title": "O futuro da sua organização não deveria depender da urgência.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-futuro-da-sua-organiza-o-n-o-deveria-depender-da-urg-ncia-Planejar-criar-espa-o-para-escolher--3d533d8db9d280e3ac09f8e94dd8df6a"
-    },
-    {
       "title": "Sua equipe sabe por que está fazendo o que faz?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "22/09",
+      "date": "24/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1804,7 +1766,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Nem todo problema de uma ONG é falta de recursos. Às vezes, o recurso existe. O que falta é estrutura para acessá-lo, organizá-lo ou transformá-lo em resultado.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "25/09",
+      "date": "28/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2061,32 +2023,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-descanso-come-a-na-escolha-certa-3d133d8db9d280eeb070ecdd142586ef"
-    },
-    {
-      "title": "Feliz Dia do Comerciário! Hoje celebramos quem faz o comércio acontecer todos os dias.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feliz-Dia-do-Comerci-rio-Hoje-celebramos-quem-faz-o-com-rcio-acontecer-todos-os-dias-3d133d8db9d280e1b039d031ab0931cc"
-    },
-    {
-      "title": "Descansar não é parar. É preparar o corpo para continuar.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Descansar-n-o-parar-preparar-o-corpo-para-continuar-3d133d8db9d2806bbcfff55888cfe1b0"
     }
   ],
   "ItalaP": [
@@ -2109,7 +2045,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-seus-exames-de-sangue-podem-revelar-sobre-a-sua-sa-de-3d633d8db9d280b0a0dfc84ccc564e3c"
@@ -2119,10 +2055,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "24/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Qual-m-dico-procurar-quando-voc-n-o-sabe-por-onde-come-ar-3d633d8db9d280ff8154cfb26ecb3071"
@@ -2465,7 +2399,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu carro vai entrar na campanha. E o seu seguro?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "24/09",
       "missing": [],
@@ -2487,14 +2421,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você pediu uma cotação. Mas sabe o que acontece antes dela chegar?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "25/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-pediu-uma-cota-o-Mas-sabe-o-que-acontece-antes-dela-chegar-3d033d8db9d280a587dbc22dc320cabc"
     },
@@ -2630,12 +2562,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Na Semana Nacional do Trânsito, fica o lembrete: \nDirigir com responsabilidade é prevenção. Ter a proteção certa também. Fale com a Aprosseg e tire suas dúvidas.",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "23/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3711,14 +3641,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Seu seguro aguenta",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "26/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Seu-seguro-aguenta-3ae33d8db9d280d88f31c143f8a4a43e"
     },
@@ -3749,16 +3677,13 @@ const LINHA_VIDEO_ITEMS = {
   "APROSSEG": [
     {
       "title": "Semana Nacional do transito",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "24/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 2. A editar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Semana-Nacional-do-transito-3e333d8db9d280a09613e528792134fc"
     }
   ],
@@ -3961,7 +3886,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "#dicadasemana",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "23/09",
+      "date": "25/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4258,11 +4183,39 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ortobom": [
+    {
+      "title": "Post roleta ",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Post-roleta-3e533d8db9d28057bc23d3c4cb45f998",
+      "gestora": "Equipe",
+      "date": "24/09"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Solicito arte de boas vindas da Kayke Dantas para a vaga de Assistente de DP. Hobby: Treinar e ler. Graduando em Ciências Contábeis.",
+      "priority": "pppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Kayke-Dantas-para-a-vaga-de-Assistente-de-DP-Hobby-Treinar-e-ler--3e533d8db9d2807d8e0aeb5ed66214e4",
+      "gestora": "Equipe",
+      "date": "24/09"
+    },
+    {
+      "title": "Solicito arte de boas vindas da Yan Augusto para a vaga de Assistente Contábil. Hobby: Andar de cavalo. Graduando em Ciências Contábeis",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Yan-Augusto-para-a-vaga-de-Assistente-Cont-bil-Hobby-Andar-de-cava-3e533d8db9d280568bacec01bd1a6519",
+      "gestora": "Equipe",
+      "date": "24/09"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Ajustes no flyer informativo",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Ajustes-no-flyer-informativo-3e533d8db9d280c689dac3b1ff2055ec",
       "gestora": "Equipe",
       "date": "22/09"
@@ -4270,7 +4223,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Ajustes no pitch",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3e233d8db9d2804ea7eac2c9a3f7da35",
       "gestora": "Equipe",
       "date": "22/09"
@@ -4372,7 +4325,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Video da campanha interna ",
       "priority": "pp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Video-da-campanha-interna-3e233d8db9d2800fb038c7a4a9947e51",
       "gestora": "Equipe",
       "date": "23/09"
@@ -4386,21 +4339,11 @@ const DEMANDAS_EXTRAS = {
       "date": "18/09"
     }
   ],
-  "Plannea": [
-    {
-      "title": "Solicito arte de boas vindas da Estefhane Barbosa para a vaga de Analista Fiscal. Hobby:  Séries Investigativas e Ler. Graduada em Ciências Contábeis.",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Estefhane-Barbosa-para-a-vaga-de-Analista-Fiscal-Hobby-S-ries-Inv-3de33d8db9d2804289abdfadc94119f8",
-      "gestora": "Equipe",
-      "date": "21/09"
-    }
-  ],
   "Finseg Leal": [
     {
       "title": "Videos para o trafego",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Videos-para-o-trafego-3dd33d8db9d28068b021cefe23f19ac3",
       "gestora": "Equipe",
       "date": "23/09"
@@ -4436,7 +4379,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Crachá de funcionários",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Crach-de-funcion-rios-3b233d8db9d280bc9181fe0100e80365",
       "gestora": "Equipe",
       "date": "18/09"
@@ -4569,6 +4512,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Ortobom": "confirmada",
   "Univendas": "confirmada",
   "APROSSEG": "marcada",
   "Plannea": "confirmada",
@@ -4605,15 +4549,15 @@ const LEGENDAS_DATA = {
   },
   "Juntos contra o HPV": {
     "prontas": 27,
-    "total": 29
+    "total": 28
   },
   "Ventana": {
     "prontas": 0,
     "total": 3
   },
   "Univendas": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 13,
+    "total": 13
   },
   "Terrartesã": {
     "prontas": 0,
@@ -4624,8 +4568,8 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Rede Pangeia": {
-    "prontas": 6,
-    "total": 6
+    "prontas": 5,
+    "total": 5
   },
   "Planos Seguros": {
     "prontas": 15,
@@ -4636,8 +4580,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Ortobom": {
-    "prontas": 12,
-    "total": 12
+    "prontas": 10,
+    "total": 10
   },
   "ItalaP": {
     "prontas": 16,
@@ -4648,15 +4592,15 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Finseg Leal": {
-    "prontas": 11,
-    "total": 15
+    "prontas": 13,
+    "total": 16
   },
   "Di Gregório Buffet": {
     "prontas": 0,
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 14
   },
   "Daniel Maia Advocacia": {
@@ -4724,7 +4668,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 14,
+    "post": 12,
     "carrossel": 0,
     "foto": 1,
     "video": 0,
@@ -4745,7 +4689,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Rede Pangeia": {
-    "post": 5,
+    "post": 4,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -4766,7 +4710,7 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Ortobom": {
-    "post": 3,
+    "post": 1,
     "carrossel": 0,
     "foto": 0,
     "video": 9,
@@ -4898,7 +4842,7 @@ const AGENDA_COUNTS = {
   },
   "Ortobom": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "ItalaP": {
