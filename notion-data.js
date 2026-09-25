@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 23:49:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/09/2026, 05:24:54 **/
 
-const LAST_UPDATE = '24/09/2026, 23:49:20';
+const LAST_UPDATE = '25/09/2026, 05:24:54';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -183,11 +183,12 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 14,
+    "pronto": 15,
     "postado": 13,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 5
+    "agendado_coord": 2,
+    "a_agendar": 3,
+    "st-paused": null
   },
   "Finseg Leal": {
     "total": 11,
@@ -2180,6 +2181,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "A nossa corrida ganhou um gás a mais. Caminhada 3km | Corrida 5km e 10km - ",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "26/09",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-nossa-corrida-ganhou-um-g-s-a-mais-Caminhada-3km-Corrida-5km-e-10km-Garanta-o-seu-kit-oficial-3e633d8db9d2807594d7ca92dea6f338"
+    },
+    {
       "title": "#TBT Liberta na FIEC em 2022",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -2192,12 +2206,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Evento",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🎠 Carrossel",
       "date": "24/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -2229,7 +2241,7 @@ const LINHA_FEED_ITEMS = {
       "title": "E NO SENADO? QUANTAS MULHERES REPRESENTAM O CEARÁ?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "29/09",
+      "date": "28/09",
       "missing": [
         "Design"
       ],
@@ -2263,29 +2275,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Uma-mulher-conseguiu-chegar-ao-Legislativo-Ela-consegue-permanecer-3d033d8db9d2803eac6ff8baa8f8ed43"
     },
     {
-      "title": "Afinal, o que uma deputada realmente faz?",
+      "title": "Você sabe como uma deputada consegue uma cadeira?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "28/09",
+      "date": "29/09",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Afinal-o-que-uma-deputada-realmente-faz-3d033d8db9d2802aa28bd1bdc82f41dc"
-    },
-    {
-      "title": "Você sabe como uma deputada consegue uma cadeira?",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "30/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-como-uma-deputada-consegue-uma-cadeira-3d033d8db9d2802691f5ffa0a3b611ff"
     },
@@ -4583,7 +4581,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 18,
+    "prontas": 19,
     "total": 19
   },
   "Finseg Leal": {
@@ -4719,8 +4717,8 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 8,
-    "carrossel": 11,
+    "post": 9,
+    "carrossel": 10,
     "foto": 0,
     "video": 0,
     "story": 0
