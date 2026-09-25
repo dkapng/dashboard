@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/09/2026, 15:46:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/09/2026, 18:55:04 **/
 
-const LAST_UPDATE = '25/09/2026, 15:46:26';
+const LAST_UPDATE = '25/09/2026, 18:55:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 19,
     "pronto": 16,
-    "postado": 13,
+    "postado": 14,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 3,
+    "a_agendar": 2,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -2232,7 +2232,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma mulher conseguiu chegar ao Legislativo. Ela consegue permanecer?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "25/09",
       "missing": [],
