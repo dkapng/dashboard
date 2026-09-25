@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/09/2026, 11:01:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/09/2026, 15:46:26 **/
 
-const LAST_UPDATE = '25/09/2026, 11:01:01';
+const LAST_UPDATE = '25/09/2026, 15:46:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -78,12 +78,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Ser Ponte": {
-    "total": 15,
+    "total": 13,
     "pronto": 10,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Tramix": {
     "total": 7,
@@ -95,11 +95,11 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 3,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Juntos contra o HPV": {
     "total": 18,
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 11,
-    "postado": 7,
+    "postado": 8,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 5,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 15,
+    "pronto": 16,
     "postado": 13,
     "agendado": 0,
     "agendado_coord": 2,
@@ -225,11 +225,11 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 12,
-    "pronto": 8,
-    "postado": 1,
+    "pronto": 9,
+    "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 9,
@@ -413,10 +413,10 @@ const VIDEO_DATA = {
   "Solar Coworking": {
     "total": 0,
     "pronto": 0,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   }
 };
 
@@ -504,10 +504,10 @@ const STORIES_DATA = {
   "Rede Pangeia": {
     "total": 3,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Planos Seguros": {
     "total": 1,
@@ -841,7 +841,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Chamam as mães solos de ",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
-      "date": "24/09",
+      "date": "28/09",
       "missing": [
         "Design"
       ],
@@ -887,20 +887,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Setembro-amarelo-Sa-de-mental-tamb-m-passa-por-seguran-a-renda-e-condi-es-dignas-para-viver-3d833d8db9d280b28273d5c4d7316648"
     },
     {
-      "title": "Conteúdo Larissa pessoa acessível",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Conte-do-Larissa-pessoa-acess-vel-3c233d8db9d28027a41bf7e87ac47871"
-    },
-    {
       "title": "Por que aumentar a renda de uma família pode movimentar todo um território? ",
       "status": "postado",
       "formato": "🎠 Carrossel",
@@ -915,7 +901,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O que significa viver no limite?",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "25/09",
+      "date": "30/09",
       "missing": [
         "Design"
       ],
@@ -923,19 +909,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-significa-viver-no-limite-3bf33d8db9d280209394dd387d4684e0"
-    },
-    {
-      "title": "Quanto custa para trabalhar?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-custa-para-trabalhar-3bf33d8db9d280edb6f7e430b4f6f29f"
     },
     {
       "title": "O que muda quando uma comunidade começa a construir soluções dentro do próprio território?",
@@ -1121,13 +1094,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando o financeiro começa a participar da estratégia, o empresário deixa de decidir no escuro. Quer levar mais inteligência para a gestão da sua empresa? Fale com a Stratto.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "25/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-o-financeiro-come-a-a-participar-da-estrat-gia-o-empres-rio-deixa-de-decidir-no-escuro-Quer-3cd33d8db9d280fe9752e94195503615"
@@ -1648,7 +1619,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Bateu o carro. E agora: quem paga a conta?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "25/09",
       "missing": [],
@@ -2264,10 +2235,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "25/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-mulher-conseguiu-chegar-ao-Legislativo-Ela-consegue-permanecer-3d033d8db9d2803eac6ff8baa8f8ed43"
@@ -2793,13 +2762,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Está pensando em contratar um plano? Não feche antes de falar com a Conecta.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "25/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Est-pensando-em-contratar-um-plano-N-o-feche-antes-de-falar-com-a-Conecta-3cd33d8db9d28034962ce0426e14c226"
@@ -3755,12 +3722,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "25/09",
-      "missing": [
-        "Vídeo"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3897,7 +3862,7 @@ const LINHA_STORIES_ITEMS = {
   "Rede Pangeia": [
     {
       "title": "#dicadasemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "25/09",
       "missing": [],
@@ -4198,70 +4163,12 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Plannea": [
     {
-      "title": "Solicito arte de boas vindas da Lourranne Rodrigues para a vaga de Assistente Contábil/Fiscal Externo. Hobby: Academia. Graduanda em Ciências Contábeis.",
+      "title": "Solicito arte de boas vindas da Waleska Alves para a vaga de Auxiliar Contábil. Hobby: assistir vídeos, filmes e ler coisas relacionadas ao universo de super heróis. Graduanda em Ciências Contábeis.",
       "priority": "pp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Lourranne-Rodrigues-para-a-vaga-de-Assistente-Cont-bil-Fiscal-Extern-3e633d8db9d2800ba48acf6f0d977269",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Waleska-Alves-para-a-vaga-de-Auxiliar-Cont-bil-Hobby-assistir-v-de-3e633d8db9d28025831df6c6578a4f0e",
       "gestora": "Equipe",
       "date": "29/09"
-    },
-    {
-      "title": "Solicito arte de boas vindas da Kayke Dantas para a vaga de Assistente de DP. Hobby: Treinar e ler. Graduando em Ciências Contábeis.",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Kayke-Dantas-para-a-vaga-de-Assistente-de-DP-Hobby-Treinar-e-ler--3e533d8db9d2807d8e0aeb5ed66214e4",
-      "gestora": "Equipe",
-      "date": "24/09"
-    },
-    {
-      "title": "Solicito arte de boas vindas da Yan Augusto para a vaga de Assistente Contábil. Hobby: Andar de cavalo. Graduando em Ciências Contábeis",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Yan-Augusto-para-a-vaga-de-Assistente-Cont-bil-Hobby-Andar-de-cava-3e533d8db9d280568bacec01bd1a6519",
-      "gestora": "Equipe",
-      "date": "24/09"
-    }
-  ],
-  "Ser Ponte": [
-    {
-      "title": "Ajustes no flyer informativo",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Ajustes-no-flyer-informativo-3e533d8db9d280c689dac3b1ff2055ec",
-      "gestora": "Equipe",
-      "date": "22/09"
-    },
-    {
-      "title": "Ajustes no pitch",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3e233d8db9d2804ea7eac2c9a3f7da35",
-      "gestora": "Equipe",
-      "date": "22/09"
-    },
-    {
-      "title": "Ajustes no pitch",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Ajustes-no-pitch-3ce33d8db9d28093b79bf510dddcd615",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Material para apresentar a possíveis doadores",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Material-para-apresentar-a-poss-veis-doadores-3c033d8db9d280088b40e097ba757436",
-      "gestora": "Equipe",
-      "date": "04/09"
-    },
-    {
-      "title": "Convocatória para Brechós Comunitários",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Convocat-ria-para-Brech-s-Comunit-rios-3b933d8db9d280439194f8da30e044d9",
-      "gestora": "Equipe",
-      "date": "12/08"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4360,14 +4267,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Bloco-de-texto-para-v-deo-sobre-legado-3d733d8db9d280ce8ca6c83bde921411",
       "gestora": "Equipe",
       "date": "10/09"
-    },
-    {
-      "title": "Crachá de funcionários",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Crach-de-funcion-rios-3b233d8db9d280bc9181fe0100e80365",
-      "gestora": "Equipe",
-      "date": "18/09"
     }
   ],
   "ItalaP": [
@@ -4508,7 +4407,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Ortobom": "confirmada",
-  "Univendas": "confirmada",
+  "Univendas": "cancelada",
   "APROSSEG": "marcada",
   "Plannea": "confirmada",
   "Conecta Assessoria": "marcada",
@@ -4531,8 +4430,8 @@ const LEGENDAS_DATA = {
     "total": 20
   },
   "Ser Ponte": {
-    "prontas": 13,
-    "total": 15
+    "prontas": 12,
+    "total": 13
   },
   "Tramix": {
     "prontas": 12,
@@ -4628,7 +4527,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ser Ponte": {
-    "post": 9,
+    "post": 7,
     "carrossel": 6,
     "foto": 0,
     "video": 0,
