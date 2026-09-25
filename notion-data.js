@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 20:48:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/09/2026, 23:49:20 **/
 
-const LAST_UPDATE = '24/09/2026, 20:48:08';
+const LAST_UPDATE = '24/09/2026, 23:49:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1352,11 +1352,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/09",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-corpo-mudou-N-o-ignore-uma-altera-o-que-persiste-Nem-todo-sintoma-significa-c-ncer-Mas-mudan-3d633d8db9d28038a355c5cd65a42ad8"
     },
@@ -4544,7 +4543,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Juntos contra o HPV": {
-    "prontas": 28,
+    "prontas": 29,
     "total": 29
   },
   "Ventana": {
