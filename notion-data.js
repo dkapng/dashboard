@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/09/2026, 05:24:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/09/2026, 11:01:01 **/
 
-const LAST_UPDATE = '25/09/2026, 05:24:54';
+const LAST_UPDATE = '25/09/2026, 11:01:01';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -150,17 +150,17 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Planos Seguros": {
-    "total": 6,
+    "total": 5,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Plannea": {
-    "total": 11,
-    "pronto": 11,
-    "postado": 8,
+    "total": 12,
+    "pronto": 12,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 3
@@ -269,10 +269,10 @@ const VIDEO_DATA = {
   "Tramix": {
     "total": 7,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 2,
@@ -333,10 +333,10 @@ const VIDEO_DATA = {
   "Planos Seguros": {
     "total": 10,
     "pronto": 10,
-    "postado": 9,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Plannea": {
     "total": 6,
@@ -1875,22 +1875,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 2. A editar",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-olhou-para-o-seu-pr-dio-al-m-do-valor-do-im-vel-39633d8db9d280cbb479e06dab22988b"
-    },
-    {
-      "title": "A má gestão dos seguros pode estar limitando o crescimento da sua empresa\n",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-m-gest-o-dos-seguros-pode-estar-limitando-o-crescimento-da-sua-empresa-39633d8db9d280c498baccb6a526f1d9"
     }
   ],
   "Plannea": [
+    {
+      "title": "Post vagas ",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "25/09",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-vagas-3e633d8db9d280df901fdaf71478805f"
+    },
     {
       "title": "Luz, câmera… Contabilidade em Ação! ",
       "status": "a_agendar",
@@ -3057,12 +3055,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Funcionários ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "25/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -3307,14 +3303,12 @@ const LINHA_VIDEO_ITEMS = {
   "Planos Seguros": [
     {
       "title": "Seguro residencial ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "25/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Seguro-residencial-3c633d8db9d2800e938cfc8acd415f99"
     },
@@ -4204,6 +4198,14 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Plannea": [
     {
+      "title": "Solicito arte de boas vindas da Lourranne Rodrigues para a vaga de Assistente Contábil/Fiscal Externo. Hobby: Academia. Graduanda em Ciências Contábeis.",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Lourranne-Rodrigues-para-a-vaga-de-Assistente-Cont-bil-Fiscal-Extern-3e633d8db9d2800ba48acf6f0d977269",
+      "gestora": "Equipe",
+      "date": "29/09"
+    },
+    {
       "title": "Solicito arte de boas vindas da Kayke Dantas para a vaga de Assistente de DP. Hobby: Treinar e ler. Graduando em Ciências Contábeis.",
       "priority": "pppp",
       "rawStatus": "2. Em aprovação",
@@ -4533,7 +4535,7 @@ const LEGENDAS_DATA = {
     "total": 15
   },
   "Tramix": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 14
   },
   "Stratto": {
@@ -4566,11 +4568,11 @@ const LEGENDAS_DATA = {
   },
   "Planos Seguros": {
     "prontas": 15,
-    "total": 16
+    "total": 15
   },
   "Plannea": {
-    "prontas": 15,
-    "total": 17
+    "prontas": 16,
+    "total": 18
   },
   "Ortobom": {
     "prontas": 11,
@@ -4689,14 +4691,14 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Planos Seguros": {
-    "post": 6,
+    "post": 5,
     "carrossel": 0,
     "foto": 0,
     "video": 10,
     "story": 1
   },
   "Plannea": {
-    "post": 9,
+    "post": 10,
     "carrossel": 2,
     "foto": 0,
     "video": 6,
