@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/09/2026, 15:35:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/09/2026, 18:46:19 **/
 
-const LAST_UPDATE = '27/09/2026, 15:35:56';
+const LAST_UPDATE = '27/09/2026, 18:46:19';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1339,7 +1339,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Setembro-tamb-m-m-s-de-falar-sobre-tumores-ginecol-gicos-3d633d8db9d28093b5d0eb5449adc953"
