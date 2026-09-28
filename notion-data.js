@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/09/2026, 18:46:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/09/2026, 21:11:34 **/
 
-const LAST_UPDATE = '27/09/2026, 18:46:19';
+const LAST_UPDATE = '27/09/2026, 21:11:34';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 18,
-    "pronto": 16,
+    "pronto": 17,
     "postado": 8,
     "agendado": 8,
     "agendado_coord": 0,
@@ -1326,7 +1326,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-corpo-mudou-N-o-ignore-uma-altera-o-que-persiste-Nem-todo-sintoma-significa-c-ncer-Mas-mudan-3d633d8db9d28038a355c5cd65a42ad8"
@@ -1336,10 +1336,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "26/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Setembro-tamb-m-m-s-de-falar-sobre-tumores-ginecol-gicos-3d633d8db9d28093b5d0eb5449adc953"
