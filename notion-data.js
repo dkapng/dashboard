@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/09/2026, 02:39:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/09/2026, 09:32:33 **/
 
-const LAST_UPDATE = '28/09/2026, 02:39:35';
+const LAST_UPDATE = '28/09/2026, 09:32:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 12,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 5,
     "agendado": 6,
     "agendado_coord": 0,
@@ -2128,10 +2128,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-cora-o-pode-estar-pedindo-cuidado-antes-de-voc-perceber-Dia-Mundial-do-Cora-o-3d633d8db9d2802b9c84e5b7c524fed5"
