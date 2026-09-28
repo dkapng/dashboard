@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/09/2026, 21:11:34 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/09/2026, 02:39:35 **/
 
-const LAST_UPDATE = '27/09/2026, 21:11:34';
+const LAST_UPDATE = '28/09/2026, 02:39:35';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 17,
-    "pronto": 14,
+    "pronto": 17,
     "postado": 12,
     "agendado": 0,
     "agendado_coord": 0,
@@ -86,16 +86,16 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "Tramix": {
-    "total": 7,
+    "total": 9,
     "pronto": 7,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 12,
     "postado": 3,
     "agendado": 7,
     "agendado_coord": 0,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 18,
-    "pronto": 17,
+    "pronto": 18,
     "postado": 8,
     "agendado": 8,
     "agendado_coord": 0,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 8,
     "agendado": 3,
     "agendado_coord": 0,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Plannea": {
-    "total": 12,
+    "total": 14,
     "pronto": 12,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 5
   },
   "Ortobom": {
     "total": 2,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 16,
+    "pronto": 18,
     "postado": 14,
     "agendado": 0,
     "agendado_coord": 2,
@@ -191,12 +191,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "Finseg Leal": {
-    "total": 11,
-    "pronto": 11,
+    "total": 12,
+    "pronto": 12,
     "postado": 3,
     "agendado": 7,
     "agendado_coord": 1,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -217,19 +217,19 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 7,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 0,
     "agendado": 6,
     "agendado_coord": 0,
     "a_agendar": 1
   },
   "Conecta Assessoria": {
-    "total": 12,
+    "total": 11,
     "pronto": 9,
     "postado": 2,
     "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 9,
@@ -267,12 +267,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Tramix": {
-    "total": 7,
-    "pronto": 7,
+    "total": 6,
+    "pronto": 6,
     "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 2,
@@ -331,12 +331,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 10,
+    "total": 11,
     "pronto": 10,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Plannea": {
     "total": 6,
@@ -638,29 +638,27 @@ const LINHA_FEED_ITEMS = {
   ],
   "AAFEC": [
     {
-      "title": "Entre fé, cantos e memórias ",
+      "title": "Entre fé, cantos e memórias",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Entre-f-cantos-e-mem-rias-3e333d8db9d28071b39bf261c492b8bb"
     },
     {
-      "title": "Laboratório Social e Resiliência ",
+      "title": "Laboratório Social e Resiliência",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Laborat-rio-Social-e-Resili-ncia-3e333d8db9d2801595d2e577479a22ad"
@@ -750,10 +748,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-Cear-avan-a-pelas-m-os-do-fazend-rio-em-letra-menor-28-de-setembro-Dia-do-Fazend-rio-3c933d8db9d280bebd0ccf05cd8b9f81"
@@ -990,6 +987,34 @@ const LINHA_FEED_ITEMS = {
   ],
   "Tramix": [
     {
+      "title": "Uma peça pode mudar completamente dependendo da escolha do material.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uma-pe-a-pode-mudar-completamente-dependendo-da-escolha-do-material-3e933d8db9d28037a921fffd74dedb40"
+    },
+    {
+      "title": "Você compra pelo preço ou pelo que esse material entrega?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-compra-pelo-pre-o-ou-pelo-que-esse-material-entrega-3e933d8db9d280299877d9fe0dfde02b"
+    },
+    {
       "title": "Dia do cliente: Para quem transforma ideias em criação, obrigado por escolher a Tramix para fazer parte desse processo.",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -1104,14 +1129,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quando-o-financeiro-come-a-a-participar-da-estrat-gia-o-empres-rio-deixa-de-decidir-no-escuro-Quer-3cd33d8db9d280fe9752e94195503615"
     },
     {
-      "title": "Você cuida do crescimento da empresa. A Stratto cuida da gestão financeira. Conheça nosso BPO Financeiro. Chame a equipe no WhatsApp.",
+      "title": "Você cuida do crescimento da empresa. A Stratto cuida da gestão financeira. Conheça nosso BPO Financeiro. Chame a nossa equipe no WhatsApp.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-cuida-do-crescimento-da-empresa-A-Stratto-cuida-da-gest-o-financeira-Conhe-a-nosso-BPO-Financ-3cd33d8db9d280d29dc8cc74fbc7a77a"
@@ -1187,10 +1210,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-custa-para-sua-empresa-cada-hora-que-voc-passa-fazendo-o-trabalho-de-outra-pessoa-3cd33d8db9d280b69b26fe2afcf13de5"
@@ -1319,14 +1340,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Juntos-ampliamos-o-impacto-da-preven-o-3dc33d8db9d28013ae55c50c84fe1a83"
     },
     {
-      "title": "Seu corpo mudou? Não ignore uma alteração que persiste. Nem todo sintoma significa câncer. Mas mudanças persistentes merecem validação. ",
+      "title": "Seu corpo mudou? Não ignore uma alteração que persiste. Nem todo sintoma significa câncer. Mas mudanças persistentes merecem validação.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-corpo-mudou-N-o-ignore-uma-altera-o-que-persiste-Nem-todo-sintoma-significa-c-ncer-Mas-mudan-3d633d8db9d28038a355c5cd65a42ad8"
@@ -1607,10 +1626,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-uma-empresa-quebra-um-contrato-3d733d8db9d280be8d8edbce2b3aa638"
@@ -1836,7 +1854,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quando foi a última vez que você olhou para o seu prédio além do valor do imóvel?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/09",
+      "date": "30/09",
       "missing": [
         "Design"
       ],
@@ -1847,6 +1865,34 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Plannea": [
+    {
+      "title": "Um número ruim mostra que alguma coisa aconteceu. Uma boa análise ajuda a entender por qu",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Um-n-mero-ruim-mostra-que-alguma-coisa-aconteceu-Uma-boa-an-lise-ajuda-a-entender-por-qu-3e933d8db9d28036ad58c5bfa260ffb4"
+    },
+    {
+      "title": "Benefício fiscal não é dinheiro garantido",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/09",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Benef-cio-fiscal-n-o-dinheiro-garantido-3e933d8db9d28020804fd460dbf2259a"
+    },
     {
       "title": "Post vagas ",
       "status": "postado",
@@ -2085,7 +2131,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-cora-o-pode-estar-pedindo-cuidado-antes-de-voc-perceber-Dia-Mundial-do-Cora-o-3d633d8db9d2802b9c84e5b7c524fed5"
@@ -2152,10 +2198,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "26/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (interno)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-nossa-corrida-ganhou-um-g-s-a-mais-Caminhada-3km-Corrida-5km-e-10km-Garanta-o-seu-kit-oficial-3e633d8db9d2807594d7ca92dea6f338"
@@ -2205,17 +2249,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Setembro-amarelo-copy-completa-nos-coment-rios-3d833d8db9d2806e8d0ddd9e6d1477b5"
     },
     {
-      "title": "E NO SENADO? QUANTAS MULHERES REPRESENTAM O CEARÁ?",
+      "title": "E no senado? Quantas mulheres representam o Ceará?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "28/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/E-NO-SENADO-QUANTAS-MULHERES-REPRESENTAM-O-CEAR-3d033d8db9d28005b2bfc9ca263a7477"
+      "notionUrl": "https://app.notion.com/p/E-no-senado-Quantas-mulheres-representam-o-Cear-3d033d8db9d28005b2bfc9ca263a7477"
     },
     {
       "title": "50% de mulheres na política parece muito? 50% NÃO É EXAGERO. É PARIDADE.",
@@ -2385,6 +2427,19 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-vida-David-Hoje-a-celebra-o-por-voc-3e333d8db9d280d6982fd3f3513535c5"
+    },
+    {
+      "title": "“É rapidinho.” “Meu irmão vai usar.” “Minha esposa pegou o carro.” “Meu funcionário precisou sair.” Emprestar o carro também é compartilhar o risco?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/09",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/rapidinho-Meu-irm-o-vai-usar-Minha-esposa-pegou-o-carro-Meu-funcion-rio-precisou-sair-Emp-3d033d8db9d28019bd8fd867d6272682"
     },
     {
       "title": "Seu carro vai entrar na campanha. E o seu seguro?",
@@ -2645,10 +2700,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-celular-pode-ser-apreendido-durante-uma-investiga-o-3dc33d8db9d2804080c4e58ec908b2ea"
@@ -2825,19 +2879,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-conhece-seu-plano-de-sa-de-ou-s-conhece-o-valor-da-mensalidade-3cd33d8db9d2809b8a5bcff2d79d0fc2"
     },
     {
-      "title": "POV: você mora em Fortaleza, mas resolveu turistar como se fosse turista. Dia Mundial do Turismo ",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "27/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/POV-voc-mora-em-Fortaleza-mas-resolveu-turistar-como-se-fosse-turista-Dia-Mundial-do-Turismo-3cd33d8db9d28048b47ec6ace630b5e3"
-    },
-    {
       "title": "Obrigada por deixar a Conecta fazer parte das suas escolhas. Feliz Dia do Cliente!",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -3005,19 +3046,6 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Ser Ponte": [],
   "Tramix": [
-    {
-      "title": "Legado ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/09",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Legado-3d833d8db9d2807b8d0fd1c0fa74146f"
-    },
     {
       "title": "Funcionários ",
       "status": "postado",
@@ -3309,6 +3337,20 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Residencial-3c633d8db9d28042bc22efb7322887f9"
+    },
+    {
+      "title": "Qual a diferença de um plano para o outro?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Qual-a-diferen-a-de-um-plano-para-o-outro-3c633d8db9d2800e8812d333bd8798ae"
     },
     {
       "title": "Notebook ",
@@ -4433,7 +4475,7 @@ const LEGENDAS_DATA = {
   },
   "Tramix": {
     "prontas": 12,
-    "total": 14
+    "total": 15
   },
   "Stratto": {
     "prontas": 15,
@@ -4465,11 +4507,11 @@ const LEGENDAS_DATA = {
   },
   "Planos Seguros": {
     "prontas": 15,
-    "total": 15
+    "total": 16
   },
   "Plannea": {
     "prontas": 16,
-    "total": 18
+    "total": 20
   },
   "Ortobom": {
     "prontas": 11,
@@ -4500,8 +4542,8 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Conecta Assessoria": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 14,
+    "total": 14
   },
   "Solar Coworking": {
     "prontas": 12,
@@ -4532,10 +4574,10 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Tramix": {
-    "post": 7,
+    "post": 9,
     "carrossel": 0,
     "foto": 0,
-    "video": 7,
+    "video": 6,
     "story": 0
   },
   "Stratto": {
@@ -4591,11 +4633,11 @@ const FORMAT_COUNTS = {
     "post": 5,
     "carrossel": 0,
     "foto": 0,
-    "video": 10,
+    "video": 11,
     "story": 1
   },
   "Plannea": {
-    "post": 10,
+    "post": 12,
     "carrossel": 2,
     "foto": 0,
     "video": 6,
@@ -4623,7 +4665,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Finseg Leal": {
-    "post": 10,
+    "post": 11,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
@@ -4652,7 +4694,7 @@ const FORMAT_COUNTS = {
   },
   "Conecta Assessoria": {
     "post": 11,
-    "carrossel": 1,
+    "carrossel": 0,
     "foto": 0,
     "video": 3,
     "story": 7
