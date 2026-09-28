@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/09/2026, 09:32:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/09/2026, 16:55:50 **/
 
-const LAST_UPDATE = '28/09/2026, 09:32:33';
+const LAST_UPDATE = '28/09/2026, 16:55:50';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 9,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
@@ -96,18 +96,18 @@ const FEED_DATA = {
   "Stratto": {
     "total": 13,
     "pronto": 12,
-    "postado": 3,
-    "agendado": 7,
+    "postado": 4,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 18,
     "pronto": 18,
-    "postado": 8,
-    "agendado": 8,
+    "postado": 9,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -136,18 +136,18 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 13,
     "pronto": 12,
-    "postado": 8,
+    "postado": 9,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
     "total": 5,
     "pronto": 5,
-    "postado": 3,
+    "postado": 4,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Planos Seguros": {
     "total": 5,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 14,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 19,
     "pronto": 18,
-    "postado": 14,
+    "postado": 15,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 2,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -208,11 +208,11 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 3,
     "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 3,
+    "a_agendar": 2,
     "st-paused": null
   },
   "Daniel Maia Advocacia": {
@@ -332,11 +332,11 @@ const VIDEO_DATA = {
   },
   "Planos Seguros": {
     "total": 11,
-    "pronto": 10,
-    "postado": 10,
+    "pronto": 11,
+    "postado": 11,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Plannea": {
     "total": 6,
@@ -357,10 +357,10 @@ const VIDEO_DATA = {
   "ItalaP": {
     "total": 5,
     "pronto": 5,
-    "postado": 1,
+    "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -593,10 +593,10 @@ const STORIES_DATA = {
   "Solar Coworking": {
     "total": 4,
     "pronto": 4,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   }
 };
 
@@ -1006,10 +1006,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "28/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-compra-pelo-pre-o-ou-pelo-que-esse-material-entrega-3e933d8db9d280299877d9fe0dfde02b"
@@ -1130,7 +1129,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você cuida do crescimento da empresa. A Stratto cuida da gestão financeira. Conheça nosso BPO Financeiro. Chame a nossa equipe no WhatsApp.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/09",
       "missing": [],
@@ -1207,7 +1206,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quanto custa para sua empresa cada hora que você passa fazendo o trabalho de outra pessoa?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/09",
       "missing": [],
@@ -1341,9 +1340,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu corpo mudou? Não ignore uma alteração que persiste. Nem todo sintoma significa câncer. Mas mudanças persistentes merecem validação.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "28/09",
+      "date": "29/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1352,9 +1351,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Setembro também é mês de falar sobre tumores ginecológicos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
-      "date": "26/09",
+      "date": "28/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1622,14 +1621,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que acontece quando uma empresa quebra um contrato?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-uma-empresa-quebra-um-contrato-3d733d8db9d280be8d8edbce2b3aa638"
     },
@@ -1758,7 +1755,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Nem todo problema de uma ONG é falta de recursos. Às vezes, o recurso existe. O que falta é estrutura para acessá-lo, organizá-lo ou transformá-lo em resultado.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/09",
       "missing": [],
@@ -1866,15 +1863,14 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
-      "title": "Um número ruim mostra que alguma coisa aconteceu. Uma boa análise ajuda a entender por qu",
+      "title": "Um número ruim mostra que alguma coisa aconteceu. Uma boa análise ajuda a entender por quê.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Um-n-mero-ruim-mostra-que-alguma-coisa-aconteceu-Uma-boa-an-lise-ajuda-a-entender-por-qu-3e933d8db9d28036ad58c5bfa260ffb4"
@@ -1888,7 +1884,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Benef-cio-fiscal-n-o-dinheiro-garantido-3e933d8db9d28020804fd460dbf2259a"
@@ -2248,7 +2244,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "E no senado? Quantas mulheres representam o Ceará?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "28/09",
       "missing": [],
@@ -2430,7 +2426,7 @@ const LINHA_FEED_ITEMS = {
       "title": "“É rapidinho.” “Meu irmão vai usar.” “Minha esposa pegou o carro.” “Meu funcionário precisou sair.” Emprestar o carro também é compartilhar o risco?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/09",
+      "date": "29/09",
       "missing": [
         "Legenda"
       ],
@@ -2545,7 +2541,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Proteção é ter assistência. É ter orientação. É ter suporte. É ter com quem contar.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/09",
+      "date": "29/09",
       "missing": [
         "Design"
       ],
@@ -2591,12 +2587,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "No trânsito, prevenção, atenção e responsabilidade caminham juntas - Dia Nacional do Trânsito",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "25/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -2697,11 +2691,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-celular-pode-ser-apreendido-durante-uma-investiga-o-3dc33d8db9d2804080c4e58ec908b2ea"
     },
@@ -3338,13 +3330,10 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Qual a diferença de um plano para o outro?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "28/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -3589,14 +3578,12 @@ const LINHA_VIDEO_ITEMS = {
   "ItalaP": [
     {
       "title": "Vamos até você",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "28/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Vamos-at-voc-3b133d8db9d28062a279dc32975ed7e1"
     },
@@ -4153,7 +4140,7 @@ const LINHA_STORIES_ITEMS = {
   "Solar Coworking": [
     {
       "title": "Story/stories",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "28/09",
       "missing": [],
@@ -4199,14 +4186,22 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Plannea": [
+  "Finseg Leal": [
     {
-      "title": "Solicito arte de boas vindas da Waleska Alves para a vaga de Auxiliar Contábil. Hobby: assistir vídeos, filmes e ler coisas relacionadas ao universo de super heróis. Graduanda em Ciências Contábeis.",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Waleska-Alves-para-a-vaga-de-Auxiliar-Cont-bil-Hobby-assistir-v-de-3e633d8db9d28025831df6c6578a4f0e",
+      "title": "Atualizar contato na assinatura de e-mail do David",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Atualizar-contato-na-assinatura-de-e-mail-do-David-3e933d8db9d280c688ffc54c5978bc0d",
       "gestora": "Equipe",
       "date": "29/09"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4430,16 +4425,6 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "08/05"
     }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
   ]
 };
 
@@ -4496,7 +4481,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 15
   },
   "Rede Pangeia": {
@@ -4504,7 +4489,7 @@ const LEGENDAS_DATA = {
     "total": 5
   },
   "Planos Seguros": {
-    "prontas": 15,
+    "prontas": 16,
     "total": 16
   },
   "Plannea": {
@@ -4516,7 +4501,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "ItalaP": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
@@ -4536,7 +4521,7 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Daniel Maia Advocacia": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 7
   },
   "Conecta Assessoria": {
