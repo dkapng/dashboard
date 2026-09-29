@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/09/2026, 15:10:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/09/2026, 19:28:07 **/
 
-const LAST_UPDATE = '29/09/2026, 15:10:27';
+const LAST_UPDATE = '29/09/2026, 19:28:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4174,10 +4174,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Grupo Mulheres do Brasil": [
     {
-      "title": "Sinergia Florescer 2026 | Save the Date para WhatsApp",
+      "title": "Sinergia Florescer 2026 | Save the Date e convite para pesquisa",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Sinergia-Florescer-2026-Save-the-Date-para-WhatsApp-3ea33d8db9d2806e8f80f86fce8275e6",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Sinergia-Florescer-2026-Save-the-Date-e-convite-para-pesquisa-3ea33d8db9d2806e8f80f86fce8275e6",
       "gestora": "Equipe",
       "date": "29/09"
     },
@@ -4232,10 +4232,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Ajuste no kit de multiplicador",
+      "title": "Ajuste no kit de multiplicadores",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Ajuste-no-kit-de-multiplicador-3ea33d8db9d2803dbf21e0af6caa99e0",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Ajuste-no-kit-de-multiplicadores-3ea33d8db9d2803dbf21e0af6caa99e0",
       "gestora": "Equipe",
       "date": "29/09"
     },
@@ -4404,7 +4404,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Site",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Site-3c033d8db9d2809489b8c7ed035a9314",
       "gestora": "Equipe",
       "date": "26/08"
