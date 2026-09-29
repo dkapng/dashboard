@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/09/2026, 09:05:47 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/09/2026, 15:10:27 **/
 
-const LAST_UPDATE = '29/09/2026, 09:05:47';
+const LAST_UPDATE = '29/09/2026, 15:10:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,10 +88,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 9,
     "pronto": 8,
-    "postado": 7,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 13,
@@ -160,10 +160,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 13,
     "pronto": 13,
-    "postado": 9,
+    "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 2,
@@ -225,11 +225,11 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 11,
-    "pronto": 9,
+    "pronto": 10,
     "postado": 2,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 9,
@@ -838,7 +838,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Chamam as mães solos de ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "28/09",
+      "date": "29/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1000,12 +1000,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você compra pelo preço ou pelo que esse material entrega?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "29/09",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1862,12 +1860,10 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Um número ruim mostra que alguma coisa aconteceu. Uma boa análise ajuda a entender por quê.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2263,7 +2259,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você sabe como uma deputada consegue uma cadeira?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "29/09",
+      "date": "30/09",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2747,13 +2743,11 @@ const LINHA_FEED_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Você pode estar pagando por uma proteção que não acompanha mais a sua vida.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-pode-estar-pagando-por-uma-prote-o-que-n-o-acompanha-mais-a-sua-vida-3e433d8db9d28018802dcd2dfd0b2f3b"
@@ -4178,25 +4172,15 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Finseg Leal": [
+  "Grupo Mulheres do Brasil": [
     {
-      "title": "Atualizar contato na assinatura de e-mail do David",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Atualizar-contato-na-assinatura-de-e-mail-do-David-3e933d8db9d280c688ffc54c5978bc0d",
+      "title": "Sinergia Florescer 2026 | Save the Date para WhatsApp",
+      "priority": "ppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Sinergia-Florescer-2026-Save-the-Date-para-WhatsApp-3ea33d8db9d2806e8f80f86fce8275e6",
       "gestora": "Equipe",
       "date": "29/09"
     },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
     {
       "title": "9ª Ação | Ajuste no mídia kit",
       "priority": "ppp",
@@ -4248,12 +4232,38 @@ const DEMANDAS_EXTRAS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "Ajuste no kit de multiplicador",
+      "priority": "ppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Ajuste-no-kit-de-multiplicador-3ea33d8db9d2803dbf21e0af6caa99e0",
+      "gestora": "Equipe",
+      "date": "29/09"
+    },
+    {
       "title": "Narrações para vídeos com IA",
       "priority": "p",
       "rawStatus": "2. A implementar",
       "notionUrl": "https://app.notion.com/p/Narra-es-para-v-deos-com-IA-3e233d8db9d280eaa761dd8b03015c08",
       "gestora": "Equipe",
       "date": "21/09"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Atualizar contato na assinatura de e-mail do David",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Atualizar-contato-na-assinatura-de-e-mail-do-David-3e933d8db9d280c688ffc54c5978bc0d",
+      "gestora": "Equipe",
+      "date": "29/09"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
     }
   ],
   "Univendas": [
@@ -4394,7 +4404,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Site",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Site-3c033d8db9d2809489b8c7ed035a9314",
       "gestora": "Equipe",
       "date": "26/08"
@@ -4449,7 +4459,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Tramix": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 15
   },
   "Stratto": {
@@ -4485,7 +4495,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Plannea": {
-    "prontas": 16,
+    "prontas": 17,
     "total": 20
   },
   "Ortobom": {
