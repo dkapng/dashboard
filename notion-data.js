@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/09/2026, 16:55:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/09/2026, 21:07:04 **/
 
-const LAST_UPDATE = '28/09/2026, 16:55:50';
+const LAST_UPDATE = '28/09/2026, 21:07:04';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,11 +79,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 13,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 10,
     "agendado": 0,
-    "agendado_coord": 2,
-    "a_agendar": 1
+    "agendado_coord": 1,
+    "a_agendar": 2
   },
   "Tramix": {
     "total": 9,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Plannea": {
-    "total": 14,
+    "total": 13,
     "pronto": 13,
     "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 2,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 18,
+    "pronto": 19,
     "postado": 15,
     "agendado": 0,
     "agendado_coord": 2,
@@ -194,9 +194,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 12,
     "postado": 3,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 1,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -219,9 +219,9 @@ const FEED_DATA = {
     "total": 7,
     "pronto": 7,
     "postado": 0,
-    "agendado": 6,
+    "agendado": 7,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Conecta Assessoria": {
     "total": 11,
@@ -339,12 +339,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Plannea": {
-    "total": 6,
+    "total": 7,
     "pronto": 6,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 4,
@@ -374,9 +374,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -836,13 +836,11 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Chamam as mães solos de ",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "28/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Chamam-as-m-es-solos-de-m-es-guerreiras-mas-onde-est-o-as-pol-ticas-para-que-elas-n-o-precisem-en-3de33d8db9d280bcbb79c9c68120a8c8"
@@ -1866,7 +1864,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Um número ruim mostra que alguma coisa aconteceu. Uma boa análise ajuda a entender por quê.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/09",
+      "date": "29/09",
       "missing": [
         "Legenda"
       ],
@@ -1874,20 +1872,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Um-n-mero-ruim-mostra-que-alguma-coisa-aconteceu-Uma-boa-an-lise-ajuda-a-entender-por-qu-3e933d8db9d28036ad58c5bfa260ffb4"
-    },
-    {
-      "title": "Benefício fiscal não é dinheiro garantido",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Benef-cio-fiscal-n-o-dinheiro-garantido-3e933d8db9d28020804fd460dbf2259a"
     },
     {
       "title": "Post vagas ",
@@ -2280,10 +2264,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "29/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-como-uma-deputada-consegue-uma-cadeira-3d033d8db9d2802691f5ffa0a3b611ff"
@@ -2424,14 +2406,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "“É rapidinho.” “Meu irmão vai usar.” “Minha esposa pegou o carro.” “Meu funcionário precisou sair.” Emprestar o carro também é compartilhar o risco?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/rapidinho-Meu-irm-o-vai-usar-Minha-esposa-pegou-o-carro-Meu-funcion-rio-precisou-sair-Emp-3d033d8db9d28019bd8fd867d6272682"
     },
@@ -2688,7 +2668,7 @@ const LINHA_FEED_ITEMS = {
   "Daniel Maia Advocacia": [
     {
       "title": "Seu celular pode ser apreendido durante uma investigação?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "29/09",
       "missing": [],
@@ -3408,6 +3388,20 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Crescer ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/09",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Crescer-3e933d8db9d280dfacf1f32bc9c1b9c5"
+    },
+    {
       "title": "Summit Cariri 2",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -3636,14 +3630,12 @@ const LINHA_VIDEO_ITEMS = {
   "Finseg Leal": [
     {
       "title": "Alagamento",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "30/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Alagamento-3ae33d8db9d280b7ac8fd3d65b694dd0"
     },
@@ -4509,7 +4501,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Finseg Leal": {
-    "prontas": 14,
+    "prontas": 16,
     "total": 16
   },
   "Di Gregório Buffet": {
@@ -4620,10 +4612,10 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "Plannea": {
-    "post": 12,
+    "post": 11,
     "carrossel": 2,
     "foto": 0,
-    "video": 6,
+    "video": 7,
     "story": 2
   },
   "Ortobom": {
