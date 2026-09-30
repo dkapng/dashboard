@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 15:30:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 19:45:18 **/
 
-const LAST_UPDATE = '30/09/2026, 15:30:50';
+const LAST_UPDATE = '30/09/2026, 19:45:18';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 14,
-    "pronto": 13,
+    "pronto": 14,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
-    "total": 19,
-    "pronto": 19,
+    "total": 18,
+    "pronto": 18,
     "postado": 16,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 1,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -1825,10 +1825,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "30/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-prazo-do-Simples-mudou-anteontem-E-os-dois-prazos-que-estavam-previstos-para-terminar-hoje-tamb-m-3eb33d8db9d28081934fff6e58134eae"
@@ -2142,19 +2140,6 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
-    {
-      "title": "A nossa corrida ganhou um gás a mais. Caminhada 3km | Corrida 5km e 10km - ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Alterações a fazer",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-nossa-corrida-ganhou-um-g-s-a-mais-Caminhada-3km-Corrida-5km-e-10km-Garanta-o-seu-kit-oficial-3e633d8db9d2807594d7ca92dea6f338"
-    },
     {
       "title": "#TBT Liberta na FIEC em 2022",
       "status": "postado",
@@ -4476,7 +4461,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 18,
-    "total": 19
+    "total": 18
   },
   "Finseg Leal": {
     "prontas": 16,
@@ -4611,7 +4596,7 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Grupo Mulheres do Brasil": {
-    "post": 9,
+    "post": 8,
     "carrossel": 10,
     "foto": 0,
     "video": 0,
