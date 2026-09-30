@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/09/2026, 19:28:07 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/09/2026, 22:24:57 **/
 
-const LAST_UPDATE = '29/09/2026, 19:28:07';
+const LAST_UPDATE = '29/09/2026, 22:24:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -176,10 +176,10 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 12,
     "pronto": 12,
-    "postado": 5,
+    "postado": 6,
     "agendado": 6,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
@@ -2101,7 +2101,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu coração pode estar pedindo cuidado antes de você perceber - Dia Mundial do Coração",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/09",
       "missing": [],
