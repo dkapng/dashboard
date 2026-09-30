@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 10:27:41 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 15:30:50 **/
 
-const LAST_UPDATE = '30/09/2026, 10:27:41';
+const LAST_UPDATE = '30/09/2026, 15:30:50';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,34 +72,34 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 17,
     "pronto": 17,
-    "postado": 12,
+    "postado": 15,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 2
   },
   "Ser Ponte": {
     "total": 13,
-    "pronto": 11,
-    "postado": 10,
+    "pronto": 12,
+    "postado": 11,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 2
   },
   "Tramix": {
     "total": 9,
     "pronto": 9,
-    "postado": 8,
+    "postado": 9,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
-    "total": 13,
-    "pronto": 13,
+    "total": 12,
+    "pronto": 12,
     "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 18,
@@ -150,20 +150,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 5,
+    "total": 4,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Plannea": {
-    "total": 13,
+    "total": 14,
     "pronto": 13,
     "postado": 10,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 2,
@@ -186,8 +186,8 @@ const FEED_DATA = {
     "pronto": 19,
     "postado": 16,
     "agendado": 0,
-    "agendado_coord": 2,
-    "a_agendar": 0,
+    "agendado_coord": 1,
+    "a_agendar": 1,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -208,11 +208,11 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 13,
-    "pronto": 11,
+    "pronto": 13,
     "postado": 3,
     "agendado": 5,
     "agendado_coord": 1,
-    "a_agendar": 2,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Daniel Maia Advocacia": {
@@ -227,9 +227,9 @@ const FEED_DATA = {
     "total": 11,
     "pronto": 11,
     "postado": 2,
-    "agendado": 8,
+    "agendado": 9,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Solar Coworking": {
     "total": 9,
@@ -275,20 +275,20 @@ const VIDEO_DATA = {
     "a_agendar": 1
   },
   "Stratto": {
-    "total": 2,
-    "pronto": 2,
+    "total": 3,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 11,
     "pronto": 11,
     "postado": 3,
-    "agendado": 7,
+    "agendado": 8,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ventana": {
     "total": 0,
@@ -331,9 +331,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 11,
-    "pronto": 11,
-    "postado": 11,
+    "total": 12,
+    "pronto": 12,
+    "postado": 12,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -639,12 +639,10 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
       "title": "Entre fé, cantos e memórias",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "29/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -652,12 +650,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Laboratório Social e Resiliência",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -744,12 +740,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O Ceará avança pelas mãos do fazendário (em letra menor: 28 de setembro | Dia do Fazendário)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "28/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -894,12 +888,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que significa viver no limite?",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "30/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -986,14 +978,12 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "Uma peça pode mudar completamente dependendo da escolha do material.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "30/09",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-pe-a-pode-mudar-completamente-dependendo-da-escolha-do-material-3e933d8db9d28037a921fffd74dedb40"
     },
@@ -1087,17 +1077,6 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Stratto": [
-    {
-      "title": "Quanto tempo sua equipe perde fazendo manualmente o que poderia estar organizado e automatizado? Fale com a Stratto e descubra onde sua operação pode ganhar eficiência.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-tempo-sua-equipe-perde-fazendo-manualmente-o-que-poderia-estar-organizado-e-automatizado-Fal-3cd33d8db9d280cca44cef65f5defe3f"
-    },
     {
       "title": "Não existe solução financeira eficiente sem entender onde o problema começa. Agende uma conversa com a Stratto.",
       "status": "agendado",
@@ -1838,22 +1817,22 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Subseguro-um-problema-que-muitas-empresas-descobrem-tarde-demais-3ae33d8db9d280d19cd8ef77de9256c8"
-    },
+    }
+  ],
+  "Plannea": [
     {
-      "title": "Quando foi a última vez que você olhou para o seu prédio além do valor do imóvel?",
+      "title": "O prazo do Simples mudou anteontem. ",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "30/09",
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 2. A editar",
-      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-olhou-para-o-seu-pr-dio-al-m-do-valor-do-im-vel-39633d8db9d280cbb479e06dab22988b"
-    }
-  ],
-  "Plannea": [
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-prazo-do-Simples-mudou-anteontem-E-os-dois-prazos-que-estavam-previstos-para-terminar-hoje-tamb-m-3eb33d8db9d28081934fff6e58134eae"
+    },
     {
       "title": "Um número ruim mostra que alguma coisa aconteceu. Uma boa análise ajuda a entender por quê.",
       "status": "postado",
@@ -2165,12 +2144,14 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "A nossa corrida ganhou um gás a mais. Caminhada 3km | Corrida 5km e 10km - ",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/09",
-      "missing": [],
+      "date": "30/09",
+      "missing": [
+        "Legenda"
+      ],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawLegenda": "🪶 2. Alterações a fazer",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-nossa-corrida-ganhou-um-g-s-a-mais-Caminhada-3km-Corrida-5km-e-10km-Garanta-o-seu-kit-oficial-3e633d8db9d2807594d7ca92dea6f338"
     },
@@ -2511,12 +2492,10 @@ const LINHA_FEED_ITEMS = {
   "APROSSEG": [
     {
       "title": "Proteção é ter assistência. É ter orientação. É ter suporte. É ter com quem contar.",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "29/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -2524,12 +2503,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Pane no meio do caminho? Respira. Você pode ter assistência para isso.",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "30/09",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -2761,7 +2738,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Plano de saúde, seguro ou benefício empresarial: encontre a opção certa para o seu momento. ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "30/09",
       "missing": [],
@@ -3075,6 +3052,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Stratto": [
     {
+      "title": "Video do treinamento",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/09",
+      "missing": [],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Video-do-treinamento-3eb33d8db9d2802fa7bafddc63017dca"
+    },
+    {
       "title": "Gestão financeira estruturada",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3155,7 +3143,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo com imagens e narração",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "30/09",
       "missing": [],
@@ -3238,6 +3226,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Rede Pangeia": [],
   "Planos Seguros": [
+    {
+      "title": "Análise de plano de saúde ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/09",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/An-lise-de-plano-de-sa-de-3eb33d8db9d2803583fdf1ce821a37ed"
+    },
     {
       "title": "Seguro residencial ",
       "status": "postado",
@@ -4183,14 +4182,6 @@ const DEMANDAS_EXTRAS = {
       "date": "11/09"
     },
     {
-      "title": "Adicionar logo do Sebrae em apresentações",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-logo-do-Sebrae-em-apresenta-es-3cd33d8db9d2808e8106cccac66aec98",
-      "gestora": "Equipe",
-      "date": "01/09"
-    },
-    {
       "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
       "priority": "p",
       "rawStatus": "1. A fazer",
@@ -4428,7 +4419,7 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "AAFEC": {
-    "prontas": 16,
+    "prontas": 19,
     "total": 20
   },
   "Ser Ponte": {
@@ -4436,7 +4427,7 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Tramix": {
-    "prontas": 13,
+    "prontas": 14,
     "total": 15
   },
   "Stratto": {
@@ -4472,8 +4463,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Plannea": {
-    "prontas": 18,
-    "total": 20
+    "prontas": 19,
+    "total": 21
   },
   "Ortobom": {
     "prontas": 11,
@@ -4484,7 +4475,7 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 19,
+    "prontas": 18,
     "total": 19
   },
   "Finseg Leal": {
@@ -4543,10 +4534,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Stratto": {
-    "post": 13,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
-    "video": 2,
+    "video": 3,
     "story": 0
   },
   "Juntos contra o HPV": {
@@ -4592,15 +4583,15 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "Planos Seguros": {
-    "post": 5,
+    "post": 4,
     "carrossel": 0,
     "foto": 0,
-    "video": 11,
+    "video": 12,
     "story": 1
   },
   "Plannea": {
     "post": 11,
-    "carrossel": 2,
+    "carrossel": 3,
     "foto": 0,
     "video": 7,
     "story": 2
