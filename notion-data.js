@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 03:59:39 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 10:27:41 **/
 
-const LAST_UPDATE = '30/09/2026, 03:59:39';
+const LAST_UPDATE = '30/09/2026, 10:27:41';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 9,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 0,
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 4,
     "agendado": 8,
     "agendado_coord": 0,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 13,
-    "pronto": 12,
+    "pronto": 13,
     "postado": 9,
     "agendado": 3,
     "agendado_coord": 0,
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 19,
     "pronto": 19,
-    "postado": 15,
+    "postado": 16,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 1,
+    "a_agendar": 0,
     "st-paused": null
   },
   "Finseg Leal": {
@@ -225,7 +225,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 11,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 2,
     "agendado": 8,
     "agendado_coord": 0,
@@ -340,11 +340,11 @@ const VIDEO_DATA = {
   },
   "Plannea": {
     "total": 7,
-    "pronto": 6,
-    "postado": 6,
+    "pronto": 7,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ortobom": {
     "total": 4,
@@ -990,10 +990,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "30/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-pe-a-pode-mudar-completamente-dependendo-da-escolha-do-material-3e933d8db9d28037a921fffd74dedb40"
@@ -1093,10 +1092,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-tempo-sua-equipe-perde-fazendo-manualmente-o-que-poderia-estar-organizado-e-automatizado-Fal-3cd33d8db9d280cca44cef65f5defe3f"
@@ -1607,10 +1604,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "30/09",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-conversa-no-WhatsApp-pode-virar-prova-3d733d8db9d280148b28cdefe5236c20"
@@ -2257,7 +2253,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe como uma deputada consegue uma cadeira?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "30/09",
       "missing": [],
@@ -2768,10 +2764,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Plano-de-sa-de-seguro-ou-benef-cio-empresarial-encontre-a-op-o-certa-para-o-seu-momento-Fale-co-3cd33d8db9d280088d00cdc85c0f0dd1"
@@ -3369,13 +3363,10 @@ const LINHA_VIDEO_ITEMS = {
   "Plannea": [
     {
       "title": "Crescer ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "30/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
@@ -4481,7 +4472,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Plannea": {
-    "prontas": 17,
+    "prontas": 18,
     "total": 20
   },
   "Ortobom": {
