@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/09/2026, 22:24:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 03:59:39 **/
 
-const LAST_UPDATE = '29/09/2026, 22:24:57';
+const LAST_UPDATE = '30/09/2026, 03:59:39';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -315,12 +315,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 2,
+    "total": 1,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Rede Pangeia": {
     "total": 0,
@@ -3232,20 +3232,6 @@ const LINHA_VIDEO_ITEMS = {
   "RR Advocacia": [
     {
       "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "29/09",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3d733d8db9d28051af98e0a12ba8223a"
-    },
-    {
-      "title": "Vídeo",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "01/09",
@@ -4484,7 +4470,7 @@ const LEGENDAS_DATA = {
   },
   "RR Advocacia": {
     "prontas": 13,
-    "total": 15
+    "total": 14
   },
   "Rede Pangeia": {
     "prontas": 5,
@@ -4604,7 +4590,7 @@ const FORMAT_COUNTS = {
     "post": 13,
     "carrossel": 0,
     "foto": 0,
-    "video": 2,
+    "video": 1,
     "story": 2
   },
   "Rede Pangeia": {
