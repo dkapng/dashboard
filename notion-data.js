@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 22:43:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/10/2026, 05:06:11 **/
 
-const LAST_UPDATE = '30/09/2026, 22:43:48';
+const LAST_UPDATE = '01/10/2026, 05:06:11';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -215,7 +215,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -606,10 +606,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "01/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/1-de-outubro-Dia-do-Idoso-Envelhecer-tamb-m-continuar-fazendo-hist-ria-3eb33d8db9d2802bb1e1d5bf46e85a76"
@@ -2082,7 +2081,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Pausado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/3-contas-que-ningu-m-coloca-no-or-amento-at-elas-aparecerem-3d033d8db9d28036b282d081fcb85d71"
@@ -2318,10 +2317,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "01/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-foi-chamado-para-prestar-esclarecimentos-Precisa-ir-acompanhado-de-advogado-3dc33d8db9d280bbaa19d803b964307f"
@@ -2932,7 +2929,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3eb33d8db9d2800e8147c14679a7aac1"
     },
     {
-      "title": "Story/stories",
+      "title": "Conflito no trabalho",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "01/10",
@@ -2942,7 +2939,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3eb33d8db9d280cabb03faa96d09aadb"
+      "notionUrl": "https://app.notion.com/p/Conflito-no-trabalho-3eb33d8db9d280cabb03faa96d09aadb"
     }
   ],
   "Rede Pangeia": [],
@@ -3267,7 +3264,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Agenda de outubro de 2026",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
       "gestora": "Equipe",
       "date": "25/09"
