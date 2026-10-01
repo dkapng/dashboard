@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 19:45:18 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/09/2026, 22:43:48 **/
 
-const LAST_UPDATE = '30/09/2026, 19:45:18';
+const LAST_UPDATE = '30/09/2026, 22:43:48';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,52 +62,52 @@ const NICHES = {
 
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
-    "total": 3,
-    "pronto": 3,
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "AAFEC": {
-    "total": 17,
-    "pronto": 17,
-    "postado": 15,
+    "total": 2,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
   },
   "Ser Ponte": {
-    "total": 13,
-    "pronto": 12,
-    "postado": 11,
+    "total": 2,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
   },
   "Tramix": {
-    "total": 9,
-    "pronto": 9,
-    "postado": 9,
+    "total": 5,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 5
   },
   "Stratto": {
     "total": 12,
-    "pronto": 12,
-    "postado": 4,
-    "agendado": 8,
+    "pronto": 2,
+    "postado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 10
   },
   "Juntos contra o HPV": {
-    "total": 18,
-    "pronto": 18,
-    "postado": 9,
-    "agendado": 9,
+    "total": 15,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 15
   },
   "Ventana": {
     "total": 0,
@@ -118,12 +118,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 13,
-    "pronto": 9,
-    "postado": 1,
-    "agendado": 8,
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 0
   },
   "Terrartesã": {
     "total": 0,
@@ -134,69 +134,68 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 13,
-    "pronto": 13,
-    "postado": 9,
-    "agendado": 3,
+    "total": 9,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 9
   },
   "Rede Pangeia": {
-    "total": 5,
-    "pronto": 5,
-    "postado": 4,
-    "agendado": 1,
+    "total": 3,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Planos Seguros": {
-    "total": 4,
-    "pronto": 2,
-    "postado": 2,
+    "total": 5,
+    "pronto": 1,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 5
   },
   "Plannea": {
-    "total": 14,
-    "pronto": 14,
-    "postado": 10,
+    "total": 5,
+    "pronto": 3,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 5
   },
   "Ortobom": {
-    "total": 2,
-    "pronto": 1,
-    "postado": 1,
+    "total": 1,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
   },
   "ItalaP": {
-    "total": 12,
-    "pronto": 12,
-    "postado": 6,
-    "agendado": 6,
+    "total": 18,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 18
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
-    "pronto": 18,
-    "postado": 16,
+    "pronto": 2,
+    "postado": 0,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 0,
-    "st-paused": null
+    "agendado_coord": 4,
+    "a_agendar": 14
   },
   "Finseg Leal": {
-    "total": 12,
-    "pronto": 12,
-    "postado": 3,
-    "agendado": 8,
-    "agendado_coord": 1,
-    "a_agendar": 0
+    "total": 14,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 14
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -207,37 +206,36 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 13,
-    "pronto": 13,
-    "postado": 3,
-    "agendado": 5,
-    "agendado_coord": 1,
-    "a_agendar": 0,
-    "st-paused": null
+    "total": 9,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 9
   },
   "Daniel Maia Advocacia": {
-    "total": 7,
-    "pronto": 7,
+    "total": 9,
+    "pronto": 0,
     "postado": 0,
-    "agendado": 7,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 9
   },
   "Conecta Assessoria": {
-    "total": 11,
-    "pronto": 11,
-    "postado": 2,
-    "agendado": 9,
+    "total": 13,
+    "pronto": 1,
+    "postado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 12
   },
   "Solar Coworking": {
-    "total": 9,
-    "pronto": 8,
-    "postado": 2,
-    "agendado": 3,
-    "agendado_coord": 3,
-    "a_agendar": 1
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
   }
 };
 
@@ -251,10 +249,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "AAFEC": {
-    "total": 3,
-    "pronto": 3,
-    "postado": 2,
-    "agendado": 1,
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -267,28 +265,28 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Tramix": {
-    "total": 6,
-    "pronto": 6,
-    "postado": 5,
+    "total": 1,
+    "pronto": 1,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
   },
   "Stratto": {
-    "total": 3,
-    "pronto": 3,
+    "total": 2,
+    "pronto": 0,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Juntos contra o HPV": {
-    "total": 11,
-    "pronto": 11,
-    "postado": 3,
-    "agendado": 8,
+    "total": 4,
+    "pronto": 1,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 4
   },
   "Ventana": {
     "total": 0,
@@ -315,10 +313,10 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 1,
-    "pronto": 1,
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -331,38 +329,6 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Planos Seguros": {
-    "total": 12,
-    "pronto": 12,
-    "postado": 12,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
-  "Plannea": {
-    "total": 7,
-    "pronto": 7,
-    "postado": 7,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
-  "Ortobom": {
-    "total": 4,
-    "pronto": 4,
-    "postado": 3,
-    "agendado": 6,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
-  "ItalaP": {
-    "total": 5,
-    "pronto": 5,
-    "postado": 2,
-    "agendado": 3,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
-  "Grupo Mulheres do Brasil": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -370,13 +336,45 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
+  "Plannea": {
+    "total": 3,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 3
+  },
+  "Ortobom": {
+    "total": 1,
+    "pronto": 1,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 1
+  },
+  "ItalaP": {
+    "total": 1,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 1
+  },
+  "Grupo Mulheres do Brasil": {
+    "total": 1,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 1
+  },
   "Finseg Leal": {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 4,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 4
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -387,12 +385,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 1,
-    "pronto": 1,
-    "postado": 1,
+    "total": 6,
+    "pronto": 2,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 6
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -403,20 +401,20 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 3,
-    "pronto": 3,
+    "total": 4,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 3,
-    "agendado_coord": 0,
-    "a_agendar": 0
+    "agendado": 1,
+    "agendado_coord": 2,
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 0,
     "pronto": 0,
-    "postado": 1,
-    "agendado": 2,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   }
 };
 
@@ -438,9 +436,9 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ser Ponte": {
-    "total": 1,
-    "pronto": 1,
-    "postado": 1,
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -462,9 +460,9 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Juntos contra o HPV": {
-    "total": 3,
-    "pronto": 3,
-    "postado": 3,
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -478,12 +476,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 2,
-    "pronto": 2,
-    "postado": 2,
+    "total": 1,
+    "pronto": 1,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Terrartesã": {
     "total": 0,
@@ -495,48 +493,48 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 2,
-    "pronto": 2,
-    "postado": 2,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
-  "Rede Pangeia": {
-    "total": 3,
-    "pronto": 2,
-    "postado": 2,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 1
-  },
-  "Planos Seguros": {
-    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 2
+  },
+  "Rede Pangeia": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
+  "Planos Seguros": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
   },
   "Plannea": {
-    "total": 2,
-    "pronto": 2,
-    "postado": 2,
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 4,
-    "pronto": 4,
-    "postado": 3,
+    "total": 3,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 3
   },
   "ItalaP": {
-    "total": 3,
-    "pronto": 3,
-    "postado": 3,
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -574,26 +572,25 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Daniel Maia Advocacia": {
-    "total": 1,
-    "pronto": 1,
+    "total": 0,
+    "pronto": 0,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 7,
-    "pronto": 7,
-    "postado": 5,
-    "agendado": 1,
+    "total": 4,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0,
-    "st-paused": null
+    "a_agendar": 4
   },
   "Solar Coworking": {
-    "total": 4,
-    "pronto": 4,
-    "postado": 4,
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
@@ -601,271 +598,43 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
-  "Hélio Rôla 90 Anos": [
-    {
-      "title": "Convite para visita guiada",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Convite-para-visita-guiada-3d633d8db9d280e0a75cd2c5f538922b"
-    },
-    {
-      "title": "Como visitar uma vida que nunca foi uma linha reta?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Como-visitar-uma-vida-que-nunca-foi-uma-linha-reta-3c733d8db9d28022b6cfeec188c4011c"
-    },
-    {
-      "title": "Quem é Hélio Rôla? 90 anos de uma vida entre arte, ciência, cidade e experimentação.",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-H-lio-R-la-90-anos-de-uma-vida-entre-arte-ci-ncia-cidade-e-experimenta-o-3c733d8db9d280238fe2ef82a4ea7fe0"
-    }
-  ],
+  "Hélio Rôla 90 Anos": [],
   "AAFEC": [
     {
-      "title": "Entre fé, cantos e memórias",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Entre-f-cantos-e-mem-rias-3e333d8db9d28071b39bf261c492b8bb"
-    },
-    {
-      "title": "Laboratório Social e Resiliência",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Laborat-rio-Social-e-Resili-ncia-3e333d8db9d2801595d2e577479a22ad"
-    },
-    {
-      "title": "Setembro amarelo: Cuidar da saúde mental também é cuidar dos vínculos.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-Cuidar-da-sa-de-mental-tamb-m-cuidar-dos-v-nculos-3d833d8db9d28073ac96e5f2c9318048"
-    },
-    {
-      "title": "Entre Cantos e Contos Fortaleza",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Fortaleza-3cd33d8db9d280418a2ee555f35af372"
-    },
-    {
-      "title": "Palestra Dia Mundial do Alzheimer",
+      "title": "1º de outubro | Dia do Idoso. Envelhecer também é continuar fazendo história",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "18/09",
+      "date": "01/10",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Palestra-Dia-Mundial-do-Alzheimer-3cd33d8db9d2807b8cc4d0d77ce03cc6"
+      "notionUrl": "https://app.notion.com/p/1-de-outubro-Dia-do-Idoso-Envelhecer-tamb-m-continuar-fazendo-hist-ria-3eb33d8db9d2802bb1e1d5bf46e85a76"
     },
     {
-      "title": "Palestra sobre educação financeira",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Palestra-sobre-educa-o-financeira-3cd33d8db9d2803389e0cb50dc707d7b"
-    },
-    {
-      "title": "Entre Cantos e Contos Cariri Setembro",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Cariri-Setembro-3cd33d8db9d2805da64fc5ce91eb8a0a"
-    },
-    {
-      "title": "Boteco AAFEC Setembro",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Boteco-AAFEC-Setembro-3cd33d8db9d2801486d1d6c1d054732f"
-    },
-    {
-      "title": "Reunião mensal de setembro",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Reuni-o-mensal-de-setembro-3cd33d8db9d280038f0ef137bec3276b"
-    },
-    {
-      "title": "O Ceará avança pelas mãos do fazendário (em letra menor: 28 de setembro | Dia do Fazendário)",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-Cear-avan-a-pelas-m-os-do-fazend-rio-em-letra-menor-28-de-setembro-Dia-do-Fazend-rio-3c933d8db9d280bebd0ccf05cd8b9f81"
-    },
-    {
-      "title": "7 de Setembro: celebrar o Brasil, construir o futuro (em letra menor: Feriado, não abrimos hoje)",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "07/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/7-de-Setembro-celebrar-o-Brasil-construir-o-futuro-em-letra-menor-Feriado-n-o-abrimos-hoje-3c933d8db9d28046aee3fc5db845bbe4"
-    },
-    {
-      "title": "Agenda de setembro",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "01/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-setembro-3c933d8db9d2801e816ee03bacf2e9a1"
-    },
-    {
-      "title": "Aposentadoria não significa afastamento da categoria.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aposentadoria-n-o-significa-afastamento-da-categoria-3ba33d8db9d28099909fc2f424e8f200"
-    },
-    {
-      "title": "Autonomia financeira exige governança",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "08/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Autonomia-financeira-exige-governan-a-3ba33d8db9d2809cb93af63e88e12924"
-    },
-    {
-      "title": "Servidores fazendários aposentados antes de 1998 possuem direito à revisão dos valores recebidos.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "01/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Servidores-fazend-rios-aposentados-antes-de-1998-possuem-direito-revis-o-dos-valores-recebidos-39d33d8db9d2801dad3dfb69bac42f98"
-    },
-    {
-      "title": "Atenção, associados: criminosos estão aplicando o golpe do corretor",
+      "title": "Agenda de outubro de 2026",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
+      "date": "01/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aten-o-associados-criminosos-est-o-aplicando-o-golpe-do-corretor-39d33d8db9d280c3a9e4c7fe4f8180fe"
-    },
-    {
-      "title": "Você sabia que a AAFEC oferece academia gratuita aos associados?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabia-que-a-AAFEC-oferece-academia-gratuita-aos-associados-39d33d8db9d2806a9fc5deab6b03d0de"
+      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ea33d8db9d2804bb987e377f7c38542"
     }
   ],
   "Ser Ponte": [
     {
-      "title": "Chamam as mães solos de ",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Chamam-as-m-es-solos-de-m-es-guerreiras-mas-onde-est-o-as-pol-ticas-para-que-elas-n-o-precisem-en-3de33d8db9d280bcbb79c9c68120a8c8"
-    },
-    {
-      "title": "E se essa peça for a sua escolha na Auê? 👀",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/E-se-essa-pe-a-for-a-sua-escolha-na-Au-3dc33d8db9d280ebabbff3482f719b9e"
-    },
-    {
-      "title": "A Travessia vai estar na Auê Feira! 🌿",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-Travessia-vai-estar-na-Au-Feira-3dc33d8db9d280b998fbcf44a87299ad"
-    },
-    {
-      "title": "Setembro amarelo: Saúde mental também passa por segurança, renda e condições dignas para viver.",
+      "title": "Conteúdo Larissa pessoa acessível",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "15/09",
+      "date": "05/10",
       "missing": [
         "Design",
         "Legenda"
@@ -873,1971 +642,28 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-Sa-de-mental-tamb-m-passa-por-seguran-a-renda-e-condi-es-dignas-para-viver-3d833d8db9d280b28273d5c4d7316648"
+      "notionUrl": "https://app.notion.com/p/Conte-do-Larissa-pessoa-acess-vel-3c233d8db9d28027a41bf7e87ac47871"
     },
     {
-      "title": "Por que aumentar a renda de uma família pode movimentar todo um território? ",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Por-que-aumentar-a-renda-de-uma-fam-lia-pode-movimentar-todo-um-territ-rio-O-dinheiro-recebido-por--3bf33d8db9d28061a2bac383fd7a1d93"
-    },
-    {
-      "title": "O que significa viver no limite?",
-      "status": "postado",
+      "title": "Quanto custa para trabalhar?",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "date": "02/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-significa-viver-no-limite-3bf33d8db9d280209394dd387d4684e0"
-    },
-    {
-      "title": "O que muda quando uma comunidade começa a construir soluções dentro do próprio território?",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-muda-quando-uma-comunidade-come-a-a-construir-solu-es-dentro-do-pr-prio-territ-rio-3bf33d8db9d2803d970fe420a3a08a33"
-    },
-    {
-      "title": "O bairro onde você mora pode definir as oportunidades que você encontra.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-bairro-onde-voc-mora-pode-definir-as-oportunidades-que-voc-encontra-3bf33d8db9d280dfa555deeb32f19b00"
-    },
-    {
-      "title": "Quando falta dinheiro, qualquer imprevisto vira uma crise.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-falta-dinheiro-qualquer-imprevisto-vira-uma-crise-3bf33d8db9d280ebbf14e814d7458809"
-    },
-    {
-      "title": "Renda básica significa apenas dinheiro? À primeira vista pode parecer que sim, mas o impacto de uma renda vai muito além do valor recebido.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Renda-b-sica-significa-apenas-dinheiro-primeira-vista-pode-parecer-que-sim-mas-o-impacto-de-uma--3bf33d8db9d2801889dfd4a03884a11a"
-    },
-    {
-      "title": "Renda não resolve tudo. Mas a falta dela limita muita coisa.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Renda-n-o-resolve-tudo-Mas-a-falta-dela-limita-muita-coisa-3bf33d8db9d280b683b4fb2df5f0d222"
-    },
-    {
-      "title": "Ser mulher representa, em média, 10 horas semanais a mais de trabalho doméstico e de cuidado.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Ser-mulher-representa-em-m-dia-10-horas-semanais-a-mais-de-trabalho-dom-stico-e-de-cuidado-39733d8db9d2802c9dc5e3ce7162d868"
-    },
-    {
-      "title": "O trabalho de cuidado ainda não entra no cálculo do PIB, mesmo sendo indispensável para a economia funcionar.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "14/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-trabalho-de-cuidado-ainda-n-o-entra-no-c-lculo-do-PIB-mesmo-sendo-indispens-vel-para-a-economia-f-39733d8db9d280d2a11fcb63e7ee8755"
+      "notionUrl": "https://app.notion.com/p/Quanto-custa-para-trabalhar-3bf33d8db9d280edb6f7e430b4f6f29f"
     }
   ],
   "Tramix": [
     {
-      "title": "Uma peça pode mudar completamente dependendo da escolha do material.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-pe-a-pode-mudar-completamente-dependendo-da-escolha-do-material-3e933d8db9d28037a921fffd74dedb40"
-    },
-    {
-      "title": "Você compra pelo preço ou pelo que esse material entrega?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-compra-pelo-pre-o-ou-pelo-que-esse-material-entrega-3e933d8db9d280299877d9fe0dfde02b"
-    },
-    {
-      "title": "Dia do cliente: Para quem transforma ideias em criação, obrigado por escolher a Tramix para fazer parte desse processo.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-Para-quem-transforma-ideias-em-cria-o-obrigado-por-escolher-a-Tramix-para-fazer-pa-3dc33d8db9d2807681b4f7468f24ca18"
-    },
-    {
-      "title": "7 de Setembro: Dia da Independência - Um país que cria também constrói sua própria história.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "07/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Um-pa-s-que-cria-tamb-m-constr-i-sua-pr-pria-hist-ria-3ce33d8db9d28029b5ebe905fa126348"
-    },
-    {
-      "title": "Mais de 100 cores de zíperes para sua produção.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mais-de-100-cores-de-z-peres-para-sua-produ-o-3bf33d8db9d280039cf5e1104e595426"
-    },
-    {
-      "title": "Linha 120: quando a costura pede desempenho",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Linha-120-quando-a-costura-pede-desempenho-3bf33d8db9d280f5af0ac244a4fc66d1"
-    },
-    {
-      "title": "Cor não é apenas estética quando falamos de aviamentos.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cor-n-o-apenas-est-tica-quando-falamos-de-aviamentos-3bf33d8db9d28084bc81fed16799ca86"
-    },
-    {
-      "title": "Toda empresa tem um começo. A Tramix começou com cinco pessoas.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Toda-empresa-tem-um-come-o-A-Tramix-come-ou-com-cinco-pessoas-3bf33d8db9d2804292b1d865a5409737"
-    },
-    {
-      "title": "Os zíperes Tramix são produzidos em nylon sintético de alta resistência",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Os-z-peres-Tramix-s-o-produzidos-em-nylon-sint-tico-de-alta-resist-ncia-3bf33d8db9d280a4abade4493e47ea2f"
-    }
-  ],
-  "Stratto": [
-    {
-      "title": "Não existe solução financeira eficiente sem entender onde o problema começa. Agende uma conversa com a Stratto.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/N-o-existe-solu-o-financeira-eficiente-sem-entender-onde-o-problema-come-a-Agende-uma-conversa-com-3cd33d8db9d2805fa3c2d71cbde49269"
-    },
-    {
-      "title": "Quando o financeiro começa a participar da estratégia, o empresário deixa de decidir no escuro. Quer levar mais inteligência para a gestão da sua empresa? Fale com a Stratto.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-o-financeiro-come-a-a-participar-da-estrat-gia-o-empres-rio-deixa-de-decidir-no-escuro-Quer-3cd33d8db9d280fe9752e94195503615"
-    },
-    {
-      "title": "Você cuida do crescimento da empresa. A Stratto cuida da gestão financeira. Conheça nosso BPO Financeiro. Chame a nossa equipe no WhatsApp.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-cuida-do-crescimento-da-empresa-A-Stratto-cuida-da-gest-o-financeira-Conhe-a-nosso-BPO-Financ-3cd33d8db9d280d29dc8cc74fbc7a77a"
-    },
-    {
-      "title": "Entre números, regras e decisões, existe um profissional essencial: o contador. DIA DO CONTADOR",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Entre-n-meros-regras-e-decis-es-existe-um-profissional-essencial-o-contador-DIA-DO-CONTADOR-3cd33d8db9d2803580ffd2940d407322"
-    },
-    {
-      "title": "Por trás de cada empresa, existe uma história. Obrigado por nos deixar fazer parte dela - Dia do cliente!",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Por-tr-s-de-cada-empresa-existe-uma-hist-ria-Obrigado-por-nos-deixar-fazer-parte-dela-Dia-do-cli-3cd33d8db9d280e59fb7fd236f6c2a4c"
-    },
-    {
-      "title": "Administrar não é apenas manter a empresa funcionando. É criar condições para ela evoluir. - DIA DO ADMINISTRADOR",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Administrar-n-o-apenas-manter-a-empresa-funcionando-criar-condi-es-para-ela-evoluir-DIA-DO--3cd33d8db9d280a481d1f552d80af8c4"
-    },
-    {
-      "title": "O empresário que precisa aprovar tudo acaba se tornando o limite da própria empresa.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-empres-rio-que-precisa-aprovar-tudo-acaba-se-tornando-o-limite-da-pr-pria-empresa-3cd33d8db9d28048ab59cecca7397616"
-    },
-    {
-      "title": "Quais números realmente dizem se sua empresa está crescendo de forma saudável?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quais-n-meros-realmente-dizem-se-sua-empresa-est-crescendo-de-forma-saud-vel-3cd33d8db9d280539809fab224dccacc"
-    },
-    {
-      "title": "Para crescer, você precisa confiar. Para confiar, precisa ter processos.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Para-crescer-voc-precisa-confiar-Para-confiar-precisa-ter-processos-3cd33d8db9d28065a9eaeded6d717393"
-    },
-    {
-      "title": "Quanto custa para sua empresa cada hora que você passa fazendo o trabalho de outra pessoa?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-custa-para-sua-empresa-cada-hora-que-voc-passa-fazendo-o-trabalho-de-outra-pessoa-3cd33d8db9d280b69b26fe2afcf13de5"
-    },
-    {
-      "title": "Liderar não é ser a pessoa que resolve tudo. É construir uma empresa que não dependa de você para tudo.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Liderar-n-o-ser-a-pessoa-que-resolve-tudo-construir-uma-empresa-que-n-o-dependa-de-voc-para-tu-39133d8db9d280e6be78dec50a9b5b04"
-    },
-    {
-      "title": "Você construiu uma empresa para crescer ou um trabalho que depende de você?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "01/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-construiu-uma-empresa-para-crescer-ou-um-trabalho-que-depende-de-voc-39133d8db9d2808696e4dd13b045423b"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "SAIU NA MÍDIA - O I Simpósio do Movimento Juntos Contra o HPV ganhou espaço na imprensa. E a conversa sobre prevenção ao HPV foi ainda mais longe.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/SAIU-NA-M-DIA-O-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-ganhou-espa-o-na-imprensa-E-a-convers-3e233d8db9d28039ab67f1054f87ffbe"
-    },
-    {
-      "title": "#Tbt do Simpósio",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Tbt-do-Simp-sio-3e233d8db9d2802c86a6d67ed3dce234"
-    },
-    {
-      "title": "Mesa redonda III - Redes de atenção à saúde e inovação tecnológica para ampliar a cobertura da vacina HPV e o rastreamento do câncer do colo do útero",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mesa-redonda-III-Redes-de-aten-o-sa-de-e-inova-o-tecnol-gica-para-ampliar-a-cobertura-da-vacin-3dd33d8db9d280cd8cd0fcf520a3b1ba"
-    },
-    {
-      "title": "Mesa redonda II - Vacinação contra o HPV: desafios e perspectivas para a eliminação do câncer do colo do útero no Brasil e o alcance dos Objetivos de Desenvolvimento Sustentável (ODS)",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mesa-redonda-II-Vacina-o-contra-o-HPV-desafios-e-perspectivas-para-a-elimina-o-do-c-ncer-do-col-3dd33d8db9d2805ca2fdc1f0524af416"
-    },
-    {
-      "title": "Mesa redonda I - Experiências exitosas do Movimento Juntos Contra o HPV nos estados do Ceará, Pernambuco, São Paulo e Distrito Federal",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mesa-redonda-I-Experi-ncias-exitosas-do-Movimento-Juntos-Contra-o-HPV-nos-estados-do-Cear-Pernam-3dd33d8db9d2805f97dcecff0b871e75"
-    },
-    {
-      "title": "Conferência magna - I Simpósio do Movimento Juntos Contra o HPV\nFormação de redes para eliminar o câncer do colo do útero no Brasil\nSUS • Sociedade civil • Universidades • Comunidade Profa. Dra. Ana Karina Bezerra Pinheiro — UFC  18 de setembro - 9h50",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Confer-ncia-magna-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-Forma-o-de-redes-para-eliminar-o-c--3dd33d8db9d2803b894cd18984195e83"
-    },
-    {
-      "title": "Conheça quem mais estará com a gente no I Simpósio do movimento juntos contra o HPV | Parte 2",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Conhe-a-quem-mais-estar-com-a-gente-no-I-Simp-sio-do-movimento-juntos-contra-o-HPV-Parte-2-3dd33d8db9d2809a84bde8b9d10acd5a"
-    },
-    {
-      "title": "Vai estar com a gente sexta-feira?\nSalva este post. Tudo o que você precisa saber para o I Simpósio do Movimento Juntos contra o HPV.",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Vai-estar-com-a-gente-sexta-feira-Salva-este-post-Tudo-o-que-voc-precisa-saber-para-o-I-Simp-sio--3dd33d8db9d28058bd8dee2891c44102"
-    },
-    {
-      "title": "Juntos, ampliamos o impacto da prevenção.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Juntos-ampliamos-o-impacto-da-preven-o-3dc33d8db9d28013ae55c50c84fe1a83"
-    },
-    {
-      "title": "Seu corpo mudou? Não ignore uma alteração que persiste. Nem todo sintoma significa câncer. Mas mudanças persistentes merecem validação.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-corpo-mudou-N-o-ignore-uma-altera-o-que-persiste-Nem-todo-sintoma-significa-c-ncer-Mas-mudan-3d633d8db9d28038a355c5cd65a42ad8"
-    },
-    {
-      "title": "Setembro também é mês de falar sobre tumores ginecológicos.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Setembro-tamb-m-m-s-de-falar-sobre-tumores-ginecol-gicos-3d633d8db9d28093b5d0eb5449adc953"
-    },
-    {
-      "title": "Sua experiência com a vacina contra o HPV importa. A Conitec quer ouvir você.\nChamada Pública | Perspectiva do Paciente\nInscrições até 11/09/2026\nLink na bio!",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "08/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-experi-ncia-com-a-vacina-contra-o-HPV-importa-A-Conitec-quer-ouvir-voc-Chamada-P-blica-Pers-3d033d8db9d280c3b75df81ebf7834b8"
-    },
-    {
-      "title": "Confira a lista dos trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV. O link com a divulgação dos trabalhos está disponível na bio.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Confira-a-lista-dos-trabalhos-selecionados-para-o-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-O-lin-3cf33d8db9d280c9bb21cf0c8a58eeb0"
-    },
-    {
-      "title": "Divulgação da Dra. Marcella",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Divulga-o-da-Dra-Marcella-3ce33d8db9d28057842ac8a367fc593d"
-    },
-    {
-      "title": "Juntos, fazemos este movimento acontecer.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Juntos-fazemos-este-movimento-acontecer-3ab33d8db9d2803bb022eae7096319f9"
-    },
-    {
-      "title": "Falta pouco para um encontro que reúne quem está construindo o futuro da prevenção. Mais do que um Simpósio: Um encontro entre ciência, inovação, gestão e mobilização social!",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Falta-pouco-para-um-encontro-que-re-ne-quem-est-construindo-o-futuro-da-preven-o-Mais-do-que-um-S-3ab33d8db9d280398e42f5345927326a"
-    },
-    {
-      "title": "O I Simpósio não será construído por uma única voz! Conheça os participantes…",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-I-Simp-sio-n-o-ser-constru-do-por-uma-nica-voz-Conhe-a-os-participantes-3ab33d8db9d280b795dde78bde104a78"
-    },
-    {
-      "title": "Juh, a vacina contra o HPV é segura? H2: Sim! A vacina é segura, eficaz e recomendada por autoridades de saúde do Brasil e do mundo. H3: Ela protege contra os tipos de HPV que mais causam câncer e outras doenças relacionadas ao vírus.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Juh-a-vacina-contra-o-HPV-segura-H2-Sim-A-vacina-segura-eficaz-e-recomendada-por-autoridade-39833d8db9d2806d9bb2c842a6c1278f"
-    }
-  ],
-  "Ventana": [],
-  "Univendas": [
-    {
-      "title": "Seu plano precisa funcionar quando você realmente precisa.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-plano-precisa-funcionar-quando-voc-realmente-precisa-3d633d8db9d280f1a33fd99845b508fe"
-    },
-    {
-      "title": "Quando a saúde chama, é bom saber que você pode contar.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "12/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-a-sa-de-chama-bom-saber-que-voc-pode-contar-3d633d8db9d2809295eaeac94fd02fb3"
-    },
-    {
-      "title": "Tbt de fotos",
-      "status": "agendado",
-      "formato": "📸 Foto(s)",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Tbt-de-fotos-3d633d8db9d28053a6e5eac4333e5b57"
-    },
-    {
-      "title": "Cuidar da saúde antes que ela vire uma preocupação faz toda a diferença.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cuidar-da-sa-de-antes-que-ela-vire-uma-preocupa-o-faz-toda-a-diferen-a-3cd33d8db9d28036ac03ca320f720966"
-    },
-    {
-      "title": "Para escolher seu plano Unimed, conte com quem entende.",
+      "title": "Nenhuma peça é feita por uma empresa só. E o futuro da indústria também não será.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Para-escolher-seu-plano-Unimed-conte-com-quem-entende-3cd33d8db9d280dc997ac9391e55188a"
-    },
-    {
-      "title": "Você no centro. Como sempre deve ser.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-no-centro-Como-sempre-deve-ser-3cd33d8db9d280ec81a2ef6ad4d4f79c"
-    },
-    {
-      "title": "Pequenos cuidados hoje podem fazer uma grande diferença amanhã.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Pequenos-cuidados-hoje-podem-fazer-uma-grande-diferen-a-amanh-3cd33d8db9d2808e89d5d08717bc29d8"
-    },
-    {
-      "title": "Prevenção não é esperar um problema aparecer. É se antecipar a ele.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Preven-o-n-o-esperar-um-problema-aparecer-se-antecipar-a-ele-3cd33d8db9d28044af33cb1117f8d9b3"
-    },
-    {
-      "title": "Investir em saúde pode transformar a experiência de quem trabalha na sua empresa.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Investir-em-sa-de-pode-transformar-a-experi-ncia-de-quem-trabalha-na-sua-empresa-3cd33d8db9d280c585c3f8deb7904920"
-    },
-    {
-      "title": "A NR-1 reforça o que boas empresas já sabem: pessoas precisam estar no centro.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-NR-1-refor-a-o-que-boas-empresas-j-sabem-pessoas-precisam-estar-no-centro-3cd33d8db9d2809dbb15dd63b64abe41"
-    },
-    {
-      "title": "O que é silencioso também merece atenção.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-silencioso-tamb-m-merece-aten-o-3cd33d8db9d2801ab463cd1c243c2034"
-    },
-    {
-      "title": "Nos momentos que mais importam, conte com quem está preparado.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Nos-momentos-que-mais-importam-conte-com-quem-est-preparado-3cd33d8db9d2809dbe7deb3f9a0bd358"
-    },
-    {
-      "title": "Falar pode ser o primeiro passo para transformar silêncio em cuidado.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Falar-pode-ser-o-primeiro-passo-para-transformar-sil-ncio-em-cuidado-3cd33d8db9d280cab07bc0af75b623af"
-    }
-  ],
-  "Terrartesã": [],
-  "RR Advocacia": [
-    {
-      "title": "Uma cláusula pode mudar o rumo de um contrato.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-cl-usula-pode-mudar-o-rumo-de-um-contrato-3d733d8db9d28064bdb4cf81ba62abbe"
-    },
-    {
-      "title": "Uma conversa no WhatsApp pode virar prova?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-conversa-no-WhatsApp-pode-virar-prova-3d733d8db9d280148b28cdefe5236c20"
-    },
-    {
-      "title": "O que acontece quando uma empresa quebra um contrato?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-acontece-quando-uma-empresa-quebra-um-contrato-3d733d8db9d280be8d8edbce2b3aa638"
-    },
-    {
-      "title": "Bateu o carro. E agora: quem paga a conta?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Bateu-o-carro-E-agora-quem-paga-a-conta-3d733d8db9d280e0b799d43e2fb05bc3"
-    },
-    {
-      "title": "A relação de consumo envolve direitos e responsabilidades para os dois lados.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-rela-o-de-consumo-envolve-direitos-e-responsabilidades-para-os-dois-lados-3d733d8db9d280428fc3ffb3102508c8"
-    },
-    {
-      "title": "O que a sua empresa faz quando percebe que um funcionário não está bem?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-a-sua-empresa-faz-quando-percebe-que-um-funcion-rio-n-o-est-bem-3d733d8db9d280399982f0c85a2373b7"
-    },
-    {
-      "title": "“Era só uma brincadeira.” Pode não ser.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Era-s-uma-brincadeira-Pode-n-o-ser-3ce33d8db9d280739112e89207875d93"
-    },
-    {
-      "title": "Acesso aos dados também precisa de controle.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Acesso-aos-dados-tamb-m-precisa-de-controle-3ce33d8db9d280cbbc80e70cc9c7201f"
-    },
-    {
-      "title": "Ser cliente também significa ter direitos.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Ser-cliente-tamb-m-significa-ter-direitos-3ce33d8db9d280219bd9cb51efe8f4c2"
-    },
-    {
-      "title": "Quando os sócios discordam, quem decide?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-os-s-cios-discordam-quem-decide-3ce33d8db9d2804981dff880929afece"
-    },
-    {
-      "title": "Comprou pela internet e se arrependeu? Você pode ter um prazo para desistir.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "07/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Comprou-pela-internet-e-se-arrependeu-Voc-pode-ter-um-prazo-para-desistir-3ce33d8db9d2804e9506c925e729d274"
-    },
-    {
-      "title": "Sua empresa cresceu. A estrutura jurídica acompanhou esse crescimento?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-empresa-cresceu-A-estrutura-jur-dica-acompanhou-esse-crescimento-3ce33d8db9d280d0978feec51fb8ddbf"
-    },
-    {
-      "title": "Um ambiente de trabalho saudável também envolve responsabilidade jurídica.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Um-ambiente-de-trabalho-saud-vel-tamb-m-envolve-responsabilidade-jur-dica-3ce33d8db9d28082b71cf1612b9516c5"
-    }
-  ],
-  "Rede Pangeia": [
-    {
-      "title": "Sua equipe sabe por que está fazendo o que faz?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-equipe-sabe-por-que-est-fazendo-o-que-faz-Executar-tarefas-diferente-de-compreender-o-impact-3d533d8db9d280c8b22ce08744147601"
-    },
-    {
-      "title": "Nem todo problema de uma ONG é falta de recursos. Às vezes, o recurso existe. O que falta é estrutura para acessá-lo, organizá-lo ou transformá-lo em resultado.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Nem-todo-problema-de-uma-ONG-falta-de-recursos-s-vezes-o-recurso-existe-O-que-falta-estrutur-3d533d8db9d28019b852e64c36472160"
-    },
-    {
-      "title": "5 sinais de que sua organização precisa fortalecer a gestão",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/5-sinais-de-que-sua-organiza-o-precisa-fortalecer-a-gest-o-3d533d8db9d28081a936d037f45ef55e"
-    },
-    {
-      "title": "Toda transformação começa com uma relação de confiança - Dia do cliente",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Toda-transforma-o-come-a-com-uma-rela-o-de-confian-a-Dia-do-cliente-3d533d8db9d28060b368e89dc54d9f72"
-    },
-    {
-      "title": "Toda causa precisa de quem cuide da sua gestão. Dia do Administrador",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Toda-causa-precisa-de-quem-cuide-da-sua-gest-o-Dia-do-Administrador-3d533d8db9d280c2a595c41ee88a04ef"
-    }
-  ],
-  "Planos Seguros": [
-    {
-      "title": "Palestra Setembro Amarelo ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Palestra-Setembro-Amarelo-3df33d8db9d2808ab9fac903520f965f"
-    },
-    {
-      "title": "Dia do cliente: Cuidar do que importa para você também é fazer boas escolhas. Obrigado por confiar na Plano Seguros",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-Cuidar-do-que-importa-para-voc-tamb-m-fazer-boas-escolhas-Obrigado-por-confiar-n-3dc33d8db9d280f39a83e0aae44fd9b4"
-    },
-    {
-      "title": "7 de Setembro: Dia da Independência - Independência também é ter tranquilidade para seguir o próprio caminho",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "07/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Independ-ncia-tamb-m-ter-tranquilidade-para-seguir-o-pr-prio-3ce33d8db9d280368f95eca695c45509"
-    },
-    {
-      "title": "Subseguro: um problema que muitas empresas descobrem tarde demais.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "01/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Subseguro-um-problema-que-muitas-empresas-descobrem-tarde-demais-3ae33d8db9d280d19cd8ef77de9256c8"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "O prazo do Simples mudou anteontem. ",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-prazo-do-Simples-mudou-anteontem-E-os-dois-prazos-que-estavam-previstos-para-terminar-hoje-tamb-m-3eb33d8db9d28081934fff6e58134eae"
-    },
-    {
-      "title": "Um número ruim mostra que alguma coisa aconteceu. Uma boa análise ajuda a entender por quê.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Um-n-mero-ruim-mostra-que-alguma-coisa-aconteceu-Uma-boa-an-lise-ajuda-a-entender-por-qu-3e933d8db9d28036ad58c5bfa260ffb4"
-    },
-    {
-      "title": "Post vagas ",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-vagas-3e633d8db9d280df901fdaf71478805f"
-    },
-    {
-      "title": "Luz, câmera… Contabilidade em Ação! ",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Luz-c-mera-Contabilidade-em-A-o-Nossa-campanha-chegou-ao-fim-e-j-temos-os-vencedores-3de33d8db9d2807d88bee965a4cb1164"
-    },
-    {
-      "title": "22 de setembro. Dia do Contador.  Contador não é quem faz os cálculos da sua empresa, é quem traz soluções.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/22-de-setembro-Dia-do-Contador-Contador-n-o-quem-faz-os-c-lculos-da-sua-empresa-quem-traz-so-3d833d8db9d280999c54ed0ae6185ded"
-    },
-    {
-      "title": "Evento - Reforma Tributária no Cariri (texto nos comentários)",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Evento-Reforma-Tribut-ria-no-Cariri-texto-nos-coment-rios-3d733d8db9d280c79f19ed76398a0562"
-    },
-    {
-      "title": "Promovidos de agosto",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Promovidos-de-agosto-3d733d8db9d2800b884be5b6b1ec1811"
-    },
-    {
-      "title": "O caixa da empresa também precisa de previsibilidade",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-caixa-da-empresa-tamb-m-precisa-de-previsibilidade-3ce33d8db9d280a18040f38ca0023e4d"
-    },
-    {
-      "title": "O regime de caixa do Simples está mudando",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-regime-de-caixa-do-Simples-est-mudando-3ce33d8db9d280cd9abcd9b35475eae3"
-    },
-    {
-      "title": "A Receita Federal já está cruzando informações antes mesmo de a empresa preencher obrigações",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-Receita-Federal-j-est-cruzando-informa-es-antes-mesmo-de-a-empresa-preencher-obriga-es-3ce33d8db9d280a3bbe3cb1de2e8426b"
-    },
-    {
-      "title": "Ter um sistema de gestão não significa ter informação confiável.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Ter-um-sistema-de-gest-o-n-o-significa-ter-informa-o-confi-vel-3ce33d8db9d280d0814cd149c9ea5382"
-    },
-    {
-      "title": "Durante a adaptação às novas obrigações da Reforma Tributária, o contador pode receber alertas diretamente da Receita",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Durante-a-adapta-o-s-novas-obriga-es-da-Reforma-Tribut-ria-o-contador-pode-receber-alertas-diret-3ce33d8db9d280d3b9c0eb0d19fa1179"
-    },
-    {
-      "title": "O Simples Nacional também está mudando.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-Simples-Nacional-tamb-m-est-mudando-3ce33d8db9d280fea4fce2f8d272d691"
-    },
-    {
-      "title": "7 de Setembro: Dia da Independência - Independência também é poder tomar boas decisões",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "07/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Independ-ncia-tamb-m-poder-tomar-boas-decis-es-3ce33d8db9d280aa93aedec0084ecfac"
-    }
-  ],
-  "Ortobom": [
-    {
-      "title": "A roleta é sua!",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-roleta-sua-3e533d8db9d2805bbc79e131d092f29a"
-    },
-    {
-      "title": "Seu descanso começa na escolha certa.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-descanso-come-a-na-escolha-certa-3d133d8db9d280eeb070ecdd142586ef"
-    }
-  ],
-  "ItalaP": [
-    {
-      "title": "Quem confia no nosso cuidado faz parte da nossa história - Feliz dia do Cliente!",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-confia-no-nosso-cuidado-faz-parte-da-nossa-hist-ria-Feliz-dia-do-Cliente-3db33d8db9d280309bbde77756209525"
-    },
-    {
-      "title": "O que seus exames de sangue podem revelar sobre a sua saúde?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-seus-exames-de-sangue-podem-revelar-sobre-a-sua-sa-de-3d633d8db9d280b0a0dfc84ccc564e3c"
-    },
-    {
-      "title": "Qual médico procurar quando você não sabe por onde começar?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Qual-m-dico-procurar-quando-voc-n-o-sabe-por-onde-come-ar-3d633d8db9d280ff8154cfb26ecb3071"
-    },
-    {
-      "title": "Você sabe tudo o que pode encontrar na ItalaP?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabe-tudo-o-que-pode-encontrar-na-ItalaP-3d633d8db9d28059a0c8fcc33d0c128d"
-    },
-    {
-      "title": "Seu exame deu alterado. E agora?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-exame-deu-alterado-E-agora-3d633d8db9d28099b1b4cd93ed7158b6"
-    },
-    {
-      "title": "Você sabe quando realmente precisa fazer um exame?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabe-quando-realmente-precisa-fazer-um-exame-3d633d8db9d280e3ad68f2031eb01a9c"
-    },
-    {
-      "title": "Seu coração pode estar pedindo cuidado antes de você perceber - Dia Mundial do Coração",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-cora-o-pode-estar-pedindo-cuidado-antes-de-voc-perceber-Dia-Mundial-do-Cora-o-3d633d8db9d2802b9c84e5b7c524fed5"
-    },
-    {
-      "title": "Trombose não acontece só com quem fica muito tempo parado - Dia Nacional de Combate e Prevenção à Trombose",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Trombose-n-o-acontece-s-com-quem-fica-muito-tempo-parado-Dia-Nacional-de-Combate-e-Preven-o-Tr-3d633d8db9d280c79fd4c8c98b24efcd"
-    },
-    {
-      "title": "Às vezes, ajudar começa simplesmente por saber ouvir - ",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/s-vezes-ajudar-come-a-simplesmente-por-saber-ouvir-Dia-Mundial-de-Preven-o-ao-Suic-dio-3d633d8db9d2804a9600d96cc359e6db"
-    },
-    {
-      "title": "Por que algumas doenças são descobertas por acaso em exames de rotina?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "03/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Por-que-algumas-doen-as-s-o-descobertas-por-acaso-em-exames-de-rotina-3c333d8db9d280478c1edb4193e1c813"
-    },
-    {
-      "title": "Por que dois exames podem avaliar o mesmo órgão de formas diferentes?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Por-que-dois-exames-podem-avaliar-o-mesmo-rg-o-de-formas-diferentes-3c333d8db9d28084aac1f7bc315a40a3"
-    },
-    {
-      "title": "Nem sempre você pode resolver a dor de alguém. Mas pode escolher estar presente. \nCuide. Escute. Acolha. Ajude. E, quando precisar, peça ajuda também.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "01/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Nem-sempre-voc-pode-resolver-a-dor-de-algu-m-Mas-pode-escolher-estar-presente-Cuide-Escute-Aco-5ce7246ab5bf4f22ae6fb2832bbd77f7"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "#TBT Liberta na FIEC em 2022",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/TBT-Liberta-na-FIEC-em-2022-3de33d8db9d28098bad3f21daf7fbf9b"
-    },
-    {
-      "title": "Evento",
-      "status": "st-paused",
-      "formato": "🎠 Carrossel",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Evento-3dd33d8db9d280f0b2a7caf75fa73d51"
-    },
-    {
-      "title": "Aniversário Regilene",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Anivers-rio-Regilene-3db33d8db9d28087984fcd041fc0d789"
-    },
-    {
-      "title": "Setembro amarelo (copy completa nos comentários)",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-copy-completa-nos-coment-rios-3d833d8db9d2806e8d0ddd9e6d1477b5"
-    },
-    {
-      "title": "E no senado? Quantas mulheres representam o Ceará?",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/E-no-senado-Quantas-mulheres-representam-o-Cear-3d033d8db9d28005b2bfc9ca263a7477"
-    },
-    {
-      "title": "50% de mulheres na política parece muito? 50% NÃO É EXAGERO. É PARIDADE.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/50-de-mulheres-na-pol-tica-parece-muito-50-N-O-EXAGERO-PARIDADE-3d033d8db9d280b6ae28fcd27ab14278"
-    },
-    {
-      "title": "Uma mulher conseguiu chegar ao Legislativo. Ela consegue permanecer?",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-mulher-conseguiu-chegar-ao-Legislativo-Ela-consegue-permanecer-3d033d8db9d2803eac6ff8baa8f8ed43"
-    },
-    {
-      "title": "Você sabe como uma deputada consegue uma cadeira?",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabe-como-uma-deputada-consegue-uma-cadeira-3d033d8db9d2802691f5ffa0a3b611ff"
-    },
-    {
-      "title": "Das 22 cadeiras do Ceará na Câmara Federal, quantas são ocupadas por mulheres?",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Das-22-cadeiras-do-Cear-na-C-mara-Federal-quantas-s-o-ocupadas-por-mulheres-3d033d8db9d280308407fff4e6adc132"
-    },
-    {
-      "title": "O Ceará já tem sua maior bancada feminina na Alece. E agora?",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-Cear-j-tem-sua-maior-bancada-feminina-na-Alece-E-agora-3d033d8db9d280ccb086c08abbf2628f"
-    },
-    {
-      "title": "Quem recebe o dinheiro da campanha? Dinheiro também decide quem consegue disputar uma eleição.",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-recebe-o-dinheiro-da-campanha-Dinheiro-tamb-m-decide-quem-consegue-disputar-uma-elei-o-3d033d8db9d28023a90ffb0093615df0"
-    },
-    {
-      "title": "Cota de gênero: ter mulher na chapa não é suficiente. ",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cota-de-g-nero-ter-mulher-na-chapa-n-o-suficiente-30-de-mulheres-nas-candidaturas-n-o-significa-3d033d8db9d28086af2edcb81af55d1d"
-    },
-    {
-      "title": "Mulheres são maioria do eleitorado. Por que ainda são minoria no poder?",
-      "status": "postado",
-      "formato": "🎠 Carrossel",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mulheres-s-o-maioria-do-eleitorado-Por-que-ainda-s-o-minoria-no-poder-3d033d8db9d28092ad0add20838bb32b"
-    },
-    {
-      "title": "Transformar a sociedade é responsabilidade de todas nós (Em letra menor: 21 DE SETEMBRO | DIA DA RESPONSABILIDADE SOCIAL)",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Transformar-a-sociedade-responsabilidade-de-todas-n-s-Em-letra-menor-21-DE-SETEMBRO-DIA-DA-RES-3d033d8db9d28035833ac74ebfca8c4a"
-    },
-    {
-      "title": "Aniversário Camila Gomes",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "03/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Anivers-rio-Camila-Gomes-3d033d8db9d28008a0c1f2816893ba01"
-    },
-    {
-      "title": "Mulheres nas eleições: participar não é o mesmo que ter espaço",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Mulheres-nas-elei-es-participar-n-o-o-mesmo-que-ter-espa-o-3ce33d8db9d280a7bbd2f3867e3fa71a"
-    },
-    {
-      "title": "Quando a tecnologia também pode ser usada para violentar mulheres",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-a-tecnologia-tamb-m-pode-ser-usada-para-violentar-mulheres-3ce33d8db9d2805a8c8eeb6ca2194407"
-    },
-    {
-      "title": "7 de Setembro: Dia da Independência - Um país independente também precisa de cidadãs com autonomia para transformar a realidade",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "07/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/7-de-Setembro-Dia-da-Independ-ncia-Um-pa-s-independente-tamb-m-precisa-de-cidad-s-com-autonomia-p-3ce33d8db9d280cfaa4ecb1529b3dc11"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Design para o tráfego",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Design-para-o-tr-fego-3e533d8db9d280eb80e7d58bc13a47c1"
-    },
-    {
-      "title": "Feliz vida, David! Hoje a celebração é por você.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feliz-vida-David-Hoje-a-celebra-o-por-voc-3e333d8db9d280d6982fd3f3513535c5"
-    },
-    {
-      "title": "“É rapidinho.” “Meu irmão vai usar.” “Minha esposa pegou o carro.” “Meu funcionário precisou sair.” Emprestar o carro também é compartilhar o risco?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/rapidinho-Meu-irm-o-vai-usar-Minha-esposa-pegou-o-carro-Meu-funcion-rio-precisou-sair-Emp-3d033d8db9d28019bd8fd867d6272682"
-    },
-    {
-      "title": "Seu carro vai entrar na campanha. E o seu seguro?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-carro-vai-entrar-na-campanha-E-o-seu-seguro-3d033d8db9d2806aa7cace8857d30066"
-    },
-    {
-      "title": "Seu filho ainda nem pensa no futuro. Você já pode começar a pensar por ele.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-filho-ainda-nem-pensa-no-futuro-Voc-j-pode-come-ar-a-pensar-por-ele-3d033d8db9d28085a4c6eb3e8eb7d8aa"
-    },
-    {
-      "title": "Você pediu uma cotação. Mas sabe o que acontece antes dela chegar?",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-pediu-uma-cota-o-Mas-sabe-o-que-acontece-antes-dela-chegar-3d033d8db9d280a587dbc22dc320cabc"
-    },
-    {
-      "title": "Hoje, quem merece ser celebrado é você - Dia do cliente",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Hoje-quem-merece-ser-celebrado-voc-Dia-do-cliente-3d033d8db9d2809caea8dfd9e0ffc678"
-    },
-    {
-      "title": "Tem coisa que a gente só valoriza quando precisa.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Tem-coisa-que-a-gente-s-valoriza-quando-precisa-3d033d8db9d28002a362f22658574c0e"
-    },
-    {
-      "title": "Você saberia responder o que seu plano e seu seguro realmente cobrem?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-saberia-responder-o-que-seu-plano-e-seu-seguro-realmente-cobrem-3d033d8db9d2808d8903dc465129d30b"
-    },
-    {
-      "title": "Seu funcionário pode estar precisando de ajuda — e o RH nem sempre vai perceber.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "08/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-funcion-rio-pode-estar-precisando-de-ajuda-e-o-RH-nem-sempre-vai-perceber-3d033d8db9d280b68c6ec51e34a236e7"
-    },
-    {
-      "title": "E se o seguro de vida não fosse sobre o fim, mas sobre continuar?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/E-se-o-seguro-de-vida-n-o-fosse-sobre-o-fim-mas-sobre-continuar-3d033d8db9d28033bfb2fc173e5cab35"
-    },
-    {
-      "title": "Seu plano de saúde cuida da sua cabeça também?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-plano-de-sa-de-cuida-da-sua-cabe-a-tamb-m-3d033d8db9d280f8b1d8cc12d4740f54"
-    }
-  ],
-  "Di Gregório Buffet": [],
-  "APROSSEG": [
-    {
-      "title": "Proteção é ter assistência. É ter orientação. É ter suporte. É ter com quem contar.",
-      "status": "st-paused",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Prote-o-ter-assist-ncia-ter-orienta-o-ter-suporte-ter-com-quem-contar-3db33d8db9d2803a9241e4143b9b9df0"
-    },
-    {
-      "title": "Pane no meio do caminho? Respira. Você pode ter assistência para isso.",
-      "status": "st-paused",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Pane-no-meio-do-caminho-Respira-Voc-pode-ter-assist-ncia-para-isso-3db33d8db9d2806a8db9cb1873ad8288"
-    },
-    {
-      "title": "Hoje o dia é dele! ",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "06/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Hoje-o-dia-dele-Thiago-que-sua-nova-volta-ao-sol-seja-t-o-especial-quanto-voc-importante-para-3cf33d8db9d2800b8906c92501703ac8"
-    },
-    {
-      "title": "Falar sobre saúde mental é uma forma de cuidado. Ouvir sem julgamentos também. \nSe você não está bem, peça ajuda.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Falar-sobre-sa-de-mental-uma-forma-de-cuidado-Ouvir-sem-julgamentos-tamb-m-Se-voc-n-o-est-bem-3c933d8db9d280738c30d9186cc11844"
-    },
-    {
-      "title": "No trânsito, prevenção, atenção e responsabilidade caminham juntas - Dia Nacional do Trânsito",
-      "status": "st-paused",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/No-tr-nsito-preven-o-aten-o-e-responsabilidade-caminham-juntas-Dia-Nacional-do-Tr-nsito-3c933d8db9d2801990fdc39da91e4398"
-    },
-    {
-      "title": "Na Semana Nacional do Trânsito, fica o lembrete: \nDirigir com responsabilidade é prevenção. Ter a proteção certa também. Fale com a Aprosseg e tire suas dúvidas.",
-      "status": "st-paused",
-      "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Na-Semana-Nacional-do-Tr-nsito-fica-o-lembrete-Dirigir-com-responsabilidade-preven-o-Ter-a-pr-3c933d8db9d280b1826dd9552884bfc1"
-    },
-    {
-      "title": "Algumas relações começam com uma apólice. As melhores continuam pela confiança. 15 de setembro: Dia do Cliente",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Algumas-rela-es-come-am-com-uma-ap-lice-As-melhores-continuam-pela-confian-a-15-de-setembro-Dia--3c933d8db9d2803785f8cc0acd92653f"
-    },
-    {
-      "title": "Não chegamos até aqui sozinhos. E isso é motivo para comemorar.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/N-o-chegamos-at-aqui-sozinhos-E-isso-motivo-para-comemorar-3a033d8db9d2802e9098c1954b3b7855"
-    },
-    {
-      "title": "Cada apólice representa uma história que escolheu confiar na Aprosseg.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "03/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cada-ap-lice-representa-uma-hist-ria-que-escolheu-confiar-na-Aprosseg-3a033d8db9d28039a4e5d22fdd051df2"
-    },
-    {
-      "title": "A maioria das pessoas não deixa de contratar um seguro porque não acredita na proteção. Deixa porque acredita que ainda dá tempo.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-maioria-das-pessoas-n-o-deixa-de-contratar-um-seguro-porque-n-o-acredita-na-prote-o-Deixa-porque-3a033d8db9d28010aff3ed57ef833ac9"
-    },
-    {
-      "title": "O patrimônio mais importante nem sempre é o que tem maior valor.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-patrim-nio-mais-importante-nem-sempre-o-que-tem-maior-valor-3a033d8db9d280bdbdcafdc722617dcf"
-    },
-    {
-      "title": "Quem planeja apenas os dias bons deixa o futuro nas mãos da sorte.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "12/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-planeja-apenas-os-dias-bons-deixa-o-futuro-nas-m-os-da-sorte-3a033d8db9d280078514d00d7e42b6e0"
-    },
-    {
-      "title": "Quando acontece uma batida, a primeira reação é olhar para o próprio veículo. Mas nem sempre ele é a sua maior preocupação.",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-acontece-uma-batida-a-primeira-rea-o-olhar-para-o-pr-prio-ve-culo-Mas-nem-sempre-ele-a-38f33d8db9d2807e9387fc8e6e2cbe52"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Seu celular pode ser apreendido durante uma investigação?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-celular-pode-ser-apreendido-durante-uma-investiga-o-3dc33d8db9d2804080c4e58ec908b2ea"
-    },
-    {
-      "title": "Recebeu uma intimação? Não ignore.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Recebeu-uma-intima-o-N-o-ignore-3dc33d8db9d2807eb0f2cd64e289c776"
-    },
-    {
-      "title": "Seu funcionário cometeu um erro. Isso é suficiente para uma demissão por justa causa?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-funcion-rio-cometeu-um-erro-Isso-suficiente-para-uma-demiss-o-por-justa-causa-3dc33d8db9d2802794efd0c8151c222d"
-    },
-    {
-      "title": "Seu sócio pode tomar decisões pela empresa sozinho? ",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-s-cio-pode-tomar-decis-es-pela-empresa-sozinho-Antes-de-responder-sim-ou-n-o-confira-O-3dc33d8db9d280a2bb10ed7c0e8f0ba1"
-    },
-    {
-      "title": "3 mensagens que você deveria pensar duas vezes antes de enviar para um funcionário.",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/3-mensagens-que-voc-deveria-pensar-duas-vezes-antes-de-enviar-para-um-funcion-rio-3dc33d8db9d280a7b216c280d2a8b0ef"
-    },
-    {
-      "title": "7 situações em que procurar um advogado antes faz toda a diferença - Evitar problemas quase sempre custa menos do que resolvê-los.",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "03/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/7-situa-es-em-que-procurar-um-advogado-antes-faz-toda-a-diferen-a-Evitar-problemas-quase-sempre-c-3a633d8db9d28039a924e066bf06c5b1"
-    },
-    {
-      "title": "A polícia pode entrar na empresa a qualquer momento?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "01/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-pol-cia-pode-entrar-na-empresa-a-qualquer-momento-3a633d8db9d280b9965efaa0bcedf5a4"
-    }
-  ],
-  "Conecta Assessoria": [
-    {
-      "title": "Você pode estar pagando por uma proteção que não acompanha mais a sua vida.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-pode-estar-pagando-por-uma-prote-o-que-n-o-acompanha-mais-a-sua-vida-3e433d8db9d28018802dcd2dfd0b2f3b"
-    },
-    {
-      "title": "Seu próximo plano de saúde pode ser Amil. ",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-pr-ximo-plano-de-sa-de-pode-ser-Amil-Conte-com-a-Conecta-para-encontrar-a-op-o-certa-para-voc-3cd33d8db9d28040854bc6c90e665f76"
-    },
-    {
-      "title": "Plano de saúde, seguro ou benefício empresarial: encontre a opção certa para o seu momento. ",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Plano-de-sa-de-seguro-ou-benef-cio-empresarial-encontre-a-op-o-certa-para-o-seu-momento-Fale-co-3cd33d8db9d280088d00cdc85c0f0dd1"
-    },
-    {
-      "title": "Está pensando em contratar um plano? Não feche antes de falar com a Conecta.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Est-pensando-em-contratar-um-plano-N-o-feche-antes-de-falar-com-a-Conecta-3cd33d8db9d28034962ce0426e14c226"
-    },
-    {
-      "title": "Entre tantas opções de planos, ter alguém para filtrar faz diferença. ",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Entre-tantas-op-es-de-planos-ter-algu-m-para-filtrar-faz-diferen-a-Fale-com-a-Conecta-85-9815-3cd33d8db9d280c39663eb695908ac23"
-    },
-    {
-      "title": "Sua equipe merece um benefício que faça sentido para ela — e para o caixa da empresa.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-equipe-merece-um-benef-cio-que-fa-a-sentido-para-ela-e-para-o-caixa-da-empresa-3cd33d8db9d28089aa65cff4aff7dcd5"
-    },
-    {
-      "title": "Sua empresa precisa revisar os benefícios? Fale com a nossa equipe: (85) 98151-2399",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-empresa-precisa-revisar-os-benef-cios-Fale-com-a-nossa-equipe-85-98151-2399-3cd33d8db9d2809fa1f8d70ffe5db94a"
-    },
-    {
-      "title": "Casou, teve filhos, mudou de emprego, abriu uma empresa? Tem uma coisa que precisa ser revisada junto.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Casou-teve-filhos-mudou-de-emprego-abriu-uma-empresa-Tem-uma-coisa-que-precisa-ser-revisada-junt-3cd33d8db9d2805fa660d09c096969da"
-    },
-    {
-      "title": "Você conhece seu plano de saúde ou só conhece o valor da mensalidade?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "08/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-conhece-seu-plano-de-sa-de-ou-s-conhece-o-valor-da-mensalidade-3cd33d8db9d2809b8a5bcff2d79d0fc2"
-    },
-    {
-      "title": "Obrigada por deixar a Conecta fazer parte das suas escolhas. Feliz Dia do Cliente!",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Obrigada-por-deixar-a-Conecta-fazer-parte-das-suas-escolhas-Feliz-Dia-do-Cliente-3cd33d8db9d28008ba70ee1a3d0758c6"
-    },
-    {
-      "title": "Nem toda dor faz barulho. ",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Nem-toda-dor-faz-barulho-10-de-setembro-Dia-Mundial-de-Preven-o-do-Suic-dio-3cd33d8db9d2800d8bb9c5941e996bb8"
-    }
-  ],
-  "Solar Coworking": [
-    {
-      "title": "Fortaleza hoje. Eusébio amanhã. Seu escritório pode acompanhar sua agenda.",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Fortaleza-hoje-Eus-bio-amanh-Seu-escrit-rio-pode-acompanhar-sua-agenda-3d633d8db9d280f1934dd9480c85c558"
-    },
-    {
-      "title": "Dia da Secretária",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/09",
+      "date": "14/10",
       "missing": [
         "Design",
         "Legenda"
@@ -2845,352 +671,415 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-da-Secret-ria-3d433d8db9d280a48ddbfbb2d2db45be"
+      "notionUrl": "https://app.notion.com/p/Nenhuma-pe-a-feita-por-uma-empresa-s-E-o-futuro-da-ind-stria-tamb-m-n-o-ser-3e933d8db9d2802bbdfacd562d0723f6"
     },
     {
-      "title": "Dia do Administrador",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-Administrador-3d433d8db9d28060aabee4afe4d9ba32"
-    },
-    {
-      "title": "A Solar tem endereço. Mas são os nossos clientes que fazem dela um lugar de negócios. 15 de setembro - Dia do Cliente",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-Solar-tem-endere-o-Mas-s-o-os-nossos-clientes-que-fazem-dela-um-lugar-de-neg-cios-15-de-setembro-3d433d8db9d280b4b4f5cab23d017be2"
-    },
-    {
-      "title": "O café é só uma desculpa para a gente se encontrar.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-caf-s-uma-desculpa-para-a-gente-se-encontrar-3d433d8db9d28071a3b7f84b3d86b8cf"
-    },
-    {
-      "title": "Você saiu para vender. A encomenda resolveu chegar justamente nessa hora.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "14/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-saiu-para-vender-A-encomenda-resolveu-chegar-justamente-nessa-hora-3d433d8db9d28013857ee2bac393b278"
-    },
-    {
-      "title": "Há tempestades que ninguém vê. Acolher também é estar atento a elas. #Setembro amarelo",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito (coord.)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/H-tempestades-que-ningu-m-v-Acolher-tamb-m-estar-atento-a-elas-Setembro-amarelo-3d433d8db9d280cd91dffae45270aae7"
-    },
-    {
-      "title": "Networking de verdade acontece quando você menos espera.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Networking-de-verdade-acontece-quando-voc-menos-espera-3c033d8db9d280ca8525fe0f4b0ae5b6"
-    },
-    {
-      "title": "Quanto custaria ter recepcionista, sala de reunião, estacionamento e endereço em duas cidades?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "08/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-custaria-ter-recepcionista-sala-de-reuni-o-estacionamento-e-endere-o-em-duas-cidades-3c033d8db9d280d3bd2fd6240cf37918"
-    }
-  ]
-};
-
-const LINHA_VIDEO_ITEMS = {
-  "Hélio Rôla 90 Anos": [],
-  "AAFEC": [
-    {
-      "title": "Vídeo balacobaco ",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-balacobaco-3d833d8db9d280a9bb03fd078340bcdc"
-    },
-    {
-      "title": "#TBT palestra sobre quedas",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/TBT-palestra-sobre-quedas-3d533d8db9d280ab8323cc956ae42f43"
-    },
-    {
-      "title": "TBT Sara Torelli ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "03/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/TBT-Sara-Torelli-3cd33d8db9d28018ae22c3dc3839c5ea"
-    }
-  ],
-  "Ser Ponte": [],
-  "Tramix": [
-    {
-      "title": "Funcionários ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Funcion-rios-3d833d8db9d28065b577c3a5cd0333e2"
-    },
-    {
-      "title": "Relato",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Relato-3d833d8db9d280e8a439e2ef77e2b310"
-    },
-    {
-      "title": "Zíper",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Z-per-3d833d8db9d280caa113f9758aada658"
-    },
-    {
-      "title": "Perguntas sobre os primeiros anos ",
+      "title": "Quem tem uma pequena confecção também precisa olhar para o futuro do setor.",
       "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "18/09",
+      "formato": "🖼️ Post",
+      "date": "12/10",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. N/A",
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Perguntas-sobre-os-primeiros-anos-3d833d8db9d28006adfac552861d5cf1"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-tem-uma-pequena-confec-o-tamb-m-precisa-olhar-para-o-futuro-do-setor-3e933d8db9d280fbacd4e20f8012edfe"
     },
     {
-      "title": "Perguntas sobre 20 anos ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Perguntas-sobre-20-anos-3d833d8db9d280e9bebeeab7fa1a46ec"
-    },
-    {
-      "title": "Vídeo sonhos ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "A transformação da indústria têxtil também passa pelo Ceará ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-sonhos-3cd33d8db9d2803f9a9bdb98eb9c0958"
+      "notionUrl": "https://app.notion.com/p/A-transforma-o-da-ind-stria-t-xtil-tamb-m-passa-pelo-Cear-3e933d8db9d280ed99e8d541bc5c3714"
+    },
+    {
+      "title": "Quem trabalha com produção precisa tomar decisões o tempo inteiro.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Quem-trabalha-com-produ-o-precisa-tomar-decis-es-o-tempo-inteiro-3e933d8db9d2804792a8e85be773a88b"
+    },
+    {
+      "title": "Quem produz precisa olhar para o que está mudando antes de todo mundo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-produz-precisa-olhar-para-o-que-est-mudando-antes-de-todo-mundo-3e933d8db9d280119ebde7853a1aaf59"
     }
   ],
   "Stratto": [
     {
-      "title": "Video do treinamento",
+      "title": "Quanto mais importante a decisão, mais importante é conhecer o impacto que ela pode gerar.",
       "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/09",
-      "missing": [],
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quanto-mais-importante-a-decis-o-mais-importante-conhecer-o-impacto-que-ela-pode-gerar-Quer-leva-3e233d8db9d28091a471d05916c20d13"
+    },
+    {
+      "title": "Antes de investir, existem perguntas que precisam ser respondidas: Quanto vai custar? \nQuando começa a retornar? \nQual será o impacto no caixa? E se a receita esperada não acontecer? ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Video-do-treinamento-3eb33d8db9d2802fa7bafddc63017dca"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Antes-de-investir-existem-perguntas-que-precisam-ser-respondidas-Quanto-vai-custar-Quando-come-a-3e233d8db9d280c2a0cdda5d07c006f4"
     },
     {
-      "title": "Gestão financeira estruturada",
+      "title": "Uma empresa pode vender mais e, ao mesmo tempo: reduzir sua margem; aumentar o endividamento; consumir mais caixa; elevar os custos; aumentar sua estrutura sem retorno proporcional. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uma-empresa-pode-vender-mais-e-ao-mesmo-tempo-reduzir-sua-margem-aumentar-o-endividamento-consum-3e233d8db9d2804e9f9bdd0c3c225a44"
+    },
+    {
+      "title": "Como saber se sua empresa precisa de um BPO Financeiro?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-saber-se-sua-empresa-precisa-de-um-BPO-Financeiro-3e233d8db9d280dca3f2c55e549e862d"
+    },
+    {
+      "title": "Sua empresa já tem orçamento ou ainda administra o ano conforme as coisas acontecem? ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-j-tem-or-amento-ou-ainda-administra-o-ano-conforme-as-coisas-acontecem-A-Stratto-pode--3e233d8db9d2805eaca5f3751db437db"
+    },
+    {
+      "title": "Quanto tempo sua equipe perde fazendo manualmente o que poderia estar organizado e automatizado? Fale com a Stratto e descubra onde sua operação pode ganhar eficiência.",
       "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/09",
+      "formato": "🖼️ Post",
+      "date": "01/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Gest-o-financeira-estruturada-3d033d8db9d28099bd95d0d99b5dc726"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quanto-tempo-sua-equipe-perde-fazendo-manualmente-o-que-poderia-estar-organizado-e-automatizado-Fal-3cd33d8db9d280cca44cef65f5defe3f"
     },
     {
-      "title": "O que a Stratto faz?",
+      "title": "Se todo problema precisa chegar até você, talvez o problema não seja a equipe. É a estrutura.",
       "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "10/09",
+      "formato": "🖼️ Post",
+      "date": "02/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/O-que-a-Stratto-faz-3d033d8db9d280eba3f4e1ffb9962c11"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-todo-problema-precisa-chegar-at-voc-talvez-o-problema-n-o-seja-a-equipe-a-estrutura-3cd33d8db9d2803d94aace477348b57a"
+    },
+    {
+      "title": "Quanto custa manter uma operação financeira que depende de planilhas, mensagens e memória?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quanto-custa-manter-uma-opera-o-financeira-que-depende-de-planilhas-mensagens-e-mem-ria-39133d8db9d28040afcbe3a093902861"
+    },
+    {
+      "title": "A IA pode analisar seus números. Mas quem está fazendo as perguntas certas?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-IA-pode-analisar-seus-n-meros-Mas-quem-est-fazendo-as-perguntas-certas-39133d8db9d280b3a3e5c4ac3abadb19"
+    },
+    {
+      "title": "O problema financeiro da sua empresa pode ter começado muito antes de chegar ao financeiro. Muitas vezes, o financeiro é apenas onde o problema aparece. Não onde ele começou.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-problema-financeiro-da-sua-empresa-pode-ter-come-ado-muito-antes-de-chegar-ao-financeiro-Muitas-v-39133d8db9d2801084c6eeb7804d71bf"
+    },
+    {
+      "title": "Se o seu financeiro só consegue explicar o mês depois que ele terminou, como ele está ajudando você a decidir o próximo?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-o-seu-financeiro-s-consegue-explicar-o-m-s-depois-que-ele-terminou-como-ele-est-ajudando-voc--39133d8db9d2804abba2c1f257330096"
+    },
+    {
+      "title": "Sua empresa pode ter lucro e mesmo assim ficar sem dinheiro. Entenda como isso acontece.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "14/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-pode-ter-lucro-e-mesmo-assim-ficar-sem-dinheiro-Entenda-como-isso-acontece-39133d8db9d280b2a92fc42c85297d4c"
     }
   ],
   "Juntos contra o HPV": [
     {
-      "title": "video da sandra",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Hoje celebramos Luiza Helena Trajano. Uma mulher que transformou ideias em movimento, conexões em rede e vontade de fazer em ação. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/video-da-sandra-3de33d8db9d280f4bca6dfa8f925346f"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Hoje-celebramos-Luiza-Helena-Trajano-Uma-mulher-que-transformou-ideias-em-movimento-conex-es-em-re-3e633d8db9d2800fbd10fe14492eccb9"
     },
     {
-      "title": "Video da fabi",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Seus amigos falam sobre HPV? Provavelmente não. Então alguém precisa começar a conversa!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Video-da-fabi-3de33d8db9d280f784b1f431e75deee4"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seus-amigos-falam-sobre-HPV-Provavelmente-n-o-Ent-o-algu-m-precisa-come-ar-a-conversa-3e633d8db9d2808ba064f6b7b2c269e6"
     },
     {
-      "title": "Video unimed ",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Você sabe se tomou a vacina contra o HPV? Não  lembra? Confere sua caderneta!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Video-unimed-3dd33d8db9d280b1acc6d3c13003c082"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-se-tomou-a-vacina-contra-o-HPV-N-o-lembra-Confere-sua-caderneta-3e633d8db9d280f8930ce57dcdef2b4a"
     },
     {
-      "title": "Video da flavia ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Informação não deveria ser tabu. Pergunte. Converse. Procure fontes confiáveis. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Video-da-flavia-3dd33d8db9d280cc9c4be5e5843b82af"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Informa-o-n-o-deveria-ser-tabu-Pergunte-Converse-Procure-fontes-confi-veis-3e633d8db9d280909d34fa6dda39c90d"
     },
     {
-      "title": "Dra ailma",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Só menina precisa tomar a vacina contra o HPV? Não! Meninos também. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Dra-ailma-3dd33d8db9d280008564f32c7e33f412"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/S-menina-precisa-tomar-a-vacina-contra-o-HPV-N-o-Meninos-tamb-m-3e633d8db9d280999825d1fff65f0c22"
     },
     {
-      "title": "Vídeo com imagens e narração",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "HPV não é sinônimo de câncer. HPV é uma infecção. Alguns tipos podem causar alterações que, ao longo do tempo, podem levar ao desenvolvimento do câncer. Por isso, prevenção importa!  ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-com-imagens-e-narra-o-3d633d8db9d2805497b1f6f05c5f15bc"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/HPV-n-o-sin-nimo-de-c-ncer-HPV-uma-infec-o-Alguns-tipos-podem-causar-altera-es-que-ao-longo-3e633d8db9d2809b8a81df5d2151aa71"
     },
     {
-      "title": "Vídeo dra Ailma",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Eu me vacino porque… informação também é uma forma de proteção. ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "17/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-dra-Ailma-3d033d8db9d2807aa375fdeafd6184e6"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Eu-me-vacino-porque-informa-o-tamb-m-uma-forma-de-prote-o-3e633d8db9d280ef9b38dd5b1e96ef38"
     },
     {
-      "title": "aline - transvaginal",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "210.865 pessoas. Mas o que existe por trás desse número?",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "21/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/aline-transvaginal-3c733d8db9d28056bccdef84d856c369"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/210-865-pessoas-Mas-o-que-existe-por-tr-s-desse-n-mero-3e633d8db9d28014985bee7ffd76e0e8"
     },
     {
-      "title": " mitos - aline posta",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/mitos-aline-posta-3c733d8db9d2807cb8e9e4e661b20fc4"
+      "title": "Outubro amplia a conversa sobre o câncer de mama e chama atenção para a importância do cuidado com a saúde. Mas prevenção não deveria ser uma conversa de apenas um mês.  ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Outubro-amplia-a-conversa-sobre-o-c-ncer-de-mama-e-chama-aten-o-para-a-import-ncia-do-cuidado-com-a-3e533d8db9d280969971ecb234f74125"
     },
     {
-      "title": "Video 03 - Aline - mulher o que é esse negócio de hpv ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "90,5% foi a média da cobertura vacinal contra o HPV em nove municípios acompanhados pelo movimento Juntos Contra o HPV no primeiro semestre de 2026!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Video-03-Aline-mulher-o-que-esse-neg-cio-de-hpv-3c033d8db9d28063a7abd4861073d3c8"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/90-5-foi-a-m-dia-da-cobertura-vacinal-contra-o-HPV-em-nove-munic-pios-acompanhados-pelo-movimento-J-3e533d8db9d2801aa89aec1bd90d4b40"
     },
     {
-      "title": "Eu vou porque ",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Quem fala sobre prevenção também ajuda a fazê-la chegar mais longe. Profissionais - Educadores - Famílias - Comunidades",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Eu-vou-porque-3ab33d8db9d2803f81cac2c5a340d9f9"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-fala-sobre-preven-o-tamb-m-ajuda-a-faz-la-chegar-mais-longe-Profissionais-Educadores-Fam-3e533d8db9d2807dac09dce2897a70aa"
+    },
+    {
+      "title": "Informação adequada, diálogo e acesso às estratégias de prevenção ajudam a aproximar saúde e educação. No enfrentamento ao HPV, essa conexão pode fortalecer a mobilização e ampliar o alcance das informações nos territórios! - Dia nacional de segurança e saúde nas escolas",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Informa-o-adequada-di-logo-e-acesso-s-estrat-gias-de-preven-o-ajudam-a-aproximar-sa-de-e-educa--3e533d8db9d280a2a056c35007eef6c8"
+    },
+    {
+      "title": "Prevenção também se constrói na escola. Informação e educação em saúde fazem parte da prevenção!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Preven-o-tamb-m-se-constr-i-na-escola-Informa-o-e-educa-o-em-sa-de-fazem-parte-da-preven-o-3e533d8db9d2806dae04fd36beecd29c"
+    },
+    {
+      "title": "10 Municípios - Uma rede de prevenção!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/10-Munic-pios-Uma-rede-de-preven-o-3e533d8db9d280f7bcf0e7e8a8273b82"
+    },
+    {
+      "title": "O simpósio terminou. Um encontro reuniu ciência, experiências e pessoas de diferentes territórios. Agora, os aprendizados continuam circulando.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "01/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-simp-sio-terminou-Um-encontro-reuniu-ci-ncia-experi-ncias-e-pessoas-de-diferentes-territ-rios-A-3e533d8db9d280428e6fe3721ae7dc77"
     }
   ],
   "Ventana": [],
@@ -3198,941 +1087,1990 @@ const LINHA_VIDEO_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Vídeo",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "01/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-3ce33d8db9d28090951ad5114ada2c58"
+      "title": "Nem toda decisão de negócio termina no departamento financeiro.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Nem-toda-decis-o-de-neg-cio-termina-no-departamento-financeiro-3eb33d8db9d2801aa456dfede02a8ae9"
+    },
+    {
+      "title": "Uma senha compartilhada pode revelar muito mais do que parece.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uma-senha-compartilhada-pode-revelar-muito-mais-do-que-parece-3eb33d8db9d2800783b4f30f762d8f6a"
+    },
+    {
+      "title": "Venda, comissão, jornada: por trás do balcão também existe Direito.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Venda-comiss-o-jornada-por-tr-s-do-balc-o-tamb-m-existe-Direito-3eb33d8db9d280468278ce65a59b3aa0"
+    },
+    {
+      "title": "Cuidar da saúde também faz parte de uma relação de trabalho responsável.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cuidar-da-sa-de-tamb-m-faz-parte-de-uma-rela-o-de-trabalho-respons-vel-3eb33d8db9d280809fabf8f1a360dcf5"
+    },
+    {
+      "title": "Servidor Público",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Servidor-P-blico-3eb33d8db9d280c78203feb70a267e50"
+    },
+    {
+      "title": "Constituição Federal",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Constitui-o-Federal-3eb33d8db9d280ac9c23e46e22eab0a2"
+    },
+    {
+      "title": "Dia Internacional da Não-Violência",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-Internacional-da-N-o-Viol-ncia-3eb33d8db9d280eb95aaef4592a7ef27"
+    },
+    {
+      "title": "Dia Mundial da Saúde Mental",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-Mundial-da-Sa-de-Mental-3eb33d8db9d280629788eac171fdbdca"
+    },
+    {
+      "title": "Dia do professor ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dia-do-professor-3eb33d8db9d28006b517ccb927855b07"
     }
   ],
-  "Rede Pangeia": [],
+  "Rede Pangeia": [
+    {
+      "title": "O futuro da sua organização não deveria depender da urgência.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-futuro-da-sua-organiza-o-n-o-deveria-depender-da-urg-ncia-Planejar-criar-espa-o-para-escolher--3d533d8db9d280e3ac09f8e94dd8df6a"
+    },
+    {
+      "title": "3 perguntas antes de aceitar qualquer parceria",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "01/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3-perguntas-antes-de-aceitar-qualquer-parceria-3d533d8db9d280c09e19f06bca5d30bf"
+    },
+    {
+      "title": "Quanto mais diversificada é a receita da sua organização, maior tende a ser sua capacidade de atravessar mudanças.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quanto-mais-diversificada-a-receita-da-sua-organiza-o-maior-tende-a-ser-sua-capacidade-de-atrave-3d533d8db9d28083aa20ceb63f07a133"
+    }
+  ],
   "Planos Seguros": [
     {
-      "title": "Análise de plano de saúde ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Você conhece todos os benefícios do seu seguro residencial?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/An-lise-de-plano-de-sa-de-3eb33d8db9d2803583fdf1ce821a37ed"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-conhece-todos-os-benef-cios-do-seu-seguro-residencial-3ae33d8db9d280ffbf09e70854a9f524"
     },
     {
-      "title": "Seguro residencial ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Seguro garantia: por que ele deixou de ser um produto exclusivo das grandes obras?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Seguro-residencial-3c633d8db9d2800e938cfc8acd415f99"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seguro-garantia-por-que-ele-deixou-de-ser-um-produto-exclusivo-das-grandes-obras-3ae33d8db9d2808ab811ca7f77a42bc8"
     },
     {
-      "title": "Seguro de vida/automóvel ",
-      "status": "postado",
-      "formato": "🎥 Vídeo horizontal",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Deixar pra depois pode ser a pior decisão\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Deixar-pra-depois-pode-ser-a-pior-decis-o-39633d8db9d280b8a92ce66d530ed44a"
+    },
+    {
+      "title": "A má gestão dos seguros pode estar limitando o crescimento da sua empresa\n",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-m-gest-o-dos-seguros-pode-estar-limitando-o-crescimento-da-sua-empresa-39633d8db9d280c498baccb6a526f1d9"
+    },
+    {
+      "title": "Nem todo destino está preparado para  os seus imprevistos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Seguro-de-vida-autom-vel-3c633d8db9d28020b18cd5d7565b194b"
-    },
-    {
-      "title": "Saúde bucal ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Sa-de-bucal-3c633d8db9d280d5ae0de9532ffcaecc"
-    },
-    {
-      "title": "Residencial ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Residencial-3c633d8db9d28042bc22efb7322887f9"
-    },
-    {
-      "title": "Qual a diferença de um plano para o outro?",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Qual-a-diferen-a-de-um-plano-para-o-outro-3c633d8db9d2800e8812d333bd8798ae"
-    },
-    {
-      "title": "Notebook ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Notebook-3c633d8db9d2805e9455d087ed27bdbe"
-    },
-    {
-      "title": "Seguro de vida na juventude",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Seguro-de-vida-na-juventude-3c633d8db9d28018ad69ef435acf44ae"
-    },
-    {
-      "title": "Seguro de proteção em vida",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Seguro-de-prote-o-em-vida-3c633d8db9d280228005df8d4b70012f"
-    },
-    {
-      "title": "Responsabilidade civil ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Responsabilidade-civil-3c633d8db9d28035930ad5aa117d8c53"
-    },
-    {
-      "title": "Proteger o que amamos ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Proteger-o-que-amamos-3c633d8db9d2801782c4eea2bd37b6a5"
-    },
-    {
-      "title": "Proteção financeira",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Prote-o-financeira-3c633d8db9d2801aa378e30d317c3a6d"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Nem-todo-destino-est-preparado-para-os-seus-imprevistos-38033d8db9d280849a5effed0ac9baa0"
     }
   ],
   "Plannea": [
     {
-      "title": "Crescer ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Um crescimento de 10% pode parecer excelente. Mas a leitura muda completamente dependendo do que aconteceu no mercado ao mesmo tempo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Crescer-3e933d8db9d280dfacf1f32bc9c1b9c5"
+      "notionUrl": "https://app.notion.com/p/Um-crescimento-de-10-pode-parecer-excelente-Mas-a-leitura-muda-completamente-dependendo-do-que-aco-3e933d8db9d2803ea454c1543195ee6a"
     },
     {
-      "title": "Summit Cariri 2",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Sua empresa presta serviços e é do Simples Então vale olhar para a NFS-e antes de novembro",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Summit-Cariri-2-3df33d8db9d280acad17f8e70ae8367d"
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-presta-servi-os-e-do-Simples-Ent-o-vale-olhar-para-a-NFS-e-antes-de-novembro-3e933d8db9d2807c8492dc8e6c52ff40"
     },
     {
-      "title": "Summit Cariri",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Benefício fiscal não é dinheiro garantido",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Summit-Cariri-3df33d8db9d280088765daf82c6326fc"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Benef-cio-fiscal-n-o-dinheiro-garantido-3e933d8db9d28020804fd460dbf2259a"
     },
     {
-      "title": "Vídeo encontro Reforma Tributária ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-encontro-Reforma-Tribut-ria-3de33d8db9d280eb9a51c3127ba209c9"
-    },
-    {
-      "title": "Perguntas para contadores ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "O empresário que centraliza tudo realmente é está fazendo a melhor escolha?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Perguntas-para-contadores-3de33d8db9d280e289b2e6cf01de28e6"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-empres-rio-que-centraliza-tudo-realmente-est-fazendo-a-melhor-escolha-3e933d8db9d280099d9bc56e0ab04224"
     },
     {
-      "title": "Mimos para contadores ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Mimos-para-contadores-3de33d8db9d2804fac39fbe97170147c"
-    },
-    {
-      "title": "Vídeo Dia do Cliente",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-Dia-do-Cliente-3dc33d8db9d280a1b42cd1ea5ba1ae6a"
+      "title": "Promoções de setembro",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "02/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Promo-es-de-setembro-3dc33d8db9d28053989cfb859486ea36"
     }
   ],
   "Ortobom": [
     {
-      "title": "processo",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/processo-3d633d8db9d2802bb378c20cd653349b"
-    },
-    {
-      "title": "Condições dia do cliente",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Condi-es-dia-do-cliente-3d633d8db9d28050996af868dc120c58"
-    },
-    {
-      "title": "Setembro começou ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Quando o assunto é descanso, conheça o Orion.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "01/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Setembro-come-ou-3d133d8db9d280119a6eed534a4d11ef"
-    },
-    {
-      "title": "Visita que você estava adiando",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Visita-que-voc-estava-adiando-3ce33d8db9d2804288e3c5fb0a836ed9"
-    },
-    {
-      "title": "Processo do colchão ",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Processo-do-colch-o-3ce33d8db9d280c7845cd19f21f984f4"
-    },
-    {
-      "title": "Orion",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Orion-3ce33d8db9d2809f8a2fd9529e0be5f0"
-    },
-    {
-      "title": "Dia do cliente ",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-cliente-3ce33d8db9d280909a32d78553132f25"
-    },
-    {
-      "title": "Considerações",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Considera-es-3ce33d8db9d2808e9124e5fe0d578263"
-    },
-    {
-      "title": "Olhar com mais atenção",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Olhar-com-mais-aten-o-3ce33d8db9d2804cb45cf2eaf75149da"
+      "notionUrl": "https://app.notion.com/p/Quando-o-assunto-descanso-conhe-a-o-Orion-3d133d8db9d2808db0a3cfb1f4c75b0f"
     }
   ],
   "ItalaP": [
     {
-      "title": "Vamos até você",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Vamos-at-voc-3b133d8db9d28062a279dc32975ed7e1"
+      "title": "Exame de sangue precisa ser feito sempre em jejum?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Exame-de-sangue-precisa-ser-feito-sempre-em-jejum-3eb33d8db9d2801aa5ffc4c6c6bde7a9"
     },
     {
-      "title": "Precisa fazer um exame",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Precisa-fazer-um-exame-3b133d8db9d2807a8b21f81f502920ce"
+      "title": "O que a ferritina tem a ver com o seu corpo?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-a-ferritina-tem-a-ver-com-o-seu-corpo-3eb33d8db9d2806481cec2f7162de6e8"
     },
     {
-      "title": "Você veio na italap",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "15/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Voc-veio-na-italap-3b133d8db9d2807dbd8ad76abeacd9f1"
+      "title": "Você sabe para que serve a vitamina B12?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-para-que-serve-a-vitamina-B12-3eb33d8db9d28044ba5bcda062101943"
     },
     {
-      "title": "Italap perto de você",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "08/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Italap-perto-de-voc-3b133d8db9d2806bb342c292c2b768da"
+      "title": "Cansaço constante: quando vale a pena investigar?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cansa-o-constante-quando-vale-a-pena-investigar-3eb33d8db9d280c88788fed8cf2801ed"
     },
     {
-      "title": "Confiança desde cedo",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Seu exame de urina pode revelar muito mais do que você imagina!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-exame-de-urina-pode-revelar-muito-mais-do-que-voc-imagina-3eb33d8db9d280d58db6f13feb011e41"
+    },
+    {
+      "title": "Por que o médico pede exames de sangue diferentes?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Por-que-o-m-dico-pede-exames-de-sangue-diferentes-3eb33d8db9d2804990b5d0237686dda9"
+    },
+    {
+      "title": "A saúde da mulher muda ao longo da vida. O cuidado também.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-sa-de-da-mulher-muda-ao-longo-da-vida-O-cuidado-tamb-m-3eb33d8db9d280a7a4eadbf86c10815c"
+    },
+    {
+      "title": "O que acontece com a sua amostra depois da coleta?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-acontece-com-a-sua-amostra-depois-da-coleta-3eb33d8db9d2802fbdcfe13d986672b1"
+    },
+    {
+      "title": "Tem exame que pede preparo. Tem exame que não. Você sabe a diferença?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-exame-que-pede-preparo-Tem-exame-que-n-o-Voc-sabe-a-diferen-a-3eb33d8db9d2807e9e30fbe1da5a86bf"
+    },
+    {
+      "title": "Você conhece a unidade da ItalaP mais perto de você?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-conhece-a-unidade-da-ItalaP-mais-perto-de-voc-3eb33d8db9d280669b77c98ba41d0a8b"
+    },
+    {
+      "title": "3 coisas que podem mudar o resultado de um exame sem você perceber.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "05/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3-coisas-que-podem-mudar-o-resultado-de-um-exame-sem-voc-perceber-3eb33d8db9d280d58890ccfb6ee50ae8"
+    },
+    {
+      "title": "Você sabe o que um exame consegue contar sobre a sua saúde?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "01/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-o-que-um-exame-consegue-contar-sobre-a-sua-sa-de-3eb33d8db9d2800e8276f046e0edad92"
+    },
+    {
+      "title": "Ginecologista não é só para quando alguma coisa está errada - ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ginecologista-n-o-s-para-quando-alguma-coisa-est-errada-Dia-do-Ginecologista-28c33d8db9d280408bc0f905ef034ed4"
+    },
+    {
+      "title": "Quando os sinais aparecem, cada minuto importa - ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-os-sinais-aparecem-cada-minuto-importa-Dia-Mundial-do-AVC-28c33d8db9d2807c8797cf71264c5aa3"
+    },
+    {
+      "title": "Que a fé acompanhe cada caminho e que nunca falte cuidado para seguir em frente. - Dia de Nossa Senhora Aparecida",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Que-a-f-acompanhe-cada-caminho-e-que-nunca-falte-cuidado-para-seguir-em-frente-Dia-de-Nossa-Senh-28c33d8db9d28006aed2e489a9e1fe29"
+    },
+    {
+      "title": "Seus ossos não doem quando começam a perder força. E é justamente aí que mora o perigo|  Dia Mundial da Osteoporose ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seus-ossos-n-o-doem-quando-come-am-a-perder-for-a-E-justamente-a-que-mora-o-perigo-Dia-Mundial-28c33d8db9d28027a8bacbcdbf15f73b"
+    },
+    {
+      "title": "Cuidar das mamas não começa quando aparece alguma alteração | Dia Internacional de Combate ao Câncer de Mama ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cuidar-das-mamas-n-o-come-a-quando-aparece-alguma-altera-o-Dia-Internacional-de-Combate-ao-C-ncer-28c33d8db9d28043a156e3a2b0ce538c"
+    },
+    {
+      "title": "Antes de um diagnóstico, existe alguém que escutou, investigou e buscou respostas. - Dia do Médico ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Confian-a-desde-cedo-3b133d8db9d280438240ea3108044ecb"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Antes-de-um-diagn-stico-existe-algu-m-que-escutou-investigou-e-buscou-respostas-Dia-do-M-dico-d22900e72749439c80bb0480270004a6"
     }
   ],
-  "Grupo Mulheres do Brasil": [],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Quem te inspira a dar o próximo passo? Nós corremos por todas.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-te-inspira-a-dar-o-pr-ximo-passo-N-s-corremos-por-todas-3e633d8db9d280678feaf4d360ee274c"
+    },
+    {
+      "title": "104 novos processos por dia",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/104-novos-processos-por-dia-de-viol-ncia-dom-stica-contra-a-mulher-chegam-Justi-a-O-sil-ncio-nunca-3e633d8db9d280fba435e1db5f48f326"
+    },
+    {
+      "title": "Empresas conscientes não se calam diante de uma crise humana global. Associar a sua marca à nossa Corrida é mais do que visibilidade na Beira-Mar: é fortalecer as ações práticas de responsabilidade social e ESG da sua empresa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Empresas-conscientes-n-o-se-calam-diante-de-uma-crise-humana-global-Associar-a-sua-marca-nossa-Co-3e633d8db9d280f68c72cdecd3e94cfa"
+    },
+    {
+      "title": "Em 2026, o Grupo Mulheres do Brasil e as Mulheres de Gás correm juntos pelo fim da violência contra mulheres e meninas. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Em-2026-o-Grupo-Mulheres-do-Brasil-e-as-Mulheres-de-G-s-correm-juntos-pelo-fim-da-viol-ncia-contra--3e633d8db9d2809c8f2cdca65ffee39a"
+    },
+    {
+      "title": "1 em cada 3 mulheres já sofreu violência. Cada passo na corrida é um pedido de basta!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/1-em-cada-3-mulheres-j-sofreu-viol-ncia-Cada-passo-na-corrida-um-pedido-de-basta-3e633d8db9d280108f01d37293b0c9bc"
+    },
+    {
+      "title": "O tempo está correndo! As inscrições para os percursos de 3km, 5km e 10km estão voando no Sympla.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-tempo-est-correndo-As-inscri-es-para-os-percursos-de-3km-5km-e-10km-est-o-voando-no-Sympla-3e633d8db9d2806fac91f9a965ddeccb"
+    },
+    {
+      "title": "Grandes marcas que se posicionam. Conheça as empresas que estão correndo conosco por essa causa!",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "19/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Grandes-marcas-que-se-posicionam-Conhe-a-as-empresas-que-est-o-correndo-conosco-por-essa-causa-3e633d8db9d28044afd7fb94a7cbbed7"
+    },
+    {
+      "title": "Falta menos de um mês. Fortaleza vai se unir pelo fim da violência contra as mulheres. 21/11 | 9ª Corrida e Caminhada",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "01/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Falta-menos-de-um-m-s-Fortaleza-vai-se-unir-pelo-fim-da-viol-ncia-contra-as-mulheres-21-11-9-Co-3e633d8db9d280458b7ae6ee983a807d"
+    },
+    {
+      "title": "A nossa corrida ganhou um gás a mais. Caminhada 3km | Corrida 5km e 10km - ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "01/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 2. Alterações a fazer",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-nossa-corrida-ganhou-um-g-s-a-mais-Caminhada-3km-Corrida-5km-e-10km-Garanta-o-seu-kit-oficial-3e633d8db9d2807594d7ca92dea6f338"
+    },
+    {
+      "title": "Cuidar do mundo ao seu redor é lindo. Mas o cuidado mais importante do mês começa olhando para você mesma. Faça seus exames preventivos.",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "15/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cuidar-do-mundo-ao-seu-redor-lindo-Mas-o-cuidado-mais-importante-do-m-s-come-a-olhando-para-voc--3e633d8db9d2803aaaf7fdc5c8bfc685"
+    },
+    {
+      "title": "Como ser uma voluntária do Mulheres do Brasil em Fortaleza?",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "07/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Como-ser-uma-volunt-ria-do-Mulheres-do-Brasil-em-Fortaleza-3e633d8db9d280338ee3cb71b2dc1a2b"
+    },
+    {
+      "title": "Faltam poucos dias para o aniversário do nosso movimento. Se você pudesse definir o Grupo Mulheres do Brasil em uma única palavra, qual seria?",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Faltam-poucos-dias-para-o-anivers-rio-do-nosso-movimento-Se-voc-pudesse-definir-o-Grupo-Mulheres-d-3e633d8db9d2804999eee6a289f84116"
+    },
+    {
+      "title": "Você conhece o Grupo Mulheres do Brasil? Somos um movimento político, mas totalmente SUPRAPARTIDÁRIO. Nosso partido é o Brasil e a nossa causa é a voz da mulher.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "14/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-conhece-o-Grupo-Mulheres-do-Brasil-Somos-um-movimento-pol-tico-mas-totalmente-SUPRAPARTID-RIO-3e633d8db9d2803cb134de343e06097e"
+    },
+    {
+      "title": "Parabéns, Luiza Helena Trajano! Nossa grande inspiração e força motriz. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Parab-ns-Luiza-Helena-Trajano-Nossa-grande-inspira-o-e-for-a-motriz-3db33d8db9d2803884edc873935ae396"
+    },
+    {
+      "title": "Parabéns, Grupo Mulheres do Brasil!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Parab-ns-Grupo-Mulheres-do-Brasil-3db33d8db9d280849a18de81769b9e0c"
+    },
+    {
+      "title": "Falar de mulheres sem falar de raça também pode esconder desigualdades",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Falar-de-mulheres-sem-falar-de-ra-a-tamb-m-pode-esconder-desigualdades-3ce33d8db9d2809a974cdad9872a5110"
+    },
+    {
+      "title": "Em 2026, mais de 1 milhão de atendimentos chegaram ao Ligue 180 em apenas sete meses.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Em-2026-mais-de-1-milh-o-de-atendimentos-chegaram-ao-Ligue-180-em-apenas-sete-meses-3ce33d8db9d2803ba243d6e49756233a"
+    },
+    {
+      "title": "A crise climática também é uma questão de gênero",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-crise-clim-tica-tamb-m-uma-quest-o-de-g-nero-3ce33d8db9d2802682ecda63a96c0e8f"
+    }
+  ],
   "Finseg Leal": [
     {
-      "title": "Alagamento",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Se amanhã desse tudo errado, você saberia o que está protegido?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Alagamento-3ae33d8db9d280b7ac8fd3d65b694dd0"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-amanh-desse-tudo-errado-voc-saberia-o-que-est-protegido-3eb33d8db9d280b39f21d9c3b744f62b"
     },
     {
-      "title": "Seu seguro aguenta",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "26/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "O que seu plano facilita quando o assunto é prevenção?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Seu-seguro-aguenta-3ae33d8db9d280d88f31c143f8a4a43e"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-seu-plano-facilita-quando-o-assunto-preven-o-3eb33d8db9d28081ac35f4b8c77ab5db"
     },
     {
-      "title": "Franquia",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "Uso particular, trabalho, aplicativo: o que muda no seguro?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Franquia-3ae33d8db9d280fabb69f6e2d249bac0"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uso-particular-trabalho-aplicativo-o-que-muda-no-seguro-3eb33d8db9d280f59bf0c96db778f05f"
     },
     {
-      "title": "Carro roubado",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
+      "title": "A pergunta não é só ‘quanto custa?’. É ‘onde eu consigo ser atendido?’",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Carro-roubado-3ae33d8db9d280dcb542f00ae2c31f87"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-pergunta-n-o-s-quanto-custa-onde-eu-consigo-ser-atendido-3eb33d8db9d280cf914ecf512dd7c02a"
+    },
+    {
+      "title": "5 minutos depois do acidente: o que você não deveria fazer?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/5-minutos-depois-do-acidente-o-que-voc-n-o-deveria-fazer-3eb33d8db9d28051ab3dc53f1e390b32"
+    },
+    {
+      "title": "Quem trabalha com proteção também merece ser lembrado. - Dia do Securitário",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quem-trabalha-com-prote-o-tamb-m-merece-ser-lembrado-Dia-do-Securit-rio-3eb33d8db9d280c5b2fac527520f2995"
+    },
+    {
+      "title": "R$ 2.000 de diferença no seguro. R$ 20.000 de diferença no problema.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/R-2-000-de-diferen-a-no-seguro-R-20-000-de-diferen-a-no-problema-3eb33d8db9d28059af18fc83bb3f6bf4"
+    },
+    {
+      "title": "Rede credenciada: o detalhe que importa quando chega a hora.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Rede-credenciada-o-detalhe-que-importa-quando-chega-a-hora-3eb33d8db9d2805e8df5d11a0c63b5da"
+    },
+    {
+      "title": "O que você não vê quando recebe uma cotação? - Dia do Corretor de Seguros",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-voc-n-o-v-quando-recebe-uma-cota-o-Dia-do-Corretor-de-Seguros-3eb33d8db9d2802f8a3fd3f345fdfbb1"
+    },
+    {
+      "title": "Tem benefício que aparece na folha. E tem benefício que aparece na rotina.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-benef-cio-que-aparece-na-folha-E-tem-benef-cio-que-aparece-na-rotina-3eb33d8db9d2807e864cebe00bed924d"
+    },
+    {
+      "title": "Quando foi a última vez que você cuidou da sua saúde antes de precisar? Outubro Rosa não é só sobre lembrar. É sobre agir.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-cuidou-da-sua-sa-de-antes-de-precisar-Outubro-Rosa-n-o-s-sobre--3eb33d8db9d2804791b3fa8ef5bdddc6"
+    },
+    {
+      "title": "Seu carro pode estar sendo usado por alguém que a apólice não considera da mesma forma.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-carro-pode-estar-sendo-usado-por-algu-m-que-a-ap-lice-n-o-considera-da-mesma-forma-3eb33d8db9d280528fc9f60741a0be93"
+    },
+    {
+      "title": "Depois dos 44, o que muda na hora de escolher um plano de saúde?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Depois-dos-44-o-que-muda-na-hora-de-escolher-um-plano-de-sa-de-3eb33d8db9d28017ae63e53e529dca26"
+    },
+    {
+      "title": "3 contas que ninguém coloca no orçamento — até elas aparecerem.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "01/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3-contas-que-ningu-m-coloca-no-or-amento-at-elas-aparecerem-3d033d8db9d28036b282d081fcb85d71"
     }
   ],
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
-      "title": "Semana Nacional do transito",
-      "status": "postado",
+      "title": "A mesma necessidade pode ter mais de uma solução!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-mesma-necessidade-pode-ter-mais-de-uma-solu-o-3e333d8db9d2802fa572f018eaf4629c"
+    },
+    {
+      "title": "Se existem várias seguradoras, como saber qual faz sentido para você?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-existem-v-rias-seguradoras-como-saber-qual-faz-sentido-para-voc-3e333d8db9d280cab506f5350a4b5cc7"
+    },
+    {
+      "title": "Tudo aquilo que faz parte da sua vida também merece entrar no seu planejamento!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tudo-aquilo-que-faz-parte-da-sua-vida-tamb-m-merece-entrar-no-seu-planejamento-3e333d8db9d280129c51e15625b356a4"
+    },
+    {
+      "title": "Você sabe o que seu seguro resolve quando o carro para?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-sabe-o-que-seu-seguro-resolve-quando-o-carro-para-3e333d8db9d280c3a592cfb10eb805fe"
+    },
+    {
+      "title": "O cliente vê o resultado. O mercado de seguros vê todo o processo!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-cliente-v-o-resultado-O-mercado-de-seguros-v-todo-o-processo-3e333d8db9d280b3a01fe2953b0d3949"
+    },
+    {
+      "title": "Tem muita coisa em jogo para deixar a proteção para depois. Chame a Aprosseg e proteja o que importa.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-muita-coisa-em-jogo-para-deixar-a-prote-o-para-depois-Chame-a-Aprosseg-e-proteja-o-que-importa-3e333d8db9d2805a906cf0f1cddd1201"
+    },
+    {
+      "title": "Quando a saúde pede atenção, ter com quem contar faz diferença.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-a-sa-de-pede-aten-o-ter-com-quem-contar-faz-diferen-a-3e333d8db9d28033b3eecc28510719b1"
+    },
+    {
+      "title": "Tem cuidados que a gente não deveria deixar para depois. Cuide da sua saúde. Previna-se.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-cuidados-que-a-gente-n-o-deveria-deixar-para-depois-Cuide-da-sua-sa-de-Previna-se-3e333d8db9d280338965f28ffe681952"
+    },
+    {
+      "title": "O que um corretor faz por você depois que a apólice está assinada? Descubra o valor de ter um corretor ao seu lado.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "02/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-um-corretor-faz-por-voc-depois-que-a-ap-lice-est-assinada-Descubra-o-valor-de-ter-um-corret-3e333d8db9d280a6a485d75caa7028a7"
+    }
+  ],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Seu cliente não pagou. Você sabe quais documentos precisa guardar antes de cobrar judicialmente. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-cliente-n-o-pagou-Voc-sabe-quais-documentos-precisa-guardar-antes-de-cobrar-judicialmente-3e933d8db9d280669841cd045ed964a3"
+    },
+    {
+      "title": "Sua empresa usa imagens, músicas ou vídeos da  internet? nem tudo que está online pode ser usado livremente. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-usa-imagens-m-sicas-ou-v-deos-da-internet-nem-tudo-que-est-online-pode-ser-usado-liv-3e933d8db9d2802b8758ffa1128b6efd"
+    },
+    {
+      "title": "Sua pequena empresa cresceu. Mas a estrutura jurídica cresceu junto com ela? - Dia da micro e pequena empresa",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-pequena-empresa-cresceu-Mas-a-estrutura-jur-dica-cresceu-junto-com-ela-Dia-da-micro-e-pequen-3e933d8db9d28048af0ec5b7707b1a78"
+    },
+    {
+      "title": "5 livros que todo estudante de Direito deveria conhecer - Mais do que acumular conteúdo, estudar Direito também é aprender a pensar juridicamente.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "29/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/5-livros-que-todo-estudante-de-Direito-deveria-conhecer-Mais-do-que-acumular-conte-do-estudar-Dir-3dc33d8db9d28049bf70d626ab170b45"
+    },
+    {
+      "title": "Antes de ensinar Direito, precisei entender que conhecimento só faz sentido quando pode transformar alguém - Dia do professor",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Antes-de-ensinar-Direito-precisei-entender-que-conhecimento-s-faz-sentido-quando-pode-transformar--3dc33d8db9d280f98138cdaf7dbb3fb4"
+    },
+    {
+      "title": "\"É um contrato simples, não precisa de advogado.\" Será?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/um-contrato-simples-n-o-precisa-de-advogado-Ser-3dc33d8db9d280009591e2d05e405290"
+    },
+    {
+      "title": "Seu sócio pode vender a participação dele para qualquer pessoa?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-s-cio-pode-vender-a-participa-o-dele-para-qualquer-pessoa-3dc33d8db9d280f68c62e3bf138663ef"
+    },
+    {
+      "title": "O que ninguém lembra de combinar quando abre uma empresa com um amigo. A confiança é importante.\nMas algumas coisas precisam estar claras antes do primeiro investimento.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-ningu-m-lembra-de-combinar-quando-abre-uma-empresa-com-um-amigo-A-confian-a-importante-Mas-3dc33d8db9d2808e8935df911e48b7fc"
+    },
+    {
+      "title": "Você foi chamado para prestar esclarecimentos. Precisa ir acompanhado de advogado?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "01/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-foi-chamado-para-prestar-esclarecimentos-Precisa-ir-acompanhado-de-advogado-3dc33d8db9d280bbaa19d803b964307f"
+    }
+  ],
+  "Conecta Assessoria": [
+    {
+      "title": "Você construiu muita coisa até aqui. Agora, escolha como quer proteger tudo isso.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-construiu-muita-coisa-at-aqui-Agora-escolha-como-quer-proteger-tudo-isso-3e433d8db9d280308355f293c8c255a5"
+    },
+    {
+      "title": "Você protege o que tem. Mas será que já pensou em tudo? Saúde, renda, casa, trabalho, patrimônio.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-protege-o-que-tem-Mas-ser-que-j-pensou-em-tudo-Sa-de-renda-casa-trabalho-patrim-nio-3e433d8db9d280bba1dbce78220bced6"
+    },
+    {
+      "title": "Você quer comprar. Mas precisa comprar agora?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-quer-comprar-Mas-precisa-comprar-agora-3e433d8db9d280a0a8f2d349381fc0e0"
+    },
+    {
+      "title": "Cuidar de vidas exige conhecimento, dedicação e, acima de tudo, humanidade. Feliz Dia do Médico!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cuidar-de-vidas-exige-conhecimento-dedica-o-e-acima-de-tudo-humanidade-Feliz-Dia-do-M-dico-3e433d8db9d280e4a643ea5dd63cd98a"
+    },
+    {
+      "title": "Você pode fazer tudo certo e ainda assim ser responsabilizado por alguma coisa. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-pode-fazer-tudo-certo-e-ainda-assim-ser-responsabilizado-por-alguma-coisa-3e433d8db9d28082b8ddd8f9ec24d571"
+    },
+    {
+      "title": "Você investe para contratar, treinar e manter bons profissionais. Mas será que os benefícios da sua empresa acompanham esse investimento?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-investe-para-contratar-treinar-e-manter-bons-profissionais-Mas-ser-que-os-benef-cios-da-sua--3e433d8db9d28065a306e6c13529d691"
+    },
+    {
+      "title": "Quando você contratou seu plano de saúde, provavelmente olhou para o preço. Hoje, se precisasse usar, você saberia exatamente o que contratou?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-voc-contratou-seu-plano-de-sa-de-provavelmente-olhou-para-o-pre-o-Hoje-se-precisasse-usar-3e433d8db9d2802597f5cfc2ae467ae7"
+    },
+    {
+      "title": "Você recebeu três propostas de plano de saúde. E agora? A menor mensalidade nem sempre conta a história inteira.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "14/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-recebeu-tr-s-propostas-de-plano-de-sa-de-E-agora-A-menor-mensalidade-nem-sempre-conta-a-hist--3e433d8db9d28023ba2ec1d02bbdb915"
+    },
+    {
+      "title": "Tem gente que vende seguro. E tem quem acompanhe decisões que podem mudar a vida de alguém. Feliz Dia do corretor de seguros!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-gente-que-vende-seguro-E-tem-quem-acompanhe-decis-es-que-podem-mudar-a-vida-de-algu-m-Feliz-Di-3e433d8db9d2800ab71bd9597861af62"
+    },
+    {
+      "title": "Você trabalha todos os meses para construir sua renda. Mas já parou para pensar no que aconteceria com ela se você precisasse parar?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-trabalha-todos-os-meses-para-construir-sua-renda-Mas-j-parou-para-pensar-no-que-aconteceria-c-3e433d8db9d280148049d4039cc38c04"
+    },
+    {
+      "title": "Você cuida de tanta coisa. Por que a sua saúde continua ficando para depois?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-cuida-de-tanta-coisa-Por-que-a-sua-sa-de-continua-ficando-para-depois-3e433d8db9d2800b87fcf3580f6f9d2c"
+    },
+    {
+      "title": "A sua casa é o lugar onde tudo acontece. Mas quando alguma coisa dá errado, você sabe com o que pode contar?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-sua-casa-o-lugar-onde-tudo-acontece-Mas-quando-alguma-coisa-d-errado-voc-sabe-com-o-que-pode-3e433d8db9d280a0b897e8f55f1c61c2"
+    },
+    {
+      "title": "Você passou anos construindo sua vida. Talvez esteja na hora de pensar no que aconteceria se alguma coisa interrompesse esse caminho.",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-passou-anos-construindo-sua-vida-Talvez-esteja-na-hora-de-pensar-no-que-aconteceria-se-alguma--3e433d8db9d28080abfac4c9485826bb"
+    }
+  ],
+  "Solar Coworking": []
+};
+
+const LINHA_VIDEO_ITEMS = {
+  "Hélio Rôla 90 Anos": [],
+  "AAFEC": [],
+  "Ser Ponte": [],
+  "Tramix": [
+    {
+      "title": "Legado ",
+      "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "24/09",
+      "date": "02/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Legado-3d833d8db9d2807b8d0fd1c0fa74146f"
+    }
+  ],
+  "Stratto": [
+    {
+      "title": "Dashboard muda decisões?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Dashboard-muda-decis-es-39133d8db9d280079664c30cbbf4920d"
+    },
+    {
+      "title": "O empresário precisa pensar.",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/O-empres-rio-precisa-pensar-39133d8db9d2802b89c0e71fda43438c"
+    }
+  ],
+  "Juntos contra o HPV": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3e633d8db9d280d28345e39cda01381f"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3e633d8db9d280859bf4f4ff9f983443"
+    },
+    {
+      "title": "TBT do simpósio",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "15/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/TBT-do-simp-sio-3e533d8db9d280a68cefd4267890188d"
+    },
+    {
+      "title": "Vídeo com imagens e narração",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/10",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Semana-Nacional-do-transito-3e333d8db9d280a09613e528792134fc"
+      "notionUrl": "https://app.notion.com/p/V-deo-com-imagens-e-narra-o-3d633d8db9d280d095edfe3a37325aac"
+    }
+  ],
+  "Ventana": [],
+  "Univendas": [],
+  "Terrartesã": [],
+  "RR Advocacia": [],
+  "Rede Pangeia": [],
+  "Planos Seguros": [],
+  "Plannea": [
+    {
+      "title": "O contador precisa participar ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "19/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/O-contador-precisa-participar-3e933d8db9d280e1bccac6d70dbfcb74"
+    },
+    {
+      "title": "Dar lucro e falir ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Dar-lucro-e-falir-3e933d8db9d280028496c193836c5a2d"
+    },
+    {
+      "title": "Crescer ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Crescer-3e933d8db9d28025ac47cc0b266b6cec"
+    }
+  ],
+  "Ortobom": [
+    {
+      "title": "Trocar seu colchão",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "02/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Trocar-seu-colch-o-3d133d8db9d2809a9ab6cb4994f4c7c3"
+    }
+  ],
+  "ItalaP": [
+    {
+      "title": "Dia das crianças",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "12/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Dia-das-crian-as-3eb33d8db9d28079a33dd094401af9cd"
+    }
+  ],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Vídeo com texto e narração",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://app.notion.com/p/V-deo-com-texto-e-narra-o-3e633d8db9d280d4bf34eb02d74eb7e1"
+    }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Bateu no uber",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Bateu-no-uber-3ea33d8db9d280ee9c0bd0a4dcc49817"
+    },
+    {
+      "title": "Bateu o carro?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "21/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Bateu-o-carro-3ea33d8db9d280708010f3395f45797e"
+    },
+    {
+      "title": "Quanto tem na minha apolice?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Quanto-tem-na-minha-apolice-3ea33d8db9d280bdbe40dd97c6fc66d0"
+    },
+    {
+      "title": "Emprestei meu carro",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Emprestei-meu-carro-3ea33d8db9d280489f1ec2edf5cf39e1"
+    }
+  ],
+  "Di Gregório Buffet": [],
+  "APROSSEG": [
+    {
+      "title": "Devo fazer um seguro ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Devo-fazer-um-seguro-3ea33d8db9d280788439d2490a9d8f4a"
+    },
+    {
+      "title": "Por que a Aprosseg trabalha com várias seguradoras?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Por-que-a-Aprosseg-trabalha-com-v-rias-seguradoras-3e333d8db9d2807c8191cf5be5e0137f"
+    },
+    {
+      "title": "Eu tenho muito orgulho de ser corretor de seguros. E sabe por quê? ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "11/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Eu-tenho-muito-orgulho-de-ser-corretor-de-seguros-E-sabe-por-qu-3e333d8db9d280e5a2aec560b5194126"
+    },
+    {
+      "title": "Feedback de cliente (gravado no dia 30/09)",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "06/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://app.notion.com/p/Feedback-de-cliente-gravado-no-dia-30-09-3e333d8db9d280bea052d2883cb00a91"
+    },
+    {
+      "title": "Dia do securitario",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "19/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Dia-do-securitario-3db33d8db9d2807587cad58b2753d583"
+    },
+    {
+      "title": "Eu me cuido porque… Outubro rosa",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "01/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Eu-me-cuido-porque-Outubro-rosa-3db33d8db9d28028a84bdf723bfdd792"
     }
   ],
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
-      "title": "Conecta",
-      "status": "agendado",
+      "title": "Unimed",
+      "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
-      "date": "24/09",
-      "missing": [],
+      "date": "22/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Conecta-3e433d8db9d2808ab6a1cac6c69e02dc"
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 2. Aprovação (cliente)",
+      "notionUrl": "https://app.notion.com/p/Unimed-3e433d8db9d28038a449ccd5a3282c32"
     },
     {
-      "title": "Vídeo",
-      "status": "agendado",
+      "title": "SulAmerica",
+      "status": "agendado_coord",
       "formato": "🎥 Vídeo vertical",
-      "date": "09/09",
-      "missing": [],
+      "date": "15/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d280dd9559d7f258e0fb03"
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 2. Aprovação (cliente)",
+      "notionUrl": "https://app.notion.com/p/SulAmerica-3e433d8db9d280ed8520dcaafdec6a41"
     },
     {
-      "title": "Vídeo",
+      "title": "Amil",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
-      "date": "01/09",
+      "date": "01/10",
       "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-3b333d8db9d28043af49eda8238d2e26"
-    }
-  ],
-  "Solar Coworking": [
+      "notionUrl": "https://app.notion.com/p/Amil-3e433d8db9d28092be7fc29562b5511f"
+    },
     {
-      "title": "Vídeo",
+      "title": "Você conhece a Conecta pelos planos de saúde. Mas talvez ainda não conheça tudo o que a gente faz",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
-      "date": "29/09",
+      "date": "29/10",
       "missing": [
         "Vídeo"
       ],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/V-deo-3e433d8db9d2801db0d6e2d3ddd0a4a8"
-    },
-    {
-      "title": "Vídeo",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/V-deo-3e433d8db9d28020859fd8b6c5c67bee"
-    },
-    {
-      "title": "Vídeo",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/V-deo-3d533d8db9d280af9fabcee3f55a9b48"
-    },
-    {
-      "title": "Video ",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Video-3d433d8db9d280f18077fddb3f1b68da"
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Voc-conhece-a-Conecta-pelos-planos-de-sa-de-Mas-talvez-ainda-n-o-conhe-a-tudo-o-que-a-gente-faz-3e433d8db9d28004b99be1089af94fd7"
     }
-  ]
+  ],
+  "Solar Coworking": []
 };
 
 const LINHA_STORIES_ITEMS = {
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [],
-  "Ser Ponte": [
-    {
-      "title": "Um pouco do que vai com a gente para a Auê 👀",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "18/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Um-pouco-do-que-vai-com-a-gente-para-a-Au-3dc33d8db9d280f3b67ed28752131c24"
-    }
-  ],
+  "Ser Ponte": [],
   "Tramix": [],
   "Stratto": [],
-  "Juntos contra o HPV": [
-    {
-      "title": "É AMANHÃ. Um encontro para transformar conhecimento em prevenção — e prevenção em vidas protegidas.  18 de setembro Presencial + on-line - Inscrições gratuitas",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/AMANH-Um-encontro-para-transformar-conhecimento-em-preven-o-e-preven-o-em-vidas-protegidas-1-3dd33d8db9d280fdba8cda46f0411c5d"
-    },
-    {
-      "title": "Os trabalhos selecionados para o I Simpósio do Movimento Juntos Contra o HPV já estão disponíveis. Quer conferir os trabalhos selecionados?\nAcesse o link e veja a lista completa.",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Os-trabalhos-selecionados-para-o-I-Simp-sio-do-Movimento-Juntos-Contra-o-HPV-j-est-o-dispon-veis-Q-3cf33d8db9d280d1aaf4de75f4ebe146"
-    },
-    {
-      "title": "Falta menos de um mês! Você já garantiu sua inscrição?",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "01/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Falta-menos-de-um-m-s-Voc-j-garantiu-sua-inscri-o-3ab33d8db9d28005911ef1966f3384f4"
-    }
-  ],
+  "Juntos contra o HPV": [],
   "Ventana": [],
   "Univendas": [
     {
-      "title": "Story repost ",
-      "status": "postado",
+      "title": "Storu repost ",
+      "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "17/09",
+      "date": "01/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-repost-3d633d8db9d2801fbb90e9cc9cac3419"
-    },
-    {
-      "title": "Story repost",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-repost-3cd33d8db9d280a9bd6be51dcdad3019"
+      "notionUrl": "https://app.notion.com/p/Storu-repost-3cd33d8db9d2800e852efc1d916c8218"
     }
   ],
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Você conhece os seus direitos como consumidor?",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-conhece-os-seus-direitos-como-consumidor-3d733d8db9d28014b024cef9121639d1"
-    },
-    {
-      "title": "Setembro amarelo",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-3ce33d8db9d280a6b182e4a2af93edd3"
-    }
-  ],
-  "Rede Pangeia": [
-    {
-      "title": "#dicadasemana",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "25/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d28013b7a9cf7d1ee72c5e"
-    },
-    {
-      "title": "#dicadasemana",
+      "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "30/09",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3eb33d8db9d2800e8147c14679a7aac1"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "01/10",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d280e68407db49b6b92ce0"
-    },
-    {
-      "title": "#dicadasemana",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d28032bb72d7d4531e16d9"
+      "notionUrl": "https://app.notion.com/p/Story-stories-3eb33d8db9d280cabb03faa96d09aadb"
     }
   ],
-  "Planos Seguros": [
-    {
-      "title": "Seu seguro acompanha a realidade atual da sua operação?",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "03/09",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-seguro-acompanha-a-realidade-atual-da-sua-opera-o-36733d8db9d28015a941e771638e52b4"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Luz, câmera… Contabilidade em Ação! ",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Luz-c-mera-Contabilidade-em-A-o-Nossa-campanha-chegou-ao-fim-e-esses-v-deos-que-voc-assistiu-fo-32c33d8db9d28212941f0136700175b5"
-    },
-    {
-      "title": "Stories evento Cariri ",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Stories-evento-Cariri-3dd33d8db9d280bfa833c1a766081974"
-    }
-  ],
+  "Rede Pangeia": [],
+  "Planos Seguros": [],
+  "Plannea": [],
   "Ortobom": [
     {
-      "title": "Setembro amarelo ",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "10/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Setembro-amarelo-3d633d8db9d28038b80dcbcb838c9b09"
-    },
-    {
-      "title": "Repost storys",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Repost-storys-3d633d8db9d280d8b1f7d6fd8b7b8656"
-    },
-    {
-      "title": "Repost storys ",
+      "title": "Cintia aniversario (Dell paseio)",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "29/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
+      "date": "03/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Repost-storys-3d133d8db9d280b689daf30092b68a06"
+      "notionUrl": "https://app.notion.com/p/Cintia-aniversario-Dell-paseio-3e433d8db9d280a7ae34dcfc93fb66f5"
     },
     {
-      "title": "Repost storys ",
-      "status": "postado",
+      "title": "Aniversário Danielly (north shopping)",
+      "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "22/09",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Repost-storys-3d133d8db9d28097b947de204d71086f"
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-Danielly-north-shopping-2e333d8db9d280ad86a9f389dcac06d5"
+    },
+    {
+      "title": "Aniversário Jeniffer (palmares mall)",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "09/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-Jeniffer-palmares-mall-2e333d8db9d280c5addfff3db25a5eba"
     }
   ],
-  "ItalaP": [
-    {
-      "title": "Comunicado",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Comunicado-3dc33d8db9d280c09b60cc710671d1ea"
-    },
-    {
-      "title": "Comunicado",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "09/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Comunicado-3d533d8db9d2803b920dd09699f03e78"
-    },
-    {
-      "title": "Comunicado",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "04/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Comunicado-3d133d8db9d280d2869fd74ad43f2743"
-    }
-  ],
+  "ItalaP": [],
   "Grupo Mulheres do Brasil": [],
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Feliz aniversário, Heloisa",
-      "status": "agendado",
-      "formato": "📱 Story",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. N/A",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Heloisa-3a533d8db9d280698e2cf0eae62be2f5"
-    }
-  ],
+  "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
-      "title": "Aniversário - Joana Darc",
-      "status": "postado",
+      "title": "Story/stories",
+      "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. N/A",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Anivers-rio-Joana-Darc-3de33d8db9d280979dfae81f8d91f8f5"
-    },
-    {
-      "title": "Aniversario - Diego Sarquis",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "23/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aniversario-Diego-Sarquis-3cd33d8db9d28038b828cf1964675ecc"
-    },
-    {
-      "title": "Aniversario - Ivone",
-      "status": "st-paused",
-      "formato": "📱 Story",
-      "date": "22/09",
-      "missing": [],
+      "date": "19/10",
+      "missing": [
+        "Design"
+      ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aniversario-Ivone-3cd33d8db9d2805da158faf8c4cfaaa0"
-    },
-    {
-      "title": "Aniversario - Hilda Onofres",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "21/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. N/A",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aniversario-Hilda-Onofres-3cd33d8db9d2807db0cbd7bbbfa4b2f1"
-    },
-    {
-      "title": "Aniversario - Maciel",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "16/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aniversario-Maciel-3cd33d8db9d28004b3cceff45ecefacb"
+      "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d28013a84de31f3b89cf53"
     },
-    {
-      "title": "Aniversario - Daniel Brito",
-      "status": "agendado",
-      "formato": "📱 Story",
-      "date": "12/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. N/A",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aniversario-Daniel-Brito-3cd33d8db9d280ad80eff090142c0088"
-    },
-    {
-      "title": "Aniversario - Gabriel Meneghetti",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "02/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. N/A",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Aniversario-Gabriel-Meneghetti-3cd33d8db9d280b39ff3df7a92beeb49"
-    }
-  ],
-  "Solar Coworking": [
     {
       "title": "Story/stories",
-      "status": "postado",
+      "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "28/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "date": "27/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3d633d8db9d28017ab5fd1cc5b17b72d"
+      "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d28021ad8cf26bf589eec9"
     },
     {
-      "title": "Story repost",
-      "status": "postado",
+      "title": "Story/stories",
+      "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "11/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "date": "13/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-repost-3d633d8db9d2807b8e7edb6d57bed82b"
+      "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d280339bb6f5ecd1e2cc7a"
     },
     {
-      "title": "Story repost ",
-      "status": "postado",
+      "title": "Story/stories",
+      "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "24/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "date": "06/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-repost-3d433d8db9d2800fb698c21e8ed3ccc3"
-    },
-    {
-      "title": "Story repost ",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "17/09",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-repost-3d433d8db9d280338f86e3902c31f3a9"
+      "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d28070aad1f0e51b534e8f"
     }
-  ]
+  ],
+  "Solar Coworking": []
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Solicito arte de boas vindas da Flavia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Flavia-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corr-3eb33d8db9d280bd8d42ea44ce23301b",
+      "gestora": "Equipe",
+      "date": "02/10"
+    },
+    {
+      "title": "Identidade visual da festa FIM DE ANO                                                 convite, o Save Date, Menu, Point self, preciso da arte para a criação da decoração com o tema Tropical.",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Identidade-visual-da-festa-FIM-DE-ANO-convite-o-Sav-3dd33d8db9d280ccbf02e857b0f60b86",
+      "gestora": "Equipe",
+      "date": "09/10"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "Sinergia Florescer 2026 | Save the Date e convite para pesquisa",
@@ -4199,6 +3137,32 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Narra-es-para-v-deos-com-IA-3e233d8db9d280eaa761dd8b03015c08",
       "gestora": "Equipe",
       "date": "21/09"
+    }
+  ],
+  "Ventana": [
+    {
+      "title": "Cartão de visitas para Mayla",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Cart-o-de-visitas-para-Mayla-3e933d8db9d280f88225e110f8034639",
+      "gestora": "Equipe",
+      "date": "01/10"
+    },
+    {
+      "title": "Briefing e e-mail de boas vindas",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Briefing-e-e-mail-de-boas-vindas-3a533d8db9d280b1bedbca459c754824",
+      "gestora": "Equipe",
+      "date": "27/07"
+    },
+    {
+      "title": "Melhorias no Notion (2025-04)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
+      "gestora": "Equipe",
+      "date": "08/05"
     }
   ],
   "Finseg Leal": [
@@ -4362,175 +3326,150 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "26/08"
     }
-  ],
-  "Ventana": [
-    {
-      "title": "Briefing e e-mail de boas vindas",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Briefing-e-e-mail-de-boas-vindas-3a533d8db9d280b1bedbca459c754824",
-      "gestora": "Equipe",
-      "date": "27/07"
-    },
-    {
-      "title": "Melhorias no Notion (2025-04)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
-      "gestora": "Equipe",
-      "date": "08/05"
-    }
   ]
 };
 
 const CAPTACAO_DATA = {
-  "Ortobom": "confirmada",
-  "Univendas": "cancelada",
-  "APROSSEG": "marcada",
-  "Plannea": "confirmada",
+  "Ortobom": "marcada",
   "Conecta Assessoria": "marcada",
-  "Finseg Leal": "marcada",
-  "Solar Coworking": "marcada",
-  "AAFEC": "confirmada",
-  "Tramix": "confirmada",
-  "Juntos contra o HPV": "marcada"
+  "APROSSEG": "marcada"
 };
 
 const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
-    "prontas": 3,
-    "total": 3
+    "prontas": 0,
+    "total": 0
   },
   "AAFEC": {
-    "prontas": 19,
-    "total": 20
+    "prontas": 0,
+    "total": 2
   },
   "Ser Ponte": {
-    "prontas": 12,
-    "total": 13
+    "prontas": 1,
+    "total": 2
   },
   "Tramix": {
-    "prontas": 14,
-    "total": 15
+    "prontas": 0,
+    "total": 6
   },
   "Stratto": {
-    "prontas": 15,
-    "total": 15
+    "prontas": 11,
+    "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 29,
-    "total": 29
+    "prontas": 16,
+    "total": 19
   },
   "Ventana": {
     "prontas": 0,
     "total": 3
   },
   "Univendas": {
-    "prontas": 13,
-    "total": 13
+    "prontas": 0,
+    "total": 0
   },
   "Terrartesã": {
     "prontas": 0,
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 13,
-    "total": 14
+    "prontas": 0,
+    "total": 9
   },
   "Rede Pangeia": {
-    "prontas": 5,
-    "total": 5
+    "prontas": 3,
+    "total": 3
   },
   "Planos Seguros": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 4,
+    "total": 5
   },
   "Plannea": {
-    "prontas": 19,
-    "total": 21
+    "prontas": 0,
+    "total": 9
   },
   "Ortobom": {
-    "prontas": 11,
-    "total": 11
+    "prontas": 2,
+    "total": 2
   },
   "ItalaP": {
-    "prontas": 17,
-    "total": 17
+    "prontas": 1,
+    "total": 19
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 18,
-    "total": 18
+    "prontas": 6,
+    "total": 20
   },
   "Finseg Leal": {
-    "prontas": 16,
-    "total": 16
+    "prontas": 14,
+    "total": 18
   },
   "Di Gregório Buffet": {
     "prontas": 0,
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 9,
+    "total": 16
   },
   "Daniel Maia Advocacia": {
-    "prontas": 7,
-    "total": 7
+    "prontas": 9,
+    "total": 10
   },
   "Conecta Assessoria": {
-    "prontas": 14,
-    "total": 14
+    "prontas": 15,
+    "total": 17
   },
   "Solar Coworking": {
-    "prontas": 12,
-    "total": 13
+    "prontas": 0,
+    "total": 0
   }
 };
 
 const FORMAT_COUNTS = {
   "Hélio Rôla 90 Anos": {
-    "post": 2,
-    "carrossel": 1,
+    "post": 0,
+    "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 0
   },
   "AAFEC": {
-    "post": 14,
-    "carrossel": 3,
+    "post": 1,
+    "carrossel": 1,
     "foto": 0,
-    "video": 3,
+    "video": 0,
     "story": 0
   },
   "Ser Ponte": {
-    "post": 7,
-    "carrossel": 6,
-    "foto": 0,
-    "video": 0,
-    "story": 1
-  },
-  "Tramix": {
-    "post": 9,
+    "post": 2,
     "carrossel": 0,
     "foto": 0,
-    "video": 6,
+    "video": 0,
+    "story": 0
+  },
+  "Tramix": {
+    "post": 5,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 1,
     "story": 0
   },
   "Stratto": {
-    "post": 12,
-    "carrossel": 0,
+    "post": 11,
+    "carrossel": 1,
     "foto": 0,
-    "video": 3,
+    "video": 2,
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 6,
-    "carrossel": 12,
+    "post": 13,
+    "carrossel": 2,
     "foto": 0,
-    "video": 11,
-    "story": 3
+    "video": 4,
+    "story": 0
   },
   "Ventana": {
     "post": 0,
@@ -4540,11 +3479,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 12,
+    "post": 0,
     "carrossel": 0,
-    "foto": 1,
+    "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 1
   },
   "Terrartesã": {
     "post": 0,
@@ -4554,56 +3493,56 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 13,
+    "post": 9,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
+    "video": 0,
     "story": 2
   },
   "Rede Pangeia": {
-    "post": 4,
-    "carrossel": 1,
-    "foto": 0,
-    "video": 0,
-    "story": 3
-  },
-  "Planos Seguros": {
-    "post": 4,
-    "carrossel": 0,
-    "foto": 0,
-    "video": 12,
-    "story": 1
-  },
-  "Plannea": {
-    "post": 11,
-    "carrossel": 3,
-    "foto": 0,
-    "video": 7,
-    "story": 2
-  },
-  "Ortobom": {
     "post": 2,
-    "carrossel": 0,
-    "foto": 0,
-    "video": 9,
-    "story": 4
-  },
-  "ItalaP": {
-    "post": 12,
-    "carrossel": 0,
-    "foto": 0,
-    "video": 5,
-    "story": 3
-  },
-  "Grupo Mulheres do Brasil": {
-    "post": 8,
-    "carrossel": 10,
+    "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
   },
+  "Planos Seguros": {
+    "post": 5,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 0,
+    "story": 0
+  },
+  "Plannea": {
+    "post": 4,
+    "carrossel": 1,
+    "foto": 0,
+    "video": 3,
+    "story": 0
+  },
+  "Ortobom": {
+    "post": 1,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 1,
+    "story": 3
+  },
+  "ItalaP": {
+    "post": 17,
+    "carrossel": 1,
+    "foto": 0,
+    "video": 1,
+    "story": 0
+  },
+  "Grupo Mulheres do Brasil": {
+    "post": 15,
+    "carrossel": 3,
+    "foto": 0,
+    "video": 1,
+    "story": 0
+  },
   "Finseg Leal": {
-    "post": 11,
+    "post": 13,
     "carrossel": 1,
     "foto": 0,
     "video": 4,
@@ -4617,32 +3556,32 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "APROSSEG": {
-    "post": 12,
+    "post": 8,
     "carrossel": 1,
     "foto": 0,
-    "video": 1,
+    "video": 6,
     "story": 0
   },
   "Daniel Maia Advocacia": {
-    "post": 5,
+    "post": 7,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 1
+    "story": 0
   },
   "Conecta Assessoria": {
     "post": 11,
-    "carrossel": 0,
-    "foto": 0,
-    "video": 3,
-    "story": 7
-  },
-  "Solar Coworking": {
-    "post": 9,
-    "carrossel": 0,
+    "carrossel": 2,
     "foto": 0,
     "video": 4,
     "story": 4
+  },
+  "Solar Coworking": {
+    "post": 0,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 0,
+    "story": 0
   }
 };
 
@@ -4653,18 +3592,18 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "AAFEC": {
-    "reuniao": 1,
-    "producao": 4,
+    "reuniao": 0,
+    "producao": 0,
     "evento": 0
   },
   "Ser Ponte": {
-    "reuniao": 1,
+    "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
   "Tramix": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 0,
     "evento": 0
   },
   "Stratto": {
@@ -4674,8 +3613,8 @@ const AGENDA_COUNTS = {
   },
   "Juntos contra o HPV": {
     "reuniao": 0,
-    "producao": 1,
-    "evento": 1
+    "producao": 0,
+    "evento": 0
   },
   "Ventana": {
     "reuniao": 0,
@@ -4684,7 +3623,7 @@ const AGENDA_COUNTS = {
   },
   "Univendas": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 0,
     "evento": 0
   },
   "Terrartesã": {
@@ -4709,8 +3648,8 @@ const AGENDA_COUNTS = {
   },
   "Plannea": {
     "reuniao": 0,
-    "producao": 4,
-    "evento": 1
+    "producao": 0,
+    "evento": 0
   },
   "Ortobom": {
     "reuniao": 0,
@@ -4728,8 +3667,8 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Finseg Leal": {
-    "reuniao": 1,
-    "producao": 1,
+    "reuniao": 0,
+    "producao": 0,
     "evento": 0
   },
   "Di Gregório Buffet": {
@@ -4738,7 +3677,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "APROSSEG": {
-    "reuniao": 1,
+    "reuniao": 0,
     "producao": 1,
     "evento": 0
   },
@@ -4748,13 +3687,13 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Conecta Assessoria": {
-    "reuniao": 1,
+    "reuniao": 0,
     "producao": 1,
     "evento": 0
   },
   "Solar Coworking": {
-    "reuniao": 1,
-    "producao": 1,
+    "reuniao": 0,
+    "producao": 0,
     "evento": 0
   }
 };
