@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/10/2026, 12:33:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/10/2026, 17:43:11 **/
 
-const LAST_UPDATE = '01/10/2026, 12:33:10';
+const LAST_UPDATE = '01/10/2026, 17:43:11';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,11 +71,11 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 2,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Ser Ponte": {
     "total": 2,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 15,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -118,12 +118,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 0,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 3
   },
   "Terrartesã": {
     "total": 0,
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 3,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 6,
-    "pronto": 4,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 18,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 0,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -217,9 +217,9 @@ const FEED_DATA = {
     "total": 9,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Conecta Assessoria": {
     "total": 13,
@@ -387,10 +387,10 @@ const VIDEO_DATA = {
   "APROSSEG": {
     "total": 6,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -476,10 +476,10 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 1,
+    "total": 2,
     "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 1
   },
@@ -493,7 +493,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -613,15 +613,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Agenda de outubro de 2026",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "01/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ea33d8db9d2804bb987e377f7c38542"
     }
@@ -1068,19 +1065,60 @@ const LINHA_FEED_ITEMS = {
     {
       "title": "O simpósio terminou. Um encontro reuniu ciência, experiências e pessoas de diferentes territórios. Agora, os aprendizados continuam circulando.",
       "status": "a_agendar",
-      "formato": "🖼️ Post",
+      "formato": "🎠 Carrossel",
       "date": "01/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-simp-sio-terminou-Um-encontro-reuniu-ci-ncia-experi-ncias-e-pessoas-de-diferentes-territ-rios-A-3e533d8db9d280428e6fe3721ae7dc77"
     }
   ],
   "Ventana": [],
-  "Univendas": [],
+  "Univendas": [
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ec33d8db9d2803388d3d5d0c2f99cef"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ec33d8db9d280f9a3bff67cf1e46caf"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3ec33d8db9d2805ab005c9234d77b226"
+    }
+  ],
   "Terrartesã": [],
   "RR Advocacia": [
     {
@@ -1229,10 +1267,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "01/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/3-perguntas-antes-de-aceitar-qualquer-parceria-3d533d8db9d280c09e19f06bca5d30bf"
@@ -1324,8 +1360,10 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "01/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 2. Alterações a fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-prazo-do-Simples-mudou-na-ltima-semana-E-os-dois-prazos-que-estavam-previstos-para-terminar-hoje-3eb33d8db9d28081934fff6e58134eae"
@@ -1400,7 +1438,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
-      "title": "Quando o assunto é descanso, conheça o Orion.",
+      "title": "FELIZ DIA DO VENDEDOR ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "01/10",
@@ -1410,7 +1448,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-o-assunto-descanso-conhe-a-o-Orion-3d133d8db9d2808db0a3cfb1f4c75b0f"
+      "notionUrl": "https://app.notion.com/p/FELIZ-DIA-DO-VENDEDOR-Para-quem-entende-orienta-e-transforma-escolhas-em-experi-ncias-3d133d8db9d2808db0a3cfb1f4c75b0f"
     }
   ],
   "ItalaP": [
@@ -1574,10 +1612,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "01/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-o-que-um-exame-consegue-contar-sobre-a-sua-sa-de-3eb33d8db9d2800e8276f046e0edad92"
@@ -1768,7 +1805,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Falta menos de um mês. Fortaleza vai se unir pelo fim da violência contra as mulheres. 21/11 | 9ª Corrida e Caminhada",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "01/10",
+      "date": "06/10",
       "missing": [
         "Design"
       ],
@@ -2072,10 +2109,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "02/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Depois-dos-44-o-que-muda-na-hora-de-escolher-um-plano-de-sa-de-3eb33d8db9d28017ae63e53e529dca26"
@@ -2085,10 +2120,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "01/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Pausado",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/3-contas-que-ningu-m-coloca-no-or-amento-at-elas-aparecerem-3d033d8db9d28036b282d081fcb85d71"
@@ -2321,7 +2354,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você foi chamado para prestar esclarecimentos. Precisa ir acompanhado de advogado?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "01/10",
       "missing": [],
@@ -2643,7 +2676,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dar-lucro-e-falir-3e933d8db9d280028496c193836c5a2d"
     },
     {
-      "title": "Crescer ",
+      "title": "Administrar a empress ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "07/10",
@@ -2654,7 +2687,7 @@ const LINHA_VIDEO_ITEMS = {
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Crescer-3e933d8db9d28025ac47cc0b266b6cec"
+      "notionUrl": "https://app.notion.com/p/Administrar-a-empress-3e933d8db9d28025ac47cc0b266b6cec"
     }
   ],
   "Ortobom": [
@@ -2829,14 +2862,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Eu me cuido porque… Outubro rosa",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "01/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Eu-me-cuido-porque-Outubro-rosa-3db33d8db9d28028a84bdf723bfdd792"
     }
@@ -2909,15 +2940,28 @@ const LINHA_STORIES_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
-      "title": "Storu repost ",
+      "title": "Story/stories",
       "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ec33d8db9d280568e2ac17472c3206d"
+    },
+    {
+      "title": "Story repost ",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "01/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Storu-repost-3cd33d8db9d2800e852efc1d916c8218"
+      "notionUrl": "https://app.notion.com/p/Story-repost-3cd33d8db9d2800e852efc1d916c8218"
     }
   ],
   "Terrartesã": [],
@@ -2940,10 +2984,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "01/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Conflito-no-trabalho-3eb33d8db9d280cabb03faa96d09aadb"
@@ -3347,7 +3389,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "AAFEC": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 2
   },
   "Ser Ponte": {
@@ -3372,7 +3414,7 @@ const LEGENDAS_DATA = {
   },
   "Univendas": {
     "prontas": 0,
-    "total": 0
+    "total": 3
   },
   "Terrartesã": {
     "prontas": 0,
@@ -3415,7 +3457,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 16
   },
   "Daniel Maia Advocacia": {
@@ -3469,8 +3511,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Juntos contra o HPV": {
-    "post": 13,
-    "carrossel": 2,
+    "post": 12,
+    "carrossel": 3,
     "foto": 0,
     "video": 4,
     "story": 0
@@ -3483,11 +3525,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 0,
+    "post": 3,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 1
+    "story": 2
   },
   "Terrartesã": {
     "post": 0,
