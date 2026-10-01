@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/10/2026, 05:06:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 01/10/2026, 12:33:10 **/
 
-const LAST_UPDATE = '01/10/2026, 05:06:11';
+const LAST_UPDATE = '01/10/2026, 12:33:10';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,10 +72,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 2,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ser Ponte": {
     "total": 2,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "Plannea": {
-    "total": 5,
-    "pronto": 3,
+    "total": 6,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Ortobom": {
     "total": 1,
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 18,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 4,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Finseg Leal": {
     "total": 14,
@@ -602,12 +602,10 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
       "title": "1º de outubro | Dia do Idoso. Envelhecer também é continuar fazendo história",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "01/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1322,6 +1320,17 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "O prazo do Simples mudou na última semana. ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "01/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-prazo-do-Simples-mudou-na-ltima-semana-E-os-dois-prazos-que-estavam-previstos-para-terminar-hoje-3eb33d8db9d28081934fff6e58134eae"
+    },
+    {
       "title": "Um crescimento de 10% pode parecer excelente. Mas a leitura muda completamente dependendo do que aconteceu no mercado ao mesmo tempo.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1770,12 +1779,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A nossa corrida ganhou um gás a mais. Caminhada 3km | Corrida 5km e 10km - ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "01/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Alterações a fazer",
       "rawVideo": "📽️ 3. N/A",
@@ -3264,7 +3271,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Agenda de outubro de 2026",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
       "gestora": "Equipe",
       "date": "25/09"
@@ -3340,7 +3347,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "AAFEC": {
-    "prontas": 0,
+    "prontas": 1,
     "total": 2
   },
   "Ser Ponte": {
@@ -3384,8 +3391,8 @@ const LEGENDAS_DATA = {
     "total": 5
   },
   "Plannea": {
-    "prontas": 0,
-    "total": 9
+    "prontas": 1,
+    "total": 10
   },
   "Ortobom": {
     "prontas": 2,
@@ -3396,7 +3403,7 @@ const LEGENDAS_DATA = {
     "total": 19
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 20
   },
   "Finseg Leal": {
@@ -3512,7 +3519,7 @@ const FORMAT_COUNTS = {
   },
   "Plannea": {
     "post": 4,
-    "carrossel": 1,
+    "carrossel": 2,
     "foto": 0,
     "video": 3,
     "story": 0
