@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 14:10:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 18:23:15 **/
 
-const LAST_UPDATE = '02/10/2026, 14:10:35';
+const LAST_UPDATE = '02/10/2026, 18:23:15';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 9,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Rede Pangeia": {
     "total": 13,
@@ -175,11 +175,11 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 2,
-    "postado": 0,
+    "pronto": 3,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
@@ -230,12 +230,12 @@ const FEED_DATA = {
     "a_agendar": 12
   },
   "Solar Coworking": {
-    "total": 0,
+    "total": 12,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 12
   }
 };
 
@@ -533,7 +533,7 @@ const STORIES_DATA = {
   },
   "ItalaP": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -588,12 +588,12 @@ const STORIES_DATA = {
     "a_agendar": 4
   },
   "Solar Coworking": {
-    "total": 0,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 4
   }
 };
 
@@ -1317,7 +1317,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dia Internacional da Não-Violência Relações profissionais também precisam de respeito.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "02/10",
       "missing": [],
@@ -1724,13 +1724,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Outubro Rosa: por que esse mês fala tanto sobre câncer de mama? #outubrorosa",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "02/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Outubro-Rosa-por-que-esse-m-s-fala-tanto-sobre-c-ncer-de-mama-outubrorosa-3ed33d8db9d28045a3b4e35d524eb77f"
@@ -2716,7 +2714,164 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-passou-anos-construindo-sua-vida-Talvez-esteja-na-hora-de-pensar-no-que-aconteceria-se-alguma--3e433d8db9d28080abfac4c9485826bb"
     }
   ],
-  "Solar Coworking": []
+  "Solar Coworking": [
+    {
+      "title": "Quando o cliente precisa de você, tenha um lugar preparado.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-o-cliente-precisa-de-voc-tenha-um-lugar-preparado-3ed33d8db9d280239e0ee6602e9dc9a8"
+    },
+    {
+      "title": "Mais praticidade para você. Mais credibilidade para o seu negócio.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-praticidade-para-voc-Mais-credibilidade-para-o-seu-neg-cio-3ed33d8db9d280d69d88fb0782f00663"
+    },
+    {
+      "title": "Mais perto dos seus clientes. Mais praticidade para sua rotina.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-perto-dos-seus-clientes-Mais-praticidade-para-sua-rotina-3ed33d8db9d28050aa77d3dd68294181"
+    },
+    {
+      "title": "Precisa de uma sala para atender? A Solar está pronta para você.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Precisa-de-uma-sala-para-atender-A-Solar-est-pronta-para-voc-3ed33d8db9d2801fbcc4e70994a70e4f"
+    },
+    {
+      "title": "Grandes planos também precisam de uma estrutura para acontecer.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Grandes-planos-tamb-m-precisam-de-uma-estrutura-para-acontecer-3ed33d8db9d2807dbc06e2126b27eaac"
+    },
+    {
+      "title": "Você escolheu onde trabalhar. Mas já pensou em onde seus clientes precisam te encontrar?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Voc-escolheu-onde-trabalhar-Mas-j-pensou-em-onde-seus-clientes-precisam-te-encontrar-3ed33d8db9d2800d8ce1d05a37ec27f7"
+    },
+    {
+      "title": "Seu próximo atendimento pode começar aqui.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-pr-ximo-atendimento-pode-come-ar-aqui-3ed33d8db9d28024a070ef003d78ef81"
+    },
+    {
+      "title": "Nem todo negócio precisa de um escritório próprio.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Nem-todo-neg-cio-precisa-de-um-escrit-rio-pr-prio-3ed33d8db9d28092ae4dfb2e73e342ac"
+    },
+    {
+      "title": "Seu trabalho merece um espaço à altura do que você entrega.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-trabalho-merece-um-espa-o-altura-do-que-voc-entrega-3ed33d8db9d280879271fe8a0fbf78cb"
+    },
+    {
+      "title": "Comunicação acontece quando ideias encontram caminhos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Comunica-o-acontece-quando-ideias-encontram-caminhos-3ed33d8db9d28086a5c4c5576452e19e"
+    },
+    {
+      "title": "Mais do que tecnologia: soluções para fazer acontecer.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Mais-do-que-tecnologia-solu-es-para-fazer-acontecer-3ed33d8db9d280659775cba57736e853"
+    },
+    {
+      "title": "Empreender é fazer acontecer. Estruturar é preparar o caminho.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Empreender-fazer-acontecer-Estruturar-preparar-o-caminho-3ed33d8db9d2807d9926c2794744ff98"
+    }
+  ]
 };
 
 const LINHA_VIDEO_ITEMS = {
@@ -3388,10 +3543,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "01/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/outubrorosa-3ed33d8db9d2800385b2dbfdf3e9f75a"
@@ -3469,7 +3622,60 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d28070aad1f0e51b534e8f"
     }
   ],
-  "Solar Coworking": []
+  "Solar Coworking": [
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "27/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ed33d8db9d280fa8e4cf2baaf94248b"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "20/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ed33d8db9d280358fcdcfb9051855d4"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "13/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ed33d8db9d280ba9b39ec165556237c"
+    },
+    {
+      "title": "outubro rosa",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "06/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/outubro-rosa-3ed33d8db9d280ee9b45feb178630349"
+    }
+  ]
 };
 
 const DEMANDAS_EXTRAS = {
@@ -3583,9 +3789,9 @@ const DEMANDAS_EXTRAS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "Assinatura de e-mail ",
+      "title": "Assinatura de e-mail",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-3ed33d8db9d280c48f3beef661a89d7f",
       "gestora": "Equipe",
       "date": "02/10"
@@ -3835,8 +4041,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Solar Coworking": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 12,
+    "total": 12
   }
 };
 
@@ -3989,11 +4195,11 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Solar Coworking": {
-    "post": 0,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 4
   }
 };
 
