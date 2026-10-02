@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 08:51:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 14:10:35 **/
 
-const LAST_UPDATE = '02/10/2026, 08:51:29';
+const LAST_UPDATE = '02/10/2026, 14:10:35';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -80,10 +80,10 @@ const FEED_DATA = {
   "Ser Ponte": {
     "total": 2,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Tramix": {
     "total": 5,
@@ -105,9 +105,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 15
+    "a_agendar": 14
   },
   "Ventana": {
     "total": 0,
@@ -118,12 +118,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 3,
+    "total": 12,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 12
   },
   "Terrartesã": {
     "total": 0,
@@ -135,19 +135,19 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 9,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 9
   },
   "Rede Pangeia": {
-    "total": 3,
+    "total": 13,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 12
   },
   "Planos Seguros": {
     "total": 5,
@@ -159,11 +159,11 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 6,
-    "pronto": 3,
-    "postado": 0,
+    "pronto": 4,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 1,
@@ -174,12 +174,12 @@ const FEED_DATA = {
     "a_agendar": 1
   },
   "ItalaP": {
-    "total": 18,
+    "total": 15,
     "pronto": 2,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 18
+    "agendado_coord": 1,
+    "a_agendar": 14
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "total": 14,
     "pronto": 2,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 12
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -281,9 +281,9 @@ const VIDEO_DATA = {
     "a_agendar": 2
   },
   "Juntos contra o HPV": {
-    "total": 4,
-    "pronto": 1,
-    "postado": 0,
+    "total": 5,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 4
@@ -347,10 +347,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "ItalaP": {
     "total": 1,
@@ -476,12 +476,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 2,
+    "total": 5,
     "pronto": 1,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 4
   },
   "Terrartesã": {
     "total": 0,
@@ -494,18 +494,18 @@ const STORIES_DATA = {
   "RR Advocacia": {
     "total": 2,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Rede Pangeia": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
+    "total": 5,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 0
+    "agendado_coord": 1,
+    "a_agendar": 3
   },
   "Planos Seguros": {
     "total": 0,
@@ -532,12 +532,12 @@ const STORIES_DATA = {
     "a_agendar": 3
   },
   "ItalaP": {
-    "total": 0,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 5
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -580,11 +580,11 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 4,
+    "total": 5,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 0,
+    "agendado_coord": 1,
     "a_agendar": 4
   },
   "Solar Coworking": {
@@ -640,7 +640,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quanto custa para trabalhar?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "02/10",
       "missing": [],
@@ -1049,7 +1049,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "10 Municípios - Uma rede de prevenção!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "02/10",
       "missing": [],
@@ -1062,7 +1062,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O simpósio terminou. Um encontro reuniu ciência, experiências e pessoas de diferentes territórios. Agora, os aprendizados continuam circulando.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "01/10",
+      "date": "08/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1073,46 +1073,160 @@ const LINHA_FEED_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
-      "title": "Post",
+      "title": "Pensar no futuro da sua família também é cuidar da saúde agora.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Pensar-no-futuro-da-sua-fam-lia-tamb-m-cuidar-da-sa-de-agora-3ed33d8db9d28079921cf9a2fd9bf6a5"
+    },
+    {
+      "title": "Prevenção não tem data para acabar. Seus exames estão em dia?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Preven-o-n-o-tem-data-para-acabar-Seus-exames-est-o-em-dia-3ed33d8db9d280d7beb0c13de1a18420"
+    },
+    {
+      "title": "Clube Mais Vantagens: as ofertas que você já pode aproveitar hoje.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Clube-Mais-Vantagens-as-ofertas-que-voc-j-pode-aproveitar-hoje-3ed33d8db9d2808f8ecdcc3be5cdf352"
+    },
+    {
+      "title": "Cuidar da saúde da mulher vai além de outubro. Você já fez seu check-up completo?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Cuidar-da-sa-de-da-mulher-vai-al-m-de-outubro-Voc-j-fez-seu-check-up-completo-3ed33d8db9d2806cbedae8eb8bbab47d"
+    },
+    {
+      "title": "Saber onde ser atendido faz toda a diferença. Conheça nossa rede de hospitais",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Saber-onde-ser-atendido-faz-toda-a-diferen-a-Conhe-a-nossa-rede-de-hospitais-3ed33d8db9d28093b4a0d79b65d04869"
+    },
+    {
+      "title": "AVC: cada minuto conta. Saiba reconhecer os sinais e chamar ajuda.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/AVC-cada-minuto-conta-Saiba-reconhecer-os-sinais-e-chamar-ajuda-3ed33d8db9d280e49cbcd26100282036"
+    },
+    {
+      "title": "A osteoporose não dá sinais no começo. Por isso, a prevenção não pode esperar",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-osteoporose-n-o-d-sinais-no-come-o-Por-isso-a-preven-o-n-o-pode-esperar-3ed33d8db9d28061abadec0549c07124"
+    },
+    {
+      "title": "Por trás de cada atendimento, há alguém que escolheu cuidar. Feliz Dia do Médico.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Por-tr-s-de-cada-atendimento-h-algu-m-que-escolheu-cuidar-Feliz-Dia-do-M-dico-3ed33d8db9d28073b741df6e1c3d2cd7"
+    },
+    {
+      "title": "Feliz Dia das Crianças! Que a saúde nunca saia da brincadeira",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-Dia-das-Crian-as-Que-a-sa-de-nunca-saia-da-brincadeira-3ed33d8db9d28000a37ac51db3e97ae8"
+    },
+    {
+      "title": "Plano de saúde barato pode sair caro. Veja o que analisar antes de escolher.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ec33d8db9d2803388d3d5d0c2f99cef"
+      "notionUrl": "https://app.notion.com/p/Plano-de-sa-de-barato-pode-sair-caro-Veja-o-que-analisar-antes-de-escolher-3ec33d8db9d2803388d3d5d0c2f99cef"
     },
     {
-      "title": "Post",
+      "title": "Muitas condições começam em silêncio. Seus exames estão em dia?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ec33d8db9d280f9a3bff67cf1e46caf"
+      "notionUrl": "https://app.notion.com/p/Muitas-condi-es-come-am-em-sil-ncio-Seus-exames-est-o-em-dia-3ec33d8db9d280f9a3bff67cf1e46caf"
     },
     {
-      "title": "Post",
+      "title": "Outubro Rosa: o exame que você adia pode ser o que mais cuida de você.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3ec33d8db9d2805ab005c9234d77b226"
+      "notionUrl": "https://app.notion.com/p/Outubro-Rosa-o-exame-que-voc-adia-pode-ser-o-que-mais-cuida-de-voc-3ec33d8db9d2805ab005c9234d77b226"
     }
   ],
   "Terrartesã": [],
@@ -1202,18 +1316,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Constitui-o-Federal-3eb33d8db9d280ac9c23e46e22eab0a2"
     },
     {
-      "title": "Dia Internacional da Não-Violência",
+      "title": "Dia Internacional da Não-Violência Relações profissionais também precisam de respeito.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "02/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-Internacional-da-N-o-Viol-ncia-3eb33d8db9d280eb95aaef4592a7ef27"
+      "notionUrl": "https://app.notion.com/p/Dia-Internacional-da-N-o-Viol-ncia-Rela-es-profissionais-tamb-m-precisam-de-respeito-3eb33d8db9d280eb95aaef4592a7ef27"
     },
     {
       "title": "Dia Mundial da Saúde Mental",
@@ -1246,10 +1357,140 @@ const LINHA_FEED_ITEMS = {
   ],
   "Rede Pangeia": [
     {
+      "title": "O que queremos construir com a Rede Pangeia? \n- Organizações mais fortes. - \nPessoas mais preparadas. - \nRelações mais possíveis. - Mais autonomia para quem transforma.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-queremos-construir-com-a-Rede-Pangeia-Organiza-es-mais-fortes-Pessoas-mais-preparadas-3ed33d8db9d280938ea8e87f4da1ff42"
+    },
+    {
+      "title": "Nem sempre o próximo passo é fazer mais. H2: \nÀs vezes, é parar. \nOlhar para o caminho. \nEntender o que precisa mudar. E escolher melhor onde colocar energia. ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Nem-sempre-o-pr-ximo-passo-fazer-mais-H2-s-vezes-parar-Olhar-para-o-caminho-Entender-o--3ed33d8db9d28024bceec2ea2d970ae7"
+    },
+    {
+      "title": "O que uma boa parceria não pode faltar? Mais do que uma oportunidade, uma parceria precisa fazer sentido para quem está construindo junto.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-uma-boa-parceria-n-o-pode-faltar-Mais-do-que-uma-oportunidade-uma-parceria-precisa-fazer-sen-3ed33d8db9d280b1a77ff854748f9a45"
+    },
+    {
+      "title": "Sua organização sabe quem são as pessoas e instituições que poderiam ajudar a ampliar seu impacto? Mapear sua rede também é uma forma de estratégia.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-organiza-o-sabe-quem-s-o-as-pessoas-e-institui-es-que-poderiam-ajudar-a-ampliar-seu-impacto-M-3ed33d8db9d280e28f80ea16b024d779"
+    },
+    {
+      "title": "Fortalecer não é assumir o lugar de quem faz. É caminhar junto até que a organização consiga seguir com mais autonomia.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Fortalecer-n-o-assumir-o-lugar-de-quem-faz-caminhar-junto-at-que-a-organiza-o-consiga-seguir--3ed33d8db9d280bbb097cae71c115ec4"
+    },
+    {
+      "title": "O que mais de 30 anos de gestão me ensinaram sobre o Terceiro Setor?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-mais-de-30-anos-de-gest-o-me-ensinaram-sobre-o-Terceiro-Setor-3ed33d8db9d28050b183c281f7f61c4f"
+    },
+    {
+      "title": "Quando uma organização cresce, algumas perguntas precisam mudar.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "14/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-uma-organiza-o-cresce-algumas-perguntas-precisam-mudar-3ed33d8db9d2801287d5dc3c3f7be0a9"
+    },
+    {
+      "title": "Improvisar pode resolver o hoje. Mas não constrói, sozinho, o amanhã.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Improvisar-pode-resolver-o-hoje-Mas-n-o-constr-i-sozinho-o-amanh-3ed33d8db9d280ec83b3d99c1338814c"
+    },
+    {
+      "title": "O que eu sempre quis fazer com a minha experiência?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-eu-sempre-quis-fazer-com-a-minha-experi-ncia-3ed33d8db9d280a38367c400817e8ad2"
+    },
+    {
+      "title": "A Rede Pangeia nasceu de uma pergunta. H2: Como ajudar organizações que fazem a diferença a se fortalecerem para continuar fazendo? H3: Essa pergunta continua guiando o nosso trabalho.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-Rede-Pangeia-nasceu-de-uma-pergunta-H2-Como-ajudar-organiza-es-que-fazem-a-diferen-a-a-se-forta-3ed33d8db9d28002a4acfd27a899572d"
+    },
+    {
       "title": "O futuro da sua organização não deveria depender da urgência.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "05/10",
+      "date": "30/10",
       "missing": [
         "Design"
       ],
@@ -1262,7 +1503,7 @@ const LINHA_FEED_ITEMS = {
       "title": "3 perguntas antes de aceitar qualquer parceria",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "01/10",
+      "date": "05/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1271,7 +1512,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quanto mais diversificada é a receita da sua organização, maior tende a ser sua capacidade de atravessar mudanças.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "02/10",
       "missing": [],
@@ -1351,13 +1592,11 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "O prazo do Simples mudou na última semana. ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "02/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Alterações a fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-prazo-do-Simples-mudou-na-ltima-semana-E-os-dois-prazos-que-estavam-previstos-para-terminar-hoje-3eb33d8db9d28081934fff6e58134eae"
@@ -1418,12 +1657,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Promoções de setembro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "02/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1446,6 +1683,58 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "ItalaP": [
+    {
+      "title": "Quais mudanças nas mamas merecem atenção? #outubrorosa",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quais-mudan-as-nas-mamas-merecem-aten-o-outubrorosa-3ed33d8db9d28074a42ee7f8fca73fa8"
+    },
+    {
+      "title": "Encontrei um caroço na mama. É câncer? #outubrorosa",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Encontrei-um-caro-o-na-mama-c-ncer-outubrorosa-3ed33d8db9d2807ea05cc2e11d3d6a15"
+    },
+    {
+      "title": "Se eu não sinto nada, ainda preciso cuidar das minhas mamas? #outubrorosa",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-eu-n-o-sinto-nada-ainda-preciso-cuidar-das-minhas-mamas-outubrorosa-3ed33d8db9d2808a825ac1377928ae4c"
+    },
+    {
+      "title": "Outubro Rosa: por que esse mês fala tanto sobre câncer de mama? #outubrorosa",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Outubro-Rosa-por-que-esse-m-s-fala-tanto-sobre-c-ncer-de-mama-outubrorosa-3ed33d8db9d28045a3b4e35d524eb77f"
+    },
     {
       "title": "Exame de sangue precisa ser feito sempre em jejum?",
       "status": "a_agendar",
@@ -1475,62 +1764,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-a-ferritina-tem-a-ver-com-o-seu-corpo-3eb33d8db9d2806481cec2f7162de6e8"
     },
     {
-      "title": "Você sabe para que serve a vitamina B12?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "23/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Voc-sabe-para-que-serve-a-vitamina-B12-3eb33d8db9d28044ba5bcda062101943"
-    },
-    {
-      "title": "Cansaço constante: quando vale a pena investigar?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "16/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cansa-o-constante-quando-vale-a-pena-investigar-3eb33d8db9d280c88788fed8cf2801ed"
-    },
-    {
-      "title": "Seu exame de urina pode revelar muito mais do que você imagina!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-exame-de-urina-pode-revelar-muito-mais-do-que-voc-imagina-3eb33d8db9d280d58db6f13feb011e41"
-    },
-    {
-      "title": "Por que o médico pede exames de sangue diferentes?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Por-que-o-m-dico-pede-exames-de-sangue-diferentes-3eb33d8db9d2804990b5d0237686dda9"
-    },
-    {
       "title": "A saúde da mulher muda ao longo da vida. O cuidado também.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1545,38 +1778,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-sa-de-da-mulher-muda-ao-longo-da-vida-O-cuidado-tamb-m-3eb33d8db9d280a7a4eadbf86c10815c"
     },
     {
-      "title": "O que acontece com a sua amostra depois da coleta?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "09/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-acontece-com-a-sua-amostra-depois-da-coleta-3eb33d8db9d2802fbdcfe13d986672b1"
-    },
-    {
-      "title": "Tem exame que pede preparo. Tem exame que não. Você sabe a diferença?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "07/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Tem-exame-que-pede-preparo-Tem-exame-que-n-o-Voc-sabe-a-diferen-a-3eb33d8db9d2807e9e30fbe1da5a86bf"
-    },
-    {
       "title": "Você conhece a unidade da ItalaP mais perto de você?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "02/10",
+      "date": "07/10",
       "missing": [
         "Legenda"
       ],
@@ -1586,24 +1791,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-conhece-a-unidade-da-ItalaP-mais-perto-de-voc-3eb33d8db9d280669b77c98ba41d0a8b"
     },
     {
-      "title": "3 coisas que podem mudar o resultado de um exame sem você perceber.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "05/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/3-coisas-que-podem-mudar-o-resultado-de-um-exame-sem-voc-perceber-3eb33d8db9d280d58890ccfb6ee50ae8"
-    },
-    {
       "title": "Você sabe o que um exame consegue contar sobre a sua saúde?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "01/10",
+      "date": "05/10",
       "missing": [
         "Legenda"
       ],
@@ -1613,18 +1804,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-sabe-o-que-um-exame-consegue-contar-sobre-a-sua-sa-de-3eb33d8db9d2800e8276f046e0edad92"
     },
     {
-      "title": "Ginecologista não é só para quando alguma coisa está errada - ",
+      "title": "Preciso ir ao ginecologista mesmo quando está tudo bem? #outubrorosa",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Ginecologista-n-o-s-para-quando-alguma-coisa-est-errada-Dia-do-Ginecologista-28c33d8db9d280408bc0f905ef034ed4"
+      "notionUrl": "https://app.notion.com/p/Preciso-ir-ao-ginecologista-mesmo-quando-est-tudo-bem-outubrorosa-28c33d8db9d280408bc0f905ef034ed4"
     },
     {
       "title": "Quando os sinais aparecem, cada minuto importa - ",
@@ -2099,7 +2289,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Depois dos 44, o que muda na hora de escolher um plano de saúde?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "02/10",
       "missing": [],
@@ -2110,9 +2300,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "3 contas que ninguém coloca no orçamento — até elas aparecerem.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
-      "date": "01/10",
+      "date": "03/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2578,6 +2768,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
+      "title": "TBT do simposio ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "01/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/TBT-do-simposio-3ed33d8db9d2804baddae763073ee26c"
+    },
+    {
       "title": "Vídeo",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -2684,7 +2885,7 @@ const LINHA_VIDEO_ITEMS = {
   "Ortobom": [
     {
       "title": "Trocar seu colchão",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "02/10",
       "missing": [],
@@ -2931,7 +3132,46 @@ const LINHA_STORIES_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
-      "title": "Story/stories",
+      "title": "Sintomas de AVC",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sintomas-de-AVC-3ed33d8db9d28030b893fd4f120f87d3"
+    },
+    {
+      "title": "Redes de hospitais",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "22/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Redes-de-hospitais-3ed33d8db9d280f09d01d5829a8282a6"
+    },
+    {
+      "title": "Plano de saúde",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "15/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Plano-de-sa-de-3ed33d8db9d280d29303e01391c16831"
+    },
+    {
+      "title": "Outubro rosa ",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "08/10",
@@ -2939,9 +3179,9 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ec33d8db9d280568e2ac17472c3206d"
+      "notionUrl": "https://app.notion.com/p/Outubro-rosa-3ec33d8db9d280568e2ac17472c3206d"
     },
     {
       "title": "Story repost ",
@@ -2972,7 +3212,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Conflito no trabalho",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "01/10",
       "missing": [],
@@ -2982,7 +3222,71 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Conflito-no-trabalho-3eb33d8db9d280cabb03faa96d09aadb"
     }
   ],
-  "Rede Pangeia": [],
+  "Rede Pangeia": [
+    {
+      "title": "#DicaDaSemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "29/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/DicaDaSemana-3ed33d8db9d280da8c05d7b7dc88d19a"
+    },
+    {
+      "title": "#DicaDaSemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "22/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/DicaDaSemana-3ed33d8db9d28057847cecf1f352ff99"
+    },
+    {
+      "title": "#DicaDaSemana",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "15/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/DicaDaSemana-3ed33d8db9d2809db358cbab38fa24eb"
+    },
+    {
+      "title": "#DicaDaSemana",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/DicaDaSemana-3ed33d8db9d2808aa66fda6002f3a428"
+    },
+    {
+      "title": "#dicadasemana",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "02/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/dicadasemana-3d533d8db9d280e68407db49b6b92ce0"
+    }
+  ],
   "Planos Seguros": [],
   "Plannea": [],
   "Ortobom": [
@@ -3026,13 +3330,92 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Jeniffer-palmares-mall-2e333d8db9d280c5addfff3db25a5eba"
     }
   ],
-  "ItalaP": [],
+  "ItalaP": [
+    {
+      "title": "Story/stories #outubrorosa",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "30/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-outubrorosa-3ed33d8db9d280e78adce8b01139559a"
+    },
+    {
+      "title": "Story/stories #outubrorosa",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "22/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-outubrorosa-3ed33d8db9d28013affdf4f4f0b04fb8"
+    },
+    {
+      "title": "Story/stories #outubrorosa",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "15/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-outubrorosa-3ed33d8db9d28054a94bf0f04cd1c3ed"
+    },
+    {
+      "title": "Story/stories #outubrorosa",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-outubrorosa-3ed33d8db9d280e1a2bbd6131288740b"
+    },
+    {
+      "title": "#outubrorosa",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "01/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/outubrorosa-3ed33d8db9d2800385b2dbfdf3e9f75a"
+    }
+  ],
   "Grupo Mulheres do Brasil": [],
   "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "APROSSEG": [],
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
+    {
+      "title": "Story/stories",
+      "status": "agendado_coord",
+      "formato": "📱 Story",
+      "date": "02/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3ed33d8db9d2807e8ea6f3864e36da19"
+    },
     {
       "title": "Story/stories",
       "status": "a_agendar",
@@ -3090,25 +3473,65 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Plannea": [
+  "ItalaP": [
     {
-      "title": "Solicito arte de boas vindas da Flavia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis",
+      "title": "Adesivo redondo, para colocar na embalagem de pipoca.",
       "priority": "pp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Flavia-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corr-3eb33d8db9d280bd8d42ea44ce23301b",
+      "notionUrl": "https://app.notion.com/p/Adesivo-redondo-para-colocar-na-embalagem-de-pipoca-3ed33d8db9d280f4b66ce37a8e96196a",
       "gestora": "Equipe",
-      "date": "02/10"
+      "date": "06/10"
     },
     {
-      "title": "Identidade visual da festa FIM DE ANO                                                 convite, o Save Date, Menu, Point self, preciso da arte para a criação da decoração com o tema Tropical.",
+      "title": "Adicionar/atualizar as localizações no Google",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Identidade-visual-da-festa-FIM-DE-ANO-convite-o-Sav-3dd33d8db9d280ccbf02e857b0f60b86",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
       "gestora": "Equipe",
-      "date": "09/10"
+      "date": "18/09"
+    },
+    {
+      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "9ª Ação | Banner de inscrições abertas com código QR",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/9-A-o-Banner-de-inscri-es-abertas-com-c-digo-QR-3ed33d8db9d2807d989fdeed995da848",
+      "gestora": "Equipe",
+      "date": "02/10"
+    },
     {
       "title": "Sinergia Florescer 2026 | Save the Date e convite para pesquisa",
       "priority": "ppp",
@@ -3158,22 +3581,32 @@ const DEMANDAS_EXTRAS = {
       "date": "17/06"
     }
   ],
-  "Juntos contra o HPV": [
+  "Conecta Assessoria": [
     {
-      "title": "Ajuste no kit de multiplicadores",
+      "title": "Assinatura de e-mail ",
       "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Ajuste-no-kit-de-multiplicadores-3ea33d8db9d2803dbf21e0af6caa99e0",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-3ed33d8db9d280c48f3beef661a89d7f",
       "gestora": "Equipe",
-      "date": "29/09"
+      "date": "02/10"
+    }
+  ],
+  "Plannea": [
+    {
+      "title": "Solicito arte de boas vindas da Flavia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Flavia-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corr-3eb33d8db9d280bd8d42ea44ce23301b",
+      "gestora": "Equipe",
+      "date": "02/10"
     },
     {
-      "title": "Narrações para vídeos com IA",
+      "title": "Identidade visual da festa FIM DE ANO                                                 convite, o Save Date, Menu, Point self, preciso da arte para a criação da decoração com o tema Tropical.",
       "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Narra-es-para-v-deos-com-IA-3e233d8db9d280eaa761dd8b03015c08",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Identidade-visual-da-festa-FIM-DE-ANO-convite-o-Sav-3dd33d8db9d280ccbf02e857b0f60b86",
       "gestora": "Equipe",
-      "date": "21/09"
+      "date": "09/10"
     }
   ],
   "Ventana": [
@@ -3202,40 +3635,14 @@ const DEMANDAS_EXTRAS = {
       "date": "08/05"
     }
   ],
-  "Finseg Leal": [
+  "Juntos contra o HPV": [
     {
-      "title": "Atualizar contato na assinatura de e-mail do David",
+      "title": "Narrações para vídeos com IA",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Atualizar-contato-na-assinatura-de-e-mail-do-David-3e933d8db9d280c688ffc54c5978bc0d",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Narra-es-para-v-deos-com-IA-3e233d8db9d280eaa761dd8b03015c08",
       "gestora": "Equipe",
-      "date": "29/09"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
-  ],
-  "Univendas": [
-    {
-      "title": "Video da campanha interna ",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Video-da-campanha-interna-3e233d8db9d2800fb038c7a4a9947e51",
-      "gestora": "Equipe",
-      "date": "23/09"
-    },
-    {
-      "title": "Demanda extra",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Demanda-extra-3dc33d8db9d28016acebed8a145a623f",
-      "gestora": "Equipe",
-      "date": "18/09"
+      "date": "21/09"
     }
   ],
   "Di Gregório Buffet": [
@@ -3256,48 +3663,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Bloco-de-texto-para-v-deo-sobre-legado-3d733d8db9d280ce8ca6c83bde921411",
       "gestora": "Equipe",
       "date": "10/09"
-    }
-  ],
-  "ItalaP": [
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
-      "gestora": "Equipe",
-      "date": "14/09"
-    },
-    {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
-      "gestora": "Equipe",
-      "date": "09/09"
-    },
-    {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
-      "gestora": "Equipe",
-      "date": "09/09"
     }
   ],
   "AAFEC": [
@@ -3363,6 +3728,16 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "26/08"
     }
+  ],
+  "Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
   ]
 };
 
@@ -3396,35 +3771,35 @@ const LEGENDAS_DATA = {
     "total": 14
   },
   "Juntos contra o HPV": {
-    "prontas": 16,
-    "total": 19
+    "prontas": 17,
+    "total": 20
   },
   "Ventana": {
     "prontas": 0,
     "total": 3
   },
   "Univendas": {
-    "prontas": 0,
-    "total": 3
+    "prontas": 12,
+    "total": 12
   },
   "Terrartesã": {
     "prontas": 0,
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 0,
+    "prontas": 1,
     "total": 9
   },
   "Rede Pangeia": {
-    "prontas": 3,
-    "total": 3
+    "prontas": 13,
+    "total": 13
   },
   "Planos Seguros": {
     "prontas": 4,
     "total": 5
   },
   "Plannea": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 10
   },
   "Ortobom": {
@@ -3432,8 +3807,8 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "ItalaP": {
-    "prontas": 1,
-    "total": 19
+    "prontas": 6,
+    "total": 16
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 7,
@@ -3505,7 +3880,7 @@ const FORMAT_COUNTS = {
     "post": 12,
     "carrossel": 3,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 0
   },
   "Ventana": {
@@ -3516,11 +3891,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 3,
+    "post": 12,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 5
   },
   "Terrartesã": {
     "post": 0,
@@ -3537,11 +3912,11 @@ const FORMAT_COUNTS = {
     "story": 2
   },
   "Rede Pangeia": {
-    "post": 2,
-    "carrossel": 1,
+    "post": 10,
+    "carrossel": 3,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 5
   },
   "Planos Seguros": {
     "post": 5,
@@ -3565,11 +3940,11 @@ const FORMAT_COUNTS = {
     "story": 3
   },
   "ItalaP": {
-    "post": 17,
-    "carrossel": 1,
+    "post": 15,
+    "carrossel": 0,
     "foto": 0,
     "video": 1,
-    "story": 0
+    "story": 5
   },
   "Grupo Mulheres do Brasil": {
     "post": 15,
@@ -3611,7 +3986,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 4,
-    "story": 4
+    "story": 5
   },
   "Solar Coworking": {
     "post": 0,
