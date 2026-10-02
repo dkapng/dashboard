@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 01/10/2026, 21:23:04 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 02:57:05 **/
 
-const LAST_UPDATE = '01/10/2026, 21:23:04';
+const LAST_UPDATE = '02/10/2026, 02:57:05';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,7 +79,7 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 2,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 15,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 3,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 18,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -643,10 +643,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "02/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-custa-para-trabalhar-3bf33d8db9d280edb6f7e430b4f6f29f"
@@ -1054,10 +1052,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "02/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/10-Munic-pios-Uma-rede-de-preven-o-3e533d8db9d280f7bcf0e7e8a8273b82"
@@ -1278,10 +1274,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "02/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quanto-mais-diversificada-a-receita-da-sua-organiza-o-maior-tende-a-ser-sua-capacidade-de-atrave-3d533d8db9d28083aa20ceb63f07a133"
@@ -1584,10 +1578,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "02/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-a-unidade-da-ItalaP-mais-perto-de-voc-3eb33d8db9d280669b77c98ba41d0a8b"
