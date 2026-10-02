@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 02:57:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 08:51:29 **/
 
-const LAST_UPDATE = '02/10/2026, 02:57:05';
+const LAST_UPDATE = '02/10/2026, 08:51:29';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -267,10 +267,10 @@ const VIDEO_DATA = {
   "Tramix": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Stratto": {
     "total": 2,
@@ -1353,7 +1353,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O prazo do Simples mudou na última semana. ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "01/10",
+      "date": "02/10",
       "missing": [
         "Design"
       ],
@@ -1394,7 +1394,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Benefício fiscal não é dinheiro garantido",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "02/10",
+      "date": "06/10",
       "missing": [
         "Legenda"
       ],
@@ -2536,12 +2536,10 @@ const LINHA_VIDEO_ITEMS = {
   "Tramix": [
     {
       "title": "Legado ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "02/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. Finalizado",
@@ -3390,7 +3388,7 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "Tramix": {
-    "prontas": 0,
+    "prontas": 1,
     "total": 6
   },
   "Stratto": {
