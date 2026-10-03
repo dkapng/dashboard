@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 18:23:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 02/10/2026, 21:35:26 **/
 
-const LAST_UPDATE = '02/10/2026, 18:23:15';
+const LAST_UPDATE = '02/10/2026, 21:35:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3948,6 +3948,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Tramix": "marcada",
   "Ortobom": "marcada",
   "Conecta Assessoria": "marcada",
   "APROSSEG": "marcada"
@@ -4221,7 +4222,7 @@ const AGENDA_COUNTS = {
   },
   "Tramix": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Stratto": {
