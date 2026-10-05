@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/10/2026, 20:22:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/10/2026, 23:12:20 **/
 
-const LAST_UPDATE = '04/10/2026, 20:22:52';
+const LAST_UPDATE = '04/10/2026, 23:12:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 12,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 6,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
-    "pronto": 2,
+    "pronto": 4,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 4,
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 2,
     "agendado_coord": 0,
@@ -215,7 +215,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -713,10 +713,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-produz-precisa-olhar-para-o-que-est-mudando-antes-de-todo-mundo-3e933d8db9d280119ebde7853a1aaf59"
@@ -855,10 +854,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-o-seu-financeiro-s-consegue-explicar-o-m-s-depois-que-ele-terminou-como-ele-est-ajudando-voc--39133d8db9d2804abba2c1f257330096"
@@ -1042,7 +1039,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Preven-o-tamb-m-se-constr-i-na-escola-Informa-o-e-educa-o-em-sa-de-fazem-parte-da-preven-o-3e533d8db9d2806dae04fd36beecd29c"
@@ -1616,18 +1613,17 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Um-crescimento-de-10-pode-parecer-excelente-Mas-a-leitura-muda-completamente-dependendo-do-que-aco-3e933d8db9d2803ea454c1543195ee6a"
     },
     {
-      "title": "Sua empresa presta serviços e é do Simples Então vale olhar para a NFS-e antes de novembro",
+      "title": "Se sua empresa presta serviços e é do Simples Então vale olhar para a NFS-e antes de novembro",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Sua-empresa-presta-servi-os-e-do-Simples-Ent-o-vale-olhar-para-a-NFS-e-antes-de-novembro-3e933d8db9d2807c8492dc8e6c52ff40"
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-sua-empresa-presta-servi-os-e-do-Simples-Ent-o-vale-olhar-para-a-NFS-e-antes-de-novembro-3e933d8db9d2807c8492dc8e6c52ff40"
     },
     {
       "title": "Benefício fiscal não é dinheiro garantido",
@@ -1987,10 +1983,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "06/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (interno)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Falta-menos-de-um-m-s-Fortaleza-vai-se-unir-pelo-fim-da-viol-ncia-contra-as-mulheres-21-11-9-Co-3e633d8db9d280458b7ae6ee983a807d"
@@ -2119,10 +2113,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-crise-clim-tica-tamb-m-uma-quest-o-de-g-nero-3ce33d8db9d2802682ecda63a96c0e8f"
@@ -2264,10 +2256,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-cuidou-da-sua-sa-de-antes-de-precisar-Outubro-Rosa-n-o-s-sobre--3eb33d8db9d2804791b3fa8ef5bdddc6"
@@ -2460,10 +2450,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-pequena-empresa-cresceu-Mas-a-estrutura-jur-dica-cresceu-junto-com-ela-Dia-da-micro-e-pequen-3e933d8db9d28048af0ec5b7707b1a78"
@@ -3609,7 +3597,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d280339bb6f5ecd1e2cc7a"
     },
     {
-      "title": "Story/stories",
+      "title": "Tem coisas que a gente só percebe o quanto são importantes quando imagina ficar sem elas.",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "06/10",
@@ -3619,7 +3607,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d28070aad1f0e51b534e8f"
+      "notionUrl": "https://app.notion.com/p/Tem-coisas-que-a-gente-s-percebe-o-quanto-s-o-importantes-quando-imagina-ficar-sem-elas-3e433d8db9d28070aad1f0e51b534e8f"
     }
   ],
   "Solar Coworking": [
