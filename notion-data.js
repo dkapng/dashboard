@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/10/2026, 06:21:22 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/10/2026, 15:40:53 **/
 
-const LAST_UPDATE = '05/10/2026, 06:21:22';
+const LAST_UPDATE = '05/10/2026, 15:40:53';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -70,44 +70,44 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "AAFEC": {
-    "total": 15,
-    "pronto": 2,
+    "total": 16,
+    "pronto": 6,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 14
   },
   "Ser Ponte": {
-    "total": 2,
+    "total": 4,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 3
   },
   "Tramix": {
     "total": 5,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Stratto": {
     "total": 12,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Juntos contra o HPV": {
     "total": 15,
     "pronto": 3,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 13
   },
   "Ventana": {
     "total": 0,
@@ -134,20 +134,20 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 9,
-    "pronto": 1,
-    "postado": 1,
+    "total": 8,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 6
   },
   "Rede Pangeia": {
     "total": 13,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Planos Seguros": {
     "total": 5,
@@ -176,26 +176,26 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 15,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Grupo Mulheres do Brasil": {
     "total": 14,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Finseg Leal": {
     "total": 14,
     "pronto": 3,
-    "postado": 0,
+    "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -216,18 +216,18 @@ const FEED_DATA = {
   "Daniel Maia Advocacia": {
     "total": 9,
     "pronto": 2,
-    "postado": 0,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 1,
-    "postado": 0,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Solar Coworking": {
     "total": 12,
@@ -525,11 +525,11 @@ const STORIES_DATA = {
   },
   "Ortobom": {
     "total": 3,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 5,
@@ -600,6 +600,19 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [
+    {
+      "title": "Comparecimento às urnas vale como Prova de Vida automática no INSS",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Comparecimento-s-urnas-vale-como-Prova-de-Vida-autom-tica-no-INSS-3f033d8db9d280a2bafbc1614f8bfd19"
+    },
     {
       "title": "Entre Fé e Memórias",
       "status": "a_agendar",
@@ -728,10 +741,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-voc-ainda-quer-fazer-Sempre-existe-espa-o-para-um-novo-plano-3f033d8db9d2808cbd9ef0d1a0229e3f"
@@ -742,10 +753,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Envelhecer-n-o-significa-parar-continuar-se-movimentando-aprendendo-convivendo-e-fazendo-planos-3f033d8db9d2801fa9f8df784f57f850"
@@ -765,14 +775,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Encontro-mensal-3f033d8db9d2807eb450ccfd170f75fe"
     },
     {
-      "title": "Amanhã tem Boteco na AAFEC! 📅 9 de outubro ⏱️ 9h30 📍 AAFEC Fortaleza ",
+      "title": "Amanhã tem Boteco na AAFEC! 📅 9 de outubro ⏱️ 9h30 📍 AAFEC Fortaleza",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Amanh-tem-Boteco-na-AAFEC-9-de-outubro-9h30-AAFEC-Fortaleza-3f033d8db9d280878f41cab9aa925fb6"
@@ -802,10 +810,24 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ser Ponte": [
     {
-      "title": "Conteúdo Larissa pessoa acessível",
+      "title": "Ter uma renda não significa estar fora da pobreza",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "05/10",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/Ter-uma-renda-n-o-significa-estar-fora-da-pobreza-3f033d8db9d2802fbbe1fe40c8894b11"
+    },
+    {
+      "title": "Cuidar é trabalho. Mesmo quando não existe salário.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
       "missing": [
         "Design",
         "Legenda"
@@ -813,7 +835,21 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Conte-do-Larissa-pessoa-acess-vel-3c233d8db9d28027a41bf7e87ac47871"
+      "notionUrl": "https://app.notion.com/p/Cuidar-trabalho-Mesmo-quando-n-o-existe-sal-rio-3f033d8db9d2807b998be7869309c192"
+    },
+    {
+      "title": "Creche também é política de renda",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "06/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Creche-tamb-m-pol-tica-de-renda-3f033d8db9d280eba6b0dcbc28da9883"
     },
     {
       "title": "Quanto custa para trabalhar?",
@@ -886,12 +922,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem produz precisa olhar para o que está mudando antes de todo mundo.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1028,7 +1062,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se o seu financeiro só consegue explicar o mês depois que ele terminou, como ele está ajudando você a decidir o próximo?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [],
@@ -1186,7 +1220,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem fala sobre prevenção também ajuda a fazê-la chegar mais longe. Profissionais - Educadores - Famílias - Comunidades",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/10",
+      "date": "13/10",
       "missing": [
         "Design"
       ],
@@ -1210,7 +1244,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Prevenção também se constrói na escola. Informação e educação em saúde fazem parte da prevenção!",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [],
@@ -1474,18 +1508,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Servidor-P-blico-3eb33d8db9d280c78203feb70a267e50"
     },
     {
-      "title": "Constituição Federal",
-      "status": "a_agendar",
+      "title": "5 de outubro | Dia da Constituição Federal  Direitos e garantias começam pela Constituição.",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Constitui-o-Federal-3eb33d8db9d280ac9c23e46e22eab0a2"
+      "notionUrl": "https://app.notion.com/p/5-de-outubro-Dia-da-Constitui-o-Federal-Direitos-e-garantias-come-am-pela-Constitui-o-3eb33d8db9d280ac9c23e46e22eab0a2"
     },
     {
       "title": "Dia Internacional da Não-Violência Relações profissionais também precisam de respeito.",
@@ -1497,20 +1528,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-Internacional-da-N-o-Viol-ncia-Rela-es-profissionais-tamb-m-precisam-de-respeito-3eb33d8db9d280eb95aaef4592a7ef27"
-    },
-    {
-      "title": "Dia Mundial da Saúde Mental",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "10/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-Mundial-da-Sa-de-Mental-3eb33d8db9d280629788eac171fdbdca"
     },
     {
       "title": "Dia do professor ",
@@ -1673,7 +1690,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "3 perguntas antes de aceitar qualquer parceria",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎠 Carrossel",
       "date": "05/10",
       "missing": [],
@@ -1725,7 +1742,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Deixar pra depois pode ser a pior decisão\n",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "08/10",
+      "date": "05/10",
       "missing": [
         "Design"
       ],
@@ -1961,14 +1978,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você sabe o que um exame consegue contar sobre a sua saúde?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-sabe-o-que-um-exame-consegue-contar-sobre-a-sua-sa-de-3eb33d8db9d2800e8276f046e0edad92"
     },
@@ -2232,7 +2247,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A crise climática também é uma questão de gênero",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [],
@@ -2375,7 +2390,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando foi a última vez que você cuidou da sua saúde antes de precisar? Outubro Rosa não é só sobre lembrar. É sobre agir.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [],
@@ -2569,7 +2584,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Sua pequena empresa cresceu. Mas a estrutura jurídica cresceu junto com ela? - Dia da micro e pequena empresa",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
       "missing": [],
@@ -2801,13 +2816,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A sua casa é o lugar onde tudo acontece. Mas quando alguma coisa dá errado, você sabe com o que pode contar?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-sua-casa-o-lugar-onde-tudo-acontece-Mas-quando-alguma-coisa-d-errado-voc-sabe-com-o-que-pode-3e433d8db9d280a0b897e8f55f1c61c2"
@@ -3570,14 +3583,12 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário Danielly (north shopping)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "05/10",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Danielly-north-shopping-2e333d8db9d280ad86a9f389dcac06d5"
     },
@@ -3789,6 +3800,32 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Solicito arte da vaga de recepcionista, com senso urgência. (vaga cadastrada)",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-da-vaga-de-recepcionista-com-senso-urg-ncia-vaga-cadastrada-3f033d8db9d280e4b994ed3e395de376",
+      "gestora": "Equipe",
+      "date": "05/10"
+    },
+    {
+      "title": "Solicito arte de boas vindas da Flavia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Flavia-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corr-3eb33d8db9d280bd8d42ea44ce23301b",
+      "gestora": "Equipe",
+      "date": "05/10"
+    },
+    {
+      "title": "Identidade visual da festa FIM DE ANO                                                 convite, o Save Date, Menu, Point self, preciso da arte para a criação da decoração com o tema Tropical.",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Identidade-visual-da-festa-FIM-DE-ANO-convite-o-Sav-3dd33d8db9d280ccbf02e857b0f60b86",
+      "gestora": "Equipe",
+      "date": "09/10"
+    }
+  ],
   "ItalaP": [
     {
       "title": "Adesivo redondo, para colocar na embalagem de pipoca.",
@@ -3905,24 +3942,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-3ed33d8db9d280c48f3beef661a89d7f",
       "gestora": "Equipe",
       "date": "02/10"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Solicito arte de boas vindas da Flavia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Flavia-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corr-3eb33d8db9d280bd8d42ea44ce23301b",
-      "gestora": "Equipe",
-      "date": "02/10"
-    },
-    {
-      "title": "Identidade visual da festa FIM DE ANO                                                 convite, o Save Date, Menu, Point self, preciso da arte para a criação da decoração com o tema Tropical.",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Identidade-visual-da-festa-FIM-DE-ANO-convite-o-Sav-3dd33d8db9d280ccbf02e857b0f60b86",
-      "gestora": "Equipe",
-      "date": "09/10"
     }
   ],
   "Ventana": [
@@ -4050,6 +4069,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Finseg Leal": "marcada",
   "Tramix": "marcada",
   "Ortobom": "marcada",
   "Conecta Assessoria": "marcada",
@@ -4065,14 +4085,14 @@ const LEGENDAS_DATA = {
   },
   "AAFEC": {
     "prontas": 7,
-    "total": 15
+    "total": 16
   },
   "Ser Ponte": {
     "prontas": 1,
-    "total": 2
+    "total": 4
   },
   "Tramix": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 6
   },
   "Stratto": {
@@ -4096,8 +4116,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 1,
-    "total": 9
+    "prontas": 2,
+    "total": 8
   },
   "Rede Pangeia": {
     "prontas": 13,
@@ -4116,7 +4136,7 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "ItalaP": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
@@ -4158,14 +4178,14 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "AAFEC": {
-    "post": 14,
+    "post": 15,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
     "story": 0
   },
   "Ser Ponte": {
-    "post": 2,
+    "post": 4,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4214,7 +4234,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 9,
+    "post": 8,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4315,7 +4335,7 @@ const AGENDA_COUNTS = {
   "AAFEC": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
+    "evento": 3
   },
   "Ser Ponte": {
     "reuniao": 0,
@@ -4389,7 +4409,7 @@ const AGENDA_COUNTS = {
   },
   "Finseg Leal": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Di Gregório Buffet": {
