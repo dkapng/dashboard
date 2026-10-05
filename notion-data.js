@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/10/2026, 23:12:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/10/2026, 06:21:22 **/
 
-const LAST_UPDATE = '04/10/2026, 23:12:20';
+const LAST_UPDATE = '05/10/2026, 06:21:22';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -70,12 +70,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "AAFEC": {
-    "total": 2,
+    "total": 15,
     "pronto": 2,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 13
   },
   "Ser Ponte": {
     "total": 2,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 15,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 0,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 13
   },
   "Grupo Mulheres do Brasil": {
-    "total": 18,
-    "pronto": 4,
+    "total": 14,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
-    "agendado_coord": 4,
-    "a_agendar": 13
+    "agendado_coord": 2,
+    "a_agendar": 11
   },
   "Finseg Leal": {
     "total": 14,
@@ -600,6 +600,183 @@ const STORIES_DATA = {
 const LINHA_FEED_ITEMS = {
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [
+    {
+      "title": "Entre Fé e Memórias",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "29/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Entre-F-e-Mem-rias-3f033d8db9d280c98314c4c163c83d80"
+    },
+    {
+      "title": "Entre Cantos e Contos Fortaleza",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Fortaleza-3f033d8db9d280438a56cc69354c81ff"
+    },
+    {
+      "title": "Entre Cantos e Contos Cariri",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "20/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Entre-Cantos-e-Contos-Cariri-3f033d8db9d280e88938c4489b6505f5"
+    },
+    {
+      "title": "Rosa AAFEC",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Rosa-AAFEC-3f033d8db9d280dfb4a1e914edf135ae"
+    },
+    {
+      "title": "O corpo muda. O cuidado também pode mudar.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-corpo-muda-O-cuidado-tamb-m-pode-mudar-3f033d8db9d2806084fcc791e2ad486a"
+    },
+    {
+      "title": "Envelhecer também é escolher o que merece o seu tempo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Envelhecer-tamb-m-escolher-o-que-merece-o-seu-tempo-3f033d8db9d28025a3c3c54a093c4b80"
+    },
+    {
+      "title": "Depois de tantos anos cuidando dos outros, quem cuida de você?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Depois-de-tantos-anos-cuidando-dos-outros-quem-cuida-de-voc-3f033d8db9d28030ae10ce2984d393d8"
+    },
+    {
+      "title": "Ter amigos também é uma forma de cuidar de si.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Ter-amigos-tamb-m-uma-forma-de-cuidar-de-si-3f033d8db9d280d5b041d64ad419b19d"
+    },
+    {
+      "title": "Quando foi a última coisa que você fez pela primeira vez?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-coisa-que-voc-fez-pela-primeira-vez-3f033d8db9d28016bb17e1e51c7e5e10"
+    },
+    {
+      "title": "O que você ainda quer fazer? Sempre existe espaço para um novo plano.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-voc-ainda-quer-fazer-Sempre-existe-espa-o-para-um-novo-plano-3f033d8db9d2808cbd9ef0d1a0229e3f"
+    },
+    {
+      "title": "Envelhecer não significa parar. É continuar se movimentando, aprendendo, convivendo e fazendo planos.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Envelhecer-n-o-significa-parar-continuar-se-movimentando-aprendendo-convivendo-e-fazendo-planos-3f033d8db9d2801fa9f8df784f57f850"
+    },
+    {
+      "title": "Encontro mensal",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Encontro-mensal-3f033d8db9d2807eb450ccfd170f75fe"
+    },
+    {
+      "title": "Amanhã tem Boteco na AAFEC! 📅 9 de outubro ⏱️ 9h30 📍 AAFEC Fortaleza ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Amanh-tem-Boteco-na-AAFEC-9-de-outubro-9h30-AAFEC-Fortaleza-3f033d8db9d280878f41cab9aa925fb6"
+    },
     {
       "title": "1º de outubro | Dia do Idoso. Envelhecer também é continuar fazendo história",
       "status": "postado",
@@ -1036,10 +1213,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Preven-o-tamb-m-se-constr-i-na-escola-Informa-o-e-educa-o-em-sa-de-fazem-parte-da-preven-o-3e533d8db9d2806dae04fd36beecd29c"
@@ -1882,6 +2057,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Toda criança tem direito a uma infância segura. 💛 Neste Dia das Crianças, lembrar de brincar também é lembrar de proteger.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Toda-crian-a-tem-direito-a-uma-inf-ncia-segura-Neste-Dia-das-Crian-as-lembrar-de-brincar-tamb-m-3f033d8db9d280128ef3f179c9bf1cfd"
+    },
+    {
       "title": "Quem te inspira a dar o próximo passo? Nós corremos por todas.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1937,20 +2126,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Em-2026-o-Grupo-Mulheres-do-Brasil-e-as-Mulheres-de-G-s-correm-juntos-pelo-fim-da-viol-ncia-contra--3e633d8db9d2809c8f2cdca65ffee39a"
     },
     {
-      "title": "1 em cada 3 mulheres já sofreu violência. Cada passo na corrida é um pedido de basta!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "22/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/1-em-cada-3-mulheres-j-sofreu-viol-ncia-Cada-passo-na-corrida-um-pedido-de-basta-3e633d8db9d280108f01d37293b0c9bc"
-    },
-    {
       "title": "O tempo está correndo! As inscrições para os percursos de 3km, 5km e 10km estão voando no Sympla.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2001,19 +2176,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-nossa-corrida-ganhou-um-g-s-a-mais-Caminhada-3km-Corrida-5km-e-10km-Garanta-o-seu-kit-oficial-3e633d8db9d2807594d7ca92dea6f338"
     },
     {
-      "title": "Cuidar do mundo ao seu redor é lindo. Mas o cuidado mais importante do mês começa olhando para você mesma. Faça seus exames preventivos.",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "15/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (interno)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cuidar-do-mundo-ao-seu-redor-lindo-Mas-o-cuidado-mais-importante-do-m-s-come-a-olhando-para-voc--3e633d8db9d2803aaaf7fdc5c8bfc685"
-    },
-    {
       "title": "Como ser uma voluntária do Mulheres do Brasil em Fortaleza?",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
@@ -2025,19 +2187,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 2. Aprovação (interno)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Como-ser-uma-volunt-ria-do-Mulheres-do-Brasil-em-Fortaleza-3e633d8db9d280338ee3cb71b2dc1a2b"
-    },
-    {
-      "title": "Faltam poucos dias para o aniversário do nosso movimento. Se você pudesse definir o Grupo Mulheres do Brasil em uma única palavra, qual seria?",
-      "status": "agendado_coord",
-      "formato": "🖼️ Post",
-      "date": "02/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (interno)",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Faltam-poucos-dias-para-o-anivers-rio-do-nosso-movimento-Se-voc-pudesse-definir-o-Grupo-Mulheres-d-3e633d8db9d2804999eee6a289f84116"
     },
     {
       "title": "Você conhece o Grupo Mulheres do Brasil? Somos um movimento político, mas totalmente SUPRAPARTIDÁRIO. Nosso partido é o Brasil e a nossa causa é a voz da mulher.",
@@ -2080,33 +2229,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Parab-ns-Grupo-Mulheres-do-Brasil-3db33d8db9d280849a18de81769b9e0c"
-    },
-    {
-      "title": "Falar de mulheres sem falar de raça também pode esconder desigualdades",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "13/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Falar-de-mulheres-sem-falar-de-ra-a-tamb-m-pode-esconder-desigualdades-3ce33d8db9d2809a974cdad9872a5110"
-    },
-    {
-      "title": "Em 2026, mais de 1 milhão de atendimentos chegaram ao Ligue 180 em apenas sete meses.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "12/10",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Em-2026-mais-de-1-milh-o-de-atendimentos-chegaram-ao-Ligue-180-em-apenas-sete-meses-3ce33d8db9d2803ba243d6e49756233a"
     },
     {
       "title": "A crise climática também é uma questão de gênero",
@@ -3819,14 +3941,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Briefing-e-e-mail-de-boas-vindas-3a533d8db9d280b1bedbca459c754824",
       "gestora": "Equipe",
       "date": "27/07"
-    },
-    {
-      "title": "Melhorias no Notion (2025-04)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Melhorias-no-Notion-2025-04-34333d8db9d280c6a275d7d2e829528e",
-      "gestora": "Equipe",
-      "date": "08/05"
     }
   ],
   "Juntos contra o HPV": [
@@ -3950,8 +4064,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "AAFEC": {
-    "prontas": 2,
-    "total": 2
+    "prontas": 7,
+    "total": 15
   },
   "Ser Ponte": {
     "prontas": 1,
@@ -4006,8 +4120,8 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 7,
-    "total": 20
+    "prontas": 5,
+    "total": 16
   },
   "Finseg Leal": {
     "prontas": 14,
@@ -4044,7 +4158,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "AAFEC": {
-    "post": 1,
+    "post": 14,
     "carrossel": 1,
     "foto": 0,
     "video": 0,
@@ -4142,7 +4256,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Grupo Mulheres do Brasil": {
-    "post": 15,
+    "post": 11,
     "carrossel": 3,
     "foto": 0,
     "video": 1,
