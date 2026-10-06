@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/10/2026, 15:40:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/10/2026, 21:31:23 **/
 
-const LAST_UPDATE = '05/10/2026, 15:40:53';
+const LAST_UPDATE = '05/10/2026, 21:31:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3810,10 +3810,10 @@ const DEMANDAS_EXTRAS = {
       "date": "05/10"
     },
     {
-      "title": "Solicito arte de boas vindas da Flavia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis",
+      "title": "Solicito arte de boas vindas da Flávia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis",
       "priority": "ppp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Flavia-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corr-3eb33d8db9d280bd8d42ea44ce23301b",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Fl-via-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corr-3eb33d8db9d280bd8d42ea44ce23301b",
       "gestora": "Equipe",
       "date": "05/10"
     },
