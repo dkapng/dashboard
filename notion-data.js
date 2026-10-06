@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/10/2026, 16:38:02 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/10/2026, 20:29:23 **/
 
-const LAST_UPDATE = '06/10/2026, 16:38:02';
+const LAST_UPDATE = '06/10/2026, 20:29:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -62,12 +62,12 @@ const NICHES = {
 
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
-    "total": 0,
+    "total": 7,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 7
   },
   "AAFEC": {
     "total": 16,
@@ -166,12 +166,12 @@ const FEED_DATA = {
     "a_agendar": 3
   },
   "Ortobom": {
-    "total": 1,
+    "total": 4,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 15,
@@ -242,10 +242,10 @@ const FEED_DATA = {
 
 const VIDEO_DATA = {
   "Hélio Rôla 90 Anos": {
-    "total": 0,
-    "pronto": 0,
+    "total": 1,
+    "pronto": 1,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -346,12 +346,12 @@ const VIDEO_DATA = {
     "a_agendar": 3
   },
   "Ortobom": {
-    "total": 1,
-    "pronto": 1,
+    "total": 10,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 11
   },
   "ItalaP": {
     "total": 2,
@@ -525,12 +525,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 3,
+    "total": 6,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 5
   },
   "ItalaP": {
     "total": 5,
@@ -599,7 +599,106 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
-  "Hélio Rôla 90 Anos": [],
+  "Hélio Rôla 90 Anos": [
+    {
+      "title": "Isso é obra de arte? Hélio provavelmente gostaria da pergunta.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Isso-obra-de-arte-H-lio-provavelmente-gostaria-da-pergunta-3f133d8db9d280eeb2a4e6442576251a"
+    },
+    {
+      "title": "E se escolher um único estilo fosse justamente o contrário de ser artista?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/E-se-escolher-um-nico-estilo-fosse-justamente-o-contr-rio-de-ser-artista-3f133d8db9d2801e8069ff6b95dd17d8"
+    },
+    {
+      "title": "Um dia antes de completar 90 anos, venha caminhar pela história de Hélio Rôla — Visita mediada, 17/10 às 10h no MAUC",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "10/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Um-dia-antes-de-completar-90-anos-venha-caminhar-pela-hist-ria-de-H-lio-R-la-Visita-mediada-17-1-3f133d8db9d28039a7d1ec54c98cd42c"
+    },
+    {
+      "title": "Dr. das Artes, sabia que Hélio Rôla",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Dr-das-Artes-sabia-que-H-lio-R-la-entrou-em-Medicina-Que-bom-que-a-arte-encontrou-um-jeito-de-ent-3f133d8db9d280d7bac1db3c0af235a2"
+    },
+    {
+      "title": "Antes de existir o artista, existia um menino desenhando nas calçadas de Fortaleza.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Antes-de-existir-o-artista-existia-um-menino-desenhando-nas-cal-adas-de-Fortaleza-3f133d8db9d280969c7bc3827f57bfd0"
+    },
+    {
+      "title": "90 voltas ao sol. E nenhuma em linha reta, feliz aniversário Hélio Rôla",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "18/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/90-voltas-ao-sol-E-nenhuma-em-linha-reta-feliz-anivers-rio-H-lio-R-la-3f133d8db9d280bea2cbe90bc08a881a"
+    },
+    {
+      "title": "Na véspera dos 90 anos de Hélio Rôla, um convite para percorrer sua história.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Na-v-spera-dos-90-anos-de-H-lio-R-la-um-convite-para-percorrer-sua-hist-ria-Visita-mediada-17-1-3f133d8db9d280d3b213eaf9b7118a1d"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Comparecimento às urnas vale como Prova de Vida automática no INSS",
@@ -1862,17 +1961,60 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
-      "title": "FELIZ DIA DO VENDEDOR ",
+      "title": "Post",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "01/10",
+      "date": "29/10",
       "missing": [
-        "Design"
+        "Design",
+        "Legenda"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
+      "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/FELIZ-DIA-DO-VENDEDOR-Para-quem-entende-orienta-e-transforma-escolhas-em-experi-ncias-3d133d8db9d2808db0a3cfb1f4c75b0f"
+      "notionUrl": "https://app.notion.com/p/Post-3f133d8db9d2801ebdadde47b0ad42a6"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "22/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3f133d8db9d280a8bea4f4d0cbcd223f"
+    },
+    {
+      "title": "Post",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Post-3f133d8db9d280529429d8f18a6f1285"
+    },
+    {
+      "title": "Sem título",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3f133d8db9d2802d9ab8d6da6684d7ad"
     }
   ],
   "ItalaP": [
@@ -3001,7 +3143,19 @@ const LINHA_FEED_ITEMS = {
 };
 
 const LINHA_VIDEO_ITEMS = {
-  "Hélio Rôla 90 Anos": [],
+  "Hélio Rôla 90 Anos": [
+    {
+      "title": "[Video Cristina Ramalho]",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "06/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Video-Cristina-Ramalho-3f133d8db9d2804bacd4ca8bceb35d42"
+    }
+  ],
   "AAFEC": [],
   "Ser Ponte": [],
   "Tramix": [
@@ -3164,6 +3318,158 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Ortobom": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "30/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d2802b9e21f1d414cc8c60"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "28/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d28009a99bf1994a48ddf5"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "26/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d28030ad36e43c6b260357"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "23/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d280a7ad64db2b79b9ac99"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "21/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d2806faf80e4cba0843890"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "19/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d28049bf98d7612fc5575b"
+    },
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "16/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d280358d0bd06f08d9b670"
+    },
+    {
+      "title": "Benefícios",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "14/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Benef-cios-3f133d8db9d280e99f6ff61b6d801335"
+    },
+    {
+      "title": "Dia das crianças",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "12/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Dia-das-crian-as-3f133d8db9d2805bbbc1e40f5aedb5f4"
+    },
+    {
+      "title": "Colchão ideal ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Colch-o-ideal-3f133d8db9d2808dadccc053477ff8fd"
+    },
+    {
+      "title": "Outubro rosa ",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Outubro-rosa-3f133d8db9d280308c90f03c0ba06737"
+    },
     {
       "title": "Trocar seu colchão",
       "status": "postado",
@@ -3580,6 +3886,45 @@ const LINHA_STORIES_ITEMS = {
   "Plannea": [],
   "Ortobom": [
     {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "27/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3f133d8db9d28087924bf0bd4d7cae28"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "20/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3f133d8db9d28077a3e3e6a03fa93d56"
+    },
+    {
+      "title": "Story/stories",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "13/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-stories-3f133d8db9d280598db4d9c60f85a0fb"
+    },
+    {
       "title": "Cintia aniversario (Dell paseio)",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -3809,6 +4154,48 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Planos Seguros": [
+    {
+      "title": "Apresentação Saúde é Equilíbrio",
+      "priority": "pppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Apresenta-o-Sa-de-Equil-brio-3f133d8db9d280c1be06ed717e6cc2b3",
+      "gestora": "Equipe",
+      "date": "06/10"
+    },
+    {
+      "title": "Arte aniversariantes",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Arte-aniversariantes-3cd33d8db9d28060a29be976ebe4f006",
+      "gestora": "Equipe",
+      "date": "01/09"
+    },
+    {
+      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
+      "gestora": "Equipe",
+      "date": "22/05"
+    },
+    {
+      "title": "Boas vindas individual (E-mail)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
+      "gestora": "Equipe",
+      "date": "22/05"
+    },
+    {
+      "title": "Gestão de e-mails",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
+      "gestora": "Equipe",
+      "date": "29/05"
+    }
+  ],
   "Plannea": [
     {
       "title": "Fim de ano Plannea | Lona para selfies",
@@ -4053,40 +4440,6 @@ const DEMANDAS_EXTRAS = {
       "date": "04/09"
     }
   ],
-  "Planos Seguros": [
-    {
-      "title": "Arte aniversariantes",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Arte-aniversariantes-3cd33d8db9d28060a29be976ebe4f006",
-      "gestora": "Equipe",
-      "date": "01/09"
-    },
-    {
-      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
-      "gestora": "Equipe",
-      "date": "22/05"
-    },
-    {
-      "title": "Boas vindas individual (E-mail)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
-      "gestora": "Equipe",
-      "date": "22/05"
-    },
-    {
-      "title": "Gestão de e-mails",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
-      "gestora": "Equipe",
-      "date": "29/05"
-    }
-  ],
   "Rede Pangeia": [
     {
       "title": "Site",
@@ -4121,8 +4474,8 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
-    "prontas": 0,
-    "total": 0
+    "prontas": 1,
+    "total": 8
   },
   "AAFEC": {
     "prontas": 10,
@@ -4173,8 +4526,8 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Ortobom": {
-    "prontas": 2,
-    "total": 2
+    "prontas": 1,
+    "total": 16
   },
   "ItalaP": {
     "prontas": 8,
@@ -4212,10 +4565,10 @@ const LEGENDAS_DATA = {
 
 const FORMAT_COUNTS = {
   "Hélio Rôla 90 Anos": {
-    "post": 0,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
-    "video": 0,
+    "video": 1,
     "story": 0
   },
   "AAFEC": {
@@ -4303,11 +4656,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ortobom": {
-    "post": 1,
+    "post": 4,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
-    "story": 3
+    "video": 12,
+    "story": 6
   },
   "ItalaP": {
     "post": 15,
