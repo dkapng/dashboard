@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/10/2026, 21:31:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/10/2026, 11:18:59 **/
 
-const LAST_UPDATE = '05/10/2026, 21:31:23';
+const LAST_UPDATE = '06/10/2026, 11:18:59';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,11 +71,11 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 16,
-    "pronto": 6,
-    "postado": 2,
+    "pronto": 7,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 14
+    "a_agendar": 12
   },
   "Ser Ponte": {
     "total": 4,
@@ -150,20 +150,20 @@ const FEED_DATA = {
     "a_agendar": 11
   },
   "Planos Seguros": {
-    "total": 5,
+    "total": 6,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 6
   },
   "Plannea": {
     "total": 6,
     "pronto": 5,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 1,
@@ -602,12 +602,10 @@ const LINHA_FEED_ITEMS = {
   "AAFEC": [
     {
       "title": "Comparecimento às urnas vale como Prova de Vida automática no INSS",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "06/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -723,20 +721,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Ter-amigos-tamb-m-uma-forma-de-cuidar-de-si-3f033d8db9d280d5b041d64ad419b19d"
     },
     {
-      "title": "Quando foi a última coisa que você fez pela primeira vez?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "14/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-coisa-que-voc-fez-pela-primeira-vez-3f033d8db9d28016bb17e1e51c7e5e10"
-    },
-    {
       "title": "O que você ainda quer fazer? Sempre existe espaço para um novo plano.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -749,12 +733,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Envelhecer não significa parar. É continuar se movimentando, aprendendo, convivendo e fazendo planos.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -806,6 +788,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ea33d8db9d2804bb987e377f7c38542"
+    },
+    {
+      "title": "Atenção, associados: criminosos estão aplicando o golpe do corretor",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "14/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Aten-o-associados-criminosos-est-o-aplicando-o-golpe-do-corretor-39d33d8db9d280c3a9e4c7fe4f8180fe"
     }
   ],
   "Ser Ponte": [
@@ -1739,6 +1732,19 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seguro-garantia-por-que-ele-deixou-de-ser-um-produto-exclusivo-das-grandes-obras-3ae33d8db9d2808ab811ca7f77a42bc8"
     },
     {
+      "title": "Quando foi a última vez que você olhou para o seu prédio além do valor do imóvel?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "15/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 2. A editar",
+      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-olhou-para-o-seu-pr-dio-al-m-do-valor-do-im-vel-39633d8db9d280cbb479e06dab22988b"
+    },
+    {
       "title": "Deixar pra depois pode ser a pior decisão\n",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1806,12 +1812,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se sua empresa presta serviços e é do Simples Então vale olhar para a NFS-e antes de novembro",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "05/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1821,7 +1825,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Benefício fiscal não é dinheiro garantido",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "06/10",
+      "date": "21/10",
       "missing": [
         "Legenda"
       ],
@@ -2172,7 +2176,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Falta menos de um mês. Fortaleza vai se unir pelo fim da violência contra as mulheres. 21/11 | 9ª Corrida e Caminhada",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "06/10",
+      "date": "22/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 2. Aprovação (interno)",
@@ -4084,7 +4088,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "AAFEC": {
-    "prontas": 7,
+    "prontas": 10,
     "total": 16
   },
   "Ser Ponte": {
@@ -4124,11 +4128,11 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "Planos Seguros": {
-    "prontas": 4,
-    "total": 5
+    "prontas": 5,
+    "total": 6
   },
   "Plannea": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 10
   },
   "Ortobom": {
@@ -4178,8 +4182,8 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "AAFEC": {
-    "post": 15,
-    "carrossel": 1,
+    "post": 14,
+    "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4248,7 +4252,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Planos Seguros": {
-    "post": 5,
+    "post": 6,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
