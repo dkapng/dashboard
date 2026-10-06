@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/10/2026, 11:18:59 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/10/2026, 16:38:02 **/
 
-const LAST_UPDATE = '06/10/2026, 11:18:59';
+const LAST_UPDATE = '06/10/2026, 16:38:02';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -82,8 +82,8 @@ const FEED_DATA = {
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 3
+    "agendado_coord": 3,
+    "a_agendar": 0
   },
   "Tramix": {
     "total": 5,
@@ -207,11 +207,12 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 9,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8,
+    "st-paused": null
   },
   "Daniel Maia Advocacia": {
     "total": 9,
@@ -353,9 +354,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "ItalaP": {
-    "total": 1,
-    "pronto": 0,
-    "postado": 0,
+    "total": 2,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
@@ -386,11 +387,11 @@ const VIDEO_DATA = {
   },
   "APROSSEG": {
     "total": 6,
-    "pronto": 2,
-    "postado": 1,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -581,11 +582,11 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 5,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 1,
-    "a_agendar": 4
+    "agendado_coord": 0,
+    "a_agendar": 5
   },
   "Solar Coworking": {
     "total": 4,
@@ -804,42 +805,42 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Ter uma renda não significa estar fora da pobreza",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ter-uma-renda-n-o-significa-estar-fora-da-pobreza-3f033d8db9d2802fbbe1fe40c8894b11"
     },
     {
       "title": "Cuidar é trabalho. Mesmo quando não existe salário.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "08/10",
       "missing": [
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cuidar-trabalho-Mesmo-quando-n-o-existe-sal-rio-3f033d8db9d2807b998be7869309c192"
     },
     {
       "title": "Creche também é política de renda",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "06/10",
       "missing": [
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Creche-tamb-m-pol-tica-de-renda-3f033d8db9d280eba6b0dcbc28da9883"
@@ -2536,7 +2537,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Tem cuidados que a gente não deveria deixar para depois. Cuide da sua saúde. Previna-se.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "05/10",
+      "date": "06/10",
       "missing": [
         "Design"
       ],
@@ -2547,12 +2548,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que um corretor faz por você depois que a apólice está assinada? Descubra o valor de ter um corretor ao seu lado.",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🎠 Carrossel",
       "date": "02/10",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3179,6 +3178,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Vídeo das crianças",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "06/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-das-crian-as-3f133d8db9d280ebbe6eee421207dd70"
+    },
+    {
       "title": "Dia das crianças",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3308,16 +3318,13 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Feedback de cliente (gravado no dia 30/09)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
-      "date": "06/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "date": "05/10",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 2. A editar",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Feedback-de-cliente-gravado-no-dia-30-09-3e333d8db9d280bea052d2883cb00a91"
     },
     {
@@ -3683,14 +3690,14 @@ const LINHA_STORIES_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Story/stories",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "02/10",
+      "date": "07/10",
       "missing": [
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (cliente)",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Story-stories-3ed33d8db9d2807e8ea6f3864e36da19"
     },
@@ -3738,10 +3745,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "06/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tem-coisas-que-a-gente-s-percebe-o-quanto-s-o-importantes-quando-imagina-ficar-sem-elas-3e433d8db9d28070aad1f0e51b534e8f"
@@ -3806,35 +3811,67 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Plannea": [
     {
+      "title": "Fim de ano Plannea | Lona para selfies",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Lona-para-selfies-3f133d8db9d280498837cafe5dcdafc3",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Menu",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Menu-3f133d8db9d280e495a3f4f41fe64d63",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Save the Date",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Save-the-Date-3f133d8db9d28076ac50df45c7e245a4",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Convite",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Convite-3f133d8db9d2809d941af8f8c111c210",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
       "title": "Solicito arte da vaga de recepcionista, com senso urgência. (vaga cadastrada)",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Solicito-arte-da-vaga-de-recepcionista-com-senso-urg-ncia-vaga-cadastrada-3f033d8db9d280e4b994ed3e395de376",
       "gestora": "Equipe",
       "date": "05/10"
     },
     {
-      "title": "Solicito arte de boas vindas da Flávia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis",
+      "title": "Boas-vindas da Flávia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis.",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-da-Fl-via-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corr-3eb33d8db9d280bd8d42ea44ce23301b",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Boas-vindas-da-Fl-via-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corrida-Graduada-em--3eb33d8db9d280bd8d42ea44ce23301b",
       "gestora": "Equipe",
       "date": "05/10"
     },
     {
-      "title": "Identidade visual da festa FIM DE ANO                                                 convite, o Save Date, Menu, Point self, preciso da arte para a criação da decoração com o tema Tropical.",
-      "priority": "p",
+      "title": "Fim de ano Plannea | Identidade visual da festa",
+      "priority": "pp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Identidade-visual-da-festa-FIM-DE-ANO-convite-o-Sav-3dd33d8db9d280ccbf02e857b0f60b86",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
       "gestora": "Equipe",
       "date": "09/10"
     }
   ],
   "ItalaP": [
     {
-      "title": "Adesivo redondo, para colocar na embalagem de pipoca.",
+      "title": "Adesivo redondo para colocar na embalagem de pipoca",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Adesivo-redondo-para-colocar-na-embalagem-de-pipoca-3ed33d8db9d280f4b66ce37a8e96196a",
       "gestora": "Equipe",
       "date": "06/10"
@@ -3940,10 +3977,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Conecta Assessoria": [
     {
-      "title": "Assinatura de e-mail",
+      "title": "Assinatura de e-mail da Carla Souza",
       "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-3ed33d8db9d280c48f3beef661a89d7f",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-da-Carla-Souza-3ed33d8db9d280c48f3beef661a89d7f",
       "gestora": "Equipe",
       "date": "02/10"
     }
@@ -4140,8 +4177,8 @@ const LEGENDAS_DATA = {
     "total": 2
   },
   "ItalaP": {
-    "prontas": 7,
-    "total": 16
+    "prontas": 8,
+    "total": 17
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 5,
@@ -4156,7 +4193,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 16
   },
   "Daniel Maia Advocacia": {
@@ -4276,7 +4313,7 @@ const FORMAT_COUNTS = {
     "post": 15,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
+    "video": 2,
     "story": 5
   },
   "Grupo Mulheres do Brasil": {
