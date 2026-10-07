@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/10/2026, 20:29:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/10/2026, 23:37:47 **/
 
-const LAST_UPDATE = '06/10/2026, 20:29:23';
+const LAST_UPDATE = '06/10/2026, 23:37:47';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1961,7 +1961,7 @@ const LINHA_FEED_ITEMS = {
   ],
   "Ortobom": [
     {
-      "title": "Post",
+      "title": "O seu descanso merece ser pensado nos mínimos detalhes.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "29/10",
@@ -1972,10 +1972,10 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3f133d8db9d2801ebdadde47b0ad42a6"
+      "notionUrl": "https://app.notion.com/p/O-seu-descanso-merece-ser-pensado-nos-m-nimos-detalhes-3f133d8db9d2801ebdadde47b0ad42a6"
     },
     {
-      "title": "Post",
+      "title": "Dormir bem não termina quando você acorda. Começa no seu dia.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "22/10",
@@ -1986,24 +1986,23 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3f133d8db9d280a8bea4f4d0cbcd223f"
+      "notionUrl": "https://app.notion.com/p/Dormir-bem-n-o-termina-quando-voc-acorda-Come-a-no-seu-dia-3f133d8db9d280a8bea4f4d0cbcd223f"
     },
     {
-      "title": "Post",
+      "title": "Seu sono é único. Seu atendimento também deveria ser.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Post-3f133d8db9d280529429d8f18a6f1285"
+      "notionUrl": "https://app.notion.com/p/Seu-sono-nico-Seu-atendimento-tamb-m-deveria-ser-3f133d8db9d280529429d8f18a6f1285"
     },
     {
-      "title": "Sem título",
+      "title": "O conforto está nos detalhes que você nem sempre percebe.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/10",
@@ -2014,7 +2013,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/3f133d8db9d2802d9ab8d6da6684d7ad"
+      "notionUrl": "https://app.notion.com/p/O-conforto-est-nos-detalhes-que-voc-nem-sempre-percebe-3f133d8db9d2802d9ab8d6da6684d7ad"
     }
   ],
   "ItalaP": [
@@ -4526,7 +4525,7 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Ortobom": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 16
   },
   "ItalaP": {
