@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/10/2026, 14:08:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/10/2026, 19:08:56 **/
 
-const LAST_UPDATE = '07/10/2026, 14:08:14';
+const LAST_UPDATE = '07/10/2026, 19:08:56';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -66,8 +66,8 @@ const FEED_DATA = {
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 7
+    "agendado_coord": 1,
+    "a_agendar": 6
   },
   "AAFEC": {
     "total": 16,
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 8,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "Rede Pangeia": {
     "total": 13,
@@ -274,9 +274,9 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Stratto": {
-    "total": 2,
-    "pronto": 0,
-    "postado": 0,
+    "total": 3,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
@@ -348,10 +348,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 10,
     "pronto": 3,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "ItalaP": {
     "total": 2,
@@ -402,12 +402,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 4,
-    "pronto": 1,
+    "total": 5,
+    "pronto": 2,
     "postado": 0,
     "agendado": 1,
     "agendado_coord": 2,
-    "a_agendar": 1
+    "a_agendar": 2
   },
   "Solar Coworking": {
     "total": 0,
@@ -686,14 +686,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Na véspera dos 90 anos de Hélio Rôla, um convite para percorrer sua história.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "07/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Na-v-spera-dos-90-anos-de-H-lio-R-la-um-convite-para-percorrer-sua-hist-ria-Visita-mediada-17-1-3f133d8db9d280d3b213eaf9b7118a1d"
     }
@@ -1142,7 +1140,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O problema financeiro da sua empresa pode ter começado muito antes de chegar ao financeiro. Muitas vezes, o financeiro é apenas onde o problema aparece. Não onde ele começou.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/10",
+      "date": "08/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1570,14 +1568,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cuidar da saúde também faz parte de uma relação de trabalho responsável.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cuidar-da-sa-de-tamb-m-faz-parte-de-uma-rela-o-de-trabalho-respons-vel-3eb33d8db9d280809fabf8f1a360dcf5"
     },
@@ -3189,18 +3185,26 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Stratto": [
     {
-      "title": "Dashboard muda decisões?",
+      "title": "Vídeo com capa - ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
       "date": "09/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Dashboard-muda-decis-es-39133d8db9d280079664c30cbbf4920d"
+      "missing": [],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-com-capa-Lucro-no-papel-Caixa-vazio-3f233d8db9d280958911f892919a2b55"
+    },
+    {
+      "title": "Vídeo com capa - ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/10",
+      "missing": [],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-com-capa-Vende-muito-mas-o-caixa-n-o-sobra-3f233d8db9d2804bb674dc992b13b9eb"
     },
     {
       "title": "O empresário precisa pensar.",
@@ -3475,14 +3479,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Outubro rosa ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Outubro-rosa-3f133d8db9d280308c90f03c0ba06737"
     },
@@ -3675,6 +3677,17 @@ const LINHA_VIDEO_ITEMS = {
   ],
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
+    {
+      "title": "Vídeo",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "12/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/V-deo-3f233d8db9d280039c6fefa1ee6be08f"
+    },
     {
       "title": "Unimed",
       "status": "agendado_coord",
@@ -4170,6 +4183,14 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Tramix": [
     {
+      "title": "Encarte de linhas e zíperes ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Encarte-de-linhas-e-z-peres-3f233d8db9d280db858bf5a88ae037c8",
+      "gestora": "Equipe",
+      "date": "10/10"
+    },
+    {
       "title": "Catálogo sem elásticos",
       "priority": "pppp",
       "rawStatus": "2. Fazendo",
@@ -4354,16 +4375,6 @@ const DEMANDAS_EXTRAS = {
       "date": "17/06"
     }
   ],
-  "Conecta Assessoria": [
-    {
-      "title": "Assinatura de e-mail da Carla Souza",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Assinatura-de-e-mail-da-Carla-Souza-3ed33d8db9d280c48f3beef661a89d7f",
-      "gestora": "Equipe",
-      "date": "02/10"
-    }
-  ],
   "Ventana": [
     {
       "title": "Cartão de visitas para Mayla",
@@ -4498,7 +4509,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 8
   },
   "AAFEC": {
@@ -4514,8 +4525,8 @@ const LEGENDAS_DATA = {
     "total": 6
   },
   "Stratto": {
-    "prontas": 11,
-    "total": 14
+    "prontas": 13,
+    "total": 15
   },
   "Juntos contra o HPV": {
     "prontas": 17,
@@ -4534,7 +4545,7 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 8
   },
   "Rede Pangeia": {
@@ -4550,7 +4561,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ortobom": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 16
   },
   "ItalaP": {
@@ -4578,8 +4589,8 @@ const LEGENDAS_DATA = {
     "total": 10
   },
   "Conecta Assessoria": {
-    "prontas": 15,
-    "total": 17
+    "prontas": 16,
+    "total": 18
   },
   "Solar Coworking": {
     "prontas": 12,
@@ -4620,7 +4631,7 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 1,
     "foto": 0,
-    "video": 2,
+    "video": 3,
     "story": 0
   },
   "Juntos contra o HPV": {
@@ -4732,7 +4743,7 @@ const FORMAT_COUNTS = {
     "post": 11,
     "carrossel": 2,
     "foto": 0,
-    "video": 4,
+    "video": 5,
     "story": 5
   },
   "Solar Coworking": {
