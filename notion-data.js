@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/10/2026, 06:36:46 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/10/2026, 14:08:14 **/
 
-const LAST_UPDATE = '07/10/2026, 06:36:46';
+const LAST_UPDATE = '07/10/2026, 14:08:14';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
     "total": 7,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 12,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -105,9 +105,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 3,
     "postado": 0,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Ventana": {
     "total": 0,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 8,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "Plannea": {
-    "total": 6,
-    "pronto": 5,
+    "total": 7,
+    "pronto": 6,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 4,
@@ -176,17 +176,17 @@ const FEED_DATA = {
   "ItalaP": {
     "total": 15,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Grupo Mulheres do Brasil": {
-    "total": 14,
+    "total": 15,
     "pronto": 3,
     "postado": 2,
     "agendado": 0,
-    "agendado_coord": 2,
+    "agendado_coord": 3,
     "a_agendar": 10
   },
   "Finseg Leal": {
@@ -207,11 +207,11 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 9,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8,
+    "a_agendar": 7,
     "st-paused": null
   },
   "Daniel Maia Advocacia": {
@@ -285,9 +285,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ventana": {
     "total": 0,
@@ -373,9 +373,9 @@ const VIDEO_DATA = {
     "total": 4,
     "pronto": 4,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -583,10 +583,10 @@ const STORIES_DATA = {
   "Conecta Assessoria": {
     "total": 5,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 4,
@@ -690,10 +690,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Na-v-spera-dos-90-anos-de-H-lio-R-la-um-convite-para-percorrer-sua-hist-ria-Visita-mediada-17-1-3f133d8db9d280d3b213eaf9b7118a1d"
@@ -1005,12 +1004,11 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-trabalha-com-produ-o-precisa-tomar-decis-es-o-tempo-inteiro-3e933d8db9d2804792a8e85be773a88b"
     },
     {
@@ -1145,10 +1143,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "07/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-problema-financeiro-da-sua-empresa-pode-ter-come-ado-muito-antes-de-chegar-ao-financeiro-Muitas-v-39133d8db9d2801084c6eeb7804d71bf"
@@ -1359,7 +1355,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O simpósio terminou. Um encontro reuniu ciência, experiências e pessoas de diferentes territórios. Agora, os aprendizados continuam circulando.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "08/10",
       "missing": [],
@@ -1578,10 +1574,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "07/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cuidar-da-sa-de-tamb-m-faz-parte-de-uma-rela-o-de-trabalho-respons-vel-3eb33d8db9d280809fabf8f1a360dcf5"
@@ -1886,6 +1881,19 @@ const LINHA_FEED_ITEMS = {
   ],
   "Plannea": [
     {
+      "title": "Vaga para analista fiscal",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "07/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vaga-para-analista-fiscal-3f233d8db9d28067a2d6eb9de4840df1"
+    },
+    {
       "title": "O prazo do Simples mudou na última semana. ",
       "status": "postado",
       "formato": "🎠 Carrossel",
@@ -2111,14 +2119,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você conhece a unidade da ItalaP mais perto de você?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-conhece-a-unidade-da-ItalaP-mais-perto-de-voc-3eb33d8db9d280669b77c98ba41d0a8b"
     },
@@ -2217,6 +2223,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "PULA PRA 50. No Ceará, a voz das mulheres cresceu nas urnas. E agora começa uma nova etapa: acompanhar, cobrar e fiscalizar.",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "09/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-No-Cear-a-voz-das-mulheres-cresceu-nas-urnas-E-agora-come-a-uma-nova-etapa-acompanh-3f233d8db9d280cebc0aee828b2198bc"
+    },
     {
       "title": "Toda criança tem direito a uma infância segura. 💛 Neste Dia das Crianças, lembrar de brincar também é lembrar de proteger.",
       "status": "a_agendar",
@@ -2676,12 +2695,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tem cuidados que a gente não deveria deixar para depois. Cuide da sua saúde. Previna-se.",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "06/10",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -2949,7 +2966,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você cuida de tanta coisa. Por que a sua saúde continua ficando para depois?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/10",
+      "date": "08/10",
       "missing": [
         "Design"
       ],
@@ -3256,7 +3273,7 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Vídeo com imagens e narração",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/10",
       "missing": [],
@@ -3566,14 +3583,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Emprestei meu carro",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "07/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/Emprestei-meu-carro-3ea33d8db9d280489f1ec2edf5cf39e1"
     }
@@ -4086,7 +4101,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Tem coisas que a gente só percebe o quanto são importantes quando imagina ficar sem elas.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "06/10",
       "missing": [],
@@ -4153,6 +4168,34 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Tramix": [
+    {
+      "title": "Catálogo sem elásticos",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Cat-logo-sem-el-sticos-3f233d8db9d28038a5f8e86892517b14",
+      "gestora": "Equipe",
+      "date": "07/10"
+    },
+    {
+      "title": "Bloco de texto para vídeo sobre legado",
+      "priority": "p",
+      "rawStatus": "2. A implementar",
+      "notionUrl": "https://app.notion.com/p/Bloco-de-texto-para-v-deo-sobre-legado-3d733d8db9d280ce8ca6c83bde921411",
+      "gestora": "Equipe",
+      "date": "10/09"
+    }
+  ],
+  "Univendas": [
+    {
+      "title": "Alterar imagem ",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Alterar-imagem-3f233d8db9d28057880af22228ba1e60",
+      "gestora": "Equipe",
+      "date": "09/10"
+    }
+  ],
   "Planos Seguros": [
     {
       "title": "Apresentação Saúde é Equilíbrio",
@@ -4251,56 +4294,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
       "gestora": "Equipe",
       "date": "09/10"
-    }
-  ],
-  "ItalaP": [
-    {
-      "title": "Adesivo redondo para colocar na embalagem de pipoca",
-      "priority": "pp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Adesivo-redondo-para-colocar-na-embalagem-de-pipoca-3ed33d8db9d280f4b66ce37a8e96196a",
-      "gestora": "Equipe",
-      "date": "06/10"
-    },
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
-      "gestora": "Equipe",
-      "date": "14/09"
-    },
-    {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
-      "gestora": "Equipe",
-      "date": "09/09"
-    },
-    {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
-      "gestora": "Equipe",
-      "date": "09/09"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4409,14 +4402,46 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
-  "Tramix": [
+  "ItalaP": [
     {
-      "title": "Bloco de texto para vídeo sobre legado",
+      "title": "Adicionar/atualizar as localizações no Google",
       "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Bloco-de-texto-para-v-deo-sobre-legado-3d733d8db9d280ce8ca6c83bde921411",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
       "gestora": "Equipe",
-      "date": "10/09"
+      "date": "18/09"
+    },
+    {
+      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
     }
   ],
   "AAFEC": [
@@ -4522,22 +4547,22 @@ const LEGENDAS_DATA = {
   },
   "Plannea": {
     "prontas": 3,
-    "total": 10
+    "total": 11
   },
   "Ortobom": {
     "prontas": 2,
     "total": 16
   },
   "ItalaP": {
-    "prontas": 8,
+    "prontas": 9,
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 5,
-    "total": 16
+    "prontas": 6,
+    "total": 17
   },
   "Finseg Leal": {
-    "prontas": 14,
+    "prontas": 15,
     "total": 18
   },
   "Di Gregório Buffet": {
@@ -4648,7 +4673,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Plannea": {
-    "post": 4,
+    "post": 5,
     "carrossel": 2,
     "foto": 0,
     "video": 3,
@@ -4670,7 +4695,7 @@ const FORMAT_COUNTS = {
   },
   "Grupo Mulheres do Brasil": {
     "post": 11,
-    "carrossel": 3,
+    "carrossel": 4,
     "foto": 0,
     "video": 1,
     "story": 0
