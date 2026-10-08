@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 07/10/2026, 19:08:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 07/10/2026, 23:08:50 **/
 
-const LAST_UPDATE = '07/10/2026, 19:08:56';
+const LAST_UPDATE = '07/10/2026, 23:08:50';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -150,20 +150,20 @@ const FEED_DATA = {
     "a_agendar": 11
   },
   "Planos Seguros": {
-    "total": 6,
+    "total": 7,
     "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 7
   },
   "Plannea": {
     "total": 7,
     "pronto": 6,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 4,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 11
   },
   "Grupo Mulheres do Brasil": {
-    "total": 15,
+    "total": 18,
     "pronto": 3,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 3,
-    "a_agendar": 10
+    "a_agendar": 13
   },
   "Finseg Leal": {
     "total": 14,
@@ -1000,7 +1000,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem trabalha com produção precisa tomar decisões o tempo inteiro.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/10",
+      "date": "08/10",
       "missing": [
         "Legenda"
       ],
@@ -1797,6 +1797,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Planos Seguros": [
     {
+      "title": "12 de outubro | Dia do Corretor de Seguros. Hoje, celebramos quem transforma necessidades em cuidado. Feliz Dia do Corretor de Seguros!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/12-de-outubro-Dia-do-Corretor-de-Seguros-Hoje-celebramos-quem-transforma-necessidades-em-cuidado-3f333d8db9d28056836fea441ca74943"
+    },
+    {
       "title": "Você conhece todos os benefícios do seu seguro residencial?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1878,12 +1892,10 @@ const LINHA_FEED_ITEMS = {
   "Plannea": [
     {
       "title": "Vaga para analista fiscal",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "07/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2220,7 +2232,48 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
-      "title": "PULA PRA 50. No Ceará, a voz das mulheres cresceu nas urnas. E agora começa uma nova etapa: acompanhar, cobrar e fiscalizar.",
+      "title": "Outubro Rosa | Quando falamos de câncer de mama, todas as mulheres têm as mesmas chances de diagnóstico e tratamento? A resposta passa por uma questão que também precisa estar na pauta da saúde: as desigualdades sociais e raciais.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Outubro-Rosa-Quando-falamos-de-c-ncer-de-mama-todas-as-mulheres-t-m-as-mesmas-chances-de-diagn-st-3f333d8db9d280d29819dd2f2f12bc7b"
+    },
+    {
+      "title": "TBT III Remada Rosa Nacional ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "08/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/TBT-III-Remada-Rosa-Nacional-3f333d8db9d28022a7cbfa4fa806e735"
+    },
+    {
+      "title": "Por que correr pelo fim da violência contra mulheres e meninas? ",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "08/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Por-que-correr-pelo-fim-da-viol-ncia-contra-mulheres-e-meninas-3f333d8db9d280538681d691a5daa212"
+    },
+    {
+      "title": "PULA PRA 50. Dobramos as cadeira de mulheres na ALECE. O Ceará foi o estado que mais elegeu mulheres! E agora começa uma nova etapa: acompanhar, cobrar e fiscalizar.",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "09/10",
@@ -2230,7 +2283,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 2. Aprovação (interno)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-No-Cear-a-voz-das-mulheres-cresceu-nas-urnas-E-agora-come-a-uma-nova-etapa-acompanh-3f233d8db9d280cebc0aee828b2198bc"
+      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-Dobramos-as-cadeira-de-mulheres-na-ALECE-O-Cear-foi-o-estado-que-mais-elegeu-mulheres-3f233d8db9d280cebc0aee828b2198bc"
     },
     {
       "title": "Toda criança tem direito a uma infância segura. 💛 Neste Dia das Crianças, lembrar de brincar também é lembrar de proteger.",
@@ -4181,6 +4234,88 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Fim de ano Plannea | Planews",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Planews-3f333d8db9d280fd9653e382641405ee",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Banner ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Banner-3f233d8db9d280039e0eebed6f6cefd2",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Almofada",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Almofada-3f233d8db9d28076ba4ed0b895ebaec8",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Lona para selfies",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Lona-para-selfies-3f133d8db9d280498837cafe5dcdafc3",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Menu",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Menu-3f133d8db9d280e495a3f4f41fe64d63",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Save the Date",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Save-the-Date-3f133d8db9d28076ac50df45c7e245a4",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Convite",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Convite-3f133d8db9d2809d941af8f8c111c210",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Solicito arte da vaga de recepcionista, com senso urgência. (vaga cadastrada)",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-da-vaga-de-recepcionista-com-senso-urg-ncia-vaga-cadastrada-3f033d8db9d280e4b994ed3e395de376",
+      "gestora": "Equipe",
+      "date": "05/10"
+    },
+    {
+      "title": "Boas-vindas da Flávia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis.",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Boas-vindas-da-Fl-via-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corrida-Graduada-em--3eb33d8db9d280bd8d42ea44ce23301b",
+      "gestora": "Equipe",
+      "date": "05/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Identidade visual da festa",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
+      "gestora": "Equipe",
+      "date": "09/10"
+    }
+  ],
   "Tramix": [
     {
       "title": "Encarte de linhas e zíperes ",
@@ -4257,64 +4392,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
       "gestora": "Equipe",
       "date": "29/05"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Fim de ano Plannea | Lona para selfies",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Lona-para-selfies-3f133d8db9d280498837cafe5dcdafc3",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Menu",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Menu-3f133d8db9d280e495a3f4f41fe64d63",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Save the Date",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Save-the-Date-3f133d8db9d28076ac50df45c7e245a4",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Convite",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Convite-3f133d8db9d2809d941af8f8c111c210",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Solicito arte da vaga de recepcionista, com senso urgência. (vaga cadastrada)",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-da-vaga-de-recepcionista-com-senso-urg-ncia-vaga-cadastrada-3f033d8db9d280e4b994ed3e395de376",
-      "gestora": "Equipe",
-      "date": "05/10"
-    },
-    {
-      "title": "Boas-vindas da Flávia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis.",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Boas-vindas-da-Fl-via-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corrida-Graduada-em--3eb33d8db9d280bd8d42ea44ce23301b",
-      "gestora": "Equipe",
-      "date": "05/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Identidade visual da festa",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
-      "gestora": "Equipe",
-      "date": "09/10"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -4554,10 +4631,10 @@ const LEGENDAS_DATA = {
   },
   "Planos Seguros": {
     "prontas": 5,
-    "total": 6
+    "total": 7
   },
   "Plannea": {
-    "prontas": 3,
+    "prontas": 4,
     "total": 11
   },
   "Ortobom": {
@@ -4569,8 +4646,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 6,
-    "total": 17
+    "prontas": 7,
+    "total": 20
   },
   "Finseg Leal": {
     "prontas": 15,
@@ -4677,7 +4754,7 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Planos Seguros": {
-    "post": 6,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4705,8 +4782,8 @@ const FORMAT_COUNTS = {
     "story": 5
   },
   "Grupo Mulheres do Brasil": {
-    "post": 11,
-    "carrossel": 4,
+    "post": 13,
+    "carrossel": 5,
     "foto": 0,
     "video": 1,
     "story": 0
