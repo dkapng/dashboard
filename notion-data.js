@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/10/2026, 06:15:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/10/2026, 13:41:50 **/
 
-const LAST_UPDATE = '08/10/2026, 06:15:00';
+const LAST_UPDATE = '08/10/2026, 13:41:50';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -97,9 +97,9 @@ const FEED_DATA = {
     "total": 12,
     "pronto": 4,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "Juntos contra o HPV": {
     "total": 15,
@@ -134,12 +134,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 8,
+    "total": 7,
     "pronto": 3,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Rede Pangeia": {
     "total": 13,
@@ -158,12 +158,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "Plannea": {
-    "total": 7,
+    "total": 8,
     "pronto": 6,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Ortobom": {
     "total": 4,
@@ -183,11 +183,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 18,
-    "pronto": 3,
-    "postado": 2,
+    "pronto": 4,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 3,
-    "a_agendar": 13
+    "a_agendar": 12
   },
   "Finseg Leal": {
     "total": 14,
@@ -339,11 +339,11 @@ const VIDEO_DATA = {
   },
   "Plannea": {
     "total": 3,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 10,
@@ -493,12 +493,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "RR Advocacia": {
-    "total": 2,
+    "total": 5,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 4
   },
   "Rede Pangeia": {
     "total": 5,
@@ -993,7 +993,7 @@ const LINHA_FEED_ITEMS = {
       ],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
+      "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-transforma-o-da-ind-stria-t-xtil-tamb-m-passa-pelo-Cear-3e933d8db9d280ed99e8d541bc5c3714"
     },
     {
@@ -1138,7 +1138,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O problema financeiro da sua empresa pode ter começado muito antes de chegar ao financeiro. Muitas vezes, o financeiro é apenas onde o problema aparece. Não onde ele começou.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/10",
       "missing": [],
@@ -1530,11 +1530,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nem-toda-decis-o-de-neg-cio-termina-no-departamento-financeiro-3eb33d8db9d2801aa456dfede02a8ae9"
     },
@@ -1544,11 +1543,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-senha-compartilhada-pode-revelar-muito-mais-do-que-parece-3eb33d8db9d2800783b4f30f762d8f6a"
     },
@@ -1558,11 +1556,10 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Venda-comiss-o-jornada-por-tr-s-do-balc-o-tamb-m-existe-Direito-3eb33d8db9d280468278ce65a59b3aa0"
     },
@@ -1612,20 +1609,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dia-Internacional-da-N-o-Viol-ncia-Rela-es-profissionais-tamb-m-precisam-de-respeito-3eb33d8db9d280eb95aaef4592a7ef27"
-    },
-    {
-      "title": "Dia do professor ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dia-do-professor-3eb33d8db9d28006b517ccb927855b07"
     }
   ],
   "Rede Pangeia": [
@@ -1750,7 +1733,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A Rede Pangeia nasceu de uma pergunta. H2: Como ajudar organizações que fazem a diferença a se fortalecerem para continuar fazendo? H3: Essa pergunta continua guiando o nosso trabalho.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "07/10",
+      "date": "08/10",
       "missing": [
         "Design"
       ],
@@ -1936,6 +1919,20 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-sua-empresa-presta-servi-os-e-do-Simples-Ent-o-vale-olhar-para-a-NFS-e-antes-de-novembro-3e933d8db9d2807c8492dc8e6c52ff40"
+    },
+    {
+      "title": "Quando tudo precisa passar pelo dono, o crescimento encontra um limite.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-tudo-precisa-passar-pelo-dono-o-crescimento-encontra-um-limite-3e933d8db9d280f9890ed353d449e67d"
     },
     {
       "title": "Benefício fiscal não é dinheiro garantido",
@@ -2247,12 +2244,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "TBT III Remada Rosa Nacional ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -3376,18 +3371,15 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dar-lucro-e-falir-3e933d8db9d280028496c193836c5a2d"
     },
     {
-      "title": "Administrar a empress ",
-      "status": "a_agendar",
+      "title": "Administrar a empresa",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
-      "date": "07/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "date": "08/10",
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Administrar-a-empress-3e933d8db9d28025ac47cc0b266b6cec"
+      "notionUrl": "https://app.notion.com/p/Administrar-a-empresa-3e933d8db9d28025ac47cc0b266b6cec"
     }
   ],
   "Ortobom": [
@@ -3873,7 +3865,46 @@ const LINHA_STORIES_ITEMS = {
   "Terrartesã": [],
   "RR Advocacia": [
     {
-      "title": "Story/stories",
+      "title": "Direito do Consumidor",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "29/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Direito-do-Consumidor-3f333d8db9d280d9960ac2b58bad01e7"
+    },
+    {
+      "title": "Empresarial/Tributário",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "22/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Empresarial-Tribut-rio-3f333d8db9d280a291a8ebbfbddf5ac5"
+    },
+    {
+      "title": "Direito Trabalhista",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "15/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Direito-Trabalhista-3f333d8db9d280f8a1ccd0cfc22a9f7f"
+    },
+    {
+      "title": "Direito Digital",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "08/10",
@@ -3881,9 +3912,9 @@ const LINHA_STORIES_ITEMS = {
         "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3eb33d8db9d2800e8147c14679a7aac1"
+      "notionUrl": "https://app.notion.com/p/Direito-Digital-3eb33d8db9d2800e8147c14679a7aac1"
     },
     {
       "title": "Conflito no trabalho",
@@ -4117,7 +4148,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "07/10",
+      "date": "08/10",
       "missing": [
         "Design"
       ],
@@ -4234,7 +4265,33 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "Criativos para o tráfego",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criativos-para-o-tr-fego-3f333d8db9d280378bd0dba460e913ac",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
+    }
+  ],
   "Plannea": [
+    {
+      "title": "Solicito arte de boas vindas do Gabriel Ruan para a vaga de Auxiliar Contábil. Hobby: Desenhar, escrever RPG e jogos eletrônicos. Graduando em Ciências Contábeis.",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-do-Gabriel-Ruan-para-a-vaga-de-Auxiliar-Cont-bil-Hobby-Desenhar-escr-3f333d8db9d280cb811fd541223aee3b",
+      "gestora": "Equipe",
+      "date": "12/10"
+    },
     {
       "title": "Fim de ano Plannea | Planews",
       "priority": "p",
@@ -4244,7 +4301,7 @@ const DEMANDAS_EXTRAS = {
       "date": "09/10"
     },
     {
-      "title": "Fim de ano Plannea | Banner ",
+      "title": "Fim de ano Plannea | Banner",
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Banner-3f233d8db9d280039e0eebed6f6cefd2",
@@ -4278,7 +4335,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fim de ano Plannea | Save the Date",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Save-the-Date-3f133d8db9d28076ac50df45c7e245a4",
       "gestora": "Equipe",
       "date": "09/10"
@@ -4286,31 +4343,15 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fim de ano Plannea | Convite",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Convite-3f133d8db9d2809d941af8f8c111c210",
       "gestora": "Equipe",
       "date": "09/10"
     },
     {
-      "title": "Solicito arte da vaga de recepcionista, com senso urgência. (vaga cadastrada)",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-da-vaga-de-recepcionista-com-senso-urg-ncia-vaga-cadastrada-3f033d8db9d280e4b994ed3e395de376",
-      "gestora": "Equipe",
-      "date": "05/10"
-    },
-    {
-      "title": "Boas-vindas da Flávia Costa para a vaga de Assistente Contábil Externo. Hobby: Corrida. Graduada em Ciências Contábeis.",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Boas-vindas-da-Fl-via-Costa-para-a-vaga-de-Assistente-Cont-bil-Externo-Hobby-Corrida-Graduada-em--3eb33d8db9d280bd8d42ea44ce23301b",
-      "gestora": "Equipe",
-      "date": "05/10"
-    },
-    {
       "title": "Fim de ano Plannea | Identidade visual da festa",
       "priority": "pp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
       "gestora": "Equipe",
       "date": "09/10"
@@ -4324,22 +4365,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Encarte-de-linhas-e-z-peres-3f233d8db9d280db858bf5a88ae037c8",
       "gestora": "Equipe",
       "date": "10/10"
-    },
-    {
-      "title": "Catálogo sem elásticos",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Cat-logo-sem-el-sticos-3f233d8db9d28038a5f8e86892517b14",
-      "gestora": "Equipe",
-      "date": "07/10"
-    },
-    {
-      "title": "Bloco de texto para vídeo sobre legado",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Bloco-de-texto-para-v-deo-sobre-legado-3d733d8db9d280ce8ca6c83bde921411",
-      "gestora": "Equipe",
-      "date": "10/09"
     }
   ],
   "Univendas": [
@@ -4404,14 +4429,6 @@ const DEMANDAS_EXTRAS = {
       "date": "02/10"
     },
     {
-      "title": "Sinergia Florescer 2026 | Save the Date e convite para pesquisa",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Sinergia-Florescer-2026-Save-the-Date-e-convite-para-pesquisa-3ea33d8db9d2806e8f80f86fce8275e6",
-      "gestora": "Equipe",
-      "date": "29/09"
-    },
-    {
       "title": "9ª Ação | Ajuste no mídia kit",
       "priority": "ppp",
       "rawStatus": "2. A enviar para aprovação",
@@ -4468,16 +4485,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Briefing-e-e-mail-de-boas-vindas-3a533d8db9d280b1bedbca459c754824",
       "gestora": "Equipe",
       "date": "27/07"
-    }
-  ],
-  "Juntos contra o HPV": [
-    {
-      "title": "Narrações para vídeos com IA",
-      "priority": "p",
-      "rawStatus": "2. A implementar",
-      "notionUrl": "https://app.notion.com/p/Narra-es-para-v-deos-com-IA-3e233d8db9d280eaa761dd8b03015c08",
-      "gestora": "Equipe",
-      "date": "21/09"
     }
   ],
   "Di Gregório Buffet": [
@@ -4561,16 +4568,6 @@ const DEMANDAS_EXTRAS = {
       "gestora": "Equipe",
       "date": "26/08"
     }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
-    }
   ]
 };
 
@@ -4622,8 +4619,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "RR Advocacia": {
-    "prontas": 3,
-    "total": 8
+    "prontas": 6,
+    "total": 7
   },
   "Rede Pangeia": {
     "prontas": 13,
@@ -4634,7 +4631,7 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Plannea": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 11
   },
   "Ortobom": {
@@ -4740,11 +4737,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "RR Advocacia": {
-    "post": 8,
+    "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 2
+    "story": 5
   },
   "Rede Pangeia": {
     "post": 10,
@@ -4761,7 +4758,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Plannea": {
-    "post": 5,
+    "post": 6,
     "carrossel": 2,
     "foto": 0,
     "video": 3,
