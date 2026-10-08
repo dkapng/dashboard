@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/10/2026, 13:41:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/10/2026, 18:41:27 **/
 
-const LAST_UPDATE = '08/10/2026, 13:41:50';
+const LAST_UPDATE = '08/10/2026, 18:41:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -118,12 +118,12 @@ const FEED_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 12,
+    "total": 13,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 13
   },
   "Terrartesã": {
     "total": 0,
@@ -143,11 +143,11 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 13,
-    "pronto": 2,
-    "postado": 1,
+    "pronto": 3,
+    "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Planos Seguros": {
     "total": 7,
@@ -182,16 +182,16 @@ const FEED_DATA = {
     "a_agendar": 11
   },
   "Grupo Mulheres do Brasil": {
-    "total": 18,
-    "pronto": 4,
-    "postado": 3,
+    "total": 19,
+    "pronto": 6,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 3,
     "a_agendar": 12
   },
   "Finseg Leal": {
     "total": 14,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -216,7 +216,7 @@ const FEED_DATA = {
   },
   "Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
@@ -224,11 +224,11 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Solar Coworking": {
     "total": 12,
@@ -502,11 +502,11 @@ const STORIES_DATA = {
   },
   "Rede Pangeia": {
     "total": 5,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Planos Seguros": {
     "total": 0,
@@ -533,12 +533,12 @@ const STORIES_DATA = {
     "a_agendar": 5
   },
   "ItalaP": {
-    "total": 5,
-    "pronto": 1,
-    "postado": 0,
-    "agendado": 0,
+    "total": 6,
+    "pronto": 3,
+    "postado": 1,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "Grupo Mulheres do Brasil": {
     "total": 0,
@@ -582,7 +582,7 @@ const STORIES_DATA = {
   },
   "Conecta Assessoria": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -651,7 +651,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dr-das-Artes-sabia-que-H-lio-R-la-entrou-em-Medicina-Que-bom-que-a-arte-encontrou-um-jeito-de-ent-3f133d8db9d280d7bac1db3c0af235a2"
@@ -843,7 +843,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Encontro mensal",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/10",
+      "date": "09/10",
       "missing": [
         "Design",
         "Legenda"
@@ -1366,6 +1366,19 @@ const LINHA_FEED_ITEMS = {
   "Ventana": [],
   "Univendas": [
     {
+      "title": "Hoje celebramos quem transforma proteção em cuidado. 💚 Feliz Dia do Corretor de Planos!",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Hoje-celebramos-quem-transforma-prote-o-em-cuidado-Feliz-Dia-do-Corretor-de-Planos-3f333d8db9d280c0abb3c343fc40eefc"
+    },
+    {
       "title": "Pensar no futuro da sua família também é cuidar da saúde agora.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -1731,13 +1744,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A Rede Pangeia nasceu de uma pergunta. H2: Como ajudar organizações que fazem a diferença a se fortalecerem para continuar fazendo? H3: Essa pergunta continua guiando o nosso trabalho.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-Rede-Pangeia-nasceu-de-uma-pergunta-H2-Como-ajudar-organiza-es-que-fazem-a-diferen-a-a-se-forta-3ed33d8db9d28002a4acfd27a899572d"
@@ -2229,6 +2240,20 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Lançamento Fases da Lua",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Lan-amento-Fases-da-Lua-3f333d8db9d28030a208f160211348ef"
+    },
+    {
       "title": "Outubro Rosa | Quando falamos de câncer de mama, todas as mulheres têm as mesmas chances de diagnóstico e tratamento? A resposta passa por uma questão que também precisa estar na pauta da saúde: as desigualdades sociais e raciais.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -2254,15 +2279,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/TBT-III-Remada-Rosa-Nacional-3f333d8db9d28022a7cbfa4fa806e735"
     },
     {
-      "title": "Por que correr pelo fim da violência contra mulheres e meninas? ",
+      "title": "Por que correr pelo fim da violência contra mulheres e meninas?",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "08/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-correr-pelo-fim-da-viol-ncia-contra-mulheres-e-meninas-3f333d8db9d280538681d691a5daa212"
@@ -2442,13 +2466,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Parabéns, Grupo Mulheres do Brasil!",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2613,10 +2634,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-carro-pode-estar-sendo-usado-por-algu-m-que-a-ap-lice-n-o-considera-da-mesma-forma-3eb33d8db9d280528fc9f60741a0be93"
@@ -2854,11 +2873,9 @@ const LINHA_FEED_ITEMS = {
       "title": "O que ninguém lembra de combinar quando abre uma empresa com um amigo. A confiança é importante.\nMas algumas coisas precisam estar claras antes do primeiro investimento.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "date": "09/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-ningu-m-lembra-de-combinar-quando-abre-uma-empresa-com-um-amigo-A-confian-a-importante-Mas-3dc33d8db9d2808e8935df911e48b7fc"
@@ -3008,13 +3025,11 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você cuida de tanta coisa. Por que a sua saúde continua ficando para depois?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-cuida-de-tanta-coisa-Por-que-a-sua-sa-de-continua-ficando-para-depois-3e433d8db9d2800b87fcf3580f6f9d2c"
@@ -3970,13 +3985,11 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "#DicaDaSemana",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/DicaDaSemana-3ed33d8db9d2808aa66fda6002f3a428"
@@ -4075,6 +4088,17 @@ const LINHA_STORIES_ITEMS = {
   ],
   "ItalaP": [
     {
+      "title": "Comunicado ",
+      "status": "agendado",
+      "formato": "📱 Story",
+      "date": "08/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Comunicado-3f333d8db9d280998a9dda99db5fc28d"
+    },
+    {
       "title": "Story/stories #outubrorosa",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4114,17 +4138,15 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-outubrorosa-3ed33d8db9d28054a94bf0f04cd1c3ed"
     },
     {
-      "title": "Story/stories #outubrorosa",
-      "status": "a_agendar",
+      "title": "#outubrorosa",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-outubrorosa-3ed33d8db9d280e1a2bbd6131288740b"
+      "notionUrl": "https://app.notion.com/p/outubrorosa-3ed33d8db9d280e1a2bbd6131288740b"
     },
     {
       "title": "#outubrorosa",
@@ -4145,17 +4167,15 @@ const LINHA_STORIES_ITEMS = {
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
     {
-      "title": "Story/stories",
+      "title": "E se o seguro de vida pudesse cuidar de você enquanto você está vivo?",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ed33d8db9d2807e8ea6f3864e36da19"
+      "notionUrl": "https://app.notion.com/p/E-se-o-seguro-de-vida-pudesse-cuidar-de-voc-enquanto-voc-est-vivo-3ed33d8db9d2807e8ea6f3864e36da19"
     },
     {
       "title": "Story/stories",
@@ -4335,7 +4355,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fim de ano Plannea | Save the Date",
       "priority": "pp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Save-the-Date-3f133d8db9d28076ac50df45c7e245a4",
       "gestora": "Equipe",
       "date": "09/10"
@@ -4343,7 +4363,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fim de ano Plannea | Convite",
       "priority": "pp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Convite-3f133d8db9d2809d941af8f8c111c210",
       "gestora": "Equipe",
       "date": "09/10"
@@ -4351,7 +4371,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fim de ano Plannea | Identidade visual da festa",
       "priority": "pp",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
       "gestora": "Equipe",
       "date": "09/10"
@@ -4611,8 +4631,8 @@ const LEGENDAS_DATA = {
     "total": 3
   },
   "Univendas": {
-    "prontas": 12,
-    "total": 12
+    "prontas": 13,
+    "total": 13
   },
   "Terrartesã": {
     "prontas": 0,
@@ -4643,8 +4663,8 @@ const LEGENDAS_DATA = {
     "total": 17
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 7,
-    "total": 20
+    "prontas": 8,
+    "total": 21
   },
   "Finseg Leal": {
     "prontas": 15,
@@ -4723,7 +4743,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Univendas": {
-    "post": 12,
+    "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
@@ -4776,10 +4796,10 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 2,
-    "story": 5
+    "story": 6
   },
   "Grupo Mulheres do Brasil": {
-    "post": 13,
+    "post": 14,
     "carrossel": 5,
     "foto": 0,
     "video": 1,
