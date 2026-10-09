@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/10/2026, 22:35:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/10/2026, 05:15:26 **/
 
-const LAST_UPDATE = '08/10/2026, 22:35:58';
+const LAST_UPDATE = '09/10/2026, 05:15:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
     "total": 7,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "AAFEC": {
     "total": 16,
-    "pronto": 7,
+    "pronto": 8,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 5,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -135,7 +135,7 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 7,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 1,
     "agendado_coord": 0,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 1,
@@ -659,10 +659,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-existir-o-artista-existia-um-menino-desenhando-nas-cal-adas-de-Fortaleza-3f133d8db9d280969c7bc3827f57bfd0"
@@ -842,10 +841,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Encontro-mensal-3f033d8db9d2807eb450ccfd170f75fe"
@@ -985,10 +983,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-transforma-o-da-ind-stria-t-xtil-tamb-m-passa-pelo-Cear-3e933d8db9d280ed99e8d541bc5c3714"
@@ -1563,10 +1560,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Venda-comiss-o-jornada-por-tr-s-do-balc-o-tamb-m-existe-Direito-3eb33d8db9d280468278ce65a59b3aa0"
@@ -1729,10 +1724,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-eu-sempre-quis-fazer-com-a-minha-experi-ncia-3ed33d8db9d280a38367c400817e8ad2"
@@ -2066,10 +2059,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-eu-n-o-sinto-nada-ainda-preciso-cuidar-das-minhas-mamas-outubrorosa-3ed33d8db9d2808a825ac1377928ae4c"
@@ -3245,7 +3236,7 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "09/10",
       "missing": [],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-com-capa-Lucro-no-papel-Caixa-vazio-3f233d8db9d280958911f892919a2b55"
@@ -3256,7 +3247,7 @@ const LINHA_VIDEO_ITEMS = {
       "formato": "🎥 Vídeo vertical",
       "date": "07/10",
       "missing": [],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-com-capa-Vende-muito-mas-o-caixa-n-o-sobra-3f233d8db9d2804bb674dc992b13b9eb"
@@ -4584,6 +4575,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Planos Seguros": "marcada",
   "Finseg Leal": "marcada",
   "Tramix": "marcada",
   "Ortobom": "marcada",
@@ -4899,7 +4891,7 @@ const AGENDA_COUNTS = {
   },
   "Planos Seguros": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Plannea": {
