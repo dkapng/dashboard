@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/10/2026, 18:41:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/10/2026, 22:35:58 **/
 
-const LAST_UPDATE = '08/10/2026, 18:41:27';
+const LAST_UPDATE = '08/10/2026, 22:35:58';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
     "total": 7,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 15,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 3,
     "agendado_coord": 0,
@@ -159,7 +159,7 @@ const FEED_DATA = {
   },
   "Plannea": {
     "total": 8,
-    "pronto": 6,
+    "pronto": 7,
     "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
@@ -186,8 +186,8 @@ const FEED_DATA = {
     "pronto": 6,
     "postado": 4,
     "agendado": 0,
-    "agendado_coord": 3,
-    "a_agendar": 12
+    "agendado_coord": 4,
+    "a_agendar": 11
   },
   "Finseg Leal": {
     "total": 14,
@@ -224,7 +224,7 @@ const FEED_DATA = {
   },
   "Conecta Assessoria": {
     "total": 13,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -647,12 +647,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Dr-das-Artes-sabia-que-H-lio-R-la-entrou-em-Medicina-Que-bom-que-a-arte-encontrou-um-jeito-de-ent-3f133d8db9d280d7bac1db3c0af235a2"
     },
@@ -983,7 +980,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quem-tem-uma-pequena-confec-o-tamb-m-precisa-olhar-para-o-futuro-do-setor-3e933d8db9d280fbacd4e20f8012edfe"
     },
     {
-      "title": "A transformação da indústria têxtil também passa pelo Ceará ",
+      "title": "A transformação da indústria têxtil também passa pelo Ceará.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
@@ -991,7 +988,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-transforma-o-da-ind-stria-t-xtil-tamb-m-passa-pelo-Cear-3e933d8db9d280ed99e8d541bc5c3714"
@@ -1174,14 +1171,12 @@ const LINHA_FEED_ITEMS = {
   ],
   "Juntos contra o HPV": [
     {
-      "title": "Hoje celebramos Luiza Helena Trajano. Uma mulher que transformou ideias em movimento, conexões em rede e vontade de fazer em ação. ",
+      "title": "Hoje celebramos Luiza Helena Trajano. Uma mulher que transformou ideias em movimento, conexões em rede e vontade de fazer em ação.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Hoje-celebramos-Luiza-Helena-Trajano-Uma-mulher-que-transformou-ideias-em-movimento-conex-es-em-re-3e633d8db9d2800fbd10fe14492eccb9"
@@ -1937,10 +1932,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-tudo-precisa-passar-pelo-dono-o-crescimento-encontra-um-limite-3e933d8db9d280f9890ed353d449e67d"
@@ -2280,13 +2274,14 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que correr pelo fim da violência contra mulheres e meninas?",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "08/10",
       "missing": [
+        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 3. Exportado",
+      "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-correr-pelo-fim-da-viol-ncia-contra-mulheres-e-meninas-3f333d8db9d280538681d691a5daa212"
@@ -2451,15 +2446,14 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-conhece-o-Grupo-Mulheres-do-Brasil-Somos-um-movimento-pol-tico-mas-totalmente-SUPRAPARTID-RIO-3e633d8db9d2803cb134de343e06097e"
     },
     {
-      "title": "Parabéns, Luiza Helena Trajano! Nossa grande inspiração e força motriz. ",
+      "title": "Parabéns, Luiza Helena Trajano! Nossa grande inspiração e força motriz.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Parab-ns-Luiza-Helena-Trajano-Nossa-grande-inspira-o-e-for-a-motriz-3db33d8db9d2803884edc873935ae396"
@@ -3015,10 +3009,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-trabalha-todos-os-meses-para-construir-sua-renda-Mas-j-parou-para-pensar-no-que-aconteceria-c-3e433d8db9d280148049d4039cc38c04"
@@ -4603,7 +4595,7 @@ const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
   "Hélio Rôla 90 Anos": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 8
   },
   "AAFEC": {
