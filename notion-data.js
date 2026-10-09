@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/10/2026, 12:25:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/10/2026, 17:11:48 **/
 
-const LAST_UPDATE = '09/10/2026, 12:25:37';
+const LAST_UPDATE = '09/10/2026, 17:11:48';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -70,12 +70,12 @@ const FEED_DATA = {
     "a_agendar": 6
   },
   "AAFEC": {
-    "total": 16,
+    "total": 17,
     "pronto": 8,
     "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 11
   },
   "Ser Ponte": {
     "total": 4,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 15,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -135,11 +135,11 @@ const FEED_DATA = {
   },
   "RR Advocacia": {
     "total": 7,
-    "pronto": 4,
-    "postado": 3,
+    "pronto": 5,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Rede Pangeia": {
     "total": 13,
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "ItalaP": {
     "total": 15,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 3,
     "agendado": 1,
     "agendado_coord": 1,
@@ -183,11 +183,11 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 7,
+    "pronto": 10,
     "postado": 6,
     "agendado": 0,
-    "agendado_coord": 3,
-    "a_agendar": 10
+    "agendado_coord": 2,
+    "a_agendar": 11
   },
   "Finseg Leal": {
     "total": 14,
@@ -348,10 +348,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 10,
     "pronto": 3,
-    "postado": 2,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "ItalaP": {
     "total": 1,
@@ -386,12 +386,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "APROSSEG": {
-    "total": 6,
-    "pronto": 4,
-    "postado": 2,
-    "agendado": 0,
+    "total": 7,
+    "pronto": 5,
+    "postado": 3,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Daniel Maia Advocacia": {
     "total": 0,
@@ -405,9 +405,9 @@ const VIDEO_DATA = {
     "total": 5,
     "pronto": 2,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 2,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Solar Coworking": {
     "total": 0,
@@ -494,7 +494,7 @@ const STORIES_DATA = {
   },
   "RR Advocacia": {
     "total": 5,
-    "pronto": 1,
+    "pronto": 2,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
@@ -526,11 +526,11 @@ const STORIES_DATA = {
   },
   "Ortobom": {
     "total": 6,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "ItalaP": {
     "total": 6,
@@ -581,10 +581,10 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Conecta Assessoria": {
-    "total": 5,
-    "pronto": 2,
+    "total": 6,
+    "pronto": 3,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 1,
     "a_agendar": 3
   },
@@ -693,6 +693,20 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "AAFEC": [
+    {
+      "title": "Agenda de novembro de 2026",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "30/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d280b693d0e6fe0bdb221f"
+    },
     {
       "title": "Comparecimento às urnas vale como Prova de Vida automática no INSS",
       "status": "postado",
@@ -1307,10 +1321,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "10/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Informa-o-adequada-di-logo-e-acesso-s-estrat-gias-de-preven-o-ajudam-a-aproximar-sa-de-e-educa--3e533d8db9d280a2a056c35007eef6c8"
@@ -1541,17 +1553,15 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uma-senha-compartilhada-pode-revelar-muito-mais-do-que-parece-3eb33d8db9d2800783b4f30f762d8f6a"
     },
     {
       "title": "Venda, comissão, jornada: por trás do balcão também existe Direito.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [],
@@ -2164,12 +2174,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "12/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Que-a-f-acompanhe-cada-caminho-e-que-nunca-falte-cuidado-para-seguir-em-frente-Dia-de-Nossa-Senh-28c33d8db9d28006aed2e489a9e1fe29"
     },
@@ -2222,10 +2229,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Lan-amento-Fases-da-Lua-3f333d8db9d28030a208f160211348ef"
@@ -2267,17 +2273,15 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Por-que-correr-pelo-fim-da-viol-ncia-contra-mulheres-e-meninas-3f333d8db9d280538681d691a5daa212"
     },
     {
-      "title": "PULA PRA 50. Dobramos as cadeira de mulheres na Assembleia Legislativa do Estado do Ceará. Somos o estado que mais elegeu mulheres! É a maior bancada feminina já eleita para a ALECE e representa 30,5% das 46 cadeiras. ",
-      "status": "agendado_coord",
+      "title": "PULA PRA 50. Dobramos as cadeira de mulheres na Assembleia Legislativa. Somos o estado que mais elegeu mulheres! É a maior bancada feminina já eleita no estado e representa 30,5% das 46 cadeiras.",
+      "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "09/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 2. Aprovação (interno)",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-Dobramos-as-cadeira-de-mulheres-na-Assembleia-Legislativa-do-Estado-do-Cear-Somos-o-e-3f233d8db9d280cebc0aee828b2198bc"
+      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-Dobramos-as-cadeira-de-mulheres-na-Assembleia-Legislativa-Somos-o-estado-que-mais-eleg-3f233d8db9d280cebc0aee828b2198bc"
     },
     {
       "title": "Toda criança tem direito a uma infância segura. 💛 Neste Dia das Crianças, lembrar de brincar também é lembrar de proteger.",
@@ -2285,10 +2289,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "12/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Toda-crian-a-tem-direito-a-uma-inf-ncia-segura-Neste-Dia-das-Crian-as-lembrar-de-brincar-tamb-m-3f033d8db9d280128ef3f179c9bf1cfd"
@@ -2432,7 +2435,7 @@ const LINHA_FEED_ITEMS = {
       "date": "09/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Parab-ns-Luiza-Helena-Trajano-Nossa-grande-inspira-o-e-for-a-motriz-3db33d8db9d2803884edc873935ae396"
     },
@@ -2641,7 +2644,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A mesma necessidade pode ter mais de uma solução!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "30/10",
+      "date": "26/10",
       "missing": [
         "Design"
       ],
@@ -2654,7 +2657,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Se existem várias seguradoras, como saber qual faz sentido para você?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/10",
+      "date": "23/10",
       "missing": [
         "Design"
       ],
@@ -2667,7 +2670,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Tudo aquilo que faz parte da sua vida também merece entrar no seu planejamento!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/10",
+      "date": "20/10",
       "missing": [
         "Design"
       ],
@@ -2680,7 +2683,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você sabe o que seu seguro resolve quando o carro para?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "23/10",
+      "date": "16/10",
       "missing": [
         "Design"
       ],
@@ -2693,7 +2696,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O cliente vê o resultado. O mercado de seguros vê todo o processo!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/10",
+      "date": "14/10",
       "missing": [
         "Design"
       ],
@@ -2706,7 +2709,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Tem muita coisa em jogo para deixar a proteção para depois. Chame a Aprosseg e proteja o que importa.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "09/10",
+      "date": "23/10",
       "missing": [
         "Design"
       ],
@@ -3506,15 +3509,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Colchão ideal ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Colch-o-ideal-3f133d8db9d2808dadccc053477ff8fd"
     },
@@ -3625,8 +3625,19 @@ const LINHA_VIDEO_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "https://drive.google.com/drive/folders/1DqlnW4vCAjDWHfIrLFSDmKmSs6yB4ow2",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "09/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/https-drive-google-com-drive-folders-1DqlnW4vCAjDWHfIrLFSDmKmSs6yB4ow2-3f433d8db9d280dda28afd1a5d5eed9d"
+    },
+    {
       "title": "Dia do corretor",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "12/10",
       "missing": [],
@@ -3703,7 +3714,7 @@ const LINHA_VIDEO_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "Vídeo",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "12/10",
       "missing": [],
@@ -3887,10 +3898,8 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Direito-Digital-3eb33d8db9d2800e8147c14679a7aac1"
@@ -4038,14 +4047,12 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Aniversário Jeniffer (palmares mall)",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "09/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Jeniffer-palmares-mall-2e333d8db9d280c5addfff3db25a5eba"
     }
@@ -4130,6 +4137,17 @@ const LINHA_STORIES_ITEMS = {
   "APROSSEG": [],
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
+    {
+      "title": "Aniversário do Felipe",
+      "status": "agendado",
+      "formato": "📱 Story",
+      "date": "09/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Anivers-rio-do-Felipe-3f433d8db9d2809ba5c2e2b01fe627e6"
+    },
     {
       "title": "E se o seguro de vida pudesse cuidar de você enquanto você está vivo?",
       "status": "agendado_coord",
@@ -4249,12 +4267,22 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "AAFEC": [
+    {
+      "title": "Agenda de novembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
+      "gestora": "Equipe",
+      "date": "23/10"
+    }
+  ],
   "Daniel Maia Advocacia": [
     {
-      "title": "vaga de estágio",
+      "title": "Vaga de estágio",
       "priority": "pp",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/vaga-de-est-gio-3f433d8db9d2803fb8b5ec50fde0d3f0",
+      "notionUrl": "https://app.notion.com/p/Vaga-de-est-gio-3f433d8db9d2803fb8b5ec50fde0d3f0",
       "gestora": "Equipe",
       "date": "13/10"
     },
@@ -4337,7 +4365,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fim de ano Plannea | Save the Date",
       "priority": "pp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Save-the-Date-3f133d8db9d28076ac50df45c7e245a4",
       "gestora": "Equipe",
       "date": "09/10"
@@ -4345,7 +4373,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fim de ano Plannea | Convite",
       "priority": "pp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Convite-3f133d8db9d2809d941af8f8c111c210",
       "gestora": "Equipe",
       "date": "09/10"
@@ -4353,7 +4381,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Fim de ano Plannea | Identidade visual da festa",
       "priority": "pp",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
       "gestora": "Equipe",
       "date": "09/10"
@@ -4429,22 +4457,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/9-A-o-Banner-de-inscri-es-abertas-com-c-digo-QR-3ed33d8db9d2807d989fdeed995da848",
       "gestora": "Equipe",
       "date": "02/10"
-    },
-    {
-      "title": "9ª Ação | Ajuste no mídia kit",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/9-A-o-Ajuste-no-m-dia-kit-3e333d8db9d280a18988c624869d344c",
-      "gestora": "Equipe",
-      "date": "23/09"
-    },
-    {
-      "title": "9ª Ação | Capa para o Sympla",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/9-A-o-Capa-para-o-Sympla-3e233d8db9d2809a9ec7e5adc20d644a",
-      "gestora": "Equipe",
-      "date": "21/09"
     },
     {
       "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
@@ -4541,16 +4553,6 @@ const DEMANDAS_EXTRAS = {
       "date": "09/09"
     }
   ],
-  "AAFEC": [
-    {
-      "title": "Agenda de outubro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-outubro-de-2026-3ce33d8db9d280598b77df1b632a7513",
-      "gestora": "Equipe",
-      "date": "25/09"
-    }
-  ],
   "Rede Pangeia": [
     {
       "title": "Site",
@@ -4581,7 +4583,7 @@ const LEGENDAS_DATA = {
   },
   "AAFEC": {
     "prontas": 11,
-    "total": 16
+    "total": 17
   },
   "Ser Ponte": {
     "prontas": 1,
@@ -4628,11 +4630,11 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ortobom": {
-    "prontas": 3,
+    "prontas": 4,
     "total": 16
   },
   "ItalaP": {
-    "prontas": 9,
+    "prontas": 10,
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
@@ -4648,8 +4650,8 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 12,
-    "total": 15
+    "prontas": 13,
+    "total": 16
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
@@ -4675,7 +4677,7 @@ const FORMAT_COUNTS = {
   },
   "AAFEC": {
     "post": 14,
-    "carrossel": 2,
+    "carrossel": 3,
     "foto": 0,
     "video": 0,
     "story": 0
@@ -4796,7 +4798,7 @@ const FORMAT_COUNTS = {
     "post": 8,
     "carrossel": 1,
     "foto": 0,
-    "video": 6,
+    "video": 7,
     "story": 0
   },
   "Daniel Maia Advocacia": {
@@ -4811,7 +4813,7 @@ const FORMAT_COUNTS = {
     "carrossel": 2,
     "foto": 0,
     "video": 5,
-    "story": 5
+    "story": 6
   },
   "Solar Coworking": {
     "post": 12,
