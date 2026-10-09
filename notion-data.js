@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/10/2026, 05:15:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/10/2026, 12:25:37 **/
 
-const LAST_UPDATE = '09/10/2026, 05:15:26';
+const LAST_UPDATE = '09/10/2026, 12:25:37';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -72,10 +72,10 @@ const FEED_DATA = {
   "AAFEC": {
     "total": 16,
     "pronto": 8,
-    "postado": 4,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 10
   },
   "Ser Ponte": {
     "total": 4,
@@ -88,10 +88,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 5,
     "pronto": 3,
-    "postado": 1,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "Stratto": {
     "total": 12,
@@ -104,10 +104,10 @@ const FEED_DATA = {
   "Juntos contra o HPV": {
     "total": 15,
     "pronto": 4,
-    "postado": 0,
+    "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 12
+    "a_agendar": 11
   },
   "Ventana": {
     "total": 0,
@@ -145,9 +145,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 4,
     "postado": 2,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Planos Seguros": {
     "total": 7,
@@ -160,10 +160,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 8,
     "pronto": 7,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Ortobom": {
     "total": 4,
@@ -177,25 +177,25 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 4,
     "postado": 3,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 6,
-    "postado": 4,
+    "pronto": 7,
+    "postado": 6,
     "agendado": 0,
-    "agendado_coord": 4,
-    "a_agendar": 11
+    "agendado_coord": 3,
+    "a_agendar": 10
   },
   "Finseg Leal": {
     "total": 14,
     "pronto": 4,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -207,26 +207,26 @@ const FEED_DATA = {
   },
   "APROSSEG": {
     "total": 9,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 7,
+    "a_agendar": 6,
     "st-paused": null
   },
   "Daniel Maia Advocacia": {
     "total": 9,
     "pronto": 3,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 7
+    "a_agendar": 6
   },
   "Conecta Assessoria": {
-    "total": 13,
+    "total": 14,
     "pronto": 4,
     "postado": 1,
-    "agendado": 2,
+    "agendado": 3,
     "agendado_coord": 0,
     "a_agendar": 10
   },
@@ -277,9 +277,9 @@ const VIDEO_DATA = {
     "total": 3,
     "pronto": 2,
     "postado": 1,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -354,12 +354,12 @@ const VIDEO_DATA = {
     "a_agendar": 10
   },
   "ItalaP": {
-    "total": 2,
+    "total": 1,
     "pronto": 1,
     "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Grupo Mulheres do Brasil": {
     "total": 1,
@@ -387,7 +387,7 @@ const VIDEO_DATA = {
   },
   "APROSSEG": {
     "total": 6,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
@@ -585,8 +585,8 @@ const STORIES_DATA = {
     "pronto": 2,
     "postado": 1,
     "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 4
+    "agendado_coord": 1,
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 4,
@@ -837,12 +837,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Encontro mensal",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -850,7 +848,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Amanhã tem Boteco na AAFEC! 📅 9 de outubro ⏱️ 9h30 📍 AAFEC Fortaleza",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "08/10",
       "missing": [],
@@ -979,12 +977,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A transformação da indústria têxtil também passa pelo Ceará.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "09/10",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "12/10",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -992,12 +988,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem trabalha com produção precisa tomar decisões o tempo inteiro.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1121,7 +1115,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A IA pode analisar seus números. Mas quem está fazendo as perguntas certas?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/10",
+      "date": "13/10",
       "missing": [
         "Design"
       ],
@@ -1169,7 +1163,7 @@ const LINHA_FEED_ITEMS = {
   "Juntos contra o HPV": [
     {
       "title": "Hoje celebramos Luiza Helena Trajano. Uma mulher que transformou ideias em movimento, conexões em rede e vontade de fazer em ação.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [],
@@ -1234,7 +1228,7 @@ const LINHA_FEED_ITEMS = {
       "title": "HPV não é sinônimo de câncer. HPV é uma infecção. Alguns tipos podem causar alterações que, ao longo do tempo, podem levar ao desenvolvimento do câncer. Por isso, prevenção importa!  ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "19/10",
+      "date": "20/10",
       "missing": [
         "Design"
       ],
@@ -1247,7 +1241,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Eu me vacino porque… informação também é uma forma de proteção. ",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "17/10",
+      "date": "19/10",
       "missing": [
         "Design"
       ],
@@ -1286,7 +1280,7 @@ const LINHA_FEED_ITEMS = {
       "title": "90,5% foi a média da cobertura vacinal contra o HPV em nove municípios acompanhados pelo movimento Juntos Contra o HPV no primeiro semestre de 2026!",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/10",
+      "date": "16/10",
       "missing": [
         "Design"
       ],
@@ -1710,7 +1704,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Improvisar pode resolver o hoje. Mas não constrói, sozinho, o amanhã.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/10",
+      "date": "13/10",
       "missing": [
         "Design"
       ],
@@ -1721,7 +1715,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que eu sempre quis fazer com a minha experiência?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [],
@@ -1921,12 +1915,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando tudo precisa passar pelo dono, o crescimento encontra um limite.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2056,7 +2048,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Se eu não sinto nada, ainda preciso cuidar das minhas mamas? #outubrorosa",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [],
@@ -2265,20 +2257,17 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Por que correr pelo fim da violência contra mulheres e meninas?",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🎠 Carrossel",
-      "date": "08/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
-      "rawLegenda": "🪶 1. A escrever",
+      "date": "09/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Por-que-correr-pelo-fim-da-viol-ncia-contra-mulheres-e-meninas-3f333d8db9d280538681d691a5daa212"
     },
     {
-      "title": "PULA PRA 50. Dobramos as cadeira de mulheres na ALECE. O Ceará foi o estado que mais elegeu mulheres! E agora começa uma nova etapa: acompanhar, cobrar e fiscalizar.",
+      "title": "PULA PRA 50. Dobramos as cadeira de mulheres na Assembleia Legislativa do Estado do Ceará. Somos o estado que mais elegeu mulheres! É a maior bancada feminina já eleita para a ALECE e representa 30,5% das 46 cadeiras. ",
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "09/10",
@@ -2288,7 +2277,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 2. Aprovação (interno)",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-Dobramos-as-cadeira-de-mulheres-na-ALECE-O-Cear-foi-o-estado-que-mais-elegeu-mulheres-3f233d8db9d280cebc0aee828b2198bc"
+      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-Dobramos-as-cadeira-de-mulheres-na-Assembleia-Legislativa-do-Estado-do-Cear-Somos-o-e-3f233d8db9d280cebc0aee828b2198bc"
     },
     {
       "title": "Toda criança tem direito a uma infância segura. 💛 Neste Dia das Crianças, lembrar de brincar também é lembrar de proteger.",
@@ -2438,12 +2427,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Parabéns, Luiza Helena Trajano! Nossa grande inspiração e força motriz.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "09/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2616,9 +2603,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Seu carro pode estar sendo usado por alguém que a apólice não considera da mesma forma.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "08/10",
+      "date": "09/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -2730,12 +2717,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quando a saúde pede atenção, ter com quem contar faz diferença.",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "08/10",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -2856,7 +2841,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O que ninguém lembra de combinar quando abre uma empresa com um amigo. A confiança é importante.\nMas algumas coisas precisam estar claras antes do primeiro investimento.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎠 Carrossel",
       "date": "09/10",
       "missing": [],
@@ -2878,6 +2863,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "Conecta Assessoria": [
+    {
+      "title": "SEGURO DE VIDA PORTO -  Até 35% OFF para proteger o que mais importa. H2: ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/SEGURO-DE-VIDA-PORTO-At-35-OFF-para-proteger-o-que-mais-importa-H2-O-seguro-de-vida-evoluiu--3f433d8db9d280558b55ffa1cc3b370f"
+    },
     {
       "title": "Você construiu muita coisa até aqui. Agora, escolha como quer proteger tudo isso.",
       "status": "a_agendar",
@@ -2997,7 +2995,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Você trabalha todos os meses para construir sua renda. Mas já parou para pensar no que aconteceria com ela se você precisasse parar?",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [],
@@ -3232,7 +3230,7 @@ const LINHA_VIDEO_ITEMS = {
   "Stratto": [
     {
       "title": "Vídeo com capa - ",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🎥 Vídeo vertical",
       "date": "09/10",
       "missing": [],
@@ -3554,20 +3552,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-das-crian-as-3f133d8db9d280ebbe6eee421207dd70"
-    },
-    {
-      "title": "Dia das crianças",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "12/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Dia-das-crian-as-3eb33d8db9d28079a33dd094401af9cd"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -3641,6 +3625,17 @@ const LINHA_VIDEO_ITEMS = {
   "Di Gregório Buffet": [],
   "APROSSEG": [
     {
+      "title": "Dia do corretor",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "12/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Dia-do-corretor-3f433d8db9d28056b421f3bc0aed4e09"
+    },
+    {
       "title": "Devo fazer um seguro ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3666,20 +3661,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Por-que-a-Aprosseg-trabalha-com-v-rias-seguradoras-3e333d8db9d2807c8191cf5be5e0137f"
-    },
-    {
-      "title": "Eu tenho muito orgulho de ser corretor de seguros. E sabe por quê? ",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "11/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/Eu-tenho-muito-orgulho-de-ser-corretor-de-seguros-E-sabe-por-qu-3e333d8db9d280e5a2aec560b5194126"
     },
     {
       "title": "Feedback de cliente (gravado no dia 30/09)",
@@ -4151,9 +4132,9 @@ const LINHA_STORIES_ITEMS = {
   "Conecta Assessoria": [
     {
       "title": "E se o seguro de vida pudesse cuidar de você enquanto você está vivo?",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "📱 Story",
-      "date": "08/10",
+      "date": "09/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4190,7 +4171,7 @@ const LINHA_STORIES_ITEMS = {
       "title": "Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
-      "date": "13/10",
+      "date": "20/10",
       "missing": [
         "Design"
       ],
@@ -4268,6 +4249,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Daniel Maia Advocacia": [
+    {
+      "title": "vaga de estágio",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/vaga-de-est-gio-3f433d8db9d2803fb8b5ec50fde0d3f0",
+      "gestora": "Equipe",
+      "date": "13/10"
+    },
+    {
+      "title": "Configurações de e-mail",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
+      "gestora": "Equipe",
+      "date": "04/09"
+    }
+  ],
   "Finseg Leal": [
     {
       "title": "Criativos para o tráfego",
@@ -4552,16 +4551,6 @@ const DEMANDAS_EXTRAS = {
       "date": "25/09"
     }
   ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Configurações de e-mail",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
-      "gestora": "Equipe",
-      "date": "04/09"
-    }
-  ],
   "Rede Pangeia": [
     {
       "title": "Site",
@@ -4591,7 +4580,7 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "AAFEC": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 16
   },
   "Ser Ponte": {
@@ -4599,7 +4588,7 @@ const LEGENDAS_DATA = {
     "total": 4
   },
   "Tramix": {
-    "prontas": 2,
+    "prontas": 4,
     "total": 6
   },
   "Stratto": {
@@ -4635,7 +4624,7 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Plannea": {
-    "prontas": 5,
+    "prontas": 6,
     "total": 11
   },
   "Ortobom": {
@@ -4644,10 +4633,10 @@ const LEGENDAS_DATA = {
   },
   "ItalaP": {
     "prontas": 9,
-    "total": 17
+    "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 8,
+    "prontas": 10,
     "total": 21
   },
   "Finseg Leal": {
@@ -4659,16 +4648,16 @@ const LEGENDAS_DATA = {
     "total": 0
   },
   "APROSSEG": {
-    "prontas": 11,
-    "total": 16
+    "prontas": 12,
+    "total": 15
   },
   "Daniel Maia Advocacia": {
     "prontas": 9,
     "total": 10
   },
   "Conecta Assessoria": {
-    "prontas": 16,
-    "total": 18
+    "prontas": 20,
+    "total": 22
   },
   "Solar Coworking": {
     "prontas": 12,
@@ -4779,7 +4768,7 @@ const FORMAT_COUNTS = {
     "post": 15,
     "carrossel": 0,
     "foto": 0,
-    "video": 2,
+    "video": 1,
     "story": 6
   },
   "Grupo Mulheres do Brasil": {
@@ -4818,7 +4807,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Conecta Assessoria": {
-    "post": 11,
+    "post": 12,
     "carrossel": 2,
     "foto": 0,
     "video": 5,
