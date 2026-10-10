@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/10/2026, 14:34:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/10/2026, 17:58:06 **/
 
-const LAST_UPDATE = '10/10/2026, 14:34:03';
+const LAST_UPDATE = '10/10/2026, 17:58:06';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -8,7 +8,7 @@ const GESTORAS = {
     "Ventana"
   ],
   "Lucas de Paula": [
-    "AAFEC",
+    "(CLIENTE NA PAUTTA)",
     "Ser Ponte",
     "Tramix",
     "Planos Seguros",
@@ -37,7 +37,7 @@ const GESTORAS = {
 
 const NICHES = {
   "Hélio Rôla 90 Anos": "Geral",
-  "AAFEC": "Geral",
+  "(CLIENTE NA PAUTTA)": "Geral",
   "Ser Ponte": "Geral",
   "Tramix": "Geral",
   "Stratto": "Geral",
@@ -69,13 +69,13 @@ const FEED_DATA = {
     "agendado_coord": 1,
     "a_agendar": 5
   },
-  "AAFEC": {
-    "total": 17,
+  "(CLIENTE NA PAUTTA)": {
+    "total": 22,
     "pronto": 8,
     "postado": 6,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 11
+    "agendado": 1,
+    "agendado_coord": 7,
+    "a_agendar": 8
   },
   "Ser Ponte": {
     "total": 4,
@@ -249,13 +249,13 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "AAFEC": {
-    "total": 0,
+  "(CLIENTE NA PAUTTA)": {
+    "total": 2,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 2
   },
   "Ser Ponte": {
     "total": 0,
@@ -428,13 +428,13 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "AAFEC": {
-    "total": 0,
+  "(CLIENTE NA PAUTTA)": {
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "Ser Ponte": {
     "total": 0,
@@ -691,7 +691,99 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Na-v-spera-dos-90-anos-de-H-lio-R-la-um-convite-para-percorrer-sua-hist-ria-Visita-mediada-17-1-3f133d8db9d280d3b213eaf9b7118a1d"
     }
   ],
-  "AAFEC": [
+  "(CLIENTE NA PAUTTA)": [
+    {
+      "title": "29 de outubro | Dia Nacional do Livro - Grandes escritores, histórias que atravessaram gerações e livros que ficaram para sempre na memória.",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "29/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/29-de-outubro-Dia-Nacional-do-Livro-Grandes-escritores-hist-rias-que-atravessaram-gera-es-e-li-3f533d8db9d280bb897fd4b50dbde28a"
+    },
+    {
+      "title": "5 bons motivos para fazer parte da AAFEC. (Com versão para stories)",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/5-bons-motivos-para-fazer-parte-da-AAFEC-Com-vers-o-para-stories-3f533d8db9d28059adc3d973b9f9affb"
+    },
+    {
+      "title": "4.291 atendimentos por quedas entre idosos no IJF: o que podemos aprender com esse alerta?",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "22/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/4-291-atendimentos-por-quedas-entre-idosos-no-IJF-o-que-podemos-aprender-com-esse-alerta-3f533d8db9d280efb275f0e6006a87e8"
+    },
+    {
+      "title": "Quantas palavras você consegue encontrar?",
+      "status": "agendado_coord",
+      "formato": "🖼️ Post",
+      "date": "21/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quantas-palavras-voc-consegue-encontrar-3f533d8db9d2802e90e0ea4a732cd7bd"
+    },
+    {
+      "title": "Depois dos 60, será que precisamos mudar a forma de nos alimentar?",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "16/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Depois-dos-60-ser-que-precisamos-mudar-a-forma-de-nos-alimentar-3f533d8db9d28052a8d6ca8df55f491b"
+    },
+    {
+      "title": "TBT",
+      "status": "a_agendar",
+      "formato": "📸 Foto(s)",
+      "date": "15/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/TBT-3f533d8db9d2807ca632fc05ee20acdb"
+    },
+    {
+      "title": "Se você brincou com pelo menos 3 dessas coisas, sua infância foi inesquecível! Uma viagem no tempo para celebrar o Dia das Crianças!",
+      "status": "agendado_coord",
+      "formato": "🎠 Carrossel",
+      "date": "12/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-voc-brincou-com-pelo-menos-3-dessas-coisas-sua-inf-ncia-foi-inesquec-vel-Uma-viagem-no-tempo-p-3f533d8db9d2803ea921e1d63293d4f6"
+    },
     {
       "title": "Agenda de novembro de 2026",
       "status": "a_agendar",
@@ -721,7 +813,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Entre Fé e Memórias",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "29/10",
+      "date": "28/10",
       "missing": [
         "Design",
         "Legenda"
@@ -735,7 +827,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Entre Cantos e Contos Fortaleza",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "28/10",
+      "date": "26/10",
       "missing": [
         "Design"
       ],
@@ -773,37 +865,10 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Rosa-AAFEC-3f033d8db9d280dfb4a1e914edf135ae"
     },
     {
-      "title": "O corpo muda. O cuidado também pode mudar.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "23/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-corpo-muda-O-cuidado-tamb-m-pode-mudar-3f033d8db9d2806084fcc791e2ad486a"
-    },
-    {
-      "title": "Envelhecer também é escolher o que merece o seu tempo.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "21/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Envelhecer-tamb-m-escolher-o-que-merece-o-seu-tempo-3f033d8db9d28025a3c3c54a093c4b80"
-    },
-    {
       "title": "Depois de tantos anos cuidando dos outros, quem cuida de você?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "26/10",
+      "date": "27/10",
       "missing": [
         "Design"
       ],
@@ -814,21 +879,20 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Ter amigos também é uma forma de cuidar de si.",
-      "status": "a_agendar",
+      "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "16/10",
+      "date": "19/10",
       "missing": [
-        "Design",
-        "Legenda"
+        "Design"
       ],
       "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ter-amigos-tamb-m-uma-forma-de-cuidar-de-si-3f033d8db9d280d5b041d64ad419b19d"
     },
     {
       "title": "O que você ainda quer fazer? Sempre existe espaço para um novo plano.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "07/10",
       "missing": [],
@@ -3214,7 +3278,36 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Video-Cristina-Ramalho-3f133d8db9d2804bacd4ca8bceb35d42"
     }
   ],
-  "AAFEC": [],
+  "(CLIENTE NA PAUTTA)": [
+    {
+      "title": "Vídeo do evento Entre Cantos e Contos",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-do-evento-Entre-Cantos-e-Contos-3f533d8db9d280f3a5c4d9e437e3b58c"
+    },
+    {
+      "title": "Vídeo do Encontro Mensal da AAFEC",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "13/10",
+      "missing": [
+        "Vídeo",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-do-Encontro-Mensal-da-AAFEC-3f533d8db9d280dcb6f6cd08dad969c9"
+    }
+  ],
   "Ser Ponte": [],
   "Tramix": [
     {
@@ -3780,7 +3873,21 @@ const LINHA_VIDEO_ITEMS = {
 
 const LINHA_STORIES_ITEMS = {
   "Hélio Rôla 90 Anos": [],
-  "AAFEC": [],
+  "(CLIENTE NA PAUTTA)": [
+    {
+      "title": "Stories com informes do Encontro Mensal",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "15/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Stories-com-informes-do-Encontro-Mensal-3f533d8db9d2802589dafe0c3a89f8bb"
+    }
+  ],
   "Ser Ponte": [],
   "Tramix": [],
   "Stratto": [],
@@ -4266,7 +4373,7 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "AAFEC": [
+  "(CLIENTE NA PAUTTA)": [
     {
       "title": "Agenda de novembro de 2026",
       "priority": "p",
@@ -4580,9 +4687,9 @@ const LEGENDAS_DATA = {
     "prontas": 3,
     "total": 8
   },
-  "AAFEC": {
-    "prontas": 11,
-    "total": 17
+  "(CLIENTE NA PAUTTA)": {
+    "prontas": 17,
+    "total": 24
   },
   "Ser Ponte": {
     "prontas": 1,
@@ -4674,12 +4781,12 @@ const FORMAT_COUNTS = {
     "video": 1,
     "story": 0
   },
-  "AAFEC": {
+  "(CLIENTE NA PAUTTA)": {
     "post": 14,
-    "carrossel": 3,
-    "foto": 0,
-    "video": 0,
-    "story": 0
+    "carrossel": 7,
+    "foto": 1,
+    "video": 2,
+    "story": 1
   },
   "Ser Ponte": {
     "post": 4,
@@ -4829,7 +4936,7 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "AAFEC": {
+  "(CLIENTE NA PAUTTA)": {
     "reuniao": 0,
     "producao": 0,
     "evento": 3
