@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/10/2026, 17:11:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/10/2026, 21:09:16 **/
 
-const LAST_UPDATE = '09/10/2026, 17:11:48';
+const LAST_UPDATE = '09/10/2026, 21:09:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -63,7 +63,7 @@ const NICHES = {
 const FEED_DATA = {
   "Hélio Rôla 90 Anos": {
     "total": 7,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 1,
@@ -105,9 +105,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 5,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "Ventana": {
     "total": 0,
@@ -177,9 +177,9 @@ const FEED_DATA = {
     "total": 15,
     "pronto": 5,
     "postado": 3,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
@@ -634,10 +634,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "10/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Um-dia-antes-de-completar-90-anos-venha-caminhar-pela-hist-ria-de-H-lio-R-la-Visita-mediada-17-1-3f133d8db9d28039a7d1ec54c98cd42c"
@@ -910,7 +909,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Ter uma renda não significa estar fora da pobreza",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "09/10",
+      "date": "15/10",
       "missing": [
         "Design",
         "Legenda"
@@ -924,7 +923,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Cuidar é trabalho. Mesmo quando não existe salário.",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "08/10",
+      "date": "13/10",
       "missing": [
         "Design",
         "Legenda"
@@ -938,7 +937,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Creche também é política de renda",
       "status": "agendado_coord",
       "formato": "🖼️ Post",
-      "date": "06/10",
+      "date": "09/10",
       "missing": [
         "Design",
         "Legenda"
@@ -1318,7 +1317,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Informação adequada, diálogo e acesso às estratégias de prevenção ajudam a aproximar saúde e educação. No enfrentamento ao HPV, essa conexão pode fortalecer a mobilização e ampliar o alcance das informações nos territórios! - Dia nacional de segurança e saúde nas escolas",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "10/10",
       "missing": [],
@@ -2171,7 +2170,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Que a fé acompanhe cada caminho e que nunca falte cuidado para seguir em frente. - Dia de Nossa Senhora Aparecida",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/10",
       "missing": [],
@@ -2273,7 +2272,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Por-que-correr-pelo-fim-da-viol-ncia-contra-mulheres-e-meninas-3f333d8db9d280538681d691a5daa212"
     },
     {
-      "title": "PULA PRA 50. Dobramos as cadeira de mulheres na Assembleia Legislativa. Somos o estado que mais elegeu mulheres! É a maior bancada feminina já eleita no estado e representa 30,5% das 46 cadeiras.",
+      "title": "PULA PRA 50. Cadeiras de mulheres na Assembleia Legislativa cresceu 19,6%. Somos o estado que mais elegeu mulheres! É a maior bancada feminina já eleita no estado .",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "09/10",
@@ -2281,7 +2280,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-Dobramos-as-cadeira-de-mulheres-na-Assembleia-Legislativa-Somos-o-estado-que-mais-eleg-3f233d8db9d280cebc0aee828b2198bc"
+      "notionUrl": "https://app.notion.com/p/PULA-PRA-50-Cadeiras-de-mulheres-na-Assembleia-Legislativa-cresceu-19-6-Somos-o-estado-que-mais-e-3f233d8db9d280cebc0aee828b2198bc"
     },
     {
       "title": "Toda criança tem direito a uma infância segura. 💛 Neste Dia das Crianças, lembrar de brincar também é lembrar de proteger.",
@@ -2584,7 +2583,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Tem benefício que aparece na folha. E tem benefício que aparece na rotina.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "10/10",
+      "date": "13/10",
       "missing": [
         "Design"
       ],
