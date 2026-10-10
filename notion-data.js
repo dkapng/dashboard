@@ -1,12 +1,11 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/10/2026, 09:48:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/10/2026, 14:34:03 **/
 
-const LAST_UPDATE = '10/10/2026, 09:48:42';
+const LAST_UPDATE = '10/10/2026, 14:34:03';
 
 const GESTORAS = {
   "Mayla Valere": [
     "Hélio Rôla 90 Anos",
-    "Ventana",
-    "Di Gregório Buffet"
+    "Ventana"
   ],
   "Lucas de Paula": [
     "AAFEC",
@@ -20,6 +19,7 @@ const GESTORAS = {
     "Stratto",
     "Juntos contra o HPV",
     "Rede Pangeia",
+    "ItalaP",
     "Finseg Leal",
     "APROSSEG",
     "Daniel Maia Advocacia",
@@ -30,7 +30,7 @@ const GESTORAS = {
     "Terrartesã",
     "RR Advocacia",
     "Ortobom",
-    "ItalaP",
+    "Di Gregório Buffet",
     "Solar Coworking"
   ]
 };
@@ -65,9 +65,9 @@ const FEED_DATA = {
     "total": 7,
     "pronto": 4,
     "postado": 0,
-    "agendado": 0,
+    "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 6
+    "a_agendar": 5
   },
   "AAFEC": {
     "total": 17,
@@ -643,7 +643,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Dr. das Artes, sabia que Hélio Rôla",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "08/10",
       "missing": [],
