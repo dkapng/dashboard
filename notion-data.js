@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/10/2026, 10:12:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/10/2026, 15:13:26 **/
 
-const LAST_UPDATE = '11/10/2026, 10:12:10';
+const LAST_UPDATE = '11/10/2026, 15:13:26';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -21,7 +21,7 @@ const GESTORAS = {
     "Juntos contra o HPV",
     "Rede Pangeia",
     "ItalaP",
-    "Finseg Leal",
+    "(CLIENTE NA PAUTTA)",
     "Daniel Maia Advocacia",
     "Conecta Assessoria"
   ],
@@ -52,7 +52,6 @@ const NICHES = {
   "Ortobom": "Geral",
   "ItalaP": "Geral",
   "Grupo Mulheres do Brasil": "Geral",
-  "Finseg Leal": "Geral",
   "Di Gregório Buffet": "Geral",
   "Daniel Maia Advocacia": "Geral",
   "Conecta Assessoria": "Geral",
@@ -69,12 +68,12 @@ const FEED_DATA = {
     "a_agendar": 5
   },
   "(CLIENTE NA PAUTTA)": {
-    "total": 32,
-    "pronto": 11,
-    "postado": 6,
-    "agendado": 1,
+    "total": 45,
+    "pronto": 16,
+    "postado": 7,
+    "agendado": 4,
     "agendado_coord": 7,
-    "a_agendar": 15,
+    "a_agendar": 24,
     "st-paused": null
   },
   "Ser Ponte": {
@@ -189,14 +188,6 @@ const FEED_DATA = {
     "agendado_coord": 2,
     "a_agendar": 11
   },
-  "Finseg Leal": {
-    "total": 14,
-    "pronto": 4,
-    "postado": 1,
-    "agendado": 3,
-    "agendado_coord": 0,
-    "a_agendar": 10
-  },
   "Di Gregório Buffet": {
     "total": 0,
     "pronto": 0,
@@ -241,12 +232,12 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "(CLIENTE NA PAUTTA)": {
-    "total": 9,
-    "pronto": 5,
+    "total": 16,
+    "pronto": 12,
     "postado": 3,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 5
+    "a_agendar": 11
   },
   "Ser Ponte": {
     "total": 0,
@@ -359,14 +350,6 @@ const VIDEO_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
-  },
-  "Finseg Leal": {
-    "total": 4,
-    "pronto": 4,
-    "postado": 0,
-    "agendado": 1,
-    "agendado_coord": 0,
-    "a_agendar": 3
   },
   "Di Gregório Buffet": {
     "total": 0,
@@ -531,14 +514,6 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Finseg Leal": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
   "Di Gregório Buffet": {
     "total": 0,
     "pronto": 0,
@@ -667,6 +642,34 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "(CLIENTE NA PAUTTA)": [
+    {
+      "title": "O vizinho de cima pode virar o assunto principal do seu mês.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "21/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-vizinho-de-cima-pode-virar-o-assunto-principal-do-seu-m-s-3f633d8db9d280cbb170f28e605405ba"
+    },
+    {
+      "title": "Tem gente que organiza a festa de casamento inteira e esquece dessa conversa.",
+      "status": "a_agendar",
+      "formato": "🎠 Carrossel",
+      "date": "16/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-gente-que-organiza-a-festa-de-casamento-inteira-e-esquece-dessa-conversa-3f633d8db9d280fbb4eeeb18e78f4816"
+    },
     {
       "title": "O carro que você dirige diz mais sobre sua personalidade ou sobre o momento da vida em que você está?",
       "status": "a_agendar",
@@ -935,6 +938,128 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/1-de-outubro-Dia-do-Idoso-Envelhecer-tamb-m-continuar-fazendo-hist-ria-3eb33d8db9d2802bb1e1d5bf46e85a76"
     },
     {
+      "title": "Se amanhã desse tudo errado, você saberia o que está protegido?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "28/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Se-amanh-desse-tudo-errado-voc-saberia-o-que-est-protegido-3eb33d8db9d280b39f21d9c3b744f62b"
+    },
+    {
+      "title": "O que seu plano facilita quando o assunto é prevenção?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "30/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-seu-plano-facilita-quando-o-assunto-preven-o-3eb33d8db9d28081ac35f4b8c77ab5db"
+    },
+    {
+      "title": "Uso particular, trabalho, aplicativo: o que muda no seguro?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "26/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Uso-particular-trabalho-aplicativo-o-que-muda-no-seguro-3eb33d8db9d280f59bf0c96db778f05f"
+    },
+    {
+      "title": "5 minutos depois do acidente: o que você não deveria fazer?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "23/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/5-minutos-depois-do-acidente-o-que-voc-n-o-deveria-fazer-3eb33d8db9d28051ab3dc53f1e390b32"
+    },
+    {
+      "title": "A confiança que entregamos também é construída por vocês. - Dia do Securitário",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "19/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/A-confian-a-que-entregamos-tamb-m-constru-da-por-voc-s-Dia-do-Securit-rio-3eb33d8db9d280c5b2fac527520f2995"
+    },
+    {
+      "title": "Tem TED que vale mais do que dinheiro. É o que entrega tranquilidade, esperança e dignidade. - 12 de outubro, dia do corretor de seguros",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "12/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Tem-TED-que-vale-mais-do-que-dinheiro-o-que-entrega-tranquilidade-esperan-a-e-dignidade-12-de-3eb33d8db9d2802f8a3fd3f345fdfbb1"
+    },
+    {
+      "title": "O problema de ser a pessoa que resolve tudo.",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-problema-de-ser-a-pessoa-que-resolve-tudo-3eb33d8db9d2807e864cebe00bed924d"
+    },
+    {
+      "title": "Quando foi a última vez que você cuidou da sua saúde antes de precisar? Outubro Rosa não é só sobre lembrar. É sobre agir.",
+      "status": "postado",
+      "formato": "🖼️ Post",
+      "date": "05/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-cuidou-da-sua-sa-de-antes-de-precisar-Outubro-Rosa-n-o-s-sobre--3eb33d8db9d2804791b3fa8ef5bdddc6"
+    },
+    {
+      "title": "Seu carro pode estar sendo usado por alguém que a apólice não considera da mesma forma.",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "09/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Seu-carro-pode-estar-sendo-usado-por-algu-m-que-a-ap-lice-n-o-considera-da-mesma-forma-3eb33d8db9d280528fc9f60741a0be93"
+    },
+    {
+      "title": "Depois dos 44, o que muda na hora de escolher um plano de saúde?",
+      "status": "agendado",
+      "formato": "🖼️ Post",
+      "date": "02/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Depois-dos-44-o-que-muda-na-hora-de-escolher-um-plano-de-sa-de-3eb33d8db9d28017ae63e53e529dca26"
+    },
+    {
       "title": "Agenda de outubro de 2026",
       "status": "postado",
       "formato": "🎠 Carrossel",
@@ -1055,6 +1180,17 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-um-corretor-faz-por-voc-depois-que-a-ap-lice-est-assinada-Descubra-o-valor-de-ter-um-corret-3e333d8db9d280a6a485d75caa7028a7"
+    },
+    {
+      "title": "3 contas que ninguém coloca no orçamento — até elas aparecerem.",
+      "status": "agendado",
+      "formato": "🎠 Carrossel",
+      "date": "03/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/3-contas-que-ningu-m-coloca-no-or-amento-at-elas-aparecerem-3d033d8db9d28036b282d081fcb85d71"
     },
     {
       "title": "Atenção, associados: criminosos estão aplicando o golpe do corretor",
@@ -2625,182 +2761,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-crise-clim-tica-tamb-m-uma-quest-o-de-g-nero-3ce33d8db9d2802682ecda63a96c0e8f"
     }
   ],
-  "Finseg Leal": [
-    {
-      "title": "Se amanhã desse tudo errado, você saberia o que está protegido?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Se-amanh-desse-tudo-errado-voc-saberia-o-que-est-protegido-3eb33d8db9d280b39f21d9c3b744f62b"
-    },
-    {
-      "title": "O que seu plano facilita quando o assunto é prevenção?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-seu-plano-facilita-quando-o-assunto-preven-o-3eb33d8db9d28081ac35f4b8c77ab5db"
-    },
-    {
-      "title": "Uso particular, trabalho, aplicativo: o que muda no seguro?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uso-particular-trabalho-aplicativo-o-que-muda-no-seguro-3eb33d8db9d280f59bf0c96db778f05f"
-    },
-    {
-      "title": "A pergunta não é só ‘quanto custa?’. É ‘onde eu consigo ser atendido?’",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "23/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-pergunta-n-o-s-quanto-custa-onde-eu-consigo-ser-atendido-3eb33d8db9d280cf914ecf512dd7c02a"
-    },
-    {
-      "title": "5 minutos depois do acidente: o que você não deveria fazer?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "22/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/5-minutos-depois-do-acidente-o-que-voc-n-o-deveria-fazer-3eb33d8db9d28051ab3dc53f1e390b32"
-    },
-    {
-      "title": "Quem trabalha com proteção também merece ser lembrado. - Dia do Securitário",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "19/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quem-trabalha-com-prote-o-tamb-m-merece-ser-lembrado-Dia-do-Securit-rio-3eb33d8db9d280c5b2fac527520f2995"
-    },
-    {
-      "title": "R$ 2.000 de diferença no seguro. R$ 20.000 de diferença no problema.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/R-2-000-de-diferen-a-no-seguro-R-20-000-de-diferen-a-no-problema-3eb33d8db9d28059af18fc83bb3f6bf4"
-    },
-    {
-      "title": "Rede credenciada: o detalhe que importa quando chega a hora.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "16/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Rede-credenciada-o-detalhe-que-importa-quando-chega-a-hora-3eb33d8db9d2805e8df5d11a0c63b5da"
-    },
-    {
-      "title": "O que você não vê quando recebe uma cotação? - Dia do Corretor de Seguros",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "12/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-que-voc-n-o-v-quando-recebe-uma-cota-o-Dia-do-Corretor-de-Seguros-3eb33d8db9d2802f8a3fd3f345fdfbb1"
-    },
-    {
-      "title": "Tem benefício que aparece na folha. E tem benefício que aparece na rotina.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "13/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Tem-benef-cio-que-aparece-na-folha-E-tem-benef-cio-que-aparece-na-rotina-3eb33d8db9d2807e864cebe00bed924d"
-    },
-    {
-      "title": "Quando foi a última vez que você cuidou da sua saúde antes de precisar? Outubro Rosa não é só sobre lembrar. É sobre agir.",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "05/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quando-foi-a-ltima-vez-que-voc-cuidou-da-sua-sa-de-antes-de-precisar-Outubro-Rosa-n-o-s-sobre--3eb33d8db9d2804791b3fa8ef5bdddc6"
-    },
-    {
-      "title": "Seu carro pode estar sendo usado por alguém que a apólice não considera da mesma forma.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "09/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-carro-pode-estar-sendo-usado-por-algu-m-que-a-ap-lice-n-o-considera-da-mesma-forma-3eb33d8db9d280528fc9f60741a0be93"
-    },
-    {
-      "title": "Depois dos 44, o que muda na hora de escolher um plano de saúde?",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "02/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Depois-dos-44-o-que-muda-na-hora-de-escolher-um-plano-de-sa-de-3eb33d8db9d28017ae63e53e529dca26"
-    },
-    {
-      "title": "3 contas que ninguém coloca no orçamento — até elas aparecerem.",
-      "status": "agendado",
-      "formato": "🎠 Carrossel",
-      "date": "03/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/3-contas-que-ningu-m-coloca-no-or-amento-at-elas-aparecerem-3d033d8db9d28036b282d081fcb85d71"
-    }
-  ],
   "Di Gregório Buffet": [],
   "Daniel Maia Advocacia": [
     {
@@ -3317,6 +3277,95 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-do-corretor-3f433d8db9d28056b421f3bc0aed4e09"
     },
     {
+      "title": "Perdeu a chave",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "29/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Perdeu-a-chave-3ea33d8db9d280a3bfaacf88e442d2bc"
+    },
+    {
+      "title": "Carro reserva",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "27/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Carro-reserva-3ea33d8db9d2800cb99bf43198573ecf"
+    },
+    {
+      "title": "Franquia menor",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "22/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Franquia-menor-3ea33d8db9d2808ab2eaee45b7eeea3d"
+    },
+    {
+      "title": "Bateu no uber",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "20/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Bateu-no-uber-3ea33d8db9d280ee9c0bd0a4dcc49817"
+    },
+    {
+      "title": "Bateu o carro?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "15/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Bateu-o-carro-3ea33d8db9d280708010f3395f45797e"
+    },
+    {
+      "title": "Quanto tem na minha apolice?",
+      "status": "a_agendar",
+      "formato": "🎥 Vídeo vertical",
+      "date": "13/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Quanto-tem-na-minha-apolice-3ea33d8db9d280bdbe40dd97c6fc66d0"
+    },
+    {
+      "title": "Emprestei meu carro",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "07/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. Finalizado",
+      "notionUrl": "https://app.notion.com/p/Emprestei-meu-carro-3ea33d8db9d280489f1ec2edf5cf39e1"
+    },
+    {
       "title": "Devo fazer um seguro ",
       "status": "a_agendar",
       "formato": "🎥 Vídeo vertical",
@@ -3732,58 +3781,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 2. A editar",
       "notionUrl": "https://app.notion.com/p/V-deo-com-texto-e-narra-o-3e633d8db9d280d4bf34eb02d74eb7e1"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Bateu no uber",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/10",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Bateu-no-uber-3ea33d8db9d280ee9c0bd0a4dcc49817"
-    },
-    {
-      "title": "Bateu o carro?",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/10",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Bateu-o-carro-3ea33d8db9d280708010f3395f45797e"
-    },
-    {
-      "title": "Quanto tem na minha apolice?",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/10",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Quanto-tem-na-minha-apolice-3ea33d8db9d280bdbe40dd97c6fc66d0"
-    },
-    {
-      "title": "Emprestei meu carro",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/10",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Emprestei-meu-carro-3ea33d8db9d280489f1ec2edf5cf39e1"
     }
   ],
   "Di Gregório Buffet": [],
@@ -4223,7 +4220,6 @@ const LINHA_STORIES_ITEMS = {
     }
   ],
   "Grupo Mulheres do Brasil": [],
-  "Finseg Leal": [],
   "Di Gregório Buffet": [],
   "Daniel Maia Advocacia": [],
   "Conecta Assessoria": [
@@ -4365,6 +4361,22 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
       "gestora": "Equipe",
       "date": "23/10"
+    },
+    {
+      "title": "Criativos para o tráfego",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criativos-para-o-tr-fego-3f333d8db9d280378bd0dba460e913ac",
+      "gestora": "Equipe",
+      "date": "09/10"
+    },
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -4383,24 +4395,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
       "gestora": "Equipe",
       "date": "04/09"
-    }
-  ],
-  "Finseg Leal": [
-    {
-      "title": "Criativos para o tráfego",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criativos-para-o-tr-fego-3f333d8db9d280378bd0dba460e913ac",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Plannea": [
@@ -4657,11 +4651,10 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Planos Seguros": "marcada",
-  "Finseg Leal": "marcada",
+  "(CLIENTE NA PAUTTA)": "marcada",
   "Tramix": "marcada",
   "Ortobom": "marcada",
-  "Conecta Assessoria": "marcada",
-  "(CLIENTE NA PAUTTA)": "marcada"
+  "Conecta Assessoria": "marcada"
 };
 
 const APRESENTACAO_DATA = {};
@@ -4672,8 +4665,8 @@ const LEGENDAS_DATA = {
     "total": 8
   },
   "(CLIENTE NA PAUTTA)": {
-    "prontas": 30,
-    "total": 41
+    "prontas": 42,
+    "total": 61
   },
   "Ser Ponte": {
     "prontas": 1,
@@ -4731,10 +4724,6 @@ const LEGENDAS_DATA = {
     "prontas": 10,
     "total": 21
   },
-  "Finseg Leal": {
-    "prontas": 15,
-    "total": 18
-  },
   "Di Gregório Buffet": {
     "prontas": 0,
     "total": 0
@@ -4762,10 +4751,10 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "(CLIENTE NA PAUTTA)": {
-    "post": 23,
-    "carrossel": 8,
+    "post": 34,
+    "carrossel": 10,
     "foto": 1,
-    "video": 9,
+    "video": 16,
     "story": 1
   },
   "Ser Ponte": {
@@ -4866,13 +4855,6 @@ const FORMAT_COUNTS = {
     "video": 1,
     "story": 0
   },
-  "Finseg Leal": {
-    "post": 13,
-    "carrossel": 1,
-    "foto": 0,
-    "video": 4,
-    "story": 0
-  },
   "Di Gregório Buffet": {
     "post": 0,
     "carrossel": 0,
@@ -4911,7 +4893,7 @@ const AGENDA_COUNTS = {
   },
   "(CLIENTE NA PAUTTA)": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 3
   },
   "Ser Ponte": {
@@ -4982,11 +4964,6 @@ const AGENDA_COUNTS = {
   "Grupo Mulheres do Brasil": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
-  },
-  "Finseg Leal": {
-    "reuniao": 0,
-    "producao": 1,
     "evento": 0
   },
   "Di Gregório Buffet": {
