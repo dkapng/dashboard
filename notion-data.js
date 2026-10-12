@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/10/2026, 22:28:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/10/2026, 04:47:14 **/
 
-const LAST_UPDATE = '11/10/2026, 22:28:26';
+const LAST_UPDATE = '12/10/2026, 04:47:14';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4445,7 +4445,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Designs para performance #5",
       "priority": "ppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Designs-para-performance-5-3f333d8db9d280378bd0dba460e913ac",
       "gestora": "Equipe",
       "date": "09/10"
