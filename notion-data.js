@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/10/2026, 04:47:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/10/2026, 14:11:57 **/
 
-const LAST_UPDATE = '12/10/2026, 04:47:14';
+const LAST_UPDATE = '12/10/2026, 14:11:57';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -23,7 +23,7 @@ const GESTORAS = {
     "ItalaP",
     "(Na Pautta) Finseg Leal",
     "Daniel Maia Advocacia",
-    "Conecta Assessoria"
+    "(Na Pautta) Conecta Assessoria"
   ],
   "Anna Ventana": [
     "Univendas",
@@ -56,7 +56,7 @@ const NICHES = {
   "Di Gregório Buffet": "Geral",
   "(Na Pautta) APROSSEG": "Geral",
   "Daniel Maia Advocacia": "Geral",
-  "Conecta Assessoria": "Geral",
+  "(Na Pautta) Conecta Assessoria": "Geral",
   "Solar Coworking": "Geral"
 };
 
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "(Na Pautta) AAFEC": {
     "total": 22,
-    "pronto": 8,
+    "pronto": 9,
     "postado": 6,
     "agendado": 1,
     "agendado_coord": 7,
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 19,
     "pronto": 10,
-    "postado": 6,
+    "postado": 7,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 11
+    "a_agendar": 10
   },
   "(Na Pautta) Finseg Leal": {
     "total": 13,
@@ -222,13 +222,13 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 6
   },
-  "Conecta Assessoria": {
-    "total": 14,
+  "(Na Pautta) Conecta Assessoria": {
+    "total": 13,
     "pronto": 4,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "Solar Coworking": {
     "total": 12,
@@ -401,7 +401,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Conecta Assessoria": {
+  "(Na Pautta) Conecta Assessoria": {
     "total": 5,
     "pronto": 2,
     "postado": 0,
@@ -580,13 +580,13 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Conecta Assessoria": {
-    "total": 6,
-    "pronto": 3,
+  "(Na Pautta) Conecta Assessoria": {
+    "total": 7,
+    "pronto": 4,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 1,
-    "a_agendar": 3
+    "a_agendar": 4
   },
   "Solar Coworking": {
     "total": 4,
@@ -776,10 +776,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "12/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-voc-brincou-com-pelo-menos-3-dessas-coisas-sua-inf-ncia-foi-inesquec-vel-Uma-viagem-no-tempo-p-3f533d8db9d2803ea921e1d63293d4f6"
@@ -1042,7 +1040,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Quem tem uma pequena confecção também precisa olhar para o futuro do setor.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/10",
+      "date": "13/10",
       "missing": [
         "Design",
         "Legenda"
@@ -1056,7 +1054,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A transformação da indústria têxtil também passa pelo Ceará.",
       "status": "postado",
       "formato": "🖼️ Post",
-      "date": "12/10",
+      "date": "09/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
@@ -2014,7 +2012,7 @@ const LINHA_FEED_ITEMS = {
       "title": "O empresário que centraliza tudo realmente é está fazendo a melhor escolha?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/10",
+      "date": "13/10",
       "missing": [
         "Legenda"
       ],
@@ -2348,12 +2346,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Toda criança tem direito a uma infância segura. 💛 Neste Dia das Crianças, lembrar de brincar também é lembrar de proteger.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2929,7 +2925,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-foi-chamado-para-prestar-esclarecimentos-Precisa-ir-acompanhado-de-advogado-3dc33d8db9d280bbaa19d803b964307f"
     }
   ],
-  "Conecta Assessoria": [
+  "(Na Pautta) Conecta Assessoria": [
     {
       "title": "SEGURO DE VIDA PORTO -  Até 35% OFF para proteger o que mais importa. H2: ",
       "status": "a_agendar",
@@ -3046,19 +3042,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Voc-recebeu-tr-s-propostas-de-plano-de-sa-de-E-agora-A-menor-mensalidade-nem-sempre-conta-a-hist--3e433d8db9d28023ba2ec1d02bbdb915"
-    },
-    {
-      "title": "Tem gente que vende seguro. E tem quem acompanhe decisões que podem mudar a vida de alguém. Feliz Dia do corretor de seguros!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "12/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Tem-gente-que-vende-seguro-E-tem-quem-acompanhe-decis-es-que-podem-mudar-a-vida-de-algu-m-Feliz-Di-3e433d8db9d2800ab71bd9597861af62"
     },
     {
       "title": "Você trabalha todos os meses para construir sua renda. Mas já parou para pensar no que aconteceria com ela se você precisasse parar?",
@@ -3843,7 +3826,7 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "Daniel Maia Advocacia": [],
-  "Conecta Assessoria": [
+  "(Na Pautta) Conecta Assessoria": [
     {
       "title": "Vídeo",
       "status": "agendado",
@@ -4282,7 +4265,7 @@ const LINHA_STORIES_ITEMS = {
   "Di Gregório Buffet": [],
   "(Na Pautta) APROSSEG": [],
   "Daniel Maia Advocacia": [],
-  "Conecta Assessoria": [
+  "(Na Pautta) Conecta Assessoria": [
     {
       "title": "Aniversário do Felipe",
       "status": "agendado",
@@ -4293,6 +4276,17 @@ const LINHA_STORIES_ITEMS = {
       "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Anivers-rio-do-Felipe-3f433d8db9d2809ba5c2e2b01fe627e6"
+    },
+    {
+      "title": "https://drive.google.com/file/d/1z_Osdw0n98_5O3-GjUJa6OAaOIbRvpBL/view?usp=drive_link",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "13/10",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/https-drive-google-com-file-d-1z_Osdw0n98_5O3-GjUJa6OAaOIbRvpBL-view-usp-drive_link-3f433d8db9d2800699b9ced0dba3a323"
     },
     {
       "title": "E se o seguro de vida pudesse cuidar de você enquanto você está vivo?",
@@ -4716,7 +4710,7 @@ const CAPTACAO_DATA = {
   "(Na Pautta) Finseg Leal": "marcada",
   "Tramix": "marcada",
   "Ortobom": "marcada",
-  "Conecta Assessoria": "marcada",
+  "(Na Pautta) Conecta Assessoria": "marcada",
   "(Na Pautta) APROSSEG": "marcada"
 };
 
@@ -4784,7 +4778,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 10,
+    "prontas": 11,
     "total": 21
   },
   "(Na Pautta) Finseg Leal": {
@@ -4803,9 +4797,9 @@ const LEGENDAS_DATA = {
     "prontas": 9,
     "total": 10
   },
-  "Conecta Assessoria": {
-    "prontas": 20,
-    "total": 22
+  "(Na Pautta) Conecta Assessoria": {
+    "prontas": 18,
+    "total": 20
   },
   "Solar Coworking": {
     "prontas": 12,
@@ -4954,12 +4948,12 @@ const FORMAT_COUNTS = {
     "video": 0,
     "story": 0
   },
-  "Conecta Assessoria": {
-    "post": 12,
+  "(Na Pautta) Conecta Assessoria": {
+    "post": 11,
     "carrossel": 2,
     "foto": 0,
     "video": 5,
-    "story": 6
+    "story": 7
   },
   "Solar Coworking": {
     "post": 12,
@@ -5071,7 +5065,7 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "Conecta Assessoria": {
+  "(Na Pautta) Conecta Assessoria": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
