@@ -1,11 +1,11 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/10/2026, 14:11:57 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/10/2026, 20:41:44 **/
 
-const LAST_UPDATE = '12/10/2026, 14:11:57';
+const LAST_UPDATE = '12/10/2026, 20:41:44';
 
 const GESTORAS = {
   "Mayla Valere": [
-    "Hélio Rôla 90 Anos",
-    "Ventana",
+    "(Na Pautta) Hélio Rôla 90 Anos",
+    "(Na Pautta) Ventana",
     "(Na Pautta) APROSSEG"
   ],
   "Lucas de Paula": [
@@ -22,7 +22,7 @@ const GESTORAS = {
     "Rede Pangeia",
     "ItalaP",
     "(Na Pautta) Finseg Leal",
-    "Daniel Maia Advocacia",
+    "(Na Pautta) Daniel Maia Advocacia",
     "(Na Pautta) Conecta Assessoria"
   ],
   "Anna Ventana": [
@@ -30,19 +30,19 @@ const GESTORAS = {
     "Terrartesã",
     "RR Advocacia",
     "Ortobom",
-    "Di Gregório Buffet",
+    "(Na Pautta) Di Gregório Buffet",
     "Solar Coworking"
   ]
 };
 
 const NICHES = {
-  "Hélio Rôla 90 Anos": "Geral",
+  "(Na Pautta) Hélio Rôla 90 Anos": "Geral",
   "(Na Pautta) AAFEC": "Geral",
   "Ser Ponte": "Geral",
   "Tramix": "Geral",
   "Stratto": "Geral",
   "Juntos contra o HPV": "Geral",
-  "Ventana": "Geral",
+  "(Na Pautta) Ventana": "Geral",
   "Univendas": "Geral",
   "Terrartesã": "Geral",
   "RR Advocacia": "Geral",
@@ -53,25 +53,25 @@ const NICHES = {
   "ItalaP": "Geral",
   "Grupo Mulheres do Brasil": "Geral",
   "(Na Pautta) Finseg Leal": "Geral",
-  "Di Gregório Buffet": "Geral",
+  "(Na Pautta) Di Gregório Buffet": "Geral",
   "(Na Pautta) APROSSEG": "Geral",
-  "Daniel Maia Advocacia": "Geral",
+  "(Na Pautta) Daniel Maia Advocacia": "Geral",
   "(Na Pautta) Conecta Assessoria": "Geral",
   "Solar Coworking": "Geral"
 };
 
 const FEED_DATA = {
-  "Hélio Rôla 90 Anos": {
+  "(Na Pautta) Hélio Rôla 90 Anos": {
     "total": 7,
     "pronto": 4,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 5
+    "a_agendar": 4
   },
   "(Na Pautta) AAFEC": {
     "total": 22,
-    "pronto": 9,
+    "pronto": 15,
     "postado": 6,
     "agendado": 1,
     "agendado_coord": 7,
@@ -109,7 +109,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 10
   },
-  "Ventana": {
+  "(Na Pautta) Ventana": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -197,7 +197,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 9
   },
-  "Di Gregório Buffet": {
+  "(Na Pautta) Di Gregório Buffet": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -214,7 +214,7 @@ const FEED_DATA = {
     "a_agendar": 7,
     "st-paused": null
   },
-  "Daniel Maia Advocacia": {
+  "(Na Pautta) Daniel Maia Advocacia": {
     "total": 9,
     "pronto": 3,
     "postado": 1,
@@ -241,11 +241,11 @@ const FEED_DATA = {
 };
 
 const VIDEO_DATA = {
-  "Hélio Rôla 90 Anos": {
+  "(Na Pautta) Hélio Rôla 90 Anos": {
     "total": 1,
     "pronto": 1,
     "postado": 0,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 0
   },
@@ -289,7 +289,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "Ventana": {
+  "(Na Pautta) Ventana": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -377,7 +377,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 6
   },
-  "Di Gregório Buffet": {
+  "(Na Pautta) Di Gregório Buffet": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -393,7 +393,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "Daniel Maia Advocacia": {
+  "(Na Pautta) Daniel Maia Advocacia": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -420,7 +420,7 @@ const VIDEO_DATA = {
 };
 
 const STORIES_DATA = {
-  "Hélio Rôla 90 Anos": {
+  "(Na Pautta) Hélio Rôla 90 Anos": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -468,7 +468,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Ventana": {
+  "(Na Pautta) Ventana": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -556,7 +556,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Di Gregório Buffet": {
+  "(Na Pautta) Di Gregório Buffet": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -572,13 +572,13 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Daniel Maia Advocacia": {
-    "total": 0,
+  "(Na Pautta) Daniel Maia Advocacia": {
+    "total": 1,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 0
+    "a_agendar": 1
   },
   "(Na Pautta) Conecta Assessoria": {
     "total": 7,
@@ -599,12 +599,12 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
-  "Hélio Rôla 90 Anos": [
+  "(Na Pautta) Hélio Rôla 90 Anos": [
     {
-      "title": "Isso é obra de arte? Hélio provavelmente gostaria da pergunta.",
+      "title": "Afinal, quantos Hélios cabem em 90 anos?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/10",
+      "date": "16/10",
       "missing": [
         "Design",
         "Legenda"
@@ -612,13 +612,13 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Isso-obra-de-arte-H-lio-provavelmente-gostaria-da-pergunta-3f133d8db9d280eeb2a4e6442576251a"
+      "notionUrl": "https://app.notion.com/p/Afinal-quantos-H-lios-cabem-em-90-anos-3f733d8db9d28027a462c0037c99a0a8"
     },
     {
       "title": "E se escolher um único estilo fosse justamente o contrário de ser artista?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "12/10",
+      "date": "15/10",
       "missing": [
         "Design",
         "Legenda"
@@ -632,7 +632,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Um dia antes de completar 90 anos, venha caminhar pela história de Hélio Rôla — Visita mediada, 17/10 às 10h no MAUC",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "10/10",
+      "date": "14/10",
       "missing": [
         "Legenda"
       ],
@@ -654,14 +654,12 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Antes de existir o artista, existia um menino desenhando nas calçadas de Fortaleza.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "09/10",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "12/10",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-existir-o-artista-existia-um-menino-desenhando-nas-cal-adas-de-Fortaleza-3f133d8db9d280969c7bc3827f57bfd0"
     },
@@ -710,10 +708,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "23/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-bons-motivos-para-fazer-parte-da-AAFEC-Com-vers-o-para-stories-3f533d8db9d28059adc3d973b9f9affb"
@@ -723,10 +719,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "22/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/4-291-atendimentos-por-quedas-entre-idosos-no-IJF-o-que-podemos-aprender-com-esse-alerta-3f533d8db9d280efb275f0e6006a87e8"
@@ -736,10 +730,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "21/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quantas-palavras-voc-consegue-encontrar-3f533d8db9d2802e90e0ea4a732cd7bd"
@@ -749,10 +741,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "16/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Depois-dos-60-ser-que-precisamos-mudar-a-forma-de-nos-alimentar-3f533d8db9d28052a8d6ca8df55f491b"
@@ -867,10 +857,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "27/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Depois-de-tantos-anos-cuidando-dos-outros-quem-cuida-de-voc-3f033d8db9d28030ae10ce2984d393d8"
@@ -880,10 +868,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "19/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ter-amigos-tamb-m-uma-forma-de-cuidar-de-si-3f033d8db9d280d5b041d64ad419b19d"
@@ -1422,7 +1408,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-simp-sio-terminou-Um-encontro-reuniu-ci-ncia-experi-ncias-e-pessoas-de-diferentes-territ-rios-A-3e533d8db9d280428e6fe3721ae7dc77"
     }
   ],
-  "Ventana": [],
+  "(Na Pautta) Ventana": [],
   "Univendas": [
     {
       "title": "Hoje celebramos quem transforma proteção em cuidado. 💚 Feliz Dia do Corretor de Planos!",
@@ -2684,7 +2670,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/3-contas-que-ningu-m-coloca-no-or-amento-at-elas-aparecerem-3d033d8db9d28036b282d081fcb85d71"
     }
   ],
-  "Di Gregório Buffet": [],
+  "(Na Pautta) Di Gregório Buffet": [],
   "(Na Pautta) APROSSEG": [
     {
       "title": "O carro que você dirige diz mais sobre sua personalidade ou sobre o momento da vida em que você está?",
@@ -2812,7 +2798,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-um-corretor-faz-por-voc-depois-que-a-ap-lice-est-assinada-Descubra-o-valor-de-ter-um-corret-3e333d8db9d280a6a485d75caa7028a7"
     }
   ],
-  "Daniel Maia Advocacia": [
+  "(Na Pautta) Daniel Maia Advocacia": [
     {
       "title": "Seu cliente não pagou. Você sabe quais documentos precisa guardar antes de cobrar judicialmente. ",
       "status": "a_agendar",
@@ -2867,7 +2853,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Antes de ensinar Direito, precisei entender que conhecimento só faz sentido quando pode transformar alguém - Dia do professor",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "16/10",
+      "date": "15/10",
       "missing": [
         "Design"
       ],
@@ -2880,7 +2866,7 @@ const LINHA_FEED_ITEMS = {
       "title": "\"É um contrato simples, não precisa de advogado.\" Será?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "14/10",
+      "date": "13/10",
       "missing": [
         "Design"
       ],
@@ -2893,7 +2879,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Seu sócio pode vender a participação dele para qualquer pessoa?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "20/10",
+      "date": "16/10",
       "missing": [
         "Design"
       ],
@@ -3249,7 +3235,18 @@ const LINHA_FEED_ITEMS = {
 };
 
 const LINHA_VIDEO_ITEMS = {
-  "Hélio Rôla 90 Anos": [
+  "(Na Pautta) Hélio Rôla 90 Anos": [
+    {
+      "title": "Depoimentos de curadores, artistas",
+      "status": "agendado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "13/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Depoimentos-de-curadores-artistas-3f733d8db9d280f2ba78ee224ed8a643"
+    },
     {
       "title": "[Video Cristina Ramalho]",
       "status": "agendado",
@@ -3410,7 +3407,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-com-imagens-e-narra-o-3d633d8db9d280d095edfe3a37325aac"
     }
   ],
-  "Ventana": [],
+  "(Na Pautta) Ventana": [],
   "Univendas": [],
   "Terrartesã": [],
   "RR Advocacia": [],
@@ -3737,7 +3734,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Emprestei-meu-carro-3ea33d8db9d280489f1ec2edf5cf39e1"
     }
   ],
-  "Di Gregório Buffet": [],
+  "(Na Pautta) Di Gregório Buffet": [],
   "(Na Pautta) APROSSEG": [
     {
       "title": "https://drive.google.com/drive/folders/1DqlnW4vCAjDWHfIrLFSDmKmSs6yB4ow2",
@@ -3825,7 +3822,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Eu-me-cuido-porque-Outubro-rosa-3db33d8db9d28028a84bdf723bfdd792"
     }
   ],
-  "Daniel Maia Advocacia": [],
+  "(Na Pautta) Daniel Maia Advocacia": [],
   "(Na Pautta) Conecta Assessoria": [
     {
       "title": "Vídeo",
@@ -3895,7 +3892,7 @@ const LINHA_VIDEO_ITEMS = {
 };
 
 const LINHA_STORIES_ITEMS = {
-  "Hélio Rôla 90 Anos": [],
+  "(Na Pautta) Hélio Rôla 90 Anos": [],
   "(Na Pautta) AAFEC": [
     {
       "title": "Stories com informes do Encontro Mensal",
@@ -3915,7 +3912,7 @@ const LINHA_STORIES_ITEMS = {
   "Tramix": [],
   "Stratto": [],
   "Juntos contra o HPV": [],
-  "Ventana": [],
+  "(Na Pautta) Ventana": [],
   "Univendas": [
     {
       "title": "Sintomas de AVC",
@@ -4262,9 +4259,23 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [],
   "(Na Pautta) Finseg Leal": [],
-  "Di Gregório Buffet": [],
+  "(Na Pautta) Di Gregório Buffet": [],
   "(Na Pautta) APROSSEG": [],
-  "Daniel Maia Advocacia": [],
+  "(Na Pautta) Daniel Maia Advocacia": [
+    {
+      "title": "Feliz aniversário, Rander",
+      "status": "a_agendar",
+      "formato": "📱 Story",
+      "date": "13/10",
+      "missing": [
+        "Design"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Rander-3a533d8db9d280979cb7dbb020aeeb2a"
+    }
+  ],
   "(Na Pautta) Conecta Assessoria": [
     {
       "title": "Aniversário do Felipe",
@@ -4417,7 +4428,7 @@ const DEMANDAS_EXTRAS = {
       "date": "23/10"
     }
   ],
-  "Daniel Maia Advocacia": [
+  "(Na Pautta) Daniel Maia Advocacia": [
     {
       "title": "Vaga de estágio",
       "priority": "pp",
@@ -4613,17 +4624,9 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
       "gestora": "Equipe",
       "date": "30/09"
-    },
-    {
-      "title": "Mídia kit para a corrida de 2026",
-      "priority": "pp",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/M-dia-kit-para-a-corrida-de-2026-36b33d8db9d280f28675f7782f682e2f",
-      "gestora": "Equipe",
-      "date": "17/06"
     }
   ],
-  "Ventana": [
+  "(Na Pautta) Ventana": [
     {
       "title": "Cartão de visitas para Mayla",
       "priority": "p",
@@ -4641,7 +4644,7 @@ const DEMANDAS_EXTRAS = {
       "date": "27/07"
     }
   ],
-  "Di Gregório Buffet": [
+  "(Na Pautta) Di Gregório Buffet": [
     {
       "title": "Narração para vídeo sobre casamentos",
       "priority": "p",
@@ -4706,6 +4709,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "(Na Pautta) Hélio Rôla 90 Anos": "marcada",
   "Planos Seguros": "marcada",
   "(Na Pautta) Finseg Leal": "marcada",
   "Tramix": "marcada",
@@ -4717,9 +4721,9 @@ const CAPTACAO_DATA = {
 const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
-  "Hélio Rôla 90 Anos": {
-    "prontas": 3,
-    "total": 8
+  "(Na Pautta) Hélio Rôla 90 Anos": {
+    "prontas": 5,
+    "total": 9
   },
   "(Na Pautta) AAFEC": {
     "prontas": 17,
@@ -4741,9 +4745,9 @@ const LEGENDAS_DATA = {
     "prontas": 17,
     "total": 20
   },
-  "Ventana": {
+  "(Na Pautta) Ventana": {
     "prontas": 0,
-    "total": 3
+    "total": 2
   },
   "Univendas": {
     "prontas": 13,
@@ -4785,7 +4789,7 @@ const LEGENDAS_DATA = {
     "prontas": 12,
     "total": 20
   },
-  "Di Gregório Buffet": {
+  "(Na Pautta) Di Gregório Buffet": {
     "prontas": 0,
     "total": 0
   },
@@ -4793,9 +4797,9 @@ const LEGENDAS_DATA = {
     "prontas": 13,
     "total": 17
   },
-  "Daniel Maia Advocacia": {
+  "(Na Pautta) Daniel Maia Advocacia": {
     "prontas": 9,
-    "total": 10
+    "total": 9
   },
   "(Na Pautta) Conecta Assessoria": {
     "prontas": 18,
@@ -4808,11 +4812,11 @@ const LEGENDAS_DATA = {
 };
 
 const FORMAT_COUNTS = {
-  "Hélio Rôla 90 Anos": {
+  "(Na Pautta) Hélio Rôla 90 Anos": {
     "post": 7,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
+    "video": 2,
     "story": 0
   },
   "(Na Pautta) AAFEC": {
@@ -4850,7 +4854,7 @@ const FORMAT_COUNTS = {
     "video": 5,
     "story": 0
   },
-  "Ventana": {
+  "(Na Pautta) Ventana": {
     "post": 0,
     "carrossel": 0,
     "foto": 0,
@@ -4927,7 +4931,7 @@ const FORMAT_COUNTS = {
     "video": 7,
     "story": 0
   },
-  "Di Gregório Buffet": {
+  "(Na Pautta) Di Gregório Buffet": {
     "post": 0,
     "carrossel": 0,
     "foto": 0,
@@ -4941,12 +4945,12 @@ const FORMAT_COUNTS = {
     "video": 7,
     "story": 0
   },
-  "Daniel Maia Advocacia": {
+  "(Na Pautta) Daniel Maia Advocacia": {
     "post": 7,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
-    "story": 0
+    "story": 1
   },
   "(Na Pautta) Conecta Assessoria": {
     "post": 11,
@@ -4965,9 +4969,9 @@ const FORMAT_COUNTS = {
 };
 
 const AGENDA_COUNTS = {
-  "Hélio Rôla 90 Anos": {
+  "(Na Pautta) Hélio Rôla 90 Anos": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "(Na Pautta) AAFEC": {
@@ -4995,7 +4999,7 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "Ventana": {
+  "(Na Pautta) Ventana": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
@@ -5050,7 +5054,7 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "Di Gregório Buffet": {
+  "(Na Pautta) Di Gregório Buffet": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
@@ -5060,7 +5064,7 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "Daniel Maia Advocacia": {
+  "(Na Pautta) Daniel Maia Advocacia": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
