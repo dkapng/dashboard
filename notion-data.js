@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/10/2026, 20:41:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 01:51:27 **/
 
-const LAST_UPDATE = '12/10/2026, 20:41:44';
+const LAST_UPDATE = '13/10/2026, 01:51:27';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -71,7 +71,7 @@ const FEED_DATA = {
   },
   "(Na Pautta) AAFEC": {
     "total": 22,
-    "pronto": 15,
+    "pronto": 16,
     "postado": 6,
     "agendado": 1,
     "agendado_coord": 7,
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 12,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -184,10 +184,10 @@ const FEED_DATA = {
   "Grupo Mulheres do Brasil": {
     "total": 19,
     "pronto": 10,
-    "postado": 7,
+    "postado": 8,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "(Na Pautta) Finseg Leal": {
     "total": 13,
@@ -216,7 +216,7 @@ const FEED_DATA = {
   },
   "(Na Pautta) Daniel Maia Advocacia": {
     "total": 9,
-    "pronto": 3,
+    "pronto": 4,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
@@ -695,10 +695,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🎠 Carrossel",
       "date": "29/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/29-de-outubro-Dia-Nacional-do-Livro-Grandes-escritores-hist-rias-que-atravessaram-gera-es-e-li-3f533d8db9d280bb897fd4b50dbde28a"
@@ -1177,10 +1175,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-IA-pode-analisar-seus-n-meros-Mas-quem-est-fazendo-as-perguntas-certas-39133d8db9d280b3a3e5c4ac3abadb19"
@@ -2272,12 +2268,10 @@ const LINHA_FEED_ITEMS = {
   "Grupo Mulheres do Brasil": [
     {
       "title": "Lançamento Fases da Lua",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "09/10",
-      "missing": [
-        "Legenda"
-      ],
+      "date": "12/10",
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2867,10 +2861,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/um-contrato-simples-n-o-precisa-de-advogado-Ser-3dc33d8db9d280009591e2d05e405290"
@@ -4545,7 +4537,7 @@ const DEMANDAS_EXTRAS = {
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Encarte-de-linhas-e-z-peres-3f233d8db9d280db858bf5a88ae037c8",
       "gestora": "Equipe",
-      "date": "10/10"
+      "date": "13/10"
     }
   ],
   "Univendas": [
@@ -4782,7 +4774,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 11,
+    "prontas": 12,
     "total": 21
   },
   "(Na Pautta) Finseg Leal": {
