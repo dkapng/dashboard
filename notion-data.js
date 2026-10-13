@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 09:23:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 16:24:49 **/
 
-const LAST_UPDATE = '13/10/2026, 09:23:37';
+const LAST_UPDATE = '13/10/2026, 16:24:49';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -87,7 +87,7 @@ const FEED_DATA = {
   },
   "Tramix": {
     "total": 5,
-    "pronto": 3,
+    "pronto": 5,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
@@ -103,7 +103,7 @@ const FEED_DATA = {
   },
   "Juntos contra o HPV": {
     "total": 15,
-    "pronto": 5,
+    "pronto": 7,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -136,10 +136,10 @@ const FEED_DATA = {
   "RR Advocacia": {
     "total": 7,
     "pronto": 5,
-    "postado": 4,
+    "postado": 5,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Rede Pangeia": {
     "total": 13,
@@ -166,12 +166,12 @@ const FEED_DATA = {
     "a_agendar": 2
   },
   "Ortobom": {
-    "total": 4,
+    "total": 3,
     "pronto": 0,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "ItalaP": {
     "total": 15,
@@ -215,12 +215,12 @@ const FEED_DATA = {
     "st-paused": null
   },
   "(Na Pautta) Daniel Maia Advocacia": {
-    "total": 9,
-    "pronto": 4,
+    "total": 10,
+    "pronto": 5,
     "postado": 1,
     "agendado": 2,
     "agendado_coord": 0,
-    "a_agendar": 6
+    "a_agendar": 7
   },
   "(Na Pautta) Conecta Assessoria": {
     "total": 13,
@@ -346,12 +346,12 @@ const VIDEO_DATA = {
     "a_agendar": 2
   },
   "Ortobom": {
-    "total": 10,
-    "pronto": 3,
+    "total": 9,
+    "pronto": 2,
     "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "ItalaP": {
     "total": 1,
@@ -477,9 +477,9 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Univendas": {
-    "total": 5,
-    "pronto": 1,
-    "postado": 0,
+    "total": 6,
+    "pronto": 2,
+    "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
     "a_agendar": 4
@@ -525,12 +525,12 @@ const STORIES_DATA = {
     "a_agendar": 0
   },
   "Ortobom": {
-    "total": 6,
-    "pronto": 2,
-    "postado": 2,
+    "total": 5,
+    "pronto": 3,
+    "postado": 3,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 2
   },
   "ItalaP": {
     "total": 6,
@@ -574,7 +574,7 @@ const STORIES_DATA = {
   },
   "(Na Pautta) Daniel Maia Advocacia": {
     "total": 1,
-    "pronto": 0,
+    "pronto": 1,
     "postado": 0,
     "agendado": 0,
     "agendado_coord": 0,
@@ -584,17 +584,17 @@ const STORIES_DATA = {
     "total": 7,
     "pronto": 4,
     "postado": 1,
-    "agendado": 1,
+    "agendado": 2,
     "agendado_coord": 1,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "Solar Coworking": {
     "total": 4,
-    "pronto": 0,
-    "postado": 0,
+    "pronto": 1,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   }
 };
 
@@ -1009,10 +1009,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nenhuma-pe-a-feita-por-uma-empresa-s-E-o-futuro-da-ind-stria-tamb-m-n-o-ser-3e933d8db9d2802bbdfacd562d0723f6"
@@ -1023,10 +1022,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-tem-uma-pequena-confec-o-tamb-m-precisa-olhar-para-o-futuro-do-setor-3e933d8db9d280fbacd4e20f8012edfe"
@@ -1318,14 +1316,12 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/210-865-pessoas-Mas-o-que-existe-por-tr-s-desse-n-mero-3e633d8db9d28014985bee7ffd76e0e8"
     },
     {
-      "title": "Outubro amplia a conversa sobre o câncer de mama e chama atenção para a importância do cuidado com a saúde. Mas prevenção não deveria ser uma conversa de apenas um mês.  ",
+      "title": "Outubro amplia a conversa sobre o câncer de mama e chama atenção para a importância do cuidado com a saúde. Mas prevenção não deveria ser uma conversa de apenas um mês.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Outubro-amplia-a-conversa-sobre-o-c-ncer-de-mama-e-chama-aten-o-para-a-import-ncia-do-cuidado-com-a-3e533d8db9d280969971ecb234f74125"
@@ -1348,10 +1344,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-fala-sobre-preven-o-tamb-m-ajuda-a-faz-la-chegar-mais-longe-Profissionais-Educadores-Fam-3e533d8db9d2807dac09dce2897a70aa"
@@ -1590,7 +1584,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Uma senha compartilhada pode revelar muito mais do que parece.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "12/10",
       "missing": [],
@@ -2051,20 +2045,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seu-sono-nico-Seu-atendimento-tamb-m-deveria-ser-3f133d8db9d280529429d8f18a6f1285"
-    },
-    {
-      "title": "O conforto está nos detalhes que você nem sempre percebe.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "08/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-conforto-est-nos-detalhes-que-voc-nem-sempre-percebe-3f133d8db9d2802d9ab8d6da6684d7ad"
     }
   ],
   "ItalaP": [
@@ -2082,7 +2062,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quais-mudan-as-nas-mamas-merecem-aten-o-outubrorosa-3ed33d8db9d28074a42ee7f8fca73fa8"
     },
     {
-      "title": "Encontrei um caroço na mama. É câncer? #outubrorosa",
+      "title": "(na pautta) Encontrei um caroço na mama. É câncer? #outubrorosa",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "16/10",
@@ -2092,7 +2072,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Encontrei-um-caro-o-na-mama-c-ncer-outubrorosa-3ed33d8db9d2807ea05cc2e11d3d6a15"
+      "notionUrl": "https://app.notion.com/p/na-pautta-Encontrei-um-caro-o-na-mama-c-ncer-outubrorosa-3ed33d8db9d2807ea05cc2e11d3d6a15"
     },
     {
       "title": "Se eu não sinto nada, ainda preciso cuidar das minhas mamas? #outubrorosa",
@@ -2145,7 +2125,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-a-ferritina-tem-a-ver-com-o-seu-corpo-3eb33d8db9d2806481cec2f7162de6e8"
     },
     {
-      "title": "A saúde da mulher muda ao longo da vida. O cuidado também.",
+      "title": "(na pautta) A saúde da mulher muda ao longo da vida. O cuidado também.",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/10",
@@ -2156,7 +2136,7 @@ const LINHA_FEED_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-sa-de-da-mulher-muda-ao-longo-da-vida-O-cuidado-tamb-m-3eb33d8db9d280a7a4eadbf86c10815c"
+      "notionUrl": "https://app.notion.com/p/na-pautta-A-sa-de-da-mulher-muda-ao-longo-da-vida-O-cuidado-tamb-m-3eb33d8db9d280a7a4eadbf86c10815c"
     },
     {
       "title": "Você conhece a unidade da ItalaP mais perto de você?",
@@ -2281,7 +2261,7 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Outubro-Rosa-Quando-falamos-de-c-ncer-de-mama-todas-as-mulheres-t-m-as-mesmas-chances-de-diagn-st-3f333d8db9d280d29819dd2f2f12bc7b"
@@ -2788,6 +2768,19 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "(Na Pautta) Daniel Maia Advocacia": [
+    {
+      "title": "Vaga para Estagiário(a) de Direito | Gestão Jurídica",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "13/10",
+      "missing": [
+        "Legenda"
+      ],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Vaga-para-Estagi-rio-a-de-Direito-Gest-o-Jur-dica-3f833d8db9d280f59c1cf7b035d85447"
+    },
     {
       "title": "Seu cliente não pagou. Você sabe quais documentos precisa guardar antes de cobrar judicialmente. ",
       "status": "a_agendar",
@@ -3555,19 +3548,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Benef-cios-3f133d8db9d280e99f6ff61b6d801335"
     },
     {
-      "title": "Dia das crianças",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "12/10",
-      "missing": [
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Dia-das-crian-as-3f133d8db9d2805bbbc1e40f5aedb5f4"
-    },
-    {
       "title": "Colchão ideal ",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -3902,6 +3882,17 @@ const LINHA_STORIES_ITEMS = {
   "(Na Pautta) Ventana": [],
   "Univendas": [
     {
+      "title": "Story repost",
+      "status": "postado",
+      "formato": "📱 Story",
+      "date": "13/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Story-repost-3f833d8db9d280e0a8efe1ecb41c097f"
+    },
+    {
       "title": "Sintomas de AVC",
       "status": "a_agendar",
       "formato": "📱 Story",
@@ -4122,30 +4113,15 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3f133d8db9d28077a3e3e6a03fa93d56"
     },
     {
-      "title": "Story/stories",
-      "status": "a_agendar",
+      "title": "Storys repost ",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "13/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3f133d8db9d280598db4d9c60f85a0fb"
-    },
-    {
-      "title": "Cintia aniversario (Dell paseio)",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "03/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cintia-aniversario-Dell-paseio-3e433d8db9d280a7ae34dcfc93fb66f5"
+      "notionUrl": "https://app.notion.com/p/Storys-repost-3f133d8db9d280598db4d9c60f85a0fb"
     },
     {
       "title": "Aniversário Danielly (north shopping)",
@@ -4254,11 +4230,9 @@ const LINHA_STORIES_ITEMS = {
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "13/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Rander-3a533d8db9d280979cb7dbb020aeeb2a"
     }
@@ -4277,7 +4251,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "https://drive.google.com/file/d/1z_Osdw0n98_5O3-GjUJa6OAaOIbRvpBL/view?usp=drive_link",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "📱 Story",
       "date": "13/10",
       "missing": [],
@@ -4311,7 +4285,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d28013a84de31f3b89cf53"
     },
     {
-      "title": "Story/stories",
+      "title": "(na pautta) Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "27/10",
@@ -4321,10 +4295,10 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d28021ad8cf26bf589eec9"
+      "notionUrl": "https://app.notion.com/p/na-pautta-Story-stories-3e433d8db9d28021ad8cf26bf589eec9"
     },
     {
-      "title": "Story/stories",
+      "title": "(na pautta) Story/stories",
       "status": "a_agendar",
       "formato": "📱 Story",
       "date": "20/10",
@@ -4334,7 +4308,7 @@ const LINHA_STORIES_ITEMS = {
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3e433d8db9d280339bb6f5ecd1e2cc7a"
+      "notionUrl": "https://app.notion.com/p/na-pautta-Story-stories-3e433d8db9d280339bb6f5ecd1e2cc7a"
     },
     {
       "title": "Tem coisas que a gente só percebe o quanto são importantes quando imagina ficar sem elas.",
@@ -4376,17 +4350,15 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-stories-3ed33d8db9d280358fcdcfb9051855d4"
     },
     {
-      "title": "Story/stories",
-      "status": "a_agendar",
+      "title": "Story repost",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "13/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3ed33d8db9d280ba9b39ec165556237c"
+      "notionUrl": "https://app.notion.com/p/Story-repost-3ed33d8db9d280ba9b39ec165556237c"
     },
     {
       "title": "outubro rosa",
@@ -4405,6 +4377,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Tramix": [
+    {
+      "title": "Bloco de texto",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Bloco-de-texto-3f833d8db9d2801a82d9de2402a5f5be",
+      "gestora": "Equipe",
+      "date": "14/10"
+    },
+    {
+      "title": "Encarte de linhas e zíperes ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Encarte-de-linhas-e-z-peres-3f233d8db9d280db858bf5a88ae037c8",
+      "gestora": "Equipe",
+      "date": "13/10"
+    }
+  ],
   "(Na Pautta) AAFEC": [
     {
       "title": "Agenda de novembro de 2026",
@@ -4413,24 +4403,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
       "gestora": "Equipe",
       "date": "23/10"
-    }
-  ],
-  "(Na Pautta) Daniel Maia Advocacia": [
-    {
-      "title": "Vaga de estágio",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Vaga-de-est-gio-3f433d8db9d2803fb8b5ec50fde0d3f0",
-      "gestora": "Equipe",
-      "date": "13/10"
-    },
-    {
-      "title": "Configurações de e-mail",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
-      "gestora": "Equipe",
-      "date": "04/09"
     }
   ],
   "(Na Pautta) Finseg Leal": [
@@ -4523,16 +4495,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
       "gestora": "Equipe",
       "date": "09/10"
-    }
-  ],
-  "Tramix": [
-    {
-      "title": "Encarte de linhas e zíperes ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Encarte-de-linhas-e-z-peres-3f233d8db9d280db858bf5a88ae037c8",
-      "gestora": "Equipe",
-      "date": "13/10"
     }
   ],
   "Univendas": [
@@ -4683,6 +4645,16 @@ const DEMANDAS_EXTRAS = {
       "date": "09/09"
     }
   ],
+  "(Na Pautta) Daniel Maia Advocacia": [
+    {
+      "title": "Configurações de e-mail",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
+      "gestora": "Equipe",
+      "date": "04/09"
+    }
+  ],
   "Rede Pangeia": [
     {
       "title": "Site",
@@ -4696,6 +4668,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Univendas": "marcada",
   "(Na Pautta) Hélio Rôla 90 Anos": "marcada",
   "Planos Seguros": "marcada",
   "(Na Pautta) Finseg Leal": "marcada",
@@ -4762,7 +4735,7 @@ const LEGENDAS_DATA = {
   },
   "Ortobom": {
     "prontas": 4,
-    "total": 16
+    "total": 14
   },
   "ItalaP": {
     "prontas": 10,
@@ -4786,7 +4759,7 @@ const LEGENDAS_DATA = {
   },
   "(Na Pautta) Daniel Maia Advocacia": {
     "prontas": 9,
-    "total": 9
+    "total": 10
   },
   "(Na Pautta) Conecta Assessoria": {
     "prontas": 18,
@@ -4853,7 +4826,7 @@ const FORMAT_COUNTS = {
     "carrossel": 0,
     "foto": 0,
     "video": 0,
-    "story": 5
+    "story": 6
   },
   "Terrartesã": {
     "post": 0,
@@ -4891,11 +4864,11 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "Ortobom": {
-    "post": 4,
+    "post": 3,
     "carrossel": 0,
     "foto": 0,
-    "video": 12,
-    "story": 6
+    "video": 11,
+    "story": 5
   },
   "ItalaP": {
     "post": 15,
@@ -4933,7 +4906,7 @@ const FORMAT_COUNTS = {
     "story": 0
   },
   "(Na Pautta) Daniel Maia Advocacia": {
-    "post": 7,
+    "post": 8,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
@@ -4993,7 +4966,7 @@ const AGENDA_COUNTS = {
   },
   "Univendas": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Terrartesã": {
