@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 01:51:27 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 09:23:37 **/
 
-const LAST_UPDATE = '13/10/2026, 01:51:27';
+const LAST_UPDATE = '13/10/2026, 09:23:37';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -79,10 +79,10 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 4,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
-    "agendado_coord": 3,
+    "agendado_coord": 2,
     "a_agendar": 0
   },
   "Tramix": {
@@ -160,10 +160,10 @@ const FEED_DATA = {
   "Plannea": {
     "total": 8,
     "pronto": 7,
-    "postado": 5,
+    "postado": 6,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "Ortobom": {
     "total": 4,
@@ -193,9 +193,9 @@ const FEED_DATA = {
     "total": 13,
     "pronto": 5,
     "postado": 1,
-    "agendado": 3,
+    "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "(Na Pautta) Di Gregório Buffet": {
     "total": 0,
@@ -967,13 +967,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Cuidar é trabalho. Mesmo quando não existe salário.",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "13/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1992,12 +1989,10 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "O empresário que centraliza tudo realmente é está fazendo a melhor escolha?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "13/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -2597,7 +2592,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Tem TED que vale mais do que dinheiro. É o que entrega tranquilidade, esperança e dignidade. - 12 de outubro, dia do corretor de seguros",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
       "date": "12/10",
       "missing": [],
@@ -2860,7 +2855,7 @@ const LINHA_FEED_ITEMS = {
       "title": "\"É um contrato simples, não precisa de advogado.\" Será?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/10",
+      "date": "14/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -4722,7 +4717,7 @@ const LEGENDAS_DATA = {
     "total": 24
   },
   "Ser Ponte": {
-    "prontas": 1,
+    "prontas": 2,
     "total": 4
   },
   "Tramix": {
@@ -4762,7 +4757,7 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Plannea": {
-    "prontas": 6,
+    "prontas": 7,
     "total": 11
   },
   "Ortobom": {
