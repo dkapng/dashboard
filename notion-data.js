@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 16:24:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 20:21:16 **/
 
-const LAST_UPDATE = '13/10/2026, 16:24:49';
+const LAST_UPDATE = '13/10/2026, 20:21:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -20,7 +20,7 @@ const GESTORAS = {
     "Stratto",
     "Juntos contra o HPV",
     "Rede Pangeia",
-    "ItalaP",
+    "(na pautta) ItalaP",
     "(Na Pautta) Finseg Leal",
     "(Na Pautta) Daniel Maia Advocacia",
     "(Na Pautta) Conecta Assessoria"
@@ -50,7 +50,7 @@ const NICHES = {
   "Planos Seguros": "Geral",
   "Plannea": "Geral",
   "Ortobom": "Geral",
-  "ItalaP": "Geral",
+  "(na pautta) ItalaP": "Geral",
   "Grupo Mulheres do Brasil": "Geral",
   "(Na Pautta) Finseg Leal": "Geral",
   "(Na Pautta) Di Gregório Buffet": "Geral",
@@ -79,11 +79,11 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 4,
-    "pronto": 2,
+    "pronto": 3,
     "postado": 2,
     "agendado": 0,
-    "agendado_coord": 2,
-    "a_agendar": 0
+    "agendado_coord": 1,
+    "a_agendar": 1
   },
   "Tramix": {
     "total": 5,
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 13,
-    "pronto": 4,
+    "pronto": 5,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
@@ -173,7 +173,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "ItalaP": {
+  "(na pautta) ItalaP": {
     "total": 15,
     "pronto": 5,
     "postado": 3,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 19,
-    "pronto": 10,
+    "pronto": 11,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 2,
@@ -353,7 +353,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 8
   },
-  "ItalaP": {
+  "(na pautta) ItalaP": {
     "total": 1,
     "pronto": 1,
     "postado": 1,
@@ -532,7 +532,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 2
   },
-  "ItalaP": {
+  "(na pautta) ItalaP": {
     "total": 6,
     "pronto": 3,
     "postado": 1,
@@ -971,21 +971,20 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/10",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cuidar-trabalho-Mesmo-quando-n-o-existe-sal-rio-3f033d8db9d2807b998be7869309c192"
     },
     {
       "title": "Creche também é política de renda",
-      "status": "agendado_coord",
+      "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "09/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Creche-tamb-m-pol-tica-de-renda-3f033d8db9d280eba6b0dcbc28da9883"
@@ -1749,10 +1748,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "13/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Improvisar-pode-resolver-o-hoje-Mas-n-o-constr-i-sozinho-o-amanh-3ed33d8db9d280ec83b3d99c1338814c"
@@ -2047,7 +2044,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seu-sono-nico-Seu-atendimento-tamb-m-deveria-ser-3f133d8db9d280529429d8f18a6f1285"
     }
   ],
-  "ItalaP": [
+  "(na pautta) ItalaP": [
     {
       "title": "Quais mudanças nas mamas merecem atenção? #outubrorosa",
       "status": "agendado_coord",
@@ -2258,10 +2255,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "13/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 2. Fazendo",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Outubro-Rosa-Quando-falamos-de-c-ncer-de-mama-todas-as-mulheres-t-m-as-mesmas-chances-de-diagn-st-3f333d8db9d280d29819dd2f2f12bc7b"
@@ -3581,7 +3577,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Trocar-seu-colch-o-3d133d8db9d2809a9ab6cb4994f4c7c3"
     }
   ],
-  "ItalaP": [
+  "(na pautta) ItalaP": [
     {
       "title": "Vídeo das crianças",
       "status": "postado",
@@ -4146,7 +4142,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Jeniffer-palmares-mall-2e333d8db9d280c5addfff3db25a5eba"
     }
   ],
-  "ItalaP": [
+  "(na pautta) ItalaP": [
     {
       "title": "Comunicado ",
       "status": "agendado",
@@ -4603,7 +4599,7 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
-  "ItalaP": [
+  "(na pautta) ItalaP": [
     {
       "title": "Adicionar/atualizar as localizações no Google",
       "priority": "p",
@@ -4737,7 +4733,7 @@ const LEGENDAS_DATA = {
     "prontas": 4,
     "total": 14
   },
-  "ItalaP": {
+  "(na pautta) ItalaP": {
     "prontas": 10,
     "total": 16
   },
@@ -4870,7 +4866,7 @@ const FORMAT_COUNTS = {
     "video": 11,
     "story": 5
   },
-  "ItalaP": {
+  "(na pautta) ItalaP": {
     "post": 15,
     "carrossel": 0,
     "foto": 0,
@@ -4937,7 +4933,7 @@ const AGENDA_COUNTS = {
   "(Na Pautta) AAFEC": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 3
+    "evento": 4
   },
   "Ser Ponte": {
     "reuniao": 0,
@@ -4999,7 +4995,7 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "ItalaP": {
+  "(na pautta) ItalaP": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
