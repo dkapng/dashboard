@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 10:13:44 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 15:05:48 **/
 
-const LAST_UPDATE = '14/10/2026, 10:13:44';
+const LAST_UPDATE = '14/10/2026, 15:05:48';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -348,10 +348,10 @@ const VIDEO_DATA = {
   "Ortobom": {
     "total": 9,
     "pronto": 2,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7
   },
   "(Na Pautta) ItalaP": {
     "total": 1,
@@ -3540,15 +3540,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Benefícios",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "14/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Benef-cios-3f133d8db9d280e99f6ff61b6d801335"
     },
@@ -4382,22 +4379,54 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Tramix": [
+  "(Na Pautta) ItalaP": [
     {
-      "title": "Bloco de texto",
+      "title": "TBT Italap ",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Bloco-de-texto-3f833d8db9d2801a82d9de2402a5f5be",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/TBT-Italap-3f933d8db9d2806fa699f87e97160c94",
       "gestora": "Equipe",
-      "date": "14/10"
+      "date": "15/10"
     },
     {
-      "title": "Encarte de linhas e zíperes ",
+      "title": "Adicionar/atualizar as localizações no Google",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Encarte-de-linhas-e-z-peres-3f233d8db9d280db858bf5a88ae037c8",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
       "gestora": "Equipe",
-      "date": "13/10"
+      "date": "18/09"
+    },
+    {
+      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
     }
   ],
   "(Na Pautta) AAFEC": [
@@ -4608,48 +4637,6 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
-  "(Na Pautta) ItalaP": [
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
-      "gestora": "Equipe",
-      "date": "14/09"
-    },
-    {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
-      "gestora": "Equipe",
-      "date": "09/09"
-    },
-    {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
-      "gestora": "Equipe",
-      "date": "09/09"
-    }
-  ],
   "Daniel Maia Advocacia": [
     {
       "title": "Configurações de e-mail",
@@ -4739,7 +4726,7 @@ const LEGENDAS_DATA = {
     "total": 11
   },
   "Ortobom": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 14
   },
   "(Na Pautta) ItalaP": {
