@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 23:02:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 04:51:23 **/
 
-const LAST_UPDATE = '13/10/2026, 23:02:08';
+const LAST_UPDATE = '14/10/2026, 04:51:23';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -22,7 +22,7 @@ const GESTORAS = {
     "Rede Pangeia",
     "(Na Pautta) ItalaP",
     "(Na Pautta) Finseg Leal",
-    "(Na Pautta) Daniel Maia Advocacia",
+    "Daniel Maia Advocacia",
     "(Na Pautta) Conecta Assessoria"
   ],
   "Anna Ventana": [
@@ -55,7 +55,7 @@ const NICHES = {
   "(Na Pautta) Finseg Leal": "Geral",
   "(Na Pautta) Di Gregório Buffet": "Geral",
   "(Na Pautta) APROSSEG": "Geral",
-  "(Na Pautta) Daniel Maia Advocacia": "Geral",
+  "Daniel Maia Advocacia": "Geral",
   "(Na Pautta) Conecta Assessoria": "Geral",
   "Solar Coworking": "Geral"
 };
@@ -175,7 +175,7 @@ const FEED_DATA = {
   },
   "(Na Pautta) ItalaP": {
     "total": 15,
-    "pronto": 6,
+    "pronto": 15,
     "postado": 3,
     "agendado": 2,
     "agendado_coord": 1,
@@ -214,7 +214,7 @@ const FEED_DATA = {
     "a_agendar": 7,
     "st-paused": null
   },
-  "(Na Pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "total": 10,
     "pronto": 5,
     "postado": 1,
@@ -393,7 +393,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "(Na Pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -572,7 +572,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "total": 1,
     "pronto": 1,
     "postado": 0,
@@ -2050,10 +2050,8 @@ const LINHA_FEED_ITEMS = {
       "status": "agendado_coord",
       "formato": "🖼️ Post",
       "date": "23/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quais-mudan-as-nas-mamas-merecem-aten-o-outubrorosa-3ed33d8db9d28074a42ee7f8fca73fa8"
@@ -2063,10 +2061,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "16/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/na-pautta-Encontrei-um-caro-o-na-mama-c-ncer-outubrorosa-3ed33d8db9d2807ea05cc2e11d3d6a15"
@@ -2099,10 +2095,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "27/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Exame-de-sangue-precisa-ser-feito-sempre-em-jejum-3eb33d8db9d2801aa5ffc4c6c6bde7a9"
@@ -2113,10 +2108,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "26/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-a-ferritina-tem-a-ver-com-o-seu-corpo-3eb33d8db9d2806481cec2f7162de6e8"
@@ -2161,10 +2155,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "30/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Preciso-ir-ao-ginecologista-mesmo-quando-est-tudo-bem-outubrorosa-28c33d8db9d280408bc0f905ef034ed4"
@@ -2175,10 +2167,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "29/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-os-sinais-aparecem-cada-minuto-importa-Dia-Mundial-do-AVC-28c33d8db9d2807c8797cf71264c5aa3"
@@ -2200,10 +2191,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "20/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Seus-ossos-n-o-doem-quando-come-am-a-perder-for-a-E-justamente-a-que-mora-o-perigo-Dia-Mundial-28c33d8db9d28027a8bacbcdbf15f73b"
@@ -2214,23 +2204,20 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "19/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Cuidar-das-mamas-n-o-come-a-quando-aparece-alguma-altera-o-Dia-Internacional-de-Combate-ao-C-ncer-28c33d8db9d28043a156e3a2b0ce538c"
     },
     {
-      "title": "Antes de um diagnóstico, existe alguém que escutou, investigou e buscou respostas. - Dia do Médico ",
+      "title": "Antes de um diagnóstico, existe alguém que escutou, investigou e buscou respostas. - Dia do Médico",
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "18/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-um-diagn-stico-existe-algu-m-que-escutou-investigou-e-buscou-respostas-Dia-do-M-dico-d22900e72749439c80bb0480270004a6"
@@ -2762,7 +2749,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-um-corretor-faz-por-voc-depois-que-a-ap-lice-est-assinada-Descubra-o-valor-de-ter-um-corret-3e333d8db9d280a6a485d75caa7028a7"
     }
   ],
-  "(Na Pautta) Daniel Maia Advocacia": [
+  "Daniel Maia Advocacia": [
     {
       "title": "Vaga para Estagiário(a) de Direito | Gestão Jurídica",
       "status": "a_agendar",
@@ -3784,7 +3771,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Eu-me-cuido-porque-Outubro-rosa-3db33d8db9d28028a84bdf723bfdd792"
     }
   ],
-  "(Na Pautta) Daniel Maia Advocacia": [],
+  "Daniel Maia Advocacia": [],
   "(Na Pautta) Conecta Assessoria": [
     {
       "title": "Vídeo",
@@ -4219,7 +4206,7 @@ const LINHA_STORIES_ITEMS = {
   "(Na Pautta) Finseg Leal": [],
   "(Na Pautta) Di Gregório Buffet": [],
   "(Na Pautta) APROSSEG": [],
-  "(Na Pautta) Daniel Maia Advocacia": [
+  "Daniel Maia Advocacia": [
     {
       "title": "Feliz aniversário, Rander",
       "status": "a_agendar",
@@ -4640,7 +4627,7 @@ const DEMANDAS_EXTRAS = {
       "date": "09/09"
     }
   ],
-  "(Na Pautta) Daniel Maia Advocacia": [
+  "Daniel Maia Advocacia": [
     {
       "title": "Configurações de e-mail",
       "priority": "p",
@@ -4752,7 +4739,7 @@ const LEGENDAS_DATA = {
     "prontas": 13,
     "total": 17
   },
-  "(Na Pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "prontas": 9,
     "total": 10
   },
@@ -4900,7 +4887,7 @@ const FORMAT_COUNTS = {
     "video": 7,
     "story": 0
   },
-  "(Na Pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "post": 8,
     "carrossel": 2,
     "foto": 0,
@@ -5019,7 +5006,7 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "(Na Pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
