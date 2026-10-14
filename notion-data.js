@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 04:51:23 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 10:13:44 **/
 
-const LAST_UPDATE = '14/10/2026, 04:51:23';
+const LAST_UPDATE = '14/10/2026, 10:13:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -88,10 +88,10 @@ const FEED_DATA = {
   "Tramix": {
     "total": 5,
     "pronto": 5,
-    "postado": 3,
+    "postado": 4,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Stratto": {
     "total": 12,
@@ -182,12 +182,12 @@ const FEED_DATA = {
     "a_agendar": 9
   },
   "Grupo Mulheres do Brasil": {
-    "total": 19,
+    "total": 21,
     "pronto": 11,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 2,
-    "a_agendar": 9
+    "a_agendar": 11
   },
   "(Na Pautta) Finseg Leal": {
     "total": 13,
@@ -339,11 +339,11 @@ const VIDEO_DATA = {
   },
   "Plannea": {
     "total": 3,
-    "pronto": 1,
-    "postado": 1,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 2
+    "a_agendar": 1
   },
   "Ortobom": {
     "total": 9,
@@ -1004,14 +1004,12 @@ const LINHA_FEED_ITEMS = {
   "Tramix": [
     {
       "title": "Nenhuma peça é feita por uma empresa só. E o futuro da indústria também não será.",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/10",
-      "missing": [
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Nenhuma-pe-a-feita-por-uma-empresa-s-E-o-futuro-da-ind-stria-tamb-m-n-o-ser-3e933d8db9d2802bbdfacd562d0723f6"
     },
@@ -2225,6 +2223,34 @@ const LINHA_FEED_ITEMS = {
   ],
   "Grupo Mulheres do Brasil": [
     {
+      "title": "Essa história já levou pessoas às ruas",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "16/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Essa-hist-ria-j-levou-pessoas-s-ruas-3f933d8db9d28078b7b0f6dbbd504184"
+    },
+    {
+      "title": "O que significa correr por essa causa?  Significa ",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "14/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/O-que-significa-correr-por-essa-causa-Significa-transformar-o-que-voc-defende-em-uma-mobiliza-o--3f933d8db9d2802a8642f62b8855801b"
+    },
+    {
       "title": "Lançamento Fases da Lua",
       "status": "postado",
       "formato": "🖼️ Post",
@@ -3392,15 +3418,12 @@ const LINHA_VIDEO_ITEMS = {
     },
     {
       "title": "Dar lucro e falir ",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🎥 Vídeo vertical",
       "date": "14/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Dar-lucro-e-falir-3e933d8db9d280028496c193836c5a2d"
     },
@@ -4676,7 +4699,7 @@ const LEGENDAS_DATA = {
     "total": 4
   },
   "Tramix": {
-    "prontas": 4,
+    "prontas": 5,
     "total": 6
   },
   "Stratto": {
@@ -4712,7 +4735,7 @@ const LEGENDAS_DATA = {
     "total": 7
   },
   "Plannea": {
-    "prontas": 7,
+    "prontas": 8,
     "total": 11
   },
   "Ortobom": {
@@ -4725,7 +4748,7 @@ const LEGENDAS_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "prontas": 12,
-    "total": 21
+    "total": 23
   },
   "(Na Pautta) Finseg Leal": {
     "prontas": 12,
@@ -4860,7 +4883,7 @@ const FORMAT_COUNTS = {
     "story": 6
   },
   "Grupo Mulheres do Brasil": {
-    "post": 14,
+    "post": 16,
     "carrossel": 5,
     "foto": 0,
     "video": 1,
