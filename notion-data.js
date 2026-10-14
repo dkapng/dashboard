@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 20:21:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/10/2026, 23:02:08 **/
 
-const LAST_UPDATE = '13/10/2026, 20:21:16';
+const LAST_UPDATE = '13/10/2026, 23:02:08';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -20,7 +20,7 @@ const GESTORAS = {
     "Stratto",
     "Juntos contra o HPV",
     "Rede Pangeia",
-    "(na pautta) ItalaP",
+    "(Na Pautta) ItalaP",
     "(Na Pautta) Finseg Leal",
     "(Na Pautta) Daniel Maia Advocacia",
     "(Na Pautta) Conecta Assessoria"
@@ -50,7 +50,7 @@ const NICHES = {
   "Planos Seguros": "Geral",
   "Plannea": "Geral",
   "Ortobom": "Geral",
-  "(na pautta) ItalaP": "Geral",
+  "(Na Pautta) ItalaP": "Geral",
   "Grupo Mulheres do Brasil": "Geral",
   "(Na Pautta) Finseg Leal": "Geral",
   "(Na Pautta) Di Gregório Buffet": "Geral",
@@ -173,9 +173,9 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "(na pautta) ItalaP": {
+  "(Na Pautta) ItalaP": {
     "total": 15,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 3,
     "agendado": 2,
     "agendado_coord": 1,
@@ -353,7 +353,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 8
   },
-  "(na pautta) ItalaP": {
+  "(Na Pautta) ItalaP": {
     "total": 1,
     "pronto": 1,
     "postado": 1,
@@ -532,7 +532,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 2
   },
-  "(na pautta) ItalaP": {
+  "(Na Pautta) ItalaP": {
     "total": 6,
     "pronto": 3,
     "postado": 1,
@@ -2044,7 +2044,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Seu-sono-nico-Seu-atendimento-tamb-m-deveria-ser-3f133d8db9d280529429d8f18a6f1285"
     }
   ],
-  "(na pautta) ItalaP": [
+  "(Na Pautta) ItalaP": [
     {
       "title": "Quais mudanças nas mamas merecem atenção? #outubrorosa",
       "status": "agendado_coord",
@@ -2127,10 +2127,9 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "14/10",
       "missing": [
-        "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/na-pautta-A-sa-de-da-mulher-muda-ao-longo-da-vida-O-cuidado-tamb-m-3eb33d8db9d280a7a4eadbf86c10815c"
@@ -3577,7 +3576,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Trocar-seu-colch-o-3d133d8db9d2809a9ab6cb4994f4c7c3"
     }
   ],
-  "(na pautta) ItalaP": [
+  "(Na Pautta) ItalaP": [
     {
       "title": "Vídeo das crianças",
       "status": "postado",
@@ -4142,7 +4141,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Anivers-rio-Jeniffer-palmares-mall-2e333d8db9d280c5addfff3db25a5eba"
     }
   ],
-  "(na pautta) ItalaP": [
+  "(Na Pautta) ItalaP": [
     {
       "title": "Comunicado ",
       "status": "agendado",
@@ -4599,7 +4598,7 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
-  "(na pautta) ItalaP": [
+  "(Na Pautta) ItalaP": [
     {
       "title": "Adicionar/atualizar as localizações no Google",
       "priority": "p",
@@ -4733,7 +4732,7 @@ const LEGENDAS_DATA = {
     "prontas": 4,
     "total": 14
   },
-  "(na pautta) ItalaP": {
+  "(Na Pautta) ItalaP": {
     "prontas": 10,
     "total": 16
   },
@@ -4866,7 +4865,7 @@ const FORMAT_COUNTS = {
     "video": 11,
     "story": 5
   },
-  "(na pautta) ItalaP": {
+  "(Na Pautta) ItalaP": {
     "post": 15,
     "carrossel": 0,
     "foto": 0,
@@ -4995,7 +4994,7 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "(na pautta) ItalaP": {
+  "(Na Pautta) ItalaP": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
