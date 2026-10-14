@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 15:05:48 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 18:51:01 **/
 
-const LAST_UPDATE = '14/10/2026, 15:05:48';
+const LAST_UPDATE = '14/10/2026, 18:51:01';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -22,7 +22,7 @@ const GESTORAS = {
     "Rede Pangeia",
     "(Na Pautta) ItalaP",
     "(Na Pautta) Finseg Leal",
-    "Daniel Maia Advocacia",
+    "(na pautta) Daniel Maia Advocacia",
     "(Na Pautta) Conecta Assessoria"
   ],
   "Anna Ventana": [
@@ -55,7 +55,7 @@ const NICHES = {
   "(Na Pautta) Finseg Leal": "Geral",
   "(Na Pautta) Di Gregório Buffet": "Geral",
   "(Na Pautta) APROSSEG": "Geral",
-  "Daniel Maia Advocacia": "Geral",
+  "(na pautta) Daniel Maia Advocacia": "Geral",
   "(Na Pautta) Conecta Assessoria": "Geral",
   "Solar Coworking": "Geral"
 };
@@ -95,7 +95,7 @@ const FEED_DATA = {
   },
   "Stratto": {
     "total": 12,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
@@ -183,7 +183,7 @@ const FEED_DATA = {
   },
   "Grupo Mulheres do Brasil": {
     "total": 21,
-    "pronto": 11,
+    "pronto": 12,
     "postado": 8,
     "agendado": 0,
     "agendado_coord": 2,
@@ -214,10 +214,10 @@ const FEED_DATA = {
     "a_agendar": 7,
     "st-paused": null
   },
-  "Daniel Maia Advocacia": {
-    "total": 10,
+  "(na pautta) Daniel Maia Advocacia": {
+    "total": 11,
     "pronto": 5,
-    "postado": 1,
+    "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
     "a_agendar": 7
@@ -393,7 +393,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "Daniel Maia Advocacia": {
+  "(na pautta) Daniel Maia Advocacia": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -572,13 +572,13 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Daniel Maia Advocacia": {
+  "(na pautta) Daniel Maia Advocacia": {
     "total": 1,
     "pronto": 1,
-    "postado": 0,
+    "postado": 1,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "(Na Pautta) Conecta Assessoria": {
     "total": 7,
@@ -1166,7 +1166,7 @@ const LINHA_FEED_ITEMS = {
       "title": "A IA pode analisar seus números. Mas quem está fazendo as perguntas certas?",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/10",
+      "date": "15/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1200,10 +1200,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "14/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Sua-empresa-pode-ter-lucro-e-mesmo-assim-ficar-sem-dinheiro-Entenda-como-isso-acontece-39133d8db9d280b2a92fc42c85297d4c"
@@ -1736,7 +1734,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 2. Fazendo",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-uma-organiza-o-cresce-algumas-perguntas-precisam-mudar-3ed33d8db9d2801287d5dc3c3f7be0a9"
@@ -2241,12 +2239,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-que-significa-correr-por-essa-causa-Significa-transformar-o-que-voc-defende-em-uma-mobiliza-o--3f933d8db9d2802a8642f62b8855801b"
     },
@@ -2775,7 +2770,21 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-um-corretor-faz-por-voc-depois-que-a-ap-lice-est-assinada-Descubra-o-valor-de-ter-um-corret-3e333d8db9d280a6a485d75caa7028a7"
     }
   ],
-  "Daniel Maia Advocacia": [
+  "(na pautta) Daniel Maia Advocacia": [
+    {
+      "title": "Sua empresa está preparada para terminar o ano sem levar os mesmos riscos jurídicos para 2027?",
+      "status": "a_agendar",
+      "formato": "🖼️ Post",
+      "date": "27/10",
+      "missing": [
+        "Design",
+        "Legenda"
+      ],
+      "rawDesign": "🎨 1. A fazer",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 3. N/A",
+      "notionUrl": "https://app.notion.com/p/Sua-empresa-est-preparada-para-terminar-o-ano-sem-levar-os-mesmos-riscos-jur-dicos-para-2027-3f933d8db9d2803a844adac950720868"
+    },
     {
       "title": "Vaga para Estagiário(a) de Direito | Gestão Jurídica",
       "status": "a_agendar",
@@ -2793,7 +2802,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Seu cliente não pagou. Você sabe quais documentos precisa guardar antes de cobrar judicialmente. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "27/10",
+      "date": "22/10",
       "missing": [
         "Design"
       ],
@@ -2806,7 +2815,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua empresa usa imagens, músicas ou vídeos da  internet? nem tudo que está online pode ser usado livremente. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "22/10",
+      "date": "20/10",
       "missing": [
         "Design"
       ],
@@ -2854,7 +2863,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "\"É um contrato simples, não precisa de advogado.\" Será?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "14/10",
       "missing": [],
@@ -2904,7 +2913,7 @@ const LINHA_FEED_ITEMS = {
       "title": "SEGURO DE VIDA PORTO -  Até 35% OFF para proteger o que mais importa. H2: ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "13/10",
+      "date": "14/10",
       "missing": [
         "Design"
       ],
@@ -3008,7 +3017,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Você recebeu três propostas de plano de saúde. E agora? A menor mensalidade nem sempre conta a história inteira.",
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
-      "date": "14/10",
+      "date": "15/10",
       "missing": [
         "Design"
       ],
@@ -3791,7 +3800,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Eu-me-cuido-porque-Outubro-rosa-3db33d8db9d28028a84bdf723bfdd792"
     }
   ],
-  "Daniel Maia Advocacia": [],
+  "(na pautta) Daniel Maia Advocacia": [],
   "(Na Pautta) Conecta Assessoria": [
     {
       "title": "Vídeo",
@@ -4226,10 +4235,10 @@ const LINHA_STORIES_ITEMS = {
   "(Na Pautta) Finseg Leal": [],
   "(Na Pautta) Di Gregório Buffet": [],
   "(Na Pautta) APROSSEG": [],
-  "Daniel Maia Advocacia": [
+  "(na pautta) Daniel Maia Advocacia": [
     {
       "title": "Feliz aniversário, Rander",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "13/10",
       "missing": [],
@@ -4383,7 +4392,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "TBT Italap ",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/TBT-Italap-3f933d8db9d2806fa699f87e97160c94",
       "gestora": "Equipe",
       "date": "15/10"
@@ -4393,14 +4402,6 @@ const DEMANDAS_EXTRAS = {
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Campanha de aquecimento para a abertura do posto de São Gonçalo",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Campanha-de-aquecimento-para-a-abertura-do-posto-de-S-o-Gon-alo-3d633d8db9d28048b531c32e71622064",
       "gestora": "Equipe",
       "date": "18/09"
     },
@@ -4505,30 +4506,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Menu-3f133d8db9d280e495a3f4f41fe64d63",
       "gestora": "Equipe",
       "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Save the Date",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Save-the-Date-3f133d8db9d28076ac50df45c7e245a4",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Convite",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Convite-3f133d8db9d2809d941af8f8c111c210",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Identidade visual da festa",
-      "priority": "pp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Identidade-visual-da-festa-3dd33d8db9d280ccbf02e857b0f60b86",
-      "gestora": "Equipe",
-      "date": "09/10"
     }
   ],
   "Univendas": [
@@ -4583,32 +4560,6 @@ const DEMANDAS_EXTRAS = {
       "date": "29/05"
     }
   ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "9ª Ação | Banner de inscrições abertas com código QR",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/9-A-o-Banner-de-inscri-es-abertas-com-c-digo-QR-3ed33d8db9d2807d989fdeed995da848",
-      "gestora": "Equipe",
-      "date": "02/10"
-    },
-    {
-      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
-      "gestora": "Equipe",
-      "date": "11/09"
-    },
-    {
-      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
-      "gestora": "Equipe",
-      "date": "30/09"
-    }
-  ],
   "(Na Pautta) Ventana": [
     {
       "title": "Cartão de visitas para Mayla",
@@ -4637,7 +4588,25 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
-  "Daniel Maia Advocacia": [
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
+      "gestora": "Equipe",
+      "date": "11/09"
+    },
+    {
+      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
+      "gestora": "Equipe",
+      "date": "30/09"
+    }
+  ],
+  "(na pautta) Daniel Maia Advocacia": [
     {
       "title": "Configurações de e-mail",
       "priority": "p",
@@ -4734,7 +4703,7 @@ const LEGENDAS_DATA = {
     "total": 16
   },
   "Grupo Mulheres do Brasil": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 23
   },
   "(Na Pautta) Finseg Leal": {
@@ -4749,9 +4718,9 @@ const LEGENDAS_DATA = {
     "prontas": 13,
     "total": 17
   },
-  "Daniel Maia Advocacia": {
+  "(na pautta) Daniel Maia Advocacia": {
     "prontas": 9,
-    "total": 10
+    "total": 13
   },
   "(Na Pautta) Conecta Assessoria": {
     "prontas": 18,
@@ -4897,8 +4866,8 @@ const FORMAT_COUNTS = {
     "video": 7,
     "story": 0
   },
-  "Daniel Maia Advocacia": {
-    "post": 8,
+  "(na pautta) Daniel Maia Advocacia": {
+    "post": 9,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
@@ -5016,7 +4985,7 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "Daniel Maia Advocacia": {
+  "(na pautta) Daniel Maia Advocacia": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
