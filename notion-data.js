@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 18:51:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 21:12:58 **/
 
-const LAST_UPDATE = '14/10/2026, 18:51:01';
+const LAST_UPDATE = '14/10/2026, 21:12:58';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -143,7 +143,7 @@ const FEED_DATA = {
   },
   "Rede Pangeia": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
@@ -191,7 +191,7 @@ const FEED_DATA = {
   },
   "(Na Pautta) Finseg Leal": {
     "total": 13,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
@@ -1731,10 +1731,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🎠 Carrossel",
       "date": "14/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 2. Fazendo",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quando-uma-organiza-o-cresce-algumas-perguntas-precisam-mudar-3ed33d8db9d2801287d5dc3c3f7be0a9"
@@ -2503,8 +2501,8 @@ const LINHA_FEED_ITEMS = {
         "Design",
         "Legenda"
       ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 3. N/A",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Tem-gente-que-organiza-a-festa-de-casamento-inteira-e-esquece-dessa-conversa-3f633d8db9d280fbb4eeeb18e78f4816"
     },
@@ -2589,10 +2587,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "14/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-problema-de-ser-a-pessoa-que-resolve-tudo-3eb33d8db9d2807e864cebe00bed924d"
@@ -4708,7 +4704,7 @@ const LEGENDAS_DATA = {
   },
   "(Na Pautta) Finseg Leal": {
     "prontas": 12,
-    "total": 20
+    "total": 19
   },
   "(Na Pautta) Di Gregório Buffet": {
     "prontas": 0,
