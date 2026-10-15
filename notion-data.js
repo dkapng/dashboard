@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 14/10/2026, 21:12:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/10/2026, 01:57:00 **/
 
-const LAST_UPDATE = '14/10/2026, 21:12:58';
+const LAST_UPDATE = '15/10/2026, 01:57:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -191,11 +191,12 @@ const FEED_DATA = {
   },
   "(Na Pautta) Finseg Leal": {
     "total": 13,
-    "pronto": 6,
+    "pronto": 12,
     "postado": 1,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 7,
+    "st-paused": null
   },
   "(Na Pautta) Di Gregório Buffet": {
     "total": 0,
@@ -2483,12 +2484,9 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "21/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
+      "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/O-vizinho-de-cima-pode-virar-o-assunto-principal-do-seu-m-s-3f633d8db9d280cbb170f28e605405ba"
     },
@@ -2511,22 +2509,18 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "28/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Se-amanh-desse-tudo-errado-voc-saberia-o-que-est-protegido-3eb33d8db9d280b39f21d9c3b744f62b"
     },
     {
       "title": "O que seu plano facilita quando o assunto é prevenção?",
-      "status": "a_agendar",
+      "status": "st-paused",
       "formato": "🖼️ Post",
       "date": "30/10",
-      "missing": [
-        "Design"
-      ],
+      "missing": [],
       "rawDesign": "🎨 1. A fazer",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
@@ -2537,10 +2531,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "26/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Uso-particular-trabalho-aplicativo-o-que-muda-no-seguro-3eb33d8db9d280f59bf0c96db778f05f"
@@ -2550,10 +2542,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "23/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/5-minutos-depois-do-acidente-o-que-voc-n-o-deveria-fazer-3eb33d8db9d28051ab3dc53f1e390b32"
@@ -2563,10 +2553,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "19/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/A-confian-a-que-entregamos-tamb-m-constru-da-por-voc-s-Dia-do-Securit-rio-3eb33d8db9d280c5b2fac527520f2995"
@@ -2852,7 +2840,7 @@ const LINHA_FEED_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-ensinar-Direito-precisei-entender-que-conhecimento-s-faz-sentido-quando-pode-transformar--3dc33d8db9d280f98138cdaf7dbb3fb4"
@@ -4062,7 +4050,7 @@ const LINHA_STORIES_ITEMS = {
       "missing": [
         "Design"
       ],
-      "rawDesign": "🎨 1. A fazer",
+      "rawDesign": "🎨 3. N/A",
       "rawLegenda": "🪶 3. Escrito (coord.)",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/DicaDaSemana-3ed33d8db9d2809db358cbab38fa24eb"
@@ -4703,7 +4691,7 @@ const LEGENDAS_DATA = {
     "total": 23
   },
   "(Na Pautta) Finseg Leal": {
-    "prontas": 12,
+    "prontas": 13,
     "total": 19
   },
   "(Na Pautta) Di Gregório Buffet": {
