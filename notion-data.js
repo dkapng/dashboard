@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/10/2026, 11:34:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/10/2026, 15:48:22 **/
 
-const LAST_UPDATE = '15/10/2026, 11:34:58';
+const LAST_UPDATE = '15/10/2026, 15:48:22';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -18,7 +18,7 @@ const GESTORAS = {
   ],
   "Alice Sousa": [
     "(na pautta) Stratto",
-    "Juntos contra o HPV",
+    "(na pautta) Juntos contra o HPV",
     "(na pautta) Rede Pangeia",
     "(Na Pautta) ItalaP",
     "(Na Pautta) Finseg Leal",
@@ -26,12 +26,12 @@ const GESTORAS = {
     "(Na Pautta) Conecta Assessoria"
   ],
   "Anna Ventana": [
-    "Univendas",
-    "Terrartesã",
-    "RR Advocacia",
-    "Ortobom",
+    "(Na Pautta) Univendas",
+    "(Na Pautta) Terrartesã",
+    "(Na Pautta) RR Advocacia",
+    "(Na Pautta) Ortobom",
     "(Na Pautta) Di Gregório Buffet",
-    "Solar Coworking"
+    "(Na Pautta) Solar Coworking"
   ]
 };
 
@@ -41,15 +41,15 @@ const NICHES = {
   "Ser Ponte": "Geral",
   "Tramix": "Geral",
   "(na pautta) Stratto": "Geral",
-  "Juntos contra o HPV": "Geral",
+  "(na pautta) Juntos contra o HPV": "Geral",
   "(Na Pautta) Ventana": "Geral",
-  "Univendas": "Geral",
-  "Terrartesã": "Geral",
-  "RR Advocacia": "Geral",
+  "(Na Pautta) Univendas": "Geral",
+  "(Na Pautta) Terrartesã": "Geral",
+  "(Na Pautta) RR Advocacia": "Geral",
   "(na pautta) Rede Pangeia": "Geral",
   "Planos Seguros": "Geral",
   "Plannea": "Geral",
-  "Ortobom": "Geral",
+  "(Na Pautta) Ortobom": "Geral",
   "(Na Pautta) ItalaP": "Geral",
   "Grupo Mulheres do Brasil": "Geral",
   "(Na Pautta) Finseg Leal": "Geral",
@@ -57,7 +57,7 @@ const NICHES = {
   "(Na Pautta) APROSSEG": "Geral",
   "(na pautta) Daniel Maia Advocacia": "Geral",
   "(Na Pautta) Conecta Assessoria": "Geral",
-  "Solar Coworking": "Geral"
+  "(Na Pautta) Solar Coworking": "Geral"
 };
 
 const FEED_DATA = {
@@ -101,13 +101,13 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 4
   },
-  "Juntos contra o HPV": {
+  "(na pautta) Juntos contra o HPV": {
     "total": 15,
     "pronto": 7,
     "postado": 2,
-    "agendado": 4,
+    "agendado": 5,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "(Na Pautta) Ventana": {
     "total": 0,
@@ -117,7 +117,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Univendas": {
+  "(Na Pautta) Univendas": {
     "total": 13,
     "pronto": 0,
     "postado": 0,
@@ -125,7 +125,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 13
   },
-  "Terrartesã": {
+  "(Na Pautta) Terrartesã": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -133,7 +133,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "RR Advocacia": {
+  "(Na Pautta) RR Advocacia": {
     "total": 7,
     "pronto": 5,
     "postado": 5,
@@ -165,7 +165,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 2
   },
-  "Ortobom": {
+  "(Na Pautta) Ortobom": {
     "total": 3,
     "pronto": 0,
     "postado": 0,
@@ -231,7 +231,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 9
   },
-  "Solar Coworking": {
+  "(Na Pautta) Solar Coworking": {
     "total": 12,
     "pronto": 0,
     "postado": 0,
@@ -282,13 +282,13 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Juntos contra o HPV": {
-    "total": 5,
+  "(na pautta) Juntos contra o HPV": {
+    "total": 4,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 3
+    "a_agendar": 2
   },
   "(Na Pautta) Ventana": {
     "total": 0,
@@ -298,7 +298,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Univendas": {
+  "(Na Pautta) Univendas": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -306,7 +306,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Terrartesã": {
+  "(Na Pautta) Terrartesã": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -314,7 +314,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "RR Advocacia": {
+  "(Na Pautta) RR Advocacia": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -346,7 +346,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 1
   },
-  "Ortobom": {
+  "(Na Pautta) Ortobom": {
     "total": 9,
     "pronto": 2,
     "postado": 4,
@@ -410,7 +410,7 @@ const VIDEO_DATA = {
     "agendado_coord": 2,
     "a_agendar": 1
   },
-  "Solar Coworking": {
+  "(Na Pautta) Solar Coworking": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -461,7 +461,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Juntos contra o HPV": {
+  "(na pautta) Juntos contra o HPV": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -477,7 +477,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Univendas": {
+  "(Na Pautta) Univendas": {
     "total": 6,
     "pronto": 2,
     "postado": 1,
@@ -485,7 +485,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 4
   },
-  "Terrartesã": {
+  "(Na Pautta) Terrartesã": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -493,13 +493,13 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "RR Advocacia": {
+  "(Na Pautta) RR Advocacia": {
     "total": 5,
     "pronto": 2,
-    "postado": 1,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
-    "a_agendar": 4
+    "a_agendar": 3
   },
   "(na pautta) Rede Pangeia": {
     "total": 5,
@@ -525,7 +525,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Ortobom": {
+  "(Na Pautta) Ortobom": {
     "total": 5,
     "pronto": 3,
     "postado": 3,
@@ -589,7 +589,7 @@ const STORIES_DATA = {
     "agendado_coord": 1,
     "a_agendar": 3
   },
-  "Solar Coworking": {
+  "(Na Pautta) Solar Coworking": {
     "total": 4,
     "pronto": 1,
     "postado": 1,
@@ -1165,7 +1165,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Sua-empresa-pode-ter-lucro-e-mesmo-assim-ficar-sem-dinheiro-Entenda-como-isso-acontece-39133d8db9d280b2a92fc42c85297d4c"
     }
   ],
-  "Juntos contra o HPV": [
+  "(na pautta) Juntos contra o HPV": [
     {
       "title": "Hoje celebramos Luiza Helena Trajano. Uma mulher que transformou ideias em movimento, conexões em rede e vontade de fazer em ação.",
       "status": "postado",
@@ -1270,9 +1270,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Outubro amplia a conversa sobre o câncer de mama e chama atenção para a importância do cuidado com a saúde. Mas prevenção não deveria ser uma conversa de apenas um mês.",
-      "status": "a_agendar",
+      "status": "agendado",
       "formato": "🖼️ Post",
-      "date": "14/10",
+      "date": "15/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1349,7 +1349,7 @@ const LINHA_FEED_ITEMS = {
     }
   ],
   "(Na Pautta) Ventana": [],
-  "Univendas": [
+  "(Na Pautta) Univendas": [
     {
       "title": "Hoje celebramos quem transforma proteção em cuidado. 💚 Feliz Dia do Corretor de Planos!",
       "status": "a_agendar",
@@ -1520,8 +1520,8 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Outubro-Rosa-o-exame-que-voc-adia-pode-ser-o-que-mais-cuida-de-voc-3ec33d8db9d2805ab005c9234d77b226"
     }
   ],
-  "Terrartesã": [],
-  "RR Advocacia": [
+  "(Na Pautta) Terrartesã": [],
+  "(Na Pautta) RR Advocacia": [
     {
       "title": "Nem toda decisão de negócio termina no departamento financeiro.",
       "status": "a_agendar",
@@ -1953,7 +1953,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Promo-es-de-setembro-3dc33d8db9d28053989cfb859486ea36"
     }
   ],
-  "Ortobom": [
+  "(Na Pautta) Ortobom": [
     {
       "title": "O seu descanso merece ser pensado nos mínimos detalhes.",
       "status": "a_agendar",
@@ -3010,7 +3010,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-passou-anos-construindo-sua-vida-Talvez-esteja-na-hora-de-pensar-no-que-aconteceria-se-alguma--3e433d8db9d28080abfac4c9485826bb"
     }
   ],
-  "Solar Coworking": [
+  "(Na Pautta) Solar Coworking": [
     {
       "title": "Quando o cliente precisa de você, tenha um lugar preparado.",
       "status": "a_agendar",
@@ -3274,7 +3274,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-com-capa-Vende-muito-mas-o-caixa-n-o-sobra-3f233d8db9d2804bb674dc992b13b9eb"
     }
   ],
-  "Juntos contra o HPV": [
+  "(na pautta) Juntos contra o HPV": [
     {
       "title": "TBT do simposio ",
       "status": "postado",
@@ -3315,20 +3315,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-3e633d8db9d280859bf4f4ff9f983443"
     },
     {
-      "title": "TBT do simpósio",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "15/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/TBT-do-simp-sio-3e533d8db9d280a68cefd4267890188d"
-    },
-    {
       "title": "Vídeo com imagens e narração",
       "status": "agendado",
       "formato": "🎥 Vídeo vertical",
@@ -3341,9 +3327,9 @@ const LINHA_VIDEO_ITEMS = {
     }
   ],
   "(Na Pautta) Ventana": [],
-  "Univendas": [],
-  "Terrartesã": [],
-  "RR Advocacia": [],
+  "(Na Pautta) Univendas": [],
+  "(Na Pautta) Terrartesã": [],
+  "(Na Pautta) RR Advocacia": [],
   "(na pautta) Rede Pangeia": [],
   "Planos Seguros": [],
   "Plannea": [
@@ -3384,7 +3370,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Administrar-a-empresa-3e933d8db9d28025ac47cc0b266b6cec"
     }
   ],
-  "Ortobom": [
+  "(Na Pautta) Ortobom": [
     {
       "title": "Vídeo",
       "status": "a_agendar",
@@ -3802,7 +3788,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-conhece-a-Conecta-pelos-planos-de-sa-de-Mas-talvez-ainda-n-o-conhe-a-tudo-o-que-a-gente-faz-3e433d8db9d28004b99be1089af94fd7"
     }
   ],
-  "Solar Coworking": []
+  "(Na Pautta) Solar Coworking": []
 };
 
 const LINHA_STORIES_ITEMS = {
@@ -3825,9 +3811,9 @@ const LINHA_STORIES_ITEMS = {
   "Ser Ponte": [],
   "Tramix": [],
   "(na pautta) Stratto": [],
-  "Juntos contra o HPV": [],
+  "(na pautta) Juntos contra o HPV": [],
   "(Na Pautta) Ventana": [],
-  "Univendas": [
+  "(Na Pautta) Univendas": [
     {
       "title": "Story repost",
       "status": "postado",
@@ -3903,8 +3889,8 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-repost-3cd33d8db9d2800e852efc1d916c8218"
     }
   ],
-  "Terrartesã": [],
-  "RR Advocacia": [
+  "(Na Pautta) Terrartesã": [],
+  "(Na Pautta) RR Advocacia": [
     {
       "title": "Direito do Consumidor",
       "status": "a_agendar",
@@ -3946,7 +3932,7 @@ const LINHA_STORIES_ITEMS = {
     },
     {
       "title": "Direito Digital",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "📱 Story",
       "date": "08/10",
       "missing": [],
@@ -4032,7 +4018,7 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Planos Seguros": [],
   "Plannea": [],
-  "Ortobom": [
+  "(Na Pautta) Ortobom": [
     {
       "title": "Story/stories",
       "status": "a_agendar",
@@ -4269,7 +4255,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Tem-coisas-que-a-gente-s-percebe-o-quanto-s-o-importantes-quando-imagina-ficar-sem-elas-3e433d8db9d28070aad1f0e51b534e8f"
     }
   ],
-  "Solar Coworking": [
+  "(Na Pautta) Solar Coworking": [
     {
       "title": "Story/stories",
       "status": "a_agendar",
@@ -4444,7 +4430,7 @@ const DEMANDAS_EXTRAS = {
       "date": "09/10"
     }
   ],
-  "Univendas": [
+  "(Na Pautta) Univendas": [
     {
       "title": "Alterar imagem ",
       "priority": "ppp",
@@ -4500,7 +4486,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartão de visitas para Mayla",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "3. Na Pautta",
       "notionUrl": "https://app.notion.com/p/Cart-o-de-visitas-para-Mayla-3e933d8db9d280f88225e110f8034639",
       "gestora": "Equipe",
       "date": "01/10"
@@ -4536,7 +4522,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "3. Na Pautta",
       "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
       "gestora": "Equipe",
       "date": "30/09"
@@ -4565,12 +4551,13 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
-  "Univendas": "marcada",
+  "Plannea": "marcada",
+  "(Na Pautta) Univendas": "marcada",
   "(Na Pautta) Hélio Rôla 90 Anos": "marcada",
   "Planos Seguros": "marcada",
   "(Na Pautta) Finseg Leal": "marcada",
   "Tramix": "marcada",
-  "Ortobom": "marcada",
+  "(Na Pautta) Ortobom": "marcada",
   "(Na Pautta) Conecta Assessoria": "marcada",
   "(Na Pautta) APROSSEG": "marcada"
 };
@@ -4598,23 +4585,23 @@ const LEGENDAS_DATA = {
     "prontas": 11,
     "total": 11
   },
-  "Juntos contra o HPV": {
+  "(na pautta) Juntos contra o HPV": {
     "prontas": 17,
-    "total": 20
+    "total": 19
   },
   "(Na Pautta) Ventana": {
     "prontas": 0,
     "total": 2
   },
-  "Univendas": {
+  "(Na Pautta) Univendas": {
     "prontas": 13,
     "total": 13
   },
-  "Terrartesã": {
+  "(Na Pautta) Terrartesã": {
     "prontas": 0,
     "total": 0
   },
-  "RR Advocacia": {
+  "(Na Pautta) RR Advocacia": {
     "prontas": 6,
     "total": 7
   },
@@ -4630,7 +4617,7 @@ const LEGENDAS_DATA = {
     "prontas": 8,
     "total": 11
   },
-  "Ortobom": {
+  "(Na Pautta) Ortobom": {
     "prontas": 5,
     "total": 14
   },
@@ -4662,7 +4649,7 @@ const LEGENDAS_DATA = {
     "prontas": 18,
     "total": 20
   },
-  "Solar Coworking": {
+  "(Na Pautta) Solar Coworking": {
     "prontas": 12,
     "total": 12
   }
@@ -4704,11 +4691,11 @@ const FORMAT_COUNTS = {
     "video": 2,
     "story": 0
   },
-  "Juntos contra o HPV": {
+  "(na pautta) Juntos contra o HPV": {
     "post": 12,
     "carrossel": 3,
     "foto": 0,
-    "video": 5,
+    "video": 4,
     "story": 0
   },
   "(Na Pautta) Ventana": {
@@ -4718,21 +4705,21 @@ const FORMAT_COUNTS = {
     "video": 0,
     "story": 0
   },
-  "Univendas": {
+  "(Na Pautta) Univendas": {
     "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 6
   },
-  "Terrartesã": {
+  "(Na Pautta) Terrartesã": {
     "post": 0,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 0
   },
-  "RR Advocacia": {
+  "(Na Pautta) RR Advocacia": {
     "post": 7,
     "carrossel": 0,
     "foto": 0,
@@ -4760,7 +4747,7 @@ const FORMAT_COUNTS = {
     "video": 3,
     "story": 0
   },
-  "Ortobom": {
+  "(Na Pautta) Ortobom": {
     "post": 3,
     "carrossel": 0,
     "foto": 0,
@@ -4816,7 +4803,7 @@ const FORMAT_COUNTS = {
     "video": 5,
     "story": 7
   },
-  "Solar Coworking": {
+  "(Na Pautta) Solar Coworking": {
     "post": 12,
     "carrossel": 0,
     "foto": 0,
@@ -4851,7 +4838,7 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "Juntos contra o HPV": {
+  "(na pautta) Juntos contra o HPV": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
@@ -4861,17 +4848,17 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "Univendas": {
+  "(Na Pautta) Univendas": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
   },
-  "Terrartesã": {
+  "(Na Pautta) Terrartesã": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
-  "RR Advocacia": {
+  "(Na Pautta) RR Advocacia": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
@@ -4888,10 +4875,10 @@ const AGENDA_COUNTS = {
   },
   "Plannea": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
-  "Ortobom": {
+  "(Na Pautta) Ortobom": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
@@ -4931,7 +4918,7 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "Solar Coworking": {
+  "(Na Pautta) Solar Coworking": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
