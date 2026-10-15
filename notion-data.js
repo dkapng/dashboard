@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 15/10/2026, 06:35:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 15/10/2026, 11:34:58 **/
 
-const LAST_UPDATE = '15/10/2026, 06:35:37';
+const LAST_UPDATE = '15/10/2026, 11:34:58';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -17,9 +17,9 @@ const GESTORAS = {
     "Grupo Mulheres do Brasil"
   ],
   "Alice Sousa": [
-    "Stratto",
+    "(na pautta) Stratto",
     "Juntos contra o HPV",
-    "Rede Pangeia",
+    "(na pautta) Rede Pangeia",
     "(Na Pautta) ItalaP",
     "(Na Pautta) Finseg Leal",
     "(na pautta) Daniel Maia Advocacia",
@@ -40,13 +40,13 @@ const NICHES = {
   "(Na Pautta) AAFEC": "Geral",
   "Ser Ponte": "Geral",
   "Tramix": "Geral",
-  "Stratto": "Geral",
+  "(na pautta) Stratto": "Geral",
   "Juntos contra o HPV": "Geral",
   "(Na Pautta) Ventana": "Geral",
   "Univendas": "Geral",
   "Terrartesã": "Geral",
   "RR Advocacia": "Geral",
-  "Rede Pangeia": "Geral",
+  "(na pautta) Rede Pangeia": "Geral",
   "Planos Seguros": "Geral",
   "Plannea": "Geral",
   "Ortobom": "Geral",
@@ -79,10 +79,10 @@ const FEED_DATA = {
   },
   "Ser Ponte": {
     "total": 4,
-    "pronto": 3,
-    "postado": 2,
+    "pronto": 4,
+    "postado": 3,
     "agendado": 0,
-    "agendado_coord": 1,
+    "agendado_coord": 0,
     "a_agendar": 1
   },
   "Tramix": {
@@ -93,21 +93,21 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 1
   },
-  "Stratto": {
-    "total": 12,
+  "(na pautta) Stratto": {
+    "total": 9,
     "pronto": 6,
-    "postado": 1,
+    "postado": 2,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 8
+    "a_agendar": 4
   },
   "Juntos contra o HPV": {
     "total": 15,
     "pronto": 7,
-    "postado": 1,
+    "postado": 2,
     "agendado": 4,
     "agendado_coord": 0,
-    "a_agendar": 10
+    "a_agendar": 9
   },
   "(Na Pautta) Ventana": {
     "total": 0,
@@ -141,7 +141,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 2
   },
-  "Rede Pangeia": {
+  "(na pautta) Rede Pangeia": {
     "total": 13,
     "pronto": 6,
     "postado": 2,
@@ -217,7 +217,7 @@ const FEED_DATA = {
   },
   "(na pautta) Daniel Maia Advocacia": {
     "total": 11,
-    "pronto": 5,
+    "pronto": 6,
     "postado": 2,
     "agendado": 2,
     "agendado_coord": 0,
@@ -267,20 +267,20 @@ const VIDEO_DATA = {
     "a_agendar": 0
   },
   "Tramix": {
-    "total": 1,
-    "pronto": 1,
-    "postado": 1,
+    "total": 2,
+    "pronto": 2,
+    "postado": 2,
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Stratto": {
-    "total": 3,
+  "(na pautta) Stratto": {
+    "total": 2,
     "pronto": 2,
     "postado": 1,
     "agendado": 1,
     "agendado_coord": 0,
-    "a_agendar": 1
+    "a_agendar": 0
   },
   "Juntos contra o HPV": {
     "total": 5,
@@ -322,7 +322,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Rede Pangeia": {
+  "(na pautta) Rede Pangeia": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -453,7 +453,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Stratto": {
+  "(na pautta) Stratto": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -501,7 +501,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 4
   },
-  "Rede Pangeia": {
+  "(na pautta) Rede Pangeia": {
     "total": 5,
     "pronto": 2,
     "postado": 2,
@@ -954,13 +954,10 @@ const LINHA_FEED_ITEMS = {
   "Ser Ponte": [
     {
       "title": "Ter uma renda não significa estar fora da pobreza",
-      "status": "agendado_coord",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
+      "missing": [],
       "rawDesign": "🎨 2. Aprovação (cliente)",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
@@ -1061,47 +1058,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quem-produz-precisa-olhar-para-o-que-est-mudando-antes-de-todo-mundo-3e933d8db9d280119ebde7853a1aaf59"
     }
   ],
-  "Stratto": [
-    {
-      "title": "Quanto mais importante a decisão, mais importante é conhecer o impacto que ela pode gerar.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "30/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-mais-importante-a-decis-o-mais-importante-conhecer-o-impacto-que-ela-pode-gerar-Quer-leva-3e233d8db9d28091a471d05916c20d13"
-    },
-    {
-      "title": "Antes de investir, existem perguntas que precisam ser respondidas: Quanto vai custar? \nQuando começa a retornar? \nQual será o impacto no caixa? E se a receita esperada não acontecer? ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "28/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Antes-de-investir-existem-perguntas-que-precisam-ser-respondidas-Quanto-vai-custar-Quando-come-a-3e233d8db9d280c2a0cdda5d07c006f4"
-    },
-    {
-      "title": "Uma empresa pode vender mais e, ao mesmo tempo: reduzir sua margem; aumentar o endividamento; consumir mais caixa; elevar os custos; aumentar sua estrutura sem retorno proporcional. ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "26/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Uma-empresa-pode-vender-mais-e-ao-mesmo-tempo-reduzir-sua-margem-aumentar-o-endividamento-consum-3e233d8db9d2804e9f9bdd0c3c225a44"
-    },
+  "(na pautta) Stratto": [
     {
       "title": "Como saber se sua empresa precisa de um BPO Financeiro?",
       "status": "a_agendar",
@@ -1119,7 +1076,7 @@ const LINHA_FEED_ITEMS = {
       "title": "Sua empresa já tem orçamento ou ainda administra o ano conforme as coisas acontecem? ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
-      "date": "21/10",
+      "date": "20/10",
       "missing": [
         "Design"
       ],
@@ -1165,7 +1122,7 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "A IA pode analisar seus números. Mas quem está fazendo as perguntas certas?",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
       "date": "15/10",
       "missing": [],
@@ -1337,9 +1294,9 @@ const LINHA_FEED_ITEMS = {
     },
     {
       "title": "Quem fala sobre prevenção também ajuda a fazê-la chegar mais longe. Profissionais - Educadores - Famílias - Comunidades",
-      "status": "a_agendar",
+      "status": "postado",
       "formato": "🖼️ Post",
-      "date": "13/10",
+      "date": "15/10",
       "missing": [],
       "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
@@ -1648,7 +1605,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-Internacional-da-N-o-Viol-ncia-Rela-es-profissionais-tamb-m-precisam-de-respeito-3eb33d8db9d280eb95aaef4592a7ef27"
     }
   ],
-  "Rede Pangeia": [
+  "(na pautta) Rede Pangeia": [
     {
       "title": "O que queremos construir com a Rede Pangeia? \n- Organizações mais fortes. - \nPessoas mais preparadas. - \nRelações mais possíveis. - Mais autonomia para quem transforma.",
       "status": "a_agendar",
@@ -2837,10 +2794,8 @@ const LINHA_FEED_ITEMS = {
       "status": "a_agendar",
       "formato": "🖼️ Post",
       "date": "15/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 3. N/A",
+      "missing": [],
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Antes-de-ensinar-Direito-precisei-entender-que-conhecimento-s-faz-sentido-quando-pode-transformar--3dc33d8db9d280f98138cdaf7dbb3fb4"
@@ -3273,6 +3228,17 @@ const LINHA_VIDEO_ITEMS = {
   "Ser Ponte": [],
   "Tramix": [
     {
+      "title": "Vídeo outubro Rosa ",
+      "status": "postado",
+      "formato": "🎥 Vídeo vertical",
+      "date": "15/10",
+      "missing": [],
+      "rawDesign": "🎨 3. N/A",
+      "rawLegenda": "🪶 1. A escrever",
+      "rawVideo": "📽️ 1. A captar",
+      "notionUrl": "https://app.notion.com/p/V-deo-outubro-Rosa-3fa33d8db9d2802596d6d6e8c7d6a98f"
+    },
+    {
       "title": "Legado ",
       "status": "postado",
       "formato": "🎥 Vídeo vertical",
@@ -3284,7 +3250,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Legado-3d833d8db9d2807b8d0fd1c0fa74146f"
     }
   ],
-  "Stratto": [
+  "(na pautta) Stratto": [
     {
       "title": "Vídeo com capa - ",
       "status": "agendado",
@@ -3306,20 +3272,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 3. Escrito",
       "rawVideo": "📽️ 3. Finalizado",
       "notionUrl": "https://app.notion.com/p/V-deo-com-capa-Vende-muito-mas-o-caixa-n-o-sobra-3f233d8db9d2804bb674dc992b13b9eb"
-    },
-    {
-      "title": "O empresário precisa pensar.",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "23/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/O-empres-rio-precisa-pensar-39133d8db9d2802b89c0e71fda43438c"
     }
   ],
   "Juntos contra o HPV": [
@@ -3392,7 +3344,7 @@ const LINHA_VIDEO_ITEMS = {
   "Univendas": [],
   "Terrartesã": [],
   "RR Advocacia": [],
-  "Rede Pangeia": [],
+  "(na pautta) Rede Pangeia": [],
   "Planos Seguros": [],
   "Plannea": [
     {
@@ -3872,7 +3824,7 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Ser Ponte": [],
   "Tramix": [],
-  "Stratto": [],
+  "(na pautta) Stratto": [],
   "Juntos contra o HPV": [],
   "(Na Pautta) Ventana": [],
   "Univendas": [
@@ -4015,7 +3967,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Conflito-no-trabalho-3eb33d8db9d280cabb03faa96d09aadb"
     }
   ],
-  "Rede Pangeia": [
+  "(na pautta) Rede Pangeia": [
     {
       "title": "#DicaDaSemana",
       "status": "a_agendar",
@@ -4600,7 +4552,7 @@ const DEMANDAS_EXTRAS = {
       "date": "04/09"
     }
   ],
-  "Rede Pangeia": [
+  "(na pautta) Rede Pangeia": [
     {
       "title": "Site",
       "priority": "p",
@@ -4635,16 +4587,16 @@ const LEGENDAS_DATA = {
     "total": 24
   },
   "Ser Ponte": {
-    "prontas": 2,
+    "prontas": 3,
     "total": 4
   },
   "Tramix": {
-    "prontas": 5,
-    "total": 6
+    "prontas": 6,
+    "total": 7
   },
-  "Stratto": {
-    "prontas": 13,
-    "total": 15
+  "(na pautta) Stratto": {
+    "prontas": 11,
+    "total": 11
   },
   "Juntos contra o HPV": {
     "prontas": 17,
@@ -4666,7 +4618,7 @@ const LEGENDAS_DATA = {
     "prontas": 6,
     "total": 7
   },
-  "Rede Pangeia": {
+  "(na pautta) Rede Pangeia": {
     "prontas": 13,
     "total": 13
   },
@@ -4742,14 +4694,14 @@ const FORMAT_COUNTS = {
     "post": 5,
     "carrossel": 0,
     "foto": 0,
-    "video": 1,
+    "video": 2,
     "story": 0
   },
-  "Stratto": {
-    "post": 11,
+  "(na pautta) Stratto": {
+    "post": 8,
     "carrossel": 1,
     "foto": 0,
-    "video": 3,
+    "video": 2,
     "story": 0
   },
   "Juntos contra o HPV": {
@@ -4787,7 +4739,7 @@ const FORMAT_COUNTS = {
     "video": 0,
     "story": 5
   },
-  "Rede Pangeia": {
+  "(na pautta) Rede Pangeia": {
     "post": 10,
     "carrossel": 3,
     "foto": 0,
@@ -4894,7 +4846,7 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "Stratto": {
+  "(na pautta) Stratto": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
@@ -4924,7 +4876,7 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "Rede Pangeia": {
+  "(na pautta) Rede Pangeia": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
