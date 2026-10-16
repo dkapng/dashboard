@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 16/10/2026, 14:45:56 **/
+/** AUTO-GENERATED DATA FROM NOTION - 16/10/2026, 17:20:55 **/
 
-const LAST_UPDATE = '16/10/2026, 14:45:56';
+const LAST_UPDATE = '16/10/2026, 17:20:55';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -14,7 +14,7 @@ const GESTORAS = {
     "Tramix",
     "Planos Seguros",
     "Plannea",
-    "Grupo Mulheres do Brasil"
+    "(Na Pautta) Grupo Mulheres do Brasil"
   ],
   "Alice Sousa": [
     "(na pautta) Stratto",
@@ -51,7 +51,7 @@ const NICHES = {
   "Plannea": "Geral",
   "(Na Pautta) Ortobom": "Geral",
   "(Na Pautta) ItalaP": "Geral",
-  "Grupo Mulheres do Brasil": "Geral",
+  "(Na Pautta) Grupo Mulheres do Brasil": "Geral",
   "(Na Pautta) Finseg Leal": "Geral",
   "(Na Pautta) Di Gregório Buffet": "Geral",
   "(Na Pautta) APROSSEG": "Geral",
@@ -181,7 +181,7 @@ const FEED_DATA = {
     "agendado_coord": 1,
     "a_agendar": 9
   },
-  "Grupo Mulheres do Brasil": {
+  "(Na Pautta) Grupo Mulheres do Brasil": {
     "total": 21,
     "pronto": 12,
     "postado": 8,
@@ -362,7 +362,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "Grupo Mulheres do Brasil": {
+  "(Na Pautta) Grupo Mulheres do Brasil": {
     "total": 1,
     "pronto": 0,
     "postado": 0,
@@ -541,7 +541,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 4
   },
-  "Grupo Mulheres do Brasil": {
+  "(Na Pautta) Grupo Mulheres do Brasil": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -2175,7 +2175,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Antes-de-um-diagn-stico-existe-algu-m-que-escutou-investigou-e-buscou-respostas-Dia-do-M-dico-d22900e72749439c80bb0480270004a6"
     }
   ],
-  "Grupo Mulheres do Brasil": [
+  "(Na Pautta) Grupo Mulheres do Brasil": [
     {
       "title": "Essa história já levou pessoas às ruas",
       "status": "a_agendar",
@@ -3527,7 +3527,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-das-crian-as-3f133d8db9d280ebbe6eee421207dd70"
     }
   ],
-  "Grupo Mulheres do Brasil": [
+  "(Na Pautta) Grupo Mulheres do Brasil": [
     {
       "title": "Vídeo com texto e narração",
       "status": "a_agendar",
@@ -4153,7 +4153,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/outubrorosa-3ed33d8db9d2800385b2dbfdf3e9f75a"
     }
   ],
-  "Grupo Mulheres do Brasil": [],
+  "(Na Pautta) Grupo Mulheres do Brasil": [],
   "(Na Pautta) Finseg Leal": [],
   "(Na Pautta) Di Gregório Buffet": [],
   "(Na Pautta) APROSSEG": [],
@@ -4510,7 +4510,7 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
-  "Grupo Mulheres do Brasil": [
+  "(Na Pautta) Grupo Mulheres do Brasil": [
     {
       "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
       "priority": "ppp",
@@ -4551,6 +4551,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "(Na Pautta) Solar Coworking": "confirmada",
   "Plannea": "marcada",
   "(Na Pautta) Univendas": "marcada",
   "(Na Pautta) Hélio Rôla 90 Anos": "marcada",
@@ -4625,7 +4626,7 @@ const LEGENDAS_DATA = {
     "prontas": 10,
     "total": 16
   },
-  "Grupo Mulheres do Brasil": {
+  "(Na Pautta) Grupo Mulheres do Brasil": {
     "prontas": 13,
     "total": 23
   },
@@ -4761,7 +4762,7 @@ const FORMAT_COUNTS = {
     "video": 1,
     "story": 6
   },
-  "Grupo Mulheres do Brasil": {
+  "(Na Pautta) Grupo Mulheres do Brasil": {
     "post": 16,
     "carrossel": 5,
     "foto": 0,
@@ -4851,7 +4852,7 @@ const AGENDA_COUNTS = {
   "(Na Pautta) Univendas": {
     "reuniao": 0,
     "producao": 1,
-    "evento": 0
+    "evento": 1
   },
   "(Na Pautta) Terrartesã": {
     "reuniao": 0,
@@ -4888,7 +4889,7 @@ const AGENDA_COUNTS = {
     "producao": 0,
     "evento": 0
   },
-  "Grupo Mulheres do Brasil": {
+  "(Na Pautta) Grupo Mulheres do Brasil": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
@@ -4920,7 +4921,7 @@ const AGENDA_COUNTS = {
   },
   "(Na Pautta) Solar Coworking": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   }
 };
