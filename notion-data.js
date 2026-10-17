@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/10/2026, 06:32:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/10/2026, 10:23:24 **/
 
-const LAST_UPDATE = '17/10/2026, 06:32:50';
+const LAST_UPDATE = '17/10/2026, 10:23:24';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4551,6 +4551,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "(na pautta) Stratto": "marcada",
   "(Na Pautta) Solar Coworking": "confirmada",
   "Plannea": "marcada",
   "(Na Pautta) Univendas": "marcada",
@@ -4836,7 +4837,7 @@ const AGENDA_COUNTS = {
   },
   "(na pautta) Stratto": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "(na pautta) Juntos contra o HPV": {
@@ -4880,7 +4881,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "(Na Pautta) Ortobom": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
