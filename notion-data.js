@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/10/2026, 02:00:52 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/10/2026, 08:01:20 **/
 
-const LAST_UPDATE = '19/10/2026, 02:00:52';
+const LAST_UPDATE = '19/10/2026, 08:01:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4552,6 +4552,7 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "(na pautta) Stratto": "marcada",
+  "(Na Pautta) Grupo Mulheres do Brasil": "marcada",
   "(Na Pautta) Solar Coworking": "confirmada",
   "Plannea": "marcada",
   "(Na Pautta) Univendas": "marcada",
@@ -4892,7 +4893,7 @@ const AGENDA_COUNTS = {
   },
   "(Na Pautta) Grupo Mulheres do Brasil": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "(Na Pautta) Finseg Leal": {
