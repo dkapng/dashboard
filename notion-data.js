@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/10/2026, 08:01:20 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/10/2026, 14:37:15 **/
 
-const LAST_UPDATE = '19/10/2026, 08:01:20';
+const LAST_UPDATE = '19/10/2026, 14:37:15';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -224,12 +224,12 @@ const FEED_DATA = {
     "a_agendar": 7
   },
   "(Na Pautta) Conecta Assessoria": {
-    "total": 13,
+    "total": 12,
     "pronto": 4,
     "postado": 1,
     "agendado": 3,
     "agendado_coord": 0,
-    "a_agendar": 9
+    "a_agendar": 8
   },
   "(Na Pautta) Solar Coworking": {
     "total": 12,
@@ -958,7 +958,7 @@ const LINHA_FEED_ITEMS = {
       "formato": "🖼️ Post",
       "date": "15/10",
       "missing": [],
-      "rawDesign": "🎨 2. Aprovação (cliente)",
+      "rawDesign": "🎨 3. Exportado",
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Ter-uma-renda-n-o-significa-estar-fora-da-pobreza-3f033d8db9d2802fbbe1fe40c8894b11"
@@ -2901,19 +2901,6 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-quer-comprar-Mas-precisa-comprar-agora-3e433d8db9d280a0a8f2d349381fc0e0"
     },
     {
-      "title": "Cuidar de vidas exige conhecimento, dedicação e, acima de tudo, humanidade. Feliz Dia do Médico!",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "18/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Cuidar-de-vidas-exige-conhecimento-dedica-o-e-acima-de-tudo-humanidade-Feliz-Dia-do-M-dico-3e433d8db9d280e4a643ea5dd63cd98a"
-    },
-    {
       "title": "Você pode fazer tudo certo e ainda assim ser responsabilizado por alguma coisa. ",
       "status": "a_agendar",
       "formato": "🖼️ Post",
@@ -4310,48 +4297,6 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "(Na Pautta) ItalaP": [
-    {
-      "title": "TBT Italap ",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/TBT-Italap-3f933d8db9d2806fa699f87e97160c94",
-      "gestora": "Equipe",
-      "date": "15/10"
-    },
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
-      "gestora": "Equipe",
-      "date": "14/09"
-    },
-    {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
-      "gestora": "Equipe",
-      "date": "09/09"
-    },
-    {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
-      "gestora": "Equipe",
-      "date": "09/09"
-    }
-  ],
   "(Na Pautta) AAFEC": [
     {
       "title": "Agenda de novembro de 2026",
@@ -4360,24 +4305,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
       "gestora": "Equipe",
       "date": "23/10"
-    }
-  ],
-  "(Na Pautta) Finseg Leal": [
-    {
-      "title": "Designs para performance #5",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Designs-para-performance-5-3f333d8db9d280378bd0dba460e913ac",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ],
   "Plannea": [
@@ -4510,6 +4437,40 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
+  "(Na Pautta) ItalaP": [
+    {
+      "title": "Adicionar/atualizar as localizações no Google",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
+    }
+  ],
   "(Na Pautta) Grupo Mulheres do Brasil": [
     {
       "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
@@ -4546,6 +4507,16 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Site-3c033d8db9d2809489b8c7ed035a9314",
       "gestora": "Equipe",
       "date": "26/08"
+    }
+  ],
+  "(Na Pautta) Finseg Leal": [
+    {
+      "title": "Diagnóstico de proteções - Versão de Apresentação",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
+      "gestora": "Equipe",
+      "date": "15/05"
     }
   ]
 };
@@ -4649,8 +4620,8 @@ const LEGENDAS_DATA = {
     "total": 13
   },
   "(Na Pautta) Conecta Assessoria": {
-    "prontas": 18,
-    "total": 20
+    "prontas": 17,
+    "total": 19
   },
   "(Na Pautta) Solar Coworking": {
     "prontas": 12,
@@ -4800,7 +4771,7 @@ const FORMAT_COUNTS = {
     "story": 1
   },
   "(Na Pautta) Conecta Assessoria": {
-    "post": 11,
+    "post": 10,
     "carrossel": 2,
     "foto": 0,
     "video": 5,
