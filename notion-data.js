@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/10/2026, 14:37:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/10/2026, 18:54:00 **/
 
-const LAST_UPDATE = '19/10/2026, 14:37:15';
+const LAST_UPDATE = '19/10/2026, 18:54:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4522,6 +4522,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "(na pautta) Daniel Maia Advocacia": "marcada",
   "(na pautta) Stratto": "marcada",
   "(Na Pautta) Grupo Mulheres do Brasil": "marcada",
   "(Na Pautta) Solar Coworking": "confirmada",
@@ -4884,7 +4885,7 @@ const AGENDA_COUNTS = {
   },
   "(na pautta) Daniel Maia Advocacia": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "(Na Pautta) Conecta Assessoria": {
