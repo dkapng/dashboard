@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/10/2026, 18:54:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/10/2026, 21:51:07 **/
 
-const LAST_UPDATE = '19/10/2026, 18:54:00';
+const LAST_UPDATE = '19/10/2026, 21:51:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4413,7 +4413,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartão de visitas para Mayla",
       "priority": "p",
-      "rawStatus": "3. Na Pautta",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Cart-o-de-visitas-para-Mayla-3e933d8db9d280f88225e110f8034639",
       "gestora": "Equipe",
       "date": "01/10"
@@ -4483,7 +4483,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
       "priority": "p",
-      "rawStatus": "3. Na Pautta",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
       "gestora": "Equipe",
       "date": "30/09"
