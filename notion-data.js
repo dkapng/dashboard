@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/10/2026, 09:08:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/10/2026, 14:28:29 **/
 
-const LAST_UPDATE = '21/10/2026, 09:08:00';
+const LAST_UPDATE = '21/10/2026, 14:28:29';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4297,6 +4297,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "(Na Pautta) Solar Coworking": [
+    {
+      "title": "Folheto de Formas de Pagamento",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Folheto-de-Formas-de-Pagamento-40033d8db9d280bb8dd5e531e9193b5f",
+      "gestora": "Equipe",
+      "date": "23/10"
+    }
+  ],
   "(Na Pautta) AAFEC": [
     {
       "title": "Agenda de novembro de 2026",
