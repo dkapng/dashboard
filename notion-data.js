@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 21/10/2026, 20:50:51 **/
+/** AUTO-GENERATED DATA FROM NOTION - 21/10/2026, 23:52:00 **/
 
-const LAST_UPDATE = '21/10/2026, 20:50:51';
+const LAST_UPDATE = '21/10/2026, 23:52:00';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4532,6 +4532,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Ser Ponte": "marcada",
   "(na pautta) Daniel Maia Advocacia": "marcada",
   "(na pautta) Stratto": "marcada",
   "(Na Pautta) Grupo Mulheres do Brasil": "marcada",
@@ -4804,13 +4805,13 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "(Na Pautta) AAFEC": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 4
   },
   "Ser Ponte": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Tramix": {
