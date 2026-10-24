@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/10/2026, 06:40:50 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/10/2026, 10:45:30 **/
 
-const LAST_UPDATE = '24/10/2026, 06:40:50';
+const LAST_UPDATE = '24/10/2026, 10:45:30';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4855,7 +4855,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Planos Seguros": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
