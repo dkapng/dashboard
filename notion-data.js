@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/10/2026, 11:08:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/10/2026, 14:44:07 **/
 
-const LAST_UPDATE = '25/10/2026, 11:08:11';
+const LAST_UPDATE = '25/10/2026, 14:44:07';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4517,16 +4517,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Site-3c033d8db9d2809489b8c7ed035a9314",
       "gestora": "Equipe",
       "date": "26/08"
-    }
-  ],
-  "(Na Pautta) Finseg Leal": [
-    {
-      "title": "Diagnóstico de proteções - Versão de Apresentação",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Diagn-stico-de-prote-es-Vers-o-de-Apresenta-o-31233d8db9d2800fb271ffec2ed640aa",
-      "gestora": "Equipe",
-      "date": "15/05"
     }
   ]
 };
