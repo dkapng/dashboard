@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/10/2026, 09:00:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/10/2026, 15:45:12 **/
 
-const LAST_UPDATE = '26/10/2026, 09:00:32';
+const LAST_UPDATE = '26/10/2026, 15:45:12';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4297,6 +4297,34 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Criar arte para grupo de whatsapp",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-arte-para-grupo-de-whatsapp-40533d8db9d280c39a34fc5f1be50abc",
+      "gestora": "Equipe",
+      "date": "29/10"
+    },
+    {
+      "title": "Fim de ano Plannea | Menu",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Menu-3f133d8db9d280e495a3f4f41fe64d63",
+      "gestora": "Equipe",
+      "date": "09/10"
+    }
+  ],
+  "(na pautta) Juntos contra o HPV": [
+    {
+      "title": "Edição de vídeo ",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Edi-o-de-v-deo-40533d8db9d280db871ff2febef34eac",
+      "gestora": "Equipe",
+      "date": "27/10"
+    }
+  ],
   "(Na Pautta) Solar Coworking": [
     {
       "title": "Folheto de Formas de Pagamento",
@@ -4315,16 +4343,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
       "gestora": "Equipe",
       "date": "23/10"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Fim de ano Plannea | Menu",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Menu-3f133d8db9d280e495a3f4f41fe64d63",
-      "gestora": "Equipe",
-      "date": "09/10"
     }
   ],
   "(Na Pautta) Di Gregório Buffet": [
@@ -4773,7 +4791,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "(Na Pautta) Grupo Mulheres do Brasil": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
