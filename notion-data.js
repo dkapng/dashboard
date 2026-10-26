@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/10/2026, 21:54:49 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/10/2026, 02:40:08 **/
 
-const LAST_UPDATE = '25/10/2026, 21:54:49';
+const LAST_UPDATE = '26/10/2026, 02:40:08';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -4319,122 +4319,12 @@ const DEMANDAS_EXTRAS = {
   ],
   "Plannea": [
     {
-      "title": "Solicito arte de boas vindas do Gabriel Ruan para a vaga de Auxiliar Contábil. Hobby: Desenhar, escrever RPG e jogos eletrônicos. Graduando em Ciências Contábeis.",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Solicito-arte-de-boas-vindas-do-Gabriel-Ruan-para-a-vaga-de-Auxiliar-Cont-bil-Hobby-Desenhar-escr-3f333d8db9d280cb811fd541223aee3b",
-      "gestora": "Equipe",
-      "date": "12/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Planews",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Planews-3f333d8db9d280fd9653e382641405ee",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Banner",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Banner-3f233d8db9d280039e0eebed6f6cefd2",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Almofada",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Almofada-3f233d8db9d28076ba4ed0b895ebaec8",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Lona para selfies",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Lona-para-selfies-3f133d8db9d280498837cafe5dcdafc3",
-      "gestora": "Equipe",
-      "date": "09/10"
-    },
-    {
       "title": "Fim de ano Plannea | Menu",
       "priority": "p",
       "rawStatus": "2. Falta informação",
       "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Menu-3f133d8db9d280e495a3f4f41fe64d63",
       "gestora": "Equipe",
       "date": "09/10"
-    }
-  ],
-  "(Na Pautta) Univendas": [
-    {
-      "title": "Alterar imagem ",
-      "priority": "ppp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Alterar-imagem-3f233d8db9d28057880af22228ba1e60",
-      "gestora": "Equipe",
-      "date": "09/10"
-    }
-  ],
-  "Planos Seguros": [
-    {
-      "title": "Apresentação Saúde é Equilíbrio",
-      "priority": "pppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Apresenta-o-Sa-de-Equil-brio-3f133d8db9d280c1be06ed717e6cc2b3",
-      "gestora": "Equipe",
-      "date": "06/10"
-    },
-    {
-      "title": "Arte aniversariantes",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Arte-aniversariantes-3cd33d8db9d28060a29be976ebe4f006",
-      "gestora": "Equipe",
-      "date": "01/09"
-    },
-    {
-      "title": "Capas por assunto para mensagens padronizadas no whatsapp (Ex: cancelamento da Bradesco Saúde)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Capas-por-assunto-para-mensagens-padronizadas-no-whatsapp-Ex-cancelamento-da-Bradesco-Sa-de-31133d8db9d280cbb4bedf2e1ef64319",
-      "gestora": "Equipe",
-      "date": "22/05"
-    },
-    {
-      "title": "Boas vindas individual (E-mail)",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
-      "gestora": "Equipe",
-      "date": "22/05"
-    },
-    {
-      "title": "Gestão de e-mails",
-      "priority": "pppp",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
-      "gestora": "Equipe",
-      "date": "29/05"
-    }
-  ],
-  "(Na Pautta) Ventana": [
-    {
-      "title": "Cartão de visitas para Mayla",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Cart-o-de-visitas-para-Mayla-3e933d8db9d280f88225e110f8034639",
-      "gestora": "Equipe",
-      "date": "01/10"
-    },
-    {
-      "title": "Briefing e e-mail de boas vindas",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Briefing-e-e-mail-de-boas-vindas-3a533d8db9d280b1bedbca459c754824",
-      "gestora": "Equipe",
-      "date": "27/07"
     }
   ],
   "(Na Pautta) Di Gregório Buffet": [
@@ -4517,6 +4407,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Site-3c033d8db9d2809489b8c7ed035a9314",
       "gestora": "Equipe",
       "date": "26/08"
+    }
+  ],
+  "Planos Seguros": [
+    {
+      "title": "Boas vindas individual (E-mail)",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Boas-vindas-individual-E-mail-31133d8db9d28025b633d6b6dbdb9d57",
+      "gestora": "Equipe",
+      "date": "22/05"
+    },
+    {
+      "title": "Gestão de e-mails",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Gest-o-de-e-mails-31133d8db9d2801582d2e38f4ff6231e",
+      "gestora": "Equipe",
+      "date": "29/05"
     }
   ]
 };
