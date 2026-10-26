@@ -1,12 +1,11 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/10/2026, 15:45:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/10/2026, 19:58:12 **/
 
-const LAST_UPDATE = '26/10/2026, 15:45:12';
+const LAST_UPDATE = '26/10/2026, 19:58:12';
 
 const GESTORAS = {
   "Mayla Valere": [
     "(Na Pautta) Hélio Rôla 90 Anos",
-    "(Na Pautta) Ventana",
-    "(Na Pautta) APROSSEG"
+    "(Na Pautta) Ventana"
   ],
   "Lucas de Paula": [
     "(Na Pautta) AAFEC",
@@ -17,11 +16,11 @@ const GESTORAS = {
     "(Na Pautta) Grupo Mulheres do Brasil"
   ],
   "Alice Sousa": [
-    "(na pautta) Stratto",
     "(na pautta) Juntos contra o HPV",
     "(na pautta) Rede Pangeia",
     "(Na Pautta) ItalaP",
     "(Na Pautta) Finseg Leal",
+    "(Na Pautta) APROSSEG",
     "(na pautta) Daniel Maia Advocacia",
     "(Na Pautta) Conecta Assessoria"
   ],
@@ -29,7 +28,6 @@ const GESTORAS = {
     "(Na Pautta) Univendas",
     "(Na Pautta) Terrartesã",
     "(Na Pautta) RR Advocacia",
-    "(Na Pautta) Ortobom",
     "(Na Pautta) Di Gregório Buffet",
     "(Na Pautta) Solar Coworking"
   ]
@@ -40,7 +38,6 @@ const NICHES = {
   "(Na Pautta) AAFEC": "Geral",
   "Ser Ponte": "Geral",
   "Tramix": "Geral",
-  "(na pautta) Stratto": "Geral",
   "(na pautta) Juntos contra o HPV": "Geral",
   "(Na Pautta) Ventana": "Geral",
   "(Na Pautta) Univendas": "Geral",
@@ -49,7 +46,6 @@ const NICHES = {
   "(na pautta) Rede Pangeia": "Geral",
   "Planos Seguros": "Geral",
   "Plannea": "Geral",
-  "(Na Pautta) Ortobom": "Geral",
   "(Na Pautta) ItalaP": "Geral",
   "(Na Pautta) Grupo Mulheres do Brasil": "Geral",
   "(Na Pautta) Finseg Leal": "Geral",
@@ -92,14 +88,6 @@ const FEED_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
-  },
-  "(na pautta) Stratto": {
-    "total": 9,
-    "pronto": 6,
-    "postado": 2,
-    "agendado": 3,
-    "agendado_coord": 0,
-    "a_agendar": 4
   },
   "(na pautta) Juntos contra o HPV": {
     "total": 15,
@@ -164,14 +152,6 @@ const FEED_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 2
-  },
-  "(Na Pautta) Ortobom": {
-    "total": 3,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 3
   },
   "(Na Pautta) ItalaP": {
     "total": 15,
@@ -274,14 +254,6 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(na pautta) Stratto": {
-    "total": 2,
-    "pronto": 2,
-    "postado": 1,
-    "agendado": 1,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
   "(na pautta) Juntos contra o HPV": {
     "total": 4,
     "pronto": 2,
@@ -345,14 +317,6 @@ const VIDEO_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 1
-  },
-  "(Na Pautta) Ortobom": {
-    "total": 9,
-    "pronto": 2,
-    "postado": 4,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 7
   },
   "(Na Pautta) ItalaP": {
     "total": 1,
@@ -453,14 +417,6 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(na pautta) Stratto": {
-    "total": 0,
-    "pronto": 0,
-    "postado": 0,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 0
-  },
   "(na pautta) Juntos contra o HPV": {
     "total": 0,
     "pronto": 0,
@@ -524,14 +480,6 @@ const STORIES_DATA = {
     "agendado": 0,
     "agendado_coord": 0,
     "a_agendar": 0
-  },
-  "(Na Pautta) Ortobom": {
-    "total": 5,
-    "pronto": 3,
-    "postado": 3,
-    "agendado": 0,
-    "agendado_coord": 0,
-    "a_agendar": 2
   },
   "(Na Pautta) ItalaP": {
     "total": 6,
@@ -1056,113 +1004,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Quem-produz-precisa-olhar-para-o-que-est-mudando-antes-de-todo-mundo-3e933d8db9d280119ebde7853a1aaf59"
-    }
-  ],
-  "(na pautta) Stratto": [
-    {
-      "title": "Como saber se sua empresa precisa de um BPO Financeiro?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "16/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Como-saber-se-sua-empresa-precisa-de-um-BPO-Financeiro-3e233d8db9d280dca3f2c55e549e862d"
-    },
-    {
-      "title": "Sua empresa já tem orçamento ou ainda administra o ano conforme as coisas acontecem? ",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "20/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-empresa-j-tem-or-amento-ou-ainda-administra-o-ano-conforme-as-coisas-acontecem-A-Stratto-pode--3e233d8db9d2805eaca5f3751db437db"
-    },
-    {
-      "title": "Quanto tempo sua equipe perde fazendo manualmente o que poderia estar organizado e automatizado? Fale com a Stratto e descubra onde sua operação pode ganhar eficiência.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "01/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-tempo-sua-equipe-perde-fazendo-manualmente-o-que-poderia-estar-organizado-e-automatizado-Fal-3cd33d8db9d280cca44cef65f5defe3f"
-    },
-    {
-      "title": "Se todo problema precisa chegar até você, talvez o problema não seja a equipe. É a estrutura.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "02/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Se-todo-problema-precisa-chegar-at-voc-talvez-o-problema-n-o-seja-a-equipe-a-estrutura-3cd33d8db9d2803d94aace477348b57a"
-    },
-    {
-      "title": "Quanto custa manter uma operação financeira que depende de planilhas, mensagens e memória?",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "19/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Quanto-custa-manter-uma-opera-o-financeira-que-depende-de-planilhas-mensagens-e-mem-ria-39133d8db9d28040afcbe3a093902861"
-    },
-    {
-      "title": "A IA pode analisar seus números. Mas quem está fazendo as perguntas certas?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "15/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/A-IA-pode-analisar-seus-n-meros-Mas-quem-est-fazendo-as-perguntas-certas-39133d8db9d280b3a3e5c4ac3abadb19"
-    },
-    {
-      "title": "O problema financeiro da sua empresa pode ter começado muito antes de chegar ao financeiro. Muitas vezes, o financeiro é apenas onde o problema aparece. Não onde ele começou.",
-      "status": "agendado",
-      "formato": "🖼️ Post",
-      "date": "08/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-problema-financeiro-da-sua-empresa-pode-ter-come-ado-muito-antes-de-chegar-ao-financeiro-Muitas-v-39133d8db9d2801084c6eeb7804d71bf"
-    },
-    {
-      "title": "Se o seu financeiro só consegue explicar o mês depois que ele terminou, como ele está ajudando você a decidir o próximo?",
-      "status": "postado",
-      "formato": "🖼️ Post",
-      "date": "05/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Se-o-seu-financeiro-s-consegue-explicar-o-m-s-depois-que-ele-terminou-como-ele-est-ajudando-voc--39133d8db9d2804abba2c1f257330096"
-    },
-    {
-      "title": "Sua empresa pode ter lucro e mesmo assim ficar sem dinheiro. Entenda como isso acontece.",
-      "status": "a_agendar",
-      "formato": "🎠 Carrossel",
-      "date": "14/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Sua-empresa-pode-ter-lucro-e-mesmo-assim-ficar-sem-dinheiro-Entenda-como-isso-acontece-39133d8db9d280b2a92fc42c85297d4c"
     }
   ],
   "(na pautta) Juntos contra o HPV": [
@@ -1951,49 +1792,6 @@ const LINHA_FEED_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 3. N/A",
       "notionUrl": "https://app.notion.com/p/Promo-es-de-setembro-3dc33d8db9d28053989cfb859486ea36"
-    }
-  ],
-  "(Na Pautta) Ortobom": [
-    {
-      "title": "O seu descanso merece ser pensado nos mínimos detalhes.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "29/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/O-seu-descanso-merece-ser-pensado-nos-m-nimos-detalhes-3f133d8db9d2801ebdadde47b0ad42a6"
-    },
-    {
-      "title": "Dormir bem não termina quando você acorda. Começa no seu dia.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "22/10",
-      "missing": [
-        "Design",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Dormir-bem-n-o-termina-quando-voc-acorda-Come-a-no-seu-dia-3f133d8db9d280a8bea4f4d0cbcd223f"
-    },
-    {
-      "title": "Seu sono é único. Seu atendimento também deveria ser.",
-      "status": "a_agendar",
-      "formato": "🖼️ Post",
-      "date": "15/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Seu-sono-nico-Seu-atendimento-tamb-m-deveria-ser-3f133d8db9d280529429d8f18a6f1285"
     }
   ],
   "(Na Pautta) ItalaP": [
@@ -3237,30 +3035,6 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Legado-3d833d8db9d2807b8d0fd1c0fa74146f"
     }
   ],
-  "(na pautta) Stratto": [
-    {
-      "title": "Vídeo com capa - ",
-      "status": "agendado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-com-capa-Lucro-no-papel-Caixa-vazio-3f233d8db9d280958911f892919a2b55"
-    },
-    {
-      "title": "Vídeo com capa - ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/V-deo-com-capa-Vende-muito-mas-o-caixa-n-o-sobra-3f233d8db9d2804bb674dc992b13b9eb"
-    }
-  ],
   "(na pautta) Juntos contra o HPV": [
     {
       "title": "TBT do simposio ",
@@ -3355,150 +3129,6 @@ const LINHA_VIDEO_ITEMS = {
       "rawLegenda": "🪶 1. A escrever",
       "rawVideo": "📽️ 1. A captar",
       "notionUrl": "https://app.notion.com/p/Administrar-a-empresa-3e933d8db9d28025ac47cc0b266b6cec"
-    }
-  ],
-  "(Na Pautta) Ortobom": [
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "30/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d2802b9e21f1d414cc8c60"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "28/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d28009a99bf1994a48ddf5"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "26/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d28030ad36e43c6b260357"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "23/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d280a7ad64db2b79b9ac99"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "21/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d2806faf80e4cba0843890"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "19/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d28049bf98d7612fc5575b"
-    },
-    {
-      "title": "Vídeo",
-      "status": "a_agendar",
-      "formato": "🎥 Vídeo vertical",
-      "date": "16/10",
-      "missing": [
-        "Vídeo",
-        "Legenda"
-      ],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 1. A captar",
-      "notionUrl": "https://app.notion.com/p/V-deo-3f133d8db9d280358d0bd06f08d9b670"
-    },
-    {
-      "title": "Benefícios",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "14/10",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Benef-cios-3f133d8db9d280e99f6ff61b6d801335"
-    },
-    {
-      "title": "Colchão ideal ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "09/10",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Colch-o-ideal-3f133d8db9d2808dadccc053477ff8fd"
-    },
-    {
-      "title": "Outubro rosa ",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "07/10",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Outubro-rosa-3f133d8db9d280308c90f03c0ba06737"
-    },
-    {
-      "title": "Trocar seu colchão",
-      "status": "postado",
-      "formato": "🎥 Vídeo vertical",
-      "date": "02/10",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. Finalizado",
-      "notionUrl": "https://app.notion.com/p/Trocar-seu-colch-o-3d133d8db9d2809a9ab6cb4994f4c7c3"
     }
   ],
   "(Na Pautta) ItalaP": [
@@ -3797,7 +3427,6 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Ser Ponte": [],
   "Tramix": [],
-  "(na pautta) Stratto": [],
   "(na pautta) Juntos contra o HPV": [],
   "(Na Pautta) Ventana": [],
   "(Na Pautta) Univendas": [
@@ -4005,67 +3634,6 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Planos Seguros": [],
   "Plannea": [],
-  "(Na Pautta) Ortobom": [
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "27/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3f133d8db9d28087924bf0bd4d7cae28"
-    },
-    {
-      "title": "Story/stories",
-      "status": "a_agendar",
-      "formato": "📱 Story",
-      "date": "20/10",
-      "missing": [
-        "Design"
-      ],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 1. A escrever",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Story-stories-3f133d8db9d28077a3e3e6a03fa93d56"
-    },
-    {
-      "title": "Storys repost ",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "13/10",
-      "missing": [],
-      "rawDesign": "🎨 3. N/A",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Storys-repost-3f133d8db9d280598db4d9c60f85a0fb"
-    },
-    {
-      "title": "Aniversário Danielly (north shopping)",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "05/10",
-      "missing": [],
-      "rawDesign": "🎨 1. A fazer",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Anivers-rio-Danielly-north-shopping-2e333d8db9d280ad86a9f389dcac06d5"
-    },
-    {
-      "title": "Aniversário Jeniffer (palmares mall)",
-      "status": "postado",
-      "formato": "📱 Story",
-      "date": "09/10",
-      "missing": [],
-      "rawDesign": "🎨 3. Exportado",
-      "rawLegenda": "🪶 3. Escrito",
-      "rawVideo": "📽️ 3. N/A",
-      "notionUrl": "https://app.notion.com/p/Anivers-rio-Jeniffer-palmares-mall-2e333d8db9d280c5addfff3db25a5eba"
-    }
-  ],
   "(Na Pautta) ItalaP": [
     {
       "title": "Comunicado ",
@@ -4450,7 +4018,6 @@ const DEMANDAS_EXTRAS = {
 const CAPTACAO_DATA = {
   "Ser Ponte": "marcada",
   "(na pautta) Daniel Maia Advocacia": "marcada",
-  "(na pautta) Stratto": "marcada",
   "(Na Pautta) Grupo Mulheres do Brasil": "marcada",
   "(Na Pautta) Solar Coworking": "confirmada",
   "Plannea": "marcada",
@@ -4459,7 +4026,6 @@ const CAPTACAO_DATA = {
   "Planos Seguros": "marcada",
   "(Na Pautta) Finseg Leal": "marcada",
   "Tramix": "marcada",
-  "(Na Pautta) Ortobom": "marcada",
   "(Na Pautta) Conecta Assessoria": "marcada",
   "(Na Pautta) APROSSEG": "marcada"
 };
@@ -4482,10 +4048,6 @@ const LEGENDAS_DATA = {
   "Tramix": {
     "prontas": 6,
     "total": 7
-  },
-  "(na pautta) Stratto": {
-    "prontas": 11,
-    "total": 11
   },
   "(na pautta) Juntos contra o HPV": {
     "prontas": 17,
@@ -4518,10 +4080,6 @@ const LEGENDAS_DATA = {
   "Plannea": {
     "prontas": 8,
     "total": 11
-  },
-  "(Na Pautta) Ortobom": {
-    "prontas": 5,
-    "total": 14
   },
   "(Na Pautta) ItalaP": {
     "prontas": 10,
@@ -4586,13 +4144,6 @@ const FORMAT_COUNTS = {
     "video": 2,
     "story": 0
   },
-  "(na pautta) Stratto": {
-    "post": 8,
-    "carrossel": 1,
-    "foto": 0,
-    "video": 2,
-    "story": 0
-  },
   "(na pautta) Juntos contra o HPV": {
     "post": 12,
     "carrossel": 3,
@@ -4648,13 +4199,6 @@ const FORMAT_COUNTS = {
     "foto": 0,
     "video": 3,
     "story": 0
-  },
-  "(Na Pautta) Ortobom": {
-    "post": 3,
-    "carrossel": 0,
-    "foto": 0,
-    "video": 11,
-    "story": 5
   },
   "(Na Pautta) ItalaP": {
     "post": 15,
@@ -4735,11 +4279,6 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "(na pautta) Stratto": {
-    "reuniao": 0,
-    "producao": 1,
-    "evento": 0
-  },
   "(na pautta) Juntos contra o HPV": {
     "reuniao": 0,
     "producao": 0,
@@ -4777,11 +4316,6 @@ const AGENDA_COUNTS = {
   },
   "Plannea": {
     "reuniao": 0,
-    "producao": 1,
-    "evento": 0
-  },
-  "(Na Pautta) Ortobom": {
-    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
