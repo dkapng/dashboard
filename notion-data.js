@@ -1,63 +1,63 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/10/2026, 10:26:31 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/10/2026, 15:49:28 **/
 
-const LAST_UPDATE = '27/10/2026, 10:26:31';
+const LAST_UPDATE = '27/10/2026, 15:49:28';
 
 const GESTORAS = {
   "Mayla Valere": [
-    "(Na Pautta) Hélio Rôla 90 Anos",
-    "(Na Pautta) Ventana"
+    "Hélio Rôla 90 Anos",
+    "Ventana"
   ],
   "Lucas de Paula": [
-    "(Na Pautta) AAFEC",
+    "AAFEC",
     "Ser Ponte",
     "Tramix",
     "Planos Seguros",
     "Plannea",
-    "(Na Pautta) Grupo Mulheres do Brasil"
+    "Grupo Mulheres do Brasil"
   ],
   "Alice Sousa": [
-    "(na pautta) Juntos contra o HPV",
-    "(na pautta) Rede Pangeia",
-    "(Na Pautta) ItalaP",
-    "(Na Pautta) Finseg Leal",
-    "(Na Pautta) APROSSEG",
-    "(na pautta) Daniel Maia Advocacia",
-    "(Na Pautta) Conecta Assessoria"
+    "Juntos contra o HPV",
+    "Rede Pangeia",
+    "ItalaP",
+    "Finseg Leal",
+    "APROSSEG",
+    "Daniel Maia Advocacia",
+    "Conecta Assessoria"
   ],
   "Anna Ventana": [
-    "(Na Pautta) Univendas",
-    "(Na Pautta) Terrartesã",
-    "(Na Pautta) RR Advocacia",
-    "(Na Pautta) Di Gregório Buffet",
-    "(Na Pautta) Solar Coworking"
+    "Univendas",
+    "Terrartesã",
+    "RR Advocacia",
+    "Di Gregório Buffet",
+    "Solar Coworking"
   ]
 };
 
 const NICHES = {
-  "(Na Pautta) Hélio Rôla 90 Anos": "Geral",
-  "(Na Pautta) AAFEC": "Geral",
+  "Hélio Rôla 90 Anos": "Geral",
+  "AAFEC": "Geral",
   "Ser Ponte": "Geral",
   "Tramix": "Geral",
-  "(na pautta) Juntos contra o HPV": "Geral",
-  "(Na Pautta) Ventana": "Geral",
-  "(Na Pautta) Univendas": "Geral",
-  "(Na Pautta) Terrartesã": "Geral",
-  "(Na Pautta) RR Advocacia": "Geral",
-  "(na pautta) Rede Pangeia": "Geral",
+  "Juntos contra o HPV": "Geral",
+  "Ventana": "Geral",
+  "Univendas": "Geral",
+  "Terrartesã": "Geral",
+  "RR Advocacia": "Geral",
+  "Rede Pangeia": "Geral",
   "Planos Seguros": "Geral",
   "Plannea": "Geral",
-  "(Na Pautta) ItalaP": "Geral",
-  "(Na Pautta) Grupo Mulheres do Brasil": "Geral",
-  "(Na Pautta) Finseg Leal": "Geral",
-  "(Na Pautta) Di Gregório Buffet": "Geral",
-  "(Na Pautta) APROSSEG": "Geral",
-  "(na pautta) Daniel Maia Advocacia": "Geral",
-  "(Na Pautta) Conecta Assessoria": "Geral",
-  "(Na Pautta) Solar Coworking": "Geral"
+  "ItalaP": "Geral",
+  "Grupo Mulheres do Brasil": "Geral",
+  "Finseg Leal": "Geral",
+  "Di Gregório Buffet": "Geral",
+  "APROSSEG": "Geral",
+  "Daniel Maia Advocacia": "Geral",
+  "Conecta Assessoria": "Geral",
+  "Solar Coworking": "Geral"
 };
 
 const FEED_DATA = {
-  "(Na Pautta) Hélio Rôla 90 Anos": {
+  "Hélio Rôla 90 Anos": {
     "total": 7,
     "pronto": 4,
     "postado": 0,
@@ -65,7 +65,7 @@ const FEED_DATA = {
     "agendado_coord": 1,
     "a_agendar": 4
   },
-  "(Na Pautta) AAFEC": {
+  "AAFEC": {
     "total": 22,
     "pronto": 16,
     "postado": 6,
@@ -89,7 +89,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 1
   },
-  "(na pautta) Juntos contra o HPV": {
+  "Juntos contra o HPV": {
     "total": 15,
     "pronto": 7,
     "postado": 2,
@@ -97,7 +97,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 8
   },
-  "(Na Pautta) Ventana": {
+  "Ventana": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -105,7 +105,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Univendas": {
+  "Univendas": {
     "total": 13,
     "pronto": 0,
     "postado": 0,
@@ -113,7 +113,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 13
   },
-  "(Na Pautta) Terrartesã": {
+  "Terrartesã": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -121,7 +121,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) RR Advocacia": {
+  "RR Advocacia": {
     "total": 7,
     "pronto": 5,
     "postado": 5,
@@ -129,7 +129,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 2
   },
-  "(na pautta) Rede Pangeia": {
+  "Rede Pangeia": {
     "total": 13,
     "pronto": 6,
     "postado": 2,
@@ -153,7 +153,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 2
   },
-  "(Na Pautta) ItalaP": {
+  "ItalaP": {
     "total": 15,
     "pronto": 15,
     "postado": 3,
@@ -161,7 +161,7 @@ const FEED_DATA = {
     "agendado_coord": 1,
     "a_agendar": 9
   },
-  "(Na Pautta) Grupo Mulheres do Brasil": {
+  "Grupo Mulheres do Brasil": {
     "total": 21,
     "pronto": 12,
     "postado": 8,
@@ -169,7 +169,7 @@ const FEED_DATA = {
     "agendado_coord": 2,
     "a_agendar": 11
   },
-  "(Na Pautta) Finseg Leal": {
+  "Finseg Leal": {
     "total": 13,
     "pronto": 12,
     "postado": 1,
@@ -178,7 +178,7 @@ const FEED_DATA = {
     "a_agendar": 7,
     "st-paused": null
   },
-  "(Na Pautta) Di Gregório Buffet": {
+  "Di Gregório Buffet": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -186,7 +186,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) APROSSEG": {
+  "APROSSEG": {
     "total": 10,
     "pronto": 3,
     "postado": 0,
@@ -195,7 +195,7 @@ const FEED_DATA = {
     "a_agendar": 7,
     "st-paused": null
   },
-  "(na pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "total": 11,
     "pronto": 6,
     "postado": 2,
@@ -203,7 +203,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 7
   },
-  "(Na Pautta) Conecta Assessoria": {
+  "Conecta Assessoria": {
     "total": 12,
     "pronto": 4,
     "postado": 1,
@@ -211,7 +211,7 @@ const FEED_DATA = {
     "agendado_coord": 0,
     "a_agendar": 8
   },
-  "(Na Pautta) Solar Coworking": {
+  "Solar Coworking": {
     "total": 12,
     "pronto": 0,
     "postado": 0,
@@ -222,7 +222,7 @@ const FEED_DATA = {
 };
 
 const VIDEO_DATA = {
-  "(Na Pautta) Hélio Rôla 90 Anos": {
+  "Hélio Rôla 90 Anos": {
     "total": 1,
     "pronto": 1,
     "postado": 0,
@@ -230,7 +230,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) AAFEC": {
+  "AAFEC": {
     "total": 2,
     "pronto": 0,
     "postado": 0,
@@ -254,7 +254,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(na pautta) Juntos contra o HPV": {
+  "Juntos contra o HPV": {
     "total": 4,
     "pronto": 2,
     "postado": 1,
@@ -262,7 +262,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 2
   },
-  "(Na Pautta) Ventana": {
+  "Ventana": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -270,7 +270,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Univendas": {
+  "Univendas": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -278,7 +278,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Terrartesã": {
+  "Terrartesã": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -286,7 +286,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) RR Advocacia": {
+  "RR Advocacia": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -294,7 +294,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(na pautta) Rede Pangeia": {
+  "Rede Pangeia": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -318,7 +318,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 1
   },
-  "(Na Pautta) ItalaP": {
+  "ItalaP": {
     "total": 1,
     "pronto": 1,
     "postado": 1,
@@ -326,7 +326,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Grupo Mulheres do Brasil": {
+  "Grupo Mulheres do Brasil": {
     "total": 1,
     "pronto": 0,
     "postado": 0,
@@ -334,7 +334,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 1
   },
-  "(Na Pautta) Finseg Leal": {
+  "Finseg Leal": {
     "total": 7,
     "pronto": 7,
     "postado": 0,
@@ -342,7 +342,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 6
   },
-  "(Na Pautta) Di Gregório Buffet": {
+  "Di Gregório Buffet": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -350,7 +350,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) APROSSEG": {
+  "APROSSEG": {
     "total": 7,
     "pronto": 5,
     "postado": 3,
@@ -358,7 +358,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "(na pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -366,7 +366,7 @@ const VIDEO_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Conecta Assessoria": {
+  "Conecta Assessoria": {
     "total": 5,
     "pronto": 2,
     "postado": 0,
@@ -374,7 +374,7 @@ const VIDEO_DATA = {
     "agendado_coord": 2,
     "a_agendar": 1
   },
-  "(Na Pautta) Solar Coworking": {
+  "Solar Coworking": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -385,7 +385,7 @@ const VIDEO_DATA = {
 };
 
 const STORIES_DATA = {
-  "(Na Pautta) Hélio Rôla 90 Anos": {
+  "Hélio Rôla 90 Anos": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -393,7 +393,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) AAFEC": {
+  "AAFEC": {
     "total": 1,
     "pronto": 0,
     "postado": 0,
@@ -417,7 +417,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(na pautta) Juntos contra o HPV": {
+  "Juntos contra o HPV": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -425,7 +425,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Ventana": {
+  "Ventana": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -433,7 +433,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Univendas": {
+  "Univendas": {
     "total": 6,
     "pronto": 2,
     "postado": 1,
@@ -441,7 +441,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 4
   },
-  "(Na Pautta) Terrartesã": {
+  "Terrartesã": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -449,7 +449,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) RR Advocacia": {
+  "RR Advocacia": {
     "total": 5,
     "pronto": 2,
     "postado": 2,
@@ -457,7 +457,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 3
   },
-  "(na pautta) Rede Pangeia": {
+  "Rede Pangeia": {
     "total": 5,
     "pronto": 2,
     "postado": 2,
@@ -481,7 +481,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) ItalaP": {
+  "ItalaP": {
     "total": 6,
     "pronto": 3,
     "postado": 1,
@@ -489,7 +489,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 4
   },
-  "(Na Pautta) Grupo Mulheres do Brasil": {
+  "Grupo Mulheres do Brasil": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -497,7 +497,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Finseg Leal": {
+  "Finseg Leal": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -505,7 +505,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Di Gregório Buffet": {
+  "Di Gregório Buffet": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -513,7 +513,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) APROSSEG": {
+  "APROSSEG": {
     "total": 0,
     "pronto": 0,
     "postado": 0,
@@ -521,7 +521,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(na pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "total": 1,
     "pronto": 1,
     "postado": 1,
@@ -529,7 +529,7 @@ const STORIES_DATA = {
     "agendado_coord": 0,
     "a_agendar": 0
   },
-  "(Na Pautta) Conecta Assessoria": {
+  "Conecta Assessoria": {
     "total": 7,
     "pronto": 4,
     "postado": 1,
@@ -537,7 +537,7 @@ const STORIES_DATA = {
     "agendado_coord": 1,
     "a_agendar": 3
   },
-  "(Na Pautta) Solar Coworking": {
+  "Solar Coworking": {
     "total": 4,
     "pronto": 1,
     "postado": 1,
@@ -548,7 +548,7 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
-  "(Na Pautta) Hélio Rôla 90 Anos": [
+  "Hélio Rôla 90 Anos": [
     {
       "title": "Afinal, quantos Hélios cabem em 90 anos?",
       "status": "a_agendar",
@@ -638,7 +638,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Na-v-spera-dos-90-anos-de-H-lio-R-la-um-convite-para-percorrer-sua-hist-ria-Visita-mediada-17-1-3f133d8db9d280d3b213eaf9b7118a1d"
     }
   ],
-  "(Na Pautta) AAFEC": [
+  "AAFEC": [
     {
       "title": "29 de outubro | Dia Nacional do Livro - Grandes escritores, histórias que atravessaram gerações e livros que ficaram para sempre na memória.",
       "status": "agendado_coord",
@@ -1006,7 +1006,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Quem-produz-precisa-olhar-para-o-que-est-mudando-antes-de-todo-mundo-3e933d8db9d280119ebde7853a1aaf59"
     }
   ],
-  "(na pautta) Juntos contra o HPV": [
+  "Juntos contra o HPV": [
     {
       "title": "Hoje celebramos Luiza Helena Trajano. Uma mulher que transformou ideias em movimento, conexões em rede e vontade de fazer em ação.",
       "status": "postado",
@@ -1189,8 +1189,8 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-simp-sio-terminou-Um-encontro-reuniu-ci-ncia-experi-ncias-e-pessoas-de-diferentes-territ-rios-A-3e533d8db9d280428e6fe3721ae7dc77"
     }
   ],
-  "(Na Pautta) Ventana": [],
-  "(Na Pautta) Univendas": [
+  "Ventana": [],
+  "Univendas": [
     {
       "title": "Hoje celebramos quem transforma proteção em cuidado. 💚 Feliz Dia do Corretor de Planos!",
       "status": "a_agendar",
@@ -1361,8 +1361,8 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Outubro-Rosa-o-exame-que-voc-adia-pode-ser-o-que-mais-cuida-de-voc-3ec33d8db9d2805ab005c9234d77b226"
     }
   ],
-  "(Na Pautta) Terrartesã": [],
-  "(Na Pautta) RR Advocacia": [
+  "Terrartesã": [],
+  "RR Advocacia": [
     {
       "title": "Nem toda decisão de negócio termina no departamento financeiro.",
       "status": "a_agendar",
@@ -1446,7 +1446,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Dia-Internacional-da-N-o-Viol-ncia-Rela-es-profissionais-tamb-m-precisam-de-respeito-3eb33d8db9d280eb95aaef4592a7ef27"
     }
   ],
-  "(na pautta) Rede Pangeia": [
+  "Rede Pangeia": [
     {
       "title": "O que queremos construir com a Rede Pangeia? \n- Organizações mais fortes. - \nPessoas mais preparadas. - \nRelações mais possíveis. - Mais autonomia para quem transforma.",
       "status": "a_agendar",
@@ -1794,7 +1794,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Promo-es-de-setembro-3dc33d8db9d28053989cfb859486ea36"
     }
   ],
-  "(Na Pautta) ItalaP": [
+  "ItalaP": [
     {
       "title": "Quais mudanças nas mamas merecem atenção? #outubrorosa",
       "status": "agendado_coord",
@@ -1973,7 +1973,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Antes-de-um-diagn-stico-existe-algu-m-que-escutou-investigou-e-buscou-respostas-Dia-do-M-dico-d22900e72749439c80bb0480270004a6"
     }
   ],
-  "(Na Pautta) Grupo Mulheres do Brasil": [
+  "Grupo Mulheres do Brasil": [
     {
       "title": "Essa história já levou pessoas às ruas",
       "status": "a_agendar",
@@ -2233,7 +2233,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/A-crise-clim-tica-tamb-m-uma-quest-o-de-g-nero-3ce33d8db9d2802682ecda63a96c0e8f"
     }
   ],
-  "(Na Pautta) Finseg Leal": [
+  "Finseg Leal": [
     {
       "title": "O vizinho de cima pode virar o assunto principal do seu mês.",
       "status": "a_agendar",
@@ -2381,8 +2381,8 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/3-contas-que-ningu-m-coloca-no-or-amento-at-elas-aparecerem-3d033d8db9d28036b282d081fcb85d71"
     }
   ],
-  "(Na Pautta) Di Gregório Buffet": [],
-  "(Na Pautta) APROSSEG": [
+  "Di Gregório Buffet": [],
+  "APROSSEG": [
     {
       "title": "O carro que você dirige diz mais sobre sua personalidade ou sobre o momento da vida em que você está?",
       "status": "a_agendar",
@@ -2509,7 +2509,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/O-que-um-corretor-faz-por-voc-depois-que-a-ap-lice-est-assinada-Descubra-o-valor-de-ter-um-corret-3e333d8db9d280a6a485d75caa7028a7"
     }
   ],
-  "(na pautta) Daniel Maia Advocacia": [
+  "Daniel Maia Advocacia": [
     {
       "title": "Sua empresa está preparada para terminar o ano sem levar os mesmos riscos jurídicos para 2027?",
       "status": "a_agendar",
@@ -2645,7 +2645,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-foi-chamado-para-prestar-esclarecimentos-Precisa-ir-acompanhado-de-advogado-3dc33d8db9d280bbaa19d803b964307f"
     }
   ],
-  "(Na Pautta) Conecta Assessoria": [
+  "Conecta Assessoria": [
     {
       "title": "SEGURO DE VIDA PORTO -  Até 35% OFF para proteger o que mais importa. H2: ",
       "status": "a_agendar",
@@ -2795,7 +2795,7 @@ const LINHA_FEED_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-passou-anos-construindo-sua-vida-Talvez-esteja-na-hora-de-pensar-no-que-aconteceria-se-alguma--3e433d8db9d28080abfac4c9485826bb"
     }
   ],
-  "(Na Pautta) Solar Coworking": [
+  "Solar Coworking": [
     {
       "title": "Quando o cliente precisa de você, tenha um lugar preparado.",
       "status": "a_agendar",
@@ -2956,7 +2956,7 @@ const LINHA_FEED_ITEMS = {
 };
 
 const LINHA_VIDEO_ITEMS = {
-  "(Na Pautta) Hélio Rôla 90 Anos": [
+  "Hélio Rôla 90 Anos": [
     {
       "title": "Depoimentos de curadores, artistas",
       "status": "agendado",
@@ -2980,7 +2980,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Video-Cristina-Ramalho-3f133d8db9d2804bacd4ca8bceb35d42"
     }
   ],
-  "(Na Pautta) AAFEC": [
+  "AAFEC": [
     {
       "title": "Vídeo do evento Entre Cantos e Contos",
       "status": "a_agendar",
@@ -3035,7 +3035,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Legado-3d833d8db9d2807b8d0fd1c0fa74146f"
     }
   ],
-  "(na pautta) Juntos contra o HPV": [
+  "Juntos contra o HPV": [
     {
       "title": "TBT do simposio ",
       "status": "postado",
@@ -3087,11 +3087,11 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-com-imagens-e-narra-o-3d633d8db9d280d095edfe3a37325aac"
     }
   ],
-  "(Na Pautta) Ventana": [],
-  "(Na Pautta) Univendas": [],
-  "(Na Pautta) Terrartesã": [],
-  "(Na Pautta) RR Advocacia": [],
-  "(na pautta) Rede Pangeia": [],
+  "Ventana": [],
+  "Univendas": [],
+  "Terrartesã": [],
+  "RR Advocacia": [],
+  "Rede Pangeia": [],
   "Planos Seguros": [],
   "Plannea": [
     {
@@ -3131,7 +3131,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Administrar-a-empresa-3e933d8db9d28025ac47cc0b266b6cec"
     }
   ],
-  "(Na Pautta) ItalaP": [
+  "ItalaP": [
     {
       "title": "Vídeo das crianças",
       "status": "postado",
@@ -3144,7 +3144,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-das-crian-as-3f133d8db9d280ebbe6eee421207dd70"
     }
   ],
-  "(Na Pautta) Grupo Mulheres do Brasil": [
+  "Grupo Mulheres do Brasil": [
     {
       "title": "Vídeo com texto e narração",
       "status": "a_agendar",
@@ -3160,7 +3160,7 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/V-deo-com-texto-e-narra-o-3e633d8db9d280d4bf34eb02d74eb7e1"
     }
   ],
-  "(Na Pautta) Finseg Leal": [
+  "Finseg Leal": [
     {
       "title": "Perdeu a chave",
       "status": "a_agendar",
@@ -3251,8 +3251,8 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Emprestei-meu-carro-3ea33d8db9d280489f1ec2edf5cf39e1"
     }
   ],
-  "(Na Pautta) Di Gregório Buffet": [],
-  "(Na Pautta) APROSSEG": [
+  "Di Gregório Buffet": [],
+  "APROSSEG": [
     {
       "title": "https://drive.google.com/drive/folders/1DqlnW4vCAjDWHfIrLFSDmKmSs6yB4ow2",
       "status": "postado",
@@ -3339,8 +3339,8 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Eu-me-cuido-porque-Outubro-rosa-3db33d8db9d28028a84bdf723bfdd792"
     }
   ],
-  "(na pautta) Daniel Maia Advocacia": [],
-  "(Na Pautta) Conecta Assessoria": [
+  "Daniel Maia Advocacia": [],
+  "Conecta Assessoria": [
     {
       "title": "Vídeo",
       "status": "agendado",
@@ -3405,12 +3405,12 @@ const LINHA_VIDEO_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Voc-conhece-a-Conecta-pelos-planos-de-sa-de-Mas-talvez-ainda-n-o-conhe-a-tudo-o-que-a-gente-faz-3e433d8db9d28004b99be1089af94fd7"
     }
   ],
-  "(Na Pautta) Solar Coworking": []
+  "Solar Coworking": []
 };
 
 const LINHA_STORIES_ITEMS = {
-  "(Na Pautta) Hélio Rôla 90 Anos": [],
-  "(Na Pautta) AAFEC": [
+  "Hélio Rôla 90 Anos": [],
+  "AAFEC": [
     {
       "title": "Stories com informes do Encontro Mensal",
       "status": "a_agendar",
@@ -3427,9 +3427,9 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Ser Ponte": [],
   "Tramix": [],
-  "(na pautta) Juntos contra o HPV": [],
-  "(Na Pautta) Ventana": [],
-  "(Na Pautta) Univendas": [
+  "Juntos contra o HPV": [],
+  "Ventana": [],
+  "Univendas": [
     {
       "title": "Story repost",
       "status": "postado",
@@ -3505,8 +3505,8 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Story-repost-3cd33d8db9d2800e852efc1d916c8218"
     }
   ],
-  "(Na Pautta) Terrartesã": [],
-  "(Na Pautta) RR Advocacia": [
+  "Terrartesã": [],
+  "RR Advocacia": [
     {
       "title": "Direito do Consumidor",
       "status": "a_agendar",
@@ -3569,7 +3569,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Conflito-no-trabalho-3eb33d8db9d280cabb03faa96d09aadb"
     }
   ],
-  "(na pautta) Rede Pangeia": [
+  "Rede Pangeia": [
     {
       "title": "#DicaDaSemana",
       "status": "a_agendar",
@@ -3634,7 +3634,7 @@ const LINHA_STORIES_ITEMS = {
   ],
   "Planos Seguros": [],
   "Plannea": [],
-  "(Na Pautta) ItalaP": [
+  "ItalaP": [
     {
       "title": "Comunicado ",
       "status": "agendado",
@@ -3708,11 +3708,11 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/outubrorosa-3ed33d8db9d2800385b2dbfdf3e9f75a"
     }
   ],
-  "(Na Pautta) Grupo Mulheres do Brasil": [],
-  "(Na Pautta) Finseg Leal": [],
-  "(Na Pautta) Di Gregório Buffet": [],
-  "(Na Pautta) APROSSEG": [],
-  "(na pautta) Daniel Maia Advocacia": [
+  "Grupo Mulheres do Brasil": [],
+  "Finseg Leal": [],
+  "Di Gregório Buffet": [],
+  "APROSSEG": [],
+  "Daniel Maia Advocacia": [
     {
       "title": "Feliz aniversário, Rander",
       "status": "postado",
@@ -3725,7 +3725,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Feliz-anivers-rio-Rander-3a533d8db9d280979cb7dbb020aeeb2a"
     }
   ],
-  "(Na Pautta) Conecta Assessoria": [
+  "Conecta Assessoria": [
     {
       "title": "Aniversário do Felipe",
       "status": "agendado",
@@ -3810,7 +3810,7 @@ const LINHA_STORIES_ITEMS = {
       "notionUrl": "https://app.notion.com/p/Tem-coisas-que-a-gente-s-percebe-o-quanto-s-o-importantes-quando-imagina-ficar-sem-elas-3e433d8db9d28070aad1f0e51b534e8f"
     }
   ],
-  "(Na Pautta) Solar Coworking": [
+  "Solar Coworking": [
     {
       "title": "Story/stories",
       "status": "a_agendar",
@@ -3865,6 +3865,48 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "9ª Corrida e Caminhada | Medalha",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Medalha-40633d8db9d280a985e4c8183d0a5925",
+      "gestora": "Equipe",
+      "date": "27/10"
+    },
+    {
+      "title": "Flyer ativação ",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Flyer-ativa-o-40633d8db9d28019b709c81572ede98c",
+      "gestora": "Equipe",
+      "date": "28/10"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Camisa",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Camisa-40633d8db9d2800c9939ffd72583f858",
+      "gestora": "Equipe",
+      "date": "27/10"
+    },
+    {
+      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
+      "gestora": "Equipe",
+      "date": "11/09"
+    },
+    {
+      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
+      "gestora": "Equipe",
+      "date": "30/09"
+    }
+  ],
   "Plannea": [
     {
       "title": "Criar arte para grupo de whatsapp",
@@ -3883,7 +3925,7 @@ const DEMANDAS_EXTRAS = {
       "date": "09/10"
     }
   ],
-  "(na pautta) Juntos contra o HPV": [
+  "Juntos contra o HPV": [
     {
       "title": "Edição de vídeo ",
       "priority": "ppp",
@@ -3893,7 +3935,7 @@ const DEMANDAS_EXTRAS = {
       "date": "27/10"
     }
   ],
-  "(Na Pautta) Solar Coworking": [
+  "Solar Coworking": [
     {
       "title": "Folheto de Formas de Pagamento",
       "priority": "pp",
@@ -3903,7 +3945,7 @@ const DEMANDAS_EXTRAS = {
       "date": "23/10"
     }
   ],
-  "(Na Pautta) AAFEC": [
+  "AAFEC": [
     {
       "title": "Agenda de novembro de 2026",
       "priority": "p",
@@ -3913,7 +3955,7 @@ const DEMANDAS_EXTRAS = {
       "date": "23/10"
     }
   ],
-  "(Na Pautta) Di Gregório Buffet": [
+  "Di Gregório Buffet": [
     {
       "title": "Narração para vídeo sobre casamentos",
       "priority": "p",
@@ -3923,7 +3965,7 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
-  "(Na Pautta) ItalaP": [
+  "ItalaP": [
     {
       "title": "Adicionar/atualizar as localizações no Google",
       "priority": "p",
@@ -3957,25 +3999,7 @@ const DEMANDAS_EXTRAS = {
       "date": "09/09"
     }
   ],
-  "(Na Pautta) Grupo Mulheres do Brasil": [
-    {
-      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
-      "gestora": "Equipe",
-      "date": "11/09"
-    },
-    {
-      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
-      "gestora": "Equipe",
-      "date": "30/09"
-    }
-  ],
-  "(na pautta) Daniel Maia Advocacia": [
+  "Daniel Maia Advocacia": [
     {
       "title": "Configurações de e-mail",
       "priority": "p",
@@ -3985,7 +4009,7 @@ const DEMANDAS_EXTRAS = {
       "date": "04/09"
     }
   ],
-  "(na pautta) Rede Pangeia": [
+  "Rede Pangeia": [
     {
       "title": "Site",
       "priority": "p",
@@ -4017,27 +4041,27 @@ const DEMANDAS_EXTRAS = {
 
 const CAPTACAO_DATA = {
   "Ser Ponte": "marcada",
-  "(na pautta) Daniel Maia Advocacia": "marcada",
-  "(Na Pautta) Grupo Mulheres do Brasil": "marcada",
-  "(Na Pautta) Solar Coworking": "confirmada",
+  "Daniel Maia Advocacia": "marcada",
+  "Grupo Mulheres do Brasil": "marcada",
+  "Solar Coworking": "confirmada",
   "Plannea": "marcada",
-  "(Na Pautta) Univendas": "marcada",
-  "(Na Pautta) Hélio Rôla 90 Anos": "marcada",
+  "Univendas": "marcada",
+  "Hélio Rôla 90 Anos": "marcada",
   "Planos Seguros": "marcada",
-  "(Na Pautta) Finseg Leal": "marcada",
+  "Finseg Leal": "marcada",
   "Tramix": "marcada",
-  "(Na Pautta) Conecta Assessoria": "marcada",
-  "(Na Pautta) APROSSEG": "marcada"
+  "Conecta Assessoria": "marcada",
+  "APROSSEG": "marcada"
 };
 
 const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
-  "(Na Pautta) Hélio Rôla 90 Anos": {
+  "Hélio Rôla 90 Anos": {
     "prontas": 5,
     "total": 9
   },
-  "(Na Pautta) AAFEC": {
+  "AAFEC": {
     "prontas": 17,
     "total": 24
   },
@@ -4049,27 +4073,27 @@ const LEGENDAS_DATA = {
     "prontas": 6,
     "total": 7
   },
-  "(na pautta) Juntos contra o HPV": {
+  "Juntos contra o HPV": {
     "prontas": 17,
     "total": 19
   },
-  "(Na Pautta) Ventana": {
+  "Ventana": {
     "prontas": 0,
     "total": 2
   },
-  "(Na Pautta) Univendas": {
+  "Univendas": {
     "prontas": 13,
     "total": 13
   },
-  "(Na Pautta) Terrartesã": {
+  "Terrartesã": {
     "prontas": 0,
     "total": 0
   },
-  "(Na Pautta) RR Advocacia": {
+  "RR Advocacia": {
     "prontas": 6,
     "total": 7
   },
-  "(na pautta) Rede Pangeia": {
+  "Rede Pangeia": {
     "prontas": 13,
     "total": 13
   },
@@ -4081,49 +4105,49 @@ const LEGENDAS_DATA = {
     "prontas": 8,
     "total": 11
   },
-  "(Na Pautta) ItalaP": {
+  "ItalaP": {
     "prontas": 10,
     "total": 16
   },
-  "(Na Pautta) Grupo Mulheres do Brasil": {
+  "Grupo Mulheres do Brasil": {
     "prontas": 13,
     "total": 23
   },
-  "(Na Pautta) Finseg Leal": {
+  "Finseg Leal": {
     "prontas": 13,
     "total": 19
   },
-  "(Na Pautta) Di Gregório Buffet": {
+  "Di Gregório Buffet": {
     "prontas": 0,
     "total": 0
   },
-  "(Na Pautta) APROSSEG": {
+  "APROSSEG": {
     "prontas": 13,
     "total": 17
   },
-  "(na pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "prontas": 9,
     "total": 13
   },
-  "(Na Pautta) Conecta Assessoria": {
+  "Conecta Assessoria": {
     "prontas": 17,
     "total": 19
   },
-  "(Na Pautta) Solar Coworking": {
+  "Solar Coworking": {
     "prontas": 12,
     "total": 12
   }
 };
 
 const FORMAT_COUNTS = {
-  "(Na Pautta) Hélio Rôla 90 Anos": {
+  "Hélio Rôla 90 Anos": {
     "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 2,
     "story": 0
   },
-  "(Na Pautta) AAFEC": {
+  "AAFEC": {
     "post": 14,
     "carrossel": 7,
     "foto": 1,
@@ -4144,42 +4168,42 @@ const FORMAT_COUNTS = {
     "video": 2,
     "story": 0
   },
-  "(na pautta) Juntos contra o HPV": {
+  "Juntos contra o HPV": {
     "post": 12,
     "carrossel": 3,
     "foto": 0,
     "video": 4,
     "story": 0
   },
-  "(Na Pautta) Ventana": {
+  "Ventana": {
     "post": 0,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 0
   },
-  "(Na Pautta) Univendas": {
+  "Univendas": {
     "post": 13,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 6
   },
-  "(Na Pautta) Terrartesã": {
+  "Terrartesã": {
     "post": 0,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 0
   },
-  "(Na Pautta) RR Advocacia": {
+  "RR Advocacia": {
     "post": 7,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 5
   },
-  "(na pautta) Rede Pangeia": {
+  "Rede Pangeia": {
     "post": 10,
     "carrossel": 3,
     "foto": 0,
@@ -4200,56 +4224,56 @@ const FORMAT_COUNTS = {
     "video": 3,
     "story": 0
   },
-  "(Na Pautta) ItalaP": {
+  "ItalaP": {
     "post": 15,
     "carrossel": 0,
     "foto": 0,
     "video": 1,
     "story": 6
   },
-  "(Na Pautta) Grupo Mulheres do Brasil": {
+  "Grupo Mulheres do Brasil": {
     "post": 16,
     "carrossel": 5,
     "foto": 0,
     "video": 1,
     "story": 0
   },
-  "(Na Pautta) Finseg Leal": {
+  "Finseg Leal": {
     "post": 11,
     "carrossel": 2,
     "foto": 0,
     "video": 7,
     "story": 0
   },
-  "(Na Pautta) Di Gregório Buffet": {
+  "Di Gregório Buffet": {
     "post": 0,
     "carrossel": 0,
     "foto": 0,
     "video": 0,
     "story": 0
   },
-  "(Na Pautta) APROSSEG": {
+  "APROSSEG": {
     "post": 9,
     "carrossel": 1,
     "foto": 0,
     "video": 7,
     "story": 0
   },
-  "(na pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "post": 9,
     "carrossel": 2,
     "foto": 0,
     "video": 0,
     "story": 1
   },
-  "(Na Pautta) Conecta Assessoria": {
+  "Conecta Assessoria": {
     "post": 10,
     "carrossel": 2,
     "foto": 0,
     "video": 5,
     "story": 7
   },
-  "(Na Pautta) Solar Coworking": {
+  "Solar Coworking": {
     "post": 12,
     "carrossel": 0,
     "foto": 0,
@@ -4259,12 +4283,12 @@ const FORMAT_COUNTS = {
 };
 
 const AGENDA_COUNTS = {
-  "(Na Pautta) Hélio Rôla 90 Anos": {
+  "Hélio Rôla 90 Anos": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
   },
-  "(Na Pautta) AAFEC": {
+  "AAFEC": {
     "reuniao": 1,
     "producao": 0,
     "evento": 4
@@ -4279,32 +4303,32 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "(na pautta) Juntos contra o HPV": {
+  "Juntos contra o HPV": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
-  "(Na Pautta) Ventana": {
+  "Ventana": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
-  "(Na Pautta) Univendas": {
+  "Univendas": {
     "reuniao": 0,
     "producao": 1,
     "evento": 1
   },
-  "(Na Pautta) Terrartesã": {
+  "Terrartesã": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
-  "(Na Pautta) RR Advocacia": {
+  "RR Advocacia": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
-  "(na pautta) Rede Pangeia": {
+  "Rede Pangeia": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
@@ -4319,42 +4343,42 @@ const AGENDA_COUNTS = {
     "producao": 1,
     "evento": 0
   },
-  "(Na Pautta) ItalaP": {
+  "ItalaP": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
-  "(Na Pautta) Grupo Mulheres do Brasil": {
+  "Grupo Mulheres do Brasil": {
     "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
-  "(Na Pautta) Finseg Leal": {
+  "Finseg Leal": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
   },
-  "(Na Pautta) Di Gregório Buffet": {
+  "Di Gregório Buffet": {
     "reuniao": 0,
     "producao": 0,
     "evento": 0
   },
-  "(Na Pautta) APROSSEG": {
+  "APROSSEG": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
   },
-  "(na pautta) Daniel Maia Advocacia": {
+  "Daniel Maia Advocacia": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
   },
-  "(Na Pautta) Conecta Assessoria": {
+  "Conecta Assessoria": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
   },
-  "(Na Pautta) Solar Coworking": {
+  "Solar Coworking": {
     "reuniao": 0,
     "producao": 1,
     "evento": 0
