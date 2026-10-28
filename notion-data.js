@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 28/10/2026, 11:44:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 28/10/2026, 17:00:20 **/
 
-const LAST_UPDATE = '28/10/2026, 11:44:29';
+const LAST_UPDATE = '28/10/2026, 17:00:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3869,7 +3869,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Medalha",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Medalha-40633d8db9d280a985e4c8183d0a5925",
       "gestora": "Equipe",
       "date": "27/10"
@@ -3885,7 +3885,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Camisa",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Camisa-40633d8db9d2800c9939ffd72583f858",
       "gestora": "Equipe",
       "date": "27/10"
@@ -3933,16 +3933,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Edi-o-de-v-deo-40533d8db9d280db871ff2febef34eac",
       "gestora": "Equipe",
       "date": "27/10"
-    }
-  ],
-  "Solar Coworking": [
-    {
-      "title": "Folheto de Formas de Pagamento",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Folheto-de-Formas-de-Pagamento-40033d8db9d280bb8dd5e531e9193b5f",
-      "gestora": "Equipe",
-      "date": "23/10"
     }
   ],
   "AAFEC": [
