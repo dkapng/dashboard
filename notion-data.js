@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 29/10/2026, 14:21:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 29/10/2026, 18:54:54 **/
 
-const LAST_UPDATE = '29/10/2026, 14:21:03';
+const LAST_UPDATE = '29/10/2026, 18:54:54';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3875,9 +3875,9 @@ const DEMANDAS_EXTRAS = {
       "date": "27/10"
     },
     {
-      "title": "Flyer ativação ",
+      "title": "Flyer ativação",
       "priority": "ppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Flyer-ativa-o-40633d8db9d28019b709c81572ede98c",
       "gestora": "Equipe",
       "date": "28/10"
