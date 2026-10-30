@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/10/2026, 11:43:58 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/10/2026, 16:47:54 **/
 
-const LAST_UPDATE = '30/10/2026, 11:43:58';
+const LAST_UPDATE = '30/10/2026, 16:47:54';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3869,7 +3869,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Medalha",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Medalha-40633d8db9d280a985e4c8183d0a5925",
       "gestora": "Equipe",
       "date": "27/10"
