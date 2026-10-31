@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 30/10/2026, 20:24:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 30/10/2026, 23:36:20 **/
 
-const LAST_UPDATE = '30/10/2026, 20:24:25';
+const LAST_UPDATE = '30/10/2026, 23:36:20';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -3866,6 +3866,14 @@ const LINHA_STORIES_ITEMS = {
 
 const DEMANDAS_EXTRAS = {
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "9ª Corrida e Caminhada | Cartaz A3",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Cartaz-A3-40933d8db9d28077b727f9ba3adad586",
+      "gestora": "Equipe",
+      "date": "30/10"
+    },
     {
       "title": "9ª Corrida e Caminhada | Medalha",
       "priority": "pppp",
