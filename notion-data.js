@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/11/2026, 15:10:32 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/11/2026, 20:31:52 **/
 
-const LAST_UPDATE = '03/11/2026, 15:10:32';
+const LAST_UPDATE = '03/11/2026, 20:31:52';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1229,6 +1229,14 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "Solar Coworking": [
     {
+      "title": "DEMANDA — ASSINATURAS DE E-MAIL | SOLAR",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/DEMANDA-ASSINATURAS-DE-E-MAIL-SOLAR-40d33d8db9d280ccab01fba78b5e37e7",
+      "gestora": "Equipe",
+      "date": "06/11"
+    },
+    {
       "title": "DEMANDA — PLACAS DE PAGAMENTO VIA PIX | SOLAR",
       "priority": "p",
       "rawStatus": "1. A fazer",
@@ -1420,6 +1428,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Univendas": "marcada",
   "APROSSEG": "confirmada"
 };
 
@@ -1684,8 +1693,8 @@ const AGENDA_COUNTS = {
   },
   "Univendas": {
     "reuniao": 0,
-    "producao": 0,
-    "evento": 0
+    "producao": 1,
+    "evento": 1
   },
   "Terrartesã": {
     "reuniao": 0,
