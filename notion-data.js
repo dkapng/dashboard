@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 03/11/2026, 07:31:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 03/11/2026, 15:10:32 **/
 
-const LAST_UPDATE = '03/11/2026, 07:31:19';
+const LAST_UPDATE = '03/11/2026, 15:10:32';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1227,6 +1227,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Solar Coworking": [
+    {
+      "title": "DEMANDA — PLACAS DE PAGAMENTO VIA PIX | SOLAR",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/DEMANDA-PLACAS-DE-PAGAMENTO-VIA-PIX-SOLAR-40d33d8db9d28047a043f325f65c5d7c",
+      "gestora": "Equipe",
+      "date": "05/11"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "9ª Corrida e Caminhada | Cartaz A3",
