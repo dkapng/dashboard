@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/11/2026, 01:14:55 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/11/2026, 09:21:33 **/
 
-const LAST_UPDATE = '04/11/2026, 01:14:55';
+const LAST_UPDATE = '04/11/2026, 09:21:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1428,6 +1428,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Daniel Maia Advocacia": "marcada",
   "Univendas": "marcada",
   "APROSSEG": "confirmada"
 };
@@ -1672,7 +1673,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ser Ponte": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
@@ -1712,7 +1713,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Planos Seguros": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
@@ -1729,7 +1730,7 @@ const AGENDA_COUNTS = {
   "Grupo Mulheres do Brasil": {
     "reuniao": 0,
     "producao": 0,
-    "evento": 0
+    "evento": 1
   },
   "Finseg Leal": {
     "reuniao": 0,
@@ -1737,18 +1738,18 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Di Gregório Buffet": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
   "APROSSEG": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 1,
     "evento": 0
   },
   "Daniel Maia Advocacia": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Conecta Assessoria": {
