@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/11/2026, 09:21:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/11/2026, 16:56:24 **/
 
-const LAST_UPDATE = '04/11/2026, 09:21:33';
+const LAST_UPDATE = '04/11/2026, 16:56:24';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1227,25 +1227,107 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Solar Coworking": [
+  "Daniel Maia Advocacia": [
     {
-      "title": "DEMANDA — ASSINATURAS DE E-MAIL | SOLAR",
+      "title": "Atualização do portifolio ",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/DEMANDA-ASSINATURAS-DE-E-MAIL-SOLAR-40d33d8db9d280ccab01fba78b5e37e7",
+      "notionUrl": "https://app.notion.com/p/Atualiza-o-do-portifolio-40e33d8db9d280fc9cbcd9f68ffdcffe",
       "gestora": "Equipe",
       "date": "06/11"
     },
     {
-      "title": "DEMANDA — PLACAS DE PAGAMENTO VIA PIX | SOLAR",
+      "title": "Calendário 2027",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/DEMANDA-PLACAS-DE-PAGAMENTO-VIA-PIX-SOLAR-40d33d8db9d28047a043f325f65c5d7c",
+      "notionUrl": "https://app.notion.com/p/Calend-rio-2027-40e33d8db9d28009bb6be39c35e28078",
       "gestora": "Equipe",
-      "date": "05/11"
+      "date": "10/11"
+    },
+    {
+      "title": "Configurações de e-mail",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
+      "gestora": "Equipe",
+      "date": "04/09"
+    }
+  ],
+  "ItalaP": [
+    {
+      "title": "calendário 2027",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/calend-rio-2027-40e33d8db9d280c382ced6c33129f77d",
+      "gestora": "Equipe",
+      "date": "10/11"
+    },
+    {
+      "title": "Adicionar/atualizar as localizações no Google",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
     }
   ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "9ª Corrida e Caminhada | Narração para vídeo",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Narra-o-para-v-deo-40e33d8db9d28056947fe163a237e7a5",
+      "gestora": "Equipe",
+      "date": "05/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Adesivos redondos",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Adesivos-redondos-40a33d8db9d280728cd3e90ce33fb6d0",
+      "gestora": "Equipe",
+      "date": "04/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Backdrop",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Backdrop-40933d8db9d280108df5fab845c55ddd",
+      "gestora": "Equipe",
+      "date": "04/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Banner da sacada",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Banner-da-sacada-40933d8db9d28009948ffb2066a41dc2",
+      "gestora": "Equipe",
+      "date": "04/11"
+    },
     {
       "title": "9ª Corrida e Caminhada | Cartaz A3",
       "priority": "p",
@@ -1293,6 +1375,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
       "gestora": "Equipe",
       "date": "30/09"
+    }
+  ],
+  "Solar Coworking": [
+    {
+      "title": "DEMANDA — ASSINATURAS DE E-MAIL | SOLAR",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/DEMANDA-ASSINATURAS-DE-E-MAIL-SOLAR-40d33d8db9d280ccab01fba78b5e37e7",
+      "gestora": "Equipe",
+      "date": "06/11"
+    },
+    {
+      "title": "DEMANDA — PLACAS DE PAGAMENTO VIA PIX | SOLAR",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/DEMANDA-PLACAS-DE-PAGAMENTO-VIA-PIX-SOLAR-40d33d8db9d28047a043f325f65c5d7c",
+      "gestora": "Equipe",
+      "date": "05/11"
     }
   ],
   "Plannea": [
@@ -1343,50 +1443,6 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
-  "ItalaP": [
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
-      "gestora": "Equipe",
-      "date": "14/09"
-    },
-    {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
-      "gestora": "Equipe",
-      "date": "09/09"
-    },
-    {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
-      "gestora": "Equipe",
-      "date": "09/09"
-    }
-  ],
-  "Daniel Maia Advocacia": [
-    {
-      "title": "Configurações de e-mail",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
-      "gestora": "Equipe",
-      "date": "04/09"
-    }
-  ],
   "APROSSEG": [
     {
       "title": "30 anos Aprosseg",
@@ -1428,6 +1484,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "AAFEC": "marcada",
   "Daniel Maia Advocacia": "marcada",
   "Univendas": "marcada",
   "APROSSEG": "confirmada"
@@ -1669,8 +1726,8 @@ const AGENDA_COUNTS = {
   },
   "AAFEC": {
     "reuniao": 0,
-    "producao": 0,
-    "evento": 0
+    "producao": 4,
+    "evento": 4
   },
   "Ser Ponte": {
     "reuniao": 1,
@@ -1678,7 +1735,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Tramix": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
