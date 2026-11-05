@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/11/2026, 21:41:14 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/11/2026, 04:36:33 **/
 
-const LAST_UPDATE = '04/11/2026, 21:41:14';
+const LAST_UPDATE = '05/11/2026, 04:36:33';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1227,12 +1227,110 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Daniel Maia Advocacia": [
+  "Grupo Mulheres do Brasil": [
     {
-      "title": "Atualização do portifolio ",
+      "title": "9ª Corrida e Caminhada | Flyer para a ativação",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Atualiza-o-do-portifolio-40e33d8db9d280fc9cbcd9f68ffdcffe",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-a-ativa-o-40f33d8db9d2806fbaaade16f2246f4d",
+      "gestora": "Equipe",
+      "date": "05/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Flyer para o dia do evento",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-o-dia-do-evento-40f33d8db9d280b9bb68f1e946e98228",
+      "gestora": "Equipe",
+      "date": "11/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Narração para vídeo",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Narra-o-para-v-deo-40e33d8db9d28056947fe163a237e7a5",
+      "gestora": "Equipe",
+      "date": "05/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Adesivos redondos",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Adesivos-redondos-40a33d8db9d280728cd3e90ce33fb6d0",
+      "gestora": "Equipe",
+      "date": "04/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Backdrop",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Backdrop-40933d8db9d280108df5fab845c55ddd",
+      "gestora": "Equipe",
+      "date": "04/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Lona para o palco",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Lona-para-o-palco-40933d8db9d28009948ffb2066a41dc2",
+      "gestora": "Equipe",
+      "date": "04/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Cartaz A3",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Cartaz-A3-40933d8db9d28077b727f9ba3adad586",
+      "gestora": "Equipe",
+      "date": "30/10"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Medalha",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Medalha-40633d8db9d280a985e4c8183d0a5925",
+      "gestora": "Equipe",
+      "date": "27/10"
+    },
+    {
+      "title": "Flyer ativação",
+      "priority": "ppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Flyer-ativa-o-40633d8db9d28019b709c81572ede98c",
+      "gestora": "Equipe",
+      "date": "28/10"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Camisa",
+      "priority": "pppp",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Camisa-40633d8db9d2800c9939ffd72583f858",
+      "gestora": "Equipe",
+      "date": "27/10"
+    },
+    {
+      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
+      "priority": "ppp",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
+      "gestora": "Equipe",
+      "date": "11/09"
+    },
+    {
+      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
+      "priority": "p",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
+      "gestora": "Equipe",
+      "date": "30/09"
+    }
+  ],
+  "Daniel Maia Advocacia": [
+    {
+      "title": "Atualização do portfólio",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Atualiza-o-do-portf-lio-40e33d8db9d280fc9cbcd9f68ffdcffe",
       "gestora": "Equipe",
       "date": "06/11"
     },
@@ -1293,88 +1391,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
       "gestora": "Equipe",
       "date": "09/09"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "9ª Corrida e Caminhada | Narração para vídeo",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Narra-o-para-v-deo-40e33d8db9d28056947fe163a237e7a5",
-      "gestora": "Equipe",
-      "date": "05/11"
-    },
-    {
-      "title": "9ª Corrida e Caminhada | Adesivos redondos",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Adesivos-redondos-40a33d8db9d280728cd3e90ce33fb6d0",
-      "gestora": "Equipe",
-      "date": "04/11"
-    },
-    {
-      "title": "9ª Corrida e Caminhada | Backdrop",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Backdrop-40933d8db9d280108df5fab845c55ddd",
-      "gestora": "Equipe",
-      "date": "04/11"
-    },
-    {
-      "title": "9ª Corrida e Caminhada | Banner da sacada",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Banner-da-sacada-40933d8db9d28009948ffb2066a41dc2",
-      "gestora": "Equipe",
-      "date": "04/11"
-    },
-    {
-      "title": "9ª Corrida e Caminhada | Cartaz A3",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Cartaz-A3-40933d8db9d28077b727f9ba3adad586",
-      "gestora": "Equipe",
-      "date": "30/10"
-    },
-    {
-      "title": "9ª Corrida e Caminhada | Medalha",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Medalha-40633d8db9d280a985e4c8183d0a5925",
-      "gestora": "Equipe",
-      "date": "27/10"
-    },
-    {
-      "title": "Flyer ativação",
-      "priority": "ppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Flyer-ativa-o-40633d8db9d28019b709c81572ede98c",
-      "gestora": "Equipe",
-      "date": "28/10"
-    },
-    {
-      "title": "9ª Corrida e Caminhada | Camisa",
-      "priority": "pppp",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Camisa-40633d8db9d2800c9939ffd72583f858",
-      "gestora": "Equipe",
-      "date": "27/10"
-    },
-    {
-      "title": "Criar um vídeo com imagens de Fortaleza e o hino por cima ",
-      "priority": "ppp",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Criar-um-v-deo-com-imagens-de-Fortaleza-e-o-hino-por-cima-3d133d8db9d280ef9eccdc8dbbcd7a92",
-      "gestora": "Equipe",
-      "date": "11/09"
-    },
-    {
-      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
-      "gestora": "Equipe",
-      "date": "30/09"
     }
   ],
   "Solar Coworking": [
