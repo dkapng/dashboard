@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 04/11/2026, 16:56:24 **/
+/** AUTO-GENERATED DATA FROM NOTION - 04/11/2026, 21:41:14 **/
 
-const LAST_UPDATE = '04/11/2026, 16:56:24';
+const LAST_UPDATE = '04/11/2026, 21:41:14';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1315,7 +1315,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Backdrop",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Backdrop-40933d8db9d280108df5fab845c55ddd",
       "gestora": "Equipe",
       "date": "04/11"
@@ -1484,6 +1484,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Tramix": "marcada",
   "AAFEC": "marcada",
   "Daniel Maia Advocacia": "marcada",
   "Univendas": "marcada",
@@ -1736,8 +1737,8 @@ const AGENDA_COUNTS = {
   },
   "Tramix": {
     "reuniao": 1,
-    "producao": 0,
-    "evento": 0
+    "producao": 1,
+    "evento": 1
   },
   "Juntos contra o HPV": {
     "reuniao": 0,
