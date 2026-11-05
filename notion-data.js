@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/11/2026, 12:58:16 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/11/2026, 18:47:31 **/
 
-const LAST_UPDATE = '05/11/2026, 12:58:16';
+const LAST_UPDATE = '05/11/2026, 18:47:31';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1239,7 +1239,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Nova data de ativação na AYO",
       "priority": "pppp",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Nova-data-de-ativa-o-na-AYO-40f33d8db9d28049aa7fcbf67d56d480",
       "gestora": "Equipe",
       "date": "05/11"
@@ -1263,7 +1263,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Narração para vídeo",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Narra-o-para-v-deo-40e33d8db9d28056947fe163a237e7a5",
       "gestora": "Equipe",
       "date": "05/11"
@@ -1309,10 +1309,10 @@ const DEMANDAS_EXTRAS = {
       "date": "27/10"
     },
     {
-      "title": "Flyer ativação",
+      "title": "9ª Corrida e Caminhada | Convite para ativação",
       "priority": "ppp",
       "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Flyer-ativa-o-40633d8db9d28019b709c81572ede98c",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Convite-para-ativa-o-40633d8db9d28019b709c81572ede98c",
       "gestora": "Equipe",
       "date": "28/10"
     },
