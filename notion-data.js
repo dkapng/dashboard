@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 05/11/2026, 04:36:33 **/
+/** AUTO-GENERATED DATA FROM NOTION - 05/11/2026, 12:58:16 **/
 
-const LAST_UPDATE = '05/11/2026, 04:36:33';
+const LAST_UPDATE = '05/11/2026, 12:58:16';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1228,6 +1228,22 @@ const LINHA_STORIES_ITEMS = {
 
 const DEMANDAS_EXTRAS = {
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "9ª Corrida e Caminhada | Mover posts para uma pasta separada",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Mover-posts-para-uma-pasta-separada-40f33d8db9d280608d67fdc6f6c2ffe0",
+      "gestora": "Equipe",
+      "date": "05/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Nova data de ativação na AYO",
+      "priority": "pppp",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Nova-data-de-ativa-o-na-AYO-40f33d8db9d28049aa7fcbf67d56d480",
+      "gestora": "Equipe",
+      "date": "05/11"
+    },
     {
       "title": "9ª Corrida e Caminhada | Flyer para a ativação",
       "priority": "p",
