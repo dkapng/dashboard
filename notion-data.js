@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/11/2026, 13:30:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/11/2026, 18:53:53 **/
 
-const LAST_UPDATE = '06/11/2026, 13:30:53';
+const LAST_UPDATE = '06/11/2026, 18:53:53';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1227,6 +1227,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "AAFEC": [
+    {
+      "title": "Agenda de dezembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-dezembro-de-2026-41033d8db9d28042aaa5c7500446c74e",
+      "gestora": "Equipe",
+      "date": "27/11"
+    },
+    {
+      "title": "Agenda de novembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
+      "gestora": "Equipe",
+      "date": "23/10"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
     {
       "title": "9ª Corrida e Caminhada | Mover posts para uma pasta separada",
@@ -1247,7 +1265,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Flyer para a ativação",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-a-ativa-o-40f33d8db9d2806fbaaade16f2246f4d",
       "gestora": "Equipe",
       "date": "05/11"
@@ -1255,7 +1273,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Flyer para o dia do evento",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-o-dia-do-evento-40f33d8db9d280b9bb68f1e946e98228",
       "gestora": "Equipe",
       "date": "11/11"
@@ -1453,16 +1471,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Edi-o-de-v-deo-40533d8db9d280db871ff2febef34eac",
       "gestora": "Equipe",
       "date": "27/10"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Agenda de novembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
-      "gestora": "Equipe",
-      "date": "23/10"
     }
   ],
   "Di Gregório Buffet": [
