@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 06/11/2026, 05:53:30 **/
+/** AUTO-GENERATED DATA FROM NOTION - 06/11/2026, 13:30:53 **/
 
-const LAST_UPDATE = '06/11/2026, 05:53:30';
+const LAST_UPDATE = '06/11/2026, 13:30:53';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1247,7 +1247,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Flyer para a ativação",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-a-ativa-o-40f33d8db9d2806fbaaade16f2246f4d",
       "gestora": "Equipe",
       "date": "05/11"
@@ -1255,7 +1255,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Flyer para o dia do evento",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-o-dia-do-evento-40f33d8db9d280b9bb68f1e946e98228",
       "gestora": "Equipe",
       "date": "11/11"
