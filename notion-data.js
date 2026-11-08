@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/11/2026, 12:41:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 08/11/2026, 17:03:44 **/
 
-const LAST_UPDATE = '08/11/2026, 12:41:35';
+const LAST_UPDATE = '08/11/2026, 17:03:44';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1227,6 +1227,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Ser Ponte": [
+    {
+      "title": "Feed com fotos",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Feed-com-fotos-41233d8db9d2808f82dfc37d5c187dd7",
+      "gestora": "Equipe",
+      "date": "09/11"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Agenda de dezembro de 2026",
