@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 08/11/2026, 20:51:08 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/11/2026, 00:56:14 **/
 
-const LAST_UPDATE = '08/11/2026, 20:51:08';
+const LAST_UPDATE = '09/11/2026, 00:56:14';
 
 const GESTORAS = {
   "Mayla Valere": [
@@ -1438,14 +1438,6 @@ const DEMANDAS_EXTRAS = {
     }
   ],
   "Solar Coworking": [
-    {
-      "title": "DEMANDA — ASSINATURAS DE E-MAIL | SOLAR",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/DEMANDA-ASSINATURAS-DE-E-MAIL-SOLAR-40d33d8db9d280ccab01fba78b5e37e7",
-      "gestora": "Equipe",
-      "date": "09/11"
-    },
     {
       "title": "DEMANDA — PLACAS DE PAGAMENTO VIA PIX | SOLAR",
       "priority": "p",
