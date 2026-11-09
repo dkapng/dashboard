@@ -1,19 +1,20 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/11/2026, 09:26:54 **/
+/** AUTO-GENERATED DATA FROM NOTION - 09/11/2026, 19:36:42 **/
 
-const LAST_UPDATE = '09/11/2026, 09:26:54';
+const LAST_UPDATE = '09/11/2026, 19:36:42';
 
 const GESTORAS = {
-  "Mayla Valere": [
-    "Hélio Rôla 90 Anos",
-    "Ventana"
-  ],
   "Lucas de Paula": [
+    "Loja Travessia",
     "AAFEC",
     "Ser Ponte",
     "Tramix",
     "Planos Seguros",
     "Plannea",
     "Grupo Mulheres do Brasil"
+  ],
+  "Mayla Valere": [
+    "Hélio Rôla 90 Anos",
+    "Ventana"
   ],
   "Alice Sousa": [
     "Juntos contra o HPV",
@@ -34,6 +35,7 @@ const GESTORAS = {
 };
 
 const NICHES = {
+  "Loja Travessia": "Geral",
   "Hélio Rôla 90 Anos": "Geral",
   "AAFEC": "Geral",
   "Ser Ponte": "Geral",
@@ -57,6 +59,14 @@ const NICHES = {
 };
 
 const FEED_DATA = {
+  "Loja Travessia": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
   "Hélio Rôla 90 Anos": {
     "total": 0,
     "pronto": 0,
@@ -220,6 +230,14 @@ const FEED_DATA = {
 };
 
 const VIDEO_DATA = {
+  "Loja Travessia": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
   "Hélio Rôla 90 Anos": {
     "total": 0,
     "pronto": 0,
@@ -383,6 +401,14 @@ const VIDEO_DATA = {
 };
 
 const STORIES_DATA = {
+  "Loja Travessia": {
+    "total": 0,
+    "pronto": 0,
+    "postado": 0,
+    "agendado": 0,
+    "agendado_coord": 0,
+    "a_agendar": 0
+  },
   "Hélio Rôla 90 Anos": {
     "total": 0,
     "pronto": 0,
@@ -546,6 +572,7 @@ const STORIES_DATA = {
 };
 
 const LINHA_FEED_ITEMS = {
+  "Loja Travessia": [],
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [],
   "Ser Ponte": [
@@ -1030,6 +1057,7 @@ const LINHA_FEED_ITEMS = {
 };
 
 const LINHA_VIDEO_ITEMS = {
+  "Loja Travessia": [],
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [],
   "Ser Ponte": [],
@@ -1190,6 +1218,7 @@ const LINHA_VIDEO_ITEMS = {
 };
 
 const LINHA_STORIES_ITEMS = {
+  "Loja Travessia": [],
   "Hélio Rôla 90 Anos": [],
   "AAFEC": [],
   "Ser Ponte": [],
@@ -1227,35 +1256,31 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Ser Ponte": [
+  "Grupo Mulheres do Brasil": [
     {
-      "title": "Feed com fotos",
+      "title": "9ª Corrida e Caminhada | Papel de peito",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Feed-com-fotos-41233d8db9d2808f82dfc37d5c187dd7",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Papel-de-peito-41333d8db9d280f89d7de14821c527cb",
       "gestora": "Equipe",
       "date": "09/11"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Agenda de dezembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-dezembro-de-2026-41033d8db9d28042aaa5c7500446c74e",
-      "gestora": "Equipe",
-      "date": "27/11"
     },
     {
-      "title": "Agenda de novembro de 2026",
+      "title": "9ª Corrida e Caminhada | Violentômetro com régua apropriada",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Violent-metro-com-r-gua-apropriada-41333d8db9d2808c9b24edaf11ca8f04",
       "gestora": "Equipe",
-      "date": "23/10"
-    }
-  ],
-  "Grupo Mulheres do Brasil": [
+      "date": "09/11"
+    },
+    {
+      "title": "9ª Corrida e Caminhada | Lona para os pórticos",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Lona-para-os-p-rticos-41333d8db9d2803eb95feee7c691112a",
+      "gestora": "Equipe",
+      "date": "09/11"
+    },
     {
       "title": "9ª Corrida e Caminhada | Mover posts para uma pasta separada",
       "priority": "p",
@@ -1275,7 +1300,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Flyer para a ativação",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-a-ativa-o-40f33d8db9d2806fbaaade16f2246f4d",
       "gestora": "Equipe",
       "date": "05/11"
@@ -1283,7 +1308,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Flyer para o dia do evento",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-o-dia-do-evento-40f33d8db9d280b9bb68f1e946e98228",
       "gestora": "Equipe",
       "date": "11/11"
@@ -1367,6 +1392,34 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
       "gestora": "Equipe",
       "date": "30/09"
+    }
+  ],
+  "Loja Travessia": [
+    {
+      "title": "Primeira trinca da Travessia",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Primeira-trinca-da-Travessia-41233d8db9d2808f82dfc37d5c187dd7",
+      "gestora": "Equipe",
+      "date": "09/11"
+    }
+  ],
+  "AAFEC": [
+    {
+      "title": "Agenda de dezembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-dezembro-de-2026-41033d8db9d28042aaa5c7500446c74e",
+      "gestora": "Equipe",
+      "date": "27/11"
+    },
+    {
+      "title": "Agenda de novembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
+      "gestora": "Equipe",
+      "date": "23/10"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -1536,6 +1589,10 @@ const CAPTACAO_DATA = {
 const APRESENTACAO_DATA = {};
 
 const LEGENDAS_DATA = {
+  "Loja Travessia": {
+    "prontas": 0,
+    "total": 0
+  },
   "Hélio Rôla 90 Anos": {
     "prontas": 0,
     "total": 0
@@ -1619,6 +1676,13 @@ const LEGENDAS_DATA = {
 };
 
 const FORMAT_COUNTS = {
+  "Loja Travessia": {
+    "post": 0,
+    "carrossel": 0,
+    "foto": 0,
+    "video": 0,
+    "story": 0
+  },
   "Hélio Rôla 90 Anos": {
     "post": 0,
     "carrossel": 0,
@@ -1762,6 +1826,11 @@ const FORMAT_COUNTS = {
 };
 
 const AGENDA_COUNTS = {
+  "Loja Travessia": {
+    "reuniao": 0,
+    "producao": 0,
+    "evento": 0
+  },
   "Hélio Rôla 90 Anos": {
     "reuniao": 0,
     "producao": 0,
