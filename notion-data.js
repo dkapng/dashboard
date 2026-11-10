@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/11/2026, 09:52:05 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/11/2026, 17:07:35 **/
 
-const LAST_UPDATE = '10/11/2026, 09:52:05';
+const LAST_UPDATE = '10/11/2026, 17:07:35';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1579,9 +1579,9 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "AAFEC": "marcada",
   "APROSSEG": "confirmada",
   "Tramix": "marcada",
-  "AAFEC": "marcada",
   "Daniel Maia Advocacia": "marcada",
   "Univendas": "marcada"
 };
@@ -1839,7 +1839,7 @@ const AGENDA_COUNTS = {
   "AAFEC": {
     "reuniao": 0,
     "producao": 4,
-    "evento": 4
+    "evento": 3
   },
   "Ser Ponte": {
     "reuniao": 1,
