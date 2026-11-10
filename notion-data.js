@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/11/2026, 01:26:53 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/11/2026, 09:52:05 **/
 
-const LAST_UPDATE = '10/11/2026, 01:26:53';
+const LAST_UPDATE = '10/11/2026, 09:52:05';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1260,7 +1260,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Papel de peito",
       "priority": "p",
-      "rawStatus": "2. Fazendo",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Papel-de-peito-41333d8db9d280f89d7de14821c527cb",
       "gestora": "Equipe",
       "date": "09/11"
