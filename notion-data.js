@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 09/11/2026, 19:36:42 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/11/2026, 01:26:53 **/
 
-const LAST_UPDATE = '09/11/2026, 19:36:42';
+const LAST_UPDATE = '10/11/2026, 01:26:53';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1260,7 +1260,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Papel de peito",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Fazendo",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Papel-de-peito-41333d8db9d280f89d7de14821c527cb",
       "gestora": "Equipe",
       "date": "09/11"
@@ -1268,7 +1268,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Violentômetro com régua apropriada",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Violent-metro-com-r-gua-apropriada-41333d8db9d2808c9b24edaf11ca8f04",
       "gestora": "Equipe",
       "date": "09/11"
@@ -1300,7 +1300,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Flyer para a ativação",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-a-ativa-o-40f33d8db9d2806fbaaade16f2246f4d",
       "gestora": "Equipe",
       "date": "05/11"
@@ -1308,7 +1308,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Flyer para o dia do evento",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Flyer-para-o-dia-do-evento-40f33d8db9d280b9bb68f1e946e98228",
       "gestora": "Equipe",
       "date": "11/11"
@@ -1396,10 +1396,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Loja Travessia": [
     {
-      "title": "Primeira trinca da Travessia",
+      "title": "Primeira trinca da Loja Travessia",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Primeira-trinca-da-Travessia-41233d8db9d2808f82dfc37d5c187dd7",
+      "rawStatus": "2. Fazendo",
+      "notionUrl": "https://app.notion.com/p/Primeira-trinca-da-Loja-Travessia-41233d8db9d2808f82dfc37d5c187dd7",
       "gestora": "Equipe",
       "date": "09/11"
     }
@@ -1579,11 +1579,11 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "APROSSEG": "confirmada",
   "Tramix": "marcada",
   "AAFEC": "marcada",
   "Daniel Maia Advocacia": "marcada",
-  "Univendas": "marcada",
-  "APROSSEG": "confirmada"
+  "Univendas": "marcada"
 };
 
 const APRESENTACAO_DATA = {};
@@ -1913,7 +1913,7 @@ const AGENDA_COUNTS = {
   },
   "APROSSEG": {
     "reuniao": 1,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "Daniel Maia Advocacia": {
