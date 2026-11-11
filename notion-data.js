@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 10/11/2026, 17:07:35 **/
+/** AUTO-GENERATED DATA FROM NOTION - 10/11/2026, 21:44:31 **/
 
-const LAST_UPDATE = '10/11/2026, 17:07:35';
+const LAST_UPDATE = '10/11/2026, 21:44:31';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1257,6 +1257,14 @@ const LINHA_STORIES_ITEMS = {
 
 const DEMANDAS_EXTRAS = {
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "9ª Corrida e Caminhada | Capa para formulário da ativação",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Capa-para-formul-rio-da-ativa-o-41433d8db9d280909038ce4b4286c69d",
+      "gestora": "Equipe",
+      "date": "10/11"
+    },
     {
       "title": "9ª Corrida e Caminhada | Papel de peito",
       "priority": "p",
