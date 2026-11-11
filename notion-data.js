@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 11/11/2026, 12:29:25 **/
+/** AUTO-GENERATED DATA FROM NOTION - 11/11/2026, 19:08:49 **/
 
-const LAST_UPDATE = '11/11/2026, 12:29:25';
+const LAST_UPDATE = '11/11/2026, 19:08:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1260,7 +1260,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Faixas de lona",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Faixas-de-lona-41533d8db9d28004a483cc0635b7e988",
       "gestora": "Equipe",
       "date": "11/11"
