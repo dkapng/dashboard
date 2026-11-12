@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/11/2026, 08:36:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/11/2026, 16:23:26 **/
 
-const LAST_UPDATE = '12/11/2026, 08:36:26';
+const LAST_UPDATE = '12/11/2026, 16:23:26';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,7 +1256,25 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Tramix": [
+    {
+      "title": "Adicionar logo no material da cliente ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-logo-no-material-da-cliente-41633d8db9d2806eba12c3c3cb974d4a",
+      "gestora": "Equipe",
+      "date": "17/11"
+    }
+  ],
   "Grupo Mulheres do Brasil": [
+    {
+      "title": "Jornalistas | Corrida",
+      "priority": "pp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Jornalistas-Corrida-41633d8db9d2804bb4a3ec199262f79f",
+      "gestora": "Equipe",
+      "date": "18/11"
+    },
     {
       "title": "9ª Corrida e Caminhada | Faixas de lona",
       "priority": "p",
@@ -1276,7 +1294,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "9ª Corrida e Caminhada | Papel de peito",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Papel-de-peito-41333d8db9d280f89d7de14821c527cb",
       "gestora": "Equipe",
       "date": "09/11"
