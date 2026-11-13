@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 12/11/2026, 16:23:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 12/11/2026, 21:35:49 **/
 
-const LAST_UPDATE = '12/11/2026, 16:23:26';
+const LAST_UPDATE = '12/11/2026, 21:35:49';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,6 +1256,80 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "ItalaP": [
+    {
+      "title": "Artes para o trafego",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Artes-para-o-trafego-41633d8db9d280f4b11bd0edc21b11c9",
+      "gestora": "Equipe",
+      "date": "18/11"
+    },
+    {
+      "title": "Vídeo institucional - Formato horizontal",
+      "priority": "p",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/V-deo-institucional-Formato-horizontal-41633d8db9d2801391edf5e29903f526",
+      "gestora": "Equipe",
+      "date": "17T11:00:00.000/11"
+    },
+    {
+      "title": "Panfleto institucional A5, frente e verso",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-institucional-A5-frente-e-verso-41633d8db9d2801aa2d9f98cfd6f8097",
+      "gestora": "Equipe",
+      "date": "17T11:00:00.000/11"
+    },
+    {
+      "title": "Cartão para mimo ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Cart-o-para-mimo-41533d8db9d280d8b2a0e239ea632f67",
+      "gestora": "Equipe",
+      "date": "13/11"
+    },
+    {
+      "title": "calendário 2027",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/calend-rio-2027-40e33d8db9d280c382ced6c33129f77d",
+      "gestora": "Equipe",
+      "date": "10/11"
+    },
+    {
+      "title": "Adicionar/atualizar as localizações no Google",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
+      "gestora": "Equipe",
+      "date": "14/09"
+    },
+    {
+      "title": "Criar um grupo com ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
+      "gestora": "Equipe",
+      "date": "09/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
+    }
+  ],
   "Tramix": [
     {
       "title": "Adicionar logo no material da cliente ",
@@ -1426,56 +1500,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
       "gestora": "Equipe",
       "date": "30/09"
-    }
-  ],
-  "ItalaP": [
-    {
-      "title": "Cartão para mimo ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Cart-o-para-mimo-41533d8db9d280d8b2a0e239ea632f67",
-      "gestora": "Equipe",
-      "date": "13/11"
-    },
-    {
-      "title": "calendário 2027",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/calend-rio-2027-40e33d8db9d280c382ced6c33129f77d",
-      "gestora": "Equipe",
-      "date": "10/11"
-    },
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
-      "gestora": "Equipe",
-      "date": "14/09"
-    },
-    {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
-      "gestora": "Equipe",
-      "date": "09/09"
-    },
-    {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
-      "gestora": "Equipe",
-      "date": "09/09"
     }
   ],
   "Loja Travessia": [
