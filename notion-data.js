@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/11/2026, 12:38:01 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/11/2026, 18:44:55 **/
 
-const LAST_UPDATE = '13/11/2026, 12:38:01';
+const LAST_UPDATE = '13/11/2026, 18:44:55';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1258,10 +1258,10 @@ const LINHA_STORIES_ITEMS = {
 const DEMANDAS_EXTRAS = {
   "ItalaP": [
     {
-      "title": "Artes para o trafego",
+      "title": "Designs para o tráfego pago #02",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Artes-para-o-trafego-41633d8db9d280f4b11bd0edc21b11c9",
+      "notionUrl": "https://app.notion.com/p/Designs-para-o-tr-fego-pago-02-41633d8db9d280f4b11bd0edc21b11c9",
       "gestora": "Equipe",
       "date": "18/11"
     },
@@ -1282,10 +1282,10 @@ const DEMANDAS_EXTRAS = {
       "date": "17T11:00:00.000/11"
     },
     {
-      "title": "Cartão para mimo ",
+      "title": "Cartão-convite para confraternização",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Cart-o-para-mimo-41533d8db9d280d8b2a0e239ea632f67",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Cart-o-convite-para-confraterniza-o-41533d8db9d280d8b2a0e239ea632f67",
       "gestora": "Equipe",
       "date": "13/11"
     },
