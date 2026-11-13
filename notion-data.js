@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 13/11/2026, 04:30:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 13/11/2026, 12:38:01 **/
 
-const LAST_UPDATE = '13/11/2026, 04:30:15';
+const LAST_UPDATE = '13/11/2026, 12:38:01';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1502,16 +1502,6 @@ const DEMANDAS_EXTRAS = {
       "date": "30/09"
     }
   ],
-  "Loja Travessia": [
-    {
-      "title": "Primeira trinca da Loja Travessia",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Primeira-trinca-da-Loja-Travessia-41233d8db9d2808f82dfc37d5c187dd7",
-      "gestora": "Equipe",
-      "date": "09/11"
-    }
-  ],
   "AAFEC": [
     {
       "title": "Agenda de dezembro de 2026",
@@ -1908,7 +1898,7 @@ const AGENDA_COUNTS = {
     "evento": 3
   },
   "Ser Ponte": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 0,
     "evento": 0
   },
@@ -1923,7 +1913,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Ventana": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 0,
     "evento": 0
   },
@@ -1948,7 +1938,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Planos Seguros": {
-    "reuniao": 1,
+    "reuniao": 2,
     "producao": 0,
     "evento": 0
   },
@@ -1958,7 +1948,7 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "ItalaP": {
-    "reuniao": 0,
+    "reuniao": 1,
     "producao": 0,
     "evento": 0
   },
