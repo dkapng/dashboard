@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 17/11/2026, 09:12:37 **/
+/** AUTO-GENERATED DATA FROM NOTION - 17/11/2026, 18:09:38 **/
 
-const LAST_UPDATE = '17/11/2026, 09:12:37';
+const LAST_UPDATE = '17/11/2026, 18:09:38';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,11 +1256,69 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Loja Travessia": [
+    {
+      "title": "Card para WhatsApp | Novidade na Travessia",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Card-para-WhatsApp-Novidade-na-Travessia-41b33d8db9d2801fbc81c7be00120c1d",
+      "gestora": "Equipe",
+      "date": "17/11"
+    },
+    {
+      "title": "Banner institucional",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Banner-institucional-41b33d8db9d280a98795d706929f81da",
+      "gestora": "Equipe",
+      "date": "20/11"
+    }
+  ],
   "Ser Ponte": [
+    {
+      "title": "Cartões de visita para brechós comunitários",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Cart-es-de-visita-para-brech-s-comunit-rios-41b33d8db9d280928b70c868f2cbdd47",
+      "gestora": "Equipe",
+      "date": "20/11"
+    },
+    {
+      "title": "Banner | Coletivo Psi Ser Ponte",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Banner-Coletivo-Psi-Ser-Ponte-41b33d8db9d280b49e85ec36338614ae",
+      "gestora": "Equipe",
+      "date": "20/11"
+    },
+    {
+      "title": "Banner | Projeto Brechós Comunitários",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Banner-Projeto-Brech-s-Comunit-rios-41b33d8db9d2803faf45f6068111ff32",
+      "gestora": "Equipe",
+      "date": "20/11"
+    },
+    {
+      "title": "Banners individuais para cada brechó comunitário",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Banners-individuais-para-cada-brech-comunit-rio-41a33d8db9d28051b545e61caa5f30a1",
+      "gestora": "Equipe",
+      "date": "20/11"
+    },
+    {
+      "title": "Banner | Institucional",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Banner-Institucional-41a33d8db9d280b293caf0b0eb5b03d2",
+      "gestora": "Equipe",
+      "date": "20/11"
+    },
     {
       "title": "Card sobre brechós comunitários",
       "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Card-sobre-brech-s-comunit-rios-41a33d8db9d28072a157fdb35c5d2cf7",
       "gestora": "Equipe",
       "date": "16/11"
@@ -1286,18 +1344,10 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Panfleto institucional A5, frente e verso",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Panfleto-institucional-A5-frente-e-verso-41633d8db9d2801aa2d9f98cfd6f8097",
       "gestora": "Equipe",
       "date": "17T11:00:00.000/11"
-    },
-    {
-      "title": "Cartão-convite para confraternização",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/Cart-o-convite-para-confraterniza-o-41533d8db9d280d8b2a0e239ea632f67",
-      "gestora": "Equipe",
-      "date": "13/11"
     },
     {
       "title": "calendário 2027",
@@ -1348,6 +1398,14 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Adicionar-logo-no-material-da-cliente-41633d8db9d2806eba12c3c3cb974d4a",
       "gestora": "Equipe",
       "date": "17/11"
+    },
+    {
+      "title": "Embalagens novas  ",
+      "priority": "p",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/Embalagens-novas-3ca33d8db9d2804d8a81e340f756a067",
+      "gestora": "Equipe",
+      "date": "18/11"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -1438,14 +1496,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Criar-arte-para-grupo-de-whatsapp-40533d8db9d280c39a34fc5f1be50abc",
       "gestora": "Equipe",
       "date": "29/10"
-    },
-    {
-      "title": "Fim de ano Plannea | Menu",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Fim-de-ano-Plannea-Menu-3f133d8db9d280e495a3f4f41fe64d63",
-      "gestora": "Equipe",
-      "date": "09/10"
     }
   ],
   "Juntos contra o HPV": [
@@ -1509,6 +1559,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Hélio Rôla 90 Anos": "marcada",
   "AAFEC": "marcada",
   "APROSSEG": "confirmada",
   "Tramix": "marcada",
@@ -1762,8 +1813,8 @@ const AGENDA_COUNTS = {
     "evento": 0
   },
   "Hélio Rôla 90 Anos": {
-    "reuniao": 0,
-    "producao": 0,
+    "reuniao": 1,
+    "producao": 1,
     "evento": 0
   },
   "AAFEC": {
