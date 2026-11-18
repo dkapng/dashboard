@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 18/11/2026, 08:21:29 **/
+/** AUTO-GENERATED DATA FROM NOTION - 18/11/2026, 16:27:57 **/
 
-const LAST_UPDATE = '18/11/2026, 08:21:29';
+const LAST_UPDATE = '18/11/2026, 16:27:57';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,25 +1256,15 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Loja Travessia": [
+  "Ser Ponte": [
     {
-      "title": "Card para WhatsApp | Novidade na Travessia",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Card-para-WhatsApp-Novidade-na-Travessia-41b33d8db9d2801fbc81c7be00120c1d",
-      "gestora": "Equipe",
-      "date": "17/11"
-    },
-    {
-      "title": "Banner institucional",
+      "title": "Banner individual | Travessia",
       "priority": "p",
       "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Banner-institucional-41b33d8db9d280a98795d706929f81da",
+      "notionUrl": "https://app.notion.com/p/Banner-individual-Travessia-41c33d8db9d28010a3a0d59632a9224e",
       "gestora": "Equipe",
       "date": "20/11"
-    }
-  ],
-  "Ser Ponte": [
+    },
     {
       "title": "Cartões de visita para brechós comunitários",
       "priority": "p",
@@ -1286,7 +1276,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Banner | Coletivo Psi Ser Ponte",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Banner-Coletivo-Psi-Ser-Ponte-41b33d8db9d280b49e85ec36338614ae",
       "gestora": "Equipe",
       "date": "20/11"
@@ -1310,18 +1300,54 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Banner | Institucional",
       "priority": "p",
-      "rawStatus": "2. Falta informação",
+      "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Banner-Institucional-41a33d8db9d280b293caf0b0eb5b03d2",
       "gestora": "Equipe",
       "date": "20/11"
+    }
+  ],
+  "Tramix": [
+    {
+      "title": "Arte para blusa de malha",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Arte-para-blusa-de-malha-41c33d8db9d280578055c309ef1da89e",
+      "gestora": "Equipe",
+      "date": "25T12:00:00.000/11"
     },
     {
-      "title": "Card sobre brechós comunitários",
+      "title": "Adicionar logo no material da cliente ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-logo-no-material-da-cliente-41633d8db9d2806eba12c3c3cb974d4a",
+      "gestora": "Equipe",
+      "date": "17/11"
+    },
+    {
+      "title": "Embalagens novas  ",
+      "priority": "p",
+      "rawStatus": "2. Alterações a fazer",
+      "notionUrl": "https://app.notion.com/p/Embalagens-novas-3ca33d8db9d2804d8a81e340f756a067",
+      "gestora": "Equipe",
+      "date": "18/11"
+    }
+  ],
+  "Loja Travessia": [
+    {
+      "title": "Card para WhatsApp | Novidade na Travessia",
       "priority": "p",
       "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Card-sobre-brech-s-comunit-rios-41a33d8db9d28072a157fdb35c5d2cf7",
+      "notionUrl": "https://app.notion.com/p/Card-para-WhatsApp-Novidade-na-Travessia-41b33d8db9d2801fbc81c7be00120c1d",
       "gestora": "Equipe",
-      "date": "16/11"
+      "date": "17/11"
+    },
+    {
+      "title": "Banner institucional",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Banner-institucional-41b33d8db9d280a98795d706929f81da",
+      "gestora": "Equipe",
+      "date": "20/11"
     }
   ],
   "ItalaP": [
@@ -1388,24 +1414,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
       "gestora": "Equipe",
       "date": "09/09"
-    }
-  ],
-  "Tramix": [
-    {
-      "title": "Adicionar logo no material da cliente ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-logo-no-material-da-cliente-41633d8db9d2806eba12c3c3cb974d4a",
-      "gestora": "Equipe",
-      "date": "17/11"
-    },
-    {
-      "title": "Embalagens novas  ",
-      "priority": "p",
-      "rawStatus": "2. Alterações a fazer",
-      "notionUrl": "https://app.notion.com/p/Embalagens-novas-3ca33d8db9d2804d8a81e340f756a067",
-      "gestora": "Equipe",
-      "date": "18/11"
     }
   ],
   "Grupo Mulheres do Brasil": [
