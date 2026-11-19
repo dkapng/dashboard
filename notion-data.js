@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 19/11/2026, 06:00:12 **/
+/** AUTO-GENERATED DATA FROM NOTION - 19/11/2026, 15:06:33 **/
 
-const LAST_UPDATE = '19/11/2026, 06:00:12';
+const LAST_UPDATE = '19/11/2026, 15:06:33';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1567,6 +1567,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Planos Seguros": "marcada",
   "Conecta Assessoria": "marcada",
   "Hélio Rôla 90 Anos": "marcada",
   "AAFEC": "marcada",
@@ -1873,7 +1874,7 @@ const AGENDA_COUNTS = {
   },
   "Planos Seguros": {
     "reuniao": 2,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Plannea": {
