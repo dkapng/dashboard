@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 23/11/2026, 05:46:00 **/
+/** AUTO-GENERATED DATA FROM NOTION - 23/11/2026, 17:45:35 **/
 
-const LAST_UPDATE = '23/11/2026, 05:46:00';
+const LAST_UPDATE = '23/11/2026, 17:45:35';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,6 +1256,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Solar Coworking": [
+    {
+      "title": "DEMANDA: CARTÃO DE NATAL | SOLAR",
+      "priority": "ppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/DEMANDA-CART-O-DE-NATAL-SOLAR-42133d8db9d280bfbb98fbaf2a59a9d7",
+      "gestora": "Equipe",
+      "date": "26/11"
+    },
+    {
+      "title": "DEMANDA — PLACAS DE PAGAMENTO VIA PIX | SOLAR",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/DEMANDA-PLACAS-DE-PAGAMENTO-VIA-PIX-SOLAR-40d33d8db9d28047a043f325f65c5d7c",
+      "gestora": "Equipe",
+      "date": "05/11"
+    }
+  ],
   "Ser Ponte": [
     {
       "title": "Banner individual | Travessia",
@@ -1268,40 +1286,40 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartões de visita para brechós comunitários",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Cart-es-de-visita-para-brech-s-comunit-rios-41b33d8db9d280928b70c868f2cbdd47",
       "gestora": "Equipe",
       "date": "20/11"
     },
     {
-      "title": "Banner | Coletivo Psi Ser Ponte",
+      "title": "Banner para Coletivo Psi Ser Ponte",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Banner-Coletivo-Psi-Ser-Ponte-41b33d8db9d280b49e85ec36338614ae",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Banner-para-Coletivo-Psi-Ser-Ponte-41b33d8db9d280b49e85ec36338614ae",
       "gestora": "Equipe",
       "date": "20/11"
     },
     {
-      "title": "Banner | Projeto Brechós Comunitários",
+      "title": "Banner para Projeto Brechós Comunitários",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Banner-Projeto-Brech-s-Comunit-rios-41b33d8db9d2803faf45f6068111ff32",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Banner-para-Projeto-Brech-s-Comunit-rios-41b33d8db9d2803faf45f6068111ff32",
       "gestora": "Equipe",
       "date": "20/11"
     },
     {
       "title": "Banners individuais para cada brechó comunitário",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Banners-individuais-para-cada-brech-comunit-rio-41a33d8db9d28051b545e61caa5f30a1",
       "gestora": "Equipe",
       "date": "20/11"
     },
     {
-      "title": "Banner | Institucional",
+      "title": "Banner institucional",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Banner-Institucional-41a33d8db9d280b293caf0b0eb5b03d2",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Banner-institucional-41a33d8db9d280b293caf0b0eb5b03d2",
       "gestora": "Equipe",
       "date": "20/11"
     }
@@ -1316,10 +1334,10 @@ const DEMANDAS_EXTRAS = {
       "date": "25T12:00:00.000/11"
     },
     {
-      "title": "Adicionar logo no material da cliente ",
+      "title": "Banner para armarinho",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-logo-no-material-da-cliente-41633d8db9d2806eba12c3c3cb974d4a",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Banner-para-armarinho-41633d8db9d2806eba12c3c3cb974d4a",
       "gestora": "Equipe",
       "date": "17/11"
     },
@@ -1344,7 +1362,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Banner institucional",
       "priority": "p",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Banner-institucional-41b33d8db9d280a98795d706929f81da",
       "gestora": "Equipe",
       "date": "20/11"
@@ -1426,14 +1444,6 @@ const DEMANDAS_EXTRAS = {
       "date": "18/11"
     },
     {
-      "title": "9ª Corrida e Caminhada | Mover posts para uma pasta separada",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/9-Corrida-e-Caminhada-Mover-posts-para-uma-pasta-separada-40f33d8db9d280608d67fdc6f6c2ffe0",
-      "gestora": "Equipe",
-      "date": "05/11"
-    },
-    {
       "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
       "priority": "p",
       "rawStatus": "2. Fazendo",
@@ -1450,14 +1460,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Agenda-de-dezembro-de-2026-41033d8db9d28042aaa5c7500446c74e",
       "gestora": "Equipe",
       "date": "27/11"
-    },
-    {
-      "title": "Agenda de novembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-novembro-de-2026-3f433d8db9d28004aa25ef1d12891308",
-      "gestora": "Equipe",
-      "date": "23/10"
     }
   ],
   "Daniel Maia Advocacia": [
@@ -1484,16 +1486,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
       "gestora": "Equipe",
       "date": "04/09"
-    }
-  ],
-  "Solar Coworking": [
-    {
-      "title": "DEMANDA — PLACAS DE PAGAMENTO VIA PIX | SOLAR",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/DEMANDA-PLACAS-DE-PAGAMENTO-VIA-PIX-SOLAR-40d33d8db9d28047a043f325f65c5d7c",
-      "gestora": "Equipe",
-      "date": "05/11"
     }
   ],
   "Plannea": [
@@ -1567,14 +1559,15 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Univendas": "confirmada",
+  "Finseg Leal": "confirmada",
   "Planos Seguros": "marcada",
   "Conecta Assessoria": "marcada",
   "Hélio Rôla 90 Anos": "marcada",
   "AAFEC": "marcada",
   "APROSSEG": "confirmada",
   "Tramix": "marcada",
-  "Daniel Maia Advocacia": "marcada",
-  "Univendas": "marcada"
+  "Daniel Maia Advocacia": "marcada"
 };
 
 const APRESENTACAO_DATA = {};
@@ -1854,7 +1847,7 @@ const AGENDA_COUNTS = {
   },
   "Univendas": {
     "reuniao": 0,
-    "producao": 1,
+    "producao": 2,
     "evento": 1
   },
   "Terrartesã": {
@@ -1894,7 +1887,7 @@ const AGENDA_COUNTS = {
   },
   "Finseg Leal": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   },
   "Di Gregório Buffet": {
