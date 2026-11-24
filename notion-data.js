@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 24/11/2026, 02:05:03 **/
+/** AUTO-GENERATED DATA FROM NOTION - 24/11/2026, 13:04:00 **/
 
-const LAST_UPDATE = '24/11/2026, 02:05:03';
+const LAST_UPDATE = '24/11/2026, 13:04:00';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,6 +1256,40 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Plannea": [
+    {
+      "title": "Arte Plannea Summit ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Arte-Plannea-Summit-42233d8db9d280e883cbeb4fa1ee90eb",
+      "gestora": "Equipe",
+      "date": "25/11"
+    },
+    {
+      "title": "Cartão com agradecimento para sousplat | Fim de ano",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Cart-o-com-agradecimento-para-sousplat-Fim-de-ano-41733d8db9d2809886fee8bd6b21a07e",
+      "gestora": "Equipe",
+      "date": "24/11"
+    },
+    {
+      "title": "Menu em pé | Fim de ano",
+      "priority": "p",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Menu-em-p-Fim-de-ano-41733d8db9d280d5bf97d0fda0972d24",
+      "gestora": "Equipe",
+      "date": "24/11"
+    },
+    {
+      "title": "Criar arte para grupo de whatsapp",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Criar-arte-para-grupo-de-whatsapp-40533d8db9d280c39a34fc5f1be50abc",
+      "gestora": "Equipe",
+      "date": "29/10"
+    }
+  ],
   "Solar Coworking": [
     {
       "title": "DEMANDA: CARTÃO DE NATAL | SOLAR",
@@ -1486,16 +1520,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Configura-es-de-e-mail-3cd33d8db9d280e8b66aed24a04772c3",
       "gestora": "Equipe",
       "date": "04/09"
-    }
-  ],
-  "Plannea": [
-    {
-      "title": "Criar arte para grupo de whatsapp",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-arte-para-grupo-de-whatsapp-40533d8db9d280c39a34fc5f1be50abc",
-      "gestora": "Equipe",
-      "date": "29/10"
     }
   ],
   "Juntos contra o HPV": [
