@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/11/2026, 06:31:10 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/11/2026, 16:41:15 **/
 
-const LAST_UPDATE = '25/11/2026, 06:31:10';
+const LAST_UPDATE = '25/11/2026, 16:41:15';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,6 +1256,24 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "AAFEC": [
+    {
+      "title": "Revista 130",
+      "priority": "pppp",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Revista-130-42333d8db9d28068a1b6c0a5a3058683",
+      "gestora": "Equipe",
+      "date": "27/11"
+    },
+    {
+      "title": "Agenda de dezembro de 2026",
+      "priority": "p",
+      "rawStatus": "2. Falta informação",
+      "notionUrl": "https://app.notion.com/p/Agenda-de-dezembro-de-2026-41033d8db9d28042aaa5c7500446c74e",
+      "gestora": "Equipe",
+      "date": "27/11"
+    }
+  ],
   "Plannea": [
     {
       "title": "Arte Plannea Summit ",
@@ -1320,7 +1338,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartões de visita para brechós comunitários",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Cart-es-de-visita-para-brech-s-comunit-rios-41b33d8db9d280928b70c868f2cbdd47",
       "gestora": "Equipe",
       "date": "20/11"
@@ -1344,7 +1362,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Banners individuais para cada brechó comunitário",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. A enviar para aprovação",
       "notionUrl": "https://app.notion.com/p/Banners-individuais-para-cada-brech-comunit-rio-41a33d8db9d28051b545e61caa5f30a1",
       "gestora": "Equipe",
       "date": "20/11"
@@ -1360,10 +1378,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Tramix": [
     {
-      "title": "Arte para blusa de malha",
+      "title": "Camisa para fiscais de qualidade",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Arte-para-blusa-de-malha-41c33d8db9d280578055c309ef1da89e",
+      "rawStatus": "2. A enviar para aprovação",
+      "notionUrl": "https://app.notion.com/p/Camisa-para-fiscais-de-qualidade-41c33d8db9d280578055c309ef1da89e",
       "gestora": "Equipe",
       "date": "25T12:00:00.000/11"
     },
@@ -1468,34 +1486,6 @@ const DEMANDAS_EXTRAS = {
       "date": "09/09"
     }
   ],
-  "Grupo Mulheres do Brasil": [
-    {
-      "title": "Jornalistas | Corrida",
-      "priority": "pp",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Jornalistas-Corrida-41633d8db9d2804bb4a3ec199262f79f",
-      "gestora": "Equipe",
-      "date": "18/11"
-    },
-    {
-      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
-      "priority": "p",
-      "rawStatus": "2. Fazendo",
-      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
-      "gestora": "Equipe",
-      "date": "30/09"
-    }
-  ],
-  "AAFEC": [
-    {
-      "title": "Agenda de dezembro de 2026",
-      "priority": "p",
-      "rawStatus": "2. Falta informação",
-      "notionUrl": "https://app.notion.com/p/Agenda-de-dezembro-de-2026-41033d8db9d28042aaa5c7500446c74e",
-      "gestora": "Equipe",
-      "date": "27/11"
-    }
-  ],
   "Daniel Maia Advocacia": [
     {
       "title": "Atualização do portfólio",
@@ -1542,6 +1532,16 @@ const DEMANDAS_EXTRAS = {
       "date": "10/09"
     }
   ],
+  "Grupo Mulheres do Brasil": [
+    {
+      "title": "Estilização na foto das fundadoras do Núcleo Fortaleza",
+      "priority": "p",
+      "rawStatus": "2. Pausada",
+      "notionUrl": "https://app.notion.com/p/Estiliza-o-na-foto-das-fundadoras-do-N-cleo-Fortaleza-3ca33d8db9d2803cb9cbcc56de813f69",
+      "gestora": "Equipe",
+      "date": "30/09"
+    }
+  ],
   "APROSSEG": [
     {
       "title": "30 anos Aprosseg",
@@ -1583,6 +1583,7 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Solar Coworking": "marcada",
   "Univendas": "confirmada",
   "Finseg Leal": "confirmada",
   "Planos Seguros": "marcada",
@@ -1936,7 +1937,7 @@ const AGENDA_COUNTS = {
   },
   "Solar Coworking": {
     "reuniao": 0,
-    "producao": 0,
+    "producao": 1,
     "evento": 0
   }
 };
