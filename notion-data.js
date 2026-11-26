@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 25/11/2026, 16:41:15 **/
+/** AUTO-GENERATED DATA FROM NOTION - 25/11/2026, 23:34:42 **/
 
-const LAST_UPDATE = '25/11/2026, 16:41:15';
+const LAST_UPDATE = '25/11/2026, 23:34:42';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1276,7 +1276,7 @@ const DEMANDAS_EXTRAS = {
   ],
   "Plannea": [
     {
-      "title": "Arte Plannea Summit ",
+      "title": "Arte Plannea Summit",
       "priority": "p",
       "rawStatus": "1. A fazer",
       "notionUrl": "https://app.notion.com/p/Arte-Plannea-Summit-42233d8db9d280e883cbeb4fa1ee90eb",
