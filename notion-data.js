@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/11/2026, 08:45:19 **/
+/** AUTO-GENERATED DATA FROM NOTION - 26/11/2026, 17:46:11 **/
 
-const LAST_UPDATE = '26/11/2026, 08:45:19';
+const LAST_UPDATE = '26/11/2026, 17:46:11';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,6 +1256,16 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
+  "Finseg Leal": [
+    {
+      "title": "Card para Unimed Ceará e Unimed Allcare",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Card-para-Unimed-Cear-e-Unimed-Allcare-42433d8db9d2805db8eed305951fea96",
+      "gestora": "Equipe",
+      "date": "27/11"
+    }
+  ],
   "AAFEC": [
     {
       "title": "Revista 130",
@@ -1276,10 +1286,10 @@ const DEMANDAS_EXTRAS = {
   ],
   "Plannea": [
     {
-      "title": "Arte Plannea Summit",
+      "title": "Plannea Summit | Escala 5x2 | Convite",
       "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Arte-Plannea-Summit-42233d8db9d280e883cbeb4fa1ee90eb",
+      "rawStatus": "2. Em aprovação",
+      "notionUrl": "https://app.notion.com/p/Plannea-Summit-Escala-5x2-Convite-42233d8db9d280e883cbeb4fa1ee90eb",
       "gestora": "Equipe",
       "date": "25/11"
     },
@@ -1338,7 +1348,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Cartões de visita para brechós comunitários",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Cart-es-de-visita-para-brech-s-comunit-rios-41b33d8db9d280928b70c868f2cbdd47",
       "gestora": "Equipe",
       "date": "20/11"
@@ -1362,7 +1372,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Banners individuais para cada brechó comunitário",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Banners-individuais-para-cada-brech-comunit-rio-41a33d8db9d28051b545e61caa5f30a1",
       "gestora": "Equipe",
       "date": "20/11"
@@ -1380,7 +1390,7 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Camisa para fiscais de qualidade",
       "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Camisa-para-fiscais-de-qualidade-41c33d8db9d280578055c309ef1da89e",
       "gestora": "Equipe",
       "date": "25T12:00:00.000/11"
@@ -1388,13 +1398,13 @@ const DEMANDAS_EXTRAS = {
     {
       "title": "Banner para armarinho",
       "priority": "p",
-      "rawStatus": "2. Em aprovação",
+      "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Banner-para-armarinho-41633d8db9d2806eba12c3c3cb974d4a",
       "gestora": "Equipe",
       "date": "17/11"
     },
     {
-      "title": "Embalagens novas  ",
+      "title": "Embalagens novas",
       "priority": "p",
       "rawStatus": "2. Alterações a fazer",
       "notionUrl": "https://app.notion.com/p/Embalagens-novas-3ca33d8db9d2804d8a81e340f756a067",
