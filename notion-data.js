@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 27/11/2026, 09:53:26 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/11/2026, 18:45:33 **/
 
-const LAST_UPDATE = '27/11/2026, 09:53:26';
+const LAST_UPDATE = '27/11/2026, 18:45:33';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1256,21 +1256,11 @@ const LINHA_STORIES_ITEMS = {
 };
 
 const DEMANDAS_EXTRAS = {
-  "Finseg Leal": [
-    {
-      "title": "Card para Unimed Ceará e Unimed Allcare",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Card-para-Unimed-Cear-e-Unimed-Allcare-42433d8db9d2805db8eed305951fea96",
-      "gestora": "Equipe",
-      "date": "27/11"
-    }
-  ],
   "AAFEC": [
     {
       "title": "Revista 130",
       "priority": "pppp",
-      "rawStatus": "1. A fazer",
+      "rawStatus": "2. Em aprovação",
       "notionUrl": "https://app.notion.com/p/Revista-130-42333d8db9d28068a1b6c0a5a3058683",
       "gestora": "Equipe",
       "date": "27/11"
@@ -1430,64 +1420,6 @@ const DEMANDAS_EXTRAS = {
       "date": "20/11"
     }
   ],
-  "ItalaP": [
-    {
-      "title": "Designs para o tráfego pago #02",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Designs-para-o-tr-fego-pago-02-41633d8db9d280f4b11bd0edc21b11c9",
-      "gestora": "Equipe",
-      "date": "18/11"
-    },
-    {
-      "title": "Vídeo institucional - Formato horizontal",
-      "priority": "p",
-      "rawStatus": "2. A enviar para aprovação",
-      "notionUrl": "https://app.notion.com/p/V-deo-institucional-Formato-horizontal-41633d8db9d2801391edf5e29903f526",
-      "gestora": "Equipe",
-      "date": "17T11:00:00.000/11"
-    },
-    {
-      "title": "Panfleto institucional A5, frente e verso",
-      "priority": "p",
-      "rawStatus": "2. Em aprovação",
-      "notionUrl": "https://app.notion.com/p/Panfleto-institucional-A5-frente-e-verso-41633d8db9d2801aa2d9f98cfd6f8097",
-      "gestora": "Equipe",
-      "date": "17T11:00:00.000/11"
-    },
-    {
-      "title": "calendário 2027",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/calend-rio-2027-40e33d8db9d280c382ced6c33129f77d",
-      "gestora": "Equipe",
-      "date": "10/11"
-    },
-    {
-      "title": "Adicionar/atualizar as localizações no Google",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
-      "gestora": "Equipe",
-      "date": "18/09"
-    },
-    {
-      "title": "Criar um grupo com ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Criar-um-grupo-com-Sr-Agostinho-Pedro-Meireles-Danillo-S-rgio-e-Pedro-Paiva-para-contato-da-ag-n-3d633d8db9d28058b84ce33e6ad7ea83",
-      "gestora": "Equipe",
-      "date": "09/09"
-    },
-    {
-      "title": "Dar acesso do ",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
-      "gestora": "Equipe",
-      "date": "09/09"
-    }
-  ],
   "Daniel Maia Advocacia": [
     {
       "title": "Atualização do portfólio",
@@ -1532,6 +1464,24 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Narra-o-para-v-deo-sobre-casamentos-3d733d8db9d280a0b1efc9e91100c9f7",
       "gestora": "Equipe",
       "date": "10/09"
+    }
+  ],
+  "ItalaP": [
+    {
+      "title": "Adicionar/atualizar as localizações no Google",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
+      "gestora": "Equipe",
+      "date": "18/09"
+    },
+    {
+      "title": "Dar acesso do ",
+      "priority": "p",
+      "rawStatus": "1. A fazer",
+      "notionUrl": "https://app.notion.com/p/Dar-acesso-do-Notion-ao-Pedro-Paiva-3d633d8db9d2804483e6c5de997493d1",
+      "gestora": "Equipe",
+      "date": "09/09"
     }
   ],
   "Grupo Mulheres do Brasil": [
@@ -1585,10 +1535,10 @@ const DEMANDAS_EXTRAS = {
 };
 
 const CAPTACAO_DATA = {
+  "Planos Seguros": "marcada",
   "Solar Coworking": "marcada",
   "Univendas": "confirmada",
   "Finseg Leal": "confirmada",
-  "Planos Seguros": "marcada",
   "Conecta Assessoria": "marcada",
   "Hélio Rôla 90 Anos": "marcada",
   "AAFEC": "marcada",
@@ -1894,7 +1844,7 @@ const AGENDA_COUNTS = {
   },
   "Planos Seguros": {
     "reuniao": 2,
-    "producao": 1,
+    "producao": 2,
     "evento": 0
   },
   "Plannea": {
