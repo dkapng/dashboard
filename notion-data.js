@@ -1,6 +1,6 @@
-/** AUTO-GENERATED DATA FROM NOTION - 26/11/2026, 17:46:11 **/
+/** AUTO-GENERATED DATA FROM NOTION - 27/11/2026, 00:24:23 **/
 
-const LAST_UPDATE = '26/11/2026, 17:46:11';
+const LAST_UPDATE = '27/11/2026, 00:24:23';
 
 const GESTORAS = {
   "Lucas de Paula": [
@@ -1470,14 +1470,6 @@ const DEMANDAS_EXTRAS = {
       "notionUrl": "https://app.notion.com/p/Adicionar-atualizar-as-localiza-es-no-Google-das-unidades-postos-colocando-o-n-mero-da-central-3d633d8db9d280cc9bb1e880357b8dda",
       "gestora": "Equipe",
       "date": "18/09"
-    },
-    {
-      "title": "Panfleto e sugestões de conteúdo referentes aos atributos de valor da ItalaP",
-      "priority": "p",
-      "rawStatus": "1. A fazer",
-      "notionUrl": "https://app.notion.com/p/Panfleto-e-sugest-es-de-conte-do-referentes-aos-atributos-de-valor-da-ItalaP-3d633d8db9d280a79acfc6dacaefe818",
-      "gestora": "Equipe",
-      "date": "14/09"
     },
     {
       "title": "Criar um grupo com ",
